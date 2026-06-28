@@ -1,0 +1,2132 @@
+{
+  "full_name": "vuejs/vue",
+  "owner": "vuejs",
+  "name": "vue",
+  "url": "https://github.com/vuejs/vue",
+  "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+  "primary_language": "TypeScript",
+  "topics": [
+    "framework",
+    "frontend",
+    "javascript",
+    "vue"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 210038,
+  "forks": 33701,
+  "open_issues": 635,
+  "created_at": "2013-07-29T03:24:51Z",
+  "pushed_at": "2024-10-10T07:24:15Z",
+  "updated_at": "2026-06-28T08:30:14Z",
+  "commits": [
+    {
+      "sha": "9e88707940088cb1f4cd7dd210c9168a50dc347c",
+      "author_login": "Moriango",
+      "authored_at": "2024-10-10T07:24:14Z",
+      "message": "chore: fix spelling mistakes (#13216)"
+    },
+    {
+      "sha": "73486cb5f5862a443b42c2aff68b82320218cbcd",
+      "author_login": "xiaoxianBoy",
+      "authored_at": "2024-06-14T12:52:12Z",
+      "message": "chore: fix link broken (#13192)"
+    },
+    {
+      "sha": "e428d891456eeb6d34cfac070c423694dcda8806",
+      "author_login": "serious-angel",
+      "authored_at": "2024-05-21T07:51:55Z",
+      "message": "chore: browser compatibility table link (#13187)"
+    },
+    {
+      "sha": "bed04a77e575d6c4c1d903f60087dca874f7213e",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-31T13:22:32Z",
+      "message": "chore: update issue form [ci skip]"
+    },
+    {
+      "sha": "0191d50c31404afb730cd2a60f4500c20771f32f",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-31T09:32:08Z",
+      "message": "chore: eol readme (#13142)"
+    },
+    {
+      "sha": "cdcc4f0c667ca4166f87034c6105514ba7b004cc",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-24T15:13:43Z",
+      "message": "chore: release name for 2.7.16 [ci skip]"
+    },
+    {
+      "sha": "13f4e7dc03e2caed900ac70ff8b8fe58dda45663",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-24T15:02:07Z",
+      "message": "release: v2.7.16"
+    },
+    {
+      "sha": "56ce7f8c573116ed6683149206cf35c987249d42",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-24T14:40:05Z",
+      "message": "fix(lifecycle): esnure component effect scopes are disconnected"
+    },
+    {
+      "sha": "305e4ae9dce0a05a422b675ff555f17878e86063",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-14T01:28:08Z",
+      "message": "release: v2.7.16-beta.2"
+    },
+    {
+      "sha": "3e1037e4a0317fe78ae022e789afbbc9453b15eb",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-14T01:21:26Z",
+      "message": "chore: bump vitest to 1.0.4"
+    },
+    {
+      "sha": "db9c566032da0ec5cd758a3e8525e9733874c1e5",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-14T01:21:11Z",
+      "message": "fix: account for nested render calls"
+    },
+    {
+      "sha": "895669ffa01f8075a326308caa8ad6a5f69a1919",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-14T00:33:45Z",
+      "message": "fix(types): export more types for v3 alignment (jsx / component options)"
+    },
+    {
+      "sha": "73bdf14ef5c9979dcba18ede3410515cecbe2f2f",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-08T01:42:01Z",
+      "message": "release: v2.7.16-beta.1"
+    },
+    {
+      "sha": "e0747f40a879b4000a1959d21377b51d1f1ed988",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-07T09:07:15Z",
+      "message": "fix(keep-alive): fix memory leak without breaking transition tests"
+    },
+    {
+      "sha": "2632249925e632e56f6dfc8fdbcf682c82e4081b",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-07T08:12:36Z",
+      "message": "fix(keep-alive): fix keep-alive memory leak"
+    },
+    {
+      "sha": "3650c12f7d3a20f3155bc1fd2b068e84289e0d33",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-07T06:41:10Z",
+      "message": "fix(types): provide types for built-in components"
+    },
+    {
+      "sha": "83d95351a9f809311d624fc3398e7f6829b72447",
+      "author_login": "lsdsjy",
+      "authored_at": "2023-12-07T06:14:27Z",
+      "message": "fix(compiler-sfc): check template `ref` usage,  (#12985)"
+    },
+    {
+      "sha": "24fcf69624a633d43dfc0aa5fa6b93d11de7fad5",
+      "author_login": "xonx4l",
+      "authored_at": "2023-12-07T05:59:43Z",
+      "message": "fix(types): type VNodeChildren should allow type number  (#13067)"
+    },
+    {
+      "sha": "6d857f5bee275dc98106e3b2cbc7722f5ec0cfc0",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-06T16:13:31Z",
+      "message": "fix(watch): new property addition should trigger deep watcher with getter"
+    },
+    {
+      "sha": "a174c29dab2cf655b06f7870e0ac5a78ef35ec8a",
+      "author_login": "simlevesque",
+      "authored_at": "2023-12-06T15:51:56Z",
+      "message": "fix(types): fix shallowRef's return type  (#12979)"
+    },
+    {
+      "sha": "f5ef882a781b8a62c9ca00e95006d07636567c8e",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-06T15:17:02Z",
+      "message": "fix(style): always set new styles"
+    },
+    {
+      "sha": "d6468c4c383184acd66f3c9091005e83836a43f3",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-06T09:29:47Z",
+      "message": "chore(deps): bump esbuild"
+    },
+    {
+      "sha": "25f97a5033187372e7b8c591c79336197ee5c833",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-06T09:25:12Z",
+      "message": "fix(compiler-sfc): fix rewriteDefault edge cases"
+    },
+    {
+      "sha": "10c2a87c7038f2f80df23044c48a130bea253bf8",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-06T08:48:30Z",
+      "message": "chore(deps): bump @babel/parser"
+    },
+    {
+      "sha": "ae3e4b1c706b8d61a4a312ca5d23441df021b4b4",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-06T08:38:16Z",
+      "message": "fix(utils): unwrap refs when stringifying values in template"
+    },
+    {
+      "sha": "de0b97b3eadae120eda505b45df2de2115dcb6f0",
+      "author_login": "thebanjomatic",
+      "authored_at": "2023-12-06T07:52:18Z",
+      "message": "fix(types): fix type augmentation and compiler-sfc types w/moduleResolution: bundler (#13107)"
+    },
+    {
+      "sha": "45d6ad6645e960a3ee52ad9667520a1625f10dfd",
+      "author_login": "ShGKme",
+      "authored_at": "2023-12-06T07:49:41Z",
+      "message": "chore(compiler-sfc): specify prettier version (#13053)"
+    },
+    {
+      "sha": "0ad8e8d94f3a3bf4429f25850c85a6bbb2b81364",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-06T07:45:15Z",
+      "message": "fix(shallowReactive): should track value if already reactive when set in shallowReactive"
+    },
+    {
+      "sha": "d30f6fd25f90973a84fadb43eef75a54c4b42ea2",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-06T07:21:00Z",
+      "message": "test: fix tests"
+    },
+    {
+      "sha": "08382f008016c3b3b93f84594266f2e191fee91d",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-06T07:10:49Z",
+      "message": "fix(props): should not unwrap props that are raw refs"
+    },
+    {
+      "sha": "947993f7e8e445b9032dd59d7f484593c3174452",
+      "author_login": "yyx990803",
+      "authored_at": "2023-12-06T07:08:23Z",
+      "message": "chore: bump vitest to 1.0"
+    },
+    {
+      "sha": "223a9e9f2ecf013e6ee5dbf98cbaa8cadf9daf50",
+      "author_login": "yyx990803",
+      "authored_at": "2023-11-07T07:32:23Z",
+      "message": "chore: bust sponsor cache [ci skip]"
+    },
+    {
+      "sha": "81598ea2f3bdbc81ae50f2fa9b9e547efc6b6261",
+      "author_login": "yyx990803",
+      "authored_at": "2023-10-23T07:55:40Z",
+      "message": "release: v2.7.15"
+    },
+    {
+      "sha": "af9a10f3c1340b85f8d5aa300c478f2f1cdf5f1d",
+      "author_login": "yyx990803",
+      "authored_at": "2023-10-23T07:15:18Z",
+      "message": "chore: update snapshots"
+    },
+    {
+      "sha": "c22363425ae246ccbb8418342e94edfa270d93e5",
+      "author_login": "xiaodemen",
+      "authored_at": "2023-10-23T07:11:13Z",
+      "message": "fix(patch): clone insert hooks to avoid being mutated during iteration (#12905)"
+    },
+    {
+      "sha": "51fef2ca69459c1175e105991f60511f1996e0c8",
+      "author_login": "liulinboyi",
+      "authored_at": "2023-10-23T07:09:23Z",
+      "message": "fix(compiler-sfc): add semicolon after `defineProps` statement (#12879)"
+    },
+    {
+      "sha": "b8c8b3fc7a211744fdabd237a1a986a1f80b7c43",
+      "author_login": "webfansplz",
+      "authored_at": "2023-10-23T07:08:58Z",
+      "message": "fix(compiler-sfc): Resolve object expression parsing errors in `v-on` (#12862)"
+    },
+    {
+      "sha": "d27c128b7cb1640f3aa185a5ecdea4ff35763794",
+      "author_login": "webfansplz",
+      "authored_at": "2023-10-23T07:08:34Z",
+      "message": "fix(compiler-sfc): fix macro usage in multi-variable declaration (#12873)"
+    },
+    {
+      "sha": "bb59751dd4e45afcaafd607f22505a724b1ef841",
+      "author_login": "webfansplz",
+      "authored_at": "2023-10-23T07:08:17Z",
+      "message": "fix(compiler-sfc): Optimize the value of emitIdentifier (#12851)"
+    },
+    {
+      "sha": "099401e227fd5ed496ff615528d1a9b3b64d4fbf",
+      "author_login": "webfansplz",
+      "authored_at": "2023-10-23T07:06:28Z",
+      "message": "fix(types/sfc): improve the type inference using `withDefaults` (#12872)"
+    },
+    {
+      "sha": "67c1d26cb0af3eb2db0a11fc7768a8299e7f7d58",
+      "author_login": "xonx4l",
+      "authored_at": "2023-10-23T06:58:47Z",
+      "message": "fix(types): correct serverPrefetch this type (#13068)"
+    },
+    {
+      "sha": "74ca5a13ba12a31580f1567e7c6d789e96730e46",
+      "author_login": "gcaaa31928",
+      "authored_at": "2023-10-22T02:52:10Z",
+      "message": "fix(lifecycle): scope might changed when call hook (#13070)"
+    },
+    {
+      "sha": "1399ee6aa0aa3e44a70780cfd0aca3d384c97fa4",
+      "author_login": "yyx990803",
+      "authored_at": "2023-10-22T02:46:45Z",
+      "message": "test: pin esbuild to 0.16 for karma-esbuild compat"
+    },
+    {
+      "sha": "78ef6271d237e83fbd647567f2b79a5786f09d3d",
+      "author_login": "yyx990803",
+      "authored_at": "2023-10-22T02:32:47Z",
+      "message": "test: upgrade vitest + fix ssr tests for Node 18+"
+    },
+    {
+      "sha": "6149048ce95bda9be7c14abed45859b743842ce7",
+      "author_login": "yyx990803",
+      "authored_at": "2023-10-22T01:47:16Z",
+      "message": "chore: update node version task name"
+    },
+    {
+      "sha": "18cc5479f6d654052ded0ab3ba755656f72747f0",
+      "author_login": "yyx990803",
+      "authored_at": "2023-10-22T01:40:18Z",
+      "message": "chore: bump required node and pnpm versions for maintenance"
+    },
+    {
+      "sha": "49b6bd4264c25ea41408f066a1835f38bf6fe9f1",
+      "author_login": "mikoloism",
+      "authored_at": "2023-04-27T09:43:19Z",
+      "message": "refactor(shared): update `genStaticKeys` (#13010)"
+    },
+    {
+      "sha": "a9ca2d85193e435e668ba25ace481bfb176b0c6e",
+      "author_login": "rj1",
+      "authored_at": "2023-02-04T18:16:38Z",
+      "message": "chore: typos (#12949)"
+    },
+    {
+      "sha": "d52fbff7a77d8d9c032a74a21c34e2c122add5d9",
+      "author_login": "huxinfeng",
+      "authored_at": "2023-01-12T14:47:00Z",
+      "message": "chore: fix typo in utils.ts (#12927) [skip ci]"
+    },
+    {
+      "sha": "0e8511a8becf627e00443bd799dd99e5fd1b8a35",
+      "author_login": "kwarabei",
+      "authored_at": "2022-12-27T21:38:05Z",
+      "message": "chore: fix typo in apiAsyncComponent.ts (#12912)"
+    },
+    {
+      "sha": "34c6192f4a5d0471da5655ebcf111653fd920172",
+      "author_login": "Arhell",
+      "authored_at": "2022-12-27T09:19:37Z",
+      "message": "chore: update links (http=https) (#12911)"
+    },
+    {
+      "sha": "2e570617666983ababcfd167dfa50208f5dfd45a",
+      "author_login": "FlyingCaiChong",
+      "authored_at": "2022-12-14T08:43:02Z",
+      "message": "chore: comment typos (#12878)"
+    },
+    {
+      "sha": "ca11dc6a86f26accc893c1ce5b611dc84a2e7c2d",
+      "author_login": "yuhang-dong",
+      "authored_at": "2022-12-06T14:35:28Z",
+      "message": "chore: fix typo (#12894)"
+    },
+    {
+      "sha": "9dd006b481b4299462e044741bac0861c0b1775c",
+      "author_login": "yyx990803",
+      "authored_at": "2022-11-09T12:39:52Z",
+      "message": "release: v2.7.14"
+    },
+    {
+      "sha": "29b5f588032600baae9854ac9a4105916a5aa648",
+      "author_login": "yyx990803",
+      "authored_at": "2022-11-09T12:33:05Z",
+      "message": "fix(reactivity): avoid using WeakMap for IE compatibility"
+    },
+    {
+      "sha": "d1899caf688de961e63e7a0d56f806fc4a12efd9",
+      "author_login": "yyx990803",
+      "authored_at": "2022-11-09T12:04:25Z",
+      "message": "fix(provide/inject): do not mutate original provide options during merge"
+    },
+    {
+      "sha": "5e3d4e90cdf92ec0a72bbb2bd44125f1faafae1d",
+      "author_login": "a161803398",
+      "authored_at": "2022-11-09T09:52:35Z",
+      "message": "fix(compiler-sfc): fix template usage check edge case for v-slot destructured default value (#12842)"
+    },
+    {
+      "sha": "5aed733ab6b6605314cc5f24cc1b1dd9aa4413c8",
+      "author_login": "yyx990803",
+      "authored_at": "2022-11-09T09:35:45Z",
+      "message": "test: add test case for #12778"
+    },
+    {
+      "sha": "f7db7f361b6356591781b9f33abbb0d5b7f9b97c",
+      "author_login": "k-furusho",
+      "authored_at": "2022-11-09T09:34:55Z",
+      "message": "fix(types): fix spreading VNodeData in tsx (#12789)"
+    },
+    {
+      "sha": "0b3cf7dda9ac605b2b9f799acacd2793e974f225",
+      "author_login": "webfansplz",
+      "authored_at": "2022-11-09T09:25:28Z",
+      "message": "fix(types): stricter type condition for `EventHandlers` (#12840)"
+    },
+    {
+      "sha": "a5afc4d0a4bfb9a777ac39b942edb932aad71097",
+      "author_login": "webfansplz",
+      "authored_at": "2022-11-09T08:07:36Z",
+      "message": "chore: fix typo (#12863)"
+    },
+    {
+      "sha": "6d9aac8bd38f6d30a6db70b51fa46f27cbeac559",
+      "author_login": "Jinjiang",
+      "authored_at": "2022-10-19T04:45:59Z",
+      "message": "chore: fix some broken links to v2 docs (#12839)"
+    },
+    {
+      "sha": "a7a71ad99071c8c48ae9c106a19f81e70ded4898",
+      "author_login": "Jinjiang",
+      "authored_at": "2022-10-16T12:13:22Z",
+      "message": "Update the dev to main in the PR template (#12834)"
+    },
+    {
+      "sha": "259c7060da72ea3040fc8c3de4ecb823ad5059f4",
+      "author_login": "yyx990803",
+      "authored_at": "2022-10-15T09:39:04Z",
+      "message": "chore: fix changelog rendering [ci skip]"
+    },
+    {
+      "sha": "df281b0e4c400be18df8bcf4e83df8b25a81e21b",
+      "author_login": "yyx990803",
+      "authored_at": "2022-10-14T03:41:56Z",
+      "message": "release: v2.7.13"
+    },
+    {
+      "sha": "800207c473c7d6dfcdc883100a3d443fc5ad2e39",
+      "author_login": "yyx990803",
+      "authored_at": "2022-10-14T02:51:07Z",
+      "message": "fix(effectScope): calling off() of a detached scope should not break currentScope"
+    },
+    {
+      "sha": "5960f05c69099c174062b6672c7a21d717a3bccf",
+      "author_login": "nooooooom",
+      "authored_at": "2022-10-12T13:25:26Z",
+      "message": "fix(watch): avoid traversing objects that are marked non-reactive (#12806)"
+    },
+    {
+      "sha": "8e262618cdc3251ca9630b17de4a000567ffb007",
+      "author_login": "blake-newman",
+      "authored_at": "2022-10-12T13:24:26Z",
+      "message": "fix(types): style attribute svg (#12800)"
+    },
+    {
+      "sha": "4cad41007174a7eeebf4472ddbd7b3b693db03f1",
+      "author_login": "yyx990803",
+      "authored_at": "2022-10-12T13:41:36Z",
+      "message": "release: v2.7.12"
+    },
+    {
+      "sha": "e80cd09fff570df57d608f8f5aaccee6d7f31917",
+      "author_login": "yyx990803",
+      "authored_at": "2022-10-12T13:22:26Z",
+      "message": "Revert \"fix(setup): setup hook should be called before beforeCreate\""
+    },
+    {
+      "sha": "c61395d3f1ed926d2783d8460970ed20ea01dc4f",
+      "author_login": "yyx990803",
+      "authored_at": "2022-10-11T11:13:06Z",
+      "message": "release: v2.7.11"
+    },
+    {
+      "sha": "8880b55d52f8d873f79ef67436217c8752cddef5",
+      "author_login": "yyx990803",
+      "authored_at": "2022-10-11T11:02:47Z",
+      "message": "perf: improve unsub perf for deps with massive amount of subs"
+    },
+    {
+      "sha": "738f4b3c570dc3a1818924a203a9f8e4b1ec90f0",
+      "author_login": "yyx990803",
+      "authored_at": "2022-10-11T09:51:46Z",
+      "message": "fix(build): enforce LF line ending in built files"
+    },
+    {
+      "sha": "cc14d4452c66e90341b7f9a5cdd2b7acffa529e9",
+      "author_login": "yyx990803",
+      "authored_at": "2022-10-11T09:39:59Z",
+      "message": "chore: bump build deps"
+    },
+    {
+      "sha": "e1342df7847a51c75192fec74e94378178e046b0",
+      "author_login": "yyx990803",
+      "authored_at": "2022-10-11T08:23:08Z",
+      "message": "fix(setup): setup hook should be called before beforeCreate"
+    },
+    {
+      "sha": "0d6d972b32521fd18eb853b1073c0a19859a499a",
+      "author_login": "yyx990803",
+      "authored_at": "2022-10-11T06:58:24Z",
+      "message": "fix(compiler-sfc): export parseComponent for compat with fork-ts-checker-webpack-plugin"
+    },
+    {
+      "sha": "bc5b92adde147436f2adb25e457f0c967829467f",
+      "author_login": "wfk007",
+      "authored_at": "2022-10-11T06:43:33Z",
+      "message": "fix(types): fix error with options watch (#12779)"
+    },
+    {
+      "sha": "fb1393009660b38046b1f6dfb532b481cc53b3b7",
+      "author_login": "yyx990803",
+      "authored_at": "2022-10-11T06:09:10Z",
+      "message": "fix(sfc): prune returned bindings for non-TS as well"
+    },
+    {
+      "sha": "87f69aa26f195390b948fbb0ff62cf954b58c82c",
+      "author_login": "shiluo34",
+      "authored_at": "2022-10-11T05:36:50Z",
+      "message": "fix(types): support Ref and function types in tsx ref attribute (#12759)"
+    },
+    {
+      "sha": "5d26f815c643d41e6ca6f29329593223b981fc24",
+      "author_login": "gilnatab",
+      "authored_at": "2022-10-11T05:26:20Z",
+      "message": "fix(reactivity): check skip first before checking ref when creating observer (#12813)"
+    },
+    {
+      "sha": "4a0d88e46e4180edc7f22e36c25df3f8ac5d60d2",
+      "author_login": "yyx990803",
+      "authored_at": "2022-10-11T04:26:19Z",
+      "message": "fix(reactivity): use WeakMap for proxy/raw checks, compat with non-extensible objects"
+    },
+    {
+      "sha": "27eed829ccf9978a63b8cd989ff4c03897276bc2",
+      "author_login": "xiaoxiangmoe",
+      "authored_at": "2022-10-11T03:51:05Z",
+      "message": "fix(types): vue 3 directive type compatibility (#12792)"
+    },
+    {
+      "sha": "2f335b2f9d09b962f40e38740826d444e4fff073",
+      "author_login": "yyx990803",
+      "authored_at": "2022-10-11T03:41:31Z",
+      "message": "fix(sfc): remove sfc scoped deep syntax deprecation warnings"
+    },
+    {
+      "sha": "60d268c4261a0b9c5125f308468b31996a8145ad",
+      "author_login": "yyx990803",
+      "authored_at": "2022-09-01T06:31:31Z",
+      "message": "chore: cache bust svg [ci skip]"
+    },
+    {
+      "sha": "d189b4beaa90b9fe58fd3f66ba9e09d340755196",
+      "author_login": "yyx990803",
+      "authored_at": "2022-09-01T06:30:09Z",
+      "message": "chore: special sponsor [ci skip]"
+    },
+    {
+      "sha": "ee57d9fd1d51abe245c6c37e6f8f2d45977b929e",
+      "author_login": "yyx990803",
+      "authored_at": "2022-08-23T01:29:42Z",
+      "message": "release: v2.7.10"
+    },
+    {
+      "sha": "e0b26c483a1ba407a818b1fcba1a439df24e84a8",
+      "author_login": "nooooooom",
+      "authored_at": "2022-08-23T01:22:45Z",
+      "message": "fix: fix parent of multi-nested HOC $el not updating (#12757)"
+    },
+    {
+      "sha": "46ca7bcddc06c50796ccff82d8c45693f1f14f47",
+      "author_login": "yyx990803",
+      "authored_at": "2022-08-23T01:18:36Z",
+      "message": "fix(compiler-sfc): avoid deindent when lang is jsx/tsx"
+    },
+    {
+      "sha": "810f6d12edea47cde7f39eaf7ec3ae1b7300d40c",
+      "author_login": "sandersn",
+      "authored_at": "2022-08-22T02:28:39Z",
+      "message": "fix(types): Add missing type parameter constraints (#12754)"
+    },
+    {
+      "sha": "15618888cb6aae2b6f0151b32c261b1fc19db1b8",
+      "author_login": "yyx990803",
+      "authored_at": "2022-08-19T04:27:12Z",
+      "message": "release: v2.7.9"
+    },
+    {
+      "sha": "8521f9d3f63d26bde99b747f0cb14d0ac5ba5971",
+      "author_login": "yyx990803",
+      "authored_at": "2022-08-19T04:22:51Z",
+      "message": "fix(types): fix missing error for accessing undefined instance properties"
+    },
+    {
+      "sha": "7161176cd0dff10d65ab58e266018aff2660610f",
+      "author_login": "yyx990803",
+      "authored_at": "2022-08-18T10:14:50Z",
+      "message": "fix: fix effect scope tracking for manually created instances"
+    },
+    {
+      "sha": "165a14a6c6c406176037465d2961259c5c980399",
+      "author_login": "TheAlexLichter",
+      "authored_at": "2022-08-18T08:22:55Z",
+      "message": "fix(ssr): fix on-component directives rendering (#12661)"
+    },
+    {
+      "sha": "bba6b3d6b4e3e26d28abbf20e74ec2f3e64f1a92",
+      "author_login": "nooooooom",
+      "authored_at": "2022-08-18T08:20:27Z",
+      "message": "feat(types): enhance type for onErrorCaptured (#12735)"
+    },
+    {
+      "sha": "9eb8ea5b63eec2b09f268738e9d0e311d9eafb19",
+      "author_login": "Justineo",
+      "authored_at": "2022-08-18T08:12:20Z",
+      "message": "chore: fix some legacy doc urls in warnings and readme (#12725) [ci skip]"
+    },
+    {
+      "sha": "2263948c249e7486403bc5880712e6d9fd15c17f",
+      "author_login": "JuniorTour",
+      "authored_at": "2022-08-18T08:11:47Z",
+      "message": "fix: directives shorthand normalize error (#12744)"
+    },
+    {
+      "sha": "5221d4d3b6049c87d196d99dbb64bcd3f3b07279",
+      "author_login": "linshuohao",
+      "authored_at": "2022-08-18T08:01:00Z",
+      "message": "fix(compiler-sfc): rewriteDefault for class with decorators (#12747)"
+    },
+    {
+      "sha": "89a6b5e8658a6e3ae2cf649829901784ac9deb3c",
+      "author_login": "gulewei",
+      "authored_at": "2022-08-18T07:56:37Z",
+      "message": "feat(types): support mixins inference for new Vue() (#12737)"
+    },
+    {
+      "sha": "b4bf4c52ad31e02307cfd4d643dc5610c893e3ba",
+      "author_login": "yyx990803",
+      "authored_at": "2022-08-18T07:32:12Z",
+      "message": "fix(types): allow attaching unknown options to defined component"
+    },
+    {
+      "sha": "80d1baf92050da411fb1bfe714401c498001dd36",
+      "author_login": "yyx990803",
+      "authored_at": "2022-08-18T07:23:47Z",
+      "message": "feat(types): export DefineComponent"
+    }
+  ],
+  "issues": [
+    {
+      "number": 13374,
+      "title": "added message",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-20T20:41:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13373,
+      "title": " fix inject usage warning to include key (fix #13287)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-17T13:58:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13372,
+      "title": "fix(props): include prop name in \"not a constructor\" type warning",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-16T15:41:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13371,
+      "title": "fix(hydration): use warn() instead of console.warn for hydration mismatch",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-16T15:40:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13370,
+      "title": "fix(error-handling): prevent infinite recursion when errorHandler throws",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-16T15:40:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13369,
+      "title": "perf(observer): add early return in Dep.notify() when subs is empty",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-16T15:40:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13368,
+      "title": "fix(inject): include key name in inject() warning when called outside setup",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-16T15:39:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13363,
+      "title": "Implement build-time component dependency analysis with automatic optimization recommendations",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-09T04:29:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13362,
+      "title": "Add internationalization (i18n) primitives with pluralization and date/currency formatting",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-09T04:29:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13361,
+      "title": "Implement component composition analysis tool for detecting reusability patterns and anti-patterns",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-09T04:28:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13360,
+      "title": "Add state management persistence layer with automatic hydration and versioning",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-09T04:28:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13359,
+      "title": "Implement reactive form validation system with automatic field-level error handling",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-09T04:28:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13358,
+      "title": "added message",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-04T12:47:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13352,
+      "title": "GIT42 flyby: Vue's civilization (don't panic)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-18T04:11:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13351,
+      "title": "Protect vue from AI slop PRs",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-05-13T07:54:53Z",
+      "closed_at": "2026-05-13T08:43:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13350,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-12T15:09:25Z",
+      "closed_at": "2026-05-12T15:12:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13349,
+      "title": "fix(observer): warn if  is used on an existing property",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-12T09:47:42Z",
+      "closed_at": "2026-05-13T06:27:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13348,
+      "title": "fix(compiler): warn if interpolation is used in slot name",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-12T09:44:19Z",
+      "closed_at": "2026-05-13T06:27:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13347,
+      "title": "fix(compiler): warn if colon shorthand is used on v-if/v-html/etc.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-12T09:38:13Z",
+      "closed_at": "2026-05-13T06:27:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13346,
+      "title": "pull",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-07T03:56:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13345,
+      "title": "Revert changes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-07T03:52:17Z",
+      "closed_at": "2026-05-07T03:56:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13344,
+      "title": ".2385318931605690:025bacce569318461522979c69401de3_69f72c96eb4415a9574e62f0.69f72eadeb4415a9574e62fc.69f72eac6c44c20fcd398c4c:Trae CN.T(2026/5/3 19:17:01)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-03T11:36:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13343,
+      "title": "fix(compiler): avoid empty if() guard for .exact with all sys modifiers",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-23T03:01:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13342,
+      "title": ".4062073974432528:3906f3676a6133f6e287728eb66cdc83_69e846fb1ffbb16c7ee08be6.69e85e8c1ffbb16c7ee08d91.69e85e8b6798bf44ff19d883:Trae CN.T(2026/4/22 13:37:16)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-22T05:52:35Z",
+      "closed_at": "2026-04-22T11:04:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13341,
+      "title": ".4062073974432528:bf3abd146f59f418e2a8a4c07835a22b_69e846fb1ffbb16c7ee08be6.69e84a001ffbb16c7ee08c13.69e84a006798bf44ff19d882:Trae CN.T(2026/4/22 12:09:36)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-22T05:11:28Z",
+      "closed_at": "2026-04-22T11:04:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13340,
+      "title": "fix(vdom): fix memory leak in functional components (#13212)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-20T23:43:04Z",
+      "closed_at": "2026-04-20T23:47:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13339,
+      "title": "fix(vdom): fix memory leak in functional components (#13212)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-20T23:40:58Z",
+      "closed_at": "2026-04-20T23:42:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13338,
+      "title": "test: fix typo in readonly compatibility test name",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-20T21:12:33Z",
+      "closed_at": "2026-04-21T02:37:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13337,
+      "title": "fix(vdom): fix memory leak in functional components (#13212)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-20T04:40:32Z",
+      "closed_at": "2026-04-20T23:42:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13335,
+      "title": "Add greeting message to README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-12T15:06:22Z",
+      "closed_at": "2026-04-12T23:51:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13329,
+      "title": "docs: Add Chinese README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-29T12:11:26Z",
+      "closed_at": "2026-03-30T00:16:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13328,
+      "title": "Add greeting message to README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-29T02:06:24Z",
+      "closed_at": "2026-03-29T02:06:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13325,
+      "title": "fix(compiler): prevent syntax error when using exact with all system modifiers",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-16T12:42:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13324,
+      "title": "Closed by author",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-06T15:15:47Z",
+      "closed_at": "2026-03-06T16:01:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13322,
+      "title": "Test/forking example",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-22T08:38:53Z",
+      "closed_at": "2026-02-22T08:39:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13320,
+      "title": "Fix #13104: Vue 2.7 strictTemplates error",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-21T05:08:34Z",
+      "closed_at": "2026-03-19T16:23:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13319,
+      "title": "Fix #12319: .exact modifier : Failed to generate render function",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-21T05:00:18Z",
+      "closed_at": "2026-03-19T16:23:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13318,
+      "title": "added message ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-20T20:29:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13317,
+      "title": "Add greeting to README",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-20T00:12:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13311,
+      "title": "Add greeting to README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-06T21:59:14Z",
+      "closed_at": "2026-02-06T22:01:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13309,
+      "title": "[Medium] Race Condition in vue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-05T17:07:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13308,
+      "title": "[High] Memory Leak in vue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-05T17:07:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13307,
+      "title": "Fix memory leak in functional components by tearing down render watchers",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-03T16:27:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13305,
+      "title": "Developer Tools Integration: JSON Formatter for Vue.js Developers",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-03T03:39:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13304,
+      "title": "mm",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-01-24T23:22:55Z",
+      "closed_at": "2026-01-24T23:24:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13299,
+      "title": "fix: preserve nested pre whitespace",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-14T04:34:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13298,
+      "title": "fix: merge reactive inject from provide mixins",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-12T07:13:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13297,
+      "title": "fix: keep forwarded scoped slots updating",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-12T05:40:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13296,
+      "title": "feat: add equals option to watch",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-12T04:28:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13295,
+      "title": "fix: avoid recursive error handling",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-12T04:09:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13293,
+      "title": "Feature 1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-12-04T06:04:43Z",
+      "closed_at": "2025-12-04T06:05:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13292,
+      "title": "fix(scheduler): add missing type annotation to callActivatedHooks",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-02T04:23:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13291,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-28T19:26:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13290,
+      "title": "fix(v3): include key in inject() warning message",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-27T06:52:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13289,
+      "title": "docs: make README top-level H1 to satisfy markdownlint",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-12T05:07:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13288,
+      "title": "chore(warn): include key name in inject() usage warning",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-11-09T13:22:15Z",
+      "closed_at": "2026-02-25T06:44:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13287,
+      "title": "improve the warning in `inject`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-07T00:59:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13286,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-04T14:47:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13285,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-10-22T02:59:22Z",
+      "closed_at": "2026-04-24T23:32:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13283,
+      "title": "nkubito editing forks readme",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-09T09:26:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13282,
+      "title": "Update README.md by forking",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-10-05T15:05:00Z",
+      "closed_at": "2025-12-18T09:10:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13281,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-10-02T11:54:09Z",
+      "closed_at": "2025-10-02T11:54:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13278,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-09-12T15:27:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13277,
+      "title": "Added message",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-09-05T13:56:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13276,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-09-04T07:51:45Z",
+      "closed_at": "2025-09-04T07:52:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13275,
+      "title": "Added message",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-09-04T07:17:37Z",
+      "closed_at": "2026-01-07T22:59:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13274,
+      "title": "added message",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-08-29T18:33:20Z",
+      "closed_at": "2025-08-29T18:38:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13273,
+      "title": "added message",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-08-28T19:18:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13272,
+      "title": "Add greeting message to README",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-08-28T15:52:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13271,
+      "title": "Create SECURITY.md for security policy and reporting",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-08-24T04:21:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13269,
+      "title": "Added message Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-08-15T13:11:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13268,
+      "title": "added messgae",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-31T08:37:21Z",
+      "closed_at": "2026-01-22T14:50:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13267,
+      "title": "Hi there",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-27T00:54:42Z",
+      "closed_at": "2025-07-27T14:06:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13266,
+      "title": "Added message",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-24T08:27:14Z",
+      "closed_at": "2025-07-27T14:06:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13265,
+      "title": "added message",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-20T02:36:50Z",
+      "closed_at": "2025-07-20T02:40:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13264,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-20T02:28:07Z",
+      "closed_at": "2025-07-20T02:40:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13263,
+      "title": "replace lodash with es-toolkit in vue-server-renderer for modern utility and safer maintenance",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-07-17T09:30:45Z",
+      "closed_at": "2025-07-24T08:14:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13262,
+      "title": "added message",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-14T11:11:39Z",
+      "closed_at": "2025-07-14T11:19:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13261,
+      "title": "Just for demo purpose. I will delete this.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-12T07:12:38Z",
+      "closed_at": "2025-07-12T07:14:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13260,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-08T14:43:07Z",
+      "closed_at": "2025-07-08T14:49:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13259,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-04T10:04:04Z",
+      "closed_at": "2025-07-04T10:09:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13257,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-06-21T15:49:13Z",
+      "closed_at": "2025-06-22T01:31:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13256,
+      "title": "added message",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-06-19T19:53:09Z",
+      "closed_at": "2025-06-20T06:38:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13254,
+      "title": "Master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-06-03T23:04:05Z",
+      "closed_at": "2025-06-03T23:04:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13253,
+      "title": "Improve code clarity and consistency through minor refinements",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-05-27T01:20:29Z",
+      "closed_at": "2025-05-27T01:36:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13252,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-05-16T05:01:14Z",
+      "closed_at": "2025-05-16T05:06:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13251,
+      "title": "added massage",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-05-11T10:35:46Z",
+      "closed_at": "2025-05-11T10:47:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13250,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-05-10T19:00:34Z",
+      "closed_at": "2025-05-10T22:58:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13249,
+      "title": "123",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-05-08T15:41:24Z",
+      "closed_at": "2025-05-08T15:55:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13248,
+      "title": "Update README.md by Adi",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-04-16T13:31:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13247,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-04-15T22:17:44Z",
+      "closed_at": "2025-04-15T22:20:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13246,
+      "title": "chore: fix typo",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-04-11T17:28:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13245,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-03-24T07:23:26Z",
+      "closed_at": "2025-03-24T08:34:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13243,
+      "title": "自定义事件冒泡问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-03-15T16:22:22Z",
+      "closed_at": "2025-03-17T05:39:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13242,
+      "title": "Custom equality for watch",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-15T14:19:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13241,
+      "title": "Custom error handler causing recursive error handling leading to Maximum call stack size exceeded error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-14T03:44:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13240,
+      "title": "Vue-specific attributes are invalid html",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-03-07T18:10:11Z",
+      "closed_at": "2025-03-09T10:45:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13239,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-03-05T09:54:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13238,
+      "title": "v-if and v-else on same element has inconsistent (or undocumented) behaviour",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-02-28T10:54:23Z",
+      "closed_at": "2025-03-05T15:25:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13237,
+      "title": "Bug: Controlled components can lead to an inconsistent state between Vue and DOM",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-02-27T13:53:19Z",
+      "closed_at": "2025-03-03T16:54:37Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "yyx990803",
+      "contributions": 2583
+    },
+    {
+      "login": "vue-bot",
+      "contributions": 113
+    },
+    {
+      "login": "Hanks10100",
+      "contributions": 47
+    },
+    {
+      "login": "posva",
+      "contributions": 43
+    },
+    {
+      "login": "defcc",
+      "contributions": 37
+    },
+    {
+      "login": "kazupon",
+      "contributions": 32
+    },
+    {
+      "login": "pikax",
+      "contributions": 27
+    },
+    {
+      "login": "ktsn",
+      "contributions": 25
+    },
+    {
+      "login": "HerringtonDarkholme",
+      "contributions": 25
+    },
+    {
+      "login": "javoski",
+      "contributions": 23
+    },
+    {
+      "login": "dependabot[bot]",
+      "contributions": 20
+    },
+    {
+      "login": "Jinjiang",
+      "contributions": 16
+    },
+    {
+      "login": "jkzing",
+      "contributions": 15
+    },
+    {
+      "login": "gebilaoxiong",
+      "contributions": 15
+    },
+    {
+      "login": "Kingwl",
+      "contributions": 15
+    },
+    {
+      "login": "blake-newman",
+      "contributions": 12
+    },
+    {
+      "login": "phanan",
+      "contributions": 11
+    },
+    {
+      "login": "S-YOU",
+      "contributions": 11
+    },
+    {
+      "login": "Justineo",
+      "contributions": 11
+    },
+    {
+      "login": "chrisvfritz",
+      "contributions": 11
+    },
+    {
+      "login": "clarkdo",
+      "contributions": 11
+    },
+    {
+      "login": "haoqunjiang",
+      "contributions": 9
+    },
+    {
+      "login": "dwelch2344",
+      "contributions": 8
+    },
+    {
+      "login": "KaelWD",
+      "contributions": 8
+    },
+    {
+      "login": "webfansplz",
+      "contributions": 8
+    },
+    {
+      "login": "HcySunYang",
+      "contributions": 8
+    },
+    {
+      "login": "shasharoman",
+      "contributions": 5
+    },
+    {
+      "login": "dsonet",
+      "contributions": 5
+    },
+    {
+      "login": "imyzf",
+      "contributions": 4
+    },
+    {
+      "login": "fnlctrl",
+      "contributions": 4
+    },
+    {
+      "login": "ulivz",
+      "contributions": 4
+    },
+    {
+      "login": "znck",
+      "contributions": 4
+    },
+    {
+      "login": "nickmessing",
+      "contributions": 4
+    },
+    {
+      "login": "pi0",
+      "contributions": 3
+    },
+    {
+      "login": "sandersn",
+      "contributions": 3
+    },
+    {
+      "login": "mingmingwon",
+      "contributions": 3
+    },
+    {
+      "login": "lzxb",
+      "contributions": 3
+    },
+    {
+      "login": "bluemsn",
+      "contributions": 3
+    },
+    {
+      "login": "nooooooom",
+      "contributions": 3
+    },
+    {
+      "login": "zrh122",
+      "contributions": 3
+    },
+    {
+      "login": "sqal",
+      "contributions": 3
+    },
+    {
+      "login": "liximomo",
+      "contributions": 3
+    },
+    {
+      "login": "pkaminski",
+      "contributions": 3
+    },
+    {
+      "login": "gzzhanghao",
+      "contributions": 3
+    },
+    {
+      "login": "eltociear",
+      "contributions": 3
+    },
+    {
+      "login": "privatenumber",
+      "contributions": 3
+    },
+    {
+      "login": "KingMario",
+      "contributions": 3
+    },
+    {
+      "login": "felixbuenemann",
+      "contributions": 3
+    },
+    {
+      "login": "asheb",
+      "contributions": 2
+    },
+    {
+      "login": "just-be-dev",
+      "contributions": 2
+    },
+    {
+      "login": "QingWei-Li",
+      "contributions": 2
+    },
+    {
+      "login": "fenduru",
+      "contributions": 2
+    },
+    {
+      "login": "hikerpig",
+      "contributions": 2
+    },
+    {
+      "login": "jingsam",
+      "contributions": 2
+    },
+    {
+      "login": "dejour",
+      "contributions": 2
+    },
+    {
+      "login": "lsdsjy",
+      "contributions": 2
+    },
+    {
+      "login": "shadowings-zy",
+      "contributions": 2
+    },
+    {
+      "login": "superwf",
+      "contributions": 2
+    },
+    {
+      "login": "william-pan",
+      "contributions": 2
+    },
+    {
+      "login": "xonx4l",
+      "contributions": 2
+    },
+    {
+      "login": "yantene",
+      "contributions": 2
+    },
+    {
+      "login": "Alex-Sokolov",
+      "contributions": 2
+    },
+    {
+      "login": "bartlomieju",
+      "contributions": 2
+    },
+    {
+      "login": "lyhper",
+      "contributions": 2
+    },
+    {
+      "login": "chriscasola",
+      "contributions": 2
+    },
+    {
+      "login": "DaKoala",
+      "contributions": 2
+    },
+    {
+      "login": "danielroe",
+      "contributions": 2
+    },
+    {
+      "login": "despreston",
+      "contributions": 2
+    },
+    {
+      "login": "eddyerburgh",
+      "contributions": 2
+    },
+    {
+      "login": "Gcaufy",
+      "contributions": 2
+    },
+    {
+      "login": "HusamElbashir",
+      "contributions": 2
+    },
+    {
+      "login": "xdamman",
+      "contributions": 2
+    },
+    {
+      "login": "tejitak",
+      "contributions": 2
+    },
+    {
+      "login": "nguyentuansi",
+      "contributions": 2
+    },
+    {
+      "login": "Shyam-Chen",
+      "contributions": 2
+    },
+    {
+      "login": "mathe42",
+      "contributions": 2
+    },
+    {
+      "login": "neelance",
+      "contributions": 2
+    },
+    {
+      "login": "g-plane",
+      "contributions": 2
+    },
+    {
+      "login": "maciej-ka",
+      "contributions": 2
+    },
+    {
+      "login": "JounQin",
+      "contributions": 2
+    },
+    {
+      "login": "bughit",
+      "contributions": 1
+    },
+    {
+      "login": "verstoff",
+      "contributions": 1
+    },
+    {
+      "login": "VitorLuizC",
+      "contributions": 1
+    },
+    {
+      "login": "vinkla",
+      "contributions": 1
+    },
+    {
+      "login": "vikr01",
+      "contributions": 1
+    },
+    {
+      "login": "PowerfulPony",
+      "contributions": 1
+    },
+    {
+      "login": "kwarabei",
+      "contributions": 1
+    },
+    {
+      "login": "tony-luisi",
+      "contributions": 1
+    },
+    {
+      "login": "tlebel",
+      "contributions": 1
+    },
+    {
+      "login": "Moriango",
+      "contributions": 1
+    },
+    {
+      "login": "kiyui",
+      "contributions": 1
+    },
+    {
+      "login": "timgates42",
+      "contributions": 1
+    },
+    {
+      "login": "timbenniks",
+      "contributions": 1
+    },
+    {
+      "login": "TimSpeelman",
+      "contributions": 1
+    },
+    {
+      "login": "Xenonym",
+      "contributions": 1
+    },
+    {
+      "login": "t0mburton",
+      "contributions": 1
+    },
+    {
+      "login": "potato4d",
+      "contributions": 1
+    },
+    {
+      "login": "freedomlang",
+      "contributions": 1
+    },
+    {
+      "login": "bakugod",
+      "contributions": 1
+    },
+    {
+      "login": "a161803398",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v2.7.16",
+      "published_at": "2023-12-24T15:02:39Z"
+    },
+    {
+      "tag": "v2.7.16-beta.2",
+      "published_at": "2023-12-14T01:28:37Z"
+    },
+    {
+      "tag": "v2.7.16-beta.1",
+      "published_at": "2023-12-08T01:42:34Z"
+    },
+    {
+      "tag": "v2.7.15",
+      "published_at": "2023-10-23T07:56:24Z"
+    },
+    {
+      "tag": "v2.7.14",
+      "published_at": "2022-11-09T12:40:33Z"
+    },
+    {
+      "tag": "v2.7.13",
+      "published_at": "2022-10-14T03:42:24Z"
+    },
+    {
+      "tag": "v2.7.12",
+      "published_at": "2022-10-12T13:42:05Z"
+    },
+    {
+      "tag": "v2.7.11",
+      "published_at": "2022-10-11T11:13:40Z"
+    },
+    {
+      "tag": "v2.7.10",
+      "published_at": "2022-08-23T01:30:18Z"
+    },
+    {
+      "tag": "v2.7.9",
+      "published_at": "2022-08-19T04:27:50Z"
+    },
+    {
+      "tag": "v2.7.8",
+      "published_at": "2022-07-22T03:25:19Z"
+    },
+    {
+      "tag": "v2.7.7",
+      "published_at": "2022-07-16T14:46:17Z"
+    },
+    {
+      "tag": "v2.7.6",
+      "published_at": "2022-07-15T09:13:06Z"
+    },
+    {
+      "tag": "v2.7.5",
+      "published_at": "2022-07-13T03:09:17Z"
+    },
+    {
+      "tag": "v2.7.4",
+      "published_at": "2022-07-08T07:47:15Z"
+    },
+    {
+      "tag": "v2.7.3",
+      "published_at": "2022-07-06T05:17:07Z"
+    },
+    {
+      "tag": "v2.7.2",
+      "published_at": "2022-07-05T02:55:28Z"
+    },
+    {
+      "tag": "v2.7.1",
+      "published_at": "2022-07-04T10:39:20Z"
+    },
+    {
+      "tag": "v2.7.0",
+      "published_at": "2022-07-01T04:23:21Z"
+    },
+    {
+      "tag": "v2.7.0-beta.8",
+      "published_at": "2022-06-28T02:00:39Z"
+    },
+    {
+      "tag": "v2.7.0-beta.7",
+      "published_at": "2022-06-27T07:01:10Z"
+    },
+    {
+      "tag": "v2.7.0-beta.6",
+      "published_at": "2022-06-26T08:42:27Z"
+    },
+    {
+      "tag": "v2.7.0-beta.5",
+      "published_at": "2022-06-22T02:23:19Z"
+    },
+    {
+      "tag": "v2.7.0-beta.4",
+      "published_at": "2022-06-21T02:52:15Z"
+    },
+    {
+      "tag": "v2.7.0-beta.3",
+      "published_at": "2022-06-20T08:35:21Z"
+    },
+    {
+      "tag": "v2.7.0-beta.2",
+      "published_at": "2022-06-17T02:58:09Z"
+    },
+    {
+      "tag": "v2.7.0-beta.1",
+      "published_at": "2022-06-17T01:58:41Z"
+    },
+    {
+      "tag": "v2.7.0-alpha.9",
+      "published_at": "2022-06-16T02:36:54Z"
+    },
+    {
+      "tag": "v2.7.0-alpha.12",
+      "published_at": "2022-06-16T13:53:38Z"
+    },
+    {
+      "tag": "v2.7.0-alpha.11",
+      "published_at": "2022-06-16T09:54:57Z"
+    },
+    {
+      "tag": "v2.7.0-alpha.10",
+      "published_at": "2022-06-16T09:19:24Z"
+    },
+    {
+      "tag": "v2.7.0-alpha.8",
+      "published_at": "2022-06-14T15:47:40Z"
+    },
+    {
+      "tag": "v2.7.0-alpha.7",
+      "published_at": "2022-06-14T15:29:46Z"
+    },
+    {
+      "tag": "v2.7.0-alpha.6",
+      "published_at": "2022-06-09T06:48:02Z"
+    },
+    {
+      "tag": "v2.7.0-alpha.5",
+      "published_at": "2022-06-06T07:34:00Z"
+    },
+    {
+      "tag": "v2.7.0-alpha.4",
+      "published_at": "2022-06-01T14:20:12Z"
+    },
+    {
+      "tag": "v2.7.0-alpha.3",
+      "published_at": "2022-06-01T03:14:05Z"
+    },
+    {
+      "tag": "v2.7.0-alpha.2",
+      "published_at": "2022-06-01T02:37:53Z"
+    },
+    {
+      "tag": "v2.7.0-alpha.1",
+      "published_at": "2022-05-31T09:58:11Z"
+    },
+    {
+      "tag": "v2.6.14",
+      "published_at": "2021-06-07T09:56:25Z"
+    },
+    {
+      "tag": "v2.6.13",
+      "published_at": "2021-06-01T14:30:20Z"
+    },
+    {
+      "tag": "v2.6.11",
+      "published_at": "2019-12-13T20:00:22Z"
+    },
+    {
+      "tag": "v2.6.10",
+      "published_at": "2019-03-20T06:45:23Z"
+    },
+    {
+      "tag": "v2.6.9",
+      "published_at": "2019-03-20T06:45:02Z"
+    },
+    {
+      "tag": "v2.6.8",
+      "published_at": "2019-03-01T15:04:23Z"
+    },
+    {
+      "tag": "v2.6.7",
+      "published_at": "2019-02-21T22:08:57Z"
+    },
+    {
+      "tag": "v2.6.6",
+      "published_at": "2019-02-12T04:21:23Z"
+    },
+    {
+      "tag": "v2.6.5",
+      "published_at": "2019-02-11T05:18:30Z"
+    },
+    {
+      "tag": "v2.6.4",
+      "published_at": "2019-02-08T21:48:31Z"
+    },
+    {
+      "tag": "v2.6.3",
+      "published_at": "2019-02-06T21:53:10Z"
+    }
+  ],
+  "collected_at": "2026-06-28T08:31:07.579047Z"
+}

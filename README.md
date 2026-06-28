@@ -12,12 +12,13 @@
 
 | Repository | Cause | Death score |
 | --- | --- | ---: |
-| [trimstray/the-book-of-secret-knowledge](reports/repositories/trimstray__the-book-of-secret-knowledge.md) | `maintainer_abandonment` | 0.83 |
-| [practical-tutorials/project-based-learning](reports/repositories/practical-tutorials__project-based-learning.md) | `maintainer_abandonment` | 0.80 |
+| [CyC2018/CS-Notes](reports/repositories/CyC2018__CS-Notes.md) | `bus_factor_collapse` | 0.97 |
+| [vuejs/vue](reports/repositories/vuejs__vue.md) | `maintainer_abandonment` | 0.83 |
 
 ## ⚰️ Most common causes of death
 
-- `maintainer_abandonment`: 2
+- `maintainer_abandonment`: 1
+- `bus_factor_collapse`: 1
 
 ## 🤖 Automation
 
