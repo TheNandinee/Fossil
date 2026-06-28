@@ -1,0 +1,1410 @@
+{
+  "full_name": "answershuto/learnVue",
+  "owner": "answershuto",
+  "name": "learnVue",
+  "url": "https://github.com/answershuto/learnVue",
+  "description": ":octocat:Vue.js 源码解析",
+  "primary_language": "JavaScript",
+  "topics": [
+    "diff",
+    "dom",
+    "dom-nexttick",
+    "vue",
+    "vue-router",
+    "vue-template",
+    "vuex"
+  ],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 12676,
+  "forks": 2531,
+  "open_issues": 19,
+  "created_at": "2017-04-27T09:03:08Z",
+  "pushed_at": "2023-02-16T16:48:01Z",
+  "updated_at": "2026-06-26T09:29:20Z",
+  "commits": [
+    {
+      "sha": "1c0371909bbc1a4d9954470513c8ef6b408ef42f",
+      "author_login": "answershuto",
+      "authored_at": "2022-12-09T09:36:14Z",
+      "message": "Merge pull request #75 from jiangyeka/fix-1209-错别字"
+    },
+    {
+      "sha": "2017f8a130eb5102562387d48fcd413094ac3746",
+      "author_login": "manyuemeiquqi",
+      "authored_at": "2022-12-09T09:13:43Z",
+      "message": "fix: 修改《说说element组件库与broadcast与dispatch》错别字"
+    },
+    {
+      "sha": "62a9d2a4274579698b01da10f86196547819fd18",
+      "author_login": "answershuto",
+      "authored_at": "2021-07-26T07:40:32Z",
+      "message": "update README"
+    },
+    {
+      "sha": "2b103ba24a9477639e87c1575248e216ef8f43df",
+      "author_login": "answershuto",
+      "authored_at": "2020-10-19T15:23:09Z",
+      "message": "Merge pull request #72 from softkaikai/master"
+    },
+    {
+      "sha": "0025d33e5030afd28d9b11d6450bbde99f8ed1fa",
+      "author_login": "softkaikai",
+      "authored_at": "2020-10-16T03:06:57Z",
+      "message": "修复vue组件间通信的错别字"
+    },
+    {
+      "sha": "62ae796b5deda52ec3f6611d1ab41f2da6be3675",
+      "author_login": "answershuto",
+      "authored_at": "2020-07-19T07:26:09Z",
+      "message": "Merge pull request #69 from XNNNN/patch-1"
+    },
+    {
+      "sha": "b57e07b636f070f269d62af78c8c26e51f79bd58",
+      "author_login": "answershuto",
+      "authored_at": "2020-04-29T02:09:26Z",
+      "message": "替换图片"
+    },
+    {
+      "sha": "37ae713cdea0c9e54d1e6164539b746e04c507d9",
+      "author_login": "answershuto",
+      "authored_at": "2020-04-29T02:00:50Z",
+      "message": "feat: 修改二维码"
+    },
+    {
+      "sha": "2cf7ccdaa4c112dd3e4cfc9193de1709745cc835",
+      "author_login": "XNNNN",
+      "authored_at": "2020-04-18T15:21:01Z",
+      "message": "Update 依赖收集.MarkDown"
+    },
+    {
+      "sha": "9839fd9b03356eb1e7c30402236747523fe2439e",
+      "author_login": "answershuto",
+      "authored_at": "2019-08-17T15:59:11Z",
+      "message": "Merge pull request #61 from ZJH9Rondo/patch-1"
+    },
+    {
+      "sha": "706a6d102ffe7a65692e3fca881efa4bb2ef5abc",
+      "author_login": "ZJH9Rondo",
+      "authored_at": "2019-08-05T03:44:54Z",
+      "message": "Update state.js"
+    },
+    {
+      "sha": "e1bc0332a179bb7cf0a761cdf14af5ff7b87428f",
+      "author_login": "answershuto",
+      "authored_at": "2019-07-22T15:33:48Z",
+      "message": "扫码入群"
+    },
+    {
+      "sha": "b3db3ab837ac05c0fd9f4db55f1c3b24247e5828",
+      "author_login": "answershuto",
+      "authored_at": "2019-07-22T15:27:16Z",
+      "message": "加入群聊"
+    },
+    {
+      "sha": "7e98fdea9897e1fcb6085ca2362b7b436c4aa6aa",
+      "author_login": "answershuto",
+      "authored_at": "2019-05-24T09:43:31Z",
+      "message": "Merge pull request #59 from liyangworld/patch-1"
+    },
+    {
+      "sha": "a44a50210d8c4e72585b294053917572e722fe39",
+      "author_login": "answershuto",
+      "authored_at": "2019-05-22T11:00:47Z",
+      "message": "修改公众号"
+    },
+    {
+      "sha": "159eb085b520ed9ecf3151a6da91564864783687",
+      "author_login": "liyangworld",
+      "authored_at": "2019-05-18T08:47:52Z",
+      "message": "fix:Vuex源码解析中将.getter改为.getters"
+    },
+    {
+      "sha": "23e4f49014336011298ea5e4ee99338a298aa911",
+      "author_login": "answershuto",
+      "authored_at": "2019-05-17T12:13:12Z",
+      "message": "update README"
+    },
+    {
+      "sha": "7571314072bdc3a2901f0f7f0b65c1721a99e7a2",
+      "author_login": "answershuto",
+      "authored_at": "2019-04-28T11:56:39Z",
+      "message": "Merge branch 'master' of github.com:answershuto/learnVue"
+    },
+    {
+      "sha": "76ffa6c6144adfbcc7b10745757f633986553ef2",
+      "author_login": "answershuto",
+      "authored_at": "2019-04-28T11:55:33Z",
+      "message": "feat: 增加公众号"
+    },
+    {
+      "sha": "80a85b9bd44218321d2c7379f678014ce50a7cd3",
+      "author_login": "answershuto",
+      "authored_at": "2019-04-14T02:55:50Z",
+      "message": "Merge pull request #55 from Styx11/master"
+    },
+    {
+      "sha": "244b67b627b2e10f939bed9ad034ba55bfcccdaf",
+      "author_login": "Styx11",
+      "authored_at": "2019-04-11T06:42:50Z",
+      "message": "update Vuex源码解析.MarkDown"
+    },
+    {
+      "sha": "edcf1afe7f634bf00e6c40a1b6c7cd5b58b233ad",
+      "author_login": "Styx11",
+      "authored_at": "2019-04-11T06:42:23Z",
+      "message": "update 从template到DOM(Vue.js源码角度看内部运行机制).MarkDown"
+    },
+    {
+      "sha": "dfbc6c3879eabb54bca1e6d86cc6a73c41c3d33a",
+      "author_login": "answershuto",
+      "authored_at": "2019-03-30T07:51:01Z",
+      "message": "Merge pull request #53 from Styx11/master"
+    },
+    {
+      "sha": "da73a39f2631ad4b7c1cfd16e9ca4a125b354d17",
+      "author_login": "Styx11",
+      "authored_at": "2019-03-30T03:33:58Z",
+      "message": "Update 从源码角度再看数据绑定.MarkDown"
+    },
+    {
+      "sha": "739f7c5e4854ed68fcb93a99d4b6b704e139c910",
+      "author_login": "answershuto",
+      "authored_at": "2019-03-19T04:42:18Z",
+      "message": "Merge pull request #52 from LasyIsLazy/patch-1"
+    },
+    {
+      "sha": "77a5c6148c0570daafe298e4b280f594e0b10aee",
+      "author_login": "LasyIsLazy",
+      "authored_at": "2019-03-19T04:14:52Z",
+      "message": "Update render.js"
+    },
+    {
+      "sha": "f3682c235a3771d3045081d390bf10d6c3300fc9",
+      "author_login": "answershuto",
+      "authored_at": "2019-03-13T14:51:15Z",
+      "message": "Merge pull request #51 from LasyIsLazy/master"
+    },
+    {
+      "sha": "b0b911a5f7cfaccfb431645bf0f5b6b5cec5f382",
+      "author_login": "LasyIsLazy",
+      "authored_at": "2019-03-12T09:48:49Z",
+      "message": "update 《从template到DOM(Vue.js源码角度看内部运行机制)》"
+    },
+    {
+      "sha": "421fc1d8dc3ece6f84b44068c3c43ae566dd1be2",
+      "author_login": "LasyIsLazy",
+      "authored_at": "2019-03-12T09:36:07Z",
+      "message": "update 《Vue.js异步更新DOM策略及nextTick》"
+    },
+    {
+      "sha": "ab3ee1940edcbd7a1d4316b2605d95c4f4e08142",
+      "author_login": "LasyIsLazy",
+      "authored_at": "2019-03-12T08:47:08Z",
+      "message": "update 《VirtualDOM与diff(Vue实现)》"
+    },
+    {
+      "sha": "abe34c8cbe192ba15e3b32c22c3fc90dc7fa44c9",
+      "author_login": "LasyIsLazy",
+      "authored_at": "2019-03-12T07:56:00Z",
+      "message": "update 《VNode节点》"
+    },
+    {
+      "sha": "bef7023f5967678e13f3af27904eceae7eb7b22a",
+      "author_login": "LasyIsLazy",
+      "authored_at": "2019-03-12T06:36:30Z",
+      "message": "update 《依赖收集》"
+    },
+    {
+      "sha": "e31bfa0b5d06b446d3d8dbe43821ef0c6af68d23",
+      "author_login": null,
+      "authored_at": "2019-03-12T03:48:11Z",
+      "message": "update 从源码角度再看数据绑定"
+    },
+    {
+      "sha": "368f6ce1633299216eb6162fdd48b54e09cbead3",
+      "author_login": null,
+      "authored_at": "2019-03-12T02:18:07Z",
+      "message": "update 依赖收集"
+    },
+    {
+      "sha": "1d69e60b62f0e6946021c1a2d0945d3d3d8a6907",
+      "author_login": null,
+      "authored_at": "2019-03-11T10:29:00Z",
+      "message": "update 《Vue事件机制》"
+    },
+    {
+      "sha": "4811827229b9388376db3d0e84c3334b85639bf1",
+      "author_login": "answershuto",
+      "authored_at": "2018-07-09T14:04:41Z",
+      "message": "Merge pull request #45 from zhe-he/patch-2"
+    },
+    {
+      "sha": "930a0811b18590c9f8a4a73cabcc3170fe6cc806",
+      "author_login": "answershuto",
+      "authored_at": "2018-07-07T16:10:11Z",
+      "message": "Merge pull request #44 from zhe-he/master"
+    },
+    {
+      "sha": "05c8181c5368863ce01da2643c8c0a50f814f4b5",
+      "author_login": "zhe-he",
+      "authored_at": "2018-06-13T10:01:44Z",
+      "message": "Update 依赖收集.MarkDown"
+    },
+    {
+      "sha": "aa88d326fa7c9395c5700e3a0911b890e519aa0c",
+      "author_login": "zhe-he",
+      "authored_at": "2018-06-13T09:16:55Z",
+      "message": "Update 响应式原理.MarkDown"
+    },
+    {
+      "sha": "984711a17079bb75deb25cd8db7e348be08305d7",
+      "author_login": "answershuto",
+      "authored_at": "2018-05-19T08:54:38Z",
+      "message": "Merge pull request #38 from chinanf-boy/patch-1"
+    },
+    {
+      "sha": "3bf65f03587a0a83afd4a3ebb544bf8f08cb8b53",
+      "author_login": "answershuto",
+      "authored_at": "2018-05-05T04:20:22Z",
+      "message": "Merge pull request #40 from BosenY/master"
+    },
+    {
+      "sha": "f467d28b124796d0db835e0414645089c50baeac",
+      "author_login": "BosenY",
+      "authored_at": "2018-05-03T12:40:05Z",
+      "message": "删除多写的字"
+    },
+    {
+      "sha": "9c185f87f8d08d833ac51a34351e7f759e923fd7",
+      "author_login": "chinanf-boy",
+      "authored_at": "2018-04-27T04:56:49Z",
+      "message": "Update Vue.js异步更新DOM策略及nextTick.MarkDown"
+    },
+    {
+      "sha": "0b98794fae843fddab1edd962e5318b013353edf",
+      "author_login": "chinanf-boy",
+      "authored_at": "2018-04-27T04:53:25Z",
+      "message": "Update Vue.js异步更新DOM策略及nextTick.MarkDown"
+    },
+    {
+      "sha": "e4cfd0ba95428887820d3ce62f9bc9dc5f826998",
+      "author_login": "answershuto",
+      "authored_at": "2018-04-25T04:35:28Z",
+      "message": "Merge pull request #35 from showonne/patch-1"
+    },
+    {
+      "sha": "53f1952f00817dd107dd5708999d2992557aa3e3",
+      "author_login": "answershuto",
+      "authored_at": "2018-04-24T04:38:09Z",
+      "message": "Merge pull request #36 from showonne/patch-2"
+    },
+    {
+      "sha": "9ae82f2ce768319a4dfc968ec3ca211a022355e8",
+      "author_login": "showonne",
+      "authored_at": "2018-04-24T03:09:45Z",
+      "message": "Update 从源码角度再看数据绑定.MarkDown"
+    },
+    {
+      "sha": "3b5b9e5416a7a7978112e51de6cd2d7cc95d85f0",
+      "author_login": "showonne",
+      "authored_at": "2018-04-24T02:45:07Z",
+      "message": "Update 从源码角度再看数据绑定.MarkDown"
+    },
+    {
+      "sha": "06c272003e440c8c44aeb958fd8790d6b8d54c39",
+      "author_login": "answershuto",
+      "authored_at": "2018-04-15T14:47:37Z",
+      "message": "Merge pull request #33 from RichardSleet/master"
+    },
+    {
+      "sha": "2f3052c73c2924ad9c75794290b7c7a4e0d7e847",
+      "author_login": "RichardSleet",
+      "authored_at": "2018-04-13T11:30:39Z",
+      "message": "update symbol error"
+    },
+    {
+      "sha": "9777f03395ce2470232e32fd56b386fa02508197",
+      "author_login": "RichardSleet",
+      "authored_at": "2018-04-13T11:28:46Z",
+      "message": "update symbol error"
+    },
+    {
+      "sha": "9d0a09e133aa419b20aa2f3dabf1fc316447c332",
+      "author_login": "RichardSleet",
+      "authored_at": "2018-04-13T11:26:49Z",
+      "message": "update symbol error"
+    },
+    {
+      "sha": "e128937583662cb81ee3a199649407ad1ec43b39",
+      "author_login": "answershuto",
+      "authored_at": "2018-04-04T04:26:52Z",
+      "message": "Merge pull request #32 from lazzzis/patch-1"
+    },
+    {
+      "sha": "13242ea7521c09f650058e4bd7e5d8cbbc96a8ad",
+      "author_login": "answershuto",
+      "authored_at": "2018-04-01T07:03:19Z",
+      "message": "update README"
+    },
+    {
+      "sha": "588c5edf038b3987242e8aee98acc4743de39bba",
+      "author_login": "lazzzis",
+      "authored_at": "2018-04-01T00:52:05Z",
+      "message": "fix typo"
+    },
+    {
+      "sha": "3bfac7f6ab42393b05e404da3020a39458e0f11f",
+      "author_login": "answershuto",
+      "authored_at": "2018-03-26T14:48:48Z",
+      "message": "update README"
+    },
+    {
+      "sha": "534c6c36b06949ed13b82377f305999ee05243c7",
+      "author_login": "answershuto",
+      "authored_at": "2018-03-25T13:43:06Z",
+      "message": "Merge branch 'master' of https://github.com/answershuto/learnVue"
+    },
+    {
+      "sha": "3cdac8e14a1bc8150945c33e38c607df743ce79f",
+      "author_login": "answershuto",
+      "authored_at": "2018-03-25T13:41:39Z",
+      "message": "update README"
+    },
+    {
+      "sha": "78840a1c05aece3b69194d4f18cdc17bd1037149",
+      "author_login": "answershuto",
+      "authored_at": "2018-03-22T12:56:00Z",
+      "message": "Merge pull request #30 from Plortinus/patch-1"
+    },
+    {
+      "sha": "9ec63587dd1edb02c9ac5df74b079c5c067520af",
+      "author_login": "Plortinus",
+      "authored_at": "2018-03-21T12:49:16Z",
+      "message": "Update 响应式原理.MarkDown"
+    },
+    {
+      "sha": "2eb48b4953a42c3fc025b823d81ac645e875f974",
+      "author_login": "answershuto",
+      "authored_at": "2018-03-12T10:30:46Z",
+      "message": "Merge pull request #29 from caikan/patch-1"
+    },
+    {
+      "sha": "94fb15aaf2b6a4bce003eb128db17ef7283a5ee1",
+      "author_login": "caikan",
+      "authored_at": "2018-03-12T08:38:21Z",
+      "message": "fix typo"
+    },
+    {
+      "sha": "77df708f84a37d43f2c8d181cd7bf1afe889cc38",
+      "author_login": "caikan",
+      "authored_at": "2018-03-12T08:11:22Z",
+      "message": "fix typo"
+    },
+    {
+      "sha": "5337fad7e3c10027bf1bcea8dc14734c675d7b7f",
+      "author_login": "answershuto",
+      "authored_at": "2018-02-06T12:14:54Z",
+      "message": "add images."
+    },
+    {
+      "sha": "3bb4002cb6616a8a749fab4f9fe968c5b96afa6f",
+      "author_login": "answershuto",
+      "authored_at": "2018-01-10T10:55:05Z",
+      "message": "update 《从template到DOM(Vue.js源码角度看内部运行机制)》、《VNode节点》、《VirtualDOM与diff(Vue实现)》。"
+    },
+    {
+      "sha": "dfb781fa0631ec0e0ae9c1d5d0ced33b91eb52ef",
+      "author_login": "answershuto",
+      "authored_at": "2017-12-25T12:33:13Z",
+      "message": "update README.md"
+    },
+    {
+      "sha": "f6ca83bbf4ef4281a7f93543e7b2fb99554660f2",
+      "author_login": "answershuto",
+      "authored_at": "2017-12-17T03:28:48Z",
+      "message": "Merge pull request #23 from pangxie1991/patch-1"
+    },
+    {
+      "sha": "92ed5dc49b83a7eca158f4be295663559f534314",
+      "author_login": "pangxie1991",
+      "authored_at": "2017-12-17T03:14:46Z",
+      "message": "删除奇怪的字符"
+    },
+    {
+      "sha": "6bd7357086c7489b9b61c6b52c419a0f3426528c",
+      "author_login": "answershuto",
+      "authored_at": "2017-12-13T12:24:06Z",
+      "message": "update 《Vue.js异步更新DOM策略及nextTick》"
+    },
+    {
+      "sha": "8639a748e217152bedf46bf65fe309d118286b2f",
+      "author_login": "answershuto",
+      "authored_at": "2017-11-21T12:39:50Z",
+      "message": "update vue-router annotations"
+    },
+    {
+      "sha": "6e5dc49bf112ef55a67c79d890e33a3703caf590",
+      "author_login": "answershuto",
+      "authored_at": "2017-11-20T12:51:18Z",
+      "message": "update vue-router annotations"
+    },
+    {
+      "sha": "47b387d33a33079cec53ecc6592c0621723a95be",
+      "author_login": "answershuto",
+      "authored_at": "2017-11-18T12:58:55Z",
+      "message": "update 《聊聊keep-alive组件的使用及其实现原理》"
+    },
+    {
+      "sha": "0155d9941822a02d2c8a57e306ca1db8709e9c20",
+      "author_login": "answershuto",
+      "authored_at": "2017-11-15T11:47:26Z",
+      "message": "fixed #21"
+    },
+    {
+      "sha": "5597cf1378c89ee327d27760cfab1ba2b275cba0",
+      "author_login": "answershuto",
+      "authored_at": "2017-11-12T12:27:04Z",
+      "message": "add 《聊聊keep-alive组件的使用及其实现原理》 to README"
+    },
+    {
+      "sha": "f8251f10685740525d039978b3c0805d788f82b8",
+      "author_login": "answershuto",
+      "authored_at": "2017-11-09T13:45:38Z",
+      "message": "去除《聊聊keep-alive组件的使用及其实现原理》中的图片"
+    },
+    {
+      "sha": "cd2b19f16f0002d71d58c2017362628855033854",
+      "author_login": "answershuto",
+      "authored_at": "2017-11-09T13:43:32Z",
+      "message": "update 《聊聊keep-alive组件的使用及其实现原理》"
+    },
+    {
+      "sha": "3df3097f53e65f2f83061672366cb755bb30e129",
+      "author_login": "answershuto",
+      "authored_at": "2017-11-08T12:22:40Z",
+      "message": "update README"
+    },
+    {
+      "sha": "b3478769cc2b1c211f136c6a5c173a2839c28b10",
+      "author_login": "answershuto",
+      "authored_at": "2017-11-06T12:09:19Z",
+      "message": "《依赖收集》有一处表述错误。fixed #19"
+    },
+    {
+      "sha": "a70e70a52d5036caf5c0e8581fadd2b3a41e8678",
+      "author_login": "answershuto",
+      "authored_at": "2017-11-05T12:42:07Z",
+      "message": "update 《聊聊keep-alive组件的使用及其实现原理》"
+    },
+    {
+      "sha": "5e49a56f13244f827b09692b8dc85305ca20e47c",
+      "author_login": "answershuto",
+      "authored_at": "2017-11-05T11:01:00Z",
+      "message": "update README"
+    },
+    {
+      "sha": "d0d1e898d435ff2992595bbf911c5df1bdc40559",
+      "author_login": "answershuto",
+      "authored_at": "2017-11-04T14:56:32Z",
+      "message": "add 《聊聊keep-alive组件的使用及其实现原理》"
+    },
+    {
+      "sha": "d7711d327f1e680fb0be1328fc8405e152f7398a",
+      "author_login": "answershuto",
+      "authored_at": "2017-11-03T10:43:49Z",
+      "message": "update README"
+    },
+    {
+      "sha": "b4ec8a33e1a20729fdb49795feb579f16b5d12a3",
+      "author_login": "answershuto",
+      "authored_at": "2017-11-01T12:10:10Z",
+      "message": "update vue-router annotations"
+    },
+    {
+      "sha": "fa57616620abeaa274e7c895247b6aef33fbfc17",
+      "author_login": "answershuto",
+      "authored_at": "2017-10-31T05:31:02Z",
+      "message": "Merge pull request #17 from lzldemo/master"
+    },
+    {
+      "sha": "320a8da8edcce24ba158f918b27b871bb72a2077",
+      "author_login": "lzldemo",
+      "authored_at": "2017-10-31T04:06:48Z",
+      "message": "fix expression error"
+    },
+    {
+      "sha": "3b07c078c9e0c53cc23d2323a4cc417e3022e793",
+      "author_login": "answershuto",
+      "authored_at": "2017-10-30T11:45:33Z",
+      "message": "update vue-router annotations"
+    },
+    {
+      "sha": "a67db4fd451e69778f8c4e63f1198f99dcc4715a",
+      "author_login": "answershuto",
+      "authored_at": "2017-10-29T03:13:24Z",
+      "message": "update 《Vuex源码解析》"
+    },
+    {
+      "sha": "85c7328dae98557dadd0c363437e3b1910c44d0c",
+      "author_login": "answershuto",
+      "authored_at": "2017-10-28T02:40:42Z",
+      "message": "update vue-router annotations"
+    },
+    {
+      "sha": "af41a7cdfec3df462d71e21dc777ff79be64b0b4",
+      "author_login": "answershuto",
+      "authored_at": "2017-10-27T08:43:08Z",
+      "message": "Merge branch 'master' of https://github.com/answershuto/learnVue"
+    },
+    {
+      "sha": "d48b5748f40c914d50ed0a77106b9b855000300a",
+      "author_login": "answershuto",
+      "authored_at": "2017-10-27T08:42:39Z",
+      "message": "update README"
+    },
+    {
+      "sha": "efe4ffea38c3aeaf86d21453a7728a4e71970e55",
+      "author_login": "answershuto",
+      "authored_at": "2017-10-26T09:19:30Z",
+      "message": "Merge pull request #12 from lzldemo/lzldemo-patch-1"
+    },
+    {
+      "sha": "90446ba083d8b1cb32a4e5b3e3982fd7ec0d7c4a",
+      "author_login": "lzldemo",
+      "authored_at": "2017-10-26T08:45:06Z",
+      "message": "fix:文字表述错误"
+    },
+    {
+      "sha": "7db5f5931d0795c515ba68669fe69bc6bdaf5853",
+      "author_login": "answershuto",
+      "authored_at": "2017-10-25T12:15:59Z",
+      "message": "Merge branch 'master' of https://github.com/answershuto/learnVue"
+    },
+    {
+      "sha": "50a67fd00dfcd16d575386449ed2dffc523dbb0e",
+      "author_login": "answershuto",
+      "authored_at": "2017-10-25T12:14:39Z",
+      "message": "add vue-router-src"
+    },
+    {
+      "sha": "d9633e13b5a0b9c329aa277a83b3a998c32a2e80",
+      "author_login": "answershuto",
+      "authored_at": "2017-10-24T08:26:25Z",
+      "message": "Merge pull request #9 from HumiH/patch-1"
+    },
+    {
+      "sha": "45aa1ca78e824c9d8d6feaed207776dde468e07f",
+      "author_login": "heruns",
+      "authored_at": "2017-10-24T01:57:24Z",
+      "message": "参数名写错了"
+    },
+    {
+      "sha": "bdab3fb66b6406ea754a0aa734818b19c54e654f",
+      "author_login": "answershuto",
+      "authored_at": "2017-10-23T02:12:17Z",
+      "message": "Merge pull request #8 from spemoon/master"
+    },
+    {
+      "sha": "dd52dad41015e85c6a6a1a4bd6b8edfa2d13d07a",
+      "author_login": "spemoon",
+      "authored_at": "2017-10-23T02:08:57Z",
+      "message": "修改错别字"
+    },
+    {
+      "sha": "db6042d15eedc9547f5a4e12e2bd7097a036572a",
+      "author_login": "answershuto",
+      "authored_at": "2017-10-22T04:35:37Z",
+      "message": "midyfy 'AST树' or 'AST语法树' to 'AST'. fixed #7"
+    },
+    {
+      "sha": "33b4b8cc3dece2503d272076adca992d4b763784",
+      "author_login": "answershuto",
+      "authored_at": "2017-10-21T09:33:12Z",
+      "message": "update 《Vuex源码解析》and join README"
+    }
+  ],
+  "issues": [
+    {
+      "number": 77,
+      "title": "这是ts的写法吗？问了一些人，他们也不懂。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-09T07:29:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "Added link of Vue Developer Roadmap",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-02-16T16:48:00Z",
+      "closed_at": "2023-04-09T05:21:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "fix: 修改《说说element组件库与broadcast与dispatch》错别字",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-12-09T09:14:18Z",
+      "closed_at": "2022-12-09T09:36:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "Any possibility for english version?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-24T21:35:50Z",
+      "closed_at": "2021-01-28T10:16:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "数组方法这里的注释笔误了么",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-25T02:51:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "修复vue组件间通信的错别字",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-16T03:17:16Z",
+      "closed_at": "2020-10-19T15:23:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "依赖收集里的这行代码是什么意思？怎么感觉缺东西",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-29T12:33:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "$emit的时候，为什么要将类数组换成数组？哪里有类数组？不都是vue自己建的吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-09T11:02:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "Update 依赖收集.MarkDown",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-18T15:21:33Z",
+      "closed_at": "2020-07-19T07:26:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "修改第126行注释中的错别字",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-02T17:18:04Z",
+      "closed_at": "2024-03-06T16:17:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "修复updateChildren方法错误",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-03-25T15:57:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "Update 聊聊keep-alive组件的使用及其实现原理.MarkDown",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-03-25T03:33:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 65,
+      "title": "对Vue.prototype.__patch__方法注解的修改",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-12-31T03:33:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "正则compile模块没理解",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-12-26T07:55:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": "讨论：这一行代码有用吗？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-12-10T02:21:49Z",
+      "closed_at": "2020-08-25T03:02:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "模拟代码错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-18T07:36:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "Update state.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-08-05T03:46:15Z",
+      "closed_at": "2019-08-17T15:59:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "跑起来有点问题",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-07-25T18:15:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "fix:Vuex源码解析中将.getter改为.getters",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-18T08:51:47Z",
+      "closed_at": "2019-05-24T09:43:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "fix: 聊聊keep-alive组件的使用及其实现原理.MarkDown 错误",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-05-10T06:42:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "defineReactive函数第一行",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-29T10:17:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "这是笔误吗？keep-alive这章里面的内容",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-29T08:32:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "Update 从template到DOM(Vue.js源码角度看内部运行机制) 及 Vuex源码解析",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-11T06:47:49Z",
+      "closed_at": "2019-04-14T02:55:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 54,
+      "title": "add Observer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-10T14:08:25Z",
+      "closed_at": "2019-04-24T08:29:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "Update 从源码角度再看数据绑定.MarkDown",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-30T03:36:13Z",
+      "closed_at": "2019-03-30T07:51:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 52,
+      "title": "Update render.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-19T04:15:59Z",
+      "closed_at": "2019-03-19T04:42:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 51,
+      "title": "Modify text",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-12T09:55:25Z",
+      "closed_at": "2019-03-13T14:51:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 50,
+      "title": "依赖什么时候会被回收呢？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-21T09:56:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 49,
+      "title": "你好，子组件向父组件传值这里有个疑问",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-11T17:02:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 48,
+      "title": "执行 $emit 调用事件方法时获取参数 求指点",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-25T15:47:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 47,
+      "title": "src\\core\\vdom\\create-element.js createElement函数",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-30T06:30:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 46,
+      "title": "响应式原理中，this._data 是引用类型的，为什么option.data属性改变不会触发setter",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-07-15T04:20:23Z",
+      "closed_at": "2018-07-22T15:19:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 45,
+      "title": "Update 依赖收集.MarkDown",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-13T10:02:56Z",
+      "closed_at": "2018-07-09T14:04:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 44,
+      "title": "Update 响应式原理.MarkDown",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-13T09:18:19Z",
+      "closed_at": "2018-07-07T16:10:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 43,
+      "title": "VirtualDOM与diff(Vue实现)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-05-30T07:20:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 41,
+      "title": "fix json格式",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-05-07T07:19:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 40,
+      "title": "删除多写的字",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-05-03T12:42:59Z",
+      "closed_at": "2018-05-05T04:20:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 39,
+      "title": "Update Vue组件间通信.MarkDown - *.vue 代码高亮",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-27T05:03:46Z",
+      "closed_at": "2018-08-10T01:08:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "Update Vue.js异步更新DOM策略及nextTick.MarkDown 运行",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-27T04:55:25Z",
+      "closed_at": "2018-05-19T08:54:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 37,
+      "title": "【依赖收集】新建Watcher位置可能有误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-04-25T04:11:30Z",
+      "closed_at": "2018-04-26T02:07:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 36,
+      "title": "fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-24T03:10:38Z",
+      "closed_at": "2018-04-24T04:38:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 35,
+      "title": "订阅着 => 订阅者",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-24T02:45:43Z",
+      "closed_at": "2018-04-25T04:35:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 34,
+      "title": "当data被observe后，在new render watch时触发watch的get求值，调用到pushTarget后，怎么就将这个watch添加到了subs中了？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-04-15T07:28:56Z",
+      "closed_at": "2018-09-11T01:49:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 33,
+      "title": "虚拟节点",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-13T11:40:27Z",
+      "closed_at": "2018-04-15T14:47:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-01T00:52:46Z",
+      "closed_at": "2018-04-04T04:26:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 31,
+      "title": "对于defineReactive中的childOb我并没有理解清楚",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-23T08:37:25Z",
+      "closed_at": "2018-03-23T08:41:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "Update 响应式原理.MarkDown",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-03-21T12:49:35Z",
+      "closed_at": "2018-03-22T12:56:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-03-12T08:12:01Z",
+      "closed_at": "2018-03-12T10:30:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "关于依赖收集的理解问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-02-25T14:18:49Z",
+      "closed_at": "2018-03-12T09:01:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "请问哪里有标注Vue的版本",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-02-14T06:35:26Z",
+      "closed_at": "2018-03-23T08:38:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "关于响应式原理一章中的小疑问.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-02-12T01:33:35Z",
+      "closed_at": "2018-02-23T07:33:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "注释问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-01-26T15:33:20Z",
+      "closed_at": "2018-03-23T08:40:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "你好,",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-01-18T06:32:18Z",
+      "closed_at": "2018-03-23T08:40:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "删除奇怪的字符",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-17T03:16:10Z",
+      "closed_at": "2017-12-17T03:28:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 22,
+      "title": "使用typescript有哪些优势和劣势？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-11-16T01:22:49Z",
+      "closed_at": "2017-11-17T09:51:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 21,
+      "title": "Array.prototype.$set 及 Array.prototype.$remove 在v2.x已经移除了",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-11-15T07:43:48Z",
+      "closed_at": "2017-11-15T11:50:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 20,
+      "title": "关于__ob__属性会无限循环的疑问",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-11-14T03:41:46Z",
+      "closed_at": "2017-11-14T12:17:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 19,
+      "title": "《依赖收集》有一处表述错误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-11-06T12:08:31Z",
+      "closed_at": "2017-11-06T12:09:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 18,
+      "title": "modify position of dependancies collection code ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-31T11:26:59Z",
+      "closed_at": "2017-11-01T13:43:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17,
+      "title": "fix expression error",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-31T04:09:01Z",
+      "closed_at": "2017-10-31T05:31:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 16,
+      "title": "小白请教函数参数写法问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-30T12:03:07Z",
+      "closed_at": "2017-10-31T01:20:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "请教一下：state 的watcher是如何发起的？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-30T11:18:56Z",
+      "closed_at": "2017-10-31T04:01:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "Lzldemo patch 3",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-27T11:44:29Z",
+      "closed_at": "2017-10-30T03:42:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13,
+      "title": "Lzldemo patch 2 1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-27T01:39:06Z",
+      "closed_at": "2017-10-27T05:40:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 12,
+      "title": "fix:文字表述错误",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-26T08:47:54Z",
+      "closed_at": "2017-10-26T09:19:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 11,
+      "title": "依赖收集的问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-26T08:20:27Z",
+      "closed_at": "2017-10-27T02:57:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10,
+      "title": "good",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-26T03:27:28Z",
+      "closed_at": "2017-10-27T02:58:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 9,
+      "title": "参数名写错了",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-24T01:58:19Z",
+      "closed_at": "2017-10-24T08:26:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 8,
+      "title": "修改错别字",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-23T02:11:03Z",
+      "closed_at": "2017-10-23T02:12:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 7,
+      "title": "提个小建议：AST全称就是『抽象语法树』，这里叫做『AST语法树』/『AST树』感觉不妥",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-22T04:37:39Z",
+      "closed_at": "2017-10-22T04:39:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 6,
+      "title": "modify app._date.text to app._data.text #5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-09T14:01:15Z",
+      "closed_at": "2017-10-10T01:08:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 5,
+      "title": "发现笔误一处",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-09T02:14:36Z",
+      "closed_at": "2017-10-10T01:09:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4,
+      "title": "modify \"viturl dom\" to \"virtual DOM\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-09-27T14:50:01Z",
+      "closed_at": "2017-10-03T03:02:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3,
+      "title": "chore: 添加数组劫持代码demo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-09-26T02:41:50Z",
+      "closed_at": "2017-09-26T02:53:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2,
+      "title": "Should have cb params on observer function",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-09-25T02:47:37Z",
+      "closed_at": "2017-09-25T02:56:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1,
+      "title": "typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-09-11T01:58:17Z",
+      "closed_at": "2017-09-25T02:57:44Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "answershuto",
+      "contributions": 213
+    },
+    {
+      "login": "LasyIsLazy",
+      "contributions": 6
+    },
+    {
+      "login": "RichardSleet",
+      "contributions": 3
+    },
+    {
+      "login": "Styx11",
+      "contributions": 3
+    },
+    {
+      "login": "HardworkingSheep",
+      "contributions": 2
+    },
+    {
+      "login": "showonne",
+      "contributions": 2
+    },
+    {
+      "login": "caikan",
+      "contributions": 2
+    },
+    {
+      "login": "lzldemo",
+      "contributions": 2
+    },
+    {
+      "login": "chinanf-boy",
+      "contributions": 2
+    },
+    {
+      "login": "zhe-he",
+      "contributions": 2
+    },
+    {
+      "login": "heruns",
+      "contributions": 1
+    },
+    {
+      "login": "ZJH9Rondo",
+      "contributions": 1
+    },
+    {
+      "login": "lanceli",
+      "contributions": 1
+    },
+    {
+      "login": "Plortinus",
+      "contributions": 1
+    },
+    {
+      "login": "XNNNN",
+      "contributions": 1
+    },
+    {
+      "login": "pangxie1991",
+      "contributions": 1
+    },
+    {
+      "login": "BosenY",
+      "contributions": 1
+    },
+    {
+      "login": "manyuemeiquqi",
+      "contributions": 1
+    },
+    {
+      "login": "lazzzis",
+      "contributions": 1
+    },
+    {
+      "login": "liyangworld",
+      "contributions": 1
+    },
+    {
+      "login": "bodyno",
+      "contributions": 1
+    },
+    {
+      "login": "softkaikai",
+      "contributions": 1
+    },
+    {
+      "login": "spemoon",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T11:57:03.132625Z"
+}

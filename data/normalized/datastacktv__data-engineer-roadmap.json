@@ -1,0 +1,759 @@
+{
+  "full_name": "datastacktv/data-engineer-roadmap",
+  "owner": "datastacktv",
+  "name": "data-engineer-roadmap",
+  "url": "https://github.com/datastacktv/data-engineer-roadmap",
+  "description": "Roadmap to becoming a data engineer in 2021",
+  "primary_language": null,
+  "topics": [
+    "cloud",
+    "data-engineer-roadmap",
+    "data-engineering",
+    "roadmap"
+  ],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 12747,
+  "forks": 1339,
+  "open_issues": 30,
+  "created_at": "2020-09-02T13:38:54Z",
+  "pushed_at": "2022-01-25T21:09:00Z",
+  "updated_at": "2026-06-26T06:13:29Z",
+  "commits": [
+    {
+      "sha": "53e47f5780a5af7c919b791e91bf8c14439644ee",
+      "author_login": "mkvorwerck",
+      "authored_at": "2021-04-10T14:30:10Z",
+      "message": "Adding data observability (#51)"
+    },
+    {
+      "sha": "61ef42e23f1d835fa99119f9a9c4786d99b662bf",
+      "author_login": "dwsmith1983",
+      "authored_at": "2021-04-10T14:28:47Z",
+      "message": "Added Apache Ozone (md) (#43)"
+    },
+    {
+      "sha": "fb39a9be283a57524b352df249427776e27cd4a0",
+      "author_login": "alexandraabbas",
+      "authored_at": "2021-03-21T16:38:47Z",
+      "message": "v1.2/add link to Data Stack Jobs (#58)"
+    },
+    {
+      "sha": "b80584878f5eec41e2147300a4bc24c0aa6e0c67",
+      "author_login": "alexandraabbas",
+      "authored_at": "2021-01-15T15:03:20Z",
+      "message": "2021/v1.1 (#33)"
+    },
+    {
+      "sha": "e7b19ead1ea0e81321d9835194429636ee32c61b",
+      "author_login": "alexandraabbas",
+      "authored_at": "2021-01-11T14:58:06Z",
+      "message": "Update year to 2021 (#32)"
+    },
+    {
+      "sha": "8b1ccdce4524961bfd37495de20117c47766b1eb",
+      "author_login": "alexandraabbas",
+      "authored_at": "2020-09-03T09:21:49Z",
+      "message": "v1.0 (#2)"
+    },
+    {
+      "sha": "068dda5cc91fe83cd5bae6ef5bb25f735592cc22",
+      "author_login": "alexandraabbas",
+      "authored_at": "2020-09-02T15:05:37Z",
+      "message": "Merge pull request #1 from datastacktv/feature/sponsorship"
+    },
+    {
+      "sha": "e4142a0bf966b3bc9871ebfcdc23356718cd30b4",
+      "author_login": "alexandraabbas",
+      "authored_at": "2020-09-02T15:04:23Z",
+      "message": "Set up PayPal funding link"
+    },
+    {
+      "sha": "dcf00d55496b71fbe15214eb37afa60686bd56ed",
+      "author_login": "alexandraabbas",
+      "authored_at": "2020-09-02T13:38:55Z",
+      "message": "Initial commit"
+    }
+  ],
+  "issues": [
+    {
+      "number": 80,
+      "title": "That's not an issue just a contribution i provide an interactive Data Engineer roadmap that you can add in this repo ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-05T11:39:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "Unable to access datastackjobs",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-13T01:12:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "Risky",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-15T05:17:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "Rendering the roadmap",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-05T22:30:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "Add Memphis.dev to messaging category ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-27T09:36:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "where  etl tools ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-25T14:17:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "Pull",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-30T16:30:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "Data science aspects of data engineering",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-15T19:23:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "Data engineer",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-13T22:45:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "Data Engineer - RoadMap ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-07-10T00:17:35Z",
+      "closed_at": "2022-07-10T00:18:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "Alembic for db migrations",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-20T00:28:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "Waiting for the next version",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-30T15:49:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "Data engineering ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-25T13:04:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "new year",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-01-25T21:08:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "Supporting reading material",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-02T12:01:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 65,
+      "title": "link to datastack.tv has expired cert",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-17T08:53:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "Meaning CS Fundamental ?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-10-06T06:14:35Z",
+      "closed_at": "2021-10-10T15:32:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": ".",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-01T14:41:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "Update roadmap.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-28T06:28:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "DynamoDB categorization",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-04-15T14:06:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "v1.2/add link to Data Stack Jobs",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-21T16:38:28Z",
+      "closed_at": "2021-03-21T16:38:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "Opennebula ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-02T10:24:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "What is the license for these images?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-02-21T06:07:47Z",
+      "closed_at": "2021-03-01T19:41:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 54,
+      "title": "//URl",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-02-21T02:43:51Z",
+      "closed_at": "2021-02-28T15:41:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "What about modeling / simulation?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-20T08:20:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 51,
+      "title": "Adding data observability",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-02-19T16:40:29Z",
+      "closed_at": "2021-04-10T14:30:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 50,
+      "title": "Russian translation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-19T14:58:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 49,
+      "title": "Concurrency models are missing",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-19T11:37:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 48,
+      "title": "Encryption in Transit and at Rest",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-19T09:14:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 47,
+      "title": "Agile ways of working",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-19T08:54:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 46,
+      "title": "Tasks manager",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-18T11:54:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 45,
+      "title": "Refine Knowledge of Algorithms",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-18T11:44:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 44,
+      "title": "Add GitLab Pipelines to CI/CD",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-02-18T03:51:04Z",
+      "closed_at": "2024-07-21T14:50:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 43,
+      "title": "added Apache Ozone to text list; someone with graphic design artifact…",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-02-18T01:48:30Z",
+      "closed_at": "2021-04-10T14:28:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 42,
+      "title": "Missing Microsoft SQL Server, Oracle DB and IBM DB2",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-18T00:18:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 41,
+      "title": "Need to add Apache Ozone",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-02-17T23:52:18Z",
+      "closed_at": "2021-08-26T16:48:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 40,
+      "title": "Data engineer",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-24T04:55:48Z",
+      "closed_at": "2021-02-18T17:05:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 39,
+      "title": "Missing Data Governance knowledge",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-18T15:12:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "10982",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-18T10:07:42Z",
+      "closed_at": "2021-01-18T10:08:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 37,
+      "title": "Data way",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-17T11:53:43Z",
+      "closed_at": "2021-01-17T14:42:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 33,
+      "title": "2021/v1.1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-15T14:56:49Z",
+      "closed_at": "2021-01-15T15:03:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "Update year to 2021",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-11T14:57:37Z",
+      "closed_at": "2021-01-11T14:58:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 31,
+      "title": "Data Processing Architectures ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-13T00:45:07Z",
+      "closed_at": "2021-01-15T15:03:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "MLflow",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-11-23T21:01:10Z",
+      "closed_at": "2021-01-15T15:03:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "Power BI should be included, right?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-11-23T20:56:31Z",
+      "closed_at": "2021-01-15T15:03:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "data_engineer_roadmap",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-11-23T07:36:12Z",
+      "closed_at": "2020-12-14T10:32:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "jpeg",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-11-12T12:49:23Z",
+      "closed_at": "2021-01-05T14:29:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "Cloud specific versions",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-05T12:05:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "Cloud Basics",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-28T18:35:16Z",
+      "closed_at": "2021-01-15T15:03:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "ClickHouse should be added to the \"Data warehouses\" section",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-26T10:17:40Z",
+      "closed_at": "2021-01-15T15:03:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "Data science",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-23T19:07:20Z",
+      "closed_at": "2020-10-25T15:51:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 22,
+      "title": "Math and Statistics should be added",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-07T21:06:41Z",
+      "closed_at": "2021-01-15T15:03:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 21,
+      "title": "Tech Stack too Overwhelming",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-07T13:46:48Z",
+      "closed_at": "2021-01-15T10:42:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 20,
+      "title": "Ingenieer",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-01T10:39:20Z",
+      "closed_at": "2020-10-05T15:11:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 19,
+      "title": "Which Mind Map app?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-30T14:15:00Z",
+      "closed_at": "2021-01-15T10:39:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 18,
+      "title": "How about Azure Synapse Analytics",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-26T11:12:10Z",
+      "closed_at": "2021-01-15T15:03:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17,
+      "title": "ErikaGR NewsHour",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-14T15:01:08Z",
+      "closed_at": "2020-10-05T15:15:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 16,
+      "title": "Suggestion: Data Modeling & Execution Engine",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-14T14:23:59Z",
+      "closed_at": "2021-01-15T15:03:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "Why Infrastructure as a code",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-10T14:57:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "Add Microsoft Excel/OpenOffice Calc",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-09T14:54:05Z",
+      "closed_at": "2020-10-05T15:23:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13,
+      "title": "Lightweight markup languages",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-08T05:41:53Z",
+      "closed_at": "2021-01-15T10:45:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 12,
+      "title": "Kibana in Visualize data",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-07T05:29:04Z",
+      "closed_at": "2020-09-07T09:07:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 11,
+      "title": "CS",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-06T09:02:19Z",
+      "closed_at": "2020-09-07T08:55:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10,
+      "title": "Infographic has text as graphics and is inaccessible for visually impaired users",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-05T13:04:34Z",
+      "closed_at": "2021-01-15T15:03:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 9,
+      "title": "Test.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-05T12:15:28Z",
+      "closed_at": "2020-09-05T12:20:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 8,
+      "title": "Pub/Sub messaging",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-05T08:23:49Z",
+      "closed_at": "2021-01-15T15:03:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 7,
+      "title": "List of Storage systems",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-04T15:08:40Z",
+      "closed_at": "2021-01-15T15:03:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 6,
+      "title": "AWS Cloud Formation as a general recommendation",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-04T12:44:35Z",
+      "closed_at": "2021-01-15T15:03:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 5,
+      "title": "Which BPM would you suggest",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-04T12:03:21Z",
+      "closed_at": "2021-01-15T11:05:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4,
+      "title": "Suggestion: replace Pulumi with the AWS CDK",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-04T06:17:50Z",
+      "closed_at": "2021-01-15T15:03:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3,
+      "title": "digdag",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-04T00:58:16Z",
+      "closed_at": "2020-09-04T15:08:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2,
+      "title": "v1.0",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-03T09:20:24Z",
+      "closed_at": "2020-09-03T09:21:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1,
+      "title": "Set up Sponsor button feature",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-02T15:05:16Z",
+      "closed_at": "2020-09-02T15:05:38Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "alexandraabbas",
+      "contributions": 7
+    },
+    {
+      "login": "dwsmith1983",
+      "contributions": 1
+    },
+    {
+      "login": "mkvorwerck",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "2021",
+      "published_at": "2021-01-15T15:14:24Z"
+    }
+  ],
+  "collected_at": "2026-06-28T11:57:00.539201Z"
+}
