@@ -1,0 +1,1670 @@
+{
+  "full_name": "necolas/normalize.css",
+  "owner": "necolas",
+  "name": "normalize.css",
+  "url": "https://github.com/necolas/normalize.css",
+  "description": "A modern alternative to CSS resets",
+  "primary_language": "CSS",
+  "topics": [
+    "css",
+    "css-reset",
+    "normalize-css"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 53547,
+  "forks": 10365,
+  "open_issues": 76,
+  "created_at": "2011-05-04T10:20:25Z",
+  "pushed_at": "2024-06-12T20:36:06Z",
+  "updated_at": "2026-06-28T00:48:42Z",
+  "commits": [
+    {
+      "sha": "fc091cce1534909334c1911709a39c22d406977b",
+      "author_login": "necolas",
+      "authored_at": "2018-11-05T02:29:43Z",
+      "message": "8.0.1"
+    },
+    {
+      "sha": "df07c00a92c683e591b68bcc45075ff7253b7482",
+      "author_login": null,
+      "authored_at": "2018-02-15T21:19:26Z",
+      "message": "Render the main element correctly in IE"
+    },
+    {
+      "sha": "b6cc0ceb21ce1dadce60f3a8269d0601345e57e3",
+      "author_login": "necolas",
+      "authored_at": "2018-11-05T01:37:24Z",
+      "message": "Remove stylelint"
+    },
+    {
+      "sha": "7369f566898b8cefc2649b6a66e112857de4c46f",
+      "author_login": "necolas",
+      "authored_at": "2018-02-11T15:53:38Z",
+      "message": "Fix typo in CHANGELOG"
+    },
+    {
+      "sha": "4ab3de5bdd26b161c3c82a5a2f72df3e57a8e4bf",
+      "author_login": "necolas",
+      "authored_at": "2018-02-08T23:59:35Z",
+      "message": "v8.0.0"
+    },
+    {
+      "sha": "93a6e5fa92cbc30dc37be7d767ae713092bafbec",
+      "author_login": "necolas",
+      "authored_at": "2018-02-08T23:57:42Z",
+      "message": "Update CHANGELOG"
+    },
+    {
+      "sha": "f7c98c4c859c15363763f10a439b63d85b9afba0",
+      "author_login": "necolas",
+      "authored_at": "2018-02-08T23:48:41Z",
+      "message": "Don't remove search input cancel button in Chrome/Safari"
+    },
+    {
+      "sha": "9f4876b9beae9bf1807425325e2b5b1b79a5ad21",
+      "author_login": "necolas",
+      "authored_at": "2018-02-08T23:43:17Z",
+      "message": "Add package-lock.json"
+    },
+    {
+      "sha": "906395b61129376fd157ca66d28cfecbf26cc00f",
+      "author_login": "necolas",
+      "authored_at": "2018-02-08T23:39:34Z",
+      "message": "Remove bower"
+    },
+    {
+      "sha": "004d58b2f2e0ac3d03d075f8de46ce7c8234742f",
+      "author_login": "necolas",
+      "authored_at": "2018-02-08T22:54:26Z",
+      "message": "Update browser support"
+    },
+    {
+      "sha": "331e2e400e9e975dbf717a98df5cd609e0361164",
+      "author_login": "necolas",
+      "authored_at": "2018-02-08T23:29:26Z",
+      "message": "Point to yarnpkg's list of CDNs"
+    },
+    {
+      "sha": "1aa10ce89fa788e87592310014b27d9c4126d801",
+      "author_login": "ismamz",
+      "authored_at": "2017-10-19T03:02:33Z",
+      "message": "Remove the font-size test on html tag"
+    },
+    {
+      "sha": "ca8a357baf6e724ab84843ac4607f8d2024cf0f8",
+      "author_login": "Sky161",
+      "authored_at": "2017-09-06T10:25:17Z",
+      "message": "Inherit font family for inputs"
+    },
+    {
+      "sha": "ff155ffecdab5d04c420b6c219c974adb34492e2",
+      "author_login": "antons",
+      "authored_at": "2017-08-13T11:28:20Z",
+      "message": "Restore gaps in links underline in iOS 8+ and Safari 8+"
+    },
+    {
+      "sha": "73b6b0c7e8690ab5005bca9d7e13d3fb319c98ac",
+      "author_login": "necolas",
+      "authored_at": "2017-05-02T18:14:32Z",
+      "message": "7.0.0"
+    },
+    {
+      "sha": "b4a8fdaf8321093b1e3cad612fb76cf2b7d3275d",
+      "author_login": "necolas",
+      "authored_at": "2017-05-02T18:12:57Z",
+      "message": "Revert changes to 'body' and form elements"
+    },
+    {
+      "sha": "62b4a86c2863f5a4475d8fb98ddf1b927d7d7bfb",
+      "author_login": "necolas",
+      "authored_at": "2017-05-02T18:07:41Z",
+      "message": "Non-functional maintenance"
+    },
+    {
+      "sha": "44f13250a495744596dc7f2cad6b08ab6a578b2f",
+      "author_login": "yochem",
+      "authored_at": "2017-05-01T14:54:58Z",
+      "message": "Fix Markdown syntax (#663)"
+    },
+    {
+      "sha": "7ac507237949560935c6173428251c933cfd8026",
+      "author_login": "4refael",
+      "authored_at": "2017-05-01T14:54:33Z",
+      "message": "Correct the padding in firefox (#671)"
+    },
+    {
+      "sha": "2ac336c420fc59680df4d02ff50d85f97c8518d6",
+      "author_login": "adamgruber",
+      "authored_at": "2017-05-01T14:52:55Z",
+      "message": "Update CHANGELOG.md (#670)"
+    },
+    {
+      "sha": "1b16be036f3e7b3fbcab500b5715599bed15e4b1",
+      "author_login": "Alhadis",
+      "authored_at": "2017-04-11T13:02:32Z",
+      "message": "Stop test.html from skewing language classification (#667)"
+    },
+    {
+      "sha": "790b3b3ffee0af3f97e960ce66ce6e4293b6b058",
+      "author_login": "lovasoa",
+      "authored_at": "2017-03-28T13:08:35Z",
+      "message": "Fix markdown syntax (#662)"
+    },
+    {
+      "sha": "91f668be643185dd7b08f122ccee0df711d237c0",
+      "author_login": "jonathantneal",
+      "authored_at": "2017-03-26T22:23:57Z",
+      "message": "6.0.0"
+    },
+    {
+      "sha": "4411f95888e1eacf6dbba66e8d63bb648eafd6fa",
+      "author_login": "jonathantneal",
+      "authored_at": "2017-03-26T22:20:09Z",
+      "message": "Include iOS Safari in Browser support"
+    },
+    {
+      "sha": "eb7b5e569b0da7c9c24dbcdc31f5150b3719e5f2",
+      "author_login": "jonathantneal",
+      "authored_at": "2017-03-26T22:19:54Z",
+      "message": "Update stylelint configuration"
+    },
+    {
+      "sha": "a5629618ea433fd3762c5af53499b5806169408b",
+      "author_login": "mattbrundage",
+      "authored_at": "2017-03-26T22:14:42Z",
+      "message": "Update normalize.css (#661)"
+    },
+    {
+      "sha": "dbc5f8e064443e4cb7df1cbe9d719888e6024841",
+      "author_login": "Alhadis",
+      "authored_at": "2017-03-26T22:12:30Z",
+      "message": "Fix repository's language classification on GitHub (#660)"
+    },
+    {
+      "sha": "b5f0e9d79a997952f0d68f55c12ec3b76dd65882",
+      "author_login": "jonathantneal",
+      "authored_at": "2017-03-26T22:12:14Z",
+      "message": "Remove all opinionated rules (#649)"
+    },
+    {
+      "sha": "1da0911dfb7f4205e938f17952ddd826f7e79931",
+      "author_login": "JohnAlbin",
+      "authored_at": "2016-11-18T07:34:10Z",
+      "message": "Place the document heading above the html element's comment. (#639)"
+    },
+    {
+      "sha": "4559de001bc15838c0314c713645086bdef64bc3",
+      "author_login": "zlatanvasovic",
+      "authored_at": "2016-10-04T21:45:30Z",
+      "message": "Update homepage URL (#633)"
+    },
+    {
+      "sha": "f06565fe8e0e1ad1b88f2732719e28ed97bde40f",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-10-03T12:57:00Z",
+      "message": "5.0.0"
+    },
+    {
+      "sha": "3404854d02061398a1a77a8ba6ffe27fe67757e1",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-10-03T12:54:33Z",
+      "message": "Update macOS reference"
+    },
+    {
+      "sha": "f9b42c6a3bd89ec6d4e1506051cbc63128802dcb",
+      "author_login": "mattbrundage",
+      "authored_at": "2016-09-13T16:33:31Z",
+      "message": "Update text-size-adjust documentation"
+    },
+    {
+      "sha": "2b6082d43a9d5f2584e77e69cd145c87ad6103be",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-08-21T23:11:06Z",
+      "message": "Update semver strategy (#615)"
+    },
+    {
+      "sha": "5d728b83a5ee6ee3e9e3158a28d6369718014e0c",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-08-08T13:43:30Z",
+      "message": "More explicitly define font resets on form controls (#607)"
+    },
+    {
+      "sha": "db6567c3da686f4a322a126dd0e68a36935f142e",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-07-07T03:22:17Z",
+      "message": "Merge branch 'feature/html-sectioning'"
+    },
+    {
+      "sha": "55ed05a79c0fd7a9a2c330c6925b982a7d5b307c",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-07-06T15:40:39Z",
+      "message": "Correct the display of <summary> in all browsers"
+    },
+    {
+      "sha": "bbcf62d86f5e327673283900221c8ababa836671",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-07-06T15:23:05Z",
+      "message": "Use HTML Living Standard sectioning"
+    },
+    {
+      "sha": "0dc4df63b7f6643d6dc42f65dc0129abadfbd483",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-07-06T13:55:36Z",
+      "message": "Merge branch 'battaglr-placeholder'"
+    },
+    {
+      "sha": "f081e459e4ea9f9fce9184cc69e4d3b7c1226e92",
+      "author_login": "battaglr",
+      "authored_at": "2016-06-30T22:59:08Z",
+      "message": "Remove `placeholder` normalization"
+    },
+    {
+      "sha": "255074ef4a761fa7e77689cbebe6e5fb70d529c2",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-06-30T14:01:38Z",
+      "message": "v4.2.0"
+    },
+    {
+      "sha": "fa7d65ab39f4c0623b6379793160a32254aa4ffe",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-06-30T13:49:26Z",
+      "message": "Update CHANGELOG.md date"
+    },
+    {
+      "sha": "bfe6c20e184559b0ce92d394b1b53f8398157012",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-06-30T05:36:25Z",
+      "message": "4.2.0"
+    },
+    {
+      "sha": "25a109d84531fe64da926e038cd46f079febc197",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-06-30T05:18:20Z",
+      "message": "Merge branch 'battaglr-patch-1'"
+    },
+    {
+      "sha": "6f78003ffd58dd57733c7d35777c22cc174beb17",
+      "author_login": "battaglr",
+      "authored_at": "2016-06-25T18:48:04Z",
+      "message": "Remove \"heading\" reference since is redundant"
+    },
+    {
+      "sha": "fe7a07c2c56773faa8d24eac9b1984f2b6b81a61",
+      "author_login": "battaglr",
+      "authored_at": "2016-06-25T18:44:48Z",
+      "message": "Simplify headings normalization comment"
+    },
+    {
+      "sha": "ceef420f3a248578004fb18d4381f622495b4c0e",
+      "author_login": "jeremenichelli",
+      "authored_at": "2016-06-16T14:04:06Z",
+      "message": "Add rule for all headings lh (#596)"
+    },
+    {
+      "sha": "02af1fdfaf71f589ea689d4b957eb3bb1294a228",
+      "author_login": "slavanga",
+      "authored_at": "2016-04-18T01:45:24Z",
+      "message": "Restore optgroup font normalisation (#589)"
+    },
+    {
+      "sha": "39c21b3678ff1ebd2aebc51ec56d55d18a5a68e3",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-04-12T12:54:53Z",
+      "message": "4.1.1"
+    },
+    {
+      "sha": "a8e70333dcab7ff8937bf8e0232764de838d8795",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-04-12T12:43:06Z",
+      "message": "4.1.0 (#576)"
+    },
+    {
+      "sha": "26b2588335ea9a94844a062255d3415c958e0b86",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-04-11T23:48:51Z",
+      "message": "Normalize file select buttons (#574)"
+    },
+    {
+      "sha": "2c4e2182e0ed22420e7dbd3b63a21bf01f25956a",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-04-11T23:35:02Z",
+      "message": "Correct the outline of search inputs in Safari (#575)"
+    },
+    {
+      "sha": "8ed3140d5235da2e8b9d3efec9e4ae161db64d95",
+      "author_login": "hudochenkov",
+      "authored_at": "2016-04-11T12:59:42Z",
+      "message": "Remove gaps in links underline in iOS 8+ and Safari 8+ (#573)"
+    },
+    {
+      "sha": "e31503b635cefa5f4fb4e8496ed7f506c3b2e07c",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-04-10T23:08:40Z",
+      "message": "Merge pull request #569 from necolas/fix/549"
+    },
+    {
+      "sha": "b1f3b0c0aa3da28019bf8091fafd1699bff9aec3",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-04-10T22:47:13Z",
+      "message": "Limit Firefox focus normalization to buttons"
+    },
+    {
+      "sha": "49d20b834e398709571bfc93f0885c916fa04c45",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-04-10T22:21:40Z",
+      "message": "Merge pull request #571 from necolas/fix/550"
+    },
+    {
+      "sha": "809d747e384731068b116e03db3d3c8de4b499b2",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-04-10T22:21:01Z",
+      "message": "Merge pull request #568 from necolas/fix/562"
+    },
+    {
+      "sha": "1ea0cc6e39dd53dbcb1a0f6462952d7151ec6617",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-04-07T15:09:53Z",
+      "message": "Correct the text style of placeholders in Chrome, Edge, and Safari"
+    },
+    {
+      "sha": "e4a7827199b61e1cdcabe807044b3a2384bba924",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-04-07T02:50:53Z",
+      "message": "Remove overflow from select and update multiple overflow"
+    },
+    {
+      "sha": "ab3abb6d36cf3cd66e22faeec65dcef1196ba1c1",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-30T02:07:11Z",
+      "message": "Merge pull request #563 from necolas/fix/544"
+    },
+    {
+      "sha": "49a7a7df8b751dcada7ad2c6e1618bb250ad4014",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-30T02:06:29Z",
+      "message": "Merge pull request #564 from necolas/fix/542"
+    },
+    {
+      "sha": "375ff10793431738e80dab8063f66757598c91f8",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-26T16:58:26Z",
+      "message": "Restore `main` to package.json"
+    },
+    {
+      "sha": "170455d6f6850d3b5eefdaab7b36c8c327ca8678",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-26T16:56:10Z",
+      "message": "Remove opinionated cursor styles on buttons"
+    },
+    {
+      "sha": "e24c00352624bf4bbf3ee26652171e25b5299792",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-26T16:37:16Z",
+      "message": "Merge pull request #558 from XiBOR/master"
+    },
+    {
+      "sha": "076c8ecb803dc3ef0d90f612a22dbe6e8acdf338",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-25T03:51:37Z",
+      "message": "Merge pull request #552 from battaglr/remove-v1-references"
+    },
+    {
+      "sha": "1a3af2f91c860a407be0e0069548a7ceb873a527",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-24T12:56:09Z",
+      "message": "Merge pull request #561 from mdouglasbrett/patch-1"
+    },
+    {
+      "sha": "e7d7693dc83be5567ae717705be5d45825196669",
+      "author_login": "mdouglasbrett",
+      "authored_at": "2016-03-24T11:57:11Z",
+      "message": "Small copy change"
+    },
+    {
+      "sha": "5ef046fbd0e3e274b4b89dbc61cd9d0485ad9461",
+      "author_login": null,
+      "authored_at": "2016-03-23T21:57:32Z",
+      "message": "Combine two same selectors #553"
+    },
+    {
+      "sha": "77f3463278b136c9ac45ef14771bc7aedb799dd5",
+      "author_login": "battaglr",
+      "authored_at": "2016-03-21T08:03:50Z",
+      "message": "Remove `v1` references"
+    },
+    {
+      "sha": "f84aad3434c63d0ac10b91c6f47e21d805bbd36f",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-19T22:48:38Z",
+      "message": "Merge pull request #541 from gouch/patch-1"
+    },
+    {
+      "sha": "f9d9bb87d73df1938b7c66f2f1238daa12a88b78",
+      "author_login": "gouch",
+      "authored_at": "2016-03-19T22:36:50Z",
+      "message": "Fix spelling error in comment"
+    },
+    {
+      "sha": "d311749e127ea3ea13eb900ad953270d62734f4f",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-19T21:21:27Z",
+      "message": "Merge pull request #539 from necolas/v4"
+    },
+    {
+      "sha": "84f39fb494316857fec363f1c0b6accced316c3d",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-19T21:12:13Z",
+      "message": "4.0.0"
+    },
+    {
+      "sha": "7f2eaef38d5a55c9a1707ae0f6fd1f050cf8fdcf",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-19T21:11:59Z",
+      "message": "Update documentation and tests"
+    },
+    {
+      "sha": "0c90242399c09af53850d52e992c977a538a8424",
+      "author_login": "battaglr",
+      "authored_at": "2016-03-19T21:01:16Z",
+      "message": "Update and organize the normalize.css file"
+    },
+    {
+      "sha": "3123b8e9f5923fd06e4eeb9e0727b7cc42fd94f6",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-19T21:00:31Z",
+      "message": "Update project configuration"
+    },
+    {
+      "sha": "aef06ef3f3263e7a6503693b9409a7210980aa22",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-19T02:55:44Z",
+      "message": "Merge pull request #538 from necolas/fix/313"
+    },
+    {
+      "sha": "35673c5d99a6649a176c036813d4e75de68ced21",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-19T02:39:07Z",
+      "message": "Merge pull request #537 from necolas/fix/438"
+    },
+    {
+      "sha": "10c24de1843be17748276cbc0dda59fa5807e0e8",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-19T02:33:35Z",
+      "message": "Merge pull request #536 from necolas/fix/100"
+    },
+    {
+      "sha": "c7bef7960b7db184073a09e9da3120d1fa94f5bc",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-18T04:01:15Z",
+      "message": "Remove opinionated pre overflow"
+    },
+    {
+      "sha": "28f2f6c292a628abc95358d9b19fae90029ddcd5",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-18T03:58:17Z",
+      "message": "Move input type appearance normalization into its own rule"
+    },
+    {
+      "sha": "9a3b1b32f460cdac60d934aad59cf498bd515d6e",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-18T03:57:16Z",
+      "message": "Reduce selector weight of input types"
+    },
+    {
+      "sha": "cbdd0b1683304ab9132e572dc0a53f927f56d833",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-18T01:33:55Z",
+      "message": "Correct wrapping not present in IE8/9/10/11 and Edge 12/13"
+    },
+    {
+      "sha": "7b962ccf455242dbf0e8be99ebe81edf0d04fc48",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-17T15:10:54Z",
+      "message": "Merge pull request #535 from necolas/fix/img-border"
+    },
+    {
+      "sha": "500092a1812b0f041e3823e1d716d30ad2440d72",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-17T14:55:40Z",
+      "message": "Only normalize border-style on img"
+    },
+    {
+      "sha": "1f91390958ea53a922014349b45f1bccc7978433",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-17T14:44:21Z",
+      "message": "Merge pull request #532 from necolas/fix/522"
+    },
+    {
+      "sha": "f19fc5bbe4732ac31e3ce0045c95f88135c27959",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-16T04:59:20Z",
+      "message": "Update the dfn support message"
+    },
+    {
+      "sha": "cde926980acc4c081a7fbdf8f90f98703f418152",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-17T02:27:58Z",
+      "message": "Merge pull request #533 from necolas/fix/377"
+    },
+    {
+      "sha": "53bd51a093c3e1385387a9bfe0028943da77ef9f",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-16T05:35:22Z",
+      "message": "Remove unnecessary input line-height"
+    },
+    {
+      "sha": "d689630ff8da9c07f3dd4b16e46fb8542d696b37",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-15T22:34:52Z",
+      "message": "Merge pull request #531 from necolas/fix/363"
+    },
+    {
+      "sha": "977827d56f4b1ec7d0750bc5fea426c2019c5cb9",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-15T21:57:06Z",
+      "message": "Use inherit to fix legend color"
+    },
+    {
+      "sha": "c3da6c12267c8e43d57b5adc595a05a9206c52b8",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-15T21:20:19Z",
+      "message": "Merge pull request #530 from battaglr/use-longhand-outline"
+    },
+    {
+      "sha": "f2e0d310c095146a3ca34fc6884f821055fb3d59",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-15T21:12:50Z",
+      "message": "Merge pull request #529 from battaglr/mark-opinionated-declarations"
+    },
+    {
+      "sha": "0542f0423f0c04010d797ad11b7d4aa950438710",
+      "author_login": "battaglr",
+      "authored_at": "2016-03-15T01:30:13Z",
+      "message": "Use explicit `outline-width` property instead of `outline`"
+    },
+    {
+      "sha": "60cadb0921606a6f76d05f3507bf98c68bf35297",
+      "author_login": "battaglr",
+      "authored_at": "2016-03-15T01:18:13Z",
+      "message": "Mark opinionated declarations"
+    },
+    {
+      "sha": "9924969c5f4675891ab7baa85b922110abee9cd9",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-03-14T23:58:52Z",
+      "message": "Merge pull request #528 from battaglr/add-bower-install-details"
+    },
+    {
+      "sha": "e6a0ce435db2ebcf3a3784ff1dae4bdb2c8b0b08",
+      "author_login": "battaglr",
+      "authored_at": "2016-03-14T22:58:46Z",
+      "message": "Add Bower install details"
+    },
+    {
+      "sha": "e66b004a430065ceeac25375a2be3337c870ce07",
+      "author_login": "battaglr",
+      "authored_at": "2016-03-14T22:58:28Z",
+      "message": "Remove double space"
+    },
+    {
+      "sha": "f41ef9b4918759dabc35599e014aaf3cfae3d8a1",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-02-15T20:24:30Z",
+      "message": "Merge pull request #515 from alrra/update-travis-yml"
+    },
+    {
+      "sha": "128ecd8cc4224f782b4a64ea80e02dbb4d667348",
+      "author_login": "jonathantneal",
+      "authored_at": "2016-02-15T20:11:53Z",
+      "message": "Merge pull request #514 from hudochenkov/audio-ios"
+    }
+  ],
+  "issues": [
+    {
+      "number": 935,
+      "title": "8.0.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-23T15:27:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 934,
+      "title": "Claude/clarify project requirements qz5 io",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-21T03:20:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 933,
+      "title": "iOS confuses some unicode characters with emoji",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-16T03:57:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 932,
+      "title": "Fix typo in CONTRIBUTING.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-03T12:48:38Z",
+      "closed_at": "2026-03-10T15:39:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 931,
+      "title": "謝謝你",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-13T10:15:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 930,
+      "title": "add UI in css file",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-01T06:13:29Z",
+      "closed_at": "2025-09-04T19:48:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 929,
+      "title": "change the UI of this page",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-07-01T06:07:01Z",
+      "closed_at": "2025-09-04T19:50:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 928,
+      "title": "Change the bgcolor and front style  that  seen unique and styles",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-07-01T05:41:25Z",
+      "closed_at": "2025-09-04T19:50:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 927,
+      "title": "add loading page in websites",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-07-01T05:40:50Z",
+      "closed_at": "2025-09-04T19:50:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 926,
+      "title": "[hidden] contradicts HTML Standard",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-05T20:14:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 925,
+      "title": "Problem with tailwindcss v4",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-03-08T18:30:21Z",
+      "closed_at": "2025-09-04T19:50:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 924,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-02-10T15:23:49Z",
+      "closed_at": "2025-09-04T19:48:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 923,
+      "title": "cloud't install",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-01-24T06:21:13Z",
+      "closed_at": "2025-09-04T19:50:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 922,
+      "title": "RISHIT_RAJ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-01-05T04:59:28Z",
+      "closed_at": "2025-09-04T19:48:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 921,
+      "title": "Normalize.css  doesn't work on firefox developer edition",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-12-23T14:35:19Z",
+      "closed_at": "2025-09-04T19:50:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 919,
+      "title": "FONT NOT DETECTING OR TRANSLATING IN ANY BROWSER",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-18T23:57:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 918,
+      "title": "Color of Front page should be changed....",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-09T05:15:21Z",
+      "closed_at": "2025-09-04T19:51:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 917,
+      "title": "ayush7AM",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-11-06T14:19:03Z",
+      "closed_at": "2024-11-06T14:29:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 916,
+      "title": "Fixes Deprecation Warning from @include = now uses @use",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-10-27T20:05:38Z",
+      "closed_at": "2025-05-20T13:54:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 913,
+      "title": "Etiqueta table",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-06-12T20:36:05Z",
+      "closed_at": "2025-09-04T19:48:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 912,
+      "title": "Where i should use this file?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-03-19T11:50:43Z",
+      "closed_at": "2025-09-04T19:51:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 911,
+      "title": "Please add normalize.min.css",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-02-28T08:01:51Z",
+      "closed_at": "2025-09-04T19:51:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 910,
+      "title": "Line height on inputs",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-22T11:08:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 909,
+      "title": "Update normalize.css",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-06T15:28:45Z",
+      "closed_at": "2025-06-30T22:58:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 908,
+      "title": "How to add nonce (content security policy)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-01-12T11:26:40Z",
+      "closed_at": "2024-01-18T19:59:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 907,
+      "title": "Fixing Warnings of button and and [type=\"search\"]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-01-11T08:32:46Z",
+      "closed_at": "2024-01-18T19:59:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 906,
+      "title": "Fitting the screen.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-11T04:25:32Z",
+      "closed_at": "2024-01-18T20:00:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 905,
+      "title": "Update normalize.css",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-18T16:45:37Z",
+      "closed_at": "2024-01-18T19:55:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 904,
+      "title": "`progress` and `[type=\"range\"]` Odd Vertical Alignment",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-06T05:18:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 903,
+      "title": "se agrego max-width: 100%; a la img",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-07-24T04:48:43Z",
+      "closed_at": "2024-01-18T19:56:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 902,
+      "title": "[[pp~",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-06-12T12:27:16Z",
+      "closed_at": "2024-01-18T20:00:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 901,
+      "title": "Normalize.css",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-05-09T12:01:43Z",
+      "closed_at": "2023-05-09T12:02:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 898,
+      "title": "Changed formatting for an alternative option for more legibility",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-03-13T18:16:13Z",
+      "closed_at": "2024-01-18T19:56:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 897,
+      "title": "Normalise.css",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-05T20:16:25Z",
+      "closed_at": "2024-01-18T20:00:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 896,
+      "title": "Updated README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-01-28T10:57:32Z",
+      "closed_at": "2023-03-22T16:23:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 894,
+      "title": "correct summary styling",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-20T13:45:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 893,
+      "title": "<hr> no longer respects float wrapping",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-01-18T15:11:41Z",
+      "closed_at": "2023-01-18T15:13:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 892,
+      "title": "Remove the padding in all browsers.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-12-28T03:07:31Z",
+      "closed_at": "2023-01-02T02:11:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 891,
+      "title": "summary element styling needs to be scoped to details element",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-12T16:55:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 890,
+      "title": "Microsoft Edge adds extra margin to heading and paragraph elements",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-11-28T02:58:38Z",
+      "closed_at": "2023-02-16T02:19:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 889,
+      "title": "new",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-11-20T19:21:28Z",
+      "closed_at": "2022-11-23T01:24:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 888,
+      "title": "When i run my angular app edge detects a compatibility issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-09T16:33:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 887,
+      "title": "gh-pages: list markers are outside the text block",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-03T12:16:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 886,
+      "title": "<button> text color in ios is set to blue by the useragent",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-02T01:22:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 885,
+      "title": "Change the link",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-30T18:07:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 884,
+      "title": "t",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-08-16T21:55:56Z",
+      "closed_at": "2022-08-16T21:56:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 883,
+      "title": "Firefox vs. Chrome",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-14T12:28:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 882,
+      "title": "Normalize.css Github's link in the website documentation is broken",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-28T12:56:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 881,
+      "title": "Default list style position to \"outside\"",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-05T10:35:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 880,
+      "title": "Is this repository maintained at all? ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-05T19:34:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 879,
+      "title": "feature: If `hidden=\"until-found\"`, it's not `display: none`.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-03-24T03:14:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 878,
+      "title": "[type=\"search\"] \"X\" removal",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-03-04T00:12:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 877,
+      "title": "ios 15 updates",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-22T02:00:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 876,
+      "title": "Remove duplicate font name",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-19T23:37:29Z",
+      "closed_at": "2022-02-20T08:03:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 875,
+      "title": "Link text color does not show",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-02-10T02:04:54Z",
+      "closed_at": "2022-05-20T03:22:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 874,
+      "title": "Copying and making a different version based on my opinions",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-02-06T23:52:08Z",
+      "closed_at": "2022-05-20T03:23:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 873,
+      "title": "Added Defaults and root styles.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-11-30T14:21:19Z",
+      "closed_at": "2022-05-27T13:04:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 872,
+      "title": "Fix bad link on blog post",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-20T15:32:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 871,
+      "title": "fix: Remove blue on button, select on iOS 15+ Safari",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-11-08T14:02:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 870,
+      "title": "Video captions to match body font family",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-10-28T12:02:42Z",
+      "closed_at": "2021-10-28T13:13:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 869,
+      "title": "I need an example",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-10-25T04:27:25Z",
+      "closed_at": "2022-05-20T03:24:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 868,
+      "title": "Support dark colour scheme for website",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-10-22T02:58:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 867,
+      "title": "sorry.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-10-15T08:16:07Z",
+      "closed_at": "2021-10-15T08:19:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 866,
+      "title": "V1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-10-03T06:30:45Z",
+      "closed_at": "2022-05-20T03:25:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 865,
+      "title": "Line-height:1.15 results in v scroll bar (flexbox)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-09T06:57:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 864,
+      "title": "Line-height should be 1.5 to comply the WCAG guideline",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-30T01:37:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 863,
+      "title": "Remove default border-radius from Edge",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-07-19T07:21:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 862,
+      "title": "Default border-radius on Edge",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-19T07:12:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 861,
+      "title": "Changed overflow: visible to overflow: hidden for hr element",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-07-15T05:14:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 860,
+      "title": "hr normalize applying wrong overflow value",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-28T22:33:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 859,
+      "title": "Update normalize.css",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-30T19:27:13Z",
+      "closed_at": "2024-01-18T19:57:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 858,
+      "title": "Accessibility fix: Allow iOS browsers to auto-scale fonts based on user preference",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-25T13:06:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 857,
+      "title": "fix: remove redundant font-family",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-04-20T05:13:27Z",
+      "closed_at": "2021-04-22T02:26:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 856,
+      "title": "Is this library still functional/relevant/maintained as of 2021?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-04-18T03:42:59Z",
+      "closed_at": "2022-05-20T03:24:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 855,
+      "title": "add new url",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-04-01T07:54:13Z",
+      "closed_at": "2024-01-18T19:58:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 854,
+      "title": "为什么这个最新版已经是3年前了，希望可以继续升级维护",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-03-26T09:15:34Z",
+      "closed_at": "2022-05-20T03:24:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 853,
+      "title": "Pseudoelement not rendered properly",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-03-25T07:03:43Z",
+      "closed_at": "2021-03-27T12:07:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 852,
+      "title": "Correct the link word wrapping within a container in Chrome.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-24T20:52:26Z",
+      "closed_at": "2022-10-08T22:21:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 851,
+      "title": "Word-break inconsistency between Chrome and Firefox",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-24T20:41:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 850,
+      "title": "Pseudo classes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-03T16:52:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 849,
+      "title": "class",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-21T14:23:15Z",
+      "closed_at": "2021-01-08T08:06:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 848,
+      "title": "Fieldsets have common attribute and size is widen than I think..",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-11-24T02:39:30Z",
+      "closed_at": "2024-03-03T03:48:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 847,
+      "title": "::-moz-focus-inner: remove unnecessary specificity",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-11-20T18:48:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 846,
+      "title": "SASS version of normalize.css",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-11-14T20:17:07Z",
+      "closed_at": "2021-01-08T08:06:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 845,
+      "title": "webkit-search-cancel-button",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-05T13:03:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 844,
+      "title": "fix empty style attribute",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-29T14:47:04Z",
+      "closed_at": "2021-01-08T08:06:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 843,
+      "title": "Remove the gap ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-28T15:49:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 842,
+      "title": "Here is a minimized version",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-22T15:21:16Z",
+      "closed_at": "2021-01-08T08:08:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 841,
+      "title": "I can't find the minimized version",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-22T15:16:26Z",
+      "closed_at": "2021-01-08T08:08:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 840,
+      "title": "Amir Abdul Sattar",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-17T19:17:04Z",
+      "closed_at": "2021-01-08T08:06:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 839,
+      "title": "changes a background color to look more effective",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-17T14:05:33Z",
+      "closed_at": "2021-01-08T08:06:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 838,
+      "title": "Buttons and Inputs have 2px border radius in Microsoft Edge",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-15T09:15:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 835,
+      "title": "Added background-color normalization",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-02T15:55:57Z",
+      "closed_at": "2020-10-04T16:00:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 833,
+      "title": "update.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-01T04:51:02Z",
+      "closed_at": "2021-01-08T08:06:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 832,
+      "title": "sup,sub style breaks copy paste to google docs",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-23T08:31:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 831,
+      "title": "Space",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-22T20:00:08Z",
+      "closed_at": "2021-01-08T08:08:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 830,
+      "title": "Fix the comment about the details element in FF",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-09-16T22:02:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 829,
+      "title": "Change the comment about fieldset for Firefox",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-09-16T11:36:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 828,
+      "title": "Remove redundant text-transform for FF's select",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-09-15T11:06:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 827,
+      "title": "Removed PR",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-15T10:31:55Z",
+      "closed_at": "2020-09-15T10:46:28Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "necolas",
+      "contributions": 208
+    },
+    {
+      "login": "jonathantneal",
+      "contributions": 95
+    },
+    {
+      "login": "battaglr",
+      "contributions": 10
+    },
+    {
+      "login": "hudochenkov",
+      "contributions": 4
+    },
+    {
+      "login": "alrra",
+      "contributions": 2
+    },
+    {
+      "login": "Alhadis",
+      "contributions": 2
+    },
+    {
+      "login": "mattbrundage",
+      "contributions": 2
+    },
+    {
+      "login": "AustinWi",
+      "contributions": 1
+    },
+    {
+      "login": "adamgruber",
+      "contributions": 1
+    },
+    {
+      "login": "Sky161",
+      "contributions": 1
+    },
+    {
+      "login": "antons",
+      "contributions": 1
+    },
+    {
+      "login": "gouch",
+      "contributions": 1
+    },
+    {
+      "login": "dawidkkruczek",
+      "contributions": 1
+    },
+    {
+      "login": "Calvein",
+      "contributions": 1
+    },
+    {
+      "login": "fritx",
+      "contributions": 1
+    },
+    {
+      "login": "ismamz",
+      "contributions": 1
+    },
+    {
+      "login": "jeremenichelli",
+      "contributions": 1
+    },
+    {
+      "login": "geobde",
+      "contributions": 1
+    },
+    {
+      "login": "JohnAlbin",
+      "contributions": 1
+    },
+    {
+      "login": "kazssym",
+      "contributions": 1
+    },
+    {
+      "login": "mathiasbynens",
+      "contributions": 1
+    },
+    {
+      "login": "MoOx",
+      "contributions": 1
+    },
+    {
+      "login": "mdouglasbrett",
+      "contributions": 1
+    },
+    {
+      "login": "wilddeer",
+      "contributions": 1
+    },
+    {
+      "login": "lovasoa",
+      "contributions": 1
+    },
+    {
+      "login": "patrickhlauke",
+      "contributions": 1
+    },
+    {
+      "login": "paulradzkov",
+      "contributions": 1
+    },
+    {
+      "login": "4refael",
+      "contributions": 1
+    },
+    {
+      "login": "rdela",
+      "contributions": 1
+    },
+    {
+      "login": "slavanga",
+      "contributions": 1
+    },
+    {
+      "login": "tj",
+      "contributions": 1
+    },
+    {
+      "login": "tjvantoll",
+      "contributions": 1
+    },
+    {
+      "login": "tdhooper",
+      "contributions": 1
+    },
+    {
+      "login": "yochem",
+      "contributions": 1
+    },
+    {
+      "login": "zlatanvasovic",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T09:15:06.757693Z"
+}

@@ -1,0 +1,1926 @@
+{
+  "full_name": "scutan90/DeepLearning-500-questions",
+  "owner": "scutan90",
+  "name": "DeepLearning-500-questions",
+  "url": "https://github.com/scutan90/DeepLearning-500-questions",
+  "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06",
+  "primary_language": "JavaScript",
+  "topics": [],
+  "license_spdx": "GPL-3.0",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 57457,
+  "forks": 15911,
+  "open_issues": 120,
+  "created_at": "2018-06-27T06:36:45Z",
+  "pushed_at": "2024-06-26T12:10:14Z",
+  "updated_at": "2026-06-28T03:43:19Z",
+  "commits": [
+    {
+      "sha": "6087a06b112c3c28b885ab2f794535c19a9e4326",
+      "author_login": "scutan90",
+      "authored_at": "2021-10-14T05:49:28Z",
+      "message": "Merge pull request #510 from w8501/patch-1"
+    },
+    {
+      "sha": "4fb5632e5cfdb76082303aef2672a3c4aead78f2",
+      "author_login": "scutan90",
+      "authored_at": "2021-10-14T05:48:59Z",
+      "message": "Merge pull request #515 from alihan-ozturk/patch-2"
+    },
+    {
+      "sha": "7f9ec0a996bf1a47254a408c2555c3574401f248",
+      "author_login": "alihan-ozturk",
+      "authored_at": "2021-05-30T12:32:26Z",
+      "message": "typo"
+    },
+    {
+      "sha": "fddc2a6ba25c390c17081288deb57ebc308a750c",
+      "author_login": "w8501",
+      "authored_at": "2021-03-22T11:03:44Z",
+      "message": "Update 第一章_数学基础.md"
+    },
+    {
+      "sha": "c2960620e24f5f42108f6f474aac41c95ceb96cf",
+      "author_login": "scutan90",
+      "authored_at": "2021-03-17T00:58:30Z",
+      "message": "Merge pull request #507 from l0rraine/l0rraine-patch-1"
+    },
+    {
+      "sha": "196ebda3e0ca7328f2ca48ac00ada5777bbe744d",
+      "author_login": "scutan90",
+      "authored_at": "2021-03-17T00:58:06Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "590cfa1ecef65138749f025facf93498c23baaf2",
+      "author_login": "l0rraine",
+      "authored_at": "2021-01-29T03:12:41Z",
+      "message": "Update 第九章_图像分割.md"
+    },
+    {
+      "sha": "df306793fd88d54818d9c57f3c3bc871720127dc",
+      "author_login": "l0rraine",
+      "authored_at": "2021-01-29T02:51:26Z",
+      "message": "Update 第九章_图像分割.md"
+    },
+    {
+      "sha": "dacea406273160928ec9bdcb7ef8ab13a3fb1129",
+      "author_login": "scutan90",
+      "authored_at": "2021-01-04T06:54:12Z",
+      "message": "Merge pull request #500 from arjun-krishna1/master"
+    },
+    {
+      "sha": "5e2ab180580660d9f717ceb7baf97f5eb82f7a3d",
+      "author_login": "scutan90",
+      "authored_at": "2021-01-04T06:53:55Z",
+      "message": "Merge pull request #503 from LucaJiang/patch-1"
+    },
+    {
+      "sha": "591b87d6da7c5f4de75900630850225264f24e0d",
+      "author_login": "scutan90",
+      "authored_at": "2021-01-04T06:53:17Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "92579ea74c29e2fea71a4a5e8df8b003cd4b8fae",
+      "author_login": "scutan90",
+      "authored_at": "2021-01-04T06:50:29Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "0333a8f8245078c353968d16f41066e097a9a9ff",
+      "author_login": null,
+      "authored_at": "2020-12-29T07:50:09Z",
+      "message": "Update 第三章_深度学习基础.md"
+    },
+    {
+      "sha": "258fa70534a3f9cec4e182241721c50cf6fac90b",
+      "author_login": "arjun-krishna1",
+      "authored_at": "2020-11-28T14:59:38Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "4cd34e6ec87951a8fbc0c2ef4eac7a56517dba28",
+      "author_login": "arjun-krishna1",
+      "authored_at": "2020-11-28T14:57:19Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "0585d5d01bc059d55dd6a288ab12b23c47849b9a",
+      "author_login": "scutan90",
+      "authored_at": "2020-08-30T05:09:46Z",
+      "message": "Merge pull request #486 from songyi1999/patch-2"
+    },
+    {
+      "sha": "a574e2ed65bc9ed73b95083bed997015b7c9d6fa",
+      "author_login": "songyi1999",
+      "authored_at": "2020-08-07T02:04:07Z",
+      "message": "Update ch7.md"
+    },
+    {
+      "sha": "4e9cd5e6e2a86e092b58aeda1ec05255044122fe",
+      "author_login": "scutan90",
+      "authored_at": "2020-07-30T01:15:39Z",
+      "message": "Merge pull request #473 from naah69/patch-1"
+    },
+    {
+      "sha": "bedcfd9af3203148c25f37d5c9a242781068ea75",
+      "author_login": "scutan90",
+      "authored_at": "2020-07-30T01:15:19Z",
+      "message": "Merge pull request #475 from yang-chenyu104/patch-1"
+    },
+    {
+      "sha": "c8c06ed411829a422f7930edb4573b98c0f12747",
+      "author_login": "scutan90",
+      "authored_at": "2020-07-30T01:15:06Z",
+      "message": "Merge pull request #477 from naah69/master"
+    },
+    {
+      "sha": "7c8871ae319a9bd3bb1ce0c66349386a53aace7f",
+      "author_login": "scutan90",
+      "authored_at": "2020-07-30T01:14:41Z",
+      "message": "Merge pull request #478 from YifeiCN/patch-1"
+    },
+    {
+      "sha": "36c8b4106e437a506d8eb8b6f352f4f030b13c80",
+      "author_login": "scutan90",
+      "authored_at": "2020-07-30T01:14:26Z",
+      "message": "Merge pull request #482 from Zerg-Overmind/patch-1"
+    },
+    {
+      "sha": "2021aa1820c6e4e548fe4db11cbbfd2cfa7868bc",
+      "author_login": "scutan90",
+      "authored_at": "2020-07-30T01:14:06Z",
+      "message": "Merge pull request #483 from Zerg-Overmind/patch-2"
+    },
+    {
+      "sha": "38e56855d2a8af021a85dcb1bd372a35f36e7177",
+      "author_login": "Zerg-Overmind",
+      "authored_at": "2020-07-20T12:06:21Z",
+      "message": "Update 第二章_机器学习基础.md"
+    },
+    {
+      "sha": "3845dae3b8ed1be2adec95a913604973178aa74e",
+      "author_login": "Zerg-Overmind",
+      "authored_at": "2020-07-20T10:00:47Z",
+      "message": "Update 第三章_深度学习基础.md"
+    },
+    {
+      "sha": "db419550115b6046e446c1f8ad640e88b0e43bcf",
+      "author_login": "YifeiCN",
+      "authored_at": "2020-06-26T13:10:28Z",
+      "message": "Update 第一章_数学基础.md"
+    },
+    {
+      "sha": "cf879e271800655db850a1ca947aba9d7110150f",
+      "author_login": "naah69",
+      "authored_at": "2020-05-22T04:26:56Z",
+      "message": "github page"
+    },
+    {
+      "sha": "659fbdf2641f39810adb282504913d4e48de1c98",
+      "author_login": "naah69",
+      "authored_at": "2020-05-22T04:15:55Z",
+      "message": "github page"
+    },
+    {
+      "sha": "98d78723426a23bc1d99d156d248016d953942c0",
+      "author_login": "yang-chenyu104",
+      "authored_at": "2020-05-21T17:02:32Z",
+      "message": "Create 深度学习2020"
+    },
+    {
+      "sha": "029193a5dbc869d1c8e73a347031f9298c921feb",
+      "author_login": "naah69",
+      "authored_at": "2020-05-21T10:44:35Z",
+      "message": "version of web page adapt"
+    },
+    {
+      "sha": "1ddddb1e5be08334274fe30a59ed26279cbe67e4",
+      "author_login": "naah69",
+      "authored_at": "2020-05-21T10:29:42Z",
+      "message": "fix style error"
+    },
+    {
+      "sha": "d6af513c9e5f20b8cd3ff293349b5644944e7249",
+      "author_login": "scutan90",
+      "authored_at": "2020-05-03T04:23:28Z",
+      "message": "Merge pull request #472 from Sander-houqi/master"
+    },
+    {
+      "sha": "c7ee64bd1f0eef6c498d27098f19be1c262973d9",
+      "author_login": "scutan90",
+      "authored_at": "2020-05-03T04:23:06Z",
+      "message": "Merge pull request #453 from yangll0620/master"
+    },
+    {
+      "sha": "b1652c761a21a62d3f01ed9c44809a17f5826e9d",
+      "author_login": "Sander-houqi",
+      "authored_at": "2020-05-02T10:21:58Z",
+      "message": "更新第二章"
+    },
+    {
+      "sha": "f9511176401d351e12c5108d0fc5a3d01a3a47ac",
+      "author_login": "Sander-houqi",
+      "authored_at": "2020-05-02T09:02:09Z",
+      "message": "更新第一章"
+    },
+    {
+      "sha": "704cdc93ec7ce2df34fa353661d1b297e157240a",
+      "author_login": "scutan90",
+      "authored_at": "2020-04-11T08:00:12Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "aa5c90bcbc58221cf3b35e43055089d8558bd0e6",
+      "author_login": "scutan90",
+      "authored_at": "2020-02-26T04:37:14Z",
+      "message": "Merge pull request #455 from WeiYangBin/master"
+    },
+    {
+      "sha": "871085073d3f3a97b360269429a5fa177b317429",
+      "author_login": "scutan90",
+      "authored_at": "2020-02-26T04:36:42Z",
+      "message": "Merge pull request #459 from likunyao/master"
+    },
+    {
+      "sha": "a572693de16b62bb3c23f68351870b42a6d439aa",
+      "author_login": "likunyao",
+      "authored_at": "2020-01-07T09:34:49Z",
+      "message": "Merge pull request #1 from likunyao/likunyao-patch-1"
+    },
+    {
+      "sha": "b083107ae7199018d05deadb172606642a4a4af9",
+      "author_login": "likunyao",
+      "authored_at": "2020-01-07T09:33:43Z",
+      "message": "Update 第二章_机器学习基础.md"
+    },
+    {
+      "sha": "467a967e6a58f24287c6412d7173bef40a8dcf22",
+      "author_login": "WeiYangBin",
+      "authored_at": "2019-12-13T03:10:57Z",
+      "message": "Update 第六章_循环神经网络(RNN).md"
+    },
+    {
+      "sha": "8c7ca0dde5343855d7176484c5fa57a3994d438e",
+      "author_login": "yangll0620",
+      "authored_at": "2019-11-13T21:53:03Z",
+      "message": " 1. 非线性： 当激活函数是线性的 -> 非线性"
+    },
+    {
+      "sha": "ab25d99766d1765f902c14ceb29bf75a678e3427",
+      "author_login": "scutan90",
+      "authored_at": "2019-10-23T05:55:19Z",
+      "message": "Merge pull request #446 from gc5218112/master"
+    },
+    {
+      "sha": "3e736d0d9d5c06bb3168702d23ba2a7043c50e18",
+      "author_login": "gc5218112",
+      "authored_at": "2019-10-16T02:41:05Z",
+      "message": "Merge pull request #2 from scutan90/master"
+    },
+    {
+      "sha": "8f7a071065aec8607e402fcb4e27724f3a35ecf7",
+      "author_login": "scutan90",
+      "authored_at": "2019-09-28T07:46:35Z",
+      "message": "Merge pull request #445 from ming71/work"
+    },
+    {
+      "sha": "ea82effeb80269c8ea678322d5b5801b3e0e26ac",
+      "author_login": "ming71",
+      "authored_at": "2019-09-21T07:33:15Z",
+      "message": "update: weaakly Supervised Segmentation"
+    },
+    {
+      "sha": "7e1c17dc5860191b6673f81d34147d949c6bad35",
+      "author_login": "ming71",
+      "authored_at": "2019-09-21T07:01:59Z",
+      "message": "update: mmdetection"
+    },
+    {
+      "sha": "d9d0315a62147ce2c10f9de91d5ae602163e36e9",
+      "author_login": "ming71",
+      "authored_at": "2019-09-21T06:57:26Z",
+      "message": "update: mmdetection"
+    },
+    {
+      "sha": "3001551faf20288a26864307d3e02b10018c8768",
+      "author_login": "ming71",
+      "authored_at": "2019-09-21T06:24:52Z",
+      "message": "update ch08 & ch09"
+    },
+    {
+      "sha": "5c99a5a4722048b5c88c2ec23ee6f3f918687ba0",
+      "author_login": "scutan90",
+      "authored_at": "2019-09-14T02:46:45Z",
+      "message": "update QR"
+    },
+    {
+      "sha": "2961e7f84a4506fd8f898715eac8fb84a78c9efc",
+      "author_login": "scutan90",
+      "authored_at": "2019-09-14T02:45:31Z",
+      "message": "update QR"
+    },
+    {
+      "sha": "fdb69210338baac21c30ae086b48e3444ef95cbb",
+      "author_login": "scutan90",
+      "authored_at": "2019-08-29T13:29:35Z",
+      "message": "Merge pull request #436 from Supnuts/patch-1"
+    },
+    {
+      "sha": "d054239d95cb0c1a8e306d0a4d3fab33cc976b01",
+      "author_login": "scutan90",
+      "authored_at": "2019-08-29T13:27:56Z",
+      "message": "update QR"
+    },
+    {
+      "sha": "af2bd091edbbdd206f54b4f361e1069a6de4901b",
+      "author_login": "cheng-ren",
+      "authored_at": "2019-08-13T06:47:16Z",
+      "message": "Update 第十五章_异构运算、GPU及框架选型.md"
+    },
+    {
+      "sha": "ba9c5079be8699c4751a28f1bd46d8730a555f7f",
+      "author_login": "scutan90",
+      "authored_at": "2019-08-05T09:47:17Z",
+      "message": "Merge branch 'master' of https://github.com/scutan90/DeepLearning-500-questions"
+    },
+    {
+      "sha": "c3a7061b3be8d74ba04ca8183de6389ad0db825b",
+      "author_login": "scutan90",
+      "authored_at": "2019-08-05T09:47:11Z",
+      "message": "update QR"
+    },
+    {
+      "sha": "0b3afbbfb43838ef0fb2324dede13aa0448bffbc",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-31T08:03:47Z",
+      "message": "Merge pull request #426 from shiyadong123/patch-1"
+    },
+    {
+      "sha": "1217376d287db3fad3cd801772f2df2e07bc7502",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-31T03:54:44Z",
+      "message": "update QR"
+    },
+    {
+      "sha": "9266e7b05dbace64ccb1b9a2f342ca2811ee5635",
+      "author_login": "shiyadong123",
+      "authored_at": "2019-07-26T01:31:44Z",
+      "message": "Update 第六章_循环神经网络(RNN).md"
+    },
+    {
+      "sha": "9da3ab20926308b3576a4b7b846871f846c021cd",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-24T02:45:02Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "55633b02b1c1fb266adf3371f05f78e58c1aca3e",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-22T11:13:31Z",
+      "message": "update QR"
+    },
+    {
+      "sha": "38e42e9c0e1a4eed431812817f8a6ca049a0ebde",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-22T11:10:24Z",
+      "message": "update QR code"
+    },
+    {
+      "sha": "20ce36b2f34d47f1c807eef5ab3544fd7cd5e3dd",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-22T10:54:44Z",
+      "message": "Merge pull request #424 from Quorafind/master"
+    },
+    {
+      "sha": "631f667c1b1f4faa873a726af15a4f5e27226be9",
+      "author_login": "Quorafind",
+      "authored_at": "2019-07-21T13:20:31Z",
+      "message": "第十九章-添加海外申请流程"
+    },
+    {
+      "sha": "d0fb381004e414e06da335ec504385ebcf93c70a",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-21T10:14:23Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "bee1559b2b776ca917d7aa9b18846c012f8fb04a",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-21T09:56:51Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "6f07b96a2170682e0c87b7d33f27fa755d0c9da3",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-19T00:46:26Z",
+      "message": "Merge pull request #419 from Quorafind/master"
+    },
+    {
+      "sha": "229dda94b62b3de0c313aff74e2a24d51a8874c8",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-19T00:46:09Z",
+      "message": "Merge pull request #421 from jingwen-z/chap2"
+    },
+    {
+      "sha": "6d97041bf3f3beae22406fddb02806bfc116a4e6",
+      "author_login": "jingwen-z",
+      "authored_at": "2019-07-18T21:16:46Z",
+      "message": "Check and update spelling & punctuation"
+    },
+    {
+      "sha": "b43f4d831a68272fc63c8726a498d797bae8af6b",
+      "author_login": "jingwen-z",
+      "authored_at": "2019-07-18T21:07:08Z",
+      "message": "Update font bold format"
+    },
+    {
+      "sha": "fad862fd1779c9b845e0e0333b3490eec4515b53",
+      "author_login": "jingwen-z",
+      "authored_at": "2019-07-18T20:54:45Z",
+      "message": "Update Table2-1 format"
+    },
+    {
+      "sha": "1b2423346517c89d2b64236601a010064ab060ce",
+      "author_login": null,
+      "authored_at": "2019-07-18T13:05:46Z",
+      "message": "第十九章-添加软著申请流程以及注意细节"
+    },
+    {
+      "sha": "80ce88c4fe3dd45cf47e37bd57f60952d7028b94",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-18T12:02:20Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "acb526ffdf8789209f417e5b2f145a6b8a719a06",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-18T12:01:49Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a6d24f7a9a24326c32c3f1d51e4555786247a73d",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-18T06:31:30Z",
+      "message": "Merge pull request #418 from Quorafind/master"
+    },
+    {
+      "sha": "835c07a141833794bd756ac131af3daaffd6630f",
+      "author_login": null,
+      "authored_at": "2019-07-16T14:19:47Z",
+      "message": "第十九章-软件专利申请及权利保护"
+    },
+    {
+      "sha": "d4649abbce4b6bece47defe257c3bebc1429c9da",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-16T01:05:23Z",
+      "message": "Merge pull request #401 from SunHaozhe/master"
+    },
+    {
+      "sha": "f625f2411c2ebcfba07ea4fb0ee13ce0a623f50e",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-16T01:04:56Z",
+      "message": "Merge pull request #404 from layumi/patch-1"
+    },
+    {
+      "sha": "e01d1876f001a36275a409f39ba461d146bbe294",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-16T01:02:45Z",
+      "message": "Merge pull request #398 from northfun/master"
+    },
+    {
+      "sha": "294867cf7423cedf38e7e9e3eebb4feceafb2dac",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-16T01:02:17Z",
+      "message": "Merge pull request #416 from zhnlk/patch-1"
+    },
+    {
+      "sha": "08e8c0cd19f998ebea9206cc3ccddd44b05ab00a",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-16T01:01:58Z",
+      "message": "Merge pull request #417 from zhnlk/patch-2"
+    },
+    {
+      "sha": "2bb39dfeba55d4a6b8bce3b34626928905459ed3",
+      "author_login": "zhnlk",
+      "authored_at": "2019-07-15T05:35:58Z",
+      "message": "update 18.2.4 img"
+    },
+    {
+      "sha": "f130d320ff46b3c53426f41226344cc050ec9d2b",
+      "author_login": "zhnlk",
+      "authored_at": "2019-07-15T05:29:44Z",
+      "message": "update 18.2.4 img"
+    },
+    {
+      "sha": "76ccd18bce1e735f3aaa5d8808d7b6e11d4c15b8",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-13T08:43:14Z",
+      "message": "Merge pull request #414 from jingwen-z/chapter2-tables"
+    },
+    {
+      "sha": "17976fcbc351196c043ef2cc8d31ea641309863d",
+      "author_login": "jingwen-z",
+      "authored_at": "2019-07-12T21:26:30Z",
+      "message": "Update table 2.12.8"
+    },
+    {
+      "sha": "859040b34b62c32254a9b204c09c65f12edfc759",
+      "author_login": "jingwen-z",
+      "authored_at": "2019-07-12T21:20:09Z",
+      "message": "Update contributor list"
+    },
+    {
+      "sha": "476e1cee97c6299ba219e276e372977f2dcbd326",
+      "author_login": "jingwen-z",
+      "authored_at": "2019-07-12T21:10:50Z",
+      "message": "Update tables' format, English translation, add contributor's name"
+    },
+    {
+      "sha": "bd1dc721f8b6357f0c60bd5fad2132aa68c96d50",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-12T08:01:06Z",
+      "message": "Merge pull request #399 from youngxiao/master"
+    },
+    {
+      "sha": "c4926ac0c32da771409d7818bec4883b95d8a6bf",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-12T07:59:41Z",
+      "message": "Merge pull request #395 from alphadl/patch-1"
+    },
+    {
+      "sha": "9e82b881bd8e75516391aeab0ce8f68554721b6b",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-12T07:58:48Z",
+      "message": "Merge pull request #405 from jingwen-z/en-chapter4-tables"
+    },
+    {
+      "sha": "545e37a12d3c616b1ce611f210406df421bb5b9f",
+      "author_login": "jingwen-z",
+      "authored_at": "2019-07-11T20:37:17Z",
+      "message": "Update table"
+    },
+    {
+      "sha": "4658f1f51c39cc16e26a3625f174fcc18f95a27d",
+      "author_login": "layumi",
+      "authored_at": "2019-07-11T13:37:13Z",
+      "message": "Add 2019CVPR Paper and examples for GAN"
+    },
+    {
+      "sha": "a04c65c016058dd10a20df1946b22384e8d5288b",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-11T11:40:30Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "baa7e9052b6c76b840be1f0f6a3cdd925322d609",
+      "author_login": "scutan90",
+      "authored_at": "2019-07-11T11:40:08Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e122c722c766234ccd3597ae014f020730492fb7",
+      "author_login": "SunHaozhe",
+      "authored_at": "2019-07-09T22:21:18Z",
+      "message": "Update 第二章_机器学习基础.md"
+    },
+    {
+      "sha": "33da60df75a7193bc3c08838a5dbbae4ceb123e6",
+      "author_login": "SunHaozhe",
+      "authored_at": "2019-07-09T22:20:28Z",
+      "message": "Update 第一章_数学基础.md"
+    },
+    {
+      "sha": "a62abc6856d2f64f5eff7b45a51cb5254f91bfbf",
+      "author_login": "youngxiao",
+      "authored_at": "2019-07-08T09:26:43Z",
+      "message": "Update 第八章_目标检测.md"
+    },
+    {
+      "sha": "80df38330aa6d5916a2469f131783c91a1613a60",
+      "author_login": "youngxiao",
+      "authored_at": "2019-07-08T06:45:23Z",
+      "message": "Rename 第五章 卷积神经网络（CNN）.md to 第五章 卷积神经网络(CNN).md"
+    },
+    {
+      "sha": "569b04b765f9e7f9a733262482d1b85178df134e",
+      "author_login": "youngxiao",
+      "authored_at": "2019-07-08T06:33:14Z",
+      "message": "Update 第一章_数学基础.md"
+    },
+    {
+      "sha": "c58ead62047a6c1623d28e93317cfd38a008ae47",
+      "author_login": "youngxiao",
+      "authored_at": "2019-07-08T06:30:59Z",
+      "message": "Update 第二章_机器学习基础.md"
+    }
+  ],
+  "issues": [
+    {
+      "number": 550,
+      "title": "AIGC时代必读：【三年面试五年模拟】AIGC算法工程师面试秘籍项目致敬前辈：https://github.com/WeThinkIn/AIGC-Interview-Book",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-24T12:52:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 549,
+      "title": "fix typo in code 第十二章_网络搭建及训练.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-04-28T18:18:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 548,
+      "title": "English translation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-13T03:14:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 547,
+      "title": "程序员必备神器：稳定快速vpn机场",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-02T14:18:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 545,
+      "title": "RPN配图",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-15T08:28:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 544,
+      "title": "3.4.3表格中tanh导数错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-30T02:17:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 542,
+      "title": "第二章 机器学习基础 2.2过后直接2.8",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-05-08T06:03:38Z",
+      "closed_at": "2024-05-08T06:04:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 541,
+      "title": "Use VitePress build",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-03-08T09:57:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 540,
+      "title": "cdn 一直pending  并且 路径识别错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-07T07:59:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 539,
+      "title": "Update readme.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-27T05:31:25Z",
+      "closed_at": "2025-08-19T07:11:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 538,
+      "title": "目录和内容同时更新",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-12T04:06:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 537,
+      "title": "Update 目录预览.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-11-28T04:45:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 536,
+      "title": "2.3-2.7章节在哪里？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-18T07:10:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 535,
+      "title": "Update 第八章_目标检测.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-08-30T11:35:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 534,
+      "title": "Update 第八章_目标检测.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-08-30T11:30:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 533,
+      "title": "Add OSSF Scorecard security workflow",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-21T12:08:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 532,
+      "title": "Questions ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-27T12:07:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 531,
+      "title": "第二章机器学习基础.md文件中2.13章节中有几个三级标题序号出错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-17T14:07:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 530,
+      "title": "Small typo and clarity update",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-02-07T23:13:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 527,
+      "title": "aodv-uu过来的",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-20T09:31:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 526,
+      "title": "第三章激活函数",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-12T14:15:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 525,
+      "title": "“纠错”",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-31T07:16:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 524,
+      "title": "Update index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-07-16T02:22:54Z",
+      "closed_at": "2022-07-16T02:31:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 523,
+      "title": "修改第十七章的错字",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-04-10T07:35:16Z",
+      "closed_at": "2026-05-10T15:07:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 522,
+      "title": "Merge pull request #1 from scutan90/master",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-03-19T02:29:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 521,
+      "title": "[Style] fix wrong charactor",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-01-01T17:00:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 520,
+      "title": "真的有500问吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-06T07:01:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 519,
+      "title": "Deep learning",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-01T01:19:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 518,
+      "title": "123",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-30T14:39:03Z",
+      "closed_at": "2021-09-30T14:58:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 517,
+      "title": "使用方法，公式不能显示解决方法",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-09-12T12:28:47Z",
+      "closed_at": "2021-09-12T12:28:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 516,
+      "title": "Update 第一章_数学基础.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-12T11:57:39Z",
+      "closed_at": "2021-07-12T12:07:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 515,
+      "title": "typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-30T12:32:36Z",
+      "closed_at": "2021-10-14T05:49:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 514,
+      "title": "My professor assigned to find objective and named the project .As there is three self driving car ,now the question is to find objective and find some appropriate of project .For example in this proje",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-29T22:06:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 513,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-21T11:57:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 512,
+      "title": "深度学习五百问",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-04-12T15:50:04Z",
+      "closed_at": "2021-04-12T15:51:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 511,
+      "title": "DeepLearning",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-04-05T03:58:31Z",
+      "closed_at": "2021-04-05T04:21:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 510,
+      "title": "Update 第一章_数学基础.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-22T11:04:06Z",
+      "closed_at": "2021-10-14T05:49:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 509,
+      "title": "算法岗校招内推",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-03T02:09:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 508,
+      "title": "公式不能正常显示，应该怎么做？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-15T07:41:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 507,
+      "title": "L0rraine patch 1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-29T03:13:47Z",
+      "closed_at": "2021-03-17T00:58:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 506,
+      "title": "Translations: tool proposal",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-26T07:03:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 505,
+      "title": "第九章部分图片缺失",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-13T14:59:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 504,
+      "title": "您好 请问能否提供京东外的购书渠道 我所在地区短期内无货 很喜欢您的书",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-07T07:53:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 503,
+      "title": "Update 第三章_深度学习基础.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-29T07:50:46Z",
+      "closed_at": "2021-01-04T06:53:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 502,
+      "title": "目录预览与内容对不上",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-14T03:28:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 501,
+      "title": "Merge pull request #1 from scutan90/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-10T07:52:13Z",
+      "closed_at": "2020-12-10T07:52:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 500,
+      "title": "Update English version/README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-11-28T15:01:41Z",
+      "closed_at": "2021-01-04T06:54:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 499,
+      "title": "好多公式都不能正常显示，通篇都是$符号！！",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-27T11:28:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 498,
+      "title": "求NLP的问题答案！！！",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-12T08:41:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 497,
+      "title": "你好我有一个问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-01T13:05:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 496,
+      "title": "Github Activity.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-29T11:43:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 495,
+      "title": "Added Chapter 5 CNN in English Version",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-29T11:39:48Z",
+      "closed_at": "2021-01-19T19:48:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 494,
+      "title": "Merge pull request #1 from scutan90/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-26T06:35:59Z",
+      "closed_at": "2020-10-30T02:15:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 493,
+      "title": "Deep Learning",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-18T13:18:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 492,
+      "title": "deeplearning_500",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-15T09:33:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 490,
+      "title": "关于第二章中的宏平均F1和微平均F1计算",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-11T10:30:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 489,
+      "title": "科技向善，来自常熟农商银行程序员的呼救！",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-23T12:57:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 488,
+      "title": "new merge pull request",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-15T18:27:51Z",
+      "closed_at": "2020-09-15T18:29:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 487,
+      "title": "latex的公式不能正常显示",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-22T16:24:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 486,
+      "title": "Update ch7.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-08-07T02:04:29Z",
+      "closed_at": "2020-08-30T05:09:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 484,
+      "title": "好多公式都不能正常显示",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-07-31T08:13:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 483,
+      "title": "Update 第二章_机器学习基础.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-20T12:06:40Z",
+      "closed_at": "2020-07-30T01:14:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 482,
+      "title": "Update 第三章_深度学习基础.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-20T10:15:04Z",
+      "closed_at": "2020-07-30T01:14:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 481,
+      "title": "是否有计划定期发布pdf?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-07-14T17:50:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 480,
+      "title": "LaTeX版本",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-07-09T00:26:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 479,
+      "title": "第十章 强化学习 有很多需要改进的地方",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-08T06:20:08Z",
+      "closed_at": "2020-07-18T02:52:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 478,
+      "title": "Update 第一章_数学基础.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-26T13:10:48Z",
+      "closed_at": "2020-07-30T01:14:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 477,
+      "title": "github page",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-22T04:21:01Z",
+      "closed_at": "2020-07-30T01:15:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 476,
+      "title": "Gh page",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-22T03:59:34Z",
+      "closed_at": "2020-05-22T04:08:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 475,
+      "title": "Create 深度学习2020",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-21T17:03:51Z",
+      "closed_at": "2020-07-30T01:15:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 474,
+      "title": "是否愿意接受web版本的pr",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-21T10:36:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 473,
+      "title": "fix style error",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-21T10:30:05Z",
+      "closed_at": "2020-07-30T01:15:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 472,
+      "title": "更新第一章",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-02T09:06:23Z",
+      "closed_at": "2020-05-03T04:23:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 471,
+      "title": "第四章经典网络 resnet",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-20T11:28:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 470,
+      "title": "3.2.3的最后一个图，两个卷积核的运算明显有错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-06T13:14:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 469,
+      "title": "tensorRT部署哪里有资源呢？推荐一下",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-04T08:57:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 468,
+      "title": "公式不能够正常显示",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-03T06:12:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 467,
+      "title": "Merge pull request #1 from scutan90/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-01T11:44:15Z",
+      "closed_at": "2020-05-03T04:32:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 466,
+      "title": "3.4.3 tanh激活函数求导有误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-27T09:49:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 465,
+      "title": "migration learning?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-03-05T09:12:39Z",
+      "closed_at": "2020-08-17T07:21:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 464,
+      "title": "Update 第二章_机器学习基础.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-03-03T07:35:46Z",
+      "closed_at": "2020-05-03T04:32:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 463,
+      "title": "请问现在达到的最深的网络是多少层？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-02-26T22:04:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 462,
+      "title": "购书意向",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-02-22T12:16:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 461,
+      "title": "rnn，强化学习那些不会，别的检测统统会，基本知识也会 ，有多少的offer？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-02-11T04:56:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 460,
+      "title": "Update 第一章_数学基础.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-01-21T09:42:33Z",
+      "closed_at": "2020-01-21T09:49:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 459,
+      "title": "2.14.3最小化类内方差公式错误",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-01-07T09:36:26Z",
+      "closed_at": "2020-02-26T04:36:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 458,
+      "title": "第四章经典网络ZFNet 图4.5",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-02T00:50:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 457,
+      "title": "第三章 <3.2.2如何计算神经网络的输出?>公式内容存疑？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-12-29T21:42:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 456,
+      "title": "建议加入量化技术等模型压缩的相关章节",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-12-20T03:53:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 455,
+      "title": "Update 第六章_循环神经网络(RNN).md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-12-13T03:12:05Z",
+      "closed_at": "2020-02-26T04:37:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 454,
+      "title": "[fix typos] Update 第六章_循环神经网络(RNN).md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-11-25T23:55:52Z",
+      "closed_at": "2020-05-03T04:32:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 453,
+      "title": " 1. 非线性： 当激活函数是线性的 -> 非线性",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-11-18T16:01:13Z",
+      "closed_at": "2020-05-03T04:23:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 452,
+      "title": "为什么代价函数要非负？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-13T01:08:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 451,
+      "title": "MD格式问题，数学符号公式不能正确显示",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-08T03:30:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 450,
+      "title": "MD格式问题，数学符号公式不能正确显示",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-07T06:56:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 449,
+      "title": "123",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-03T15:02:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 448,
+      "title": "第六章_循环神经网络(RNN) 6.13.4部分有误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-10-25T03:19:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 447,
+      "title": "NLP部分不再更新了吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-10-20T08:58:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 446,
+      "title": "Merge pull request #1 from scutan90/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-29T00:58:24Z",
+      "closed_at": "2019-10-23T05:55:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 445,
+      "title": "Work",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-21T07:36:41Z",
+      "closed_at": "2019-09-28T07:46:36Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "scutan90",
+      "contributions": 559
+    },
+    {
+      "login": "CoderOverflow",
+      "contributions": 177
+    },
+    {
+      "login": "HuangQinJian",
+      "contributions": 48
+    },
+    {
+      "login": "liangzhicheng120",
+      "contributions": 33
+    },
+    {
+      "login": "Troyliu777",
+      "contributions": 32
+    },
+    {
+      "login": "shw2018",
+      "contributions": 30
+    },
+    {
+      "login": "aa12356jm",
+      "contributions": 28
+    },
+    {
+      "login": "tectal",
+      "contributions": 24
+    },
+    {
+      "login": "xiyanxiyan10",
+      "contributions": 23
+    },
+    {
+      "login": "deasonyuan",
+      "contributions": 20
+    },
+    {
+      "login": "ChaofWang",
+      "contributions": 19
+    },
+    {
+      "login": "limberc",
+      "contributions": 18
+    },
+    {
+      "login": "szho42",
+      "contributions": 13
+    },
+    {
+      "login": "AutuanLiu",
+      "contributions": 9
+    },
+    {
+      "login": "KeyForce",
+      "contributions": 9
+    },
+    {
+      "login": "leikunx",
+      "contributions": 9
+    },
+    {
+      "login": "jingwen-z",
+      "contributions": 7
+    },
+    {
+      "login": "Quorafind",
+      "contributions": 7
+    },
+    {
+      "login": "amusi",
+      "contributions": 6
+    },
+    {
+      "login": "EmmanuelMess",
+      "contributions": 6
+    },
+    {
+      "login": "zyuegege",
+      "contributions": 6
+    },
+    {
+      "login": "Chenglei-QIAO",
+      "contributions": 6
+    },
+    {
+      "login": "alphadl",
+      "contributions": 6
+    },
+    {
+      "login": "mengban",
+      "contributions": 6
+    },
+    {
+      "login": "PEGASUS1993",
+      "contributions": 6
+    },
+    {
+      "login": "hwade",
+      "contributions": 5
+    },
+    {
+      "login": "youngxiao",
+      "contributions": 5
+    },
+    {
+      "login": "sjsdfg",
+      "contributions": 4
+    },
+    {
+      "login": "naah69",
+      "contributions": 4
+    },
+    {
+      "login": "Jancd",
+      "contributions": 4
+    },
+    {
+      "login": "SubsonBigod",
+      "contributions": 4
+    },
+    {
+      "login": "ming71",
+      "contributions": 4
+    },
+    {
+      "login": "anonymone",
+      "contributions": 4
+    },
+    {
+      "login": "infdahai",
+      "contributions": 4
+    },
+    {
+      "login": "wmk26",
+      "contributions": 3
+    },
+    {
+      "login": "weafung",
+      "contributions": 3
+    },
+    {
+      "login": "SuperWayLiu",
+      "contributions": 3
+    },
+    {
+      "login": "murray7",
+      "contributions": 3
+    },
+    {
+      "login": "henryace",
+      "contributions": 3
+    },
+    {
+      "login": "intHbl",
+      "contributions": 3
+    },
+    {
+      "login": "shengyp",
+      "contributions": 3
+    },
+    {
+      "login": "gc5218112",
+      "contributions": 2
+    },
+    {
+      "login": "xfguo-ucas",
+      "contributions": 2
+    },
+    {
+      "login": "likunyao",
+      "contributions": 2
+    },
+    {
+      "login": "l0rraine",
+      "contributions": 2
+    },
+    {
+      "login": "Sander-houqi",
+      "contributions": 2
+    },
+    {
+      "login": "zhiyumeng",
+      "contributions": 2
+    },
+    {
+      "login": "dvlee1024",
+      "contributions": 2
+    },
+    {
+      "login": "arjun-krishna1",
+      "contributions": 2
+    },
+    {
+      "login": "Zdafeng",
+      "contributions": 2
+    },
+    {
+      "login": "kiddie92",
+      "contributions": 2
+    },
+    {
+      "login": "Daniel1586",
+      "contributions": 2
+    },
+    {
+      "login": "zhnlk",
+      "contributions": 2
+    },
+    {
+      "login": "rollroll90",
+      "contributions": 2
+    },
+    {
+      "login": "Jiramew",
+      "contributions": 2
+    },
+    {
+      "login": "northfun",
+      "contributions": 2
+    },
+    {
+      "login": "Zerg-Overmind",
+      "contributions": 2
+    },
+    {
+      "login": "xu-song",
+      "contributions": 2
+    },
+    {
+      "login": "SunHaozhe",
+      "contributions": 2
+    },
+    {
+      "login": "alihan-ozturk",
+      "contributions": 1
+    },
+    {
+      "login": "Changzhisong",
+      "contributions": 1
+    },
+    {
+      "login": "djwackey",
+      "contributions": 1
+    },
+    {
+      "login": "fzyzcjy",
+      "contributions": 1
+    },
+    {
+      "login": "jindongwang",
+      "contributions": 1
+    },
+    {
+      "login": "1146976048qq",
+      "contributions": 1
+    },
+    {
+      "login": "LyleMi",
+      "contributions": 1
+    },
+    {
+      "login": "n0vad3v",
+      "contributions": 1
+    },
+    {
+      "login": "w8501",
+      "contributions": 1
+    },
+    {
+      "login": "shiyadong123",
+      "contributions": 1
+    },
+    {
+      "login": "songyi1999",
+      "contributions": 1
+    },
+    {
+      "login": "espectre",
+      "contributions": 1
+    },
+    {
+      "login": "tangyubin",
+      "contributions": 1
+    },
+    {
+      "login": "whughw",
+      "contributions": 1
+    },
+    {
+      "login": "yang-chenyu104",
+      "contributions": 1
+    },
+    {
+      "login": "yangll0620",
+      "contributions": 1
+    },
+    {
+      "login": "zkailinzhang",
+      "contributions": 1
+    },
+    {
+      "login": "izayoi5776",
+      "contributions": 1
+    },
+    {
+      "login": "cheng-ren",
+      "contributions": 1
+    },
+    {
+      "login": "ares5221",
+      "contributions": 1
+    },
+    {
+      "login": "ersanliqiao",
+      "contributions": 1
+    },
+    {
+      "login": "Callie-Zhu",
+      "contributions": 1
+    },
+    {
+      "login": "Finn-Fengming",
+      "contributions": 1
+    },
+    {
+      "login": "haozhu233",
+      "contributions": 1
+    },
+    {
+      "login": "panlanfeng",
+      "contributions": 1
+    },
+    {
+      "login": "windar427",
+      "contributions": 1
+    },
+    {
+      "login": "MetoMala",
+      "contributions": 1
+    },
+    {
+      "login": "MohibAyub",
+      "contributions": 1
+    },
+    {
+      "login": "Tr4cer0",
+      "contributions": 1
+    },
+    {
+      "login": "xiepeng21",
+      "contributions": 1
+    },
+    {
+      "login": "pandeyprafull",
+      "contributions": 1
+    },
+    {
+      "login": "mandalia-ravi",
+      "contributions": 1
+    },
+    {
+      "login": "tsstss123",
+      "contributions": 1
+    },
+    {
+      "login": "zhiyuanding",
+      "contributions": 1
+    },
+    {
+      "login": "taskset",
+      "contributions": 1
+    },
+    {
+      "login": "WrRan",
+      "contributions": 1
+    },
+    {
+      "login": "X-21",
+      "contributions": 1
+    },
+    {
+      "login": "busyboxs",
+      "contributions": 1
+    },
+    {
+      "login": "WeiYangBin",
+      "contributions": 1
+    },
+    {
+      "login": "YifeiCN",
+      "contributions": 1
+    },
+    {
+      "login": "layumi",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T09:15:05.108115Z"
+}
