@@ -1,12 +1,8 @@
-"""Repository discovery engine.
-
-Searches GitHub for repositories that look potentially abandoned, filters them,
-deduplicates against previously seen repositories, and returns candidates for
-collection.
-"""
+"""Repository discovery engine."""
 
 from __future__ import annotations
 
+import random
 from datetime import UTC, datetime, timedelta
 
 from fossil.api import GitHubClient
@@ -31,17 +27,20 @@ class DiscoveryEngine:
         limit: int = 50,
         seen: set[str] | None = None,
     ) -> list[Candidate]:
-        """Return up to ``limit`` unseen candidate repositories."""
         seen = seen or set()
         cutoff = datetime.now(UTC) - timedelta(days=inactive_days)
         query = self._build_query(min_stars, cutoff, language)
         logger.info("Discovery query: %s", query)
 
+        # Randomly pick a page between 1-5 to avoid always returning the same top repos
+        page = random.randint(1, 5)
+        logger.info("Discovery starting at page %d", page)
+
         candidates: list[Candidate] = []
         for item in self._client.paginate(
             "/search/repositories",
-            params={"q": query, "sort": "stars", "order": "desc"},
-            max_items=limit * 3,  # over-fetch to survive dedup
+            params={"q": query, "sort": "stars", "order": "desc", "page": page},
+            max_items=limit * 3,
         ):
             full_name = item.get("full_name")
             if not full_name or full_name in seen:
