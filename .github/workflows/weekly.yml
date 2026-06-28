@@ -28,7 +28,7 @@ jobs:
         run: uv python install 3.12
 
       - name: Install dependencies
-        run: uv sync --group dev
+        run: uv sync
 
       - name: Run excavation
         env:
@@ -45,5 +45,6 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "chore(excavation): weekly autopsy update [skip ci]"
+            git pull --rebase origin main
             git push
           fi
