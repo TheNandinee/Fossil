@@ -206,16 +206,6 @@ dependencies = [
     { name = "typer" },
 ]
 
-[package.optional-dependencies]
-dev = [
-    { name = "mypy" },
-    { name = "pytest" },
-    { name = "pytest-cov" },
-    { name = "pytest-httpx" },
-    { name = "ruff" },
-    { name = "types-python-dateutil" },
-]
-
 [package.dev-dependencies]
 dev = [
     { name = "mypy" },
@@ -231,20 +221,13 @@ dev = [
 requires-dist = [
     { name = "httpx", specifier = ">=0.27" },
     { name = "jinja2", specifier = ">=3.1" },
-    { name = "mypy", marker = "extra == 'dev'", specifier = ">=1.10" },
     { name = "pydantic", specifier = ">=2.7" },
     { name = "pydantic-settings", specifier = ">=2.3" },
-    { name = "pytest", marker = "extra == 'dev'", specifier = ">=8.2" },
-    { name = "pytest-cov", marker = "extra == 'dev'", specifier = ">=5.0" },
-    { name = "pytest-httpx", marker = "extra == 'dev'", specifier = ">=0.30" },
     { name = "python-dotenv", specifier = ">=1.0" },
     { name = "rich", specifier = ">=13.7" },
-    { name = "ruff", marker = "extra == 'dev'", specifier = ">=0.5" },
     { name = "tenacity", specifier = ">=8.4" },
     { name = "typer", specifier = ">=0.12" },
-    { name = "types-python-dateutil", marker = "extra == 'dev'" },
 ]
-provides-extras = ["dev"]
 
 [package.metadata.requires-dev]
 dev = [
