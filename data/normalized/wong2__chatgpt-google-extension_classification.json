@@ -1,0 +1,123 @@
+{
+  "full_name": "wong2/chatgpt-google-extension",
+  "cause": "bus_factor_collapse",
+  "confidence": 0.97,
+  "death_score": 0.967,
+  "supporting_evidence": [
+    {
+      "analyzer": "commits",
+      "code": "last_commit_age",
+      "summary": "Last commit was 977 days ago",
+      "severity": "high",
+      "value": 977,
+      "unit": "days"
+    },
+    {
+      "analyzer": "contributors",
+      "code": "high_concentration",
+      "summary": "Top contributor authored 91% of work",
+      "severity": "medium",
+      "value": 0.907,
+      "unit": "share"
+    },
+    {
+      "analyzer": "releases",
+      "code": "no_releases",
+      "summary": "Project has never published a dated release",
+      "severity": "low",
+      "value": null,
+      "unit": null
+    },
+    {
+      "analyzer": "commits",
+      "code": "commit_frequency",
+      "summary": "Averaged 10.1 commits/month over history",
+      "severity": "info",
+      "value": 10.07,
+      "unit": "commits/month"
+    }
+  ],
+  "analyses": [
+    {
+      "analyzer": "commits",
+      "evidence": [
+        {
+          "analyzer": "commits",
+          "code": "last_commit_age",
+          "summary": "Last commit was 977 days ago",
+          "severity": "high",
+          "value": 977,
+          "unit": "days"
+        },
+        {
+          "analyzer": "commits",
+          "code": "commit_frequency",
+          "summary": "Averaged 10.1 commits/month over history",
+          "severity": "info",
+          "value": 10.07,
+          "unit": "commits/month"
+        }
+      ],
+      "metrics": {
+        "analyzer": "commits",
+        "metrics": {
+          "commit_count_window": 100.0,
+          "days_since_last_commit": 977.1,
+          "commits_per_month": 10.07
+        }
+      }
+    },
+    {
+      "analyzer": "contributors",
+      "evidence": [
+        {
+          "analyzer": "contributors",
+          "code": "high_concentration",
+          "summary": "Top contributor authored 91% of work",
+          "severity": "medium",
+          "value": 0.907,
+          "unit": "share"
+        }
+      ],
+      "metrics": {
+        "analyzer": "contributors",
+        "metrics": {
+          "contributor_count": 16.0,
+          "total_contributions": 227.0,
+          "top_contributor_share": 0.907
+        }
+      }
+    },
+    {
+      "analyzer": "issues",
+      "evidence": [],
+      "metrics": {
+        "analyzer": "issues",
+        "metrics": {
+          "issue_count": 0.0,
+          "open_issue_count": 0.0
+        }
+      }
+    },
+    {
+      "analyzer": "releases",
+      "evidence": [
+        {
+          "analyzer": "releases",
+          "code": "no_releases",
+          "summary": "Project has never published a dated release",
+          "severity": "low",
+          "value": null,
+          "unit": null
+        }
+      ],
+      "metrics": {
+        "analyzer": "releases",
+        "metrics": {
+          "release_count": 0.0
+        }
+      }
+    }
+  ],
+  "narrative": null
+}

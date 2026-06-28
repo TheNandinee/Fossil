@@ -1,0 +1,1574 @@
+{
+  "full_name": "francistao/LearningNotes",
+  "owner": "francistao",
+  "name": "LearningNotes",
+  "url": "https://github.com/francistao/LearningNotes",
+  "description": "Enjoy Learning.",
+  "primary_language": null,
+  "topics": [
+    "android",
+    "java",
+    "jvm"
+  ],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 13145,
+  "forks": 3941,
+  "open_issues": 93,
+  "created_at": "2016-06-08T16:09:17Z",
+  "pushed_at": "2024-08-13T17:24:18Z",
+  "updated_at": "2026-06-26T07:04:49Z",
+  "commits": [
+    {
+      "sha": "aa04b68b728a3505077f8d2a1ce931b758367b54",
+      "author_login": "francistao",
+      "authored_at": "2018-03-27T07:42:41Z",
+      "message": "Update readme"
+    },
+    {
+      "sha": "48ebba7cc3d1a5321427565b288304c1b3f9a677",
+      "author_login": "francistao",
+      "authored_at": "2018-03-27T07:42:03Z",
+      "message": "Update readme"
+    },
+    {
+      "sha": "0f591f45ae32a56a79889be1034aa3182c3b7f89",
+      "author_login": "francistao",
+      "authored_at": "2018-03-27T07:40:46Z",
+      "message": "Update readme"
+    },
+    {
+      "sha": "01fdd705c1b880a51e71772e5010383e5005441f",
+      "author_login": "francistao",
+      "authored_at": "2017-09-02T04:50:34Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "251bdf67426eedd6d70958a2304d68556ec234bf",
+      "author_login": "francistao",
+      "authored_at": "2017-08-05T11:05:03Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "fcdb640e8a8c0f683ee5a82b9b29e790089a83a0",
+      "author_login": "francistao",
+      "authored_at": "2017-08-05T11:04:01Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "71d1eb5d9fa3557d92a029f3f82dde097f168fb2",
+      "author_login": "francistao",
+      "authored_at": "2017-03-07T12:12:01Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "14a266f20877c418bbfe9f9fb8ed50669bb4127c",
+      "author_login": "francistao",
+      "authored_at": "2017-03-06T09:01:45Z",
+      "message": "Merge pull request #58 from tanglie1993/patch-8"
+    },
+    {
+      "sha": "c10387bc405a92798673325f0c7089b8fedf3647",
+      "author_login": "francistao",
+      "authored_at": "2017-03-06T09:01:26Z",
+      "message": "Merge pull request #59 from tanglie1993/patch-9"
+    },
+    {
+      "sha": "f7fb10b53676b6daa735862577bcefe49587ea12",
+      "author_login": "tanglie1993",
+      "authored_at": "2017-03-05T15:13:38Z",
+      "message": "修改错别字"
+    },
+    {
+      "sha": "2d1e6785b3fbb45320095e9d3abb15e33fe6c938",
+      "author_login": "tanglie1993",
+      "authored_at": "2017-03-05T14:57:50Z",
+      "message": "修正抄错的代码"
+    },
+    {
+      "sha": "19067761d9b024a876b722f66eac280555398977",
+      "author_login": "francistao",
+      "authored_at": "2017-01-13T08:11:43Z",
+      "message": "Merge pull request #45 from weiqingcai/master"
+    },
+    {
+      "sha": "d48f832ab67687af101277b25d0e1c7c47a9ee35",
+      "author_login": null,
+      "authored_at": "2017-01-11T15:48:47Z",
+      "message": "update README.md"
+    },
+    {
+      "sha": "6d1d88dfe2f5d43f70b1db5918bd2097ad2f7814",
+      "author_login": "francistao",
+      "authored_at": "2017-01-11T04:01:25Z",
+      "message": "Merge pull request #44 from weiqingcai/master"
+    },
+    {
+      "sha": "6cd334543938f0bcaab30acbe6806945fdee6215",
+      "author_login": null,
+      "authored_at": "2017-01-10T13:29:54Z",
+      "message": "经典的排序算法总结"
+    },
+    {
+      "sha": "487ae3f07ed1c735f8eb5fc8cb93ef2e092faf3d",
+      "author_login": null,
+      "authored_at": "2017-01-10T13:18:53Z",
+      "message": "NetWork"
+    },
+    {
+      "sha": "105b970df4500d68d69664c7b20e57f33c958bf8",
+      "author_login": null,
+      "authored_at": "2016-11-22T15:33:55Z",
+      "message": "Merge remote-tracking branch 'refs/remotes/GeniusVJR/master'"
+    },
+    {
+      "sha": "241c4cb642819da10bca2edd0d74be7b0ac22a92",
+      "author_login": "francistao",
+      "authored_at": "2016-11-22T15:14:11Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "6e496dd600e5b6d3d62f01453c9f84d0be58b0b1",
+      "author_login": "francistao",
+      "authored_at": "2016-11-18T11:00:15Z",
+      "message": "Merge pull request #39 from tanglie1993/patch-3"
+    },
+    {
+      "sha": "50a0528677a0ba4c6c0ec9ee948ddf528fea824e",
+      "author_login": "tanglie1993",
+      "authored_at": "2016-11-18T09:01:53Z",
+      "message": "修改错别字和病句"
+    },
+    {
+      "sha": "1170fc20a16edff3f4edd8acb9b500521115a18b",
+      "author_login": "francistao",
+      "authored_at": "2016-10-22T05:16:38Z",
+      "message": "Merge pull request #33 from akuma/patch-1"
+    },
+    {
+      "sha": "ebb6e865785cde22b97b553c40a4dc7e14c4e278",
+      "author_login": "akuma",
+      "authored_at": "2016-10-21T15:05:43Z",
+      "message": "Update Java基础知识.md"
+    },
+    {
+      "sha": "bf82fea37fe95d7738d9e8b106cdbab9570ae3bf",
+      "author_login": "francistao",
+      "authored_at": "2016-09-19T09:01:38Z",
+      "message": "Merge pull request #31 from kai660740/master"
+    },
+    {
+      "sha": "1d673cebb5031e4174c6a0d8a80ab32c20766b4f",
+      "author_login": null,
+      "authored_at": "2016-09-19T07:41:52Z",
+      "message": "modified:   \"Part2/JavaSE/HashTable\\346\\272\\220\\347\\240\\201\\345\\211\\226\\346\\236\\220.md\""
+    },
+    {
+      "sha": "c924ced919583972c09c5ab8ce7df9782b3e837b",
+      "author_login": "francistao",
+      "authored_at": "2016-09-16T01:50:26Z",
+      "message": "Merge pull request #30 from zubinxiong/patch-3"
+    },
+    {
+      "sha": "8a2d6e3bdbda88ff936076ccccde31cbb7b44a46",
+      "author_login": "zubinxiong",
+      "authored_at": "2016-09-13T14:12:29Z",
+      "message": "修改为 eventbus 3.0 的使用方法，并补充了关于3.0引进的索引加速功能"
+    },
+    {
+      "sha": "fc419918d3d032c3dbde116d2afb03b8ab7ff303",
+      "author_login": "francistao",
+      "authored_at": "2016-09-01T03:24:23Z",
+      "message": "Merge pull request #25 from zubinxiong/patch-1"
+    },
+    {
+      "sha": "9483807592b34711d240fe860e976c924c848c82",
+      "author_login": "zubinxiong",
+      "authored_at": "2016-08-31T02:21:07Z",
+      "message": "补充部分未回答的问题"
+    },
+    {
+      "sha": "4c404891faf69c8835c9c91aae6c77af1826301b",
+      "author_login": "francistao",
+      "authored_at": "2016-08-18T10:12:44Z",
+      "message": "Merge pull request #17 from eterrao/master"
+    },
+    {
+      "sha": "d1f4276fab67fb06af4c1482d079a6d47e1b9835",
+      "author_login": "francistao",
+      "authored_at": "2016-08-18T10:12:18Z",
+      "message": "Merge pull request #13 from HatCloud/patch-1"
+    },
+    {
+      "sha": "da27320351228302f52ba9fe9b77707c160eb617",
+      "author_login": "francistao",
+      "authored_at": "2016-08-15T08:21:53Z",
+      "message": "Merge pull request #24 from xuyushi/master"
+    },
+    {
+      "sha": "610767babbbf3abdf839967e624a06685fd071df",
+      "author_login": "xuyushi",
+      "authored_at": "2016-08-15T08:14:24Z",
+      "message": "程序循环层级错误"
+    },
+    {
+      "sha": "02b07f61815770493d5eaa8006ed8c9cfc95030f",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-08-03T04:56:33Z",
+      "message": "Update Java基础知识.md"
+    },
+    {
+      "sha": "4ad6ffd345468155116c21349b7f8dd8536b0c85",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-08-03T04:46:47Z",
+      "message": "更新了==与equals的区别"
+    },
+    {
+      "sha": "ac0094a3ba308956303d871e963df76ee1ed513e",
+      "author_login": "francistao",
+      "authored_at": "2016-07-30T08:21:31Z",
+      "message": "Merge branch 'master' of https://github.com/GeniusVJR/LearningNotes"
+    },
+    {
+      "sha": "9b60050b5bf5c1d0050a93f1e2ab60bec9f89e50",
+      "author_login": "francistao",
+      "authored_at": "2016-07-30T08:21:20Z",
+      "message": "UPDATE README"
+    },
+    {
+      "sha": "73d2eb2d31404a953e263ba78baeba50fd4f4608",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-07-30T05:55:37Z",
+      "message": "Merge branch 'master' of github.com:GeniusVJR/LearningNotes"
+    },
+    {
+      "sha": "942953da2e1cf3df5e6755803c613c0e64acc0aa",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-07-30T05:54:58Z",
+      "message": "修改issue#14 #10指出的错误"
+    },
+    {
+      "sha": "339e59741305ce74beca3099eb8fdff8d07bc9a8",
+      "author_login": "francistao",
+      "authored_at": "2016-07-30T05:47:35Z",
+      "message": "Merge pull request #18 from AlwaysBeMySelf/patch-2"
+    },
+    {
+      "sha": "bb24f1fb4a4cee97b65abe62aab107e7377a0652",
+      "author_login": "nhtzj",
+      "authored_at": "2016-07-30T05:37:42Z",
+      "message": "Update Listview详解.md"
+    },
+    {
+      "sha": "c93422b8810f12e213a9762402fffca7ac4f0873",
+      "author_login": "myrao",
+      "authored_at": "2016-07-28T15:49:25Z",
+      "message": "Fixed static Singleton pattern not be final"
+    },
+    {
+      "sha": "f65d4bed5f70fa8cf34d72d8713a15e9c01b84d2",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-07-27T03:42:24Z",
+      "message": "Update 线程通信基础流程分析.md"
+    },
+    {
+      "sha": "c3f7378d6c6cd01151c70d4f6333aef0f9c637a9",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-07-27T03:37:06Z",
+      "message": "增加了 线程通信基础流程分析.md"
+    },
+    {
+      "sha": "cb4cfc27fc3ba078898ade459655682c5f844eed",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-07-27T03:36:51Z",
+      "message": "增加了 线程通信基础流程分析.md"
+    },
+    {
+      "sha": "92fcb7d941fd9acb5d522fc2eff37e4847b7179a",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-07-27T03:30:01Z",
+      "message": "增加了 线程通信基础流程分析.md"
+    },
+    {
+      "sha": "58e6fdba681f71eb5793c55a0ec28c58f73ace46",
+      "author_login": "HatCloud",
+      "authored_at": "2016-07-26T03:26:12Z",
+      "message": "修复 公共资源类 中的一个问题"
+    },
+    {
+      "sha": "4695819a31edaa49f78da53c1608a36d36f88eb6",
+      "author_login": "francistao",
+      "authored_at": "2016-07-22T02:19:38Z",
+      "message": "UPDATE README"
+    },
+    {
+      "sha": "0b544b2530ad42a9ceac0ecb16725a51041c995b",
+      "author_login": "francistao",
+      "authored_at": "2016-07-19T14:22:52Z",
+      "message": "添加 Data Binding（数据绑定）用户指南 的链接"
+    },
+    {
+      "sha": "d57d6d2b1c4f2453401bb3b1920afb9b22e4da95",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-07-19T05:38:59Z",
+      "message": "Update Bitmap的分析与使用.md"
+    },
+    {
+      "sha": "d82fc247ab957726980062cd7bb8e7d1929817e6",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-07-19T05:32:36Z",
+      "message": "Update Bitmap的分析与使用.md"
+    },
+    {
+      "sha": "1b7752eba1ae3a5151d211520b17b029525bdf0f",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-07-19T05:27:31Z",
+      "message": "Update Bitmap的分析与使用.md"
+    },
+    {
+      "sha": "0ba427059cf3cdcb36887574864d6f540a0a50b4",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-07-19T05:20:10Z",
+      "message": "更新了Bitmap的分享与使用"
+    },
+    {
+      "sha": "eb0564ceeeecfac556288850d56faafacfa9f32a",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-07-19T05:19:17Z",
+      "message": "更新了Bitmap的分享与使用"
+    },
+    {
+      "sha": "1fa70f0675803cd5ebe89b5582e7d47d650fd8ff",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-07-19T05:17:31Z",
+      "message": "Merge branch 'master' of github.com:GeniusVJR/LearningNotes"
+    },
+    {
+      "sha": "92b9353b4e284e1174f1b465ef5b021c2f92d35b",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-07-19T05:16:42Z",
+      "message": "更新了Bitmap的分享与使用"
+    },
+    {
+      "sha": "8f649a9013fe8836ca801d7c4c4fd9576519aaca",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-07-18T16:50:54Z",
+      "message": "添加了Bitmap的分析与优化.md"
+    },
+    {
+      "sha": "786f5ac626f4822223cfde0e1ae3f352e0e280ea",
+      "author_login": "francistao",
+      "authored_at": "2016-07-18T16:50:49Z",
+      "message": "update"
+    },
+    {
+      "sha": "2ccbf3192397626371ee7ebca75bfe7e2b3026e1",
+      "author_login": "francistao",
+      "authored_at": "2016-07-07T12:59:21Z",
+      "message": "更新 EventBus源码分析的链接"
+    },
+    {
+      "sha": "cd1a1784cf743d0cac9a86a3ae2175a653f11c4c",
+      "author_login": "francistao",
+      "authored_at": "2016-07-06T11:14:51Z",
+      "message": "UPDATE README"
+    },
+    {
+      "sha": "75f36fc63391971406fc45193a9d8eb24e6b87a1",
+      "author_login": "francistao",
+      "authored_at": "2016-07-06T11:13:28Z",
+      "message": "更新 RecyclerView和ListView的异同"
+    },
+    {
+      "sha": "b3ffd053dcca0ffefb135c69df1ad2c27efe5b4d",
+      "author_login": "francistao",
+      "authored_at": "2016-07-06T10:34:31Z",
+      "message": "更新Retrofit2源码分析文章链接"
+    },
+    {
+      "sha": "0f9f75f7543bd8dd6696c1ef0c3016f0022c000e",
+      "author_login": "francistao",
+      "authored_at": "2016-07-06T08:13:00Z",
+      "message": "UPDATE README"
+    },
+    {
+      "sha": "b03f13f6c38d580d68251acffb3e4dc10d046880",
+      "author_login": "francistao",
+      "authored_at": "2016-07-06T08:08:28Z",
+      "message": "更新剑指Offer 数值的整数次方"
+    },
+    {
+      "sha": "c8c09f37bc88bcbae4c032e6f1ef598c5285386b",
+      "author_login": "francistao",
+      "authored_at": "2016-07-05T09:31:55Z",
+      "message": "UPDATE README"
+    },
+    {
+      "sha": "ddce2bf94de33cbdc86388faecb1ebefc0ac948a",
+      "author_login": "francistao",
+      "authored_at": "2016-07-05T09:29:58Z",
+      "message": "更新剑指Offer 圆圈中最后剩下的数字"
+    },
+    {
+      "sha": "415b9c96383fce3c4b66fca54deb30e7e6e4ebb8",
+      "author_login": "francistao",
+      "authored_at": "2016-07-04T13:01:38Z",
+      "message": "更新Glide源码分析的链接"
+    },
+    {
+      "sha": "2007b03b83771b29b6692cecb190d3c1e7d8fb87",
+      "author_login": "francistao",
+      "authored_at": "2016-07-02T08:09:25Z",
+      "message": "更新 简历该注意的地方"
+    },
+    {
+      "sha": "d32b25d65b0ef77d29cee5ab5e9fd58285613125",
+      "author_login": "francistao",
+      "authored_at": "2016-07-02T08:06:38Z",
+      "message": "更新Android基础知识"
+    },
+    {
+      "sha": "fcb295597963e0e360d338562d280aeef7d3a0e3",
+      "author_login": "francistao",
+      "authored_at": "2016-07-02T07:53:45Z",
+      "message": "Merge remote-tracking branch 'origin/master'"
+    },
+    {
+      "sha": "d68c889798ede6e8320d78188a241e51b92133ea",
+      "author_login": "francistao",
+      "authored_at": "2016-07-02T06:30:53Z",
+      "message": "更新Java基础知识"
+    },
+    {
+      "sha": "99d1e0f37abbb8880f146ec72198e954e8eeddc2",
+      "author_login": "francistao",
+      "authored_at": "2016-07-01T12:43:12Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "6b597a6fa96ff7d89fb5013613211627183a144a",
+      "author_login": "francistao",
+      "authored_at": "2016-07-01T10:31:42Z",
+      "message": "Merge pull request #7 from ihrthk/master"
+    },
+    {
+      "sha": "c52250e8b07fe345041964cff26ebaec70e6aead",
+      "author_login": "francistao",
+      "authored_at": "2016-07-01T10:28:38Z",
+      "message": "更新一道算法题 如何仅用递归函数和栈操作逆序一个栈"
+    },
+    {
+      "sha": "4aeae7906c572422bd5bfde9830d5aacb5fed1a2",
+      "author_login": null,
+      "authored_at": "2016-07-01T10:04:04Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "4871831ff4032f73356edd304299284891fd3221",
+      "author_login": null,
+      "authored_at": "2016-07-01T10:00:51Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "c9746f605afacafaed310ce2969ced89a6fe9856",
+      "author_login": null,
+      "authored_at": "2016-07-01T09:58:15Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "aab3295e137249727e1e3881b8c9e4eda158a008",
+      "author_login": null,
+      "authored_at": "2016-07-01T09:57:36Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "02310202b2306bbdd7e1db8f50ac408f44a34f2c",
+      "author_login": "francistao",
+      "authored_at": "2016-07-01T07:58:23Z",
+      "message": "更新一道算法题 由两个栈组成的队列"
+    },
+    {
+      "sha": "ba7751a2d87805a4dbe6c1d18677293bc91254d6",
+      "author_login": "francistao",
+      "authored_at": "2016-07-01T06:48:45Z",
+      "message": "更新Android基础知识"
+    },
+    {
+      "sha": "16332b44db1dca210f6408f51f5a18adcc004e6d",
+      "author_login": "francistao",
+      "authored_at": "2016-07-01T03:21:22Z",
+      "message": "update readme."
+    },
+    {
+      "sha": "dc292b8a3ee20c2b251fbbe19b7a904ec6393668",
+      "author_login": "francistao",
+      "authored_at": "2016-07-01T03:19:43Z",
+      "message": "更新一道算法"
+    },
+    {
+      "sha": "8ca360f07c7565cc7add27f53380b113adfd25ed",
+      "author_login": "francistao",
+      "authored_at": "2016-06-30T06:54:21Z",
+      "message": "update readme"
+    },
+    {
+      "sha": "26d9ff8e4f75bcaff6a2d5e1ab154a3a379213ab",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-06-29T13:53:23Z",
+      "message": "update Git操作"
+    },
+    {
+      "sha": "cacde07280988a9155209a29c35e70cf712accd9",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-06-29T13:49:37Z",
+      "message": "update git操作"
+    },
+    {
+      "sha": "2345a9c2aaebd2f1d56d74398a90b6837f42d9be",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-06-29T13:20:23Z",
+      "message": "update Android Foundation"
+    },
+    {
+      "sha": "40124dbbe65dfbfbe6e6551ad19e66b9ae42b0fa",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-06-29T12:54:02Z",
+      "message": "update Android Foundation"
+    },
+    {
+      "sha": "3524a5a37dd560b553d38604011ed161dcde6cf7",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-06-29T12:15:40Z",
+      "message": "fix conflicts by anAngryAnt"
+    },
+    {
+      "sha": "c67abfcfd66909095068cb5f0c8632dc5547131b",
+      "author_login": "fanrunqi",
+      "authored_at": "2016-06-29T02:55:36Z",
+      "message": "Rename 使用wait:notify:notifyall实现线程间通信.md to 使用wait notify notifyall实现线程间通信.md"
+    },
+    {
+      "sha": "c577f925b185e978724cad97f6cad01ed9f1a5c2",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-06-28T15:37:39Z",
+      "message": "add life-circle method introduction of fragment"
+    },
+    {
+      "sha": "f99094422f635c1870c5987aeddfc6d925308c75",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-06-28T15:22:34Z",
+      "message": "Merge branch 'master' of https://github.com/anAngryAnt/LearningNotes"
+    },
+    {
+      "sha": "aaead7040743a80da6e323f55eac80f4879c95ad",
+      "author_login": "anAngryAnt",
+      "authored_at": "2016-06-28T15:14:46Z",
+      "message": "update Android Foundation"
+    },
+    {
+      "sha": "192e6c86854b6b2d1a98b430e77302967bf5f465",
+      "author_login": "francistao",
+      "authored_at": "2016-06-28T07:02:11Z",
+      "message": "更新readme"
+    },
+    {
+      "sha": "728d3c244a2c9ddac38a8d2d83854479dddf1ab0",
+      "author_login": "francistao",
+      "authored_at": "2016-06-28T07:00:58Z",
+      "message": "更新Git操作"
+    },
+    {
+      "sha": "4e195ffc0a5ff47049e0ae62b9e44b335675e89e",
+      "author_login": "francistao",
+      "authored_at": "2016-06-28T06:17:39Z",
+      "message": "update readme"
+    },
+    {
+      "sha": "e6479705e79b1049c354ca718ab9da4d9cd2df74",
+      "author_login": "francistao",
+      "authored_at": "2016-06-28T06:16:51Z",
+      "message": "update 查漏补缺"
+    },
+    {
+      "sha": "c93fadc7eeee2b0e38c68b91edb5c1536328f9c5",
+      "author_login": "francistao",
+      "authored_at": "2016-06-28T04:18:34Z",
+      "message": "update readme"
+    },
+    {
+      "sha": "1fc1540abb6c8a6f02d8a5ac81bf52122433b1bf",
+      "author_login": "francistao",
+      "authored_at": "2016-06-28T04:12:37Z",
+      "message": "Merge remote-tracking branch 'origin/master'"
+    },
+    {
+      "sha": "b27636a87d41dfffa1f0daacf2af2cb46e0510ba",
+      "author_login": "francistao",
+      "authored_at": "2016-06-28T04:12:11Z",
+      "message": "update readme"
+    },
+    {
+      "sha": "27ba030ea669ab27111a8ac438841ab42ea767bb",
+      "author_login": "francistao",
+      "authored_at": "2016-06-27T12:19:48Z",
+      "message": "Merge pull request #5 from icodeu/patch-1"
+    },
+    {
+      "sha": "c7bcf9b956a2577d82c291bd5f77c6e55f3b5de3",
+      "author_login": "icodeu",
+      "authored_at": "2016-06-26T13:11:49Z",
+      "message": "Update 热修复技术.md"
+    }
+  ],
+  "issues": [
+    {
+      "number": 127,
+      "title": "初始化AI学习和自媒体创作笔记仓库",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-11-05T05:19:12Z",
+      "closed_at": "2025-11-05T05:24:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 126,
+      "title": "updated test.txt",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-08-13T17:24:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 124,
+      "title": "test",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-27T13:17:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 121,
+      "title": "错误纠正，Part1 Android基础知识.md",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-13T03:23:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 120,
+      "title": "/Part2/JavaConcurrent/死锁.md 错字问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-03T03:36:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 119,
+      "title": "不更新了吗都9012年了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-09-23T14:42:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 118,
+      "title": "Part1/Android/Android基础知识 错别字",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-09-04T09:39:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 117,
+      "title": "Part1/Android/Android基础知识中有英文拼写错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-09-04T09:28:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 116,
+      "title": "android 内存泄漏实际运行和例子的结果不一样",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-05-09T07:09:14Z",
+      "closed_at": "2019-05-09T07:12:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 115,
+      "title": "建议添加“程序园中猿”的博客",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-15T02:13:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 114,
+      "title": "链接失效",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-14T10:09:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 113,
+      "title": "Update 新浪微博.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-03T10:23:52Z",
+      "closed_at": "2023-08-04T06:49:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 112,
+      "title": "PriorityQueue是不是写的有问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-10T13:33:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 111,
+      "title": "建议去除onSaveInstanceXXX() onStop() onPause()调用顺序的对比",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-01-25T08:39:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 110,
+      "title": "android内存泄露那篇感觉有个问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-10T01:49:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 109,
+      "title": "Update Recyclerview和Listview的异同.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-10-17T02:40:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 108,
+      "title": "Part1/Android/Listview详解.md 有换行错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-15T15:45:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 107,
+      "title": "修改笔误",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-08-29T12:13:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 106,
+      "title": "Android性能优化.md zero one方法速度问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-27T03:36:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 105,
+      "title": "vector明明源码里实现了Serializable接口，却说没有实现",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-07T03:50:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 104,
+      "title": "Update 计算机网络基础汇总.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-06-13T08:04:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 103,
+      "title": "数据结构，数组有序数组，插入的k应该为k--",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-24T08:04:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 102,
+      "title": "Update Android内存泄漏总结.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-03-30T10:30:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 101,
+      "title": "Update TCP与UDP.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-03-30T06:48:46Z",
+      "closed_at": "2018-09-06T10:18:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 100,
+      "title": "Android内存泄露中remove不掉是错的",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-28T07:44:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 99,
+      "title": "Update 面试中的 10 大排序算法总结.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-03-19T09:31:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 98,
+      "title": "双重检查加锁的单例模式",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-09T03:49:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 97,
+      "title": "链接失效",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-07T11:48:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 96,
+      "title": "链接失效",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-31T11:57:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 95,
+      "title": "fragment与activity生命周期关系的图有错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-24T06:19:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 94,
+      "title": "修改git操作教程文档描述问题",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-12-19T07:18:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 93,
+      "title": "单利模式例子错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-25T17:30:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 92,
+      "title": "这个项目还有人维护吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-12T08:45:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 91,
+      "title": "内存泄漏---集合的例子",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-10-27T02:37:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 90,
+      "title": "关于您的知识成果",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-10-16T07:09:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 89,
+      "title": "添加Java代码块高亮",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-10-10T09:45:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 88,
+      "title": "Fix typo",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-09-22T14:13:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 87,
+      "title": "Merge pull request #1 from francistao/master",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-09-11T06:11:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 86,
+      "title": "【建议】能否做成电子书，这样就能随时随地复习啦~",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-09-04T15:39:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "Update 适配器模式.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-31T07:58:27Z",
+      "closed_at": "2017-08-31T07:58:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "Update 适配器模式.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-31T07:57:50Z",
+      "closed_at": "2026-05-12T06:41:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "关于Android基础知识/应用被强杀如何解决的问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-08-24T09:11:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 82,
+      "title": "Update README.md：添加掘金喜欢数",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-08-21T11:14:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 81,
+      "title": "Update Recyclerview和Listview的异同.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-07-10T04:01:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "Update Android基础知识.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-07-03T02:10:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "ActivityThread不是线程",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-06-13T00:33:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "java中的内存泄漏 中说明有问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-06-08T06:49:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "修改UDP与TCP的速度区别",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-06-07T15:30:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "Merge pull request #2 from GeniusVJR/master",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-06-06T09:10:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "Update Listview详解.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-06-01T08:32:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "\b改变集合中对象属性，依然可以remove掉",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-06-01T03:02:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "Update Android性能优化.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-05-17T12:46:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "Update Android性能优化.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-05-17T12:43:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "纠正一个Activity的常识错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-04-30T10:09:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "update content",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-04-20T07:41:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "工具",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-04-20T03:56:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "Fix broken headings in Markdown files",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-04-18T07:23:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "泛型内容太少了啊",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-03-29T08:01:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "个人在学习后，对JVM板块排版上的一个小小建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-03-21T09:00:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 65,
+      "title": "请教，Android内存泄漏问题中的一个问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-03-14T09:55:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "Android内存泄漏问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-03-14T03:39:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": "Android基础知识.md-添加Service生命周期图片。",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-03-13T11:39:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "Activity生命周期解锁修改成onRestart()->onStart()->onResume()",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-03-11T17:43:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "add \"Getters/Setters\" link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-03-11T04:58:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "remove error input",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-03-11T03:55:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "修改错别字",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-03-05T15:13:44Z",
+      "closed_at": "2017-03-06T09:01:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "修正抄错的代码",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-03-05T14:58:01Z",
+      "closed_at": "2017-03-06T09:01:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "希望能生成PDF方便离线阅读",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-03-05T02:17:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "Android内存泄漏总结 例子的问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-03-03T18:34:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "Java基础",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-03-01T13:10:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 54,
+      "title": "缺少判断条件",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-02-28T12:57:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "修改错别字",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-02-28T05:50:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 52,
+      "title": "fast sort failed with \"int[] a = new int[]{30,34,3,1,67,5,12};\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-02-28T04:24:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 51,
+      "title": "使用wait/notify/notifyAll实现线程间通信  连接打不开 404",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-02-15T05:55:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 50,
+      "title": "集合框架总结深度不够，望加深",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-02-09T04:40:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 49,
+      "title": "Bitmap的分析与使用 关于recycle()的描述有误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-02-04T05:13:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 48,
+      "title": "onSaveInstanceState",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-01-23T06:41:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 47,
+      "title": "修正错别字和病句",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-01-15T08:53:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 46,
+      "title": "修正错别字和病句",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-01-15T08:19:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 45,
+      "title": "update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-01-11T15:49:24Z",
+      "closed_at": "2017-01-13T08:11:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 44,
+      "title": "Master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-01-10T13:30:34Z",
+      "closed_at": "2017-01-11T04:01:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 43,
+      "title": "Android内存泄露总结那篇",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-01-03T08:03:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 42,
+      "title": "anr那篇",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-12-27T16:21:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 41,
+      "title": "asynctask哪个，主线程不允许网络操作是4.0加的",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-12-27T16:14:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 40,
+      "title": "修改错别字和病句",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-11-18T11:06:20Z",
+      "closed_at": "2017-01-15T08:20:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 39,
+      "title": "修改错别字和病句",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-11-18T09:02:14Z",
+      "closed_at": "2016-11-18T11:00:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "two-sum理解题目有误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-11-07T09:20:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 37,
+      "title": "Bitmap的分析与使用中有错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-11-03T12:36:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 36,
+      "title": "github test",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-11-03T02:38:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 35,
+      "title": "Android怎么加速启动Activity中有问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-11-03T02:27:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 34,
+      "title": "Activity解锁生命周期应该为onRestart()-onStart()-onResume()",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-11-02T06:45:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 33,
+      "title": "fix some typos",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-21T15:06:23Z",
+      "closed_at": "2016-10-22T05:16:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "该文章中Set<Person>中对象的属性变了之后，还是3个对象，并不像文章说的那样变成了4个",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-09-25T01:21:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 31,
+      "title": "update HashTable源码剖析.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-09-19T07:46:03Z",
+      "closed_at": "2016-09-19T09:01:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "修改为 eventbus 3.0 的使用方法，并补充了关于3.0引进的索引加速功能",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-09-13T14:13:06Z",
+      "closed_at": "2016-09-16T01:50:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "任务栈不应该是 后进后出吗",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-09-13T07:23:16Z",
+      "closed_at": "2018-04-26T07:45:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "Update Handler内存泄漏分析及解决.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2016-09-13T07:06:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "Update Android图片中的三级缓存.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-09-10T04:59:09Z",
+      "closed_at": "2016-09-10T08:39:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "Android基础知识Activity任务栈应该是先进后出吧？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-09-07T06:39:43Z",
+      "closed_at": "2023-02-14T00:53:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "update Android基础知识.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-31T02:23:17Z",
+      "closed_at": "2016-09-01T03:24:23Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "francistao",
+      "contributions": 161
+    },
+    {
+      "login": "anAngryAnt",
+      "contributions": 45
+    },
+    {
+      "login": "tanglie1993",
+      "contributions": 3
+    },
+    {
+      "login": "zubinxiong",
+      "contributions": 2
+    },
+    {
+      "login": "akuma",
+      "contributions": 1
+    },
+    {
+      "login": "nhtzj",
+      "contributions": 1
+    },
+    {
+      "login": "HatCloud",
+      "contributions": 1
+    },
+    {
+      "login": "xuyushi",
+      "contributions": 1
+    },
+    {
+      "login": "fanrunqi",
+      "contributions": 1
+    },
+    {
+      "login": "myrao",
+      "contributions": 1
+    },
+    {
+      "login": "icodeu",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T12:00:11.402790Z"
+}

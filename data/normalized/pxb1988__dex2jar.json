@@ -1,0 +1,1607 @@
+{
+  "full_name": "pxb1988/dex2jar",
+  "owner": "pxb1988",
+  "name": "dex2jar",
+  "url": "https://github.com/pxb1988/dex2jar",
+  "description": "Tools to work with android .dex and java .class files",
+  "primary_language": "Java",
+  "topics": [],
+  "license_spdx": "Apache-2.0",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 13118,
+  "forks": 2188,
+  "open_issues": 379,
+  "created_at": "2015-03-16T09:13:07Z",
+  "pushed_at": "2024-07-21T06:08:25Z",
+  "updated_at": "2026-06-26T15:19:26Z",
+  "commits": [
+    {
+      "sha": "b5bda4fb4935ae8b3869b422454ae3b3896c7bc1",
+      "author_login": "pxb1988",
+      "authored_at": "2023-10-03T13:03:25Z",
+      "message": "get version from GITHUB_REF_NAME (#605)"
+    },
+    {
+      "sha": "9510b74dcaeef1391382124d8a758f0c22775e2e",
+      "author_login": "ThexXTURBOXx",
+      "authored_at": "2023-09-28T07:04:57Z",
+      "message": "Workaround for #25"
+    },
+    {
+      "sha": "cc9861bbd4e350ba0f2705faec527b29f477c18f",
+      "author_login": "ThexXTURBOXx",
+      "authored_at": "2023-09-28T07:04:47Z",
+      "message": "Fix bug Nico found randomly"
+    },
+    {
+      "sha": "476e64c6e9d3e4a59f61c890e663558c76b0e626",
+      "author_login": "pxb1988",
+      "authored_at": "2023-09-01T12:09:35Z",
+      "message": "remove hidden access flags (#600)"
+    },
+    {
+      "sha": "5f70fefdc0e930e4b1039cbaff4cfa162deebf38",
+      "author_login": "pxb1988",
+      "authored_at": "2023-09-01T11:50:47Z",
+      "message": "bring back asm bridge (#601)"
+    },
+    {
+      "sha": "d90f4ef65d5bd1c957da2befc00ec7724e4d43ef",
+      "author_login": "pxb1988",
+      "authored_at": "2023-09-01T06:12:00Z",
+      "message": "Merge pull request #598 from pxb1988/apply-misc-fixes"
+    },
+    {
+      "sha": "ee63470357c968a313d07984974ede6722f9d9ec",
+      "author_login": "pxb1988",
+      "authored_at": "2023-09-01T06:08:25Z",
+      "message": "update antlr to 4.9.3 (#599)"
+    },
+    {
+      "sha": "a3f93f5e2c1e04be6b33521e5941819b1ed75797",
+      "author_login": "ThexXTURBOXx",
+      "authored_at": "2021-08-09T20:51:44Z",
+      "message": "Apply miscellaneous fixes"
+    },
+    {
+      "sha": "7fafa42fa667898cf8a3f2237af5e9fc655adac7",
+      "author_login": "ThexXTURBOXx",
+      "authored_at": "2021-08-11T17:39:37Z",
+      "message": "Add serialVersionUIDs"
+    },
+    {
+      "sha": "d66af7dc8eb9e3e04aa9b9480e0f8728460da584",
+      "author_login": "pxb1988",
+      "authored_at": "2023-08-31T13:20:00Z",
+      "message": "update github actions (#597)"
+    },
+    {
+      "sha": "482af4a26fd53b0123fd4d89277d31a89c6061d5",
+      "author_login": "pxb1988",
+      "authored_at": "2023-08-31T12:42:39Z",
+      "message": "typo similar with ffa0574dff776404d4fa4368057c72f610521a5c (#596)"
+    },
+    {
+      "sha": "2dd92907c5c109dbf9dc4fda9b9f4d7e57961435",
+      "author_login": "pxb1988",
+      "authored_at": "2023-08-31T12:39:34Z",
+      "message": "Fix issues with J2IRConverter (#595)"
+    },
+    {
+      "sha": "ef29be194c9a30039d53a98d2c8bb8aaee5f3278",
+      "author_login": "pxb1988",
+      "authored_at": "2023-08-31T10:49:46Z",
+      "message": "Merge pull request #594 from pxb1988/improve-handling-large-arrays"
+    },
+    {
+      "sha": "9f5c16537ecab67a6054bfcef8791e835c1fab18",
+      "author_login": "Marukohe",
+      "authored_at": "2022-05-26T02:53:13Z",
+      "message": "fix typos of hex strings decoding"
+    },
+    {
+      "sha": "e9e05f89365a84930055cf2bc0e64333fa3b9070",
+      "author_login": "omeraydindev",
+      "authored_at": "2022-06-06T16:12:46Z",
+      "message": "Extract Hex class resource logic to a separate method (#20)"
+    },
+    {
+      "sha": "f3fc040a09cf9d34694946688995086be64095e7",
+      "author_login": "ThexXTURBOXx",
+      "authored_at": "2022-04-01T11:53:07Z",
+      "message": "Finally fix handling of large arrays"
+    },
+    {
+      "sha": "6a798f7518f83d4223efad473f9e034cb44ab9ff",
+      "author_login": "ThexXTURBOXx",
+      "authored_at": "2022-03-29T14:54:23Z",
+      "message": "Improve handling of large arrays"
+    },
+    {
+      "sha": "c7e1c5064a4f62b947b0b605cd0b9dd51da35f23",
+      "author_login": "pxb1988",
+      "authored_at": "2023-08-31T10:20:51Z",
+      "message": "Merge pull request #593 from pxb1988/dex038"
+    },
+    {
+      "sha": "0862aaeb391be02864482c43c1c6b99cdc1c6467",
+      "author_login": "pxb1988",
+      "authored_at": "2023-08-31T04:55:00Z",
+      "message": "support dex 038"
+    },
+    {
+      "sha": "caf241d635f7face95b52f1efce1eb83e5dfdbdd",
+      "author_login": "pxb1988",
+      "authored_at": "2023-08-31T05:07:19Z",
+      "message": "Merge pull request #592 from pxb1988/dex040"
+    },
+    {
+      "sha": "aebd9ebd05eaaaf236bcd30de77ec16a1112b73a",
+      "author_login": "pxb1988",
+      "authored_at": "2023-08-31T03:25:06Z",
+      "message": "support dex 039 and 040"
+    },
+    {
+      "sha": "8363e21e2bc1b4b58392740181d7e428803ba3c2",
+      "author_login": "pxb1988",
+      "authored_at": "2023-08-30T11:14:45Z",
+      "message": "upgrade to dx-30.0.2.jar"
+    },
+    {
+      "sha": "326d47c35bc2f0f2cd6fe68ca08774222d8143d1",
+      "author_login": "ThexXTURBOXx",
+      "authored_at": "2023-07-20T19:44:40Z",
+      "message": "Migrate to Google's smali fork"
+    },
+    {
+      "sha": "f30b40c31e39732fce49b4e7b002453bc74e0bd0",
+      "author_login": "ThexXTURBOXx",
+      "authored_at": "2023-01-28T17:23:10Z",
+      "message": "Better warning"
+    },
+    {
+      "sha": "17ae98fe7413ff76a42d589ff43b255c3d2580ac",
+      "author_login": "pxb1988",
+      "authored_at": "2023-08-30T13:25:55Z",
+      "message": "Update ASM to 9.5, drop AsmBridge (#591)"
+    },
+    {
+      "sha": "e938cf0b654f9a2d48f2e25f9f7b3a0341ec002f",
+      "author_login": "pxb1988",
+      "authored_at": "2021-11-03T09:28:24Z",
+      "message": "clean up before TypeTransformer"
+    },
+    {
+      "sha": "e9a3ab06e2a3613e4330689b38be035ba74e288a",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-31T13:45:14Z",
+      "message": "check signature before pass to visitor"
+    },
+    {
+      "sha": "b004967677a6667ad5b06af3b04612c628276c29",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-30T19:32:55Z",
+      "message": "fix ClassCastException"
+    },
+    {
+      "sha": "441d0457978ce22e96c1f3704a6b873513496bf2",
+      "author_login": "ThexXTURBOXx",
+      "authored_at": "2021-08-10T18:16:15Z",
+      "message": "Fix grammar & typo"
+    },
+    {
+      "sha": "121f727d37ee4c18bcce57c6cc1063b35e1d6abb",
+      "author_login": "ThexXTURBOXx",
+      "authored_at": "2021-10-02T16:14:02Z",
+      "message": "Fix NPE"
+    },
+    {
+      "sha": "4720fb87c94ed9572d1f330fd1af6ba55892f326",
+      "author_login": "ThexXTURBOXx",
+      "authored_at": "2021-08-19T20:11:59Z",
+      "message": "Remove Java 6 compat"
+    },
+    {
+      "sha": "1f94f4760fa5be57b194d58a85b460f2624dc7e4",
+      "author_login": "ThexXTURBOXx",
+      "authored_at": "2021-08-11T21:02:01Z",
+      "message": "Delete Mercurial stuff"
+    },
+    {
+      "sha": "5e4c90f7150ffe16d98940448efd2bdb4a83245b",
+      "author_login": "ThexXTURBOXx",
+      "authored_at": "2021-08-09T20:52:12Z",
+      "message": "Add workaround for invalid signatures"
+    },
+    {
+      "sha": "c577db0da377e2620152d9a944dea7b3c64da5e3",
+      "author_login": "ThexXTURBOXx",
+      "authored_at": "2021-08-09T20:52:12Z",
+      "message": "cherry-pick form"
+    },
+    {
+      "sha": "62eba635fd8d6df03a5e53d9f3ecf8c033ade583",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-30T17:15:29Z",
+      "message": "fix Method code to large (#513)"
+    },
+    {
+      "sha": "80a81b317f082699b9a89ed5d69a9121f356751e",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-30T10:47:53Z",
+      "message": "the exception handler is dead cause NPE in unssa"
+    },
+    {
+      "sha": "f028437d4686aaec6ae5cddb4fa9f916f7161f71",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-30T08:58:01Z",
+      "message": "also parse method is summary.txt"
+    },
+    {
+      "sha": "a202f4a951359f1f526f31c3024a60d5129a9648",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-30T08:27:16Z",
+      "message": "skip param annotation if out of range"
+    },
+    {
+      "sha": "8fb7843370b8a92d92bc4b7fdfc7bac71950e7c0",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-30T08:00:22Z",
+      "message": "add test case for https://github.com/pxb1988/dex2jar/issues/501"
+    },
+    {
+      "sha": "fa30b84cd3191144cfdedf8f90d3d5c1bcb6aecd",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-30T07:56:20Z",
+      "message": "fix https://github.com/pxb1988/dex2jar/issues/501"
+    },
+    {
+      "sha": "7da8850a0f9b9669a3e7747e6317f55219de4b73",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-30T06:41:37Z",
+      "message": "https://github.com/pxb1988/dex2jar/issues/500"
+    },
+    {
+      "sha": "00e9d9e6b79f3513f7dec65da60d085abdfa53aa",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-29T16:33:25Z",
+      "message": "auto test d2j-error-zips/*-error.zip"
+    },
+    {
+      "sha": "7a9bf1960ef30fb9c5a80694f835075a4e0984d0",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-29T16:31:35Z",
+      "message": "java 8 now"
+    },
+    {
+      "sha": "97f9882123fdbbfbbb49f5d66abd7c8afccc974e",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-29T16:19:36Z",
+      "message": "start v2.2"
+    },
+    {
+      "sha": "b12d69cb64ce2c5e316d4acea69a782ca899fa72",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-29T16:17:48Z",
+      "message": "set version to 2.1"
+    },
+    {
+      "sha": "6f30d4bb2969a6a748c6a2aa7e6ddf3dd177bb1e",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-29T15:33:24Z",
+      "message": "move to github (#512)"
+    },
+    {
+      "sha": "0f16a77a168a3d8b826f77118a4815f27f610db7",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-29T15:04:52Z",
+      "message": "update to gradle 6.9.1"
+    },
+    {
+      "sha": "43e9e862c6e87fc27a448041e825b38adb4b8cd8",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-29T14:24:40Z",
+      "message": "Merge pull request #219 from ayyrickay/2.x"
+    },
+    {
+      "sha": "8d836c537c1ca7147d7c208058e37aaa0dfa604d",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-29T14:23:12Z",
+      "message": "Merge branch '2.x' into 2.x"
+    },
+    {
+      "sha": "4d30f5dc2afd2bc296f1868cf99ae76722a4efa9",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-29T14:16:32Z",
+      "message": "Merge pull request #128 from jschmid/patch-1"
+    },
+    {
+      "sha": "b92ee55e6fc7124b4cf290b783ba580b6da04d4d",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-29T14:13:21Z",
+      "message": "Merge pull request #386 from paulo-raca/largerHeap"
+    },
+    {
+      "sha": "f5e8f37acb3862ff06bc4a095edd035dfb971c27",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-29T14:11:59Z",
+      "message": "Merge pull request #217 from claui/fix-format-exception"
+    },
+    {
+      "sha": "ebec2585b1fe8d6a7c415d35450f2dffb0b9d683",
+      "author_login": "pxb1988",
+      "authored_at": "2021-10-29T14:03:18Z",
+      "message": "Merge pull request #327 from echooo10/bugfix_issue#207"
+    },
+    {
+      "sha": "f08ad61328111857be0c2f97fd3720587f27432c",
+      "author_login": "paulo-raca",
+      "authored_at": "2020-06-24T17:58:31Z",
+      "message": "Increase heap size"
+    },
+    {
+      "sha": "e39b41f8e5f735978301522eb7aa6eeca358dde3",
+      "author_login": null,
+      "authored_at": "2019-12-05T02:18:23Z",
+      "message": "fix issue #207"
+    },
+    {
+      "sha": "d0aecd0594b2ace85885e046bd37887a0f3f2fab",
+      "author_login": "ayyrickay",
+      "authored_at": "2019-10-16T00:16:50Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d7a86110baba3f845973017021fb10664b1b90d2",
+      "author_login": "pxb1988",
+      "authored_at": "2019-09-05T07:21:28Z",
+      "message": "fix crash on pattern empty-try-catch-with-goto-head"
+    },
+    {
+      "sha": "22cbacb586e09864f127e546345a8f4bc6ffbda8",
+      "author_login": "ayyrickay",
+      "authored_at": "2019-04-04T07:36:08Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "5b25afb769f3899643ff74b88d4cf136babf7172",
+      "author_login": "ayyrickay",
+      "authored_at": "2018-10-04T19:45:21Z",
+      "message": "Add clearer usage instructions and do some minor formatting"
+    },
+    {
+      "sha": "fb9361a578e0c5064436d15efe1297a3dd31d971",
+      "author_login": "claui",
+      "authored_at": "2018-09-22T12:59:36Z",
+      "message": "Fix IllegalFormatConversionException"
+    },
+    {
+      "sha": "9cfc8ba805a98b4585bab1831b47b29969aa85e4",
+      "author_login": "pxb1988",
+      "authored_at": "2018-09-05T09:23:07Z",
+      "message": "support method handle of type INVOKE_CONSTRUCTOR/INVOKE_DIRECT/INVOKE_INTERFACE"
+    },
+    {
+      "sha": "b5771406a9c3073ba25fdfe4e43146ca36f655dc",
+      "author_login": "pxb1988",
+      "authored_at": "2018-07-04T12:13:22Z",
+      "message": "translate DEX_037 to V1_8"
+    },
+    {
+      "sha": "f5855ebfcbb2124d1a9ff6563125620077ff009a",
+      "author_login": "pxb1988",
+      "authored_at": "2018-06-14T05:51:42Z",
+      "message": "fix test fail"
+    },
+    {
+      "sha": "6e085153cf0bd9db86aa9e56afe462eba31c15e5",
+      "author_login": "pxb1988",
+      "authored_at": "2018-06-06T09:49:28Z",
+      "message": "insert a Nop between two LabelStmt if both have phis"
+    },
+    {
+      "sha": "85b1b3b8ddabd285b02921fce0713660e8eb0cfe",
+      "author_login": "pxb1988",
+      "authored_at": "2018-06-06T03:48:28Z",
+      "message": "[dex038] write class version 1.7 if dex version > DEX_037"
+    },
+    {
+      "sha": "5341bd145d67d81ae2d230f5428f1319767f7baf",
+      "author_login": "pxb1988",
+      "authored_at": "2018-06-06T03:14:11Z",
+      "message": "fixed issue 185"
+    },
+    {
+      "sha": "b006a5c9ca11317513ed7c049f1d0433be2652b1",
+      "author_login": "pxb1988",
+      "authored_at": "2018-06-06T03:12:53Z",
+      "message": "find test file by resource"
+    },
+    {
+      "sha": "eca2c98278ec30e31c3953e0a030505987a6f8ca",
+      "author_login": "pxb1988",
+      "authored_at": "2018-04-02T10:26:59Z",
+      "message": "fix test error"
+    },
+    {
+      "sha": "ffd6e395b82d954a9cc31a793edb0266076e536c",
+      "author_login": "pxb1988",
+      "authored_at": "2018-04-02T10:19:23Z",
+      "message": "fix build error"
+    },
+    {
+      "sha": "9b80989060849764df52e488cf3d2215b1c21493",
+      "author_login": "pxb1988",
+      "authored_at": "2018-04-02T08:45:24Z",
+      "message": "use dx from android-build-tools 27.0.3"
+    },
+    {
+      "sha": "24b0643dd59ec44acb858a7965e2e44ce9e7d990",
+      "author_login": "pxb1988",
+      "authored_at": "2018-04-02T08:44:36Z",
+      "message": "remove maven pom.xml"
+    },
+    {
+      "sha": "3c8e43e61a822c02a100f6254027e47582868596",
+      "author_login": "pxb1988",
+      "authored_at": "2018-04-02T08:31:28Z",
+      "message": "use jdk8 for travis"
+    },
+    {
+      "sha": "b0c2a60808e3e298b16b924362d84e3cda26f15e",
+      "author_login": "pxb1988",
+      "authored_at": "2018-04-02T03:31:37Z",
+      "message": "update gradle to 4.0"
+    },
+    {
+      "sha": "ac1f325f434a1c8ac49afc2ac70ec7c0113c6260",
+      "author_login": "pxb1988",
+      "authored_at": "2018-04-02T03:26:29Z",
+      "message": "add test case for method code too large"
+    },
+    {
+      "sha": "90f8d1eb809d59327ccfe03488f31da505086dfb",
+      "author_login": "pxb1988",
+      "authored_at": "2018-04-02T02:37:32Z",
+      "message": "null safe in LambadaNameSafeClassAdapter"
+    },
+    {
+      "sha": "e3ff06d9d8ea82b3127adf39bb9af4c0e0b5c4e1",
+      "author_login": "pxb1988",
+      "authored_at": "2018-04-02T02:37:08Z",
+      "message": "sort locals in RemoveConstantFromSSA"
+    },
+    {
+      "sha": "373446a00e5f032833ec9af413641a3efdca5c5e",
+      "author_login": "pxb1988",
+      "authored_at": "2018-04-02T02:36:37Z",
+      "message": "change to super OnUseCallBack"
+    },
+    {
+      "sha": "31924706891ffe25491c976c1dc08178ee155e1a",
+      "author_login": "pxb1988",
+      "authored_at": "2018-04-02T02:36:08Z",
+      "message": "special allow merge of Z and I"
+    },
+    {
+      "sha": "bf54180dec4f63a63482b9fc0ba821f9b3d00e03",
+      "author_login": "pxb1988",
+      "authored_at": "2018-03-27T03:42:04Z",
+      "message": "github has attachement support"
+    },
+    {
+      "sha": "5a2f61965c6e7a957405836b73d9012f418dc604",
+      "author_login": "pxb1988",
+      "authored_at": "2018-03-27T03:40:08Z",
+      "message": "fix search for smalis on ideaj"
+    },
+    {
+      "sha": "31ff5bba8ca45ccb22482e4a75e02467cb0c327b",
+      "author_login": "pxb1988",
+      "authored_at": "2018-03-27T03:39:37Z",
+      "message": "reset deobf init"
+    },
+    {
+      "sha": "1238d14b14322e0a61b1196a5602d4199e616a52",
+      "author_login": "pxb1988",
+      "authored_at": "2018-03-21T04:08:35Z",
+      "message": "skip exception"
+    },
+    {
+      "sha": "1d515072d5a49a8f82a761a8081e36b1923af541",
+      "author_login": "pxb1988",
+      "authored_at": "2017-08-02T08:33:14Z",
+      "message": "handle InvokePolymorphicExpr as java8 style"
+    },
+    {
+      "sha": "3e93d2021f1609682bf269cca8fb170e546d1525",
+      "author_login": "pxb1988",
+      "authored_at": "2017-08-02T08:32:20Z",
+      "message": "d2j-smali support polymorphic/custom"
+    },
+    {
+      "sha": "bac5d542a63543e6242162d581906a9ffb2e45fc",
+      "author_login": "pxb1988",
+      "authored_at": "2017-07-25T18:04:15Z",
+      "message": "support translate INVOKE_POLYMORPHIC"
+    },
+    {
+      "sha": "211c4817f2b4be17d439568480c343740bc668bd",
+      "author_login": "jschmid",
+      "authored_at": "2017-07-21T14:40:45Z",
+      "message": "Fixed README formatting"
+    },
+    {
+      "sha": "6b08884da923aa898c791fe77bb5fceda2a69cb3",
+      "author_login": "pxb1988",
+      "authored_at": "2017-07-15T16:28:05Z",
+      "message": "'dex 038' support"
+    },
+    {
+      "sha": "dd9d7221e448ceb834d923cb9bb3bc528cb3acd9",
+      "author_login": "pxb1988",
+      "authored_at": "2017-01-18T05:36:43Z",
+      "message": "Merge pull request #88 from kcheng-mvp/2.x"
+    },
+    {
+      "sha": "23ded14162cbbb3b451f522c074ea1d91b2df883",
+      "author_login": "pxb1988",
+      "authored_at": "2017-01-18T05:36:20Z",
+      "message": "Merge pull request #70 from barriosnahuel/patch-1"
+    },
+    {
+      "sha": "bd8809821391e9b0f73c0aeb1826b6fd76b9d3c2",
+      "author_login": "pxb1988",
+      "authored_at": "2017-01-18T05:35:35Z",
+      "message": "Merge pull request #73 from TWiStErRob/patch-1"
+    },
+    {
+      "sha": "14ecdee422a5153bb4fd6879ecb261b6d82272ea",
+      "author_login": "pxb1988",
+      "authored_at": "2017-01-18T05:27:48Z",
+      "message": "[type] merge all array values"
+    },
+    {
+      "sha": "5eebfbc642c77d0c5e2db515f9126ad6b3ffd7b9",
+      "author_login": "pxb1988",
+      "authored_at": "2017-01-17T09:03:55Z",
+      "message": "fix type descriptor"
+    },
+    {
+      "sha": "28db75ff11df2cb6bea6baa0b49118a0acc28445",
+      "author_login": "kcmvp",
+      "authored_at": "2016-08-26T03:23:36Z",
+      "message": "add support ignore a class"
+    },
+    {
+      "sha": "67abc1145e887babba4dcca1eaa242b5433aa2b0",
+      "author_login": "TWiStErRob",
+      "authored_at": "2016-04-24T09:53:35Z",
+      "message": "Add links for GitHub"
+    },
+    {
+      "sha": "c3e33f59888b1ce254980ca56097246b3f60e045",
+      "author_login": "barriosnahuel",
+      "authored_at": "2016-04-16T01:03:23Z",
+      "message": "Add usage section to README"
+    },
+    {
+      "sha": "d6383b7d1df27d940e4934debad8357b03e76f3f",
+      "author_login": "pxb1988",
+      "authored_at": "2016-03-04T13:05:33Z",
+      "message": "[type] minor improve of type transformer"
+    },
+    {
+      "sha": "8e58b0eb4073ca4a2fb215da0e26d0ff63a59f17",
+      "author_login": "pxb1988",
+      "authored_at": "2016-03-04T12:00:17Z",
+      "message": "fix bug on MultiArrayTransformer"
+    },
+    {
+      "sha": "0d48e4927586dcf7cf8a7a11eb9478f162eaf976",
+      "author_login": "pxb1988",
+      "authored_at": "2016-03-04T11:55:13Z",
+      "message": "fix type detect on arrays"
+    },
+    {
+      "sha": "d9baaa5779c750bb1cc145977069b597da4c6fb7",
+      "author_login": "pxb1988",
+      "authored_at": "2016-01-20T05:16:58Z",
+      "message": "[decrypt-string] add argument -v,--verbose to control output"
+    },
+    {
+      "sha": "f548b03cdc4d01c74a0a5eeeb6363e728abe9c38",
+      "author_login": "pxb1988",
+      "authored_at": "2016-01-18T11:03:02Z",
+      "message": "disable test case"
+    }
+  ],
+  "issues": [
+    {
+      "number": 646,
+      "title": "Ola driver partnar account",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-06-25T08:37:24Z",
+      "closed_at": "2026-06-25T08:39:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 645,
+      "title": "Rename README.md to Ola driver partnar account https://github.com/pxb…",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-06-25T08:33:51Z",
+      "closed_at": "2026-06-25T08:35:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 644,
+      "title": "Cannot convert Lcom/vungle/ads/internal/omsdk/Res;",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-01-30T16:20:46Z",
+      "closed_at": "2026-01-31T07:47:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 643,
+      "title": "Cannot convert Lcom/superwall/sdk/paywall/presentation/rule_logic/expression_evaluator/ScriptKt;",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-11-27T10:38:45Z",
+      "closed_at": "2025-12-04T10:02:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 640,
+      "title": "dex2jar exception java.lang.IllegalArgumentException: newPosition > limit: (8183223 > 1411533)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-31T07:10:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 639,
+      "title": "..",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-05-11T05:36:56Z",
+      "closed_at": "2025-05-11T05:44:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 638,
+      "title": "d2j-dex2jar classes.dex error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-02-27T10:29:15Z",
+      "closed_at": "2025-02-27T10:38:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 637,
+      "title": "Hack ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-01-10T00:23:50Z",
+      "closed_at": "2025-01-10T06:16:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 636,
+      "title": "java.lang.ClassCastException: com.googlecode.dex2jar.ir.expr.InvokePolymorphicExpr cannot be cast to com.googlecode.dex2jar.ir.expr.InvokeExpr",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-01-09T03:15:48Z",
+      "closed_at": "2025-01-09T07:11:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 635,
+      "title": "smali to dex failed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-22T13:22:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 634,
+      "title": "Heeelp",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-16T01:40:23Z",
+      "closed_at": "2024-11-16T07:07:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 633,
+      "title": "Problem in converting .dex file to .jar ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-15T12:05:40Z",
+      "closed_at": "2024-11-15T14:16:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 632,
+      "title": "Gardle build failed",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-07T09:50:55Z",
+      "closed_at": "2024-11-07T10:12:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 631,
+      "title": "【使用方法】记录备查",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-10-24T02:39:42Z",
+      "closed_at": "2024-10-24T02:39:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 630,
+      "title": "Issue with Symbol Renaming in dex2jar",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-09-27T07:35:04Z",
+      "closed_at": "2024-09-27T07:45:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 629,
+      "title": "Extra \"try\" got added in okio library in \"okio.AsyncTimeout$Watchdog\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-27T04:42:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 628,
+      "title": "inconsistent stack height Index 2 out of bounds for length 2 - with snapshot 2.2 not getting this error with snapshot 2.3 and 2.4 getting this error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-27T03:59:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 627,
+      "title": "Gradlew dist4zip fails two problems ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-09-10T13:32:14Z",
+      "closed_at": "2024-09-10T16:57:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 626,
+      "title": "don't understand  dex2jar why delete line number  ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-09-05T02:33:26Z",
+      "closed_at": "2024-09-19T09:39:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 625,
+      "title": "Cannot convert Lcom/vungle/ads/internal/omsdk/Res; Detail Error Information in File .\\classes5-error.zip",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-28T02:31:26Z",
+      "closed_at": "2024-09-01T14:28:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 624,
+      "title": "To work together",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-07T09:57:50Z",
+      "closed_at": "2024-08-07T19:27:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 623,
+      "title": "Create d2j-dex2jar.sh classes.dex -o classes.jar",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-21T06:08:24Z",
+      "closed_at": "2024-07-21T06:56:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 622,
+      "title": "dex2jar error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-07-17T20:29:16Z",
+      "closed_at": "2024-07-17T21:08:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 621,
+      "title": "Fix error in Jasmin parser",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-07-15T12:12:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 620,
+      "title": "Build Error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-07-05T07:50:59Z",
+      "closed_at": "2024-07-05T07:52:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 619,
+      "title": "org.objectweb.asm.MethodTooLargeException",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-30T08:28:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 618,
+      "title": "dex2jar: found bug",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-26T04:40:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 617,
+      "title": "There are 1 methods fail to translate.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-04-23T02:29:26Z",
+      "closed_at": "2024-04-23T07:37:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 616,
+      "title": "So... this thing doesn't work on Windows at all?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-04-20T13:09:40Z",
+      "closed_at": "2024-04-20T23:20:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 615,
+      "title": "dex2jar: use classes as android library?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-15T19:40:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 614,
+      "title": "java.lang.IllegalArgumentException: UTF8 string too large",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-02-28T01:53:10Z",
+      "closed_at": "2024-04-23T07:39:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 613,
+      "title": "Method too large during exception",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-01-25T08:26:50Z",
+      "closed_at": "2024-01-25T09:19:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 612,
+      "title": "变异过程中遇到的错误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-17T07:45:43Z",
+      "closed_at": "2023-11-17T09:31:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 611,
+      "title": "Detail Error Information in File .\\00O000ll111l_0-error.zip",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-08T09:51:42Z",
+      "closed_at": "2023-11-08T12:23:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 610,
+      "title": "error on decompiling ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-23T17:41:32Z",
+      "closed_at": "2023-10-23T17:43:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 609,
+      "title": "java.lang.RuntimeException: fail exe a8 = a3",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-22T01:57:48Z",
+      "closed_at": "2023-10-22T10:04:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 608,
+      "title": "IndexOutOfBoundsException had happened in using dex-tools-v2.4 tool to decode jar package",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-19T12:13:58Z",
+      "closed_at": "2024-04-23T07:38:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 607,
+      "title": "E:\\resources\\classes2.dex",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-07T13:51:46Z",
+      "closed_at": "2023-10-07T13:51:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 606,
+      "title": "decompile wechat8.0.32 error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-07T12:14:46Z",
+      "closed_at": "2023-10-07T13:56:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 605,
+      "title": "read version by GITHUB_REF_NAME",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-03T12:17:27Z",
+      "closed_at": "2023-10-03T13:03:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 604,
+      "title": "Bugfix",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-03T11:36:09Z",
+      "closed_at": "2023-10-03T11:43:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 603,
+      "title": "jar2dex min sdk version issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-22T06:24:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 602,
+      "title": "Exception in thread \"main\" java.lang.OutOfMemoryError: GC overhead limit exceeded",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-02T19:07:32Z",
+      "closed_at": "2023-09-02T19:17:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 601,
+      "title": "bring back asm bridge",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-01T11:35:11Z",
+      "closed_at": "2023-09-01T11:50:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 600,
+      "title": "remove hidden access flags",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-01T06:41:47Z",
+      "closed_at": "2023-09-01T12:09:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 599,
+      "title": "update antlr to 4.9.3",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-01T06:06:18Z",
+      "closed_at": "2023-09-01T06:08:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 598,
+      "title": "Apply miscellaneous fixes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-01T05:01:50Z",
+      "closed_at": "2023-09-01T06:12:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 597,
+      "title": "update github actions",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-31T13:13:35Z",
+      "closed_at": "2023-08-31T13:20:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 596,
+      "title": "typo similar with ffa0574dff776404d4fa4368057c72f610521a5c",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-31T12:41:03Z",
+      "closed_at": "2023-08-31T12:42:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 595,
+      "title": "Fix issues with J2IRConverter",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-31T12:33:11Z",
+      "closed_at": "2023-08-31T12:39:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 594,
+      "title": "Improve handling large arrays",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-31T10:46:22Z",
+      "closed_at": "2023-08-31T10:49:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 593,
+      "title": "support dex 038",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-31T05:10:15Z",
+      "closed_at": "2023-08-31T10:20:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 592,
+      "title": "support dex039 & dex040",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-30T12:47:56Z",
+      "closed_at": "2023-08-31T05:07:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 591,
+      "title": "Update ASM to 9.5, drop AsmBridge",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-30T12:45:51Z",
+      "closed_at": "2023-08-30T13:25:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 590,
+      "title": "READ THIS **BEFORE** CREATING ISSUES!",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-28T22:04:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 589,
+      "title": "Dex2Jar issue A13",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-08-28T08:13:57Z",
+      "closed_at": "2024-04-23T07:39:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 588,
+      "title": "Detail Error Information in File .\\jioJoin-error.zip Please report this file",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-30T13:50:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 587,
+      "title": "READ THIS **BEFORE** CREATING ISSUES!",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-13T12:05:04Z",
+      "closed_at": "2023-08-28T22:04:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 586,
+      "title": "java.lang.ClassCastException: class com.googlecode.dex2jar.ir.expr.InvokePolymorphicExpr cannot be cast to class com.googlecode.dex2jar.ir.expr.InvokeExpr (com.googlecode.dex2jar.ir.expr.InvokePolymor",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-09T09:35:42Z",
+      "closed_at": "2023-07-09T09:48:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 585,
+      "title": "com.googlecode.d2j.DexException: fail convert code for",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-04T06:31:37Z",
+      "closed_at": "2023-07-07T08:23:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 584,
+      "title": "Build failing: trying to load from wrong JRE...",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-03T09:05:44Z",
+      "closed_at": "2023-07-03T09:10:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 583,
+      "title": "java.lang.NullPointerException",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-01T13:27:07Z",
+      "closed_at": "2024-04-23T07:39:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 582,
+      "title": "READ THIS **BEFORE** CREATING ISSUES!",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-06-30T08:44:09Z",
+      "closed_at": "2023-07-13T12:05:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 581,
+      "title": "GLITCH: 0003 LBuilder;.testDeadEndTry(I)I | not enough space for reading instruction",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-14T10:11:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 580,
+      "title": "d2jar error ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-22T16:54:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 579,
+      "title": "d2j-smali.sh",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-05-19T11:36:13Z",
+      "closed_at": "2024-04-14T09:27:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 578,
+      "title": "READ THIS **BEFORE** CREATING ISSUES!",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-04-20T16:44:05Z",
+      "closed_at": "2023-06-30T08:44:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 577,
+      "title": "dex2jar error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-20T05:42:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 576,
+      "title": "apk not decompiling",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-15T07:32:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 575,
+      "title": "fil",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-04-15T07:31:25Z",
+      "closed_at": "2023-04-15T07:31:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 574,
+      "title": "dex2jar error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-09T13:33:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 573,
+      "title": "updated readme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-04-05T09:47:36Z",
+      "closed_at": "2023-04-05T09:49:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 572,
+      "title": "get a error when use dex2jar",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-13T11:50:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 571,
+      "title": "error when dex2jar on weixin",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-02T08:42:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 570,
+      "title": "issue decompressing a file",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-22T13:41:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 569,
+      "title": "Build failed when running `./gradlew distZip`",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-17T11:00:56Z",
+      "closed_at": "2023-09-09T21:18:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 567,
+      "title": "READ THIS **BEFORE** CREATING ISSUES!",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-01-08T11:44:50Z",
+      "closed_at": "2023-04-20T16:44:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 566,
+      "title": "Please report this file to https://github.com/pxb1988/dex2jar/issues if possible.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-06T21:03:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 565,
+      "title": "java.lang.StringIndexOutOfBoundsException: begin 1, end -1, length 2",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-12-14T11:04:11Z",
+      "closed_at": "2022-12-22T08:08:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 564,
+      "title": "Error when unpacking dex",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-12T08:17:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 563,
+      "title": "READ THIS **BEFORE** CREATING ISSUES!",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-11-29T10:18:30Z",
+      "closed_at": "2023-01-08T11:44:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 562,
+      "title": "Line number information is not available for classes after conversion.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-11-25T10:47:45Z",
+      "closed_at": "2022-11-29T10:21:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 561,
+      "title": "Running \"./apktool d -s -f --use-aapt2 on an Apk\" inside docker image failing",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-11-25T10:16:30Z",
+      "closed_at": "2022-11-25T10:35:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 560,
+      "title": "Detail Error Information in File .\\APKPure_v3.18.4302_apkpure.com-error.zip",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-14T18:16:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 559,
+      "title": "READ THIS **BEFORE** CREATING BUG REPORTS",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-11-13T07:41:10Z",
+      "closed_at": "2022-11-29T10:18:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 558,
+      "title": "Decompilation error of .dex file.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-23T14:21:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 557,
+      "title": "LambadaNameSafeClassAdapter cannot works well",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-12T08:42:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 556,
+      "title": "READ THIS **BEFORE** CREATING BUG REPORTS",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-10-10T17:31:16Z",
+      "closed_at": "2022-11-13T07:41:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 555,
+      "title": "Detail Error Information in File .\\classes-error.zip ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-04T19:03:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 554,
+      "title": "dex2jar error on Windows    `./d2j_invoke.sh: 48: java: not found`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-29T06:11:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 553,
+      "title": "dex2jar fail",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-15T01:19:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 552,
+      "title": "READ THIS BEFORE CREATING BUG REPORTS",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-08-28T07:29:59Z",
+      "closed_at": "2022-10-10T17:30:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 551,
+      "title": "conversion from DEX to JAR failed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-27T11:35:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 550,
+      "title": "idk not really an issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-26T09:55:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 549,
+      "title": "java.lang.StringIndexOutOfBoundsException: String index out of range: 0",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-05T14:56:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 548,
+      "title": "Tiny_Rails apk error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-05T08:55:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 547,
+      "title": "how to convert dex debug_info to class file?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-03T10:00:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 546,
+      "title": "Hello",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-07-28T17:00:20Z",
+      "closed_at": "2023-09-09T21:23:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 544,
+      "title": "READ THIS BEFORE CREATING BUG REPORTS",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-06-20T08:15:07Z",
+      "closed_at": "2022-08-28T07:30:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 543,
+      "title": "There are 86 methods fail to translate.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-06-04T00:30:02Z",
+      "closed_at": "2022-06-22T17:37:43Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "pxb1988",
+      "contributions": 320
+    },
+    {
+      "login": "ThexXTURBOXx",
+      "contributions": 14
+    },
+    {
+      "login": "ayyrickay",
+      "contributions": 3
+    },
+    {
+      "login": "claui",
+      "contributions": 1
+    },
+    {
+      "login": "jschmid",
+      "contributions": 1
+    },
+    {
+      "login": "omeraydindev",
+      "contributions": 1
+    },
+    {
+      "login": "barriosnahuel",
+      "contributions": 1
+    },
+    {
+      "login": "paulo-raca",
+      "contributions": 1
+    },
+    {
+      "login": "TWiStErRob",
+      "contributions": 1
+    },
+    {
+      "login": "sschuberth",
+      "contributions": 1
+    },
+    {
+      "login": "Marukohe",
+      "contributions": 1
+    },
+    {
+      "login": "kcmvp",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v2.4",
+      "published_at": "2023-10-03T13:06:19Z"
+    },
+    {
+      "tag": "v2.3",
+      "published_at": "2023-08-31T12:49:59Z"
+    },
+    {
+      "tag": "v2.2-SNAPSHOT-2021-10-31",
+      "published_at": "2021-10-31T12:47:51Z"
+    },
+    {
+      "tag": "v2.1",
+      "published_at": "2021-10-29T16:25:35Z"
+    },
+    {
+      "tag": "2.1-nightly-28",
+      "published_at": "2018-04-02T08:26:05Z"
+    },
+    {
+      "tag": "2.1-nightly-27",
+      "published_at": "2018-03-27T02:50:02Z"
+    },
+    {
+      "tag": "2.1-nightly-26",
+      "published_at": "2015-06-09T15:47:59Z"
+    },
+    {
+      "tag": "2.0",
+      "published_at": "2015-06-09T15:51:15Z"
+    }
+  ],
+  "collected_at": "2026-06-28T12:00:19.339044Z"
+}

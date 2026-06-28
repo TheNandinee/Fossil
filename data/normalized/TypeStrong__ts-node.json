@@ -1,0 +1,2137 @@
+{
+  "full_name": "TypeStrong/ts-node",
+  "owner": "TypeStrong",
+  "name": "ts-node",
+  "url": "https://github.com/TypeStrong/ts-node",
+  "description": "TypeScript execution and REPL for node.js",
+  "primary_language": "TypeScript",
+  "topics": [
+    "hacktoberfest",
+    "nodejs",
+    "repl",
+    "runtime",
+    "ts",
+    "ts-node",
+    "typescript",
+    "typescript-compiler",
+    "typescript-node"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 13135,
+  "forks": 548,
+  "open_issues": 231,
+  "created_at": "2015-07-15T02:12:52Z",
+  "pushed_at": "2024-07-18T18:14:16Z",
+  "updated_at": "2026-06-27T18:59:26Z",
+  "commits": [
+    {
+      "sha": "ddb05ef23be92a90c3ecac5a0220435c65ebbd2a",
+      "author_login": "blakeembrey",
+      "authored_at": "2023-12-12T07:46:59Z",
+      "message": "Update SECURITY.md"
+    },
+    {
+      "sha": "2ee80a878f74a69a593d95988e047cde854c745b",
+      "author_login": "edosrecki",
+      "authored_at": "2023-12-08T11:08:52Z",
+      "message": "Fix `tsconfig.json` not found with TS >= 5.3 (#2091)"
+    },
+    {
+      "sha": "9f36df2c01781734ca2990658a3b2bb1c35d8791",
+      "author_login": "blakeembrey",
+      "authored_at": "2023-12-08T11:07:10Z",
+      "message": "Update yarn.lock"
+    },
+    {
+      "sha": "c06cbe7d83b5585bb24f9963c42ce13eadd2202f",
+      "author_login": "cspotcode",
+      "authored_at": "2023-10-17T18:41:02Z",
+      "message": "11.0.0-beta.1"
+    },
+    {
+      "sha": "0eb980f2b7e86801eca76782a323f7ad696784ab",
+      "author_login": "cspotcode",
+      "authored_at": "2023-09-16T02:15:33Z",
+      "message": "Fix implicit config on old ts versions (#2064)"
+    },
+    {
+      "sha": "0022f38055689db7fc00027bf0aa6b181c7c0d2f",
+      "author_login": "cspotcode",
+      "authored_at": "2023-09-15T23:09:01Z",
+      "message": "Fix swc issues (#2062)"
+    },
+    {
+      "sha": "9a2a275e6547a6ab147bf46e7a2b3c442e688759",
+      "author_login": "cspotcode",
+      "authored_at": "2023-09-15T19:01:31Z",
+      "message": "bump min ts version to 4.4 to match definitelytyped at time of writing (#2063)"
+    },
+    {
+      "sha": "47d4f45f35e824a2515e17383a563be7dba7d8ff",
+      "author_login": "chentsulin",
+      "authored_at": "2023-05-31T16:36:46Z",
+      "message": "Add @tsconfig/node20, add node 20 to test matrix (#2003)"
+    },
+    {
+      "sha": "8f6f4e51bee5262090f8adfdcc1e2df17a6d7886",
+      "author_login": "isaacs",
+      "authored_at": "2023-05-30T02:10:58Z",
+      "message": "fix: lazy-load repl to avoid domain side effects (#2025)"
+    },
+    {
+      "sha": "7af5c48864b60576e471da03c064f325ce37d850",
+      "author_login": "cspotcode",
+      "authored_at": "2023-05-08T03:14:11Z",
+      "message": "Fix windows git install (#2017)"
+    },
+    {
+      "sha": "89a266d1d8d6ea1eaf69ba66ddb0a0d0539b72fd",
+      "author_login": "cspotcode",
+      "authored_at": "2023-05-08T01:55:50Z",
+      "message": "flatten and break up test suites into multiple files (#2015)"
+    },
+    {
+      "sha": "1a12d661a27d004c6d02064ae24c6722e029f417",
+      "author_login": "cspotcode",
+      "authored_at": "2023-05-07T23:34:30Z",
+      "message": "Suppress prepack in test workflow (#2014)"
+    },
+    {
+      "sha": "590f873655ed8d9c2bbb04e68895ed37ac5586d2",
+      "author_login": "cspotcode",
+      "authored_at": "2023-05-07T22:12:17Z",
+      "message": "Update .git-blame-ignore-revs"
+    },
+    {
+      "sha": "7ff608d1a0f7160e7776c34d7a146c8cc90d76ac",
+      "author_login": "cspotcode",
+      "authored_at": "2023-05-07T22:11:57Z",
+      "message": "Wider print width (#2012)"
+    },
+    {
+      "sha": "460bab250f74d107b095b749048fe3fff873846e",
+      "author_login": "cspotcode",
+      "authored_at": "2023-05-07T21:39:02Z",
+      "message": "Fix failing tests due to newer @tsconfig/bases (#2011)"
+    },
+    {
+      "sha": "0bf1366cfc3b3a05d1ec374168ae92c72b4ea2fb",
+      "author_login": "cspotcode",
+      "authored_at": "2023-05-07T19:25:16Z",
+      "message": "installation from git in various package managers: add e2e, fix (#2010)"
+    },
+    {
+      "sha": "71dcfd7b813a4178d89562bb4c28d7d6579fae4f",
+      "author_login": "cspotcode",
+      "authored_at": "2023-03-29T21:35:36Z",
+      "message": "Rename prepare script to prepack for compat with yarn (#1980)"
+    },
+    {
+      "sha": "6558cbeb28070a0ef688829f8203ca4aee671e75",
+      "author_login": "cspotcode",
+      "authored_at": "2023-03-18T20:40:12Z",
+      "message": "Update bundled `transpileModule` implementation to match latest TS codebase (#1973)"
+    },
+    {
+      "sha": "fd438213ad3b3e1bcabea48627255b8be74c1c24",
+      "author_login": "cspotcode",
+      "authored_at": "2023-02-14T05:28:28Z",
+      "message": "Remove create-require and yn dependencies (#1961)"
+    },
+    {
+      "sha": "6b1fd40d91dd8771e7de04dc4347d0319f40ae3f",
+      "author_login": "cspotcode",
+      "authored_at": "2023-02-14T03:57:28Z",
+      "message": "Fix bug where REPL inputs were compiled as ESM in ESM projects (#1959)"
+    },
+    {
+      "sha": "ece352f79195ef47c38e24938989f4ca29ea334a",
+      "author_login": "cspotcode",
+      "authored_at": "2023-02-13T17:01:54Z",
+      "message": "TS 5.0 Supporting Multiple Configuration Files in extends (#1958)"
+    },
+    {
+      "sha": "1c5857c5490b01bd921d9da0091e6789d5f00de8",
+      "author_login": "cspotcode",
+      "authored_at": "2023-02-13T04:27:46Z",
+      "message": "Test style guidance (#1957)"
+    },
+    {
+      "sha": "ba741fa3ecdd86cdb64bb3cc6a269ce34bb56d07",
+      "author_login": "cspotcode",
+      "authored_at": "2023-02-13T02:48:08Z",
+      "message": "Maintenance (#1956)"
+    },
+    {
+      "sha": "a376570cd039401ab2c5ac19a6310fa163da71fc",
+      "author_login": "cspotcode",
+      "authored_at": "2023-02-07T13:11:02Z",
+      "message": "Fix #1943 (#1952)"
+    },
+    {
+      "sha": "7fbc75ef60f315347fe8bde7679e8e290f86ca1e",
+      "author_login": "cspotcode",
+      "authored_at": "2023-02-07T05:30:41Z",
+      "message": "Maintenance tasks (#1951)"
+    },
+    {
+      "sha": "e64108852dac3d36546dbe4764169933f27a2750",
+      "author_login": "dscalzi",
+      "authored_at": "2023-02-06T19:52:21Z",
+      "message": "Update GitHub workflow badge route (#1946)"
+    },
+    {
+      "sha": "a7a7bd4d283f8345afadf0c7865395c6287566cc",
+      "author_login": "sashashura",
+      "authored_at": "2023-02-06T19:47:31Z",
+      "message": "GitHub Workflows security hardening (#1894)"
+    },
+    {
+      "sha": "02aee9c694ac2f784ae8d678be4cd6927ffd951c",
+      "author_login": "cspotcode",
+      "authored_at": "2023-02-06T17:40:59Z",
+      "message": "Maintenance tasks (#1950)"
+    },
+    {
+      "sha": "8b09d49b26c1c25e34133b857c073729dd691f11",
+      "author_login": "cspotcode",
+      "authored_at": "2022-08-05T23:26:00Z",
+      "message": "Improve dev experience (#1854)"
+    },
+    {
+      "sha": "6ab696c619e1f2627a2a8fa5b62c87de20014cd9",
+      "author_login": "cspotcode",
+      "authored_at": "2022-08-01T03:39:40Z",
+      "message": "bump deps (#1855)"
+    },
+    {
+      "sha": "97f9afd046b66a0fe05a7d76e7a32f94b872016f",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-14T18:31:26Z",
+      "message": "V11 breaking changes (#1760)"
+    },
+    {
+      "sha": "0e0da590b3c104ee515ae7b603c29d3d87620ce5",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-14T02:32:39Z",
+      "message": "10.9.1"
+    },
+    {
+      "sha": "c02af136b062574081d355a768ceddd3b0bb1903",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-14T01:45:45Z",
+      "message": "Attempt workaround for node regression (#1838)"
+    },
+    {
+      "sha": "11424e06ac360c4aea26f94e1bacaa3b74b7e57f",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-13T23:33:45Z",
+      "message": "10.9.0"
+    },
+    {
+      "sha": "7e41cb7c312d159c518d0ab37eee581d54c792d3",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-13T20:31:19Z",
+      "message": "fix jsdoc typo"
+    },
+    {
+      "sha": "b30ad7e9a1527c673ec2426fe02477c4c85eb036",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-13T19:55:38Z",
+      "message": "update api report"
+    },
+    {
+      "sha": "ee3e37ad52f7a87ebeb3e40ca19bdb8b1548ec6f",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-13T19:54:13Z",
+      "message": "rebuild readme"
+    },
+    {
+      "sha": "604b2aa7bba341351ac43c8d042a4843632ea8bf",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-13T19:51:31Z",
+      "message": "docs tweak ugh"
+    },
+    {
+      "sha": "3333005f43ef32c13eedc6d4deec4db9b7b4501a",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-13T19:46:07Z",
+      "message": "Update performance.md (#1837)"
+    },
+    {
+      "sha": "32d07e2b2fcbaab97c11e71ee5fc3a79fc20c802",
+      "author_login": "devversion",
+      "authored_at": "2022-07-13T19:36:36Z",
+      "message": "Fix ESM node processes being unable to fork into other scripts (#1814)"
+    },
+    {
+      "sha": "86b63bfde7b6ed234f55420d4d20c1e691075e53",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-13T01:32:36Z",
+      "message": "try adding config to ignore formatting commits in blame view (#1835)"
+    },
+    {
+      "sha": "aa5ec36526bf817b09345449492d5b9da11c0b93",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-10T14:16:13Z",
+      "message": "Make --project accept path to directory containing tsconfig, not just path to tsconfig (#1830)"
+    },
+    {
+      "sha": "ad01f49b269e47ec56c213d682a236b4c0a6d164",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-02T20:15:06Z",
+      "message": "Fix #1764 (#1824)"
+    },
+    {
+      "sha": "ab15063b0c367f49a1c9565781572cae7cc5c229",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-02T19:49:56Z",
+      "message": "swc plugin enhancements (#1802)"
+    },
+    {
+      "sha": "91110cdaf4a67f3b915c67221145fa3f677405eb",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-02T19:47:45Z",
+      "message": "Allow opting-in to `.ts` import specifiers (#1815)"
+    },
+    {
+      "sha": "ddd559dc0f1aec9a31c2f5aa6e868c59d43ba56c",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-02T17:56:50Z",
+      "message": "10.8.2"
+    },
+    {
+      "sha": "9c2d5d6889046ec5b033e96145f83ba568bd3136",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-02T16:27:19Z",
+      "message": "tweak contributing doc to explain the correct `np` invocation"
+    },
+    {
+      "sha": "26d171693013445d4c0a676da97eee51723847eb",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-02T16:55:54Z",
+      "message": "Docs merge for 10.8.2 release (#1823)"
+    },
+    {
+      "sha": "8aedaed7548e814d70963d27d916a2a46788fab2",
+      "author_login": "cspotcode",
+      "authored_at": "2022-07-02T16:50:04Z",
+      "message": "Revert \"Use file URL for source map paths (#1771)\" (#1821)"
+    },
+    {
+      "sha": "bf13086752f818421ddd30e430b6e2fed706764b",
+      "author_login": "queengooborg",
+      "authored_at": "2022-06-17T21:09:05Z",
+      "message": "Allow JSON imports in NodeJS 16.15 (#1792)"
+    },
+    {
+      "sha": "14323f9d00d5c7051ac09b944c7f423e442145ea",
+      "author_login": "cspotcode",
+      "authored_at": "2022-06-03T18:07:14Z",
+      "message": "10.8.1"
+    },
+    {
+      "sha": "e28cbecfbb58308c3b03d17a6c6bb1530d30ff6d",
+      "author_login": "cspotcode",
+      "authored_at": "2022-06-03T18:04:06Z",
+      "message": "fix missing tag declaration in api-extractor config; update api-extractor report"
+    },
+    {
+      "sha": "30eef20ac16cba65fba07df235d1482a593cc8b3",
+      "author_login": "cspotcode",
+      "authored_at": "2022-06-03T18:01:25Z",
+      "message": "rebuild readme"
+    },
+    {
+      "sha": "167a7fe17dbff3a948a6d2561be6329fd9b46b36",
+      "author_login": "cspotcode",
+      "authored_at": "2022-06-03T18:00:49Z",
+      "message": "Docs merge for 10.8.1 (#1788)"
+    },
+    {
+      "sha": "599f28bbed574003aea08cffab098a3348475649",
+      "author_login": "PaperStrike",
+      "authored_at": "2022-06-01T22:07:22Z",
+      "message": "Use file URL for source map paths (#1771)"
+    },
+    {
+      "sha": "04f4c28cc58a40c42685dc740601350c78dea084",
+      "author_login": "cspotcode",
+      "authored_at": "2022-06-01T20:50:21Z",
+      "message": "Fix #1778: typechecker resolver should take importer's module type -- cjs or esm -- into account when resolving package.json \"exports\" (#1782)"
+    },
+    {
+      "sha": "b3dd3f2516f40117624d69268df18b9fd80bc310",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-26T05:45:52Z",
+      "message": "Fix tests (#1775)"
+    },
+    {
+      "sha": "78d103ffe7e899471081f5a88ac4bd61e9a42184",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-21T18:18:47Z",
+      "message": "10.8.0"
+    },
+    {
+      "sha": "b6ccce9565b5d3ced75b7b6fa8e69d040de4c37e",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-20T22:41:38Z",
+      "message": "add @category tag to allowlist in apiextractor config"
+    },
+    {
+      "sha": "682fd6cd5f15b941a3a245a1e0fc05fa371b62cf",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-20T22:39:57Z",
+      "message": "update api-extractor report for v10.8.0"
+    },
+    {
+      "sha": "03a3ee7145eb731ec0754695a0c6a45b1bc34785",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-20T22:34:25Z",
+      "message": "render readme for v10.8.0 release"
+    },
+    {
+      "sha": "499b2567c5ccb170800eb03dd862d6970b49dc7f",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-20T22:31:46Z",
+      "message": "Merge docs for v10.8.0 release (#1763)"
+    },
+    {
+      "sha": "6f66541461b7c70336a8a3f1e21a88e56fb23e64",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-20T21:58:13Z",
+      "message": "Nodenext polish (#1757)"
+    },
+    {
+      "sha": "c6010aa9af553ec71280c55a998e5d4cd86b5dc5",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-20T21:11:52Z",
+      "message": "optimize stat calls in resolvers (#1759)"
+    },
+    {
+      "sha": "5521f807094d337485f0f5218bb78e82b50a88e2",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-20T20:26:55Z",
+      "message": "`getTypeInfo` should normalize slashes in path before querying our internal APIs for type info (#1762)"
+    },
+    {
+      "sha": "a4493737cb827fbfc725f59f8aa0374e859a1bd6",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-20T02:52:14Z",
+      "message": "Update config.yml"
+    },
+    {
+      "sha": "434e8ef23c5b1ad7d9fc4cb5963bf0bf0839f00a",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-20T02:51:47Z",
+      "message": "Update config.yml"
+    },
+    {
+      "sha": "ff78b64c311ee5e442a255a72b37658a1f80ee8d",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-18T19:55:36Z",
+      "message": "Delete TODO.md"
+    },
+    {
+      "sha": "f34d87479b979fc2a9442f3f576893dcf6b620a8",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-18T04:16:56Z",
+      "message": "Support `.mts`, `.cts`, `nodenext`, and `node16` (#1694)"
+    },
+    {
+      "sha": "cf935849f43501230eb82d364eae5e86684b67e0",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-16T16:17:25Z",
+      "message": "Update bug-report.md"
+    },
+    {
+      "sha": "7736f04aac5a27ad78c75a4f7d53f7871e9389be",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-15T20:11:25Z",
+      "message": "Implement file extension resolution for CJS, same as ESM; add exhaustive tests for resolver (#1727)"
+    },
+    {
+      "sha": "c67eb467d06ddc9ef7d48f208483fe31e16a319a",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-07T19:14:51Z",
+      "message": "Fix #1744 (#1745)"
+    },
+    {
+      "sha": "4717fc90f7183d98c63ff28368cf3e859d89c049",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-04T19:39:14Z",
+      "message": "Update config.yml"
+    },
+    {
+      "sha": "17aad13f845a794e6e4a559dd31897d47ab6abec",
+      "author_login": "cspotcode",
+      "authored_at": "2022-05-01T20:51:03Z",
+      "message": "Switch to new @cspotcode/source-map-support, using trace-mapping (#1729)"
+    },
+    {
+      "sha": "9e255575aa44a8af3cb01f4d810f8480541fe943",
+      "author_login": "jhmaster2000",
+      "authored_at": "2022-04-20T03:18:10Z",
+      "message": "Match ts-node REPL behavior of object literals with Node REPL (#1699)"
+    },
+    {
+      "sha": "d7670e9496276fca2c5b85fc2131622c1bb59538",
+      "author_login": "cspotcode",
+      "authored_at": "2022-04-19T23:41:45Z",
+      "message": "Remove chai (#1725)"
+    },
+    {
+      "sha": "1efabf4f29fd36fefc3400da1b8a15ab55a1a8a5",
+      "author_login": "cspotcode",
+      "authored_at": "2022-04-19T22:51:35Z",
+      "message": "Cleanup test macros (#1724)"
+    },
+    {
+      "sha": "5d325b58b74e5fceabdf347bfa9157329f4507e3",
+      "author_login": "cspotcode",
+      "authored_at": "2022-04-17T07:28:51Z",
+      "message": "Use dprint's prettier plugin: identical formatting; faster thanks to incremental caching (#1722)"
+    },
+    {
+      "sha": "deef947cd9c63d3eb9ed7a61a2923a06d00a029b",
+      "author_login": "paulbrimicombe",
+      "authored_at": "2022-04-17T07:07:14Z",
+      "message": "Add full diagnostics to tserror (#1706)"
+    },
+    {
+      "sha": "dc907bcac3dc8b989bbc57d8e2cc4363201949d5",
+      "author_login": "cspotcode",
+      "authored_at": "2022-04-17T05:21:22Z",
+      "message": "Add justfile because it is nice using just (#1720)"
+    },
+    {
+      "sha": "ccff67d0a92dea23aeac992bdb3ab4a1d1082e0c",
+      "author_login": "cspotcode",
+      "authored_at": "2022-04-16T05:38:00Z",
+      "message": "Make tests faster (#1719)"
+    },
+    {
+      "sha": "97f4ecf52c2ffbafacaed9aeb2b16baf2206b60e",
+      "author_login": "cspotcode",
+      "authored_at": "2022-04-16T01:57:13Z",
+      "message": "Cleanup raw and dist-raw directories (#1717)"
+    },
+    {
+      "sha": "0e8b8279d6fa036fb0dba14a3eb680e0cfb9b1ae",
+      "author_login": "cspotcode",
+      "authored_at": "2022-04-14T15:07:25Z",
+      "message": "add short-circuit flag to all ESM hook return values (#1715)"
+    },
+    {
+      "sha": "511e0e748417ec2dad3e01724c39e5f49da19fae",
+      "author_login": "cspotcode",
+      "authored_at": "2022-03-29T16:12:55Z",
+      "message": "Update child-require.ts (#1701)"
+    },
+    {
+      "sha": "98f30e85c8a78450cf8de0da68beeeaa9e875c4c",
+      "author_login": "d9k",
+      "authored_at": "2022-03-20T23:32:58Z",
+      "message": "Fix #1667 multiline function arguments support in REPL (#1677)"
+    },
+    {
+      "sha": "b5aa55d96a9d3f854fa82712bacf1e77bfc79704",
+      "author_login": "cspotcode",
+      "authored_at": "2022-03-15T03:12:14Z",
+      "message": "Improve CONTRIBUTING.md (#1678)"
+    },
+    {
+      "sha": "ba950599c6bfcba32b514b33d254094b278b744e",
+      "author_login": "cspotcode",
+      "authored_at": "2022-03-10T03:49:28Z",
+      "message": "Docs overhaul (#1682)"
+    },
+    {
+      "sha": "f5b6e2d141f9871a276039e8dc19ee96982d814a",
+      "author_login": "cspotcode",
+      "authored_at": "2022-03-06T04:23:59Z",
+      "message": "10.7.0"
+    },
+    {
+      "sha": "29a15bca71bf831ae75caf64da773af4ad8c875d",
+      "author_login": "cspotcode",
+      "authored_at": "2022-03-06T03:27:18Z",
+      "message": "update api-extractor report"
+    },
+    {
+      "sha": "e842c118a37ca81b82ab01e4c7e229570608a303",
+      "author_login": "cspotcode",
+      "authored_at": "2022-03-06T03:13:15Z",
+      "message": "Rebuild readme for 10.7.0"
+    },
+    {
+      "sha": "216339845e9b1d19a45cf0823e3913a4ae4be5e5",
+      "author_login": "cspotcode",
+      "authored_at": "2022-03-06T03:10:38Z",
+      "message": "Merge docs into main for 10.7.0"
+    },
+    {
+      "sha": "079206730fd75e6ff18f6998b15d08b9503cc000",
+      "author_login": "cspotcode",
+      "authored_at": "2022-03-05T19:31:45Z",
+      "message": "`ts-node-esm` / `--esm` to spawn a child process; decouple config loading from `create()`; fix pluggable dep resolution (#1655)"
+    },
+    {
+      "sha": "f35a1201445b004723bff6c1445e012861bde2a3",
+      "author_login": "cspotcode",
+      "authored_at": "2022-03-05T02:09:44Z",
+      "message": "lazy-load dependencies to improve responsiveness when they aren't used (#1676)"
+    },
+    {
+      "sha": "20cbbf58565b028bfb123fade6114c7f67824d7d",
+      "author_login": "Jamesernator",
+      "authored_at": "2022-03-02T23:57:35Z",
+      "message": "Allow json modules to be resolved in Node >=17.5.0 without flag (#1665)"
+    },
+    {
+      "sha": "30f03e1439685c732e6323cb4dc2e6321fb18a7b",
+      "author_login": "cspotcode",
+      "authored_at": "2022-03-01T16:59:38Z",
+      "message": "10.6.0"
+    },
+    {
+      "sha": "4e1af52cea2ca80c148f7392eb8d4a294f1dc94f",
+      "author_login": "cspotcode",
+      "authored_at": "2022-03-01T16:54:47Z",
+      "message": "update apiextractor report prior to the release of 10.6.0"
+    },
+    {
+      "sha": "89bde5169aefcf1012ae19a5d5f8710bf1916828",
+      "author_login": "cspotcode",
+      "authored_at": "2022-02-23T07:05:21Z",
+      "message": "Issue #1651 followup (#1660)"
+    },
+    {
+      "sha": "7025abf879e6155bd78ffb75b08b09ad6f314314",
+      "author_login": "cspotcode",
+      "authored_at": "2022-02-23T06:16:16Z",
+      "message": "Fix #1657: bug where node flags were not correctly preserved in `execArgv` (#1658)"
+    },
+    {
+      "sha": "3426db1d11f147bd68f3b636543100d978ac5a43",
+      "author_login": "cspotcode",
+      "authored_at": "2022-02-23T05:41:23Z",
+      "message": "Update continuous-integration.yml (#1659)"
+    },
+    {
+      "sha": "f8b572cb24e41f3f1d41a5290eff1b6a6267716a",
+      "author_login": "cspotcode",
+      "authored_at": "2022-02-22T03:29:36Z",
+      "message": "Implement #1649: When entrypoint fails to resolve via ESM, fallback to CommonJS resolution (#1654)"
+    }
+  ],
+  "issues": [
+    {
+      "number": 2173,
+      "title": "My server not start",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-30T16:22:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2172,
+      "title": "fix: serialize ESM loader TypeScript errors",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-23T07:53:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2171,
+      "title": "[Security] 10 known vulnerabilities found (CRITICAL severity)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-03T19:48:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2170,
+      "title": "Security vulnerability in `diff` package",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-20T04:33:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2169,
+      "title": "Upgrade diff dependency from v4 to v8.0.3 (GHSA-73rr-hh4g-fpgx)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-15T09:33:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2167,
+      "title": "Document Node.js native TypeScript execution as an alternative in supported scenarios",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-27T11:21:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2166,
+      "title": "\"tsconfig-path\" not registred when running jasmine from node 2.18.0",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-12-18T11:43:40Z",
+      "closed_at": "2025-12-18T15:03:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2165,
+      "title": "Incorrect stack traces when using ts-node/register and swc in production",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-23T17:30:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2164,
+      "title": "Common confusion with node-ts",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-09-13T21:14:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2163,
+      "title": "fix https://github.com/nodejs/node/issues/59364",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-08-17T23:22:26Z",
+      "closed_at": "2025-08-27T17:03:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2162,
+      "title": "In development `ts-node` replacement",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-06-29T10:54:52Z",
+      "closed_at": "2025-08-17T16:53:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2161,
+      "title": "chore: add es2023 and es2024 as swc supported targets",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-05-01T15:30:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2160,
+      "title": "Support ES2023 and ES2024 targets when using SWC",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-05-01T15:23:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2159,
+      "title": "ts execution does not work as expected",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-04-30T16:51:41Z",
+      "closed_at": "2025-05-03T04:38:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2158,
+      "title": "Support for Clean Running of .ts ESM Entry Points with ts-node/esm",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-27T01:37:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2156,
+      "title": "Fix indefinite wait and simplify per De Morgan's law",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-04-01T10:50:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2155,
+      "title": "Unify tsc and swc behaviour for `experimentalDecorators`",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-03-31T00:11:05Z",
+      "closed_at": "2025-03-31T00:14:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2154,
+      "title": "Mention require('ts-node/register') shorthand in README",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-03-20T16:18:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2153,
+      "title": "ts-node (ESM mode) incorrectly loads CJS types instead of ESM types for default exports with nested conditions exports",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-17T09:06:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2152,
+      "title": "`\"type\": \"module\"` in `package.json` breaks imports and prevents from execution on node 23",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-15T19:27:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2151,
+      "title": "(node:28410) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-15T01:50:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2150,
+      "title": "ts-node dos not recognize end of input; keeps printing \"...\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-11T23:11:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2149,
+      "title": "Feature Request: Disable execution of selected files",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-27T01:34:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2148,
+      "title": "Relative .js imports still not resolved to .ts (under Yarn PNP?)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-01-04T12:37:43Z",
+      "closed_at": "2025-03-27T15:28:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2147,
+      "title": "fix(internals): enable tsc noderesolution features",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-01-02T07:13:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2146,
+      "title": "Not able to extend config from packages having subpath exports map",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-02T07:07:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2143,
+      "title": "fix adding swc configuration file support as an option",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-12-03T20:21:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2141,
+      "title": "TypeError: value.replace is not a function on yarn 4.5.1, Node.js v20.13.1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-01T18:39:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2140,
+      "title": "Seeking sponsorship to restart development",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-23T22:03:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2139,
+      "title": "Error when importing module containing decalartion types",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-10-19T13:53:00Z",
+      "closed_at": "2024-10-31T01:13:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2138,
+      "title": "Fix file not found",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-10-17T17:10:12Z",
+      "closed_at": "2024-10-17T17:10:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2137,
+      "title": "Slow import using allowJs option",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-06T11:16:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2136,
+      "title": "Fix SWC support with stage 3 decorators",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-09-04T10:30:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2135,
+      "title": "Allow custom file extensions in --eval from CLI",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-04T08:09:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2134,
+      "title": "Wrong TS2345 error message in screenshot on website",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-17T11:48:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2133,
+      "title": "this Project  is  already  dead ,  please  friends use   tsx  or  swc-node to instead it  ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-16T06:26:01Z",
+      "closed_at": "2024-10-16T14:38:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2130,
+      "title": "Importing modules without named exports fails when using ts-node/esm",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-31T12:29:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2129,
+      "title": "Compile time errors being suppressed when using esm",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-29T09:12:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2128,
+      "title": "fix: deploy private package",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-18T18:14:15Z",
+      "closed_at": "2024-07-18T18:14:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2127,
+      "title": "Using register() with typecheck: false still fails with a type error in test run",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-16T06:57:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2126,
+      "title": "Gulp: ERR_UNKNOWN_FILE_EXTENSION",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-12T04:04:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2125,
+      "title": "Debugging + cluster.fork in vscode results in an error Unknown or unexpected option:--inspect-port",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-21T02:15:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2124,
+      "title": "Transpile-only doesn't work without tsconfig.json",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-18T05:01:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2123,
+      "title": "ERR_REQUIRE_ESM: Require of ES Module in CommonJS Context (ts-node, svgdom)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-13T14:09:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2122,
+      "title": "TypeError [ERR_UNKNOWN_FILE_EXTENSION]: Unknown file extension \".ts\" ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-12T10:43:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2121,
+      "title": "Compile not outputing expected format",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-03T20:52:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2120,
+      "title": "How funny a ts-node that does not read .ts file hahahha",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-06-02T08:17:41Z",
+      "closed_at": "2024-06-23T13:49:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2119,
+      "title": "Last release was 6 months ago... is the project dead?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-25T09:19:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2118,
+      "title": "Update scope.md to include mjs, mts, cts, cjs",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-05-17T15:27:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2117,
+      "title": "Setting emitAssertForImportAttributes no longer works in Node.js 22 with latest swc",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-03T19:51:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2116,
+      "title": "[DEP0180] DeprecationWarning: fs.Stats constructor is deprecated when using node 22",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-01T12:40:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2115,
+      "title": "[Error [ERR_REQUIRE_ESM]: require() of ES Module /.../node_modules/ts-node/esm.mjs not supported.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-05-01T09:42:36Z",
+      "closed_at": "2024-05-01T10:07:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2112,
+      "title": "ts-node doesn't resolve extended tsconfigs if they originate from the export fields of packages",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-18T21:28:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2111,
+      "title": "Cryptic error on invalid tsconfig.json, e.g. if attempting to extend nonexistent tsconfig file",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-10T04:18:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2110,
+      "title": "ts-node cannot run mixed ESM/CJS project",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-08T15:20:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2108,
+      "title": "feat(esm): initialize hook - register(_,[_,tsNodeOptions])",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-22T21:54:23Z",
+      "closed_at": "2025-07-10T21:39:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2107,
+      "title": "calling `repl.start()` causes a doubling of stdin/stdout",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-20T16:58:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2105,
+      "title": "Can't use `--eval` with ESM",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-04T05:08:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2104,
+      "title": "fix: bug with latest version of @swc/wasm (#2059)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-25T05:34:51Z",
+      "closed_at": "2026-06-10T06:12:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2103,
+      "title": "\"Cannot find package\" when running mocha and importing between packages in monorepo",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-16T12:31:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2100,
+      "title": "TypeError [ERR_UNKNOWN_FILE_EXTENSION]: Unknown file extension \".ts\" in Node v21.5.0",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-08T07:15:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2099,
+      "title": "ESM: Cannot find module './index.js' and requiring \"imaginaryUncacheableRequireResolveScript\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-19T06:59:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2098,
+      "title": "ts-node is unable to resolve tsconfig files in Yarn workspace",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-12-08T13:19:33Z",
+      "closed_at": "2023-12-08T14:34:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2096,
+      "title": "In  #!/bin/bash  clear apt update apt upgrade apt install figlet -y figlet Basic Installation apt install toilet -y apt install cowsay -y apt install nano -y apt install ruby -y gem install lolcat fig",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-12-04T05:11:58Z",
+      "closed_at": "2023-12-08T11:13:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2095,
+      "title": "Support clearing the local context with .clear when starting programmatically",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-02T23:51:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2094,
+      "title": "ERR_UNKNOWN_FILE_EXTENSION since Node.js 18.19.0 (works fine with 18.18.2)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-01T09:01:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2092,
+      "title": "add --env-file environment variable similar to node v:20.6.0 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-23T20:22:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2091,
+      "title": "fix: tsconfig not found with TS >= 5.3",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-11-23T11:08:55Z",
+      "closed_at": "2023-12-08T11:08:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2090,
+      "title": "extends of tsconfig.json doesn't work when it reference to other package",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-23T06:36:22Z",
+      "closed_at": "2023-12-08T11:08:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2089,
+      "title": "\"TypeError: require(...) is not a function\" in ts-node dependecy",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-22T12:37:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2088,
+      "title": "Error when using ts-node with tsonfig/bases and typescript 5.3.2",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-21T09:57:01Z",
+      "closed_at": "2023-11-21T10:30:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2087,
+      "title": "In REPL, can't access the previous line's return value via `_`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-16T16:25:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2086,
+      "title": "ts-node doesn't run ESM modules as expected, either refusing`import` statements in ts file or not being able to run `.ts` files",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-16T01:59:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2085,
+      "title": "UnhandledPromiseRejection: ts-node-esm does not display type checking results",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-14T00:47:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2084,
+      "title": "console.log('hi'); fails in REPL with \"module\": \"esnext\"",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-09T23:34:31Z",
+      "closed_at": "2024-02-05T14:15:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2083,
+      "title": "not even the most simple use-case",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-03T07:04:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2078,
+      "title": "Allow replacing symbols",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-23T11:14:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2077,
+      "title": "v11 beta",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-17T18:45:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2076,
+      "title": "tsconfig not found when extends scope with ts-node>10.0 and typescript@>=5.3.0-dev",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-10T12:44:46Z",
+      "closed_at": "2023-12-08T11:08:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2074,
+      "title": "Update README to include mjs, mts, cts, cjs under \"Ignored files\" > \"File extensions\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-05T21:51:56Z",
+      "closed_at": "2025-01-29T00:04:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2073,
+      "title": "Export `ts-node/esm-register`",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-10-04T15:28:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2072,
+      "title": "Export `ts-node/esm-register` to use with `--import`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-04T14:58:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2070,
+      "title": "SWC: unknown field `noInterop`, expected `resolveFully`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-24T11:28:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2069,
+      "title": "Using ts-node main branch as a dependency fails on GitHub Actions with pnpm",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-23T00:46:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2068,
+      "title": "ESM + path mapping",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-21T13:47:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2066,
+      "title": "Use ts-node command to compile .ts file is unsuccessful ,throwing an error as is below ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-19T03:08:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2065,
+      "title": "Fix @tsconfig/bases implicit config logic so old TS versions won't get an incompatible config",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-16T00:20:37Z",
+      "closed_at": "2023-09-16T02:15:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2064,
+      "title": "Fix implicit config on old ts versions",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-16T00:20:06Z",
+      "closed_at": "2023-09-16T02:15:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2063,
+      "title": "bump min ts version to 4.4 to match definitelytyped at time of writing",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-14T21:25:19Z",
+      "closed_at": "2023-09-15T19:01:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2062,
+      "title": "Fix swc issues",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-14T18:28:36Z",
+      "closed_at": "2023-09-15T23:09:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2061,
+      "title": "Dynamic require of xxx is not supported",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-13T18:56:35Z",
+      "closed_at": "2023-09-13T21:54:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2060,
+      "title": "Does not support modulesuffixes in tsconfig.json",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-12T14:17:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2059,
+      "title": "The latest version of @swc/core has made a break change, resulting in ts-node reporting an error.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-12T07:01:11Z",
+      "closed_at": "2023-09-15T23:09:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2058,
+      "title": "Supporting native env file parsing (node 20 feature) in ts-node",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-12T01:31:06Z",
+      "closed_at": "2023-09-28T16:41:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2057,
+      "title": "remove swc experimental options",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-07T21:54:57Z",
+      "closed_at": "2023-09-16T02:34:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2056,
+      "title": "SWC: Reflect renamed keepImportAssertions configuration option",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-07T10:26:45Z",
+      "closed_at": "2023-09-15T23:09:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2054,
+      "title": "register() no longer works in node20 with modules",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-06T19:38:25Z",
+      "closed_at": "2023-09-06T19:43:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2053,
+      "title": "Line numbers in stack traces are wrong in Node v20",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-05T13:13:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2051,
+      "title": "Tracking: swc erroneously converts import assertions `assert` keyword to `with`",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-02T13:50:05Z",
+      "closed_at": "2023-09-15T23:09:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2050,
+      "title": "Research usability of `--enable-source-maps`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-02T13:31:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "blakeembrey",
+      "contributions": 389
+    },
+    {
+      "login": "cspotcode",
+      "contributions": 294
+    },
+    {
+      "login": "greenkeeperio-bot",
+      "contributions": 15
+    },
+    {
+      "login": "greenkeeper[bot]",
+      "contributions": 13
+    },
+    {
+      "login": "stelcheck",
+      "contributions": 4
+    },
+    {
+      "login": "G-Rath",
+      "contributions": 3
+    },
+    {
+      "login": "unional",
+      "contributions": 3
+    },
+    {
+      "login": "dependabot[bot]",
+      "contributions": 3
+    },
+    {
+      "login": "TheUnlocked",
+      "contributions": 3
+    },
+    {
+      "login": "Pokute",
+      "contributions": 2
+    },
+    {
+      "login": "ejose19",
+      "contributions": 2
+    },
+    {
+      "login": "sylc",
+      "contributions": 2
+    },
+    {
+      "login": "srolel",
+      "contributions": 2
+    },
+    {
+      "login": "Jontem",
+      "contributions": 2
+    },
+    {
+      "login": "jonaskello",
+      "contributions": 2
+    },
+    {
+      "login": "concision",
+      "contributions": 2
+    },
+    {
+      "login": "chrisleck",
+      "contributions": 2
+    },
+    {
+      "login": "basarat",
+      "contributions": 2
+    },
+    {
+      "login": "NaridaL",
+      "contributions": 2
+    },
+    {
+      "login": "PaperStrike",
+      "contributions": 1
+    },
+    {
+      "login": "rharriso",
+      "contributions": 1
+    },
+    {
+      "login": "rsxdalv",
+      "contributions": 1
+    },
+    {
+      "login": "snapwich",
+      "contributions": 1
+    },
+    {
+      "login": "rakannimer",
+      "contributions": 1
+    },
+    {
+      "login": "queengooborg",
+      "contributions": 1
+    },
+    {
+      "login": "papb",
+      "contributions": 1
+    },
+    {
+      "login": "devversion",
+      "contributions": 1
+    },
+    {
+      "login": "paulbrimicombe",
+      "contributions": 1
+    },
+    {
+      "login": "3mard",
+      "contributions": 1
+    },
+    {
+      "login": "burnnat",
+      "contributions": 1
+    },
+    {
+      "login": "cthrax",
+      "contributions": 1
+    },
+    {
+      "login": "musahaidari",
+      "contributions": 1
+    },
+    {
+      "login": "morlay",
+      "contributions": 1
+    },
+    {
+      "login": "mhegazy",
+      "contributions": 1
+    },
+    {
+      "login": "Deilan",
+      "contributions": 1
+    },
+    {
+      "login": "rundef",
+      "contributions": 1
+    },
+    {
+      "login": "Zlatkovsky",
+      "contributions": 1
+    },
+    {
+      "login": "markbradley27",
+      "contributions": 1
+    },
+    {
+      "login": "MarcManiez",
+      "contributions": 1
+    },
+    {
+      "login": "LoicPoullain",
+      "contributions": 1
+    },
+    {
+      "login": "tars0x9752",
+      "contributions": 1
+    },
+    {
+      "login": "sisisin",
+      "contributions": 1
+    },
+    {
+      "login": "sgoll",
+      "contributions": 1
+    },
+    {
+      "login": "rpd10",
+      "contributions": 1
+    },
+    {
+      "login": "xaclincoln",
+      "contributions": 1
+    },
+    {
+      "login": "jhmaster2000",
+      "contributions": 1
+    },
+    {
+      "login": "isaacs",
+      "contributions": 1
+    },
+    {
+      "login": "hiro08gh",
+      "contributions": 1
+    },
+    {
+      "login": "cevek",
+      "contributions": 1
+    },
+    {
+      "login": "bluelovers",
+      "contributions": 1
+    },
+    {
+      "login": "zkochan",
+      "contributions": 1
+    },
+    {
+      "login": "sartoshi-foot-dao",
+      "contributions": 1
+    },
+    {
+      "login": "devoto13",
+      "contributions": 1
+    },
+    {
+      "login": "Maecenas",
+      "contributions": 1
+    },
+    {
+      "login": "ValeriaVG",
+      "contributions": 1
+    },
+    {
+      "login": "steadicat",
+      "contributions": 1
+    },
+    {
+      "login": "songkeys",
+      "contributions": 1
+    },
+    {
+      "login": "shrujalshah28",
+      "contributions": 1
+    },
+    {
+      "login": "sharikovvladislav",
+      "contributions": 1
+    },
+    {
+      "login": "cookrn",
+      "contributions": 1
+    },
+    {
+      "login": "timocov",
+      "contributions": 1
+    },
+    {
+      "login": "d9k",
+      "contributions": 1
+    },
+    {
+      "login": "edosrecki",
+      "contributions": 1
+    },
+    {
+      "login": "ledenis",
+      "contributions": 1
+    },
+    {
+      "login": "shortenda",
+      "contributions": 1
+    },
+    {
+      "login": "davidmurdoch",
+      "contributions": 1
+    },
+    {
+      "login": "danthegoodman",
+      "contributions": 1
+    },
+    {
+      "login": "dscalzi",
+      "contributions": 1
+    },
+    {
+      "login": "cdschmitz",
+      "contributions": 1
+    },
+    {
+      "login": "caseyWebb",
+      "contributions": 1
+    },
+    {
+      "login": "chentsulin",
+      "contributions": 1
+    },
+    {
+      "login": "bertyhell",
+      "contributions": 1
+    },
+    {
+      "login": "elevatebart",
+      "contributions": 1
+    },
+    {
+      "login": "zero-sum-gamer",
+      "contributions": 1
+    },
+    {
+      "login": "tenorok",
+      "contributions": 1
+    },
+    {
+      "login": "astashov",
+      "contributions": 1
+    },
+    {
+      "login": "wclr",
+      "contributions": 1
+    },
+    {
+      "login": "sashashura",
+      "contributions": 1
+    },
+    {
+      "login": "abraham",
+      "contributions": 1
+    },
+    {
+      "login": "abraj",
+      "contributions": 1
+    },
+    {
+      "login": "Llorx",
+      "contributions": 1
+    },
+    {
+      "login": "BrunnerLivio",
+      "contributions": 1
+    },
+    {
+      "login": "nguyensomniac",
+      "contributions": 1
+    },
+    {
+      "login": "nana4gonta",
+      "contributions": 1
+    },
+    {
+      "login": "kriszyp",
+      "contributions": 1
+    },
+    {
+      "login": "nomcopter",
+      "contributions": 1
+    },
+    {
+      "login": "KasparEtter",
+      "contributions": 1
+    },
+    {
+      "login": "ksamborski",
+      "contributions": 1
+    },
+    {
+      "login": "jschwarty",
+      "contributions": 1
+    },
+    {
+      "login": "joeskeen",
+      "contributions": 1
+    },
+    {
+      "login": "capaj",
+      "contributions": 1
+    },
+    {
+      "login": "ljani",
+      "contributions": 1
+    },
+    {
+      "login": "Janpot",
+      "contributions": 1
+    },
+    {
+      "login": "Jamesernator",
+      "contributions": 1
+    },
+    {
+      "login": "safareli",
+      "contributions": 1
+    },
+    {
+      "login": "thetutlage",
+      "contributions": 1
+    },
+    {
+      "login": "Psidium",
+      "contributions": 1
+    },
+    {
+      "login": "frandiox",
+      "contributions": 1
+    },
+    {
+      "login": "Weakky",
+      "contributions": 1
+    },
+    {
+      "login": "gfx",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v10.9.2",
+      "published_at": "2023-12-08T12:06:05Z"
+    },
+    {
+      "tag": "v10.9.1",
+      "published_at": "2022-07-14T02:45:33Z"
+    },
+    {
+      "tag": "v10.9.0",
+      "published_at": "2022-07-13T23:35:27Z"
+    },
+    {
+      "tag": "v10.8.2",
+      "published_at": "2022-07-02T17:58:40Z"
+    },
+    {
+      "tag": "v10.8.1",
+      "published_at": "2022-06-03T18:19:24Z"
+    },
+    {
+      "tag": "v10.8.0",
+      "published_at": "2022-05-21T18:21:03Z"
+    },
+    {
+      "tag": "v10.7.0",
+      "published_at": "2022-03-06T04:25:33Z"
+    },
+    {
+      "tag": "v10.6.0",
+      "published_at": "2022-03-01T17:05:52Z"
+    },
+    {
+      "tag": "v10.5.0",
+      "published_at": "2022-02-07T15:59:21Z"
+    },
+    {
+      "tag": "v10.4.0",
+      "published_at": "2021-10-22T19:23:23Z"
+    },
+    {
+      "tag": "v10.3.1",
+      "published_at": "2021-10-21T16:00:25Z"
+    },
+    {
+      "tag": "v10.3.0",
+      "published_at": "2021-10-11T18:04:15Z"
+    },
+    {
+      "tag": "v10.2.1",
+      "published_at": "2021-08-18T17:24:43Z"
+    },
+    {
+      "tag": "v10.2.0",
+      "published_at": "2021-08-08T23:21:02Z"
+    },
+    {
+      "tag": "v10.1.0",
+      "published_at": "2021-07-09T21:33:42Z"
+    },
+    {
+      "tag": "v10.0.0",
+      "published_at": "2021-05-23T19:29:25Z"
+    },
+    {
+      "tag": "v9.1.1",
+      "published_at": "2020-12-07T14:51:22Z"
+    },
+    {
+      "tag": "v9.1.0",
+      "published_at": "2020-12-03T07:11:05Z"
+    },
+    {
+      "tag": "v9.0.0",
+      "published_at": "2020-08-21T17:59:38Z"
+    },
+    {
+      "tag": "v8.10.2",
+      "published_at": "2020-05-28T15:55:48Z"
+    },
+    {
+      "tag": "v8.10.1",
+      "published_at": "2020-05-03T06:59:24Z"
+    },
+    {
+      "tag": "v8.10.0",
+      "published_at": "2020-05-03T05:11:21Z"
+    },
+    {
+      "tag": "v8.9.1",
+      "published_at": "2020-04-26T05:42:13Z"
+    },
+    {
+      "tag": "v8.9.0",
+      "published_at": "2020-04-20T20:26:11Z"
+    },
+    {
+      "tag": "v8.8.2",
+      "published_at": "2020-04-05T00:51:45Z"
+    },
+    {
+      "tag": "v8.8.1",
+      "published_at": "2020-03-22T02:05:31Z"
+    },
+    {
+      "tag": "v8.8.0",
+      "published_at": "2020-03-21T23:28:18Z"
+    },
+    {
+      "tag": "v8.7.0",
+      "published_at": "2020-03-02T19:44:09Z"
+    },
+    {
+      "tag": "v8.6.2",
+      "published_at": "2020-01-13T18:08:51Z"
+    },
+    {
+      "tag": "v8.6.1",
+      "published_at": "2020-01-10T21:48:56Z"
+    },
+    {
+      "tag": "v8.6.0",
+      "published_at": "2020-01-10T01:11:47Z"
+    },
+    {
+      "tag": "v8.5.4",
+      "published_at": "2019-11-28T16:57:31Z"
+    },
+    {
+      "tag": "v8.5.3",
+      "published_at": "2019-11-28T04:56:17Z"
+    },
+    {
+      "tag": "v8.5.2",
+      "published_at": "2019-11-15T03:01:25Z"
+    },
+    {
+      "tag": "v8.5.0",
+      "published_at": "2019-11-11T02:58:59Z"
+    },
+    {
+      "tag": "v8.4.1",
+      "published_at": "2019-09-16T00:30:05Z"
+    },
+    {
+      "tag": "v8.4.0",
+      "published_at": "2019-09-15T23:32:48Z"
+    },
+    {
+      "tag": "v8.3.0",
+      "published_at": "2019-06-15T02:44:18Z"
+    },
+    {
+      "tag": "v8.2.0",
+      "published_at": "2019-05-26T00:58:52Z"
+    },
+    {
+      "tag": "v8.1.1",
+      "published_at": "2019-05-26T01:13:31Z"
+    },
+    {
+      "tag": "v8.1.0",
+      "published_at": "2019-04-15T02:02:32Z"
+    },
+    {
+      "tag": "v8.0.3",
+      "published_at": "2019-03-07T05:06:10Z"
+    },
+    {
+      "tag": "v8.0.2",
+      "published_at": "2019-01-26T04:30:34Z"
+    },
+    {
+      "tag": "v8.0.1",
+      "published_at": "2019-01-22T02:13:10Z"
+    },
+    {
+      "tag": "v8.0.0",
+      "published_at": "2019-01-22T01:49:44Z"
+    },
+    {
+      "tag": "v7.0.1",
+      "published_at": "2018-08-11T22:12:17Z"
+    },
+    {
+      "tag": "v7.0.0",
+      "published_at": "2018-06-22T18:43:04Z"
+    },
+    {
+      "tag": "v6.2.0",
+      "published_at": "2018-06-22T18:23:44Z"
+    },
+    {
+      "tag": "v6.1.2",
+      "published_at": "2018-06-20T20:10:55Z"
+    },
+    {
+      "tag": "v6.1.1",
+      "published_at": "2018-06-12T07:00:12Z"
+    }
+  ],
+  "collected_at": "2026-06-28T12:00:16.900406Z"
+}

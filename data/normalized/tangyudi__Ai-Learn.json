@@ -1,0 +1,564 @@
+{
+  "full_name": "tangyudi/Ai-Learn",
+  "owner": "tangyudi",
+  "name": "Ai-Learn",
+  "url": "https://github.com/tangyudi/Ai-Learn",
+  "description": "人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2 caffe keras pytorch algorithm numpy pandas matplotlib seaborn nlp cv等热门领域",
+  "primary_language": null,
+  "topics": [
+    "algorithm",
+    "artificial-intelligence",
+    "caffe",
+    "cv",
+    "data-analysis",
+    "data-mining",
+    "data-science",
+    "deep-learning",
+    "keras",
+    "machine-learning",
+    "mathematics",
+    "matplotlib",
+    "nlp",
+    "numpy",
+    "pandas",
+    "python",
+    "pytorch",
+    "seaborn",
+    "tensorflow",
+    "tensorflow2"
+  ],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 13091,
+  "forks": 2659,
+  "open_issues": 20,
+  "created_at": "2020-01-28T01:55:06Z",
+  "pushed_at": "2024-06-02T04:46:40Z",
+  "updated_at": "2026-06-28T06:42:26Z",
+  "commits": [
+    {
+      "sha": "3928f8bd3aa5855e7266252f566c26587ff9c58b",
+      "author_login": "tangyudi",
+      "authored_at": "2024-06-02T04:46:40Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "897c14c8f3af0c03575ca583f9d64e50bfc7e987",
+      "author_login": "tangyudi",
+      "authored_at": "2024-06-02T04:46:03Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "4b062f1a324fffcacf06306c51516f80bdb7556f",
+      "author_login": "tangyudi",
+      "authored_at": "2023-12-25T17:39:54Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b6bdcc3dacb4301822b06d2781d9e2e1769c5770",
+      "author_login": "tangyudi",
+      "authored_at": "2023-12-25T17:38:14Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7fdbc704f0a2a7c73a47edf486703d3c474b31be",
+      "author_login": "tangyudi",
+      "authored_at": "2022-06-23T10:03:47Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "29cf8825c0aa9f179173696866f99a8a25d5be38",
+      "author_login": "tangyudi",
+      "authored_at": "2022-06-23T10:02:38Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "81087c431dafe086c704041d93187bd927d78746",
+      "author_login": "tangyudi",
+      "authored_at": "2022-06-23T10:01:53Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "57460f0ac0b984e0136e2f56dc8b5572cf76eb82",
+      "author_login": "tangyudi",
+      "authored_at": "2022-06-23T10:01:27Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3da12aa9bb8a6ad2e806c971967c08dc1c65d644",
+      "author_login": "tangyudi",
+      "authored_at": "2020-02-06T04:45:30Z",
+      "message": "本项目还会持续更新下去"
+    },
+    {
+      "sha": "e7da87b61a739bae0ac32bacbccec8a8c35283aa",
+      "author_login": "tangyudi",
+      "authored_at": "2020-02-02T12:42:09Z",
+      "message": "所有案例与项目均有配套视频讲解课程"
+    },
+    {
+      "sha": "bfe30d8a9c8622eb1858290767cb6642bc8252a3",
+      "author_login": "tangyudi",
+      "authored_at": "2020-02-02T12:27:01Z",
+      "message": "本项目还会持续更新下去"
+    },
+    {
+      "sha": "1c120887f5cde896f37153292ed7280391b082bd",
+      "author_login": "tangyudi",
+      "authored_at": "2020-02-02T12:25:17Z",
+      "message": "本项目还会持续更新下去"
+    },
+    {
+      "sha": "4256ecbe80a9486b8b10e79a23b087139a881dbb",
+      "author_login": "tangyudi",
+      "authored_at": "2020-02-01T04:10:08Z",
+      "message": "本项目还会持续更新下去！"
+    },
+    {
+      "sha": "a90ecdfc642b7ef5ef28eb23e8bdb815d4a251bc",
+      "author_login": "tangyudi",
+      "authored_at": "2020-02-01T04:08:26Z",
+      "message": "准备加入的同学们最好按照给出的学习路线图来逐一攻克！"
+    },
+    {
+      "sha": "812a84a5392ac0339de4c1881147b5802270e412",
+      "author_login": "tangyudi",
+      "authored_at": "2020-02-01T04:07:12Z",
+      "message": "Add files via upload"
+    },
+    {
+      "sha": "a26528a70e40f5db0d960bc4a110bbbebb32f193",
+      "author_login": "tangyudi",
+      "authored_at": "2020-02-01T04:05:32Z",
+      "message": "Add files via upload"
+    },
+    {
+      "sha": "e613eeab1bb3953f8a4edf28caa9e16fd68d98d3",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:38:23Z",
+      "message": "最后再提一个非常重要的事！别忘了点个star收藏下！star!star!star!"
+    },
+    {
+      "sha": "c0149d6065a6c9e35475d0c0f1393d19adc5eaf3",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:37:33Z",
+      "message": "感谢各种兄弟姐妹的支持，我还会继续更新下去的！"
+    },
+    {
+      "sha": "3f19d045594389866c35ad22e53670ed68790a1e",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:35:37Z",
+      "message": "合作交流与投稿欢迎添加微信:digexiaozhushou（迪哥小助手拼音）"
+    },
+    {
+      "sha": "43d264dc1d45b8d8b3aec4fe9779f38d68b472e7",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:34:38Z",
+      "message": "问题反馈大家可以直接在微信上留言，欢迎指正各种BUG！"
+    },
+    {
+      "sha": "e44942216f46e09312e67890a15d39c11b3cf5ab",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:33:21Z",
+      "message": "建议刚刚加入的同学们参考配套教材来学习，为了更容易理解，这本书迭代修正了十余次，我太难了！"
+    },
+    {
+      "sha": "00fe4a11ddd128c38305cc8066f2dcd361062f2f",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:30:46Z",
+      "message": "19年底出版了《跟着迪哥学Python数据分析与机器学习实战》风格依旧通俗易懂"
+    },
+    {
+      "sha": "cf439a283d83918b64d27c4a6b56f93755c11f39",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:29:38Z",
+      "message": "为了能让更多的同学们快速融入学习计划中，我将免费提供配套教材的电子版"
+    },
+    {
+      "sha": "71ab05bd2b3a647eb39091056279531256a27913",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:28:12Z",
+      "message": "写代码过程中肯定都是边看边查，查阅的过程也是最好的学习过程"
+    },
+    {
+      "sha": "46926dc0b261dc18acd5d091a28db583bf3a4545",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:26:45Z",
+      "message": "对于各种Python工具包第一遍刷的时候只需要熟悉即可，别在这上面花太多时间"
+    },
+    {
+      "sha": "ecd7dd31926a114facbde50a7d923b97c90c6b96",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:22:15Z",
+      "message": "初学的同学一定把机器学习当作重点学习内容"
+    },
+    {
+      "sha": "174a48308fec6005c744802ef605f48f7d81417a",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:21:14Z",
+      "message": "有时间的同学们建议把案例都自己做一遍，用起来就是自己的模板了！"
+    },
+    {
+      "sha": "893fff30f9161862d804b24a1821c69bebc2dad2",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:20:30Z",
+      "message": "学习方法与工具的选择大家可以按照自己的喜好，并不需要完全跟教程一致"
+    },
+    {
+      "sha": "7184360441f8c17b7f6c7014be7e2e9fcc51a4d6",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:18:35Z",
+      "message": "获取配套视频课程，请添加微信：digexiaozhushou（迪哥小助手拼音）"
+    },
+    {
+      "sha": "f5c1aebe256a6b93dca5d395921364180626dce3",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:17:46Z",
+      "message": "所有案例与项目均有配套视频讲解课程"
+    },
+    {
+      "sha": "834ba04232a29b0fea974ee60d93ffe742a00929",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:16:23Z",
+      "message": "提供的案例中很多都是大型开源项目，其中重点强调的一定别错过！"
+    },
+    {
+      "sha": "5cbed7bddf580a1165ba574ba793c26515da5678",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:14:49Z",
+      "message": "准备就业面试的同学们一定把ML和DL算法多刷几遍"
+    },
+    {
+      "sha": "95d9b2d1da4643509f82f0b93ca6b764b1f0fb33",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:13:09Z",
+      "message": "readme中我对每个模块的重点和学习方法都给出了解释说明"
+    },
+    {
+      "sha": "aaba0c235a090ea9cacf87d95474226d8afcce26",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:12:01Z",
+      "message": "准备加入的同学们最好按照给出的学习路线图来逐一攻克！"
+    },
+    {
+      "sha": "ac03d5b930d47795ff2740bd5707b7a35d653798",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:10:08Z",
+      "message": "这些案例都是我这五年培训精心总结教程"
+    },
+    {
+      "sha": "19ac4db59dc1a038c80b6b94718620b9e578ceb0",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:07:07Z",
+      "message": "这个项目给大家提供了近200个实战案例"
+    },
+    {
+      "sha": "7dc2a2f8ec3c959c24a9ea1b38374a07fd499c2a",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-31T03:00:16Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "27e0659db1a652d9e472ac78b4a6ff13384348f8",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-30T02:40:07Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "ae1d657291ce0089e15ea9a54539978211c261a1",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-30T02:37:56Z",
+      "message": "有问题请添加微信:digexiaozhushou"
+    },
+    {
+      "sha": "90b8d319acb4ee90bd23604cab8fa7b59aef4bd0",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-30T02:29:06Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "3dc57013057ce0e7dac23c9faff517ed688b3d26",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-30T02:17:56Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "1c8b9d15818dde0d0115364c244bc5972adcea08",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-29T13:03:00Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "ca25910b5eb3b901117826d9916c47dee421484b",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-29T13:01:32Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "4ef13e8f2cf4089f9b61b157d65cf2b14547e2b4",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-29T13:01:01Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "1bd78ea3aba114b97110eb61568aa62cfd3b7281",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-29T12:51:15Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "6430e635ecabfd55a65707e1bdace165cd477ec3",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-29T12:05:26Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "37924b23f92db99633ccdd8acbacd90133e700ee",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-29T11:42:46Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "c833f9347df70e391f4e540f81a0dd763b02e69a",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-29T11:41:22Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "d3ec80a89dd89e56b206ee41aae73650446f0a12",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-29T03:36:50Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "b82fc8ddba728f8755135725b58b759506ac183f",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-29T03:34:57Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "8915df19ca25fcb51f65c7810dfe208884142361",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-29T03:24:36Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "ce2f45474c362e3141f1fa64cd6041cea2ec84be",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-29T03:21:10Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "64254fcf2e75044fc036ff41e8457c0163125005",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-29T02:26:48Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "c9d795bb8f358848e9a3920314251a45b6fa02bf",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T12:24:37Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "e577856e9b4fda56107a5d600f03d4bde72a76d4",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T12:22:17Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "cb4614158948dd2da7803ffffb1effaa6083cc65",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T12:20:29Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "1f89358212c6f888c82d3821b0d3b12c7ab4f0f6",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T11:31:15Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "ddb087a2e95f3a606d7245c47e49424f0503c37b",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T11:29:24Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "4fe06a57638c17abf0e12e8fd7221da5a0cceafe",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T11:27:24Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "2f10406925d47931d3151f9eb846e54d0b71ff73",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T11:25:58Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "8309acce22b4fc3a9dd6d41eceb430c1b1c67df6",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T11:24:42Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "10ed70585e16f16b851b09c2eeeaa5668a4268c6",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T11:19:27Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "fbcf1c30b29ba1ed1aceb6fdbd812efe73ec798a",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T11:01:39Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "0a9c7a4f7815bad6380ebd9efe9d6a4f8b9b64f9",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T09:04:31Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "8d1d71157d538bfea5c886596de641b01d62967b",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T09:00:56Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "656756faf82427d35b9e3faf6587c10052e162dd",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T08:59:16Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "e287ad4635812e2647c56ae601126369d99cd426",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T08:57:02Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "6247374aef55f680a43d71098e46a92a2868e540",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T08:54:44Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "96df4a410a6bd144cc4905ed678b86715ca3a337",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T08:52:18Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "fa561a7c7ae01b3e4dd1cf5b965a34b3bde3e130",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T08:48:43Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "188c464acc397e6e46cdff06753f35866e33cb4f",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T08:46:57Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "26a728cb1469f775f500748b284adac559b893c8",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T08:40:06Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "7df43b36f161a32724d19f17a706a75ec552c5a1",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T08:36:12Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "9c5079148cf0733ef8ecb3c8ba5796b2c307a2df",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T08:21:25Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "d68ac1da9af2b7c75daed6e37479837b37fc8daf",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T08:20:12Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "a37e057ae168560cadd31a71a98ae7faa767e01c",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T08:17:11Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "dfff43cc19031abffcb8af84168ba78c4ea228f9",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T07:58:04Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "a5a78c274c001fd7084675038840df2c0e042a9d",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T07:54:16Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "df61f8bb5ba5ea8f28f6892de2dc7a9f382cdbcd",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T07:47:54Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "816e5f37174bdebc53829c10d0cb6e47b07f3c6c",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T07:29:54Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "65f5e07617cf8f85e31e80c1bef30f1ef50a37b0",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T07:11:20Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "3cad30cba298f9a31a3fc511dabbfe0a289ddc76",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T03:29:38Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "c6cc0587b15431dfbde6088f488830711e839527",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T03:20:56Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    },
+    {
+      "sha": "c858481e472f047293ecaa8613fcb6fe1c738533",
+      "author_login": "tangyudi",
+      "authored_at": "2020-01-28T03:10:17Z",
+      "message": "Signed-off-by: tangyudi <474241623@qq.com>"
+    }
+  ],
+  "issues": [
+    {
+      "number": 28,
+      "title": "1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-01-09T07:15:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "tangyudi",
+      "contributions": 84
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T12:00:20.970732Z"
+}

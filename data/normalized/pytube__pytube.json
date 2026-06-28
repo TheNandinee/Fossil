@@ -1,0 +1,2047 @@
+{
+  "full_name": "pytube/pytube",
+  "owner": "pytube",
+  "name": "pytube",
+  "url": "https://github.com/pytube/pytube",
+  "description": "Lightweight, dependency-free Python library and CLI for downloading YouTube videos, playlists, and captions.",
+  "primary_language": "Python",
+  "topics": [
+    "python",
+    "youtube",
+    "youtube-downloader"
+  ],
+  "license_spdx": "Unlicense",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 13136,
+  "forks": 2504,
+  "open_issues": 769,
+  "created_at": "2012-03-18T19:33:44Z",
+  "pushed_at": "2024-08-15T06:51:20Z",
+  "updated_at": "2026-06-28T07:44:14Z",
+  "commits": [
+    {
+      "sha": "a32fff39058a6f7e5e59ecd06a7467b71197ce35",
+      "author_login": "alexey-pelykh",
+      "authored_at": "2023-05-20T10:08:41Z",
+      "message": "Add .editorconfig file (#1628)"
+    },
+    {
+      "sha": "f6f2ef9b24289a5b77b83b83c02800f6f7e41d73",
+      "author_login": "bvandrc",
+      "authored_at": "2023-05-12T23:17:23Z",
+      "message": "fix logger.warn deprecation (#1534)"
+    },
+    {
+      "sha": "2ff84938cddd02a78053204517389374f5be7019",
+      "author_login": null,
+      "authored_at": "2023-05-07T19:38:45Z",
+      "message": "Bump version: 14.0.0 → 15.0.0"
+    },
+    {
+      "sha": "20857ba1c0a11296d52f19a0fe5abc510c006a52",
+      "author_login": null,
+      "authored_at": "2023-05-07T19:38:35Z",
+      "message": "Bump version: 13.0.0 → 14.0.0"
+    },
+    {
+      "sha": "3cee7f5a78f668d5e019d853886a604b70995eba",
+      "author_login": null,
+      "authored_at": "2023-05-07T19:38:21Z",
+      "message": "Bump version: 12.1.3 → 13.0.0"
+    },
+    {
+      "sha": "c9edd68486c6ecc7b7659a67a7403eee56e22fdd",
+      "author_login": "felipeucelli",
+      "authored_at": "2023-05-07T19:19:48Z",
+      "message": "Fixed error with android client version (#1575)"
+    },
+    {
+      "sha": "09e12fd3eb6351a2d22f9378bc780ed1b6f1d212",
+      "author_login": "RONNCC",
+      "authored_at": "2023-05-07T19:19:32Z",
+      "message": "Update ci.yml"
+    },
+    {
+      "sha": "32710ab2bb1250f22a42ae0139ff8c807ff84819",
+      "author_login": "samryan18",
+      "authored_at": "2023-05-07T19:11:28Z",
+      "message": "Fix documentation example (add missing import) (#1496)"
+    },
+    {
+      "sha": "445c94bbb0419aaba55f3e061366311d8ca2a33e",
+      "author_login": "jtmr05",
+      "authored_at": "2023-05-07T19:11:07Z",
+      "message": "Update cli.py (#1462)"
+    },
+    {
+      "sha": "7a6933e77d84f6c6dcfaa5b51a5856389f66818d",
+      "author_login": "RONNCC",
+      "authored_at": "2023-05-07T19:05:20Z",
+      "message": "Create CODE_OF_CONDUCT.md"
+    },
+    {
+      "sha": "da3141f3d937459cd7cfd9180970b9ec1d14bb5e",
+      "author_login": "RONNCC",
+      "authored_at": "2023-04-25T23:47:06Z",
+      "message": "Update captions.py to import json"
+    },
+    {
+      "sha": "96315dff218c3c5c4621997a5587f9d677774b97",
+      "author_login": "nficano",
+      "authored_at": "2023-03-27T16:47:20Z",
+      "message": "Update setup.py"
+    },
+    {
+      "sha": "39cda38c83efdd9cf960bf479d7cde19a9ebffda",
+      "author_login": "nficano",
+      "authored_at": "2023-03-27T16:44:34Z",
+      "message": "update ci file"
+    },
+    {
+      "sha": "965d5e9af2617243ad297368a3ddb3a98a4a2b67",
+      "author_login": "nficano",
+      "authored_at": "2023-03-27T16:38:34Z",
+      "message": "Create ci-tests.yml"
+    },
+    {
+      "sha": "472b1ad409931bd3a15754be208e7637f26c093e",
+      "author_login": "nficano",
+      "authored_at": "2023-03-27T16:31:46Z",
+      "message": "Update ci.yml"
+    },
+    {
+      "sha": "b563f7817533c3144c10582c13fec4fbdfb1d179",
+      "author_login": "nficano",
+      "authored_at": "2023-03-27T16:25:05Z",
+      "message": "Update setup.py"
+    },
+    {
+      "sha": "14cf228e6df8bdc89ab5c251217e4361f492af0d",
+      "author_login": "nficano",
+      "authored_at": "2023-03-27T16:22:50Z",
+      "message": "Update ci.yml"
+    },
+    {
+      "sha": "ac8bdf813a581c74c132f0840a96334c6daa516b",
+      "author_login": "nficano",
+      "authored_at": "2023-03-27T16:14:25Z",
+      "message": "Bump version: 12.1.2 → 12.1.3"
+    },
+    {
+      "sha": "549e8afd99c154581ce8a3a3620953893c4d076c",
+      "author_login": "nficano",
+      "authored_at": "2023-03-27T16:13:16Z",
+      "message": "Merge pull request #1520 from fischcode/Fix-parser-py"
+    },
+    {
+      "sha": "ec0d6b8851b36f126a65e4db100b793821d63494",
+      "author_login": "fischcode",
+      "authored_at": "2023-03-19T14:25:47Z",
+      "message": "Update parser.py"
+    },
+    {
+      "sha": "deee2804f1027453f19b43067086a51bf501b7e1",
+      "author_login": "fischcode",
+      "authored_at": "2023-03-19T14:18:41Z",
+      "message": "Update parser.py"
+    },
+    {
+      "sha": "d3d18691b3e99b2d3b4d620446b088a1c32896c6",
+      "author_login": "nficano",
+      "authored_at": "2022-12-17T15:28:03Z",
+      "message": "Merge pull request #1436 from stark821/master"
+    },
+    {
+      "sha": "16a54f9b2e34d0bc8089278d3297a17dbd1aecfb",
+      "author_login": "nficano",
+      "authored_at": "2022-12-17T00:10:37Z",
+      "message": "Bump version: 12.1.1 → 12.1.2"
+    },
+    {
+      "sha": "1bb2ea788d52a3eb15932c11f063fe8b58bacc4b",
+      "author_login": "nficano",
+      "authored_at": "2022-12-17T00:10:28Z",
+      "message": "Merge pull request #1435 from duruburak/patch-1"
+    },
+    {
+      "sha": "187aa9739c6bf8085348689e40d8317101655dd1",
+      "author_login": "nficano",
+      "authored_at": "2022-12-17T00:06:55Z",
+      "message": "Bump version: 12.1.0 → 12.1.1"
+    },
+    {
+      "sha": "1c10b81ae47c9dd1e0ac9e2d47b76c7846c153fc",
+      "author_login": "nficano",
+      "authored_at": "2022-12-17T00:00:42Z",
+      "message": "Merge pull request #1437 from subtleGradient/from_id"
+    },
+    {
+      "sha": "fb5d4508e6849e8e3027750c2c61589ff6140c4c",
+      "author_login": "nficano",
+      "authored_at": "2022-12-17T00:00:12Z",
+      "message": "Merge pull request #1438 from subtleGradient/json_captions"
+    },
+    {
+      "sha": "d19b8d43d6fa83020b6fd5554b24cfa271fe3aff",
+      "author_login": "subtleGradient",
+      "authored_at": "2022-12-12T12:30:30Z",
+      "message": "json_captions — Download and parse the json caption tracks"
+    },
+    {
+      "sha": "94fec487f4dc4c2dee70f071b87c5c72e8e4f183",
+      "author_login": "subtleGradient",
+      "authored_at": "2022-12-12T12:09:53Z",
+      "message": "YouTube.from_id"
+    },
+    {
+      "sha": "f697a53a1574337f563bace28406958f198cd62a",
+      "author_login": "stark821",
+      "authored_at": "2022-12-09T13:26:24Z",
+      "message": "Adding list data type to 'res' parameter of filter() function."
+    },
+    {
+      "sha": "8c1afabdc17e015c1cacd8879e733705db89a016",
+      "author_login": "stark821",
+      "authored_at": "2022-12-09T13:03:46Z",
+      "message": "Adding list data type to 'res' parameter of filter() function."
+    },
+    {
+      "sha": "ce85f4edd16c00a02e8b707839ad424bf064ce09",
+      "author_login": "duruburak",
+      "authored_at": "2022-12-09T00:48:44Z",
+      "message": "Update itags.py"
+    },
+    {
+      "sha": "84faec34c8a66f502ac635a5610445dbff160654",
+      "author_login": "s1ddly",
+      "authored_at": "2022-09-18T02:17:07Z",
+      "message": "fixing type casting bug and reinforcing _ naming convention (#1390)"
+    },
+    {
+      "sha": "3cabdbd621843b5797fef4913729462467061657",
+      "author_login": "s1ddly",
+      "authored_at": "2022-09-17T01:44:17Z",
+      "message": "Introducing filesize returned in kb, mb and gb (#1364)"
+    },
+    {
+      "sha": "2e307d8d615ef30aa837fe2275954146dab07ca6",
+      "author_login": "RONNCC",
+      "authored_at": "2022-05-09T00:22:30Z",
+      "message": "Bump version: 12.0.0 → 12.1.0"
+    },
+    {
+      "sha": "cd26b1c8019e622a5d399d07e7915241a2dc2594",
+      "author_login": "kinshuk-h",
+      "authored_at": "2022-05-09T00:20:13Z",
+      "message": "Fix regex to find throttling function name (#1282)"
+    },
+    {
+      "sha": "e8575465468312ca5a6ac9fdbbfa99b93af770e1",
+      "author_login": "RONNCC",
+      "authored_at": "2022-02-14T18:52:06Z",
+      "message": "Bump version: 11.0.2 → 12.0.0"
+    },
+    {
+      "sha": "642bb0af608c5f353a11e35ee7cdf3d60397dcec",
+      "author_login": "glubsy",
+      "authored_at": "2022-02-13T19:55:05Z",
+      "message": "Fix regex to find throttle function name (#1222)"
+    },
+    {
+      "sha": "e8f4391867fea2bf1c2320113217c0e27bb9705d",
+      "author_login": "nficano",
+      "authored_at": "2022-02-04T16:02:11Z",
+      "message": "Merge pull request #1237 from pytube/dependabot/pip/pipenv-2022.1.8"
+    },
+    {
+      "sha": "a7702f8682c8b92693afc8e4e7da9da69f43015b",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2022-02-04T15:51:29Z",
+      "message": "Bump pipenv from 2021.5.29 to 2022.1.8"
+    },
+    {
+      "sha": "d57d696d2ec79a37d68c9d346af597e0333f9758",
+      "author_login": "nficano",
+      "authored_at": "2022-02-04T10:34:30Z",
+      "message": "Merge pull request #1236 from pytube/revert-1200-master"
+    },
+    {
+      "sha": "0a7e960c9bd503efd8848340b3ac4b2e924f26ff",
+      "author_login": "nficano",
+      "authored_at": "2022-02-04T10:34:10Z",
+      "message": "Revert \"Fixed RegexMatchError\""
+    },
+    {
+      "sha": "f23b20c7640b46019954c2ee497eb992a9314983",
+      "author_login": "nficano",
+      "authored_at": "2022-02-04T10:33:59Z",
+      "message": "Merge pull request #1200 from DJStompZone/master"
+    },
+    {
+      "sha": "e77eef610e882c56412757a221e15971886f2c10",
+      "author_login": "Gcat101",
+      "authored_at": "2022-02-04T08:01:38Z",
+      "message": "Added == comparison between YouTube objects. (#1161)"
+    },
+    {
+      "sha": "991c571a19b856d7a2e09df6bb7322473a93ab3d",
+      "author_login": "egeakman",
+      "authored_at": "2022-02-04T07:49:08Z",
+      "message": "Update README.md (#1140)"
+    },
+    {
+      "sha": "46fe44c3025cbaafce4ddb0b34526b91e4e819fe",
+      "author_login": "DJStompZone",
+      "authored_at": "2022-01-20T03:58:57Z",
+      "message": "Update cipher.py"
+    },
+    {
+      "sha": "56ccab4f9cbfa989c418e93a42ef00b424fc05f4",
+      "author_login": "nficano",
+      "authored_at": "2021-12-14T01:48:13Z",
+      "message": "Bump version: 11.0.1 → 11.0.2"
+    },
+    {
+      "sha": "aa39c8746825ad61030685734e939edf59ae8e3e",
+      "author_login": "nficano",
+      "authored_at": "2021-12-14T01:42:39Z",
+      "message": "Merge pull request #1172 from mhi-iranmanesh/patch-1"
+    },
+    {
+      "sha": "bc891f4a2e7c68580ef73abccd3f148a51537c24",
+      "author_login": "mhi-iranmanesh",
+      "authored_at": "2021-11-23T13:09:40Z",
+      "message": "fix bug regex"
+    },
+    {
+      "sha": "f06e0710dcf5089e582487fee94f7bb0afbf7ba9",
+      "author_login": "ronnie-llamado",
+      "authored_at": "2021-09-19T16:38:59Z",
+      "message": "Pass `--python` into pipenv to specify version (#1116)"
+    },
+    {
+      "sha": "bb890af3b271a616bbe1d08abc8c65bac9266b0a",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-08-27T22:53:24Z",
+      "message": "Bump version: 11.0.0 → 11.0.1"
+    },
+    {
+      "sha": "cc6b4aa7f0bdf65f618657a7bdfa518e6a074205",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-08-27T22:52:27Z",
+      "message": "Selection of bugfixes and improvements (#1090)"
+    },
+    {
+      "sha": "ce8901c36c69a5b3188dd4d608dbe86602b17656",
+      "author_login": "vercingetorx",
+      "authored_at": "2021-08-27T22:50:43Z",
+      "message": "fixes #1098 (#1099)"
+    },
+    {
+      "sha": "12c7c4da5a11913bb39774175a78e7579e274fb5",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-08-03T23:09:33Z",
+      "message": "Bump version: 10.9.3 → 11.0.0"
+    },
+    {
+      "sha": "fc9aec5c35829f2ebb4ef8dd599b14a666850d20",
+      "author_login": "Zeecka",
+      "authored_at": "2021-08-03T23:04:03Z",
+      "message": "Fix #1060 (#1067)"
+    },
+    {
+      "sha": "10989d2b7a5c1825958904638932c0a3d8147d71",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-07-21T00:38:12Z",
+      "message": "Bump version: 10.9.2 → 10.9.3"
+    },
+    {
+      "sha": "8f73fede6365330bd9e354d19e0bb1dbac2150d6",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-07-21T00:36:57Z",
+      "message": "Bugfixes (#1058)"
+    },
+    {
+      "sha": "851eb9969c08b2bcb34ec5113380c4569e122651",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-07-07T19:28:25Z",
+      "message": "Bump version: 10.9.1 → 10.9.2"
+    },
+    {
+      "sha": "9a866866d66f75450d4ea8613d90a978f7f7b0cf",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-07-07T19:27:52Z",
+      "message": "Fix test to no longer make web requests. (#1048)"
+    },
+    {
+      "sha": "cf5a7e74bcc4918b9436468e628fd676c13028fa",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-07-06T23:27:36Z",
+      "message": "Bump version: 10.9.0 → 10.9.1"
+    },
+    {
+      "sha": "e573655052af2f8d2f78cc7f61640af80c3aae14",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-07-06T23:27:11Z",
+      "message": "Bugfixes (#1045)"
+    },
+    {
+      "sha": "181c88c243158c064d6575882005896c3cf8ac7f",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-07-06T17:07:30Z",
+      "message": "[DRAFT] Feature/search (#1030)"
+    },
+    {
+      "sha": "257e6d28e73404c344925c95716aff312739fe8c",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-07-06T00:34:08Z",
+      "message": "Bump version: 10.8.5 → 10.9.0"
+    },
+    {
+      "sha": "79befd686c2a37a381356a2e891d51c8e3af0f3d",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-07-06T00:32:48Z",
+      "message": "Fix/1033 (#1037)"
+    },
+    {
+      "sha": "48ea5205b92e8e090866589be67780ce8e29a922",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-06-23T00:51:17Z",
+      "message": "Improvement/youtubei (#1029)"
+    },
+    {
+      "sha": "1f5162cb42dad10dab3cc92bcf4221505fe60c27",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-06-19T00:42:03Z",
+      "message": "Bump version: 10.8.4 → 10.8.5"
+    },
+    {
+      "sha": "9c92997f19e4c61d1dd95399930bb72b946340b7",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-06-19T00:41:26Z",
+      "message": "Fix/param update (#1025)"
+    },
+    {
+      "sha": "a1518e745a8ee54fc29d8d0561a66c1f4a1303e0",
+      "author_login": "JarbasAl",
+      "authored_at": "2021-06-15T00:48:00Z",
+      "message": "Improve Channel object support for user channels"
+    },
+    {
+      "sha": "be07012c20162cfc44193514ba96931ab469b7aa",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-06-04T00:24:04Z",
+      "message": "Improvement/channel docs (#1011)"
+    },
+    {
+      "sha": "9f9723b13c8591d49c43962efd820e37aeed8287",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2021-06-02T22:49:23Z",
+      "message": "Bump urllib3 from 1.26.4 to 1.26.5 (#1010)"
+    },
+    {
+      "sha": "754efa0b28dcb0840ab14923804956ae1f1af101",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-06-02T22:30:03Z",
+      "message": "Bump version: 10.8.3 → 10.8.4"
+    },
+    {
+      "sha": "9c9fbfe4d31a05134d13be65b988f3ea6fa21db8",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-06-02T22:29:29Z",
+      "message": "Added fix for playlist length string not parsing correctly. (#1009)"
+    },
+    {
+      "sha": "c3e6d79f1fa77bf1868958d900f1a27ad5cf411d",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-05-30T18:01:50Z",
+      "message": "Bump version: 10.8.2 → 10.8.3"
+    },
+    {
+      "sha": "b45ac805fb2cfa9e93878129a784e02fc2cfc6ad",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-05-30T18:01:24Z",
+      "message": "Fix channel url matching. (#1005)"
+    },
+    {
+      "sha": "3157612ec77d579a782530977ea87a13cf72281c",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-05-30T17:27:01Z",
+      "message": "Livestream exception raising"
+    },
+    {
+      "sha": "e776be69d62d88380a2e316460de395656e587c5",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-05-20T21:51:42Z",
+      "message": "Bump version: 10.8.1 → 10.8.2"
+    },
+    {
+      "sha": "153317f33321accdc05320d0d52fe6160f0ea984",
+      "author_login": "drwjf",
+      "authored_at": "2021-05-20T21:51:05Z",
+      "message": "Fix bug video_info_url HTTP 404 Error (#998)"
+    },
+    {
+      "sha": "40dc397dec44254fb7447c4d27534d5847c095c0",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-05-09T21:40:47Z",
+      "message": "Bump version: 10.8.0 → 10.8.1"
+    },
+    {
+      "sha": "af1eeee625292300b59b15a2b4fe992220c4cddc",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-05-09T21:39:29Z",
+      "message": "Improve metadata availability (#988)"
+    },
+    {
+      "sha": "3d091d913d8c4117a95c49674d597ad110e8b0f9",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-05-09T02:11:48Z",
+      "message": "Bump version: 10.7.2 → 10.8.0"
+    },
+    {
+      "sha": "f293f7658fff7412ea5ad5c9c4923dc96442600d",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-05-09T02:11:18Z",
+      "message": "Initial implementation of Channel object (#932)"
+    },
+    {
+      "sha": "d7f650809f056b988d725475596de17c5822a9dd",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-05-05T23:10:36Z",
+      "message": "Remove the chunk size file write limit to speed up downloads. (#982)"
+    },
+    {
+      "sha": "518ce2774ab93bc0a6b56096f4b78765e9572328",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-04-23T01:07:12Z",
+      "message": "Docstring improvement (#980)"
+    },
+    {
+      "sha": "8b96181261cb73a4f5998847ae5737915a21e310",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-04-23T00:57:42Z",
+      "message": "Documentation update. (#979)"
+    },
+    {
+      "sha": "4c073d1044e22e7fe0b34ec3c0ca7c09d1aa470f",
+      "author_login": "nficano",
+      "authored_at": "2021-04-22T17:00:40Z",
+      "message": "Remove contributors block"
+    },
+    {
+      "sha": "7ca51d497790f7e910c0b90bd1ef2ced6d904f27",
+      "author_login": "nficano",
+      "authored_at": "2021-04-22T16:54:12Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "319fd41ecc18cacf8b7747b821901fc40806e384",
+      "author_login": "nficano",
+      "authored_at": "2021-04-22T16:51:54Z",
+      "message": "Add contributors to the readme"
+    },
+    {
+      "sha": "9feef4e692688dab4f14034d865ee13060c3bf18",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-04-20T15:54:25Z",
+      "message": "Bump version: 10.7.1 → 10.7.2"
+    },
+    {
+      "sha": "a916080734f42cced1cd848c1857439e06bfb6e5",
+      "author_login": "tfdahlin",
+      "authored_at": "2021-04-20T15:53:49Z",
+      "message": "Raises non-timeout URLErrors correctly now. (#977)"
+    },
+    {
+      "sha": "706e53c9b5c3f5f2ba3067c14a91b11003d55cf7",
+      "author_login": "nficano",
+      "authored_at": "2021-04-12T14:18:04Z",
+      "message": "Remove Codecov badge"
+    },
+    {
+      "sha": "abb922ec688a152afdada3107dc451f9eee3ac32",
+      "author_login": "nficano",
+      "authored_at": "2021-04-12T09:18:45Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "bff3e77253e39ee4e1865f8b9dc03632346ba9b5",
+      "author_login": "nficano",
+      "authored_at": "2021-04-12T02:28:29Z",
+      "message": "Remove \"harold.martin@gmail.com\" from authors (#974)"
+    },
+    {
+      "sha": "5d2c1a4e756cd8bac373867bf673155e691f1e04",
+      "author_login": "nficano",
+      "authored_at": "2021-04-11T19:27:57Z",
+      "message": "Strip out code coverage until I can find a working alternative to codecov."
+    },
+    {
+      "sha": "9300b80082db472c124c74da4ddfe10524a06049",
+      "author_login": "nficano",
+      "authored_at": "2021-04-11T13:21:57Z",
+      "message": "Add Sketch logo"
+    },
+    {
+      "sha": "83135af38ce16301d7601a05183fa4ea8ef6a3a7",
+      "author_login": "nficano",
+      "authored_at": "2021-04-11T18:45:10Z",
+      "message": "Create codecov.yml"
+    },
+    {
+      "sha": "23b18c56e9b73a063402a2715dc6c8e6b00f574e",
+      "author_login": "nficano",
+      "authored_at": "2021-04-11T18:43:39Z",
+      "message": "Update ci.yml"
+    },
+    {
+      "sha": "b86dc6458a48680e569674777b65eb2bc5609327",
+      "author_login": "nficano",
+      "authored_at": "2021-04-11T18:33:10Z",
+      "message": "Create codecov.yml"
+    },
+    {
+      "sha": "488dd7ebd19165ed8ef05dfd33bd34c657634740",
+      "author_login": "nficano",
+      "authored_at": "2021-04-11T18:12:53Z",
+      "message": "Update ci.yml"
+    },
+    {
+      "sha": "d832160db28abd84809d3fc7e4d14357d227abe0",
+      "author_login": "nficano",
+      "authored_at": "2021-04-11T18:10:34Z",
+      "message": "Update ci.yml"
+    },
+    {
+      "sha": "3f05a17fb90a19fe460a38ffd83fbc81148940db",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2021-04-06T20:03:10Z",
+      "message": "Bump urllib3 from 1.26.3 to 1.26.4 (#970)"
+    }
+  ],
+  "issues": [
+    {
+      "number": 2168,
+      "title": "fix: correct includes_audio_track property to use audio_codec (closes #1684)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-11T12:45:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2167,
+      "title": "Pytube is no longer maintained. Time to migrate to PYTUBEFIX",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-16T15:48:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2166,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-15T10:33:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2165,
+      "title": "Change default client in Innertube class from ANDROID_MUSIC to WEB",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-26T18:57:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2164,
+      "title": "[BUG - RegexMatchError in `cypher.py`]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-06T05:29:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2163,
+      "title": "Tiktok",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-09-07T11:05:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2162,
+      "title": "Pytube.io is a casino website",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-09-07T10:14:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2161,
+      "title": "[BUG]HTTP Error 400: Bad Request",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-08-28T17:49:23Z",
+      "closed_at": "2025-09-27T10:21:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2160,
+      "title": "Pytube.io domain gambling site",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-24T10:09:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2159,
+      "title": "[BUG] HTTP Error 400: Bad Request",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-21T07:26:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2158,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-13T17:44:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2157,
+      "title": "HTTP Error 400: Bad Request",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-05T18:05:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2156,
+      "title": "[BUG] Crash at startup",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-03T10:20:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2155,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-30T12:46:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2154,
+      "title": "my-first-project",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-30T12:43:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2153,
+      "title": "fix json parsing bug for the continuation token variable",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-07-21T01:02:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2152,
+      "title": "[BUG] Error while downloading large playlists, KeyError: 'playlistVideoRenderer'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-07-17T17:41:34Z",
+      "closed_at": "2025-07-31T20:57:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2151,
+      "title": "Before making issue",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-07-04T22:59:31Z",
+      "closed_at": "2025-07-31T05:57:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2150,
+      "title": "[BUG]  HTTP Error 400: Bad Request",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-26T05:25:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2149,
+      "title": "URLError: <urlopen error [Errno 11001] getaddrinfo failed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-11T09:25:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2147,
+      "title": "[BUG] KeyError: 'playlistVideoRenderer'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-06-08T10:56:15Z",
+      "closed_at": "2025-06-29T12:45:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2146,
+      "title": "[BUG]HTTP Error 400: Bad Request when downloading video",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-05-01T11:57:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2145,
+      "title": "De nuevo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-04-30T22:03:28Z",
+      "closed_at": "2025-04-30T22:04:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2144,
+      "title": "[BUG] pytube.io domain expired",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-04-26T16:50:56Z",
+      "closed_at": "2026-02-21T09:18:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2143,
+      "title": "[BUG] I guess we have the issue because of youtube changed the policy . any good way can be found ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-15T05:55:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2142,
+      "title": "[BUG] HTTP 400",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-08T12:12:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2141,
+      "title": "[BUG] i get YouTube search error: HTTP Error 400: Bad Request",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-03-28T13:20:39Z",
+      "closed_at": "2025-04-16T06:18:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2140,
+      "title": "[BUG] I get HTTP Error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-23T14:01:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2139,
+      "title": "bug in youtube downloader",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-09T11:49:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2138,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-09T11:44:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2137,
+      "title": "[BUG]  ...<4 lines>... , Exception while accessing title of  the video (only in yt.tite)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-01T10:00:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2136,
+      "title": "[BUG] - HTTP Error 403: Forbidden",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-26T12:26:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2135,
+      "title": "[BUG] I can't access the title of youtube video neither any of its Youtube object properties.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-19T18:32:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2134,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-18T19:44:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2133,
+      "title": "ERROR - 403",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-17T11:20:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2132,
+      "title": "pytube error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-16T13:29:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2131,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-14T13:35:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2130,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-12T15:37:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2129,
+      "title": "[BUG] Retrieving youtube title instigated your inbuilt warning to report an issue here",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-08T15:07:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2128,
+      "title": "Need some help with lambda scripts",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-07T21:47:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2127,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-02T08:23:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2126,
+      "title": "Hp",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-01-28T06:27:45Z",
+      "closed_at": "2025-01-28T06:28:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2125,
+      "title": "unhandled exception error at line 341",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-28T06:25:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2124,
+      "title": "[BUG]str: Exception:Exception while accessing title of https://youtube.com/watch?v=Y-Vgaz7SbWs.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-01-25T09:02:32Z",
+      "closed_at": "2025-01-25T09:04:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2123,
+      "title": "It has been improved and fixes errors",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-01-22T17:46:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2122,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-21T21:31:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2121,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-21T21:27:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2120,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-21T07:10:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2119,
+      "title": "[BUG] An error occurred: Exception while accessing title of https://youtube.com/watch?v=_VTMuayaUuI. Please file a bug report at https://github.com/pytube/pytube",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-16T05:32:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2118,
+      "title": "PytubeError: Exception while accessing title of https://youtube.com/watch?v=qYNweeDHiyU",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-15T14:22:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2117,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-15T07:47:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2116,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-14T14:16:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2115,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-14T14:14:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2114,
+      "title": "[BUG] Exception while accessing title of video",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-09T13:48:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2113,
+      "title": "[BUG] Error Accessing Video Title with Pytube: 'YouTube' object has no attribute 'title'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-04T07:52:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2112,
+      "title": "Music bot need ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-02T18:19:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2111,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-02T13:10:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2110,
+      "title": "[BUG] Showing error while printing title of a YouTube video",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-01T19:12:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2109,
+      "title": "A parameter to download() which gives opportunities to assign the respective thumbnail",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-30T22:45:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2108,
+      "title": "[BUG] Forbidden Request",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-30T04:27:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2107,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-27T21:41:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2106,
+      "title": "[BUG] I can't get the title of a video.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-27T08:01:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2105,
+      "title": "[BUG] Unexpected renderer encountered. Renderer name: dict_keys(['reelShelfRenderer'])",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-26T18:34:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2104,
+      "title": "[BUG] Exception while accessing title of  [Insert youtube url]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-25T15:12:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2103,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-19T15:15:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2102,
+      "title": "[BUG] Unable to print `Video Title`",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-12-14T07:04:02Z",
+      "closed_at": "2026-04-17T00:08:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2101,
+      "title": "[BUG] December 13th 2024, unable to do anything",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-12-13T08:49:42Z",
+      "closed_at": "2024-12-28T10:42:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2100,
+      "title": "[BUG] downloading youtube video",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-11T07:25:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2099,
+      "title": "Add Support for Downloading High-Quality Videos with Audio Combined",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-11T03:11:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2098,
+      "title": "[BUG]regex_search: could not find match for decodeURIComponent=function\\(\\w\\){[a-z=\\.\\(\\\"\\)]*;(.*);(?:.+)}",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-10T05:08:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2097,
+      "title": "[BUG] in downloading ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-08T17:39:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2096,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-07T05:57:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2094,
+      "title": "[BUG] Error in downloading YouTube",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-05T03:54:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2093,
+      "title": "YouTube 403 error [BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-05T02:14:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2092,
+      "title": "[BUG] prob backend update",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-02T03:40:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2091,
+      "title": "[BUG] Same usual YouTube backend change error?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-01T12:56:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2090,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-01T11:35:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2089,
+      "title": " error occurred: Exception while accessing title of youtube link",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-01T07:32:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2087,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-25T16:14:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2086,
+      "title": "[BUG] urllib.error.HTTPError: HTTP Error 403: Forbidden",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-24T18:49:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2085,
+      "title": "[BUG]2024年11月，还能用不",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-24T11:29:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2084,
+      "title": "Fix: Switch to Web Client and Update Client Version for Improved Reliability",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-11-23T12:37:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2083,
+      "title": "Update innertube.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-11-23T10:42:53Z",
+      "closed_at": "2024-12-23T15:18:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2082,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-18T01:58:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2081,
+      "title": "[BUG]Error: Exception while accessing title of YouTube video",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-17T16:10:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2080,
+      "title": "[BUG][ERROR  ] [YouTube Download Error] Exception while accessing title of https://youtube.com/watch?v=ijDvfqmjebY. Please file a bug report at https://github.com/pytube/pytube [INFO   ] [Base        ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-16T18:30:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2079,
+      "title": "[BUG] The issue HTTP Error 400: Bad Request",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-14T15:22:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2078,
+      "title": "Exception while accessing title of the video",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-13T19:53:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2077,
+      "title": "Changed line 272 and added a another line on 274",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-11-10T13:13:22Z",
+      "closed_at": "2024-11-10T17:36:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2076,
+      "title": "[BUG] HTTP Error 400: Bad Request when trying to download a video with pytube",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-08T07:28:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2075,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-07T07:03:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2074,
+      "title": "KeyError: 'videoDetails' when accessing video title",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-06T18:44:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2073,
+      "title": "[BUG] the download is showing the 404 Bad request",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-05T07:04:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2072,
+      "title": "\"Unexpected renderer encountered.\"",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-02T20:26:09Z",
+      "closed_at": "2025-12-08T10:49:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2071,
+      "title": "Is this a common issue?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-02T14:34:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2069,
+      "title": "400 Bad Request",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-30T19:12:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2068,
+      "title": "The issue is declare ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-30T19:03:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2067,
+      "title": "[BUG]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-30T15:10:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2066,
+      "title": "[BUG]- PyTube results Object can't return the view attribute value - always returning 'NoneType'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-28T16:04:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2065,
+      "title": "[BUG] Exception while accessing title",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-28T14:19:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "nficano",
+      "contributions": 627
+    },
+    {
+      "login": "hbmartin",
+      "contributions": 288
+    },
+    {
+      "login": "tfdahlin",
+      "contributions": 85
+    },
+    {
+      "login": "josegonzalez",
+      "contributions": 35
+    },
+    {
+      "login": "RONNCC",
+      "contributions": 27
+    },
+    {
+      "login": "swiftyy-mage",
+      "contributions": 26
+    },
+    {
+      "login": "grking8",
+      "contributions": 22
+    },
+    {
+      "login": "ahmedsadman",
+      "contributions": 16
+    },
+    {
+      "login": "Jan-V2",
+      "contributions": 14
+    },
+    {
+      "login": "dependabot-preview[bot]",
+      "contributions": 14
+    },
+    {
+      "login": "palashgoel7",
+      "contributions": 10
+    },
+    {
+      "login": "Eloar",
+      "contributions": 10
+    },
+    {
+      "login": "philippeitis",
+      "contributions": 9
+    },
+    {
+      "login": "Mattwmaster58",
+      "contributions": 9
+    },
+    {
+      "login": "sanfx",
+      "contributions": 6
+    },
+    {
+      "login": "dependabot[bot]",
+      "contributions": 5
+    },
+    {
+      "login": "tooxo",
+      "contributions": 4
+    },
+    {
+      "login": "tenyearscoder",
+      "contributions": 4
+    },
+    {
+      "login": "masipcat",
+      "contributions": 4
+    },
+    {
+      "login": "a-czyrny",
+      "contributions": 3
+    },
+    {
+      "login": "DonoA",
+      "contributions": 3
+    },
+    {
+      "login": "jkuijt",
+      "contributions": 3
+    },
+    {
+      "login": "b-mcg",
+      "contributions": 3
+    },
+    {
+      "login": "garg10may",
+      "contributions": 3
+    },
+    {
+      "login": "vidyuthd",
+      "contributions": 2
+    },
+    {
+      "login": "stark821",
+      "contributions": 2
+    },
+    {
+      "login": "mursts",
+      "contributions": 2
+    },
+    {
+      "login": "maitreyee19",
+      "contributions": 2
+    },
+    {
+      "login": "insideou7",
+      "contributions": 2
+    },
+    {
+      "login": "frankenstein91",
+      "contributions": 2
+    },
+    {
+      "login": "fischcode",
+      "contributions": 2
+    },
+    {
+      "login": "vn-ki",
+      "contributions": 2
+    },
+    {
+      "login": "Twixes",
+      "contributions": 2
+    },
+    {
+      "login": "subtleGradient",
+      "contributions": 2
+    },
+    {
+      "login": "s1ddly",
+      "contributions": 2
+    },
+    {
+      "login": "schedutron",
+      "contributions": 2
+    },
+    {
+      "login": "lorenzogil",
+      "contributions": 2
+    },
+    {
+      "login": "kmad1729",
+      "contributions": 2
+    },
+    {
+      "login": "fja05680",
+      "contributions": 2
+    },
+    {
+      "login": "efernandez",
+      "contributions": 2
+    },
+    {
+      "login": "yc9701",
+      "contributions": 1
+    },
+    {
+      "login": "AsmCoder110",
+      "contributions": 1
+    },
+    {
+      "login": "yeonghoey",
+      "contributions": 1
+    },
+    {
+      "login": "sonicaj",
+      "contributions": 1
+    },
+    {
+      "login": "nipunasudha",
+      "contributions": 1
+    },
+    {
+      "login": "vvuk",
+      "contributions": 1
+    },
+    {
+      "login": "PMVamsi",
+      "contributions": 1
+    },
+    {
+      "login": "lvaleriu",
+      "contributions": 1
+    },
+    {
+      "login": "SylvainDe",
+      "contributions": 1
+    },
+    {
+      "login": "stdedos",
+      "contributions": 1
+    },
+    {
+      "login": "samryan18",
+      "contributions": 1
+    },
+    {
+      "login": "ronnie-llamado",
+      "contributions": 1
+    },
+    {
+      "login": "dotlambda",
+      "contributions": 1
+    },
+    {
+      "login": "Panzerfather",
+      "contributions": 1
+    },
+    {
+      "login": "panargirakis",
+      "contributions": 1
+    },
+    {
+      "login": "aslafy-z",
+      "contributions": 1
+    },
+    {
+      "login": "ardyflora",
+      "contributions": 1
+    },
+    {
+      "login": "bigbluedeer",
+      "contributions": 1
+    },
+    {
+      "login": "cdowen",
+      "contributions": 1
+    },
+    {
+      "login": "goya191",
+      "contributions": 1
+    },
+    {
+      "login": "guillaume-plc",
+      "contributions": 1
+    },
+    {
+      "login": "jtmr05",
+      "contributions": 1
+    },
+    {
+      "login": "juheeuu",
+      "contributions": 1
+    },
+    {
+      "login": "scrpy",
+      "contributions": 1
+    },
+    {
+      "login": "mhi-iranmanesh",
+      "contributions": 1
+    },
+    {
+      "login": "primal100",
+      "contributions": 1
+    },
+    {
+      "login": "vercingetorx",
+      "contributions": 1
+    },
+    {
+      "login": "yvainyork",
+      "contributions": 1
+    },
+    {
+      "login": "zvodd",
+      "contributions": 1
+    },
+    {
+      "login": "ablanco",
+      "contributions": 1
+    },
+    {
+      "login": "Zeecka",
+      "contributions": 1
+    },
+    {
+      "login": "alexey-pelykh",
+      "contributions": 1
+    },
+    {
+      "login": "BenZstory",
+      "contributions": 1
+    },
+    {
+      "login": "bigg215",
+      "contributions": 1
+    },
+    {
+      "login": "bvandrc",
+      "contributions": 1
+    },
+    {
+      "login": "duruburak",
+      "contributions": 1
+    },
+    {
+      "login": "chid",
+      "contributions": 1
+    },
+    {
+      "login": "DJStompZone",
+      "contributions": 1
+    },
+    {
+      "login": "danielcrane",
+      "contributions": 1
+    },
+    {
+      "login": "diegocr",
+      "contributions": 1
+    },
+    {
+      "login": "egeakman",
+      "contributions": 1
+    },
+    {
+      "login": "felipeucelli",
+      "contributions": 1
+    },
+    {
+      "login": "glubsy",
+      "contributions": 1
+    },
+    {
+      "login": "Gcat101",
+      "contributions": 1
+    },
+    {
+      "login": "infopz",
+      "contributions": 1
+    },
+    {
+      "login": "harindu95",
+      "contributions": 1
+    },
+    {
+      "login": "JarbasAl",
+      "contributions": 1
+    },
+    {
+      "login": "philipzae",
+      "contributions": 1
+    },
+    {
+      "login": "jcs090218",
+      "contributions": 1
+    },
+    {
+      "login": "drwjf",
+      "contributions": 1
+    },
+    {
+      "login": "joaoricardo000",
+      "contributions": 1
+    },
+    {
+      "login": "chesstercl",
+      "contributions": 1
+    },
+    {
+      "login": "jayathungek",
+      "contributions": 1
+    },
+    {
+      "login": "kinshuk-h",
+      "contributions": 1
+    },
+    {
+      "login": "maxbit89",
+      "contributions": 1
+    },
+    {
+      "login": "haelmj",
+      "contributions": 1
+    },
+    {
+      "login": "mikelambert",
+      "contributions": 1
+    },
+    {
+      "login": "misterflibble",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v11.0.1",
+      "published_at": "2021-08-27T22:55:44Z"
+    },
+    {
+      "tag": "v11.0.0",
+      "published_at": "2021-08-03T23:09:54Z"
+    },
+    {
+      "tag": "v10.9.3",
+      "published_at": "2021-07-21T00:40:06Z"
+    },
+    {
+      "tag": "v10.9.2",
+      "published_at": "2021-07-07T19:29:04Z"
+    },
+    {
+      "tag": "v10.9.1",
+      "published_at": "2021-07-06T23:28:45Z"
+    },
+    {
+      "tag": "v10.9.0",
+      "published_at": "2021-07-06T00:49:06Z"
+    },
+    {
+      "tag": "v10.8.5",
+      "published_at": "2021-06-19T00:44:02Z"
+    },
+    {
+      "tag": "v10.8.4",
+      "published_at": "2021-06-02T22:32:10Z"
+    },
+    {
+      "tag": "v10.8.3",
+      "published_at": "2021-05-30T18:02:47Z"
+    },
+    {
+      "tag": "v10.8.2",
+      "published_at": "2021-05-20T21:54:03Z"
+    },
+    {
+      "tag": "v10.8.1",
+      "published_at": "2021-05-09T21:41:31Z"
+    },
+    {
+      "tag": "v10.8.0",
+      "published_at": "2021-05-09T02:13:37Z"
+    },
+    {
+      "tag": "v10.7.2",
+      "published_at": "2021-04-20T15:56:05Z"
+    },
+    {
+      "tag": "v10.7.1",
+      "published_at": "2021-04-05T22:12:04Z"
+    },
+    {
+      "tag": "v10.7.0",
+      "published_at": "2021-04-04T19:35:14Z"
+    },
+    {
+      "tag": "v10.6.1",
+      "published_at": "2021-03-28T14:36:48Z"
+    },
+    {
+      "tag": "v10.6.0",
+      "published_at": "2021-03-19T14:59:25Z"
+    },
+    {
+      "tag": "v10.5.2",
+      "published_at": "2021-03-06T20:19:14Z"
+    },
+    {
+      "tag": "v10.5.1",
+      "published_at": "2021-02-23T03:40:52Z"
+    },
+    {
+      "tag": "v10.5.0",
+      "published_at": "2021-01-31T06:28:25Z"
+    },
+    {
+      "tag": "v10.4.0",
+      "published_at": "2020-12-28T21:41:15Z"
+    },
+    {
+      "tag": "v10.2.0",
+      "published_at": "2020-12-28T19:21:32Z"
+    },
+    {
+      "tag": "v10.1.1",
+      "published_at": "2020-12-28T19:03:37Z"
+    },
+    {
+      "tag": "v10.1.0",
+      "published_at": "2020-12-10T02:07:17Z"
+    },
+    {
+      "tag": "v10.0.0",
+      "published_at": "2020-12-10T02:00:20Z"
+    },
+    {
+      "tag": "v9.7.3",
+      "published_at": "2020-12-11T15:22:41Z"
+    },
+    {
+      "tag": "v9.7.2",
+      "published_at": "2020-12-11T15:28:43Z"
+    },
+    {
+      "tag": "v9.7.0",
+      "published_at": "2020-10-31T00:50:09Z"
+    },
+    {
+      "tag": "0.3.1",
+      "published_at": "2015-09-06T02:14:20Z"
+    },
+    {
+      "tag": "0.3.0",
+      "published_at": "2015-09-06T02:13:47Z"
+    },
+    {
+      "tag": "0.2.1",
+      "published_at": "2015-09-06T02:14:07Z"
+    }
+  ],
+  "collected_at": "2026-06-28T12:00:14.108669Z"
+}

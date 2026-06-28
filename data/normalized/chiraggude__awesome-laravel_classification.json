@@ -1,0 +1,123 @@
+{
+  "full_name": "chiraggude/awesome-laravel",
+  "cause": "maintainer_abandonment",
+  "confidence": 0.89,
+  "death_score": 0.891,
+  "supporting_evidence": [
+    {
+      "analyzer": "commits",
+      "code": "last_commit_age",
+      "summary": "Last commit was 2241 days ago",
+      "severity": "high",
+      "value": 2241,
+      "unit": "days"
+    },
+    {
+      "analyzer": "issues",
+      "code": "no_responses",
+      "summary": "Issues exist but none received any response",
+      "severity": "high",
+      "value": null,
+      "unit": null
+    },
+    {
+      "analyzer": "releases",
+      "code": "no_releases",
+      "summary": "Project has never published a dated release",
+      "severity": "low",
+      "value": null,
+      "unit": null
+    },
+    {
+      "analyzer": "commits",
+      "code": "commit_frequency",
+      "summary": "Averaged 5.7 commits/month over history",
+      "severity": "info",
+      "value": 5.67,
+      "unit": "commits/month"
+    }
+  ],
+  "analyses": [
+    {
+      "analyzer": "commits",
+      "evidence": [
+        {
+          "analyzer": "commits",
+          "code": "last_commit_age",
+          "summary": "Last commit was 2241 days ago",
+          "severity": "high",
+          "value": 2241,
+          "unit": "days"
+        },
+        {
+          "analyzer": "commits",
+          "code": "commit_frequency",
+          "summary": "Averaged 5.7 commits/month over history",
+          "severity": "info",
+          "value": 5.67,
+          "unit": "commits/month"
+        }
+      ],
+      "metrics": {
+        "analyzer": "commits",
+        "metrics": {
+          "commit_count_window": 100.0,
+          "days_since_last_commit": 2241.9,
+          "commits_per_month": 5.67
+        }
+      }
+    },
+    {
+      "analyzer": "contributors",
+      "evidence": [],
+      "metrics": {
+        "analyzer": "contributors",
+        "metrics": {
+          "contributor_count": 100.0,
+          "total_contributions": 839.0,
+          "top_contributor_share": 0.695
+        }
+      }
+    },
+    {
+      "analyzer": "issues",
+      "evidence": [
+        {
+          "analyzer": "issues",
+          "code": "no_responses",
+          "summary": "Issues exist but none received any response",
+          "severity": "high",
+          "value": null,
+          "unit": null
+        }
+      ],
+      "metrics": {
+        "analyzer": "issues",
+        "metrics": {
+          "issue_count": 6.0,
+          "open_issue_count": 6.0
+        }
+      }
+    },
+    {
+      "analyzer": "releases",
+      "evidence": [
+        {
+          "analyzer": "releases",
+          "code": "no_releases",
+          "summary": "Project has never published a dated release",
+          "severity": "low",
+          "value": null,
+          "unit": null
+        }
+      ],
+      "metrics": {
+        "analyzer": "releases",
+        "metrics": {
+          "release_count": 0.0
+        }
+      }
+    }
+  ],
+  "narrative": null
+}

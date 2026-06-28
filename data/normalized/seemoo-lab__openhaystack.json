@@ -1,0 +1,1649 @@
+{
+  "full_name": "seemoo-lab/openhaystack",
+  "owner": "seemoo-lab",
+  "name": "openhaystack",
+  "url": "https://github.com/seemoo-lab/openhaystack",
+  "description": "Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.",
+  "primary_language": "Swift",
+  "topics": [
+    "airtag",
+    "apple",
+    "bluetooth",
+    "find-my",
+    "location-tracker",
+    "macos",
+    "microbit",
+    "offline-finding",
+    "reverse-engineering"
+  ],
+  "license_spdx": "AGPL-3.0",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 13075,
+  "forks": 656,
+  "open_issues": 145,
+  "created_at": "2021-02-22T13:23:06Z",
+  "pushed_at": "2024-07-09T07:19:10Z",
+  "updated_at": "2026-06-27T07:09:52Z",
+  "commits": [
+    {
+      "sha": "8d214aa5eb68fa0e6bca8bfa65443a79dd2216d4",
+      "author_login": "sebinbash",
+      "authored_at": "2024-07-08T20:45:32Z",
+      "message": "Use macOS 14 runner with Xcode 15.3"
+    },
+    {
+      "sha": "27d975b1f04dde774d873d0864d0dc47c4128d32",
+      "author_login": "sebinbash",
+      "authored_at": "2024-07-08T20:31:26Z",
+      "message": "Add manual trigger for all workflows"
+    },
+    {
+      "sha": "173eb741fa9f8e2a63009b7cbbc19401835b4218",
+      "author_login": "sebinbash",
+      "authored_at": "2024-07-08T20:25:16Z",
+      "message": "Fix CI to use renamed GitHub Action"
+    },
+    {
+      "sha": "17410e2c008cc066a60f8156cff5f83951c9756b",
+      "author_login": "sebinbash",
+      "authored_at": "2024-06-29T09:42:34Z",
+      "message": "Create a SetttingsView to manually enter Search Party Token, add error handling for expired token"
+    },
+    {
+      "sha": "3ef4280df19b292c74fc90def9e6c4d4bcd738a0",
+      "author_login": "sebinbash",
+      "authored_at": "2024-06-10T11:45:10Z",
+      "message": "Use AOSKit to generate anisette headers"
+    },
+    {
+      "sha": "1b66d15cada95ff902b471030f6f8396661b1776",
+      "author_login": "sebinbash",
+      "authored_at": "2024-06-09T14:25:49Z",
+      "message": "Fix report decryption for new report format"
+    },
+    {
+      "sha": "e8dcf61daa0a9dbdd21ec00202e846e4c0a4a212",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2024-06-11T10:38:44Z",
+      "message": "Adding CITATION.cff file"
+    },
+    {
+      "sha": "7d72fa1ac19d2a9f6dec43011be07df8976a8b02",
+      "author_login": "freak4pc",
+      "authored_at": "2023-10-16T13:02:33Z",
+      "message": "[fix] Derive symmetric key correctly"
+    },
+    {
+      "sha": "6eb282263258588902e24f2a540718d341864ea5",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2023-10-09T11:08:46Z",
+      "message": "Updating Mail Plugin to work with macOS 13.5 and 13.6"
+    },
+    {
+      "sha": "fe1e2861823723a8710f40d8b526a9b11367c6e9",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2023-04-21T07:54:51Z",
+      "message": "Compatibility with macOS 13.3"
+    },
+    {
+      "sha": "4e0f37d12995b60d8b583f20a8f5d08be12d4be4",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2022-06-01T07:37:19Z",
+      "message": "Updating action to macOS 12"
+    },
+    {
+      "sha": "6b3196e798789222d1f3b6b20412dfadd973729d",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2022-06-01T07:18:39Z",
+      "message": "Adding option to copy the private key from the repository"
+    },
+    {
+      "sha": "9829d6ceb4bba743d27c938004be6c916e9610ad",
+      "author_login": "noahwilliamsson",
+      "authored_at": "2022-04-23T08:19:56Z",
+      "message": "OpenHaystackMail: add support for Mail.app version 16.0 (macOS 12.3)"
+    },
+    {
+      "sha": "6c4895d68f7fccb4fbc8641cbb5a84672c908f37",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2022-05-12T13:27:46Z",
+      "message": "Proxy Server Info"
+    },
+    {
+      "sha": "33716d7f9de16a2e71faa7546fc4f47a33a6ecf5",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2022-05-12T13:26:05Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e27051e71e3f277ee7ccecabc634e71156e8a0af",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2022-05-12T13:24:54Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ed2c80b8c7ff4633073342e1368d12a1556006db",
+      "author_login": "MaxGranzow",
+      "authored_at": "2022-05-12T10:43:03Z",
+      "message": "Fixing readme image alignment"
+    },
+    {
+      "sha": "62bbee528e5d2c0165554e01098ba460e71fc1b8",
+      "author_login": "MaxGranzow",
+      "authored_at": "2022-05-12T10:37:57Z",
+      "message": "Adding OpenHaystack Mobile screenshots"
+    },
+    {
+      "sha": "00e3b5ad144ae4f48f08c4dd557bae3dd17b877f",
+      "author_login": "MaxGranzow",
+      "authored_at": "2022-05-12T10:24:51Z",
+      "message": "Update readme with OpenHaystack Mobile info"
+    },
+    {
+      "sha": "3d593a006cd03bf30958beab2bdb99cf17879fe3",
+      "author_login": "MaxGranzow",
+      "authored_at": "2022-05-11T11:02:07Z",
+      "message": "Adding OpenHaystack Mobile app"
+    },
+    {
+      "sha": "b65a6e6be097faa836237bd5405f9d8f1d81d2c9",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2022-01-04T14:24:48Z",
+      "message": "Changing time-out for nearby devices"
+    },
+    {
+      "sha": "190d9f35dd90dd844b8a1a33b439af488d451443",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2022-01-04T13:51:18Z",
+      "message": "Importing and exporting in JSON possible"
+    },
+    {
+      "sha": "ebfe7922eca150a9425af05acdcf2c25d86c2c9a",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2022-01-04T11:59:34Z",
+      "message": "Updating build workflow for Xcode 13"
+    },
+    {
+      "sha": "005d642dd8d64eaed1aae0f46e2588c5653184e9",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2022-01-04T11:43:24Z",
+      "message": "Adding new NRF firmware which supports rotating keys"
+    },
+    {
+      "sha": "c349ffde7f7f3d8056a11f6fe7d307b2dd2683d0",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2022-01-04T11:27:23Z",
+      "message": "Updating mail plug-in for macOS 12.1"
+    },
+    {
+      "sha": "f582d86455e45f26ef6a14aefca4e23d3d448ecb",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2022-01-04T11:25:20Z",
+      "message": "Updating mail plug-in for macOS 12.1"
+    },
+    {
+      "sha": "e55a0959afbfd3bdfc15654f6f62f768a09bc142",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-11-29T16:20:14Z",
+      "message": "Adding a class that automatically checks for updates of the app"
+    },
+    {
+      "sha": "278fe4e30d17d4802724112b97287cb0ea07b7c8",
+      "author_login": "NeoZ16",
+      "authored_at": "2021-11-04T15:44:29Z",
+      "message": "Added support for key derivation"
+    },
+    {
+      "sha": "d9a1a33b1e8933498ba5b05a304258937f58bf03",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-11-25T10:24:14Z",
+      "message": "Updating project to be M1 (ARM) compatible"
+    },
+    {
+      "sha": "3a8e54349128942b07692b3968444f647afde109",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-11-04T11:50:10Z",
+      "message": "Using the ESP32 v4.3 branch and not the release since the release is still failing to build"
+    },
+    {
+      "sha": "c6600b05552538c2e108163ffa0c97bbb461a1be",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-11-04T10:16:41Z",
+      "message": "Updating esp-idf version"
+    },
+    {
+      "sha": "9363dc053436052ce6abf8c364377a28f71f1d7b",
+      "author_login": "HouzuoGuo",
+      "authored_at": "2021-06-05T11:48:58Z",
+      "message": "Clarify the nature of the key parameter used by flash_esp32.sh"
+    },
+    {
+      "sha": "e95fe0cc32127ad9485c3e656874686d11915c95",
+      "author_login": "yoution",
+      "authored_at": "2021-07-01T03:25:01Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "599c24042dcacfba8315fc57db252c56f2060fff",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-11-04T08:20:54Z",
+      "message": "Fixing an issue with swift-format. It has changed the command line arguments and was throwing an error otherwise"
+    },
+    {
+      "sha": "204473c1cf2db93c732d42fcdc663949bacb3e53",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-11-03T17:05:46Z",
+      "message": "Fixing issues with the Mail plug-in update processs"
+    },
+    {
+      "sha": "e55aa25d9c6b48d2cecb11b183091ee932f8ed65",
+      "author_login": "mowtschan",
+      "authored_at": "2021-10-31T06:54:11Z",
+      "message": "Fixes #85"
+    },
+    {
+      "sha": "e39e328a89b4a876f58d84d0f8f6117d7fd31730",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-09-21T15:27:34Z",
+      "message": "Updating UUIDs for macOS 11.6"
+    },
+    {
+      "sha": "f9149cdc745f4ca6b982af4f370cdf614b05f30a",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-08-25T13:53:03Z",
+      "message": "nrf52832 pin layout"
+    },
+    {
+      "sha": "206a2e700483458559d84d189212282b746533e2",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-08-25T12:39:58Z",
+      "message": "Copying public to clipboard as Byte array or escaped string"
+    },
+    {
+      "sha": "78fba7391c602b0bca4ed8b61713ae86382e8c0c",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-08-06T09:46:56Z",
+      "message": "Checking if the Mail plug-in is installed in the correct version. Otherwise the new mail plug-in will be installed"
+    },
+    {
+      "sha": "aa7c0a50afd1eea222b1503bfb554e9ae0d8b91d",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-08-06T09:23:47Z",
+      "message": "Updating workflows to macOS 11"
+    },
+    {
+      "sha": "48ceb9550c57c6c577860459bd466906bd5aa36d",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-08-06T09:19:13Z",
+      "message": "Small icon changes"
+    },
+    {
+      "sha": "6105a9454adb2184abc4134c92af12cee8f9799f",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-08-06T09:19:04Z",
+      "message": "Updating preview for better control of Screenshots"
+    },
+    {
+      "sha": "71fb26da56ffe4732ebbd223109a6da94d12cbb4",
+      "author_login": null,
+      "authored_at": "2021-05-27T23:29:34Z",
+      "message": "Added a bunch of ID's into the plist for Mail app version 14"
+    },
+    {
+      "sha": "c7a15fe0e4a7c736548f8b1b9176858f66637171",
+      "author_login": "schmittner",
+      "authored_at": "2021-06-02T12:09:57Z",
+      "message": "Add WiSec demo"
+    },
+    {
+      "sha": "ffc5170ea4b4ceb1ad84e4f89324d6e666ffc7c3",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-04-29T09:12:14Z",
+      "message": "Added a fix for the cropped rows on macOS 11.3"
+    },
+    {
+      "sha": "f73c1ac63667a8766990fe0d9f51abc82907ec0a",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-04-29T08:21:28Z",
+      "message": "Fixing memory leaks in ReportsFetcher"
+    },
+    {
+      "sha": "5dc6158da7dfec6a2bd346d065fdbbdbe43663eb",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-04-29T08:14:43Z",
+      "message": "Fixing leaks in boring ssl usage"
+    },
+    {
+      "sha": "ba174196c01424a43a19f8e847c812e454ae89be",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-04-29T07:38:16Z",
+      "message": "Calling the completion handler in the case of a nil self"
+    },
+    {
+      "sha": "c618aab843206d6c46131b72970a3545c1bc9563",
+      "author_login": "tomasharkema",
+      "authored_at": "2021-04-27T14:23:02Z",
+      "message": "make it a todo"
+    },
+    {
+      "sha": "f8fb99cc418665226164597d9948d1551435f206",
+      "author_login": "tomasharkema",
+      "authored_at": "2021-04-27T14:19:35Z",
+      "message": "burn some leaks"
+    },
+    {
+      "sha": "9f419943808dcf499aad990fa41650d2a55da676",
+      "author_login": "fhessel",
+      "authored_at": "2021-04-16T14:49:27Z",
+      "message": "ESP32 Firmware: Consider Port and De-Duplicate Flashing Script"
+    },
+    {
+      "sha": "b5a577ec4e2c7ccb73cc6e9e03bbb14c1f10b378",
+      "author_login": "mowtschan",
+      "authored_at": "2021-04-15T07:45:04Z",
+      "message": "Add \"cleanup\" to the deployment script #44 (enhancement)"
+    },
+    {
+      "sha": "b513d47ddc81fe98299d2fea07c52146a04afd32",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-04-15T07:15:33Z",
+      "message": "Updated Readme with info for missing Manage Plug-Ins button"
+    },
+    {
+      "sha": "acdae59b3985be18c054c2140d688582646d7fc7",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-04-06T09:33:28Z",
+      "message": "Updating ESP32 firmware to sending rate of 1-2s"
+    },
+    {
+      "sha": "880f1356dee1c14db5fa6bf14d40fc1de3c1f70c",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-04-06T09:22:46Z",
+      "message": "Reducing sending frequency of micro:bit firmware to 2s to reduce power consumption"
+    },
+    {
+      "sha": "edf2b59754a8718e1ed2aa74cda5ed03824a7bc5",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-04-06T09:05:24Z",
+      "message": "Export the created firmware file (instead of flashing directly)"
+    },
+    {
+      "sha": "cf5103f62fab29089c13174976cdb272d472eed5",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-03-17T10:11:41Z",
+      "message": "Updating the mail state indicator when closing the mail app and reloading"
+    },
+    {
+      "sha": "21eacc6c5c12da76e3167e4777eb54837087cb00",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-16T12:38:45Z",
+      "message": "\"tag\" -> \"accessory\" (consistent with app UI)"
+    },
+    {
+      "sha": "bdb8e8047b0b1fd54b4030d92df9b7e37086c2bf",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-16T12:32:50Z",
+      "message": "Consolidate infos about supported devices in README"
+    },
+    {
+      "sha": "d1731c608a664aebc9bb9c3584a9a6760c42aa20",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-16T11:46:58Z",
+      "message": "Fix swift-format complaints"
+    },
+    {
+      "sha": "9f8352b022871c05491f5431350e5087a44621b0",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-16T11:46:45Z",
+      "message": "Add logarithmic slider"
+    },
+    {
+      "sha": "0e126e7882bfede8a520a17dbf64250725ec74ae",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-16T08:38:07Z",
+      "message": "Make update delay reusable and include call to `zoomInOnAll`"
+    },
+    {
+      "sha": "c7696b66879388a797e1754cf9fa93dea12826e9",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-03-16T08:26:43Z",
+      "message": "Resolving the UI glitch when moving the slider quickly by delaying the map updates for a split second"
+    },
+    {
+      "sha": "1883d47ac95e0149ccdc6959839e67cca90c673b",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-15T20:33:00Z",
+      "message": "Add time slider"
+    },
+    {
+      "sha": "76a01c187bcb4d8461604b60241a1970af99fb6f",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-15T17:49:53Z",
+      "message": "Add history view (shows all location reports for a single accessory)"
+    },
+    {
+      "sha": "2db31902d41e9d8a5fedff3fd005c837aaad4296",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-16T10:58:05Z",
+      "message": "Update issue templates"
+    },
+    {
+      "sha": "a88f5abeb4e2f207170adcaadc65f92f1e7d20f8",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-15T13:43:44Z",
+      "message": "Move nearby marker to the right"
+    },
+    {
+      "sha": "cf0416e174572fb7dc60087520c453f0b3218f36",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-15T13:41:38Z",
+      "message": "Unmark devices as nearby when they stop sending advertisements"
+    },
+    {
+      "sha": "eb07546640d047cd1c2fec0310eaaca41cf02c7d",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-15T13:04:33Z",
+      "message": "Update preview mode"
+    },
+    {
+      "sha": "37de037986df50829d5a3731f44c77a64cc6255c",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-15T12:22:55Z",
+      "message": "Mark devices as active (orange) if they have been active in the past"
+    },
+    {
+      "sha": "5117674ac9ed74930c13dea768b02a094ecad643",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-15T11:54:51Z",
+      "message": "Mark accessories as online when receiving Bluetooth advertisements"
+    },
+    {
+      "sha": "d5546e1fa8f2c9cee6532f0acde88e7ad3d998b1",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-15T11:56:26Z",
+      "message": "Disable deploy tests (will hang if no accessory is connected)"
+    },
+    {
+      "sha": "1b6eadb3010929817e57aec951c76d2461b37325",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-15T11:56:01Z",
+      "message": "Run autoformat"
+    },
+    {
+      "sha": "2f32efef24addf93bf28bc0b1aba60b9e90bd231",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-15T11:51:07Z",
+      "message": "Mark accessory as deployed when deploy was successful"
+    },
+    {
+      "sha": "e7a6135d9504cd2e0d337cfaf3a631cf88861a73",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-03-15T08:59:50Z",
+      "message": "Showing error messages when the import fails"
+    },
+    {
+      "sha": "9406f817f394cea343abc867d0c49f95e78c86ba",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-03-12T11:57:02Z",
+      "message": "Instead of showing a mail button a small circle is shown next to the reload button."
+    },
+    {
+      "sha": "ab1c3eb83a543c912df14df440c020f6acb217d6",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-03-12T11:23:23Z",
+      "message": "Adding a button that shows if the mail plug-in is active. The button turns red if the plug-in is not active."
+    },
+    {
+      "sha": "b56aa1faa713463020c50aeb6355e05a04d9c8a8",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-03-12T10:33:34Z",
+      "message": "Added import and export options"
+    },
+    {
+      "sha": "dda406b3d79f6d4c337f5136b4a8433c36c64168",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-11T15:47:46Z",
+      "message": "Use simpler and correct fix for light mode"
+    },
+    {
+      "sha": "1c6ef9f0e1969fea59bb80c51f8ba27695b735c0",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-11T10:13:41Z",
+      "message": "Fix rendering image in README"
+    },
+    {
+      "sha": "470dd1192db3f530b66b2be3a7bb3580565237aa",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-11T10:02:24Z",
+      "message": "Update license headers and add template"
+    },
+    {
+      "sha": "3ede0e1981e6682971f018a0afbfe6b17704bf0a",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-11T09:50:38Z",
+      "message": "Update screenshot"
+    },
+    {
+      "sha": "5d5ea30b52c66b59bec54a0ca1ec47ef13333610",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-11T09:25:03Z",
+      "message": "Update preview data"
+    },
+    {
+      "sha": "3c84aae67d584209d65dd69d828ab121dc76502c",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-11T08:44:08Z",
+      "message": "Changes to linter and autoformat workflow for development"
+    },
+    {
+      "sha": "0c9997993d570d8deb79ea6c0f22ae4fdb0b538d",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-11T07:18:11Z",
+      "message": "Map fits all accessories by default"
+    },
+    {
+      "sha": "c3a4610b879bb55b7b65011d0749e5d64409f195",
+      "author_login": "Sn0wfreezeDev",
+      "authored_at": "2021-03-11T07:22:17Z",
+      "message": "Optimizing for light mode. Selected accessory icons are tinted in the accent color"
+    },
+    {
+      "sha": "25dd8ac2d39ad0f71ef31b321fdb4aaf359ce495",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-11T00:51:43Z",
+      "message": "Better way to select icon color and more icons to choose from"
+    },
+    {
+      "sha": "f3daa51fd1ff14c319ef5ec62d03e97133c7c565",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-10T23:53:05Z",
+      "message": "Set minimum size for main view"
+    },
+    {
+      "sha": "fc0909151059a5f8a34ff3f691aacff7674baa96",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-10T23:46:24Z",
+      "message": "Reduce circle  size"
+    },
+    {
+      "sha": "e8c319c0c719785b0e2aa8e20fbbe16b6d22f664",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-10T23:46:13Z",
+      "message": "Show accessory title in navigation"
+    },
+    {
+      "sha": "087f780410d4029cbeb3fe951cde33101c73c9c5",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-10T23:21:31Z",
+      "message": "Optionally flag accessories as deployed"
+    },
+    {
+      "sha": "a68448a25c7415acd90c457f27b6cccdedf44a01",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-10T21:50:18Z",
+      "message": "Show map controls in toolbar"
+    },
+    {
+      "sha": "599b604fa926b6c7ad4f58bf66d119573712a2a5",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-10T21:35:05Z",
+      "message": "New icons come with random appearance"
+    },
+    {
+      "sha": "c57b4c9545140ca725f72f4605c34b9b5f553ea5",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-10T20:48:24Z",
+      "message": "Don't save preview data to keychain + get rid of shared controller instances"
+    },
+    {
+      "sha": "fab6cf8b55742712c55ffa600988f1b29e8e4e93",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-10T16:52:20Z",
+      "message": "Save changes to accessories immediately"
+    },
+    {
+      "sha": "df917a7e641c68db91b472ef888e2d82d48e5730",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-10T16:02:52Z",
+      "message": "Allow changing color"
+    },
+    {
+      "sha": "f7d9a175872d0a0d192590571d180d7052ab42d7",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-10T15:20:04Z",
+      "message": "Complete rebase"
+    },
+    {
+      "sha": "cbb85d97d05d4ca6302fe61684d506ecd1675aaf",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-09T22:30:04Z",
+      "message": "Use more SwiftUI elements and clean up interface"
+    },
+    {
+      "sha": "d3b72de00c0e9a3918051c657b1b888d30cf644b",
+      "author_login": "schmittner",
+      "authored_at": "2021-03-09T11:32:23Z",
+      "message": "AccessoryListView follows style of Find My app"
+    }
+  ],
+  "issues": [
+    {
+      "number": 291,
+      "title": "add support for esp 32 c5 dev kit 1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-20T18:46:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 290,
+      "title": "Fix command in README for flashing ESP32",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-05T10:35:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 288,
+      "title": "Review mobile accessory updates",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-10T22:53:16Z",
+      "closed_at": "2026-03-10T23:57:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 287,
+      "title": "First‐class support for the new Mail extensions on macOS 13+",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-05T23:41:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 286,
+      "title": "Does the iOS update have an impact on location reporting for custom tag devices?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-06T11:55:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 284,
+      "title": "2FA Not working (sms authentication)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-12-08T04:03:42Z",
+      "closed_at": "2025-12-08T06:59:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 283,
+      "title": "Does this still work?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-06T14:25:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 281,
+      "title": "Registering device without flashing firmware",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-09-28T13:41:37Z",
+      "closed_at": "2025-09-28T14:02:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 280,
+      "title": "No sms recevied",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-08-27T12:58:32Z",
+      "closed_at": "2025-08-27T13:01:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 279,
+      "title": "Can You help me",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-05T10:13:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 278,
+      "title": "Decrypt the power information of the device from the obtained encrypted dat",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-22T03:51:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 276,
+      "title": "Add this binary for ESP32 C3 & S2!",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-15T07:18:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 275,
+      "title": "test",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-06-10T14:57:34Z",
+      "closed_at": "2025-06-10T14:57:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 274,
+      "title": "Add official release for OpenHaystack no mail plugin version",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-09T05:45:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 273,
+      "title": "Non-Apple Airtags, including OpenHaystack tags stopped working",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-05-30T17:20:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 271,
+      "title": "Offboard - Rona Valle 4/3/25",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-04-03T21:22:20Z",
+      "closed_at": "2025-04-03T21:23:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 269,
+      "title": "Battery life",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-21T23:29:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 267,
+      "title": "XIAO BLE nrf52840 bare minimum working code, need help!",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-02T04:44:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 266,
+      "title": "Pair Find My compatible devices",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-22T15:45:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 265,
+      "title": "openhaystack as python service to detect the beacons",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-02-21T15:29:11Z",
+      "closed_at": "2025-02-24T03:57:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 264,
+      "title": "Homebrew Support",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-02-19T14:53:11Z",
+      "closed_at": "2026-01-12T11:44:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 261,
+      "title": "Flutter version",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-27T01:05:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 260,
+      "title": "`Method not found` errors in `flutter_launcher_icons`",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-01-26T23:29:37Z",
+      "closed_at": "2025-01-26T23:36:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 257,
+      "title": "I can't build to ESP32 ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-12-06T09:14:26Z",
+      "closed_at": "2024-12-07T10:05:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 255,
+      "title": "Debug steps and test results for the local run of the project",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-31T10:22:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 253,
+      "title": "It is Possible to emuate ADV key on Windows Laptops",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-21T16:30:56Z",
+      "closed_at": "2024-08-21T16:31:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 252,
+      "title": "Fix CI Pipeline",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-08T21:06:46Z",
+      "closed_at": "2024-07-09T07:19:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 251,
+      "title": "Where does the advertisement key go in the esp32 firmware?  ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-01T10:22:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 250,
+      "title": "Make OpenHaystack work on macOS 14, parse new report format correctly",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-06-29T10:13:33Z",
+      "closed_at": "2024-07-08T08:37:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 249,
+      "title": "New bytes showed up that need to be decrypted or decoded",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-19T22:00:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 247,
+      "title": "Failed to configure openhaystack Mail Extension on Mac OS 14",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-18T14:00:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 246,
+      "title": "hcitool used in HCI.py is deprecated in latest BlueZ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-14T10:02:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 245,
+      "title": "Support for Android / Google's Find my Device?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-02T07:58:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 244,
+      "title": "How to get ADVERTISMENT_KEY for linux machine?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-29T12:13:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 243,
+      "title": "private key for shared AirTags (only key provided is peerTrustSharedSecret)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-07T19:17:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 242,
+      "title": "Tracker location -1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-21T09:52:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 240,
+      "title": "Avoid using Mail.app plugin for accessing required APIs",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-05T21:47:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 239,
+      "title": "Address report decryption failure",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-03-24T23:29:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 234,
+      "title": "NRF firmware source code",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-04T22:17:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 233,
+      "title": "Adding proxy server to macOS app",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-03-03T23:16:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 232,
+      "title": "Q: Does anyone know how to debug FindMy?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-03T23:17:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 231,
+      "title": "Updated Info.plist to support sonoma releases",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-01-30T23:45:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 228,
+      "title": "When running this project on macOS in VMware on the Windows operating system, it will cause the \"mail\" application to crash.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-11T10:37:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 226,
+      "title": "where does openhaystack store its location data?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-05T14:09:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 225,
+      "title": "Python Script Refactor",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-12-04T11:38:42Z",
+      "closed_at": "2023-12-08T02:10:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 223,
+      "title": "OpenHaystack 0.5.4 crashes Version 16.0 (3731.700.6)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-19T20:35:33Z",
+      "closed_at": "2023-11-19T20:45:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 222,
+      "title": "No Plugins tab in General in Mail Version 16.0 (3731.700.6) (macos 13.6.1)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-19T20:12:42Z",
+      "closed_at": "2023-11-19T20:32:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 221,
+      "title": "Fix com.apple.mail error in README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-11-13T05:40:55Z",
+      "closed_at": "2026-03-24T23:47:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 220,
+      "title": "MacOS 10.15 ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-08T15:42:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 219,
+      "title": "iPhone 15 - lack of reports",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-28T22:36:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 218,
+      "title": "[fix] Derive symmetric key correctly",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-16T13:05:08Z",
+      "closed_at": "2023-10-16T15:19:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 217,
+      "title": "Trying to 'deploy' on a Seeed nRF52840",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-02T16:02:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 216,
+      "title": "project abandoned? ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-24T00:06:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 214,
+      "title": "Mac OS 14 (Sonoma) Support for Openhaystack",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-01T12:38:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 211,
+      "title": "difficulties with OpenHaystack Version 0.5.2 (1), macOS 13.1 , Mail Version 16.0 (3731.300.101.1.3)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-22T16:43:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 209,
+      "title": "OpenHaystackMail: Add support for Mail.app on Ventura 13.5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-03T17:49:09Z",
+      "closed_at": "2025-02-15T12:05:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 208,
+      "title": "Auto refresh every 30s",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-06-29T09:03:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 207,
+      "title": "Correctly handle versions with extension",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-06-29T08:33:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 206,
+      "title": "Fix version retrieving",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-06-29T08:16:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 205,
+      "title": "HCI.py usage",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-15T08:13:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 204,
+      "title": "Cannot download nrf51_sdk_v4_4_2_33551.zip from developer.nordicsemi.com",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-13T17:50:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 203,
+      "title": "Mail Plug-In",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-06-05T21:00:56Z",
+      "closed_at": "2023-10-09T11:11:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 201,
+      "title": "Visualization does not work",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-22T08:39:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 200,
+      "title": "ruby on rails interface for the OHServerApp ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-21T04:29:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 199,
+      "title": "'Operation not permitted' when trying to flash to Microbit",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-18T17:17:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 198,
+      "title": "Mail Plugins Missing",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-16T09:03:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 197,
+      "title": "Tell me about the `confidence` key",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-08T06:40:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 194,
+      "title": "Better error messages for flashing on ESP32",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-15T16:06:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 193,
+      "title": "Mac OS Big Sur Update?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-11T11:50:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 192,
+      "title": "Can't access the app account info.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-05T08:31:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 191,
+      "title": "Ventura OS 13.3 - Mailplugin issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-29T22:34:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 190,
+      "title": "Location hack",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-21T09:45:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 189,
+      "title": "Location hack",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-21T09:44:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 186,
+      "title": "Public-key 28bits instead of required 57bits / NRF51822",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-03-11T12:39:30Z",
+      "closed_at": "2023-03-13T08:23:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 185,
+      "title": "Low battery status warning",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-03-11T09:01:59Z",
+      "closed_at": "2023-03-13T08:25:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 184,
+      "title": "build/openhaystack.bin NOT THERE",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-03-10T16:34:46Z",
+      "closed_at": "2023-03-12T16:37:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 183,
+      "title": "Microbit:V2 Deployment and an Issue.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-03-09T18:15:32Z",
+      "closed_at": "2023-03-13T08:27:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 182,
+      "title": "add compatibility with Ventura and Xcode 14",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-03-05T19:43:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 181,
+      "title": "Mail Plugin in Finder but in looking Terminal not",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-04T17:54:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 180,
+      "title": "Mail Plugin Doesn't Support Mail 16.0.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-26T15:06:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 179,
+      "title": "GPS Coordinates",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-22T03:11:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 178,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-02-19T19:14:52Z",
+      "closed_at": "2025-04-12T18:41:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 177,
+      "title": "cheap bluetoothmodule - would it work?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-16T06:35:03Z",
+      "closed_at": "2023-03-13T08:28:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 176,
+      "title": "Exception running OHServerApp",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-10T14:22:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 175,
+      "title": "nRF51822 error: open failed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-02T10:06:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 174,
+      "title": "Binary releases for non Mac owners",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-25T16:47:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 173,
+      "title": "ESP32 is still findable?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-01-25T04:42:39Z",
+      "closed_at": "2023-04-03T13:43:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 172,
+      "title": "Mail Plugin errors",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-12T02:53:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 171,
+      "title": "Availability of free for research or paid for business proxy servers",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-06T09:46:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 170,
+      "title": "precision finding",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-04T19:45:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 169,
+      "title": "Apple maps black screen , please attach a Google maps link .",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-01T18:01:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 168,
+      "title": "save past history?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-12-30T01:34:33Z",
+      "closed_at": "2023-01-04T19:42:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 167,
+      "title": "OHServerApp proxy issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-29T04:16:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 166,
+      "title": "Rearrange and grouping tags.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-19T21:42:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 165,
+      "title": "Apple shutting down the service",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-19T06:36:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 164,
+      "title": "ESP32 firmware doesn't work with ESP32-S2 Mini",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-18T13:28:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 163,
+      "title": "Add Timestamp to pinpoints",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-18T09:25:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 162,
+      "title": "Add support for plugin for macOS 13.1 Ventura and Mail app Version 16.0 (3731.300.101.1.3)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-15T09:04:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 161,
+      "title": "Compatible with BlueNRG-2?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-02T11:14:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 160,
+      "title": "Fix typo in README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-25T18:54:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "schmittner",
+      "contributions": 53
+    },
+    {
+      "login": "Sn0wfreezeDev",
+      "contributions": 46
+    },
+    {
+      "login": "sebinbash",
+      "contributions": 6
+    },
+    {
+      "login": "MaxGranzow",
+      "contributions": 4
+    },
+    {
+      "login": "mowtschan",
+      "contributions": 2
+    },
+    {
+      "login": "tomasharkema",
+      "contributions": 2
+    },
+    {
+      "login": "fhessel",
+      "contributions": 1
+    },
+    {
+      "login": "HouzuoGuo",
+      "contributions": 1
+    },
+    {
+      "login": "k-nut",
+      "contributions": 1
+    },
+    {
+      "login": "NeoZ16",
+      "contributions": 1
+    },
+    {
+      "login": "noahwilliamsson",
+      "contributions": 1
+    },
+    {
+      "login": "freak4pc",
+      "contributions": 1
+    },
+    {
+      "login": "yoution",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v0.5.3",
+      "published_at": "2023-10-09T11:15:51Z"
+    },
+    {
+      "tag": "v0.5.2",
+      "published_at": "2022-06-01T08:21:42Z"
+    },
+    {
+      "tag": "v0.5.1",
+      "published_at": "2022-01-04T14:02:24Z"
+    },
+    {
+      "tag": "v0.4.1",
+      "published_at": "2021-11-25T11:06:57Z"
+    },
+    {
+      "tag": "v0.4.0",
+      "published_at": "2021-11-04T12:04:19Z"
+    },
+    {
+      "tag": "v0.3.9",
+      "published_at": "2021-09-21T15:37:55Z"
+    },
+    {
+      "tag": "v0.3.8",
+      "published_at": "2021-08-06T13:59:08Z"
+    },
+    {
+      "tag": "v0.3.7",
+      "published_at": "2021-05-03T06:59:58Z"
+    },
+    {
+      "tag": "v0.3.6",
+      "published_at": "2021-04-14T09:45:38Z"
+    },
+    {
+      "tag": "v0.3.5",
+      "published_at": "2021-03-16T12:00:01Z"
+    },
+    {
+      "tag": "v0.3.4",
+      "published_at": "2021-03-15T16:33:33Z"
+    },
+    {
+      "tag": "v0.3.3",
+      "published_at": "2021-03-15T09:56:53Z"
+    },
+    {
+      "tag": "v0.3.2",
+      "published_at": "2021-03-11T15:57:27Z"
+    },
+    {
+      "tag": "v0.3.1",
+      "published_at": "2021-03-10T11:37:10Z"
+    },
+    {
+      "tag": "v0.3.0",
+      "published_at": "2021-03-03T13:40:53Z"
+    }
+  ],
+  "collected_at": "2026-06-28T12:00:27.386369Z"
+}

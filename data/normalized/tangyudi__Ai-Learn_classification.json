@@ -1,0 +1,123 @@
+{
+  "full_name": "tangyudi/Ai-Learn",
+  "cause": "bus_factor_collapse",
+  "confidence": 1.0,
+  "death_score": 1.0,
+  "supporting_evidence": [
+    {
+      "analyzer": "commits",
+      "code": "last_commit_age",
+      "summary": "Last commit was 756 days ago",
+      "severity": "high",
+      "value": 756,
+      "unit": "days"
+    },
+    {
+      "analyzer": "contributors",
+      "code": "single_maintainer",
+      "summary": "Project has a single contributor (bus factor 1)",
+      "severity": "high",
+      "value": 1,
+      "unit": null
+    },
+    {
+      "analyzer": "releases",
+      "code": "no_releases",
+      "summary": "Project has never published a dated release",
+      "severity": "low",
+      "value": null,
+      "unit": null
+    },
+    {
+      "analyzer": "commits",
+      "code": "commit_frequency",
+      "summary": "Averaged 1.6 commits/month over history",
+      "severity": "info",
+      "value": 1.59,
+      "unit": "commits/month"
+    }
+  ],
+  "analyses": [
+    {
+      "analyzer": "commits",
+      "evidence": [
+        {
+          "analyzer": "commits",
+          "code": "last_commit_age",
+          "summary": "Last commit was 756 days ago",
+          "severity": "high",
+          "value": 756,
+          "unit": "days"
+        },
+        {
+          "analyzer": "commits",
+          "code": "commit_frequency",
+          "summary": "Averaged 1.6 commits/month over history",
+          "severity": "info",
+          "value": 1.59,
+          "unit": "commits/month"
+        }
+      ],
+      "metrics": {
+        "analyzer": "commits",
+        "metrics": {
+          "commit_count_window": 84.0,
+          "days_since_last_commit": 756.3,
+          "commits_per_month": 1.59
+        }
+      }
+    },
+    {
+      "analyzer": "contributors",
+      "evidence": [
+        {
+          "analyzer": "contributors",
+          "code": "single_maintainer",
+          "summary": "Project has a single contributor (bus factor 1)",
+          "severity": "high",
+          "value": 1,
+          "unit": null
+        }
+      ],
+      "metrics": {
+        "analyzer": "contributors",
+        "metrics": {
+          "contributor_count": 1.0,
+          "total_contributions": 84.0,
+          "top_contributor_share": 1.0
+        }
+      }
+    },
+    {
+      "analyzer": "issues",
+      "evidence": [],
+      "metrics": {
+        "analyzer": "issues",
+        "metrics": {
+          "issue_count": 0.0,
+          "open_issue_count": 0.0
+        }
+      }
+    },
+    {
+      "analyzer": "releases",
+      "evidence": [
+        {
+          "analyzer": "releases",
+          "code": "no_releases",
+          "summary": "Project has never published a dated release",
+          "severity": "low",
+          "value": null,
+          "unit": null
+        }
+      ],
+      "metrics": {
+        "analyzer": "releases",
+        "metrics": {
+          "release_count": 0.0
+        }
+      }
+    }
+  ],
+  "narrative": null
+}

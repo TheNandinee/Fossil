@@ -1,0 +1,124 @@
+{
+  "full_name": "pytube/pytube",
+  "cause": "maintainer_abandonment",
+  "confidence": 0.85,
+  "death_score": 0.846,
+  "supporting_evidence": [
+    {
+      "analyzer": "commits",
+      "code": "last_commit_age",
+      "summary": "Last commit was 1135 days ago",
+      "severity": "high",
+      "value": 1135,
+      "unit": "days"
+    },
+    {
+      "analyzer": "issues",
+      "code": "no_responses",
+      "summary": "Issues exist but none received any response",
+      "severity": "high",
+      "value": null,
+      "unit": null
+    },
+    {
+      "analyzer": "releases",
+      "code": "last_release_age",
+      "summary": "Last release was 4.8 years ago",
+      "severity": "high",
+      "value": 1765,
+      "unit": "days"
+    },
+    {
+      "analyzer": "commits",
+      "code": "commit_frequency",
+      "summary": "Averaged 3.9 commits/month over history",
+      "severity": "info",
+      "value": 3.88,
+      "unit": "commits/month"
+    }
+  ],
+  "analyses": [
+    {
+      "analyzer": "commits",
+      "evidence": [
+        {
+          "analyzer": "commits",
+          "code": "last_commit_age",
+          "summary": "Last commit was 1135 days ago",
+          "severity": "high",
+          "value": 1135,
+          "unit": "days"
+        },
+        {
+          "analyzer": "commits",
+          "code": "commit_frequency",
+          "summary": "Averaged 3.9 commits/month over history",
+          "severity": "info",
+          "value": 3.88,
+          "unit": "commits/month"
+        }
+      ],
+      "metrics": {
+        "analyzer": "commits",
+        "metrics": {
+          "commit_count_window": 100.0,
+          "days_since_last_commit": 1135.1,
+          "commits_per_month": 3.88
+        }
+      }
+    },
+    {
+      "analyzer": "contributors",
+      "evidence": [],
+      "metrics": {
+        "analyzer": "contributors",
+        "metrics": {
+          "contributor_count": 98.0,
+          "total_contributions": 1320.0,
+          "top_contributor_share": 0.475
+        }
+      }
+    },
+    {
+      "analyzer": "issues",
+      "evidence": [
+        {
+          "analyzer": "issues",
+          "code": "no_responses",
+          "summary": "Issues exist but none received any response",
+          "severity": "high",
+          "value": null,
+          "unit": null
+        }
+      ],
+      "metrics": {
+        "analyzer": "issues",
+        "metrics": {
+          "issue_count": 92.0,
+          "open_issue_count": 81.0
+        }
+      }
+    },
+    {
+      "analyzer": "releases",
+      "evidence": [
+        {
+          "analyzer": "releases",
+          "code": "last_release_age",
+          "summary": "Last release was 4.8 years ago",
+          "severity": "high",
+          "value": 1765,
+          "unit": "days"
+        }
+      ],
+      "metrics": {
+        "analyzer": "releases",
+        "metrics": {
+          "release_count": 31.0,
+          "days_since_last_release": 1765.5
+        }
+      }
+    }
+  ],
+  "narrative": null
+}

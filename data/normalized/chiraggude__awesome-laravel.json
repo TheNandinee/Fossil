@@ -1,0 +1,1930 @@
+{
+  "full_name": "chiraggude/awesome-laravel",
+  "owner": "chiraggude",
+  "name": "awesome-laravel",
+  "url": "https://github.com/chiraggude/awesome-laravel",
+  "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem",
+  "primary_language": null,
+  "topics": [
+    "awesome",
+    "laravel",
+    "php"
+  ],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 13077,
+  "forks": 2345,
+  "open_issues": 80,
+  "created_at": "2014-07-30T08:39:02Z",
+  "pushed_at": "2024-07-03T15:59:36Z",
+  "updated_at": "2026-06-26T20:34:31Z",
+  "commits": [
+    {
+      "sha": "0374093f529ba54bfd201c4c52b40a88e45ab1ae",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T15:02:22Z",
+      "message": "Update minimum requirements for contributions"
+    },
+    {
+      "sha": "2a69b6f26e3a690cf67d4f4e17e255bcb23f73d1",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:59:46Z",
+      "message": "Swap URLs from docs to GH"
+    },
+    {
+      "sha": "ab4901f4f453dcaacd1e04daf9ff0fe928aa0404",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:52:12Z",
+      "message": "Clean up"
+    },
+    {
+      "sha": "57241193d06818a74b05625b6ed9d214acf496aa",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:37:56Z",
+      "message": "Merge pull request #552 from stayallive/patch-1"
+    },
+    {
+      "sha": "2f3f5d219d4f6f575c5f819de4ed62ec7b20ac11",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:34:59Z",
+      "message": "Merge pull request #547 from akizor/master"
+    },
+    {
+      "sha": "d320b36998914def44adbcaada816d5f8a034c82",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:31:24Z",
+      "message": "Merge pull request #543 from jcricaro/master"
+    },
+    {
+      "sha": "d44e0790527b6a85627e29e3eeb9b006de07f7d8",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:29:27Z",
+      "message": "Merge pull request #541 from yevhenlisovenko/patch-1"
+    },
+    {
+      "sha": "018cb519f2853448196a7cf8687a85cdb44389c0",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:27:42Z",
+      "message": "Merge pull request #540 from Highjhacker/patch-1"
+    },
+    {
+      "sha": "ed258fff319b8f5c3cadbf7e0cfc38499deaeef4",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:24:25Z",
+      "message": "Merge pull request #537 from pkarastelev/patch-1"
+    },
+    {
+      "sha": "6b33b82737f9672cb2763fa708eb0abc97e090bc",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:21:30Z",
+      "message": "Merge pull request #535 from jericopulvera/patch-1"
+    },
+    {
+      "sha": "5191a05c91e10207d01959a82b111ecdfd821130",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:20:41Z",
+      "message": "Merge pull request #534 from insign/patch-19"
+    },
+    {
+      "sha": "bcac03803cbc3d5c6031996b9c638c718639e2ed",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:20:11Z",
+      "message": "Merge pull request #532 from austintoddj/patch-1"
+    },
+    {
+      "sha": "4b77a3d238e2e80c8cd57331575c1be19eefc29e",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:19:24Z",
+      "message": "Merge pull request #531 from bhaveshdaswani93/master"
+    },
+    {
+      "sha": "54c1410350fcbc0ecee1285570a107270c0935a3",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:15:32Z",
+      "message": "Merge pull request #529 from abhin-k/master"
+    },
+    {
+      "sha": "92bd9919307cc2dd6cc13dd49d80180e91f98fb1",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:14:42Z",
+      "message": "Merge pull request #528 from theafolayan/master"
+    },
+    {
+      "sha": "9510080148d3aa34dc00a5fca08cbb5a8e8d1492",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:14:09Z",
+      "message": "Merge pull request #527 from stancl/patch-2"
+    },
+    {
+      "sha": "a66f8329538fe4d5fed5a97df4eae3db10f731a3",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:11:27Z",
+      "message": "Merge pull request #526 from billmn/add-ignition"
+    },
+    {
+      "sha": "3af763b87e40a8f8b078faaa48d5734a0965e879",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:10:57Z",
+      "message": "Merge pull request #525 from billmn/fix-typo-telescope"
+    },
+    {
+      "sha": "46277f41b8fbbe42499225d31179ca75b0bae8fa",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:05:36Z",
+      "message": "Merge pull request #522 from paulayuk/master"
+    },
+    {
+      "sha": "dda4b6de1cd24ec6c397227287838ba797e8738d",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:03:07Z",
+      "message": "Merge pull request #519 from fridzema/patch-2"
+    },
+    {
+      "sha": "77c175a06cce2345887fe5073685c8a7576ef4eb",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T14:01:27Z",
+      "message": "Merge pull request #518 from QuintenJustus/master"
+    },
+    {
+      "sha": "fbbca4d0e91271327a231eadfae3ca36879a5941",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T13:59:14Z",
+      "message": "Merge pull request #517 from ThomasNoergaard/master"
+    },
+    {
+      "sha": "af40a1ab141573102183cdc9f2952191467c529e",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T13:58:19Z",
+      "message": "Merge pull request #516 from myowinthein/master"
+    },
+    {
+      "sha": "608e2a6db4db88a358c53080b0c0148d38b70209",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T13:57:36Z",
+      "message": "Merge pull request #515 from andresayej/master"
+    },
+    {
+      "sha": "3ea344f0bc8dc05b459290b7cd7603c04900056b",
+      "author_login": "chiraggude",
+      "authored_at": "2020-05-08T13:57:03Z",
+      "message": "Merge pull request #514 from tree-wizard/patch-1"
+    },
+    {
+      "sha": "1ec8dd450570d7b65a9d908a462e8945c965f64a",
+      "author_login": "stayallive",
+      "authored_at": "2020-03-10T13:00:42Z",
+      "message": "Remove LaraVer"
+    },
+    {
+      "sha": "962f8844a9c531a0bfd906abe90765f44fa55158",
+      "author_login": "akizor",
+      "authored_at": "2020-02-20T13:12:11Z",
+      "message": "Twill CMS, Grafite has been archived"
+    },
+    {
+      "sha": "a5af9fe6e65f0debd15eb633c7096e1b64b108c6",
+      "author_login": "jcricaro",
+      "authored_at": "2020-01-29T05:12:37Z",
+      "message": "Include Laravel Philippines facebook group."
+    },
+    {
+      "sha": "0a5d61d7e9e4e6fb0874bd52492005359ed31208",
+      "author_login": "yevhenlisovenko",
+      "authored_at": "2020-01-18T15:58:36Z",
+      "message": "docs: added open-source awes.io project"
+    },
+    {
+      "sha": "77437bfe5cd5c87807107ab2cb420ff228315ef6",
+      "author_login": "Highjhacker",
+      "authored_at": "2019-12-30T23:27:12Z",
+      "message": "Added Livewire"
+    },
+    {
+      "sha": "d7faea4a50876d83cedafcdb067b5f6eb28ded17",
+      "author_login": "pkarastelev",
+      "authored_at": "2019-10-25T21:23:34Z",
+      "message": "Add lando to Development Setup"
+    },
+    {
+      "sha": "a37c6bb9028cff65b16fc0e40cc28d50efac3f44",
+      "author_login": "jericopulvera",
+      "authored_at": "2019-10-24T20:14:14Z",
+      "message": "Added Confident Laravel"
+    },
+    {
+      "sha": "9d122dac5eda3a24d2ba7b7ed784510d403a692b",
+      "author_login": "insign",
+      "authored_at": "2019-10-22T17:08:08Z",
+      "message": "Added Discord link for Laravel Brasil"
+    },
+    {
+      "sha": "fa7681f8487af295075f1d2d81428d7094fa1f64",
+      "author_login": "austintoddj",
+      "authored_at": "2019-10-18T21:53:18Z",
+      "message": "Updates the URL and description for the current repository"
+    },
+    {
+      "sha": "6e5e70185cd317641510352a9027c233f7cd211a",
+      "author_login": "bhaveshdaswani93",
+      "authored_at": "2019-10-17T07:15:11Z",
+      "message": "Added Laravel India Community"
+    },
+    {
+      "sha": "892f4d8ad78afd04c73e82bd7fd7acfdcf56db97",
+      "author_login": "bhaveshdaswani93",
+      "authored_at": "2019-10-17T07:12:34Z",
+      "message": "Added Laravel India Community"
+    },
+    {
+      "sha": "7bf05f6f0a77f116d97a94916ae10852b01e8ec8",
+      "author_login": "abhin-k",
+      "authored_at": "2019-10-14T16:00:38Z",
+      "message": "Added Laravel-Searchy "
+    },
+    {
+      "sha": "948059bcec6c5b5b95fcbde8def66245eb4e1fd1",
+      "author_login": "theafolayan",
+      "authored_at": "2019-10-13T19:16:35Z",
+      "message": "Added Laravel Nigeria to Conferences List"
+    },
+    {
+      "sha": "640b95296ad1cd4a5d26b7701d002eab6f940061",
+      "author_login": "theafolayan",
+      "authored_at": "2019-10-13T19:16:10Z",
+      "message": "Added Laravel Nigeria to Conferences List"
+    },
+    {
+      "sha": "55dfb97394503331c53653a90b259d4096fb1f54",
+      "author_login": "stancl",
+      "authored_at": "2019-10-13T18:38:33Z",
+      "message": "Add stancl/tenancy"
+    },
+    {
+      "sha": "25d2eaec662e0dcee90917ca878d6d037215af00",
+      "author_login": "billmn",
+      "authored_at": "2019-10-07T20:24:14Z",
+      "message": "Added Ignition to Testing and Debugging section"
+    },
+    {
+      "sha": "02caa219eef5920bd1404ae3381d92dab4a5f94d",
+      "author_login": "billmn",
+      "authored_at": "2019-10-07T20:18:09Z",
+      "message": "Fixed typo on Laravel Telescope"
+    },
+    {
+      "sha": "bc44ad6c6162776a1a2b3e417fa8d47698f0c141",
+      "author_login": "paulayuk",
+      "authored_at": "2019-10-01T06:35:23Z",
+      "message": "Update ReadMe"
+    },
+    {
+      "sha": "28ac3b851096b40a1ebef42b0202257c474c3235",
+      "author_login": "fridzema",
+      "authored_at": "2019-09-11T12:14:19Z",
+      "message": "Added laravel vapor"
+    },
+    {
+      "sha": "ddcde35e8de1e5deb9a5960fdb1c095bdeaa2a08",
+      "author_login": null,
+      "authored_at": "2019-09-10T20:52:04Z",
+      "message": "Added Prequel to developer tools"
+    },
+    {
+      "sha": "7360f5565e5a5a2bb1aa3ef6c88f563e47caef8e",
+      "author_login": "ThomasNoergaard",
+      "authored_at": "2019-09-02T11:37:06Z",
+      "message": "Added Build an API with Laravel book to books list"
+    },
+    {
+      "sha": "6aeb4b20d4056aa8f494fe689b88c8b6196b32af",
+      "author_login": "myowinthein",
+      "authored_at": "2019-08-26T09:27:42Z",
+      "message": "Merge pull request #1 from MWT1991/MWT1991-patch-1"
+    },
+    {
+      "sha": "7fae0b7713e659debd9341325d3eca2aeeda303d",
+      "author_login": "myowinthein",
+      "authored_at": "2019-08-26T09:27:01Z",
+      "message": "Add laravel_ffmpeg package"
+    },
+    {
+      "sha": "aa4e26bcf909fcf804b9e235f187e7fd70808cdd",
+      "author_login": "andresayej",
+      "authored_at": "2019-08-22T07:36:50Z",
+      "message": "Added Twill"
+    },
+    {
+      "sha": "90c4ff23d4f7d44296d2e43869798f76d5c78398",
+      "author_login": "aimfireready",
+      "authored_at": "2019-08-15T03:11:08Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "01ccb609004ff171eff8fd63f3cc8a91118ed95f",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-04T13:36:16Z",
+      "message": "Minor formatting fix"
+    },
+    {
+      "sha": "84c0ceece6a6790a92270d10562b9574756b571b",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-04T13:31:29Z",
+      "message": "Update tutorials and blogs section"
+    },
+    {
+      "sha": "37d6f5bd3cc6174e07fd9b1807405df0b8268f1e",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-04T12:47:47Z",
+      "message": "Update links to laracon videos"
+    },
+    {
+      "sha": "5457b2d553791ca31d36e49e316a29609deb88de",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-03T23:29:16Z",
+      "message": "Minor clean up and URL changes"
+    },
+    {
+      "sha": "909344f60c7533fe503332eb7287aae9da38d378",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-03T23:10:55Z",
+      "message": "Increase star requirements"
+    },
+    {
+      "sha": "2fe53314a15f216a40ed06da74924ce733ac9f37",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-03T23:02:54Z",
+      "message": "Merge pull request #511 from wmhello/wmhello"
+    },
+    {
+      "sha": "d11c5abb4a53b962fed53979136a127afe48b33f",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-03T23:02:04Z",
+      "message": "Merge pull request #510 from tabacitu/patch-1"
+    },
+    {
+      "sha": "7b5881c45d1a9ad89c20889e395e4700ae14fd4b",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-03T22:54:32Z",
+      "message": "Merge pull request #499 from LaraShout/patch-1"
+    },
+    {
+      "sha": "2394dcfd63a630ae0e71f2d1c2d5d55df879729a",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-03T22:53:24Z",
+      "message": "Merge pull request #497 from Jinva/master"
+    },
+    {
+      "sha": "67a9d15c9dec7d5de737a25202bed9ef6c872b8c",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-03T22:50:22Z",
+      "message": "Merge pull request #494 from goodjack/patch-3"
+    },
+    {
+      "sha": "dc6a54d1ad9d65af818687f4b3bd211e08f05838",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-03T22:48:07Z",
+      "message": "Merge pull request #492 from aschmelyun/feature/larametrics"
+    },
+    {
+      "sha": "dd0284c2b48e80363268b9d017248470ea5ef433",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-03T22:44:25Z",
+      "message": "Merge pull request #486 from zhuzhichao/patch-1"
+    },
+    {
+      "sha": "75d440591c739bedeb4712dde906bfec104b8d6d",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-03T22:30:42Z",
+      "message": "Merge pull request #480 from ngm/master"
+    },
+    {
+      "sha": "a3ef6d78337f9dbe30bf56090441ef13f91cd009",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-03T22:30:24Z",
+      "message": "Merge branch 'master' into master"
+    },
+    {
+      "sha": "6d574b742505c80a7bd5f3e5b2d6b418d269de61",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-03T22:28:51Z",
+      "message": "Merge pull request #479 from totanbir/patch-1"
+    },
+    {
+      "sha": "d4260014c9631cb03cde089b2a9b80533e9f9566",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-03T22:22:46Z",
+      "message": "Merge pull request #476 from amadeann/patch-2"
+    },
+    {
+      "sha": "057f73a15a92f280f99260015eb3a807f2ab112e",
+      "author_login": "chiraggude",
+      "authored_at": "2019-08-03T22:20:35Z",
+      "message": "Merge pull request #473 from antonmedv/patch-1"
+    },
+    {
+      "sha": "a2d59e2102a89a7ece531a561a1418374bbc5016",
+      "author_login": "wmhello",
+      "authored_at": "2019-08-01T15:24:07Z",
+      "message": "laravel_template_with_vue"
+    },
+    {
+      "sha": "3fdece5c73f9f1aabd0d146a32bca81c937a7d97",
+      "author_login": "tabacitu",
+      "authored_at": "2019-07-30T07:05:34Z",
+      "message": "Fix typo Larcaon to Laracon"
+    },
+    {
+      "sha": "9bbab28cc0ed256473310592875b20ca16bcb869",
+      "author_login": "LaraShout",
+      "authored_at": "2019-05-20T11:41:38Z",
+      "message": "larashout link added"
+    },
+    {
+      "sha": "8e4fdda64e58cfd589c000511e3ed1ed410374ae",
+      "author_login": "jinva",
+      "authored_at": "2019-05-05T01:33:05Z",
+      "message": "add page cache tool"
+    },
+    {
+      "sha": "7036db1070d10c93017149868e12989430bde755",
+      "author_login": "goodjack",
+      "authored_at": "2019-04-24T05:19:48Z",
+      "message": "Add Laravolt Avatar"
+    },
+    {
+      "sha": "019a15407912619b29e686e9195a7f2386a2c4f5",
+      "author_login": "aschmelyun",
+      "authored_at": "2019-04-17T16:56:19Z",
+      "message": "Adds larametrics to monitoring"
+    },
+    {
+      "sha": "c0515d4fc3692f3dde08fc509d83ec8e5db1c59f",
+      "author_login": "zhichao-poper",
+      "authored_at": "2019-03-28T09:39:11Z",
+      "message": "folkloreinc graphql is no longuer maintained"
+    },
+    {
+      "sha": "f7f6c5eecd386a8b3d7caebae200f9c421896dd0",
+      "author_login": "ngm",
+      "authored_at": "2019-03-05T21:11:54Z",
+      "message": "Add Pixelfed"
+    },
+    {
+      "sha": "c80b387bb3d064cfd1771747f2507a380d8a2767",
+      "author_login": "totanbir",
+      "authored_at": "2019-02-27T07:41:16Z",
+      "message": "Added laravel Bangladesh Community"
+    },
+    {
+      "sha": "d26b9f37ccff77d54c3dfb3e9ff700f1bf95bdf6",
+      "author_login": "amadeann",
+      "authored_at": "2019-01-29T08:08:33Z",
+      "message": "Added Matt Stauffer's examples of using Illuminate components"
+    },
+    {
+      "sha": "c3755514685c1db5e29fdd237d5425bd8a254351",
+      "author_login": "antonmedv",
+      "authored_at": "2019-01-27T02:56:33Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f498ad470ad3fc14d3e9889caba5b2b8c19e0d39",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T23:16:21Z",
+      "message": "Update requirements"
+    },
+    {
+      "sha": "544d8dada90d3fec323db3de225fa239de4e6567",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T23:03:16Z",
+      "message": "Merge pull request #464 from alefesouza/master"
+    },
+    {
+      "sha": "9aded83e6b2a907ace84af32521c8c5fea98882d",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T23:02:55Z",
+      "message": "Merge branch 'master' into master"
+    },
+    {
+      "sha": "d1309de37a21a458042861b6200713dac23ab1ee",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T23:02:02Z",
+      "message": "Merge pull request #465 from skadimoolam/master"
+    },
+    {
+      "sha": "08e3621fc30c7cb6ea9d6be5e20bbe5b1938b07b",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T23:00:05Z",
+      "message": "Merge pull request #463 from BePsvPT-Fork/add-secure-headers"
+    },
+    {
+      "sha": "ead66e70df8b2a42e037b29140e62ebe8800ce48",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T22:59:39Z",
+      "message": "Merge branch 'master' into add-secure-headers"
+    },
+    {
+      "sha": "7afbc3a7ee3efbadbf063dc73416d0ff00a08727",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T22:58:29Z",
+      "message": "Merge pull request #462 from imanghafoori1/master"
+    },
+    {
+      "sha": "aa8660e1b75108a78aa49da39cf6ccf109723cf5",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T22:57:40Z",
+      "message": "Merge pull request #461 from maxolex/patch-2"
+    },
+    {
+      "sha": "d50854c7d418a60e6f8d452a7c89e9dce792717e",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T22:57:33Z",
+      "message": "Merge branch 'master' into patch-2"
+    },
+    {
+      "sha": "5e3430f748904f679568c5410f2329c187034e0f",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T22:55:16Z",
+      "message": "Merge pull request #459 from aocneanu/master"
+    },
+    {
+      "sha": "7d4d5368bdb3c00b2d562794f8fefc5bbe65c3e1",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T22:54:36Z",
+      "message": "Merge pull request #458 from rap2hpoutre/patch-5"
+    },
+    {
+      "sha": "823ac4aa09dc04fc1344189607e47755ff84ea13",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T22:54:29Z",
+      "message": "Merge branch 'master' into patch-5"
+    },
+    {
+      "sha": "74a8b5437574ba80c85c917f621b552c479c3bea",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T22:53:18Z",
+      "message": "Merge pull request #457 from rap2hpoutre/patch-4"
+    },
+    {
+      "sha": "83a33ab1edb51dca07db38dae61935a785a98aa1",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T22:52:33Z",
+      "message": "Merge pull request #455 from jl9404/chore/add-grimzy-laravel-mysql-spatial"
+    },
+    {
+      "sha": "0d89b8db71f24a977cf13f5d5cfdb6b145bd1281",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T22:50:26Z",
+      "message": "Merge pull request #453 from billmn/patch-2"
+    },
+    {
+      "sha": "d381f253d46237ade8576073caa76fd43fcd36a9",
+      "author_login": "chiraggude",
+      "authored_at": "2019-01-26T19:37:13Z",
+      "message": "Merge pull request #450 from cybercog/feature/laravel-love"
+    },
+    {
+      "sha": "1bacbf774b714aa0ebc552a5ba46a610cce38772",
+      "author_login": "skadimoolam",
+      "authored_at": "2018-12-21T01:08:55Z",
+      "message": "Added LaravelCollections.com"
+    },
+    {
+      "sha": "cdf77362ee5cdbd75767ee847250e908a7554eea",
+      "author_login": "imanghafoori1",
+      "authored_at": "2018-12-19T07:00:30Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "6cfe8a7d8c01c32c3a43bf318f547bb391576fc4",
+      "author_login": "skadimoolam",
+      "authored_at": "2018-12-05T07:12:03Z",
+      "message": "Added LaravelLinks to misc category"
+    },
+    {
+      "sha": "6888061be159c06a4ef2e8b75af630e63cacbdd7",
+      "author_login": "alefesouza",
+      "authored_at": "2018-12-03T16:04:26Z",
+      "message": "Add alefesouza/laravel-vue-boilerplate"
+    },
+    {
+      "sha": "0c227ad1e88c5a80e578840555f104bc314c20d2",
+      "author_login": "bepsvpt",
+      "authored_at": "2018-11-27T13:10:14Z",
+      "message": "add bepsvpt/secure-headers"
+    },
+    {
+      "sha": "849bc6c6c0fd28eb8daa279af84a3e820c923665",
+      "author_login": "imanghafoori1",
+      "authored_at": "2018-11-26T12:21:39Z",
+      "message": "Added laravel-heyman package"
+    }
+  ],
+  "issues": [
+    {
+      "number": 675,
+      "title": "Add UnfoldCMS to Content Management Systems",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-24T00:54:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 674,
+      "title": "Add resource \"Learn Laravel\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-16T13:28:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 673,
+      "title": "Add UnfoldCMS to Content Management Systems",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-13T14:41:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 668,
+      "title": "Add 'oxhq/canio' package to README",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-18T20:50:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 667,
+      "title": "Add Laravel CSP Generator",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-10T08:18:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 666,
+      "title": "Add Laravel Permissions Redis to Authentication & Authorization",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-04T14:55:56Z",
+      "closed_at": "2026-05-05T14:21:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 665,
+      "title": "Add Ploi Cloud to Application Hosting and Application Deployment",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-04T09:36:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 664,
+      "title": "Add Laravel Multi-Tenant SaaS Starter to Starter Projects",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-02T09:16:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 663,
+      "title": "Add Laravel Blueprint to the README links",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-02T07:36:55Z",
+      "closed_at": "2026-06-06T03:48:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 662,
+      "title": "Add Crontinel — Laravel-native Horizon, queue & cron monitoring",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-21T08:44:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 661,
+      "title": "Add Monolith starter-kit",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-20T12:44:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 660,
+      "title": "Add Laravel packages: atlas, drift, forecast, inbox, sage",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-10T17:39:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 659,
+      "title": "Add Laravel packages: atlas, drift, forecast, inbox, sage",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-10T17:36:27Z",
+      "closed_at": "2026-04-10T17:37:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 658,
+      "title": "Add Laravel packages: atlas, drift, forecast, inbox, sage",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-10T17:32:56Z",
+      "closed_at": "2026-04-10T17:34:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 654,
+      "title": "Add Tapix - CSV Import Wizard for Laravel",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-06T14:25:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 651,
+      "title": "Add Laravel DB Monitor package",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-03T08:09:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 645,
+      "title": "Add Laravel Email Preference Center",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-16T12:40:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 644,
+      "title": "Add MYDY Dashboard to Codebases for Reference",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-28T19:01:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 643,
+      "title": "Add Laravel Nexus - multi-channel inventory sync driver",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-20T06:02:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 642,
+      "title": "Add Aura UI to Utilities section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-18T05:19:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 641,
+      "title": "Add LaraPlugins.io link to README for finding healthy packages",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-27T15:44:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 640,
+      "title": "Add Laravel Coolify to Application Deployment",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-01-15T20:45:43Z",
+      "closed_at": "2026-01-15T20:49:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 639,
+      "title": "SiteKit.Dev - server management platform",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-04T00:34:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 638,
+      "title": "Add Vedika API",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-01-03T09:46:52Z",
+      "closed_at": "2026-01-03T09:58:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 637,
+      "title": "Add Vedika API to Third-party Service Integration",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-01-03T04:56:55Z",
+      "closed_at": "2026-01-03T08:52:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 636,
+      "title": "Add LaraPlugins resource to README under miscelanaus",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-22T13:13:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 635,
+      "title": "Add Laravel Health package",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-12T12:11:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 634,
+      "title": "Add Inertia to JavaScript integration section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-11-25T06:59:40Z",
+      "closed_at": "2025-11-25T07:06:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 633,
+      "title": "Add Laravel Log Cleaner to Debugging & Profiling section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-06T03:11:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 632,
+      "title": "Add Laravel AI Email Assistant to README",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-01T11:37:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 631,
+      "title": "Add Laravel Tab Session Guard to README",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-09-05T17:38:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 630,
+      "title": "Add It Stuff Solutions to Blogs section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-08-28T07:44:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 629,
+      "title": "Laravel",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-03T23:21:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 628,
+      "title": "Added Laravel RBAC Tutorial",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-01-31T08:28:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 627,
+      "title": "Add helpful varouse packages",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-11-30T20:42:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 626,
+      "title": "Added JetShip Laravel SaaS Boilerplate",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-11-04T12:41:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 625,
+      "title": "add https://github.com/joukhar/laravel-pixabay",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-21T21:30:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 624,
+      "title": "SharpAPI AI Workflow Automation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-07-03T15:59:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 623,
+      "title": "Add french youtuber to vidéos list",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-11-26T11:33:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 622,
+      "title": "Update Readme",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-06-16T07:12:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 621,
+      "title": "Add hydra",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-06-12T13:46:12Z",
+      "closed_at": "2025-07-09T09:31:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 620,
+      "title": "add tailwind integration",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-05-12T10:31:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 619,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-05-12T08:11:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 618,
+      "title": "Add Filament admin panel to Utilities",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-05T07:05:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 617,
+      "title": "deleted Telegram abandoned channel link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-03-01T15:06:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 616,
+      "title": "add LIRT to list of resource",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-02-24T21:51:07Z",
+      "closed_at": "2023-02-25T18:01:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 615,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-02-11T16:19:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 614,
+      "title": "Added Laravel Queues in Action book",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-11-30T11:13:50Z",
+      "closed_at": "2022-11-30T11:14:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 613,
+      "title": "Add Feature Flags package to the Utilities Section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-27T03:47:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 612,
+      "title": "Add Starter Project: Laravel + Vue 3 Boilerplate",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-01T14:13:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 611,
+      "title": "Add Laravel Upgrade Helper",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-09-19T15:16:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 610,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-08-02T07:53:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 609,
+      "title": "DEAD REPO. NEW FORK AT https://github.com/titonova/awesome-laravel",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-19T07:09:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 608,
+      "title": "Add EspecializaTI Videos",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-06T14:13:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 607,
+      "title": "Added Sneat Free Bootstrap 5 HTML Laravel Admin Template",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-04-26T08:04:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 606,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-04-03T19:40:10Z",
+      "closed_at": "2023-06-25T10:36:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 605,
+      "title": "Add MailEclipse Package",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-03-03T18:22:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 604,
+      "title": "removing broken links",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-02-18T13:44:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 603,
+      "title": "Remove Rocketeer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-06T15:13:19Z",
+      "closed_at": "2022-03-21T23:13:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 602,
+      "title": "Delete not working link",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-11-06T18:53:45Z",
+      "closed_at": "2023-02-24T16:26:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 601,
+      "title": "Hacktoberfest",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-28T18:23:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 600,
+      "title": "Add Blast — Storybook for Laravel Blade",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-10-28T17:33:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 599,
+      "title": "add smknstd's modern php cheatsheet in tutorial section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-10-22T10:29:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 598,
+      "title": "Add Laravel Model Settings package",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-10-20T10:21:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 597,
+      "title": "Add Laravel JSON:API",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-10-13T19:23:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 596,
+      "title": "Added Laravel React Boilerplate",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-10-13T16:03:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 595,
+      "title": "Added Materio Free Vuetify VueJS Laravel Admin Template",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-10-01T06:30:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 594,
+      "title": "Added some renoki-co/* packages",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-06T10:20:22Z",
+      "closed_at": "2021-11-08T22:21:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 593,
+      "title": "Add official laravel blog",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-07-26T13:45:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 592,
+      "title": "Fix Pusher url",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-07-25T21:00:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 591,
+      "title": "Add Lumen Boilerplate in Starter Projects",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-21T17:02:11Z",
+      "closed_at": "2023-08-02T06:41:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 590,
+      "title": "Add Adminer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-21T16:52:51Z",
+      "closed_at": "2023-08-12T05:33:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 589,
+      "title": "Changed Laravel Korea domain",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-21T05:13:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 588,
+      "title": "Added link to the example of Laravel app that runs in a docker container with RoadRunner",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-12T19:35:44Z",
+      "closed_at": "2021-10-05T13:50:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 587,
+      "title": "Added docker-laravel",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-10T17:35:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 586,
+      "title": "Added Bagisto In Utilities Section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-03-15T08:21:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 585,
+      "title": "Is this a dead repository?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-13T14:09:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 584,
+      "title": "Added Compoships (Multi-columns relationships)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-02-07T00:12:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 583,
+      "title": "Updated Orchid link/description",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-12T00:11:24Z",
+      "closed_at": "2023-04-12T00:47:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 582,
+      "title": "Add Taskord to Codebases for Reference",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-24T10:28:04Z",
+      "closed_at": "2021-12-22T05:57:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 581,
+      "title": "Add Azuriom",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-12T07:06:52Z",
+      "closed_at": "2024-05-12T15:40:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 580,
+      "title": "Add Crater Invoice",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-12-07T14:57:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 579,
+      "title": "German Laravel Community",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-11-23T16:02:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 578,
+      "title": "Add dotenvdiff to utilities",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-11-04T15:59:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 577,
+      "title": "Removing dead meetup link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-10-29T13:52:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 576,
+      "title": "Add Maileclipse package",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-10-27T02:28:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 575,
+      "title": "Add Laravel Surveillance Package",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-10-10T16:46:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 574,
+      "title": "added It Solution Stuff for Tutorial & Blogs",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-02T19:47:21Z",
+      "closed_at": "2021-02-28T13:39:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 573,
+      "title": "Added Eloquent Performance Pattern Video course",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-02T14:56:28Z",
+      "closed_at": "2024-03-04T15:15:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 572,
+      "title": "Added Laravel Sanctum",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-09-28T05:55:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 571,
+      "title": "Adds laravel-microscope",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-09-21T05:31:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 570,
+      "title": "Fixing link to Spatie's Packages",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-09-09T19:00:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 569,
+      "title": "Add Laravel Pseudo Daemons package",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-09T18:26:27Z",
+      "closed_at": "2020-09-09T18:27:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 568,
+      "title": "Added Cleaver to app deployment",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-08-07T14:33:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 567,
+      "title": "Added Cleaver to app hosting section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-08-07T14:30:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 566,
+      "title": "Add top 1,000 laravel packages site",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-08-04T14:44:50Z",
+      "closed_at": "2023-06-20T01:53:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 565,
+      "title": "feat: Laravel Angola",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-07-26T18:45:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 564,
+      "title": "Add Optic",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-07-23T21:54:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 563,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-07-16T04:05:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 562,
+      "title": "Laravel-lang is for 77 languages",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-07-13T09:22:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "chiraggude",
+      "contributions": 583
+    },
+    {
+      "login": "vinkla",
+      "contributions": 25
+    },
+    {
+      "login": "freekmurze",
+      "contributions": 19
+    },
+    {
+      "login": "insign",
+      "contributions": 13
+    },
+    {
+      "login": "kunalvarma05",
+      "contributions": 10
+    },
+    {
+      "login": "GrahamCampbell",
+      "contributions": 9
+    },
+    {
+      "login": "saadel",
+      "contributions": 5
+    },
+    {
+      "login": "rawrstack",
+      "contributions": 5
+    },
+    {
+      "login": "dikiaap",
+      "contributions": 5
+    },
+    {
+      "login": "kyranb",
+      "contributions": 4
+    },
+    {
+      "login": "UltraWalker",
+      "contributions": 4
+    },
+    {
+      "login": "rap2hpoutre",
+      "contributions": 4
+    },
+    {
+      "login": "mpociot",
+      "contributions": 4
+    },
+    {
+      "login": "imanghafoori1",
+      "contributions": 4
+    },
+    {
+      "login": "gauravmak",
+      "contributions": 4
+    },
+    {
+      "login": "billmn",
+      "contributions": 4
+    },
+    {
+      "login": "nicholeous",
+      "contributions": 3
+    },
+    {
+      "login": "naneri",
+      "contributions": 3
+    },
+    {
+      "login": "VeeeneX",
+      "contributions": 3
+    },
+    {
+      "login": "PHPJunior",
+      "contributions": 3
+    },
+    {
+      "login": "luceos",
+      "contributions": 3
+    },
+    {
+      "login": "rappasoft",
+      "contributions": 3
+    },
+    {
+      "login": "drehimself",
+      "contributions": 3
+    },
+    {
+      "login": "myowinthein",
+      "contributions": 2
+    },
+    {
+      "login": "nWidart",
+      "contributions": 2
+    },
+    {
+      "login": "nunomaduro",
+      "contributions": 2
+    },
+    {
+      "login": "ppapadatis",
+      "contributions": 2
+    },
+    {
+      "login": "paulofreitas",
+      "contributions": 2
+    },
+    {
+      "login": "sojeda",
+      "contributions": 2
+    },
+    {
+      "login": "sdavara",
+      "contributions": 2
+    },
+    {
+      "login": "svenluijten",
+      "contributions": 2
+    },
+    {
+      "login": "magelfik",
+      "contributions": 2
+    },
+    {
+      "login": "vinicius73",
+      "contributions": 2
+    },
+    {
+      "login": "wayanjimmy",
+      "contributions": 2
+    },
+    {
+      "login": "yadakhov",
+      "contributions": 2
+    },
+    {
+      "login": "yhbyun",
+      "contributions": 2
+    },
+    {
+      "login": "asvae",
+      "contributions": 2
+    },
+    {
+      "login": "manik005",
+      "contributions": 2
+    },
+    {
+      "login": "nickurt",
+      "contributions": 2
+    },
+    {
+      "login": "themsaid",
+      "contributions": 2
+    },
+    {
+      "login": "xwlee",
+      "contributions": 2
+    },
+    {
+      "login": "recca0120",
+      "contributions": 2
+    },
+    {
+      "login": "skadimoolam",
+      "contributions": 2
+    },
+    {
+      "login": "theafolayan",
+      "contributions": 2
+    },
+    {
+      "login": "arcanedev-maroc",
+      "contributions": 2
+    },
+    {
+      "login": "amadeann",
+      "contributions": 2
+    },
+    {
+      "login": "AndyWendt",
+      "contributions": 2
+    },
+    {
+      "login": "yajra",
+      "contributions": 2
+    },
+    {
+      "login": "clarkeash",
+      "contributions": 2
+    },
+    {
+      "login": "bhaveshdaswani93",
+      "contributions": 2
+    },
+    {
+      "login": "appleboy",
+      "contributions": 2
+    },
+    {
+      "login": "summerblue",
+      "contributions": 2
+    },
+    {
+      "login": "tabacitu",
+      "contributions": 2
+    },
+    {
+      "login": "drakakisgeo",
+      "contributions": 2
+    },
+    {
+      "login": "driesvints",
+      "contributions": 2
+    },
+    {
+      "login": "francescomalatesta",
+      "contributions": 2
+    },
+    {
+      "login": "allcreatures",
+      "contributions": 2
+    },
+    {
+      "login": "UksusoFF",
+      "contributions": 2
+    },
+    {
+      "login": "mathiasgrimm",
+      "contributions": 2
+    },
+    {
+      "login": "welcoMattic",
+      "contributions": 2
+    },
+    {
+      "login": "maxolex",
+      "contributions": 2
+    },
+    {
+      "login": "mitulgolakiya",
+      "contributions": 2
+    },
+    {
+      "login": "tymondesigns",
+      "contributions": 1
+    },
+    {
+      "login": "SapneshNaik",
+      "contributions": 1
+    },
+    {
+      "login": "santigarcor",
+      "contributions": 1
+    },
+    {
+      "login": "stancl",
+      "contributions": 1
+    },
+    {
+      "login": "SamuelMoraesF",
+      "contributions": 1
+    },
+    {
+      "login": "rhynodesigns",
+      "contributions": 1
+    },
+    {
+      "login": "fridzema",
+      "contributions": 1
+    },
+    {
+      "login": "ngm",
+      "contributions": 1
+    },
+    {
+      "login": "acacha",
+      "contributions": 1
+    },
+    {
+      "login": "smayzes",
+      "contributions": 1
+    },
+    {
+      "login": "shefi",
+      "contributions": 1
+    },
+    {
+      "login": "sleimanx2",
+      "contributions": 1
+    },
+    {
+      "login": "z-song",
+      "contributions": 1
+    },
+    {
+      "login": "stefanzweifel",
+      "contributions": 1
+    },
+    {
+      "login": "stevepop",
+      "contributions": 1
+    },
+    {
+      "login": "sunel",
+      "contributions": 1
+    },
+    {
+      "login": "totanbir",
+      "contributions": 1
+    },
+    {
+      "login": "keevitaja",
+      "contributions": 1
+    },
+    {
+      "login": "nickdenardis",
+      "contributions": 1
+    },
+    {
+      "login": "nikolaynizruhin",
+      "contributions": 1
+    },
+    {
+      "login": "Maxlab",
+      "contributions": 1
+    },
+    {
+      "login": "grrnikos",
+      "contributions": 1
+    },
+    {
+      "login": "odirleiborgert",
+      "contributions": 1
+    },
+    {
+      "login": "unicodeveloper",
+      "contributions": 1
+    },
+    {
+      "login": "Otienoh",
+      "contributions": 1
+    },
+    {
+      "login": "patrickbrouwers",
+      "contributions": 1
+    },
+    {
+      "login": "paulayuk",
+      "contributions": 1
+    },
+    {
+      "login": "pkarastelev",
+      "contributions": 1
+    },
+    {
+      "login": "Aufree",
+      "contributions": 1
+    },
+    {
+      "login": "paulredmond",
+      "contributions": 1
+    },
+    {
+      "login": "leggetter",
+      "contributions": 1
+    },
+    {
+      "login": "rahman95",
+      "contributions": 1
+    },
+    {
+      "login": "bantya",
+      "contributions": 1
+    },
+    {
+      "login": "ReadmeCritic",
+      "contributions": 1
+    },
+    {
+      "login": "ricardobarantini",
+      "contributions": 1
+    },
+    {
+      "login": "creator4ever",
+      "contributions": 1
+    },
+    {
+      "login": "crnkovic",
+      "contributions": 1
+    },
+    {
+      "login": "cytopia",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T12:00:25.193808Z"
+}

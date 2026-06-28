@@ -1,0 +1,694 @@
+{
+  "full_name": "wong2/chatgpt-google-extension",
+  "owner": "wong2",
+  "name": "chatgpt-google-extension",
+  "url": "https://github.com/wong2/chatgpt-google-extension",
+  "description": "This project is deprecated. Check my new project ChatHub:",
+  "primary_language": "TypeScript",
+  "topics": [
+    "browser-extension",
+    "chatgpt",
+    "chrome-extension",
+    "firefox-addon"
+  ],
+  "license_spdx": "GPL-3.0",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 13079,
+  "forks": 1458,
+  "open_issues": 106,
+  "created_at": "2022-12-04T13:33:22Z",
+  "pushed_at": "2024-08-14T17:49:27Z",
+  "updated_at": "2026-06-28T02:54:44Z",
+  "commits": [
+    {
+      "sha": "62ec83f51081cc9f9cf32acf2f88ddd7da50e05b",
+      "author_login": "wong2",
+      "authored_at": "2023-10-25T09:48:26Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3a7827032385d2de6a15e79dcef29f2d1da79fb2",
+      "author_login": "wong2",
+      "authored_at": "2023-09-19T06:29:11Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "cba60adefb3220ad016d788a2cd3fbe2b0e17aab",
+      "author_login": "wong2",
+      "authored_at": "2023-08-08T03:12:34Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "83ce5ba3106ce9d6f2887109e16fa30ffdafe0ab",
+      "author_login": "wong2",
+      "authored_at": "2023-07-07T12:17:47Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "4c950f7d269a6a25ec13a93ce263f050421a0611",
+      "author_login": "wong2",
+      "authored_at": "2023-03-09T07:48:06Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "44e50611d22f55c9c3bff27f3d8664ea9149499f",
+      "author_login": "wong2",
+      "authored_at": "2023-03-08T05:52:45Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7c52dc9b43b905b7a9ef82953eecc49dd5a3f247",
+      "author_login": "wong2",
+      "authored_at": "2023-02-20T11:55:24Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "2745cb82f219e52e038290353e2c01b7ea3310b1",
+      "author_login": "takagimeow",
+      "authored_at": "2023-02-13T11:27:23Z",
+      "message": "Add Japanese locale (#254)"
+    },
+    {
+      "sha": "bfca9c838be703ac33a2180c690a48d9e6f51745",
+      "author_login": "wong2",
+      "authored_at": "2023-02-11T07:54:22Z",
+      "message": "Release v1.17.0"
+    },
+    {
+      "sha": "3d889a0d1e73540cb4ca7860b8e21dffc679b595",
+      "author_login": "wong2",
+      "authored_at": "2023-02-11T07:54:04Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "28687110a70246fa8f964892dd0f36f23df71476",
+      "author_login": "wong2",
+      "authored_at": "2023-02-11T07:52:36Z",
+      "message": "Fetch chatgpt models on request (#245)"
+    },
+    {
+      "sha": "0b4fb93d89cc19884fe147be03af366444b931c6",
+      "author_login": "wong2",
+      "authored_at": "2023-02-10T14:35:32Z",
+      "message": "Release v1.16.7"
+    },
+    {
+      "sha": "c54528b0e13058ab78bfb433c92603db017d1b6b",
+      "author_login": "wong2",
+      "authored_at": "2023-02-10T14:33:37Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d878bfa7f1f0f2febf3dddf99bcf2ff4ec343edd",
+      "author_login": "NetManDE",
+      "authored_at": "2023-02-09T08:45:58Z",
+      "message": "Added locale DE (#227)"
+    },
+    {
+      "sha": "ea84a8fb0566885b3ee9ff069818d2f28a346a91",
+      "author_login": "CODe5753",
+      "authored_at": "2023-02-09T08:24:43Z",
+      "message": "Modify locale ko (#240)"
+    },
+    {
+      "sha": "6898dcc5a91ded76a57ba225de1344692146ff79",
+      "author_login": "wong2",
+      "authored_at": "2023-02-06T13:55:46Z",
+      "message": "Release v1.16.6"
+    },
+    {
+      "sha": "3ce0a4d71bf71a64fca07248012373ac497eda72",
+      "author_login": "wong2",
+      "authored_at": "2023-02-06T13:55:27Z",
+      "message": "Remove axiom code"
+    },
+    {
+      "sha": "73940f3d78dede936529b9573df25f40a850ceca",
+      "author_login": "wong2",
+      "authored_at": "2023-02-05T12:01:52Z",
+      "message": "Show extension version in options page"
+    },
+    {
+      "sha": "5c512d444c5f8cae86bd786930dd2b2331dd7f19",
+      "author_login": "wong2",
+      "authored_at": "2023-02-04T09:46:19Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "5d525cc3cd76648929e61600324b6203209bac59",
+      "author_login": "wong2",
+      "authored_at": "2023-02-04T09:43:16Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "df837742acc97ba9767c8deb72803c5dfa60917b",
+      "author_login": "wong2",
+      "authored_at": "2023-02-04T09:24:44Z",
+      "message": "Release v1.16.5"
+    },
+    {
+      "sha": "cf6924338c7d35a96eea5ad16fc2d43fba9e48ae",
+      "author_login": "wong2",
+      "authored_at": "2023-02-04T09:24:31Z",
+      "message": "Tweak AI provider select style"
+    },
+    {
+      "sha": "db625b650a8a7e1cc56086ed24577a458c2d9377",
+      "author_login": "wong2",
+      "authored_at": "2023-02-04T09:20:30Z",
+      "message": "Release v1.16.4"
+    },
+    {
+      "sha": "dc508398307ce7375934310857e97e1c1fcfb839",
+      "author_login": "wong2",
+      "authored_at": "2023-02-04T09:18:00Z",
+      "message": "Make chatgpt model check more general"
+    },
+    {
+      "sha": "a598db6f0936211e28faf8c93c80b308fe5ab4fd",
+      "author_login": "wong2",
+      "authored_at": "2023-02-04T07:28:29Z",
+      "message": "Refactor: move api calls to module"
+    },
+    {
+      "sha": "eb6702c29df85ff1d8b73dbea19c93411f1e13d0",
+      "author_login": "wong2",
+      "authored_at": "2023-02-02T16:03:42Z",
+      "message": "Release v1.16.3"
+    },
+    {
+      "sha": "1fcd9b807ee1f93524eca6fa7f427f51d8e9e9e0",
+      "author_login": "wong2",
+      "authored_at": "2023-02-02T16:00:20Z",
+      "message": "Fetch openai model names from api"
+    },
+    {
+      "sha": "5cb4c00799a4c2740201ef121e5fbe30d43c9eb1",
+      "author_login": "wong2",
+      "authored_at": "2023-02-02T15:39:33Z",
+      "message": "Fetch model name from api"
+    },
+    {
+      "sha": "8b290f52f4ee1e235d238fd2ccce5e05256eb3a2",
+      "author_login": "wong2",
+      "authored_at": "2023-02-02T15:23:51Z",
+      "message": "Revert model name to text-davinci-002-render"
+    },
+    {
+      "sha": "dcb9bf859e14b75af85628198b17623bdea1954c",
+      "author_login": "wong2",
+      "authored_at": "2023-02-02T10:05:44Z",
+      "message": "Release v1.16.2"
+    },
+    {
+      "sha": "b66238fa0cd27d11609fc75008d52724a2b80d24",
+      "author_login": "wong2",
+      "authored_at": "2023-02-02T10:05:27Z",
+      "message": "Update cloudflare error tip"
+    },
+    {
+      "sha": "51ca07ffdd437fc1e0aad406e47262f4f7ebd55e",
+      "author_login": "wong2",
+      "authored_at": "2023-02-02T10:02:49Z",
+      "message": "Release v1.16.1"
+    },
+    {
+      "sha": "42bc36f4dedaf20e1219a2033d96b0a38b60b1ba",
+      "author_login": "wong2",
+      "authored_at": "2023-02-02T10:01:33Z",
+      "message": "Change text-chat-davinci-002-20230126 model to default one"
+    },
+    {
+      "sha": "0a2d8d890dabfc8c7c92c678727e8fa1f9b30643",
+      "author_login": "wong2",
+      "authored_at": "2023-02-02T09:59:47Z",
+      "message": "Improve chatgpt model with prompt engineering"
+    },
+    {
+      "sha": "6cf7cf5d94ab14335f2ac51194c3fcde3d363f3f",
+      "author_login": "wong2",
+      "authored_at": "2023-02-02T06:35:16Z",
+      "message": "Release v1.16.0"
+    },
+    {
+      "sha": "71e465acf6b701a24cd06758781823ee3329de3d",
+      "author_login": "wong2",
+      "authored_at": "2023-02-02T06:05:02Z",
+      "message": "Use text-davinci-002-render-next model for chatgpt"
+    },
+    {
+      "sha": "61d990c13639b4b7e50802182d4324c5b75ef16e",
+      "author_login": "wong2",
+      "authored_at": "2023-02-01T06:00:57Z",
+      "message": "AI provider support"
+    },
+    {
+      "sha": "9ae7199e3c55d19c4134cfef9ccde2207f342f8e",
+      "author_login": "wong2",
+      "authored_at": "2023-02-01T04:05:13Z",
+      "message": "Release v1.15.7"
+    },
+    {
+      "sha": "731851e14be6b01a63d0b90173f27bae20492364",
+      "author_login": "wong2",
+      "authored_at": "2023-02-01T04:04:55Z",
+      "message": "Change theme options to row"
+    },
+    {
+      "sha": "c3260c345fd5e5201c66b4f974e570c0ec515c1d",
+      "author_login": "wong2",
+      "authored_at": "2023-01-29T06:03:46Z",
+      "message": "Fix badge links"
+    },
+    {
+      "sha": "dbf7d4f9365d2b26116390e68ba5b3985ba8af38",
+      "author_login": "wong2",
+      "authored_at": "2023-01-29T04:43:00Z",
+      "message": "Add badges to README"
+    },
+    {
+      "sha": "bf321ddc6f3386d8e248ae82c43d6999390420bb",
+      "author_login": "wong2",
+      "authored_at": "2023-01-28T03:38:55Z",
+      "message": "Release v1.15.6"
+    },
+    {
+      "sha": "5dcf20e20202f39e18f236b544d8c086d2d479f5",
+      "author_login": "wong2",
+      "authored_at": "2023-01-28T03:38:19Z",
+      "message": "Add rating tip"
+    },
+    {
+      "sha": "38f50c543fd40aca543772fc5f6000c0feef4350",
+      "author_login": "wong2",
+      "authored_at": "2023-01-28T03:26:13Z",
+      "message": "Make promotion card body clickable"
+    },
+    {
+      "sha": "9e161b36f8b9ddcc1a13102060632e4d7f2b678f",
+      "author_login": "wong2",
+      "authored_at": "2023-01-28T01:20:00Z",
+      "message": "Update installation link"
+    },
+    {
+      "sha": "ce4d1f1e2cc4e10b409de270391db251f888c000",
+      "author_login": "wong2",
+      "authored_at": "2023-01-27T11:10:49Z",
+      "message": "Add badges to README"
+    },
+    {
+      "sha": "df97bcbe019962e79b26eb8d40de717a4629549f",
+      "author_login": "wong2",
+      "authored_at": "2023-01-27T08:46:35Z",
+      "message": "Upgrade esbuild"
+    },
+    {
+      "sha": "c5fb152ef91a95c90fe872e2835b7d21eec38fa2",
+      "author_login": "wong2",
+      "authored_at": "2023-01-26T05:40:46Z",
+      "message": "Release v1.15.5"
+    },
+    {
+      "sha": "cc2eb87f2b4c8fa6258d26a2208b75ac8f98b6f2",
+      "author_login": "wong2",
+      "authored_at": "2023-01-26T05:40:05Z",
+      "message": "Use axiom to capture events"
+    },
+    {
+      "sha": "fa3910864116ea91006e64a1e6c970dd25162f21",
+      "author_login": "p19ky",
+      "authored_at": "2023-01-24T10:01:09Z",
+      "message": "added romanian and hungarian locales (#181)"
+    },
+    {
+      "sha": "e02102ae96249556bd015f2b038f5fc36cca99c3",
+      "author_login": "dtkdt100",
+      "authored_at": "2023-01-24T09:25:56Z",
+      "message": "added hebrew local (#193)"
+    },
+    {
+      "sha": "7507fea0287a88282740741cdd22cf6984f1fdee",
+      "author_login": "wong2",
+      "authored_at": "2023-01-24T07:07:15Z",
+      "message": "Release v1.15.4"
+    },
+    {
+      "sha": "5ff6e7a4b757c00e662ecbe4503eb83b407bb67f",
+      "author_login": "wong2",
+      "authored_at": "2023-01-24T07:06:11Z",
+      "message": "Add auto delete option"
+    },
+    {
+      "sha": "d5ee726f6430ec9e68e33a70bb69be0a8626b624",
+      "author_login": "wong2",
+      "authored_at": "2023-01-24T06:54:58Z",
+      "message": "Open options page on installation"
+    },
+    {
+      "sha": "673770d801db0b31726406c8a5eab7910d9b859c",
+      "author_login": "wong2",
+      "authored_at": "2023-01-24T06:52:24Z",
+      "message": "Improve options page"
+    },
+    {
+      "sha": "8e34041c854f242dadef1c2da03d610a477a6550",
+      "author_login": "wong2",
+      "authored_at": "2023-01-22T11:11:50Z",
+      "message": "Release v1.15.3"
+    },
+    {
+      "sha": "8e4fd25db5887638f931bcd20f18358206ae80b2",
+      "author_login": "wong2",
+      "authored_at": "2023-01-22T05:39:22Z",
+      "message": "Add link to promotion text"
+    },
+    {
+      "sha": "8309fe9cc585059f7765e6e2f0cde4da8c4df40a",
+      "author_login": "wong2",
+      "authored_at": "2023-01-22T05:35:39Z",
+      "message": "Fix markdown style overwrite"
+    },
+    {
+      "sha": "27862284f0604926a4219c5da3dc9ec5057371fe",
+      "author_login": "wong2",
+      "authored_at": "2023-01-22T05:19:29Z",
+      "message": "Improve promotion style"
+    },
+    {
+      "sha": "43b5982a6ff6588c71fff57bb634bcf5c6e44939",
+      "author_login": "wong2",
+      "authored_at": "2023-01-21T03:38:03Z",
+      "message": "Release v1.15.2"
+    },
+    {
+      "sha": "5cc308fbdd53af9ef4d812a6ac11755954a312ac",
+      "author_login": "wong2",
+      "authored_at": "2023-01-21T03:37:38Z",
+      "message": "Add Portuguese locales"
+    },
+    {
+      "sha": "93cbbb79e320752d6cb61013d6ab94b351e2560a",
+      "author_login": "wong2",
+      "authored_at": "2023-01-17T14:39:35Z",
+      "message": "Release v1.15.1"
+    },
+    {
+      "sha": "3aee3ffbbb7c2f506ddaf3ee2bc0f0d5fb7d21d8",
+      "author_login": "wong2",
+      "authored_at": "2023-01-17T14:39:08Z",
+      "message": "Add Portuguese"
+    },
+    {
+      "sha": "8ad81f1b3bbe154c6304e0635ece6e4f87fab209",
+      "author_login": "wong2",
+      "authored_at": "2023-01-17T14:35:06Z",
+      "message": "Rename accessToken to token"
+    },
+    {
+      "sha": "b380fd602f937fa182d4dd7b23248e0efe9e0be3",
+      "author_login": "wong2",
+      "authored_at": "2023-01-17T09:39:07Z",
+      "message": "Fix long error message breaking style"
+    },
+    {
+      "sha": "81879d167a7453ea24c865f2bf49411b363c8c48",
+      "author_login": "wong2",
+      "authored_at": "2023-01-17T09:34:59Z",
+      "message": "Refactor message api"
+    },
+    {
+      "sha": "84d5ae09156f77dd4fcc287ec47bbd72906e1656",
+      "author_login": "wong2",
+      "authored_at": "2023-01-13T03:12:56Z",
+      "message": "Add german option"
+    },
+    {
+      "sha": "cf213f075509c4b47f6409b612fb17b12f22f959",
+      "author_login": "wong2",
+      "authored_at": "2023-01-12T06:34:51Z",
+      "message": "Release v1.15.0"
+    },
+    {
+      "sha": "d32f2260bc611d7761a9f4d8a11af22b3d13a351",
+      "author_login": "wong2",
+      "authored_at": "2023-01-11T14:57:49Z",
+      "message": "Add promotion card"
+    },
+    {
+      "sha": "9ebaa8a6736dd2c27ff5f6ba11bd3d898e3a9868",
+      "author_login": "wong2",
+      "authored_at": "2023-01-12T06:21:47Z",
+      "message": "Remove posthog"
+    },
+    {
+      "sha": "6cb78ce7402051f29e06d7ea79848139ebb6512b",
+      "author_login": "wong2",
+      "authored_at": "2023-01-11T08:49:55Z",
+      "message": "Release v1.14.3"
+    },
+    {
+      "sha": "20a50b0d0e5300d5ae0b7d94246a92893f0cb1f2",
+      "author_login": "wong2",
+      "authored_at": "2023-01-11T08:49:33Z",
+      "message": "Fix json parse error on unexpected data"
+    },
+    {
+      "sha": "2e3d2af0044d070331909b3e38d18f7f51390ca0",
+      "author_login": "hookzof",
+      "authored_at": "2023-01-11T04:41:38Z",
+      "message": "Add Russian locale (#177)"
+    },
+    {
+      "sha": "56111cfde7dee8f825f476228669be66589b938c",
+      "author_login": "hookzof",
+      "authored_at": "2023-01-11T04:41:12Z",
+      "message": "Add Ukrainian locale (#178)"
+    },
+    {
+      "sha": "a8213de0e5cd0edb13086c60f7c228db6e12efee",
+      "author_login": "wong2",
+      "authored_at": "2023-01-10T07:00:51Z",
+      "message": "Release v1.14.2"
+    },
+    {
+      "sha": "ed21635b73cdbcc45014e10f6c53817e4ece9eab",
+      "author_login": "wong2",
+      "authored_at": "2023-01-10T07:00:33Z",
+      "message": "Update posthog token"
+    },
+    {
+      "sha": "9845544882f102dbb8cb5626bddf4857f6ab07a0",
+      "author_login": "wong2",
+      "authored_at": "2023-01-10T06:59:19Z",
+      "message": "Add appName to locales"
+    },
+    {
+      "sha": "290c3e5db9ba8cbfd952f4a7759bcbe357ac7953",
+      "author_login": "wong2",
+      "authored_at": "2023-01-10T06:56:52Z",
+      "message": "Release v1.14.1"
+    },
+    {
+      "sha": "90fc8c0a9ad440c05beb78088f526ceeeb7294cc",
+      "author_login": "wong2",
+      "authored_at": "2023-01-08T11:20:21Z",
+      "message": "Add twitter link to option page nav"
+    },
+    {
+      "sha": "a719cd2b0d446010b22a6cba9d0b78392280982a",
+      "author_login": "wong2",
+      "authored_at": "2023-01-08T11:18:13Z",
+      "message": "Add French locale"
+    },
+    {
+      "sha": "bd50c5282fbdf50efe1d684effb251bbb86441f1",
+      "author_login": "wong2",
+      "authored_at": "2023-01-07T09:50:36Z",
+      "message": "Update screenshot"
+    },
+    {
+      "sha": "1ea306d166b7185abe71bd722250b7c4698ff592",
+      "author_login": "wong2",
+      "authored_at": "2023-01-07T05:49:49Z",
+      "message": "Release v1.14.0"
+    },
+    {
+      "sha": "ed45b6e16b874be8a69238241c19e4fb8361e7a0",
+      "author_login": "wong2",
+      "authored_at": "2023-01-07T05:47:48Z",
+      "message": "Fix language typo"
+    },
+    {
+      "sha": "8d2249f3f87336ca761061cd856122ab5d874cdb",
+      "author_login": "andy00614",
+      "authored_at": "2023-01-07T05:37:27Z",
+      "message": "Add different language answers (#169)"
+    },
+    {
+      "sha": "d380d3cadbc1076bd55c5d9e8f456ff1dd1eb525",
+      "author_login": "wong2",
+      "authored_at": "2023-01-06T11:47:08Z",
+      "message": "Release v1.13.1"
+    },
+    {
+      "sha": "907a46fb4202db050f61c9a160998100b58f39ab",
+      "author_login": "wong2",
+      "authored_at": "2023-01-06T11:45:44Z",
+      "message": "Add tip for popup shortcuts"
+    },
+    {
+      "sha": "3893fe662451028cddeda1eb58108f7fb5f3092d",
+      "author_login": "wong2",
+      "authored_at": "2023-01-06T11:24:59Z",
+      "message": "Install prettier-plugin-organize-imports"
+    },
+    {
+      "sha": "b4c424b5d3e73c03421efe2ae5d789d406185d56",
+      "author_login": "wong2",
+      "authored_at": "2023-01-06T11:24:00Z",
+      "message": "Add .png type declaration"
+    },
+    {
+      "sha": "b7659223c39b77acf3115b0e91e9d7429d536bdb",
+      "author_login": "wong2",
+      "authored_at": "2023-01-06T11:20:19Z",
+      "message": "Add logo to popup"
+    },
+    {
+      "sha": "e80056d7c6d0720b762a0ee17ad4826915d19b90",
+      "author_login": "wong2",
+      "authored_at": "2023-01-05T13:06:17Z",
+      "message": "Release v1.13.0"
+    },
+    {
+      "sha": "9f04efae3f0facdc172bd32e2da7fbf36c753366",
+      "author_login": "wong2",
+      "authored_at": "2023-01-05T12:28:42Z",
+      "message": "Add popup"
+    },
+    {
+      "sha": "24f9c7b43d144234f624587496cfa7029007e674",
+      "author_login": "wong2",
+      "authored_at": "2023-01-05T11:42:46Z",
+      "message": "Add locales"
+    },
+    {
+      "sha": "ad6282381c23d31b6b73a5543119fa227c3bcd29",
+      "author_login": "wong2",
+      "authored_at": "2023-01-04T13:16:07Z",
+      "message": "Add z-index to container"
+    },
+    {
+      "sha": "b184005b0255ddb36054c44ed2ed40c7b611d7af",
+      "author_login": "wong2",
+      "authored_at": "2023-01-04T01:55:15Z",
+      "message": "Add message of OpenAI restriction"
+    },
+    {
+      "sha": "9bb8bff00ff44db2a36d648f3a7e548aef070962",
+      "author_login": "wong2",
+      "authored_at": "2023-01-03T13:10:04Z",
+      "message": "Improve README"
+    },
+    {
+      "sha": "6aff5fdffdddc006771674f1c436817f98b6c640",
+      "author_login": "wong2",
+      "authored_at": "2023-01-02T17:10:55Z",
+      "message": "Fix triggerModeTipShowTimes storage key"
+    },
+    {
+      "sha": "1b6f88927d08f334a92956db9765e63727ad11da",
+      "author_login": "wong2",
+      "authored_at": "2023-01-02T13:06:17Z",
+      "message": "Improve feedback icons"
+    },
+    {
+      "sha": "63c8d855d3cfd13d95b1f57ed89745530d7d63bb",
+      "author_login": "wong2",
+      "authored_at": "2022-12-31T11:43:54Z",
+      "message": "Release v1.12.0"
+    },
+    {
+      "sha": "0631be465a44a768a1f9fcf8d5270807096ef721",
+      "author_login": "wong2",
+      "authored_at": "2022-12-31T11:42:32Z",
+      "message": "Tweak copy icon position"
+    },
+    {
+      "sha": "48308946f2ffdb64f01a40ef66ee00d2fc660cd2",
+      "author_login": "AdirD",
+      "authored_at": "2022-12-31T11:41:26Z",
+      "message": "add copy to clipboard for entire gpt answer (#148)"
+    }
+  ],
+  "issues": [],
+  "contributors": [
+    {
+      "login": "wong2",
+      "contributions": 206
+    },
+    {
+      "login": "josStorer",
+      "contributions": 6
+    },
+    {
+      "login": "hookzof",
+      "contributions": 2
+    },
+    {
+      "login": "AdirD",
+      "contributions": 1
+    },
+    {
+      "login": "andy00614",
+      "contributions": 1
+    },
+    {
+      "login": "anshul137",
+      "contributions": 1
+    },
+    {
+      "login": "dtkdt100",
+      "contributions": 1
+    },
+    {
+      "login": "eltociear",
+      "contributions": 1
+    },
+    {
+      "login": "tizee",
+      "contributions": 1
+    },
+    {
+      "login": "jt-wang",
+      "contributions": 1
+    },
+    {
+      "login": "takagimeow",
+      "contributions": 1
+    },
+    {
+      "login": "NetManDE",
+      "contributions": 1
+    },
+    {
+      "login": "p19ky",
+      "contributions": 1
+    },
+    {
+      "login": "CODe5753",
+      "contributions": 1
+    },
+    {
+      "login": "vanditshah44",
+      "contributions": 1
+    },
+    {
+      "login": "yes1am",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T12:00:22.638335Z"
+}
