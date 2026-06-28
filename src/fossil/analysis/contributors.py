@@ -63,7 +63,7 @@ class ContributorAnalyzer(Analyzer):
                     analyzer=self.name,
                     code="high_concentration",
                     summary=(
-                        f"Top contributor authored " f"{top_share * 100:.0f}% of work"
+                        f"Top contributor authored {top_share * 100:.0f}% of work"
                     ),
                     severity=Severity.MEDIUM,
                     value=round(top_share, 3),

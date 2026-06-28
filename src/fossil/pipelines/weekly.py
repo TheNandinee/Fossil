@@ -1,7 +1,6 @@
 """Weekly excavation pipeline: the top-level orchestrator.
 
-Discovery -> Collection -> Classification -> Rendering -> README. Each stage is
-a typed call into a dedicated layer; this module only sequences them.
+Discovery -> Collection -> Classification -> Rendering -> README.
 """
 
 from __future__ import annotations
@@ -21,7 +20,11 @@ from fossil.reporting import (
     render_repository_report,
     render_weekly_report,
 )
-from fossil.storage import snapshot_path, write_model
+from fossil.storage import (
+    read_model,
+    snapshot_path,
+    write_model,
+)
 
 logger = get_logger(__name__)
 
@@ -39,11 +42,13 @@ def run_weekly_excavation(
     week = datetime.now(UTC).strftime("%Y-W%V")
 
     classifications: list[Classification] = []
+
     with GitHubClient() as client:
         discovery = DiscoveryEngine(client)
         collector = RepositoryCollector(client)
 
         seen = _load_seen(settings.normalized_dir)
+
         candidates = discovery.discover(
             min_stars=min_stars,
             inactive_days=inactive_days,
@@ -63,10 +68,19 @@ def run_weekly_excavation(
                 snapshot,
                 snapshot_path(settings.normalized_dir, snapshot.full_name),
             )
+
             classification = classify(snapshot)
+
+            write_model(
+                classification,
+                settings.normalized_dir
+                / f"{snapshot.full_name.replace('/', '__')}_classification.json",
+            )
+
             classifications.append(classification)
 
             report = render_repository_report(classification, snapshot)
+
             _write_text(
                 settings.reports_dir
                 / "repositories"
@@ -75,9 +89,30 @@ def run_weekly_excavation(
             )
 
     if classifications:
-        weekly = render_weekly_report(week, classifications)
-        _write_text(settings.reports_dir / "weekly" / f"{week}.md", weekly)
-        _regenerate_readme(settings.reports_dir, classifications)
+        weekly_path = settings.reports_dir / "weekly" / f"{week}.md"
+
+        new_section = render_weekly_report(
+            datetime.now(UTC).isoformat(),
+            classifications,
+        )
+
+        if weekly_path.exists():
+            existing = weekly_path.read_text(encoding="utf-8")
+            weekly = existing.rstrip() + "\n\n---\n\n" + new_section
+        else:
+            weekly = new_section
+
+        _write_text(weekly_path, weekly)
+
+        all_classifications: list[Classification] = []
+
+        for file in sorted(settings.normalized_dir.glob("*_classification.json")):
+            all_classifications.append(read_model(Classification, file))
+
+        _regenerate_readme(
+            settings.reports_dir,
+            all_classifications,
+        )
 
     logger.info("Excavation complete: %d reports", len(classifications))
     return classifications
@@ -86,11 +121,15 @@ def run_weekly_excavation(
 def _load_seen(normalized_dir: Path) -> set[str]:
     if not normalized_dir.exists():
         return set()
+
     return {p.stem.replace("__", "/") for p in normalized_dir.glob("*.json")}
 
 
-def _regenerate_readme(reports_dir: Path, new: list[Classification]) -> None:
-    readme = render_readme(new)
+def _regenerate_readme(
+    reports_dir: Path,
+    all_classifications: list[Classification],
+) -> None:
+    readme = render_readme(all_classifications)
     _write_text(reports_dir.parent / "README.md", readme)
 
 

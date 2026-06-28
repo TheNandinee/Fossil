@@ -35,7 +35,7 @@ def render_readme(all_classifications: list[Classification]) -> str:
     for c in recent:
         link = f"reports/repositories/{c.full_name.replace('/', '__')}.md"
         lines.append(
-            f"| [{c.full_name}]({link}) | `{c.cause.value}` " f"| {c.death_score:.2f} |"
+            f"| [{c.full_name}]({link}) | `{c.cause.value}` | {c.death_score:.2f} |"
         )
 
     causes = Counter(c.cause.value for c in all_classifications)
