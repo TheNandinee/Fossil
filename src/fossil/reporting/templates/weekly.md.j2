@@ -1,0 +1,15 @@
+# 🦴 Fossil Weekly Excavation — {{ week }}
+
+This week Fossil excavated **{{ classifications|length }}** repositories.
+
+| Repository | Cause | Death score | Confidence |
+| --- | --- | ---: | ---: |
+{% for c in classifications -%}
+| [{{ c.full_name }}](repositories/{{ c.full_name.replace('/', '__') }}.md) | `{{ c.cause.value }}` | {{ "%.2f"|format(c.death_score) }} | {{ "%.0f"|format(c.confidence * 100) }}% |
+{% endfor %}
+
+## Cause breakdown
+
+{% for cause, count in cause_counts.items() -%}
+- `{{ cause }}`: {{ count }}
+{% endfor %}

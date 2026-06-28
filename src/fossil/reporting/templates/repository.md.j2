@@ -1,0 +1,31 @@
+# 🦴 Autopsy: [{{ c.full_name }}]({{ snapshot.url }})
+
+> {{ snapshot.description or "_No description provided._" }}
+
+**Cause of death:** `{{ c.cause.value }}`  
+**Death score:** {{ "%.2f"|format(c.death_score) }} / 1.00  
+**Confidence:** {{ "%.0f"|format(c.confidence * 100) }}%
+
+| Metric | Value |
+| --- | --- |
+| ⭐ Stars | {{ snapshot.stars }} |
+| 🍴 Forks | {{ snapshot.forks }} |
+| 🗣️ Language | {{ snapshot.primary_language or "—" }} |
+| 📅 Created | {{ snapshot.created_at.date() }} |
+| ⏱️ Last push | {{ snapshot.pushed_at.date() if snapshot.pushed_at else "—" }} |
+| 📦 Archived | {{ "yes" if snapshot.is_archived else "no" }} |
+
+## Evidence
+
+{% for e in c.supporting_evidence -%}
+- **[{{ e.severity.value }}]** {{ e.summary }}
+{% endfor %}
+{%- if c.narrative %}
+
+## Autopsy
+
+{{ c.narrative }}
+{% endif %}
+
+---
+_Excavated by Fossil on {{ snapshot.collected_at.date() }}._
