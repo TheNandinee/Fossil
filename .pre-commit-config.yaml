@@ -12,5 +12,9 @@ repos:
         additional_dependencies:
           - pydantic
           - pydantic-settings
-        args: [--strict, src]
+          - httpx
+          - tenacity
+        args:
+          - --strict
+          - src
         pass_filenames: false
