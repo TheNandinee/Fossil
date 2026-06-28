@@ -28,16 +28,38 @@ Each repository goes through a four-stage pipeline:
 
 All data is stored as plain JSON. Every report is reproducible from disk alone.
 
-## 🚀 Run it yourself
+## 🤝 Contributing
+
+Want to excavate your own repositories or improve Fossil? Contributions are welcome.
+
+### Run locally
 
 ```bash
-git clone https://github.com/TheNandinee/Fossil && cd Fossil
+git clone https://github.com/TheNandinee/Fossil.git
+cd Fossil
+
 uv sync
 echo "GITHUB_TOKEN=ghp_yourtoken" > .env
+
 uv run fossil excavate --limit 5
 ```
 
-Trigger a manual run: [Actions → Weekly Excavation → Run workflow](https://github.com/TheNandinee/Fossil/actions/workflows/weekly.yml)
+### Run the GitHub Action
+
+The **Weekly Excavation** workflow can be triggered manually by repository maintainers.
+
+If you've forked Fossil, enable GitHub Actions in your fork and trigger:
+
+**Actions → Weekly Excavation → Run workflow**
+
+### Contributing
+
+1. Fork the repository.
+2. Create a feature branch.
+3. Make your changes.
+4. Open a Pull Request.
+
+Bug fixes, new excavation strategies, provider integrations, performance improvements, and documentation updates are all welcome.
 
 """
 
