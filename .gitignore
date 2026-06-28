@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+# Environments
+.venv/
+.env
+# Caches
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+# Fossil runtime data (regenerated; not committed except reports)
+data/raw/*
+data/cache/*
+data/checkpoints/*
+!data/**/.gitkeep
