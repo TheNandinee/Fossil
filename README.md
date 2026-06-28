@@ -44,3 +44,17 @@
 
 This README and every report are regenerated automatically by GitHub Actions. No human writes these conclusions; each one traces back to measurable repository signals.
 
+
+## 🚀 Run it yourself
+
+[![Weekly Excavation](https://github.com/TheNandinee/Fossil/actions/workflows/weekly.yml/badge.svg)](https://github.com/TheNandinee/Fossil/actions/workflows/weekly.yml)
+
+To trigger a manual run: [Actions → Weekly Excavation → Run workflow](https://github.com/TheNandinee/Fossil/actions/workflows/weekly.yml) → click **Run workflow**.
+
+To run locally:
+```bash
+git clone https://github.com/TheNandinee/Fossil && cd Fossil
+uv sync
+echo "GITHUB_TOKEN=ghp_yourtoken" > .env
+uv run fossil excavate --limit 5
+```
