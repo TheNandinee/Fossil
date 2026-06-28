@@ -1,7 +1,7 @@
 """README generator: regenerate the repository's front page from data.
 
-The README is just another renderer over accumulated classifications, so the
-repository front page always reflects the current state of the museum.
+Reads ALL accumulated classifications from disk and rebuilds the README so
+nothing from previous runs is lost.
 """
 
 from __future__ import annotations
@@ -28,20 +28,24 @@ def render_readme(all_classifications: list[Classification]) -> str:
     today = datetime.now(UTC).date().isoformat()
     lines = [_HEADER.format(count=count, date=today), ""]
 
-    recent = sorted(all_classifications, key=lambda c: c.death_score, reverse=True)[:10]
-    lines.append("## 🕳️ Recent excavations\n")
-    lines.append("| Repository | Cause | Death score |")
-    lines.append("| --- | --- | ---: |")
-    for c in recent:
+    recent = sorted(all_classifications, key=lambda c: c.death_score, reverse=True)
+
+    lines.append("## 🕳️ Excavations\n")
+    lines.append("| # | Repository | Cause | Death score |")
+    lines.append("| ---: | --- | --- | ---: |")
+    for i, c in enumerate(recent, 1):
         link = f"reports/repositories/{c.full_name.replace('/', '__')}.md"
         lines.append(
-            f"| [{c.full_name}]({link}) | `{c.cause.value}` | {c.death_score:.2f} |"
+            f"| {i} | [{c.full_name}]({link}) | `{c.cause.value}` "
+            f"| {c.death_score:.2f} |"
         )
 
     causes = Counter(c.cause.value for c in all_classifications)
     lines.append("\n## ⚰️ Most common causes of death\n")
     for cause, n in causes.most_common():
         lines.append(f"- `{cause}`: {n}")
+
+    lines.append(f"\n**Total projects excavated: {count}**\n")
 
     lines.append("\n## 🤖 Automation\n")
     lines.append(
