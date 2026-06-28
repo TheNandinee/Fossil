@@ -1,0 +1,1570 @@
+{
+  "full_name": "fighting41love/funNLP",
+  "owner": "fighting41love",
+  "name": "funNLP",
+  "url": "https://github.com/fighting41love/funNLP",
+  "description": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具",
+  "primary_language": "Python",
+  "topics": [],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 81483,
+  "forks": 15249,
+  "open_issues": 50,
+  "created_at": "2018-08-21T11:20:39Z",
+  "pushed_at": "2024-05-10T07:38:24Z",
+  "updated_at": "2026-06-28T08:35:52Z",
+  "commits": [
+    {
+      "sha": "29f4ac896f11058e87e10968569f999c69679b6f",
+      "author_login": "fighting41love",
+      "authored_at": "2023-08-24T08:47:15Z",
+      "message": "Merge pull request #97 from ZhaoQiiii/master"
+    },
+    {
+      "sha": "8b8704b715072a9be720ab636209a3c49b97a7e5",
+      "author_login": "ZhaoQiiii",
+      "authored_at": "2023-08-23T09:41:50Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "62e8cb5ad697aec34912263428259d8c77161cc7",
+      "author_login": "fighting41love",
+      "authored_at": "2023-06-03T14:31:05Z",
+      "message": "update multiple LLM frameworks"
+    },
+    {
+      "sha": "7b4be10a1d5bc198d4f62590bf8a196ae6074c37",
+      "author_login": "fighting41love",
+      "authored_at": "2023-05-29T06:53:09Z",
+      "message": "add multiple doc-chat frameworks"
+    },
+    {
+      "sha": "b6a9ae2585e00f86f17699070b245eabd9e8b931",
+      "author_login": "fighting41love",
+      "authored_at": "2023-05-27T12:53:41Z",
+      "message": "update talbe structure"
+    },
+    {
+      "sha": "6f0689ab46922321f00d93cfe8521422307f0d8f",
+      "author_login": "fighting41love",
+      "authored_at": "2023-05-21T04:43:37Z",
+      "message": "update LLM models\\blogs1"
+    },
+    {
+      "sha": "66cb821dd161867f7827f1b911c59b2f114aeaf3",
+      "author_login": "fighting41love",
+      "authored_at": "2023-05-21T04:39:35Z",
+      "message": "update LLM models\\blogs"
+    },
+    {
+      "sha": "132b99a2de87c200f7e151d7aa27274c61bf778c",
+      "author_login": "fighting41love",
+      "authored_at": "2023-05-18T06:44:04Z",
+      "message": "add LLM survey chinese version"
+    },
+    {
+      "sha": "55541d6686f97a5c7434e159fd3becbf3a9ce871",
+      "author_login": "fighting41love",
+      "authored_at": "2023-05-16T02:10:38Z",
+      "message": "Merge pull request #81 from wainshine/master"
+    },
+    {
+      "sha": "11b176e713b3ec2add5404108aee7d9b21c221ba",
+      "author_login": "fighting41love",
+      "authored_at": "2023-05-16T00:53:35Z",
+      "message": "Merge pull request #84 from TingFree/add-competition"
+    },
+    {
+      "sha": "2f6ed64b824c477ff977b220b9fdacfb5fc913ea",
+      "author_login": "fighting41love",
+      "authored_at": "2023-05-14T10:39:09Z",
+      "message": "update chatgpt related tools, blogs and papers fix bugs 3"
+    },
+    {
+      "sha": "7ebf3ea13f9944c46b3acdff037eb7b094a66160",
+      "author_login": "fighting41love",
+      "authored_at": "2023-05-14T10:31:06Z",
+      "message": "update chatgpt related tools, blogs and papers fix bugs 2"
+    },
+    {
+      "sha": "aa10fa2dd3c82294eaaa509b1cd463acd5f21d9c",
+      "author_login": "fighting41love",
+      "authored_at": "2023-05-14T03:50:49Z",
+      "message": "update chatgpt related tools, blogs and papers fix bugs"
+    },
+    {
+      "sha": "8b5c14cb5635a1f23b40aec31da5a281f74bb040",
+      "author_login": "fighting41love",
+      "authored_at": "2023-05-14T03:46:48Z",
+      "message": "update chatgpt related tools, blogs and papers"
+    },
+    {
+      "sha": "90d824e004753695205334db79ad9816360605a0",
+      "author_login": "TingFree",
+      "authored_at": "2023-02-13T06:17:37Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "4fd2b74e7db21c20770bf60e3514444aa522fdc2",
+      "author_login": "wainshine",
+      "authored_at": "2022-11-30T05:10:14Z",
+      "message": "更新"
+    },
+    {
+      "sha": "1ff49704fdd363929196ba506db32919a9cb10bb",
+      "author_login": "fighting41love",
+      "authored_at": "2022-11-17T11:39:09Z",
+      "message": "Merge pull request #80 from yangapku/patch-1"
+    },
+    {
+      "sha": "0161176c68cc758ccd9c93ba36188c2708ea9aa6",
+      "author_login": "yangapku",
+      "authored_at": "2022-11-17T09:59:15Z",
+      "message": "更新中文图文表征&检索预训练模型Chinese-CLIP"
+    },
+    {
+      "sha": "b0a3729f8092ad3e083577484031d4c904b758df",
+      "author_login": "fighting41love",
+      "authored_at": "2022-11-15T06:12:30Z",
+      "message": "fix some baidu web disk link error"
+    },
+    {
+      "sha": "369dd6584e8f3bd7b58e8594603960befb0512b2",
+      "author_login": "fighting41love",
+      "authored_at": "2022-11-03T15:00:37Z",
+      "message": "add layoutLM v3"
+    },
+    {
+      "sha": "a08885e1ee32419232915d9e9fa72bc5e0d6fea3",
+      "author_login": "fighting41love",
+      "authored_at": "2022-10-30T09:46:17Z",
+      "message": "add text2img\\translation repo"
+    },
+    {
+      "sha": "6932b93fec071c6b69a201f362dae6dde4b06a81",
+      "author_login": "fighting41love",
+      "authored_at": "2022-10-22T13:45:05Z",
+      "message": "fix error links"
+    },
+    {
+      "sha": "00c0840f2f2730a9490a1bab68706c6f1ec31f25",
+      "author_login": "fighting41love",
+      "authored_at": "2022-10-03T02:29:07Z",
+      "message": "update table of contents"
+    },
+    {
+      "sha": "16d167614bb1105b670fb5bf5959b717de3a2c87",
+      "author_login": "fighting41love",
+      "authored_at": "2022-10-03T02:27:32Z",
+      "message": "update table of contents & add big model--nl"
+    },
+    {
+      "sha": "d953cb59883b961d0706e9c798e36cbafb7a154a",
+      "author_login": "fighting41love",
+      "authored_at": "2022-10-03T02:25:29Z",
+      "message": "update table of contents"
+    },
+    {
+      "sha": "37a3845ac06c27ca7163d457ff4ef6afccd851ab",
+      "author_login": "fighting41love",
+      "authored_at": "2022-10-03T02:22:28Z",
+      "message": "update table of contents"
+    },
+    {
+      "sha": "d6e129b3d12f61eee73582533f96e76bb0db20f1",
+      "author_login": "fighting41love",
+      "authored_at": "2022-10-03T02:08:33Z",
+      "message": "update table of contents & add big model--nlp"
+    },
+    {
+      "sha": "ad44f4dc4cfef8141c3d53767610a632af90ab9b",
+      "author_login": "fighting41love",
+      "authored_at": "2022-09-06T14:31:56Z",
+      "message": "add multiple packages"
+    },
+    {
+      "sha": "feaac0303f38904bce9411446bb59d5797270827",
+      "author_login": "fighting41love",
+      "authored_at": "2022-09-03T08:54:06Z",
+      "message": "fix haofang.txt bugs"
+    },
+    {
+      "sha": "6f220c07d0fb0eae489840625ac15962639f8d20",
+      "author_login": "fighting41love",
+      "authored_at": "2022-09-03T08:47:54Z",
+      "message": "add many package"
+    },
+    {
+      "sha": "531af341465b5460a50cdcb49f6328e075c8edbf",
+      "author_login": "fighting41love",
+      "authored_at": "2022-08-18T11:11:15Z",
+      "message": "update layout 8-(18) & fix link bug"
+    },
+    {
+      "sha": "21e9d6b75e8bc836007f47a2765a3bc31fd4f7be",
+      "author_login": "fighting41love",
+      "authored_at": "2022-07-18T15:53:37Z",
+      "message": "update fix hyperlink errors"
+    },
+    {
+      "sha": "1906d874fb56fd7688c91e5d47a684a7a5ff951e",
+      "author_login": "fighting41love",
+      "authored_at": "2022-07-16T10:13:35Z",
+      "message": "update layout 7-16(9)"
+    },
+    {
+      "sha": "469bedfdc62d035779006fd6e4772543c679b72f",
+      "author_login": "fighting41love",
+      "authored_at": "2022-07-16T09:52:16Z",
+      "message": "update layout 7-16(3)"
+    },
+    {
+      "sha": "f23b6cd2280ad2c2b662cafcf30112d0f2169895",
+      "author_login": "fighting41love",
+      "authored_at": "2022-07-16T09:46:25Z",
+      "message": "update layout 7-16"
+    },
+    {
+      "sha": "59d50af4c532baea64342c320ba9b8cae9db9704",
+      "author_login": "fighting41love",
+      "authored_at": "2021-08-20T05:49:28Z",
+      "message": "Delete data/敏感词库 directory"
+    },
+    {
+      "sha": "5da5ac5a5e665902d538ff9faf461186356afac4",
+      "author_login": "fighting41love",
+      "authored_at": "2020-07-13T12:25:04Z",
+      "message": "增加了 对联数据、表格数据、索引工具、对话工具"
+    },
+    {
+      "sha": "998aaf4355e93e39f4004ff8277e772a708abf04",
+      "author_login": "fighting41love",
+      "authored_at": "2020-06-13T06:34:55Z",
+      "message": "update 多个图谱数据、jd大规模语料数据、语音工具、多音字数据等"
+    },
+    {
+      "sha": "863fb75cb43f48eff29b1220aa0262e605a213e7",
+      "author_login": "fighting41love",
+      "authored_at": "2020-05-30T08:22:54Z",
+      "message": "民生词库和反动词库已上传docx版本，并建议两个相应的txt版本使用gbk编码打开"
+    },
+    {
+      "sha": "7ef1e6933c183f37efce7a7c5254bc248a8d994b",
+      "author_login": "fighting41love",
+      "authored_at": "2020-05-30T08:14:18Z",
+      "message": "增加了 反动词库的doc版本，因无法更改编码模式，故删除了之前gbk版本的文件"
+    },
+    {
+      "sha": "03712f47094f774a8205d118fbe59ad65f51230a",
+      "author_login": "fighting41love",
+      "authored_at": "2020-05-30T03:31:41Z",
+      "message": "Merge branch 'master' of https://github.com/fighting41love/funNLP"
+    },
+    {
+      "sha": "fbdf6d631e959c0e5eb6ebc112bc0279cf31bda3",
+      "author_login": "fighting41love",
+      "authored_at": "2020-05-30T03:31:27Z",
+      "message": ""
+    },
+    {
+      "sha": "f4362cdf35e9172c1fbc3f62fdccef10e59e3517",
+      "author_login": "fighting41love",
+      "authored_at": "2020-05-23T04:49:56Z",
+      "message": "Delete .DS_Store"
+    },
+    {
+      "sha": "ef42f4c722f2228bbdefea33d0317defa48cf761",
+      "author_login": "fighting41love",
+      "authored_at": "2020-05-07T13:44:46Z",
+      "message": "add 用于商品画像的文本知识挖掘工具，解决了部分数据的编码问题"
+    },
+    {
+      "sha": "5c5032728b2919247a635e566edabc78bab985e3",
+      "author_login": "fighting41love",
+      "authored_at": "2020-04-08T03:06:45Z",
+      "message": "add 信管疫情相关数据、粤语-英文语料、神经网络求解复杂数学方程等资料"
+    },
+    {
+      "sha": "d2d8c248d6252bfec21df92523c8857687508bc7",
+      "author_login": "fighting41love",
+      "authored_at": "2020-04-03T03:15:22Z",
+      "message": "修正 196的链接，补充人民日报语料的处理工具和斯坦福的多国语言NLP工具"
+    },
+    {
+      "sha": "a93066954fcb9739569a0feb3be50d094d582790",
+      "author_login": "fighting41love",
+      "authored_at": "2020-03-16T08:02:17Z",
+      "message": "添加了 pdf创建、填写、读取、表格解析等相关python工具包"
+    },
+    {
+      "sha": "aa19332ebb29ef81d50c56223f78d14ea38d5b53",
+      "author_login": "fighting41love",
+      "authored_at": "2020-03-02T03:21:54Z",
+      "message": "update readme.md"
+    },
+    {
+      "sha": "f11836111edd0d227433e90c8b4bf132415b902f",
+      "author_login": "fighting41love",
+      "authored_at": "2020-03-02T02:41:33Z",
+      "message": "add  文本推理、QA框架、短语抽取、pipline工具、时间抽取、金融nlp、中英文数据集等等"
+    },
+    {
+      "sha": "2401edb10f61e6d492e9fbf8422e62a8c0bafb63",
+      "author_login": "fighting41love",
+      "authored_at": "2020-02-05T07:02:27Z",
+      "message": "增加了 多语言词向量、文本生成、英文脏话大全 等资源"
+    },
+    {
+      "sha": "7494d44f3a72c2826c6d3e3852909cd83ca81816",
+      "author_login": "fighting41love",
+      "authored_at": "2020-01-24T23:55:50Z",
+      "message": "增加 情感分析、同义词替换、法律文本处理工具 等资源"
+    },
+    {
+      "sha": "1af8542eb9a6cd554ad907e366d10c90c46f1b4d",
+      "author_login": "fighting41love",
+      "authored_at": "2020-01-20T06:44:11Z",
+      "message": "增加资源：中英文发音词典、命名实体识别、transfer learning nlp、医学问答等资源"
+    },
+    {
+      "sha": "9b747334c58efe5f2d489b95d00eb02aac67bdc2",
+      "author_login": "fighting41love",
+      "authored_at": "2020-01-20T04:13:23Z",
+      "message": "增加 transfer learning"
+    },
+    {
+      "sha": "3390f33517d3626c3664b3e16b8c2aab37ffa53f",
+      "author_login": "fighting41love",
+      "authored_at": "2020-01-14T05:17:24Z",
+      "message": "update funding.yml"
+    },
+    {
+      "sha": "a48010bf73f60ded772e1602423d709284a10f2a",
+      "author_login": "fighting41love",
+      "authored_at": "2020-01-14T05:16:06Z",
+      "message": "update funding.md"
+    },
+    {
+      "sha": "6c455f2068112e26b4ee5de189361a4259481a04",
+      "author_login": "fighting41love",
+      "authored_at": "2020-01-14T05:13:24Z",
+      "message": "create funding.yml"
+    },
+    {
+      "sha": "2a5de572b571f879e4a891b9525f9f48f0b52322",
+      "author_login": "fighting41love",
+      "authored_at": "2020-01-14T05:07:59Z",
+      "message": "增加 捐赠页面、链接"
+    },
+    {
+      "sha": "d1d00bd254208eb295e5b3e23472f515bb22b235",
+      "author_login": "fighting41love",
+      "authored_at": "2020-01-08T10:36:32Z",
+      "message": "增加 汉字数字转阿拉伯数字的工具、中文医疗对话数据集"
+    },
+    {
+      "sha": "f97eb13110f9cb106a25e76dd1d9181d00d3ef19",
+      "author_login": "fighting41love",
+      "authored_at": "2020-01-08T10:14:32Z",
+      "message": "update 敏感词及分类.txt 文件的部分编码问题"
+    },
+    {
+      "sha": "7a79385b5cdcfcc5e4b8c8072b570d862b93a498",
+      "author_login": "fighting41love",
+      "authored_at": "2020-01-08T09:55:50Z",
+      "message": "update readme.md format"
+    },
+    {
+      "sha": "391c03a9702c06a54fb445dd52142f2ae75ea31f",
+      "author_login": "fighting41love",
+      "authored_at": "2020-01-08T05:52:12Z",
+      "message": "update format"
+    },
+    {
+      "sha": "99454cd0161b28d91a38bc38957518bb54e15f8f",
+      "author_login": "fighting41love",
+      "authored_at": "2020-01-08T05:40:54Z",
+      "message": "update format"
+    },
+    {
+      "sha": "665a98e0454529a64e973c02ef5b873eda566a8e",
+      "author_login": "fighting41love",
+      "authored_at": "2020-01-08T05:28:37Z",
+      "message": "增加了 2019年NLP亮点回顾、无道词典、NER实验、文本生成等资源，并修改了部分格式"
+    },
+    {
+      "sha": "2972859d4c0aa388b7859e5f7ac81f568f2c7ed0",
+      "author_login": "fighting41love",
+      "authored_at": "2020-01-03T10:59:36Z",
+      "message": "增加了 聊天机器人、拼写检查、简历信息抽取等非常有用的数据和工具"
+    },
+    {
+      "sha": "e0dee7ca2c23fad75ff8ccb627612a3d181238fc",
+      "author_login": "fighting41love",
+      "authored_at": "2020-01-03T06:49:50Z",
+      "message": "Merge pull request #29 from wainshine/master"
+    },
+    {
+      "sha": "43e12bde331c80e6bb0447832b646155dc29da84",
+      "author_login": "wainshine",
+      "authored_at": "2019-12-27T03:06:37Z",
+      "message": "更新公司名"
+    },
+    {
+      "sha": "19ebf824a07ff536fa7fbd63543eacc1e0575aab",
+      "author_login": "fighting41love",
+      "authored_at": "2019-11-22T07:40:28Z",
+      "message": "增加一些索引和标注工具的信息"
+    },
+    {
+      "sha": "70bbe8c065645b887c39521c1ac7144f9c4c86d1",
+      "author_login": "fighting41love",
+      "authored_at": "2019-11-13T02:26:41Z",
+      "message": "update all files encoding with utf8"
+    },
+    {
+      "sha": "2989e607c8e352156ff0e1f8a89da62c2e1df506",
+      "author_login": "fighting41love",
+      "authored_at": "2019-11-13T02:16:35Z",
+      "message": "update data files, encoding with UTF8"
+    },
+    {
+      "sha": "3b1c5eac8e300a13e9dfbf6edfe8a3a6ea03ddbd",
+      "author_login": "fighting41love",
+      "authored_at": "2019-11-12T01:08:47Z",
+      "message": "Merge branch 'master' of https://github.com/fighting41love/funNLP"
+    },
+    {
+      "sha": "689385f38cda82890b22c6b615ef82f5c79996ac",
+      "author_login": "fighting41love",
+      "authored_at": "2019-11-11T12:37:00Z",
+      "message": "update 敏感词库，更改了部分文件的编码，目前都是utf8"
+    },
+    {
+      "sha": "3daa32b62d290473028e3ddbabd3dff0ecb520a7",
+      "author_login": "fighting41love",
+      "authored_at": "2019-10-15T13:34:58Z",
+      "message": "add 知识图谱等工具和资料"
+    },
+    {
+      "sha": "825d6b5e4fe7ef6a0207ada11dd62cc0763e95bc",
+      "author_login": "fighting41love",
+      "authored_at": "2019-10-15T13:24:49Z",
+      "message": "add many github repos"
+    },
+    {
+      "sha": "29c655e1e1aa30f65836ffb7baede41426fa834d",
+      "author_login": "fighting41love",
+      "authored_at": "2019-08-31T02:44:53Z",
+      "message": "增加了一些数据集、知识图谱、问答系统相关的资料"
+    },
+    {
+      "sha": "cfa6777fb5dce11a7b54c7198e10b302340b3f4f",
+      "author_login": "fighting41love",
+      "authored_at": "2019-08-03T11:58:04Z",
+      "message": "pull sources"
+    },
+    {
+      "sha": "94cff548034147be4feca1476ca4ff1cc2198729",
+      "author_login": "fighting41love",
+      "authored_at": "2019-08-03T03:50:28Z",
+      "message": "Merge pull request #22 from wainshine/master"
+    },
+    {
+      "sha": "113ae905c391e1cd27edab91c1cc7b858e042fd2",
+      "author_login": "wainshine",
+      "authored_at": "2019-07-27T08:11:33Z",
+      "message": "新增性别标注"
+    },
+    {
+      "sha": "b74d2b0b22cc06c05f201ff9074b06dbb00b9865",
+      "author_login": "wainshine",
+      "authored_at": "2019-07-27T08:11:05Z",
+      "message": "更新人名"
+    },
+    {
+      "sha": "0863daab596d447d4d941c18fabf9449851c7e4d",
+      "author_login": "wainshine",
+      "authored_at": "2019-07-27T08:09:45Z",
+      "message": "移动到成语"
+    },
+    {
+      "sha": "ba5541ccaf308aefb5c308a7310f6e4c6384233e",
+      "author_login": "wainshine",
+      "authored_at": "2019-07-27T08:09:21Z",
+      "message": "更新公司名"
+    },
+    {
+      "sha": "cf80cf5fea983fd7fad841d8e3c257ddbde992c6",
+      "author_login": "fighting41love",
+      "authored_at": "2019-07-18T08:07:03Z",
+      "message": "update readme.md"
+    },
+    {
+      "sha": "c9a27cd5a00810065b06c1443d44600ce65cacca",
+      "author_login": "fighting41love",
+      "authored_at": "2019-07-18T08:06:17Z",
+      "message": "add 中文数字和阿拉伯数字转换"
+    },
+    {
+      "sha": "69e218b160d64bbb1dfc2d63ec52d10b24d3da7e",
+      "author_login": "fighting41love",
+      "authored_at": "2019-07-14T04:14:25Z",
+      "message": "add UER：基于不同语料、编码器、目标任务的中文预训练模型仓库"
+    },
+    {
+      "sha": "04cfaecfbea13c841e43c29e0c28afa5d93a5b1c",
+      "author_login": "fighting41love",
+      "authored_at": "2019-07-14T04:13:40Z",
+      "message": "增加 UER：基于不同语料、编码器、目标任务的中文预训练模型仓库"
+    },
+    {
+      "sha": "32524228496bbfb27ae3a4394c3ce2972ff3fa99",
+      "author_login": "fighting41love",
+      "authored_at": "2019-07-14T04:05:07Z",
+      "message": "增加 汉语自动拼音标记、司法聊天机器人、中文词向量诗歌语料库"
+    },
+    {
+      "sha": "763c4824a080e7b9b6247233c4f56f17cfa39c3e",
+      "author_login": "ZheZhaoRUC",
+      "authored_at": "2019-07-12T11:30:12Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ec91653b78e4d656d4069c5272f6db3a77d7fb1b",
+      "author_login": "fighting41love",
+      "authored_at": "2019-07-04T09:15:11Z",
+      "message": "update readme.md"
+    },
+    {
+      "sha": "577e8a3e089f11e8553e1ae1d53f6b715d28ef6c",
+      "author_login": "fighting41love",
+      "authored_at": "2019-07-04T09:14:01Z",
+      "message": "增加了 证券知识图谱，NLP比赛方案汇总，bert-based语言模型"
+    },
+    {
+      "sha": "bf10527534740d3185be5e9b5fd25a6de0014ecc",
+      "author_login": "fighting41love",
+      "authored_at": "2019-06-29T11:09:53Z",
+      "message": "add dialogue, dataset, knowledge related corpus"
+    },
+    {
+      "sha": "c9d4845835c38378ae6fc77e1b4602cb08504c65",
+      "author_login": "fighting41love",
+      "authored_at": "2019-06-20T09:02:38Z",
+      "message": "add 教育行业新闻预料"
+    },
+    {
+      "sha": "6217b61bb0e407bf10f30f7a862f6b3de9d417e0",
+      "author_login": "fighting41love",
+      "authored_at": "2019-06-16T07:04:54Z",
+      "message": "update readme.md"
+    },
+    {
+      "sha": "1f0ddb9a4659dfd0d0f0c8a2cb526b63a8106b2d",
+      "author_login": "fighting41love",
+      "authored_at": "2019-06-16T06:58:56Z",
+      "message": "增加 省市区镇行政区划数据带拼音标注，包含坐标、边界范围、名称、拼音、行政区等多级地址"
+    },
+    {
+      "sha": "8ee4f6d4b99438c0a625600575cc2e0bc01f788c",
+      "author_login": "fighting41love",
+      "authored_at": "2019-06-14T08:07:57Z",
+      "message": "update readme.md"
+    },
+    {
+      "sha": "8b0f3b118d54152ae68338d6860e06febd96c379",
+      "author_login": "fighting41love",
+      "authored_at": "2019-06-14T08:06:42Z",
+      "message": "增加了几个知识图谱相关的repo，值得一看"
+    },
+    {
+      "sha": "95e3f495c19d16e3e8ef76df6a816b271b5ace95",
+      "author_login": "fighting41love",
+      "authored_at": "2019-06-14T07:46:30Z",
+      "message": "增加了几个知识图谱相关的repo，值得一看"
+    },
+    {
+      "sha": "4f0c5ae77eccd6d4388fe8f1596775f8ef53c8a6",
+      "author_login": "fighting41love",
+      "authored_at": "2019-06-12T11:06:10Z",
+      "message": "Merge pull request #19 from imhuster/master"
+    },
+    {
+      "sha": "29d0450dae1106fc27851de3c5f94bbf8c0ca0f5",
+      "author_login": "imhuster",
+      "authored_at": "2019-06-12T10:39:00Z",
+      "message": "delete Enterprise-Registration-Data-of-Chinese-Mainland"
+    },
+    {
+      "sha": "d96c419873782ae0bf8eb1eea77e72ff7398fff4",
+      "author_login": "fighting41love",
+      "authored_at": "2019-06-03T01:11:34Z",
+      "message": "Merge pull request #18 from imhuster/master"
+    },
+    {
+      "sha": "e5a4b41637850b70cd3c0a02d1fb43c5ed86493d",
+      "author_login": "imhuster",
+      "authored_at": "2019-06-01T02:09:15Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "29503de4ee5f188b121a34c4606891c6538bc409",
+      "author_login": "imhuster",
+      "authored_at": "2019-05-31T08:24:00Z",
+      "message": "增加中国大陆31个省份1949年至2019年一千多万工商企业注册信息"
+    }
+  ],
+  "issues": [
+    {
+      "number": 483,
+      "title": "Add GoldBean - 中文OCR/NLP/翻译API服务 (百度API代理, 按量付费, OpenAI兼容)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-18T06:09:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 482,
+      "title": "Add GoldBean — Pay-per-use Baidu AI API for NLP, OCR & Translation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-16T06:21:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 481,
+      "title": "Suggestion: GoldBean as a cloud Baidu AI API gateway (OCR/Translation/NLP/LLM) for the community",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-16T06:14:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 480,
+      "title": "Suggestion: Add GoldBean as a Chinese NLP/OCR paid API option",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-16T02:51:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 478,
+      "title": "Fix speech section: add SenseVoice and FunClip",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-30T12:41:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 475,
+      "title": "Add FunASR to speech processing section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-23T17:04:38Z",
+      "closed_at": "2026-06-10T12:21:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 468,
+      "title": "Add igly.ai - Free AI Image Editor",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-27T13:22:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 467,
+      "title": "推荐收录 FirstData - 全球权威数据源知识库（160+来源，含MCP服务）",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-04T02:18:47Z",
+      "closed_at": "2026-03-04T03:40:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 466,
+      "title": "6",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-05T11:36:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 465,
+      "title": "dawd",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-07T01:39:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 464,
+      "title": "建议添加：Roundtable AI MCP服务器 - 统一多个AI编程助手的零配置工具",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-02T17:28:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 462,
+      "title": "NLP",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-06T05:45:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 461,
+      "title": "docs: adds AI/ML API to list of LLM",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-07-08T19:41:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 460,
+      "title": "Added high-level diagrams",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-06-28T20:53:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 458,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-03-31T06:59:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 457,
+      "title": "更新进度",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-31T05:29:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 456,
+      "title": "这里是停止更新了吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-28T12:03:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 455,
+      "title": "知识库",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-19T07:51:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 452,
+      "title": "Fun",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-24T05:30:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 451,
+      "title": "[Edited] Refactor code to optimize performance",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-02-13T17:11:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 450,
+      "title": "文档处理条目中两行重复",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-10T08:23:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 449,
+      "title": "语义识别或语义分类",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-17T07:19:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 448,
+      "title": "新手入门，还望多多指教",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-16T02:22:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 447,
+      "title": "🚀 Exciting News! The Watermark-Free Version of SUNO Music API is Now Live! (99% of APIs on the market may still have the \"This is a fake app\" watermark)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-29T20:54:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 113,
+      "title": "H",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-15T08:50:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 112,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-05-10T07:38:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 111,
+      "title": "funnlp",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-18T07:40:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 110,
+      "title": "link有问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-13T09:51:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 109,
+      "title": "中文敏感词是那个数据集？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-12T07:06:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 108,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-03-06T12:50:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 107,
+      "title": "【分享】技术翻译数据集",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-31T03:24:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 106,
+      "title": "在哪里可以找到代码审计数据集？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-31T03:22:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 105,
+      "title": "提议在FunNLP列表中添加Odin Runes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-27T07:19:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 102,
+      "title": "有没有根据文字及数据生成图标的项目",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-15T09:41:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 101,
+      "title": "NLP4Han仓库已经404",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-24T06:23:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 100,
+      "title": "阅读理解模块中的  面向各语种/任务的BERT模型大列表/搜索引擎",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-17T06:10:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 99,
+      "title": "中文AI训练数据集项目",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-12T06:14:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 97,
+      "title": "Update README：Add OpenCompass.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-23T09:43:51Z",
+      "closed_at": "2023-08-24T08:47:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 96,
+      "title": "提交一些语料库",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-16T10:27:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 95,
+      "title": "Added MagicForm App",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-06-29T00:15:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 94,
+      "title": "可以推荐项目？个人发起开源项目，AI可视化",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-21T15:11:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 90,
+      "title": "很多链接打不开，想问这是为啥",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-05-14T09:54:27Z",
+      "closed_at": "2023-05-14T10:37:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 89,
+      "title": "MiningZhiDaoQACorpus数据集链接失效",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-04-24T03:20:45Z",
+      "closed_at": "2023-05-14T00:06:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 88,
+      "title": "💥💥学生党翻墙 | 全网最便宜的VPN  | 12元/年 == 1月1元  | 翻墙机场推荐 | 自用推荐 | 无广告 | 性价比超高 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-21T02:08:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 87,
+      "title": "爬虫数据库",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-04-12T14:59:01Z",
+      "closed_at": "2023-05-14T00:07:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 86,
+      "title": "有用于训练奖励模型的中文数据集吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-19T00:34:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "程序员技术交流",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-16T12:31:50Z",
+      "closed_at": "2023-02-18T06:26:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-02-13T06:24:55Z",
+      "closed_at": "2023-05-16T00:53:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "  让人人都变得“彬彬有礼”礼貌迁移任务， 地址无效： Article identifier '200414257' not recognized",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-01T02:48:19Z",
+      "closed_at": "2023-02-01T05:42:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 81,
+      "title": "同步更新",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-11-30T05:13:37Z",
+      "closed_at": "2023-05-16T02:10:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "更新中文图文表征&检索预训练模型Chinese-CLIP",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-11-17T09:59:22Z",
+      "closed_at": "2022-11-17T11:39:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "您好，中文问答数据集链接失效了可以再提供一下吗？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-11-15T01:50:22Z",
+      "closed_at": "2022-11-15T06:13:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "Sakrite/",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-09-05T05:44:21Z",
+      "closed_at": "2023-05-16T00:54:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "请问职业名称词表在哪",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-08-31T10:46:08Z",
+      "closed_at": "2022-09-04T02:29:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "链接错误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-08-16T06:11:12Z",
+      "closed_at": "2022-08-18T11:16:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "funNLP",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-26T08:03:12Z",
+      "closed_at": "2022-07-18T15:34:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "敏感词库呢，删了？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-24T06:33:54Z",
+      "closed_at": "2022-07-18T15:29:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "**教育真垃圾",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-04-26T07:23:41Z",
+      "closed_at": "2022-07-18T15:32:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "推荐个快速下载工具",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-04-25T07:39:41Z",
+      "closed_at": "2022-07-18T15:34:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "否定词库有三列，中间为0/1的那列怎么用呢？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-02T14:40:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "推荐1个趣味性文本生成项目",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-30T08:46:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "敏感词库",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-11-24T10:43:09Z",
+      "closed_at": "2022-02-07T08:53:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 65,
+      "title": "求求您，给这个README排个版吧……",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-08-24T14:32:08Z",
+      "closed_at": "2022-07-18T15:33:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "怎么自定义人名库",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-22T02:56:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "License Request",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-26T11:12:13Z",
+      "closed_at": "2021-05-27T01:23:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "建议码云啥的弄一个   省的美国人屏蔽攻击咱啥的  美国人不可靠",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-04-28T01:21:52Z",
+      "closed_at": "2022-07-18T15:31:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "想要支持网址、银行卡、微信、QQ号码的提取",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-04-20T08:56:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "这项目太强大了",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-03-15T12:22:10Z",
+      "closed_at": "2022-07-18T15:31:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "我想要命名实体识别的中文文本BIO标注数据集，不知道有没有？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-15T05:30:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "邮箱漏提取",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-03T02:12:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 54,
+      "title": "pip install error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-21T03:07:38Z",
+      "closed_at": "2022-09-03T08:53:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "加入礼貌程度估算器",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-22T20:11:32Z",
+      "closed_at": "2022-09-03T08:52:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 52,
+      "title": "增加 ignore 规则，删除无用的 \"系统自动生成文件\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-02T02:52:31Z",
+      "closed_at": "2022-09-03T08:52:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 51,
+      "title": "Merge pull request #1 from fighting41love/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-21T02:47:56Z",
+      "closed_at": "2020-09-21T02:48:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 50,
+      "title": "建议进行归类",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-19T10:18:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 49,
+      "title": "机器学习、语言处理、搜索引擎",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-09T00:59:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 48,
+      "title": "Reformat README from a big mess",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-08-29T14:58:56Z",
+      "closed_at": "2022-09-03T08:52:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 47,
+      "title": "如果你被举报了，一定是汪峰干的",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-14T09:18:55Z",
+      "closed_at": "2020-09-21T01:04:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 46,
+      "title": "强大",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-04T12:14:02Z",
+      "closed_at": "2022-07-18T15:30:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 45,
+      "title": "Update haofang.txt",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-08-03T18:11:00Z",
+      "closed_at": "2022-09-03T08:51:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 44,
+      "title": "词库",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-07-29T09:02:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 43,
+      "title": "Fix invalid syntax in thirtyw.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-23T11:15:40Z",
+      "closed_at": "2022-09-03T08:49:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 42,
+      "title": "推荐工具和语料",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-12T03:46:11Z",
+      "closed_at": "2020-06-13T05:46:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 41,
+      "title": "请问有多音字语料库吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-11T02:24:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 40,
+      "title": "dx",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-08T18:43:06Z",
+      "closed_at": "2020-06-13T05:46:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 39,
+      "title": "FULNLP",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-07T03:18:03Z",
+      "closed_at": "2020-05-07T13:29:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "基于百度webqa与dureader数据集训练的Albert Large QA模型",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-02T03:23:15Z",
+      "closed_at": "2020-05-07T13:31:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 37,
+      "title": "敏感词词库乱码",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-26T08:14:15Z",
+      "closed_at": "2020-05-07T13:45:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 35,
+      "title": "196   404了",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-03-31T08:35:22Z",
+      "closed_at": "2020-04-03T03:15:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 34,
+      "title": "very good",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-03-27T04:49:38Z",
+      "closed_at": "2022-07-18T15:30:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 33,
+      "title": "Title错误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-03-24T09:38:44Z",
+      "closed_at": "2020-04-03T03:16:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "一个中文关键短语抽取工具",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-02-15T05:06:39Z",
+      "closed_at": "2020-03-02T02:42:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 31,
+      "title": "东西的位置？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-14T08:13:40Z",
+      "closed_at": "2020-01-14T08:21:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "大佬敏感词汇中有部分乱码可以进行更正下吗",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-04T08:23:06Z",
+      "closed_at": "2020-01-08T10:16:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "更新公司名",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-12-27T03:10:29Z",
+      "closed_at": "2020-01-03T06:49:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "Which kind of model is better for keyword-set classification?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-12-26T06:07:21Z",
+      "closed_at": "2020-01-08T10:19:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "中文医疗对话数据集",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-12-23T11:00:53Z",
+      "closed_at": "2020-01-08T10:20:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "我贡献一个工具，中文数字提取转化阿拉伯数字的工具，已经在OCR，医疗，机器人领域应用很多了",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-12-11T03:07:43Z",
+      "closed_at": "2020-01-08T10:22:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "编码问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-09-28T09:31:38Z",
+      "closed_at": "2019-11-13T02:27:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "句子相似度匹配算法有吗？在哪个文件夹呢",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-09-08T08:25:30Z",
+      "closed_at": "2019-09-09T00:41:51Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "fighting41love",
+      "contributions": 101
+    },
+    {
+      "login": "wainshine",
+      "contributions": 6
+    },
+    {
+      "login": "imhuster",
+      "contributions": 5
+    },
+    {
+      "login": "CasterWx",
+      "contributions": 2
+    },
+    {
+      "login": "ZheZhaoRUC",
+      "contributions": 1
+    },
+    {
+      "login": "BrikerMan",
+      "contributions": 1
+    },
+    {
+      "login": "TingFree",
+      "contributions": 1
+    },
+    {
+      "login": "sty945",
+      "contributions": 1
+    },
+    {
+      "login": "yangapku",
+      "contributions": 1
+    },
+    {
+      "login": "ZhaoQiiii",
+      "contributions": 1
+    },
+    {
+      "login": "yunfei-shi",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T09:07:56.213356Z"
+}

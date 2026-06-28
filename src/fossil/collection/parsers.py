@@ -1,8 +1,4 @@
-"""Parse raw GitHub JSON into normalized models.
-
-This is the *only* place raw GitHub payloads are interpreted. Keeping parsing
-isolated means a GitHub schema change touches one file.
-"""
+"""Parse raw GitHub JSON into normalized models."""
 
 from __future__ import annotations
 
@@ -22,11 +18,13 @@ def parse_commit(raw: dict[str, Any]) -> Commit:
     commit = raw.get("commit", {})
     author = commit.get("author", {}) or {}
     gh_author = raw.get("author") or {}
+    message = commit.get("message") or ""
+    first_line = message.splitlines()[0][:200] if message.splitlines() else ""
     return Commit(
         sha=raw.get("sha", ""),
         author_login=gh_author.get("login"),
         authored_at=_dt(author.get("date")) or datetime.now(),
-        message=(commit.get("message") or "").splitlines()[0][:200],
+        message=first_line,
     )
 
 

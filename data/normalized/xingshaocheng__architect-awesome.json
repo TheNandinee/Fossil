@@ -1,0 +1,1674 @@
+{
+  "full_name": "xingshaocheng/architect-awesome",
+  "owner": "xingshaocheng",
+  "name": "architect-awesome",
+  "url": "https://github.com/xingshaocheng/architect-awesome",
+  "description": "后端架构师技术图谱",
+  "primary_language": null,
+  "topics": [],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 60831,
+  "forks": 17678,
+  "open_issues": 63,
+  "created_at": "2018-04-06T13:30:58Z",
+  "pushed_at": "2024-04-11T11:32:12Z",
+  "updated_at": "2026-06-28T06:11:27Z",
+  "commits": [
+    {
+      "sha": "a9b92bd4a384fd3f620a553a377612983d1ecbad",
+      "author_login": "xingshaocheng",
+      "authored_at": "2022-08-04T10:16:11Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "91d9549de6f9d9b88ac951c5e9288f7ef697b691",
+      "author_login": "xingshaocheng",
+      "authored_at": "2022-08-04T10:14:12Z",
+      "message": "Add files via upload"
+    },
+    {
+      "sha": "088b459ea3719093ec3d15ecf6547a3d97eae2b6",
+      "author_login": "xingshaocheng",
+      "authored_at": "2020-08-25T11:40:33Z",
+      "message": "Merge pull request #145 from Ascend2015/master"
+    },
+    {
+      "sha": "54246eb531ac196b2d61caa7cf6ccf8ac7e43b8f",
+      "author_login": "xingshaocheng",
+      "authored_at": "2020-08-25T11:40:11Z",
+      "message": "Merge pull request #143 from 94rain/patch-1"
+    },
+    {
+      "sha": "1e9589a8044c1a2a23fe5e4c5b3e02fe082faad3",
+      "author_login": "xingshaocheng",
+      "authored_at": "2020-08-25T11:39:40Z",
+      "message": "Merge pull request #142 from indasoo/master"
+    },
+    {
+      "sha": "d4505c48b202c287f3d6a9d89da1c5f6b59be41f",
+      "author_login": "xingshaocheng",
+      "authored_at": "2020-08-25T11:39:14Z",
+      "message": "Merge pull request #141 from jiayx/master"
+    },
+    {
+      "sha": "c61ed20bceb660bb9701974fc6b22a6ef4c3220c",
+      "author_login": "xingshaocheng",
+      "authored_at": "2020-08-25T11:38:56Z",
+      "message": "Merge pull request #144 from bytesgo/master"
+    },
+    {
+      "sha": "97c231ecd1986a1bc4155c53862276d8868ae803",
+      "author_login": "leeyazhou",
+      "authored_at": "2020-07-24T02:15:44Z",
+      "message": "fix: 修改”白字“"
+    },
+    {
+      "sha": "c5130bb31ebd22b357bce5b9a36d075b7f7c6705",
+      "author_login": "94rain",
+      "authored_at": "2020-06-28T06:27:53Z",
+      "message": "Fix two dead links"
+    },
+    {
+      "sha": "b9b741954eb41746b86e70e4df6eeb5bf3d01501",
+      "author_login": "indasoo",
+      "authored_at": "2020-06-23T03:04:01Z",
+      "message": "更新《8个流行的持续集成工具》的链接地址，原链接地址（https://www.testwo.com/article/1170）已失效。"
+    },
+    {
+      "sha": "be2eb7a481f2b748b2c51572d6968dba521785b2",
+      "author_login": "jiayx",
+      "authored_at": "2020-06-22T07:18:12Z",
+      "message": "修复一处错别字：立即 -> 理解"
+    },
+    {
+      "sha": "ac5359339adaaae8faa624611c013065c4d9959d",
+      "author_login": "xingshaocheng",
+      "authored_at": "2020-04-07T10:54:15Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "98853b5a891c0a6e0ddf85f1cb93b5d5a6b636c4",
+      "author_login": "xingshaocheng",
+      "authored_at": "2020-04-07T10:51:39Z",
+      "message": "Merge pull request #127 from kfwongao/master"
+    },
+    {
+      "sha": "56528a01d98fca9f1e9a1b5ec869fbbbfd14e739",
+      "author_login": "xingshaocheng",
+      "authored_at": "2020-04-07T10:51:21Z",
+      "message": "Merge pull request #125 from samz406/master"
+    },
+    {
+      "sha": "a202293098e21b0cb314cf485c3bda665b1b64bc",
+      "author_login": "xingshaocheng",
+      "authored_at": "2020-04-07T10:51:02Z",
+      "message": "Merge pull request #110 from leinue/patch-1"
+    },
+    {
+      "sha": "a440382905f22bc06d224b40f20fcc8bf35706bd",
+      "author_login": "kfwongao",
+      "authored_at": "2020-01-20T05:56:28Z",
+      "message": "Merge pull request #1 from kfwongao/kfwongao-patch-add-leetCode-resource"
+    },
+    {
+      "sha": "1046560fbab78f8a16120ba5e88378071c6919f6",
+      "author_login": "kfwongao",
+      "authored_at": "2020-01-20T05:53:56Z",
+      "message": "add LeetCode resource"
+    },
+    {
+      "sha": "07db83d0e701affa97ef72afe43ead3eb27a38f7",
+      "author_login": "samz406",
+      "authored_at": "2020-01-16T06:01:48Z",
+      "message": "修正加粗有*符号"
+    },
+    {
+      "sha": "7d384c6a7356480b2589ad9cb5e0f16e126b37ae",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-11-04T09:00:21Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "30aeedf9e45500f9ff6dcd8f29c39a22d7e3b966",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-11-04T08:58:54Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e510c0293da2bff93c656f4e2d18b9fb03d3ee84",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-11-04T08:56:51Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "92a0dcb2fbab06b67ed009345169813e642a6548",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-11-04T08:55:41Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "6e23195b4574fec73b53b815f807a5f2e831add6",
+      "author_login": "leinue",
+      "authored_at": "2019-09-11T07:53:07Z",
+      "message": "补充授权认证知识库"
+    },
+    {
+      "sha": "b6f75faffa86a83f9cd1964375d15bce17e652fa",
+      "author_login": "Ascend2015",
+      "authored_at": "2019-08-08T07:42:25Z",
+      "message": "Merge pull request #1 from xingshaocheng/master"
+    },
+    {
+      "sha": "30573d647149bd57cda2bbe95cdc83ec2468b548",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-06-28T04:31:00Z",
+      "message": "Merge pull request #99 from Goook/patch-1"
+    },
+    {
+      "sha": "42943d9fe82acf402e4a252f11d9ad4574ff33b6",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-06-17T00:32:02Z",
+      "message": "Merge pull request #101 from Kurisu-homework-set/master"
+    },
+    {
+      "sha": "aa5a45edf42529cc266988bd6300ffb139d2fc28",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-06-17T00:31:45Z",
+      "message": "Merge pull request #102 from liukgg/patch-4"
+    },
+    {
+      "sha": "2757c413a17e08f42225fc4798a4d86ac3a0bb02",
+      "author_login": "liukgg",
+      "authored_at": "2019-06-13T12:36:32Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "36aff3f66ba0fa008a7849b2c8e604a758c4854e",
+      "author_login": "liukgg",
+      "authored_at": "2019-06-13T12:13:05Z",
+      "message": "修正LSM描述的两处"
+    },
+    {
+      "sha": "57f4a963349413b591bddf05dd3edc871425b082",
+      "author_login": "Kuri-su",
+      "authored_at": "2019-06-13T07:44:59Z",
+      "message": "fix: chinaUnix url error and add infoQ"
+    },
+    {
+      "sha": "c9ebba092aab01aba60692e8e041162ec5d277b8",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-05-31T12:11:38Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ad187eb48246c84895d425fc632a6c19813c55db",
+      "author_login": "bambizd",
+      "authored_at": "2019-05-27T02:22:37Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "6c5284b1535039ca00803c62e0f3c6513a6a0af1",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-05-08T15:07:04Z",
+      "message": "Merge pull request #95 from JasonJe/patch-1"
+    },
+    {
+      "sha": "5235329719e7f799bd5d8b67ca3069a5e00cd8d1",
+      "author_login": "JasonJe",
+      "authored_at": "2019-05-08T14:43:15Z",
+      "message": "修正错别字"
+    },
+    {
+      "sha": "ac74faef739a6124d2d2375c6834d43b15acbc6f",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-05-07T00:39:18Z",
+      "message": "Merge pull request #93 from eazow/master"
+    },
+    {
+      "sha": "fa426ae4b1d9190a5b3ccb0d680ffda83163ccb8",
+      "author_login": "eazow",
+      "authored_at": "2019-04-28T08:11:50Z",
+      "message": "新增spark教程，添加《》号"
+    },
+    {
+      "sha": "32acfe6316f304b82653137bf9aeee182140f7f1",
+      "author_login": "eazow",
+      "authored_at": "2019-04-28T08:09:27Z",
+      "message": "增加spark教程"
+    },
+    {
+      "sha": "7f7c5bcf211859fb54638fbcb8c5fc7a1172167d",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-04-23T06:15:50Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "c3797e5bb956021e00402f2cbae0c93b8b9c699b",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-04-23T06:13:23Z",
+      "message": "Merge pull request #92 from sorenduan/patch-10"
+    },
+    {
+      "sha": "802d7ab2a9fd0ae331e9b1e1cbe0b93b52f3f7fe",
+      "author_login": "sorenduan",
+      "authored_at": "2019-04-23T06:12:16Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1c52190770539a27d1c5d801bcb6c7b1fc41cfca",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-04-20T11:17:00Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d0d98a95d06928cd29861dd5d0d6110b0860c85f",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-04-20T10:39:38Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "eba4441a9f9551f054495d09b6f7245f824af3a6",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-04-19T14:37:14Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "0b3fa97b33d8da565a180c3cc35357d99104def1",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-04-19T14:35:48Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "0eeb13c8ee29ac2d66fba81f749731d3415fbe3b",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-04-19T14:28:21Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "55c661880e140bdd5f49d0dffd5402ac1f471ef9",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-04-19T14:27:48Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a4217a0a121eeb910ff06af01f36ed71408e6173",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-04-18T16:00:55Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "26023b788b257724e1333e1b55b60e8c256a1cc1",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-04-18T15:59:40Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "faf504c66b801e24045764bad921b990bdf0dfbb",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-04-18T15:58:24Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "0df21030cc50c56bfb953625d5119d33d3b6123b",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-04-18T15:56:22Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "9af5f292689804eb2400f50963bfe732838610e1",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-04-18T15:44:26Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a10c42c92a279a96e96174495233f9f15b6c5fc3",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-04-18T15:36:30Z",
+      "message": "remove"
+    },
+    {
+      "sha": "dc07565221b77c8db8945d1d680a6fef48b154ac",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-04-18T15:27:18Z",
+      "message": "remove"
+    },
+    {
+      "sha": "7a7a302625643fe61a3f5a02a9885cc10f133454",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-03-12T07:29:08Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1740c5e5aebed43518fb5784199a9c676ce9a9a0",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-03-12T07:28:48Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f8ca8a3f0cecb933409966079d5c14057cd220e8",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-03-12T07:28:16Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "cb0819b3fcb9c65b12b9415cc35d335d504a0dc9",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-03-12T07:26:45Z",
+      "message": "Add files via upload"
+    },
+    {
+      "sha": "cec6b1f80f6b5bd10759cd6b8381b7d91b8050aa",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-03-12T07:25:59Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "c16df72020180bb719a114ca6a5832620ce271b7",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-03-12T07:21:54Z",
+      "message": "Add files via upload"
+    },
+    {
+      "sha": "9c055a1a17aed65b845bae81c4ba00033d3b0015",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-03-12T05:32:14Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "347b905bf2672c2875512b6df5a1aeb00dbc6c94",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-03-12T01:23:12Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "0d748f7c7803cc11b8900406ac8db9ac3c69e9c2",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-03-11T05:06:07Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "8899b98bb2c1430333c36a41af480cd9fa6f93d1",
+      "author_login": "xingshaocheng",
+      "authored_at": "2019-03-11T04:31:19Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3dadfa834accfa26a7b5c4590d57d310fcf44119",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-11-24T11:40:48Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ac91a8699ce759e27770c17f0fe31f6ac1880b7e",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-09-16T02:24:19Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "13aba7b45a2b36fb06a8fd5b45a02dfa18d897a9",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-09-16T02:23:05Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ad173b6d47ebd23fe3a3dc189388ba092219a3c6",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-09-16T02:21:03Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3db3fc04e2477efb80af63c1ba6f0e672ed73c75",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-09-16T02:00:40Z",
+      "message": "Merge pull request #73 from YunaiV/master"
+    },
+    {
+      "sha": "e26dc60aae9d1b0d71af3b8988fd129912d0106d",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-09-16T02:00:27Z",
+      "message": "Merge pull request #70 from Huweicai/master"
+    },
+    {
+      "sha": "391df2e1a2698a4fa8c85fc2f620debc7dbc32c2",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-09-16T02:00:18Z",
+      "message": "Merge pull request #69 from LLcat1217/patch-1"
+    },
+    {
+      "sha": "9bf783415daaced417896da23a79e05ee7e351a4",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-09-16T02:00:05Z",
+      "message": "Merge pull request #68 from BruceKellan/master"
+    },
+    {
+      "sha": "7ad5d9a1c85627b4a8abefb4fd249651f33f089a",
+      "author_login": null,
+      "authored_at": "2018-09-04T11:13:30Z",
+      "message": "增加 Sharding JDBC 源码解析。"
+    },
+    {
+      "sha": "91592668c924dce5ff2b32dd18d0763155bd245f",
+      "author_login": "Huweicai",
+      "authored_at": "2018-08-29T15:54:32Z",
+      "message": "修改一篇文章带你读懂mysql innodb为原文链接"
+    },
+    {
+      "sha": "5d9bd40b84c1fcba899471f189559e3bf0cd41ca",
+      "author_login": "Mu-L",
+      "authored_at": "2018-08-14T07:54:27Z",
+      "message": "fixed error"
+    },
+    {
+      "sha": "64a6ab6bda9fcf7a29c7d669177b1d3a11ee72de",
+      "author_login": "BruceKellan",
+      "authored_at": "2018-08-05T13:41:08Z",
+      "message": "去除重复的 《什么是Service Mesh？》"
+    },
+    {
+      "sha": "3b5b496d5eaf159baece3510d460fb72891e790a",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-08-03T16:36:57Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a7b1b2ac3082010e6bf9bfe302ffb666f829b8bb",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-08-02T14:16:54Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "4b2b47005d30d523f0b16032cb352e30f819752a",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-08-02T14:14:54Z",
+      "message": "Merge pull request #67 from sorenxing/patch-8"
+    },
+    {
+      "sha": "cbbe74a05bf015fea1da40e715854348b6506206",
+      "author_login": "sorenduan",
+      "authored_at": "2018-08-02T14:14:00Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "899697096101b2adccc41c0ae50972ef1ada6614",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-08-02T00:42:17Z",
+      "message": "Merge pull request #65 from Tinywan/master"
+    },
+    {
+      "sha": "06c92e8fecd4a6f40eecb3f3bcb0a78491e17b7d",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-08-02T00:41:52Z",
+      "message": "Merge pull request #66 from lioncruise/patch-1"
+    },
+    {
+      "sha": "1a3dd433dae87f7364f7fa9485c541f35cb505b5",
+      "author_login": "lioncruise",
+      "authored_at": "2018-07-30T02:44:40Z",
+      "message": "Add InfoQ in special website"
+    },
+    {
+      "sha": "e8b94c7d69473b5d167ba62ac73a3c34f3613d91",
+      "author_login": "Tinywan",
+      "authored_at": "2018-07-24T13:02:37Z",
+      "message": "1、agentzh 的 Nginx 教程"
+    },
+    {
+      "sha": "6f397e45164e7db7b1d5a8b55a6204f55557bde8",
+      "author_login": "Tinywan",
+      "authored_at": "2018-07-24T12:59:26Z",
+      "message": "添加Web服务器项目-Tengine"
+    },
+    {
+      "sha": "eb6feb6446c991b14195728646fd21b9f55d140d",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-07-23T00:45:30Z",
+      "message": "Merge pull request #64 from ToryZhou/master"
+    },
+    {
+      "sha": "8c7a09e3f8ac0097380de3ead51fd7a83800d542",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-07-23T00:44:38Z",
+      "message": "Merge pull request #62 from arrayest/master"
+    },
+    {
+      "sha": "7c135a030a81b053ff35c4841afc05fc034df716",
+      "author_login": "ToryZhou",
+      "authored_at": "2018-07-15T13:59:48Z",
+      "message": "Add class diagram of design patterns"
+    },
+    {
+      "sha": "60035f69102e23b5da7ba4fd21c3c51694f759c2",
+      "author_login": "arrayest",
+      "authored_at": "2018-07-06T07:07:44Z",
+      "message": "fix typo."
+    },
+    {
+      "sha": "3069f9da96fc9a3a9f148a454ab8a03f3cc06c8a",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-06-29T02:15:21Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "4e17c7dca809a5371d260e3b5859bb308ebdb30f",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-06-28T01:43:19Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "8295c5f20b20df3d767c61f7fb476a2137f347a6",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-06-25T00:27:36Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "33f3be6eb03605b910c9784e7e78a6d4a72b2f18",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-06-25T00:15:00Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "af45f50dac7d567dd11e182c6e3a25a0165eca52",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-06-24T07:29:05Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "44b7ad52d622ec3982fc14e53c46fcaf7441f0b5",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-06-24T07:27:15Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "fa83f049eb29ea2c58f17858dcdfdfa963b2e98d",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-06-23T00:32:56Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "0188f64a23195de8dc75bae412c5425739441005",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-06-23T00:31:15Z",
+      "message": "Merge pull request #56 from pengwk/master"
+    },
+    {
+      "sha": "9b0a2b2f502e09d7c811040817bd5080ac3efaf6",
+      "author_login": "xingshaocheng",
+      "authored_at": "2018-06-23T00:30:59Z",
+      "message": "Merge pull request #59 from yuanmie/fixSpellMistake"
+    },
+    {
+      "sha": "bdf92cfd377918ef8977ec7973636a18c4674d62",
+      "author_login": "yuanmie",
+      "authored_at": "2018-06-16T02:42:45Z",
+      "message": "fix 'spring' spell mistake"
+    },
+    {
+      "sha": "c125d68316c0d3c0beae90982391f5fb463378ed",
+      "author_login": null,
+      "authored_at": "2018-05-31T10:28:05Z",
+      "message": "增加 VPS 服务商"
+    },
+    {
+      "sha": "a57774dedc605dcc5e27d338edc40c1378600efd",
+      "author_login": "pengwk",
+      "authored_at": "2018-05-31T05:20:35Z",
+      "message": "Merge pull request #1 from xingshaocheng/master"
+    }
+  ],
+  "issues": [
+    {
+      "number": 168,
+      "title": "比特鹰（Web3龙头企业）招收各岗位人才",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-17T15:47:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 166,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-04-11T11:32:11Z",
+      "closed_at": "2024-04-11T11:32:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 165,
+      "title": "feat: 分布式-幂等",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-03-17T02:57:56Z",
+      "closed_at": "2026-03-27T09:43:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 164,
+      "title": "Hello",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-11T15:15:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 163,
+      "title": "打开新的窗口",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-05T05:15:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 162,
+      "title": "java",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-06-27T01:39:37Z",
+      "closed_at": "2023-06-27T01:39:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 161,
+      "title": "课程搜是什么？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-03T09:42:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 159,
+      "title": "更新文章，配置中心选型和推荐",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-10T10:04:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 158,
+      "title": "《如何用 gitlab 做 code review》这个链接有问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-16T12:44:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 157,
+      "title": "MQ按顺序消费问题补充",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-02-13T09:36:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 155,
+      "title": "Patch 1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-08T04:58:02Z",
+      "closed_at": "2021-09-08T04:58:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 154,
+      "title": "webserver-nginx read",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-08T04:47:05Z",
+      "closed_at": "2021-09-08T04:49:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 153,
+      "title": "《计算机视觉实战演练：算法与应用》GitHub开源中文电子书、源码、读者交流社区",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-02T09:02:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 152,
+      "title": "原链接失效",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-08-13T03:49:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 149,
+      "title": "错别字修改，出去->除去。",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-07T19:27:27Z",
+      "closed_at": "2025-08-18T05:06:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 148,
+      "title": "快速排序链接修复",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-03-09T07:26:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 147,
+      "title": "Merge pull request #1 from xingshaocheng/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-24T15:08:08Z",
+      "closed_at": "2020-12-24T15:08:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 146,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-11-30T06:53:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 145,
+      "title": "Merge pull request #1 from xingshaocheng/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-08-10T07:57:01Z",
+      "closed_at": "2020-08-25T11:40:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 144,
+      "title": "fix: 修改”白字“",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-24T02:18:31Z",
+      "closed_at": "2020-08-25T11:38:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 143,
+      "title": "Fix two dead links",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-28T06:28:27Z",
+      "closed_at": "2020-08-25T11:40:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 142,
+      "title": "更新《8个流行的持续集成工具》的链接地址，原链接地址（https://www.testwo.com/article/1170）已失效。",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-23T03:07:02Z",
+      "closed_at": "2020-08-25T11:39:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 141,
+      "title": "修复一处错别字：立即 -> 理解",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-22T07:19:14Z",
+      "closed_at": "2020-08-25T11:39:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 140,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-15T10:00:42Z",
+      "closed_at": "2020-06-15T10:01:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 139,
+      "title": "在任何SQL数据库上生成Instant REST / GRAPHQL API",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-09T22:44:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 138,
+      "title": "链接404",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-18T13:38:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 127,
+      "title": "增加国外知名题库网站",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-01-20T06:00:56Z",
+      "closed_at": "2020-04-07T10:51:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 126,
+      "title": "大家都是只点赞不看的么？有链接失效了",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-18T13:12:45Z",
+      "closed_at": "2020-08-25T11:40:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 125,
+      "title": "修正加粗有*符号",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-01-16T06:03:45Z",
+      "closed_at": "2020-04-07T10:51:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 124,
+      "title": "学习了，顺便借楼招个人",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-12-31T07:08:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 123,
+      "title": "程序员提高自我修养且最具性价比的标配",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-12-18T09:16:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 122,
+      "title": "没有K8S相关的资料啊~",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-12-17T11:31:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 121,
+      "title": "打扰了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-12-17T08:36:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 120,
+      "title": "Create LICENSE",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-12-16T11:53:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 119,
+      "title": "建议增加分类，学习优先级顺序",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-12-08T09:37:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 118,
+      "title": "程序员都必须安装的工具",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-12-06T10:11:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 117,
+      "title": "Merge pull request #1 from xingshaocheng/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-11-28T08:58:17Z",
+      "closed_at": "2019-11-28T08:58:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 116,
+      "title": "建议在“分布式一致性”章节中补充“分布式事务解决方案——Saga”的介绍",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-12T01:01:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 115,
+      "title": "从部落到帝国还会更新嘛？？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-10-23T07:05:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 114,
+      "title": "快排失效了  ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-10-11T02:06:16Z",
+      "closed_at": "2019-11-07T01:14:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 113,
+      "title": "删",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-09-30T09:20:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 112,
+      "title": "Merge pull request #1 from xingshaocheng/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-29T07:51:51Z",
+      "closed_at": "2019-09-29T07:52:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 111,
+      "title": "Merge pull request #1 from xingshaocheng/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-19T07:19:33Z",
+      "closed_at": "2019-09-19T07:20:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 110,
+      "title": "补充授权认证知识库",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-11T07:53:23Z",
+      "closed_at": "2020-04-07T10:51:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 109,
+      "title": "Merge pull request #1 from xingshaocheng/master",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-09-03T13:11:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 108,
+      "title": "《40个Java多线程问题总结》打不开了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-08-07T10:20:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 107,
+      "title": "乐观锁 & CAS的文字打不开",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-07-17T02:47:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 106,
+      "title": "坏链接 https://blog.csdn.net/zy_281870667/article/details/51604540",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-07-03T01:03:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 105,
+      "title": "为何不拆分成多个文件？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-06-30T07:55:07Z",
+      "closed_at": "2022-10-27T02:19:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 104,
+      "title": "脑图",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-06-27T01:48:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 103,
+      "title": "Merge pull request #1 from xingshaocheng/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-26T08:02:41Z",
+      "closed_at": "2019-06-26T08:03:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 102,
+      "title": "修正LSM描述的两处",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-13T12:15:15Z",
+      "closed_at": "2019-06-17T00:31:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 100,
+      "title": "建议增加颈椎病和脱发预防办法",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-03T07:33:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 99,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-27T08:45:12Z",
+      "closed_at": "2019-06-28T04:31:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 98,
+      "title": "错别字",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-05-21T03:33:10Z",
+      "closed_at": "2019-05-28T06:17:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 97,
+      "title": "Merge pull request #1 from xingshaocheng/master",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-05-09T22:46:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 96,
+      "title": "Merge pull request #1 from xingshaocheng/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-09T01:48:05Z",
+      "closed_at": "2019-05-09T01:48:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 95,
+      "title": "修正错别字",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-08T14:43:52Z",
+      "closed_at": "2019-05-08T15:07:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 94,
+      "title": "架构微信群有没有，一起聊一下架构的那些事",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-06T03:28:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 93,
+      "title": "新增spark教程链接",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-28T08:15:51Z",
+      "closed_at": "2019-05-07T00:39:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 92,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-23T06:13:04Z",
+      "closed_at": "2019-04-23T06:13:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 91,
+      "title": "重构部分：  《架构之重构的12条军规》 链接失效",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-26T09:34:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 90,
+      "title": "增加 Kubernetes 知识点",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-03-25T02:12:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 89,
+      "title": "建议 web 缓存在 squid 下面增加 ATS 一栏",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-12T03:30:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 88,
+      "title": "Fixed title",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-03-04T07:16:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 87,
+      "title": "Merge pull request #1 from xingshaocheng/master",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-02-27T01:29:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 86,
+      "title": "建议增加脑图",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-02-26T06:09:29Z",
+      "closed_at": "2023-03-23T15:51:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "法律的一些知识可以",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-13T03:16:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "建议增加Kubernetes相关介绍",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-01-30T02:40:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "能否把各大主流技术采用的技术栈添加到到这个系统里面去么？对每年，比如过去的一年2018的主流技术进行梳理",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-01-05T08:21:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 82,
+      "title": "sharingjdbc官网链接错误 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-25T06:09:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 81,
+      "title": "《架构师不可不知的十大可扩展架构》链接打开是一个技术图谱",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-21T03:16:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "《终结python协程----从yield到actor模型的实现》地址失效",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-12-05T02:11:41Z",
+      "closed_at": "2019-05-06T15:27:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "cpu NUMA",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-10-14T09:58:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "小小建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-09T02:38:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "Merge pull request #1 from xingshaocheng/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-26T01:28:17Z",
+      "closed_at": "2018-09-26T01:29:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "修正一个错别字",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-09-23T11:55:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "《美团点评前端无痕埋点实践》 的访问地址变更，修改为下面的地址即可",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-09-10T02:27:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "《复合索引的优点和注意事项》一文有明显错误，建议更换",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-09-04T15:17:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "增加 Sharding JDBC 源码解析。",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-04T11:16:06Z",
+      "closed_at": "2018-09-16T02:00:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "merge",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-03T03:52:52Z",
+      "closed_at": "2018-09-03T03:53:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "修改一篇文章带你读懂mysql innodb为原文链接",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-29T15:56:13Z",
+      "closed_at": "2018-09-16T02:00:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "fixed error title",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-14T07:58:23Z",
+      "closed_at": "2018-09-16T02:00:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "去除重复的 《什么是Service Mesh？》",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-05T13:42:03Z",
+      "closed_at": "2018-09-16T02:00:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-02T14:14:24Z",
+      "closed_at": "2018-08-02T14:14:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "Add InfoQ in special website",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-07-30T02:45:07Z",
+      "closed_at": "2018-08-02T00:41:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 65,
+      "title": "添加 Tengine 和Openresty教程",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-07-24T13:07:33Z",
+      "closed_at": "2018-08-02T00:42:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "Add class diagram of design patterns",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-07-15T14:03:57Z",
+      "closed_at": "2018-07-23T00:45:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": "应当加入容器管理的内容",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-11T17:07:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "fix typo.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-07-06T07:10:12Z",
+      "closed_at": "2018-07-23T00:44:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "麻烦替换《一种高级的DoS攻击-Hash碰撞攻击》的链接",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-06-27T02:35:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "consider adding link to the design patterns section",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-06-18T07:55:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "fix 'spring' spell mistake",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-16T02:45:38Z",
+      "closed_at": "2018-06-23T00:31:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "《轻松理解AOP》连接失效",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-15T08:48:35Z",
+      "closed_at": "2025-11-12T10:44:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "data structure and algorithm recommendation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-06-05T07:23:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "增加 VPS 服务商",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-05-31T10:29:14Z",
+      "closed_at": "2018-06-23T00:31:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "非Java系后端架构师，是不是要学一下Java？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-31T04:04:48Z",
+      "closed_at": "2018-06-03T07:02:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 54,
+      "title": "VPS补充digitalocean和vultr",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-05-29T11:33:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-05-24T03:04:47Z",
+      "closed_at": "2018-05-29T08:54:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 52,
+      "title": "Broken sphinx link",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-05-23T03:07:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "xingshaocheng",
+      "contributions": 250
+    },
+    {
+      "login": "liukgg",
+      "contributions": 5
+    },
+    {
+      "login": "sorenduan",
+      "contributions": 5
+    },
+    {
+      "login": "BeoneMan",
+      "contributions": 2
+    },
+    {
+      "login": "eazow",
+      "contributions": 2
+    },
+    {
+      "login": "isiyin",
+      "contributions": 2
+    },
+    {
+      "login": "Tinywan",
+      "contributions": 2
+    },
+    {
+      "login": "kfwongao",
+      "contributions": 2
+    },
+    {
+      "login": "pengwk",
+      "contributions": 2
+    },
+    {
+      "login": "94rain",
+      "contributions": 1
+    },
+    {
+      "login": "AceDarkknight",
+      "contributions": 1
+    },
+    {
+      "login": "arrayest",
+      "contributions": 1
+    },
+    {
+      "login": "Kuri-su",
+      "contributions": 1
+    },
+    {
+      "login": "Huweicai",
+      "contributions": 1
+    },
+    {
+      "login": "Ascend2015",
+      "contributions": 1
+    },
+    {
+      "login": "JasonJe",
+      "contributions": 1
+    },
+    {
+      "login": "Mu-L",
+      "contributions": 1
+    },
+    {
+      "login": "laddcn",
+      "contributions": 1
+    },
+    {
+      "login": "bambizd",
+      "contributions": 1
+    },
+    {
+      "login": "MottoX",
+      "contributions": 1
+    },
+    {
+      "login": "lioncruise",
+      "contributions": 1
+    },
+    {
+      "login": "tianshanghong",
+      "contributions": 1
+    },
+    {
+      "login": "ipy",
+      "contributions": 1
+    },
+    {
+      "login": "BruceKellan",
+      "contributions": 1
+    },
+    {
+      "login": "leinue",
+      "contributions": 1
+    },
+    {
+      "login": "jiayx",
+      "contributions": 1
+    },
+    {
+      "login": "leeyazhou",
+      "contributions": 1
+    },
+    {
+      "login": "CL0610",
+      "contributions": 1
+    },
+    {
+      "login": "Lee-Child",
+      "contributions": 1
+    },
+    {
+      "login": "samz406",
+      "contributions": 1
+    },
+    {
+      "login": "scott-z",
+      "contributions": 1
+    },
+    {
+      "login": "ToryZhou",
+      "contributions": 1
+    },
+    {
+      "login": "yuanmie",
+      "contributions": 1
+    },
+    {
+      "login": "zucig",
+      "contributions": 1
+    },
+    {
+      "login": "wu-sheng",
+      "contributions": 1
+    },
+    {
+      "login": "indasoo",
+      "contributions": 1
+    },
+    {
+      "login": "wuleying",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T09:08:09.729909Z"
+}

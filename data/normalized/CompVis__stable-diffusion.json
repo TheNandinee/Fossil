@@ -1,0 +1,1152 @@
+{
+  "full_name": "CompVis/stable-diffusion",
+  "owner": "CompVis",
+  "name": "stable-diffusion",
+  "url": "https://github.com/CompVis/stable-diffusion",
+  "description": "A latent text-to-image diffusion model",
+  "primary_language": "Jupyter Notebook",
+  "topics": [],
+  "license_spdx": "NOASSERTION",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 73144,
+  "forks": 10592,
+  "open_issues": 616,
+  "created_at": "2022-08-10T14:36:44Z",
+  "pushed_at": "2024-06-18T01:53:49Z",
+  "updated_at": "2026-06-28T04:04:39Z",
+  "commits": [
+    {
+      "sha": "21f890f9da3cfbeaba8e2ac3c425ee9e998d5229",
+      "author_login": "rromb",
+      "authored_at": "2022-11-16T20:34:06Z",
+      "message": "Update sampler.py"
+    },
+    {
+      "sha": "5a00c4f8db6c05c3e55a4d25c913796c15006e67",
+      "author_login": "rromb",
+      "authored_at": "2022-11-16T11:51:43Z",
+      "message": "Merge pull request #440 from LuChengTHU/main"
+    },
+    {
+      "sha": "bf3b8783543bdbfc31721479091e35696baadd13",
+      "author_login": "LuChengTHU",
+      "authored_at": "2022-11-06T10:32:02Z",
+      "message": "add a stablizing trick for steps < 15"
+    },
+    {
+      "sha": "8ee518a5a26d8f57d61985f81dc19d7e17a74a7d",
+      "author_login": "LuChengTHU",
+      "authored_at": "2022-10-28T15:47:10Z",
+      "message": "add dpm-solver support (much faster than plms)"
+    },
+    {
+      "sha": "69ae4b35e0a0f6ee1af8bb9a5d0016ccb27e36dc",
+      "author_login": "pesser",
+      "authored_at": "2022-08-22T16:57:55Z",
+      "message": "Release under CreativeML Open RAIL M License"
+    },
+    {
+      "sha": "a117e77545c8a13468d1e949031d841bbeff2a93",
+      "author_login": "pesser",
+      "authored_at": "2022-08-22T11:02:53Z",
+      "message": "Merge branch 'patrickvonplaten-add_safety_checker' into main"
+    },
+    {
+      "sha": "673b0ab3a303fa539f950db00525f2e2bb0ce60e",
+      "author_login": "pesser",
+      "authored_at": "2022-08-22T10:58:42Z",
+      "message": "update safety model id"
+    },
+    {
+      "sha": "a6e2f3b120eba81e9c290144f46ceda2145f1248",
+      "author_login": "pesser",
+      "authored_at": "2022-08-22T08:25:42Z",
+      "message": "Merge branch 'add_safety_checker' of https://github.com/patrickvonplaten/stable-diffusion into patrickvonplaten-add_safety_checker"
+    },
+    {
+      "sha": "b9851783e5400900a5de8ad43cb6f407f2cd1e4d",
+      "author_login": "patrickvonplaten",
+      "authored_at": "2022-08-19T17:14:29Z",
+      "message": "fix to numpy"
+    },
+    {
+      "sha": "239ed0fd0247807df4f62e5dc22dfe00f6e14db3",
+      "author_login": "patrickvonplaten",
+      "authored_at": "2022-08-19T17:09:41Z",
+      "message": "fix more"
+    },
+    {
+      "sha": "f3f60fccc31acee192417e2e926260698201982f",
+      "author_login": "patrickvonplaten",
+      "authored_at": "2022-08-19T17:08:10Z",
+      "message": "correct merg"
+    },
+    {
+      "sha": "eef5da90dbee4b22bdd864e53726993f98ae3366",
+      "author_login": "patrickvonplaten",
+      "authored_at": "2022-08-19T17:05:39Z",
+      "message": "finish"
+    },
+    {
+      "sha": "536eb1a8ba9e7e3806727cc25331d43b1f076f07",
+      "author_login": "patrickvonplaten",
+      "authored_at": "2022-08-19T16:03:22Z",
+      "message": "Apply suggestions from code review"
+    },
+    {
+      "sha": "d0c714ae4afa1c011269a956d6f260f84f77025e",
+      "author_login": "patrickvonplaten",
+      "authored_at": "2022-08-19T16:01:56Z",
+      "message": "[Safety Checker] Add Safety Checker Module"
+    },
+    {
+      "sha": "7b8c883b078024f68b56e862f247a64f9e282aac",
+      "author_login": "owenvincent",
+      "authored_at": "2022-08-18T13:46:44Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "be6ab334c2acb047e168fccbb9f23d95bc7366e1",
+      "author_login": "owenvincent",
+      "authored_at": "2022-08-18T11:49:59Z",
+      "message": "update links in README.md"
+    },
+    {
+      "sha": "d39f5b51a8d607fd855425a0d546b9f871034c3d",
+      "author_login": "pesser",
+      "authored_at": "2022-08-16T21:13:39Z",
+      "message": "update readme"
+    },
+    {
+      "sha": "b57c05232a179758d26a6996c57c96b2d1197196",
+      "author_login": "pesser",
+      "authored_at": "2022-08-16T21:11:39Z",
+      "message": "Merge pull request #27 from apolinario/patch-1"
+    },
+    {
+      "sha": "e1367298c7497de7b9a5f076f40433ce6857077e",
+      "author_login": "apolinario",
+      "authored_at": "2022-08-16T19:08:28Z",
+      "message": "Add diffusers as a way to inference in the model"
+    },
+    {
+      "sha": "3fbbf28a8a66d6f0ffcaca43a76521b6d9b5bfb3",
+      "author_login": "rromb",
+      "authored_at": "2022-08-13T15:06:31Z",
+      "message": "Merge pull request #5 from cpacker/main"
+    },
+    {
+      "sha": "9ae9f7dcccc7c3f06a9a481891c22e25ccf34d17",
+      "author_login": "cpacker",
+      "authored_at": "2022-08-12T20:24:00Z",
+      "message": "fix install issues, README instructions should work out-of-the-box now"
+    },
+    {
+      "sha": "ce05de28194041e030ccfc70c635fe3707cdfc30",
+      "author_login": "rromb",
+      "authored_at": "2022-08-10T14:59:50Z",
+      "message": "add link to access request form"
+    },
+    {
+      "sha": "2ff270f4e0c884d9684fa038f6d84d8600a94b39",
+      "author_login": "rromb",
+      "authored_at": "2022-08-10T14:30:49Z",
+      "message": "stable diffusion"
+    },
+    {
+      "sha": "f13bf9bf463d95b5a16aeadd2b02abde31f769f8",
+      "author_login": "rromb",
+      "authored_at": "2022-02-21T14:06:50Z",
+      "message": "add vqgan loss with codebook statistic eval"
+    },
+    {
+      "sha": "2b46bcb98c8e8fdb250cb8ff2e20874f3ccdd768",
+      "author_login": "rromb",
+      "authored_at": "2022-01-17T20:24:19Z",
+      "message": "Update ddpm.py"
+    },
+    {
+      "sha": "417d5f3deec916c69b9cf865b277ff6990a4f5b5",
+      "author_login": null,
+      "authored_at": "2022-01-15T11:30:44Z",
+      "message": "add trainsteps to first stage table"
+    },
+    {
+      "sha": "851743597c6703d3afca40822bf7f3149dcb714e",
+      "author_login": null,
+      "authored_at": "2022-01-14T17:24:18Z",
+      "message": "add LICENSE"
+    },
+    {
+      "sha": "171cf29fb54afe048b03ec73da8abb9d102d0614",
+      "author_login": null,
+      "authored_at": "2021-12-22T14:57:23Z",
+      "message": "add configs for training unconditional/class-conditional ldms"
+    },
+    {
+      "sha": "f8b4a071055f5b25421d0364770267d5fc58d79c",
+      "author_login": "rromb",
+      "authored_at": "2021-12-22T10:16:26Z",
+      "message": "add autoencoder training details, arxiv link and figures"
+    },
+    {
+      "sha": "32a9661b4eb92cfd0c6f74e7223fdf8b036b868e",
+      "author_login": "pesser",
+      "authored_at": "2021-12-21T11:35:45Z",
+      "message": "add inpainting model"
+    },
+    {
+      "sha": "17e64e320556d49e429f41a7093b291c49255470",
+      "author_login": null,
+      "authored_at": "2021-12-21T02:38:17Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e66308c7f2e64cb581c6d27ab6fbeb846828253b",
+      "author_login": null,
+      "authored_at": "2021-12-21T02:23:41Z",
+      "message": "add code"
+    },
+    {
+      "sha": "182dd36f561af96d68ff333a2c37ae1f6920659c",
+      "author_login": "rromb",
+      "authored_at": "2021-12-21T00:59:06Z",
+      "message": "Create README.md"
+    }
+  ],
+  "issues": [
+    {
+      "number": 919,
+      "title": "روسری رو حذف کن",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-03T20:27:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 918,
+      "title": "aa",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-27T21:03:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 912,
+      "title": "Hara",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-31T01:44:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 911,
+      "title": "📋 Documentation Enhancement Suggestion",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-12T07:03:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 910,
+      "title": "fix: replace 4 bare except clauses with except Exception",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-25T14:04:47Z",
+      "closed_at": "2026-02-27T02:50:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 909,
+      "title": "[Open Source] Run Local Stable Diffusion on Your low-end Devices",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-13T09:40:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 908,
+      "title": "fix: NaN assertion uses .all() instead of .any()",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-11T18:20:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 907,
+      "title": "fix: correct operator precedence in lvlb_weights calculation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-11T18:16:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 906,
+      "title": "perro verde",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-27T12:03:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 905,
+      "title": "None",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-25T06:16:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 904,
+      "title": "Create an image of me and my spouse in a beautiful seaside villa",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-26T23:38:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 903,
+      "title": "Jafar",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-11-26T23:35:28Z",
+      "closed_at": "2025-11-26T23:36:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 902,
+      "title": "There is a significant difference in the log sampling effect between manual reasoning generation and the training process.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-15T01:55:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 901,
+      "title": "Must the text prompt be provided?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-10T08:45:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 899,
+      "title": "Karen 1",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-09-26T14:58:36Z",
+      "closed_at": "2025-09-26T15:00:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 898,
+      "title": "Failed to finetune the pre-trained model of 'stable-diffusion-v1-4' on image inpainting task",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-17T07:15:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 897,
+      "title": "`score_corrector` / `modify_score` : I can't find example of these functions",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-08T05:22:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 896,
+      "title": "Create urimage",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-06-12T18:57:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 895,
+      "title": "Create Abella danger",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-05-12T22:27:32Z",
+      "closed_at": "2025-05-12T22:29:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 894,
+      "title": "Codespace refactored trout pj76644xx6grfrv5r",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-04-29T08:51:12Z",
+      "closed_at": "2025-05-01T21:49:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 893,
+      "title": "Implementation of rope and alibi",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-04-27T16:26:00Z",
+      "closed_at": "2025-04-27T16:34:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 892,
+      "title": "Bounded attention",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-04-27T01:29:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 891,
+      "title": "Finetune for rope",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-04-26T23:47:31Z",
+      "closed_at": "2025-04-26T23:57:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 890,
+      "title": "implemented rope",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-04-26T23:24:04Z",
+      "closed_at": "2025-04-26T23:39:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 889,
+      "title": "KeyError: 'sample'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-24T11:54:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 888,
+      "title": "Monza",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-18T16:35:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 887,
+      "title": "Houssem",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-04-06T18:21:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 886,
+      "title": "1",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-03-28T20:36:52Z",
+      "closed_at": "2025-03-28T20:37:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 885,
+      "title": "Trouble with installing SD",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-24T17:42:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 884,
+      "title": "nude",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-01T10:50:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 883,
+      "title": "Stable diffusion for unconditional generation?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-25T14:28:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 882,
+      "title": "Saksham",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-17T23:19:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 881,
+      "title": "```suggestion",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-12T20:12:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 879,
+      "title": "Create Stable-diffusion 1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-12-10T07:28:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 878,
+      "title": "Create Να",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-12-09T16:30:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 877,
+      "title": "Whats the difference between https://github.com/CompVis/stable-diffusion and https://github.com/CompVis/latent-diffusion",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-07T00:28:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 876,
+      "title": "Confused with nll_loss",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-26T04:29:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 875,
+      "title": "High quality, god quality",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-24T03:03:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 874,
+      "title": "AI img",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-17T09:41:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 873,
+      "title": "Why occurs Never Gonna Give You Up?????",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-10-20T09:56:26Z",
+      "closed_at": "2024-11-01T04:33:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 872,
+      "title": "Update?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-12T00:08:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 871,
+      "title": "Have you solved this problem? I also want to know how this FID is calculated and how to reproduce it.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-29T09:48:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 870,
+      "title": "想学习【文生图】快加学习交流群",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-17T01:37:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 869,
+      "title": "Anime",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-30T02:59:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 868,
+      "title": "I can't log in",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-28T18:46:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 867,
+      "title": "Can`t launch the install.py ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-03T08:30:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 866,
+      "title": "Yyyy",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-02T17:39:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 865,
+      "title": "ModuleNotFoundError: No module named 'ldm.util'; 'ldm' is not a package . at img2img.py",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-07-24T08:07:53Z",
+      "closed_at": "2025-12-27T11:04:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 864,
+      "title": "ModuleNotFoundError: No module named 'imwatermark'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-18T19:23:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 863,
+      "title": "Using Custom Picture Dataset in Stable Diffusion",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-12T08:53:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 862,
+      "title": "consuming food pouches by sucking.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-11T04:20:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 861,
+      "title": "Example from homepage returns KeyError 'sample'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-07-02T21:46:06Z",
+      "closed_at": "2024-07-02T21:50:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 860,
+      "title": "OverflowError: cannot fit 'int' into an index-sized integer",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-26T07:38:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 859,
+      "title": "Why bias in Q, K, V projection of SpatialSelfAttention?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-24T01:41:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 857,
+      "title": "CheckpointFunction: AttributeError: 'NoneType' object has no attribute 'detach'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-06-16T21:54:02Z",
+      "closed_at": "2024-06-29T21:52:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 856,
+      "title": "Galatasaray",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-14T10:25:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 855,
+      "title": "这是什么错误？应该如何解决啊？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-06T07:54:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 854,
+      "title": "mian.py",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-29T12:04:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 853,
+      "title": "Default config-checkpoint mapping for released models",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-27T10:03:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 852,
+      "title": "New",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-26T03:47:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 851,
+      "title": "Fixes in ddpm.py and main.py",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-05-16T12:29:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 850,
+      "title": "UserWarning: 1Torch was not compiled with flash attention.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-05-10T02:40:53Z",
+      "closed_at": "2024-11-19T04:09:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 849,
+      "title": "Question about the KL divergence loss",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-08T14:06:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 848,
+      "title": "discord control?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-22T09:18:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 847,
+      "title": "Where can I get the one good with 256x256",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-20T02:54:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 846,
+      "title": "python scripts/txt2img.py --prompt \"a cat\" --plms ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-18T06:58:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 845,
+      "title": "Calculation of timesteps for img2img tasks.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-15T17:04:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 844,
+      "title": "Create Gaussing_Diffusion.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-04-14T06:46:45Z",
+      "closed_at": "2024-10-17T13:47:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 843,
+      "title": "翻译部分readme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-04-07T13:59:31Z",
+      "closed_at": "2024-04-07T14:03:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 842,
+      "title": "How to use it with CPU?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-02T16:49:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 841,
+      "title": " RuntimeError: Sizes of tensors must match except in dimension 1. Expected size 1 but got size 2 for tensor number 1 in the list.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-31T08:55:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 840,
+      "title": "run 'python scripts/txt2img.py --prompt \"a photograph of an astronaut riding a horse\" --plms ' fail",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-26T15:00:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 839,
+      "title": "the img2img scripts can't work",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-21T14:11:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 838,
+      "title": "omegaconf.errors.ConfigAttributeError: Missing key data",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-15T04:57:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 837,
+      "title": "The separation of LoRa into separate folders has disappeared",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-13T12:49:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 836,
+      "title": "Multiple API Response from SDXL Model",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-05T05:48:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 835,
+      "title": "New Issue added for test",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-24T11:20:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 834,
+      "title": "Training/Fine-tuning model with custom medical images.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-20T08:25:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 833,
+      "title": "how to train train new model with different channel number in unet ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-15T08:22:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 832,
+      "title": "where is the classifier free guidance code",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-14T17:58:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 831,
+      "title": "cat",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-08T06:19:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 830,
+      "title": "The image changes color",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-01T20:30:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 829,
+      "title": "10.5.0",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-01-31T04:36:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 828,
+      "title": "小心脏",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-24T13:41:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 827,
+      "title": "Controlnet clean",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-01-23T05:16:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 826,
+      "title": "Download environment.yaml that is referenced but undefined",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-01-19T19:59:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 825,
+      "title": "Fails when creating an environment",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-01-13T10:05:58Z",
+      "closed_at": "2024-01-26T04:29:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 824,
+      "title": "stable diffusion study - restore a purely black and white portrait ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-13T03:53:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 823,
+      "title": "Mavis",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-09T23:15:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 822,
+      "title": "dark",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-08T09:56:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 821,
+      "title": "scale factor",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-06T06:17:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 819,
+      "title": "Update ddpm.py",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-12-22T17:45:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 818,
+      "title": "ModuleNotFoundError: No module named 'ldm.util'; 'ldm' is not a package",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-18T13:27:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 817,
+      "title": "Arcanite24/controlnet new 10.0.0",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-12-13T08:07:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 816,
+      "title": "Some weird problems: requests.exceptions.ProxyError: HTTPSConnectionPool(host='huggingface.co', port=443):",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-08T07:22:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 815,
+      "title": "generate green sample",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-05T13:16:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 814,
+      "title": "# make sure you're logged in with `huggingface-cli login` from torch import autocast from diffusers import StableDiffusionPipeline  pipe = StableDiffusionPipeline.from_pretrained( \t\"CompVis/stable-dif",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-01T04:41:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 812,
+      "title": "ModuleNotFoundError: No module named 'imwatermark' (SD 1.5)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-22T10:06:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 811,
+      "title": "stable-diffusion",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-20T15:05:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 810,
+      "title": "I need help, please look at the following questions, thank you！",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-19T09:18:19Z",
+      "closed_at": "2023-11-20T03:38:25Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "rromb",
+      "contributions": 9
+    },
+    {
+      "login": "pesser",
+      "contributions": 7
+    },
+    {
+      "login": "patrickvonplaten",
+      "contributions": 6
+    },
+    {
+      "login": "LuChengTHU",
+      "contributions": 2
+    },
+    {
+      "login": "owenvincent",
+      "contributions": 2
+    },
+    {
+      "login": "apolinario",
+      "contributions": 1
+    },
+    {
+      "login": "cpacker",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T09:07:59.312038Z"
+}

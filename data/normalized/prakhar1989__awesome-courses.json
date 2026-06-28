@@ -1,0 +1,1931 @@
+{
+  "full_name": "prakhar1989/awesome-courses",
+  "owner": "prakhar1989",
+  "name": "awesome-courses",
+  "url": "https://github.com/prakhar1989/awesome-courses",
+  "description": ":books: List of awesome university courses for learning Computer Science!",
+  "primary_language": null,
+  "topics": [
+    "awesome",
+    "awesome-list",
+    "computer-science",
+    "courses"
+  ],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 69351,
+  "forks": 8377,
+  "open_issues": 63,
+  "created_at": "2014-11-15T18:36:49Z",
+  "pushed_at": "2023-05-04T12:49:34Z",
+  "updated_at": "2026-06-28T08:17:11Z",
+  "commits": [
+    {
+      "sha": "e0b02ce4084c3b426304ae03ffcb072f7c8057f3",
+      "author_login": "ohlay",
+      "authored_at": "2022-11-12T13:05:10Z",
+      "message": "Added course on principles of programming languages (#325)"
+    },
+    {
+      "sha": "ea68b7b858047246dd3707d2026d777808d0c7ac",
+      "author_login": "Rethabile02",
+      "authored_at": "2022-10-31T14:18:48Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7040cf7fca83b0e72968f0de4a234babdd8787c3",
+      "author_login": "spekulatius",
+      "authored_at": "2022-10-19T06:29:42Z",
+      "message": "Tidy up spaces"
+    },
+    {
+      "sha": "cb59cbd0ddeceec52d82779e29cc13f8a4cf0236",
+      "author_login": "spekulatius",
+      "authored_at": "2022-10-19T06:26:50Z",
+      "message": "Add missing spaces"
+    },
+    {
+      "sha": "0aa8b5dda747c82fd7098e6cb2be46b7d44b8711",
+      "author_login": "spekulatius",
+      "authored_at": "2022-10-07T18:55:21Z",
+      "message": "Merge pull request #298 from DateBro/cmu-15410"
+    },
+    {
+      "sha": "258df18e71e355cee00713b2d523d607e530ecbf",
+      "author_login": "jasonsbarr",
+      "authored_at": "2018-03-02T19:57:35Z",
+      "message": "Added lecture videos for CS 61A"
+    },
+    {
+      "sha": "00088f6d470b248f620fa68793d19a14b489dfce",
+      "author_login": "marksweiss",
+      "authored_at": "2022-10-06T17:22:00Z",
+      "message": "Fix usage in README (#297)"
+    },
+    {
+      "sha": "d4142a6bcc8dbd87adc3d7c6446c187269d354d1",
+      "author_login": "spekulatius",
+      "authored_at": "2022-10-06T17:20:03Z",
+      "message": "Tidy up markup"
+    },
+    {
+      "sha": "155d3b51094abced6e168602d9796bc75fde1ddc",
+      "author_login": "vkoul",
+      "authored_at": "2022-10-06T17:19:01Z",
+      "message": "Added STAT 340 (#251)"
+    },
+    {
+      "sha": "34466ed40f7a1dab170bd727d02f79e2e5bea2b8",
+      "author_login": "spekulatius",
+      "authored_at": "2022-10-06T11:40:55Z",
+      "message": "Switch remaining links to https"
+    },
+    {
+      "sha": "043108afd213599352a0de012b4f03a932e742bc",
+      "author_login": "spekulatius",
+      "authored_at": "2022-10-06T11:40:16Z",
+      "message": "Fixing \"Advanced Data Structures\" links"
+    },
+    {
+      "sha": "7d443fbb7ea427e44535e25783aa9990c4265449",
+      "author_login": "spekulatius",
+      "authored_at": "2020-10-28T13:29:06Z",
+      "message": "Removing deleted course"
+    },
+    {
+      "sha": "f548c72b6d33f4b286fa70f4a862ea882063c1c8",
+      "author_login": "Ghost93",
+      "authored_at": "2022-10-06T17:15:03Z",
+      "message": "Fix CS 4810 @ Cornell links (#287)"
+    },
+    {
+      "sha": "7e768f03649228a44403beade9d0a950d5560b13",
+      "author_login": "rjmacaranas",
+      "authored_at": "2019-05-08T21:25:54Z",
+      "message": "fixed a typo on line 113; shceduling > scheduling"
+    },
+    {
+      "sha": "43d8a150ba4ae3d374da22db17685153a4a1eb1c",
+      "author_login": "prakhar1989",
+      "authored_at": "2020-12-02T19:38:21Z",
+      "message": "Merge pull request #323 from 0rps/master"
+    },
+    {
+      "sha": "5512213b44626c4c497939e0309c4c7684b1dc20",
+      "author_login": "0rps",
+      "authored_at": "2020-11-29T17:45:50Z",
+      "message": "Fix dead link of Fundamentals of Networks"
+    },
+    {
+      "sha": "f21353ad6bdbb6939fc360403a9adcc668bf7c16",
+      "author_login": "prakhar1989",
+      "authored_at": "2020-03-13T20:01:13Z",
+      "message": "Merge pull request #307 from ilhan-mstf/EmbeddedSystems"
+    },
+    {
+      "sha": "0738fd81ff83b6ecf16baf914544b131563f77e4",
+      "author_login": "prakhar1989",
+      "authored_at": "2020-03-13T20:00:10Z",
+      "message": "Merge pull request #317 from jasonsbarr/patch-3"
+    },
+    {
+      "sha": "a3cdac62a536d28ba9a0a2f767790a7088dcd274",
+      "author_login": "jasonsbarr",
+      "authored_at": "2020-03-09T00:48:37Z",
+      "message": "Fix URL for CMU 14-740 course website"
+    },
+    {
+      "sha": "62992c04875ed6e82e3a40a05fb9a599bdadb2c3",
+      "author_login": "ilhan-mstf",
+      "authored_at": "2019-10-15T19:10:38Z",
+      "message": "Add Embedded Systems course"
+    },
+    {
+      "sha": "85916944c1cea1ecc9e788288620d8cfd4337ab2",
+      "author_login": "DateBro",
+      "authored_at": "2019-04-27T10:39:06Z",
+      "message": "add 15-410 -- CMU"
+    },
+    {
+      "sha": "4609a350f0bfcfcb3497a51f0388e53532d19521",
+      "author_login": "prakhar1989",
+      "authored_at": "2019-01-16T18:31:53Z",
+      "message": "Merge pull request #266 from Frederick-S/master"
+    },
+    {
+      "sha": "3e467b5dcb13a3c2ca9b8b8fb85d0a49ee7b5a3c",
+      "author_login": "prakhar1989",
+      "authored_at": "2019-01-16T18:28:38Z",
+      "message": "Merge pull request #263 from sharihunt/update-link"
+    },
+    {
+      "sha": "cbdf83630e93c98df2bf3e113c68e82c6baba9ff",
+      "author_login": "prakhar1989",
+      "authored_at": "2019-01-16T18:27:49Z",
+      "message": "Merge pull request #268 from wangbinyq/master"
+    },
+    {
+      "sha": "29c9ca79071f48dbac1e8bcbd46c9253bb95fbd8",
+      "author_login": "prakhar1989",
+      "authored_at": "2019-01-16T18:27:12Z",
+      "message": "Merge pull request #270 from reikdas/patch-1"
+    },
+    {
+      "sha": "282348698666563dd9d61d1bee102db3534fca9f",
+      "author_login": "prakhar1989",
+      "authored_at": "2019-01-16T18:26:41Z",
+      "message": "Merge pull request #281 from chaorrupted/chaorrupted-patch-cs50"
+    },
+    {
+      "sha": "b851790d09da90d62ac3e69d6df10bce99794b20",
+      "author_login": "prakhar1989",
+      "authored_at": "2019-01-16T18:24:38Z",
+      "message": "Merge pull request #276 from abhy-kumar/master"
+    },
+    {
+      "sha": "4a414bbc335867f0e990528febe4d48f89303bd9",
+      "author_login": "prakhar1989",
+      "authored_at": "2019-01-16T18:23:36Z",
+      "message": "Merge pull request #274 from AB1908/master"
+    },
+    {
+      "sha": "90cb5d5d0ce916f274bddf6b6ee5f0be73d6e3f4",
+      "author_login": "prakhar1989",
+      "authored_at": "2019-01-16T18:22:58Z",
+      "message": "Merge pull request #275 from akashks1998/patch-1"
+    },
+    {
+      "sha": "4aa4434aae8e7d00c9a86bf5a55b348f0f298f68",
+      "author_login": "prakhar1989",
+      "authored_at": "2019-01-16T18:22:22Z",
+      "message": "Merge pull request #282 from schneiderl/master"
+    },
+    {
+      "sha": "31a035a016a2f1ef7429632766f567cd27c23562",
+      "author_login": "prakhar1989",
+      "authored_at": "2019-01-16T18:21:52Z",
+      "message": "Merge pull request #285 from miwojc/addFastai"
+    },
+    {
+      "sha": "8901ed5db592bb47288526e21712143073ae0d97",
+      "author_login": "prakhar1989",
+      "authored_at": "2019-01-16T18:21:35Z",
+      "message": "Merge pull request #288 from Ghost93/Ghost93-cs6810-fix-links"
+    },
+    {
+      "sha": "00da5fdfa47d15a8071a60f8492954577e5ef8ab",
+      "author_login": "prakhar1989",
+      "authored_at": "2019-01-16T18:21:08Z",
+      "message": "Merge pull request #289 from Ghost93/Ghost93-cs4820-2015"
+    },
+    {
+      "sha": "010481055a316f00f099ea1eb53b62929518fe50",
+      "author_login": "prakhar1989",
+      "authored_at": "2019-01-16T18:20:28Z",
+      "message": "Merge pull request #290 from Ghost93/Ghost93-cs4812-2018"
+    },
+    {
+      "sha": "6ad707153874ec6057e62acebccd25bd4641e55a",
+      "author_login": "prakhar1989",
+      "authored_at": "2019-01-16T18:20:06Z",
+      "message": "Merge pull request #291 from yuzhoujr/patch-1"
+    },
+    {
+      "sha": "7f007129a0533c68ae188cb2027f3c8e5b58bd2e",
+      "author_login": "tech-cow",
+      "authored_at": "2018-11-25T14:05:46Z",
+      "message": "Get rid of redundant material"
+    },
+    {
+      "sha": "a642983a4220fb4b95d46fde50c8eaabc604b150",
+      "author_login": "Ghost93",
+      "authored_at": "2018-10-27T08:08:14Z",
+      "message": "Update CS 4812 @ Cornell to 2018 version"
+    },
+    {
+      "sha": "6f32fa907b9a283837a4b1e8ed8b398524c6e73d",
+      "author_login": "Ghost93",
+      "authored_at": "2018-10-27T07:59:49Z",
+      "message": "CS 4820 @ Cornell - update links to 2015 version"
+    },
+    {
+      "sha": "cf8b83f28abc579886c59f7cf8ff9d2ef4e4cacd",
+      "author_login": "Ghost93",
+      "authored_at": "2018-10-27T07:53:25Z",
+      "message": "Fix CS 6810 @ Cornell and update to 2016 version"
+    },
+    {
+      "sha": "3f64082f9734cde815523fd3cc5e7494e4cbdf8c",
+      "author_login": "miwojc",
+      "authored_at": "2018-10-16T20:40:30Z",
+      "message": "Added Fast.ai Introduction to Machine Learning for Coders"
+    },
+    {
+      "sha": "824803f7d162ca051dda8582e11d05a193c4e3ad",
+      "author_login": "schneiderl",
+      "authored_at": "2018-10-13T02:19:09Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "45d2908613630036a3e3509c317d9c00a7355468",
+      "author_login": "chaorrupted",
+      "authored_at": "2018-10-12T10:33:23Z",
+      "message": "undo the last commit"
+    },
+    {
+      "sha": "92b876953f62f0b70dbe895a9749d924228448f4",
+      "author_login": "chaorrupted",
+      "authored_at": "2018-10-12T10:30:41Z",
+      "message": "fixed & updated harvard cs50"
+    },
+    {
+      "sha": "877c6d79c77cf39d8bc912f232064be41d7c2fd8",
+      "author_login": "chaorrupted",
+      "authored_at": "2018-10-12T10:24:08Z",
+      "message": "undo last commit in the ugliest way"
+    },
+    {
+      "sha": "367fabe3a3cc766e2c938a9158ecc3b3ad7d34ae",
+      "author_login": "chaorrupted",
+      "authored_at": "2018-10-12T10:16:28Z",
+      "message": "fixed harvard-cs50 broken links"
+    },
+    {
+      "sha": "ab423f0a838f950b636cb8dac33383eda8d0df0e",
+      "author_login": "chaorrupted",
+      "authored_at": "2018-10-11T21:37:14Z",
+      "message": "added metu-ceng-nihil"
+    },
+    {
+      "sha": "cf94a1252e54c3499fddc9201521eb2e4f89eeaa",
+      "author_login": "abhy-kumar",
+      "authored_at": "2018-06-20T08:59:33Z",
+      "message": "Merge pull request #1 from abhy-kumar/abhy-kumar-patch-1"
+    },
+    {
+      "sha": "c524c3a2e0ccb170992c08b889b85da0fd153f0f",
+      "author_login": "abhy-kumar",
+      "authored_at": "2018-06-20T08:58:51Z",
+      "message": "Updated link for CS97SI Notebook"
+    },
+    {
+      "sha": "ab8d7671eab91c1a2717e52604368a0e2dfba7b4",
+      "author_login": "akashks1998",
+      "authored_at": "2018-06-12T13:57:39Z",
+      "message": "Previous link was not working"
+    },
+    {
+      "sha": "93ad6c60f141a6536108904a7e7bc3b9d9f1260d",
+      "author_login": null,
+      "authored_at": "2018-06-04T15:21:02Z",
+      "message": "Fix position of CSCI 1230"
+    },
+    {
+      "sha": "d21e8b1e72691adb4f3ebc4c5214e53a3a5318e4",
+      "author_login": null,
+      "authored_at": "2018-06-04T15:15:45Z",
+      "message": "Fix position of CSCI 1230 in list"
+    },
+    {
+      "sha": "e5624f8b9e86da4495bac6d7dcb3e1cd89283330",
+      "author_login": "prakhar1989",
+      "authored_at": "2018-05-21T04:39:08Z",
+      "message": "added intro to game dev by harvard"
+    },
+    {
+      "sha": "4b563cfcbf138b4a02e8e3ee56016f678bc732b6",
+      "author_login": "prakhar1989",
+      "authored_at": "2018-05-12T18:13:33Z",
+      "message": "Added eecs189"
+    },
+    {
+      "sha": "e67ca88c25564b4230d3d965158568e210d07b46",
+      "author_login": "reikdas",
+      "authored_at": "2018-03-20T16:16:28Z",
+      "message": "Fixed broken link"
+    },
+    {
+      "sha": "ba2296b8be464d16fc22ca66f1e4299d7d6a2397",
+      "author_login": "wangbinyq",
+      "authored_at": "2018-03-02T08:36:12Z",
+      "message": "fix course name error"
+    },
+    {
+      "sha": "7b48d5a76e42f1d766a2348a8932cd471dbe6bbb",
+      "author_login": "Frederick-S",
+      "authored_at": "2018-02-23T01:56:42Z",
+      "message": "Fix cs 106a/106b/107 broken links"
+    },
+    {
+      "sha": "41e7a5430b2cb05e2055758626b09af0d1465b16",
+      "author_login": "sharihunt",
+      "authored_at": "2018-01-01T03:48:38Z",
+      "message": "Updated 14-740 link in README.md"
+    },
+    {
+      "sha": "70c673b82c2c80ffafad7aa562f88c181fbe9a2a",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-12-30T17:41:59Z",
+      "message": "removed extra files"
+    },
+    {
+      "sha": "eedbe44cb27b07e6abdc39d10706e33ece9ceaad",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-12-30T06:46:56Z",
+      "message": "Add CS in title & description in README. Fixes #262"
+    },
+    {
+      "sha": "837fc2f56d44549ae7ccd26086e78116a584acfc",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-11-30T03:56:41Z",
+      "message": "Merge pull request #259 from maggiewhite/patch-1"
+    },
+    {
+      "sha": "756417735a87004a45f2be30e22314d40d61cab9",
+      "author_login": "maggiewhite",
+      "authored_at": "2017-11-29T03:29:44Z",
+      "message": "Update Stanford Introduction to Robotics links"
+    },
+    {
+      "sha": "350e1beeea317ba6c2ef49d817a28fb83652356d",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-10-30T00:43:23Z",
+      "message": "Merge pull request #255 from youhusky/dev"
+    },
+    {
+      "sha": "c7bb654d4907d857d0ce821a5508a200a1e3957a",
+      "author_login": null,
+      "authored_at": "2017-10-29T23:51:30Z",
+      "message": "add 15619 Cloud Computing -- CMU"
+    },
+    {
+      "sha": "7a92b63698e3ccfd9536a0d39d836cdb4f12cbb4",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-10-28T15:52:45Z",
+      "message": "Merge pull request #254 from pyliaorachel/master"
+    },
+    {
+      "sha": "0e1568f91501b98dc50bc1cd4b7487594377d3f5",
+      "author_login": "pyliaorachel",
+      "authored_at": "2017-10-24T08:43:40Z",
+      "message": "Add UvA Deep Learning course"
+    },
+    {
+      "sha": "21dab4e12393951148d7203526208e6b82ca0ea3",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-09-08T05:26:45Z",
+      "message": "Merge pull request #249 from yohabe/CMU15-445"
+    },
+    {
+      "sha": "7b924990e291862852c1293e990ba39cb73ac68d",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-09-08T05:25:46Z",
+      "message": "Merge pull request #248 from aparij/master"
+    },
+    {
+      "sha": "4e3fe34d9602fa1903e6f625bea35c558c818fc7",
+      "author_login": "yohabe",
+      "authored_at": "2017-09-07T06:57:51Z",
+      "message": "Added CMU 15-445/645"
+    },
+    {
+      "sha": "1faa73dd2835ab8aea3d99437ad0ca3e206c086c",
+      "author_login": "aparij",
+      "authored_at": "2017-08-14T12:30:30Z",
+      "message": "updated Elm course link from 2015 to 2017 "
+    },
+    {
+      "sha": "1017ac4e42f6f0ba6936538626a8095825f7df37",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-07-23T17:48:57Z",
+      "message": "Merge pull request #247 from ShootingSpace/patch-1"
+    },
+    {
+      "sha": "4f24ad21eb854da1d0b6bd9b4124bd179b19b3e7",
+      "author_login": "congchan",
+      "authored_at": "2017-07-21T07:52:15Z",
+      "message": "Fix link of CS 109"
+    },
+    {
+      "sha": "9d15513d88480d7e7fcc7885afff2383f082952f",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-06-10T17:23:42Z",
+      "message": "Merge pull request #245 from a14504208/replace_Berkeley_videos"
+    },
+    {
+      "sha": "96dd4a3b7f09edeae1ff690f1a3d899422524b05",
+      "author_login": null,
+      "authored_at": "2017-06-10T17:14:25Z",
+      "message": "Replace videos link for CS 61B of UC Berkeley"
+    },
+    {
+      "sha": "eb27fd430c341b7f185dd2a467026b04ecb85867",
+      "author_login": null,
+      "authored_at": "2017-06-10T17:13:01Z",
+      "message": "Replace videos link for CS 164 of US Berkeley"
+    },
+    {
+      "sha": "05266c84d0d6d79c9c034a3c5be1bfdd39a6b081",
+      "author_login": null,
+      "authored_at": "2017-06-10T17:11:33Z",
+      "message": "Replace videos link for CS 186 of UC Berkeley"
+    },
+    {
+      "sha": "6a49c6e57155dba873cd4590b85de0a3fcbd7ebb",
+      "author_login": null,
+      "authored_at": "2017-06-10T17:09:02Z",
+      "message": "Replace videos link for CS 162 of UC Berkeley"
+    },
+    {
+      "sha": "b58354d6396ba4ee884cb540729bd7ff7a75f3f3",
+      "author_login": null,
+      "authored_at": "2017-06-10T17:02:06Z",
+      "message": "Replace videos link for CS 61C of Berkeley"
+    },
+    {
+      "sha": "2c28f4d1060a2332ddfa1cc5017875af055fc1a2",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-04-06T03:10:06Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "17854a9987b12eb2def854373856dd5494eaaee5",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-04-06T03:07:46Z",
+      "message": "Merge pull request #243 from agungsantoso/master"
+    },
+    {
+      "sha": "003a69ba26d41bb65e8a029944bbf644650884fc",
+      "author_login": "agungsantoso",
+      "authored_at": "2017-04-06T01:26:06Z",
+      "message": "Update icon and add syllabus"
+    },
+    {
+      "sha": "44eb0562840f70ea27320e7bcea1f2bab97e79d9",
+      "author_login": "agungsantoso",
+      "authored_at": "2017-04-06T01:22:10Z",
+      "message": "Adding Practical RL to Machine Learning"
+    },
+    {
+      "sha": "37b9aec02ac5691e1ec3fd79efe612ba9c15cda7",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-03-26T19:27:49Z",
+      "message": "Merge pull request #240 from zuik/master"
+    },
+    {
+      "sha": "bc50e977a4e26215fe9ca2a7d7f76e042b82c9d2",
+      "author_login": "zuik",
+      "authored_at": "2017-03-20T15:24:13Z",
+      "message": "Update 18-447 to Spring '15 version"
+    },
+    {
+      "sha": "11d055fe01ea7996b9f9fa135f43be4a8f17df53",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-03-18T22:18:28Z",
+      "message": "Merge pull request #239 from Hatsuney/master"
+    },
+    {
+      "sha": "d3222f54261cb590effc179d6261903883c1f496",
+      "author_login": null,
+      "authored_at": "2017-03-18T19:21:20Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "bc4439220df04979c7d86ab095e1c15da423c1f2",
+      "author_login": null,
+      "authored_at": "2017-03-18T19:20:27Z",
+      "message": "added a space between 15-418 and its title"
+    },
+    {
+      "sha": "1f969ac11eebacb18cce1c70853171e923b94593",
+      "author_login": null,
+      "authored_at": "2017-03-18T19:19:21Z",
+      "message": "formatting fixes #2"
+    },
+    {
+      "sha": "a80f9b3730e3fd521abaa2186194944a17dcb735",
+      "author_login": null,
+      "authored_at": "2017-03-18T19:18:24Z",
+      "message": "someone broke the formatting"
+    },
+    {
+      "sha": "160c6f9ce42151b498294fc665c3d8814c3dc510",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-03-18T16:55:44Z",
+      "message": "Merge pull request #237 from mquinson/master"
+    },
+    {
+      "sha": "d80123184b483f290bcc970d0cadf4a795fd2106",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-03-18T16:54:49Z",
+      "message": "Merge pull request #238 from yurovant/patch-1"
+    },
+    {
+      "sha": "9c086a9be9f6175dd895c5c8544c1e564aa579a8",
+      "author_login": "yurovant",
+      "authored_at": "2017-03-15T20:18:21Z",
+      "message": "Update `README.md`: add more recent course link for CS 223"
+    },
+    {
+      "sha": "f21557c4db8bcc6ba28a5f45c092f085d6c2b30b",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-03-12T07:24:41Z",
+      "message": "added DL course on tensorflow"
+    },
+    {
+      "sha": "28a09f134079399c94e8942f80d820576f23dbca",
+      "author_login": "mquinson",
+      "authored_at": "2017-03-10T13:26:15Z",
+      "message": "update the links of one course to the 2016 version"
+    },
+    {
+      "sha": "78306ea611b5cf30e1347ea11a2a7ebea69e6612",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-03-05T18:09:17Z",
+      "message": "Merge pull request #236 from cedarz/master"
+    },
+    {
+      "sha": "fb094f2fd0600ead678dd7ff0be32788221c5d9e",
+      "author_login": "cedarz",
+      "authored_at": "2017-03-04T02:24:25Z",
+      "message": "fix the wrong description of Networking programming language"
+    },
+    {
+      "sha": "12914c91228b7ca39b2c2c08c69d2601500edb82",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-02-26T16:10:34Z",
+      "message": "Merge pull request #235 from Devinsuit/master"
+    },
+    {
+      "sha": "7fc9e6e8df5ceab20339c0eb1ae16845bbc08264",
+      "author_login": null,
+      "authored_at": "2017-02-26T15:16:09Z",
+      "message": "Update broken links"
+    },
+    {
+      "sha": "0d9a00b37787b66cad484b48ebc2fa8a8741672f",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-02-19T19:52:26Z",
+      "message": "Merge pull request #234 from kmollee/master"
+    },
+    {
+      "sha": "98292eb15f41b2c4445612bf8d786bd50a8f15c6",
+      "author_login": "kmollee",
+      "authored_at": "2017-02-19T04:33:08Z",
+      "message": "update 14-740 Fundamentals of Computer Networks link"
+    },
+    {
+      "sha": "247892e03809526d12fe87ba46829ad2f83af631",
+      "author_login": "prakhar1989",
+      "authored_at": "2017-02-07T15:48:22Z",
+      "message": "uwash's distributed systems course"
+    }
+  ],
+  "issues": [
+    {
+      "number": 388,
+      "title": "Update canonical GitHub course links",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-02T09:09:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 387,
+      "title": "Fix Cornell CS3152 course links",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-01T14:08:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 386,
+      "title": "Question: would Suppr AI Document Translation fit this resource list?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-28T01:41:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 384,
+      "title": "Add TutorialSearch to Misc",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-22T04:39:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 382,
+      "title": "Uni Kurse IT",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-05-07T02:44:51Z",
+      "closed_at": "2026-05-07T02:45:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 365,
+      "title": "FileShot.io – Useful for students sharing assignments/projects securely (zero-knowledge)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-03T21:20:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 364,
+      "title": "Hi",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-26T21:24:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 363,
+      "title": "Course ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-22T16:44:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 362,
+      "title": "A few links need change. They're not working/course website has changed",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-08-19T13:01:17Z",
+      "closed_at": "2026-06-05T10:12:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 361,
+      "title": "Added two courses on DSA",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-07-18T06:54:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 360,
+      "title": "Courses",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-02T13:54:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 359,
+      "title": "Update CONTRIBUTING.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-12-16T00:45:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 358,
+      "title": "I have issues with my bank account",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-29T02:25:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 353,
+      "title": "Courses",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-26T05:23:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 352,
+      "title": "Add an Expo e-commerce complete project",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-05T05:19:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 351,
+      "title": "great",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-01T16:59:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 350,
+      "title": "Cs 50",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-26T04:28:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 349,
+      "title": "Feat: Addition of Algorithm Course by Princeton University",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-09T13:35:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 348,
+      "title": "Links not working ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-03T06:37:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 347,
+      "title": "He school",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-01T08:12:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 346,
+      "title": "uniwersytet ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-26T17:52:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 345,
+      "title": "remove dead links",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-05-04T12:49:33Z",
+      "closed_at": "2023-06-10T12:49:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 344,
+      "title": "Learning to Nerd again",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-31T17:47:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 343,
+      "title": "Link not working for algorithms ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-29T17:57:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 342,
+      "title": "Added link of Computer Science Roadmap",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-02-14T15:27:08Z",
+      "closed_at": "2023-05-10T18:36:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 341,
+      "title": "Num",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-08T03:19:51Z",
+      "closed_at": "2023-02-18T23:10:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 339,
+      "title": ".edu",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-01-16T13:19:07Z",
+      "closed_at": "2023-01-16T18:32:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 338,
+      "title": "Update Docs of README.md",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-01-13T16:23:07Z",
+      "closed_at": "2023-06-19T12:41:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 337,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-10-31T14:21:41Z",
+      "closed_at": "2022-10-31T20:26:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 336,
+      "title": "Fix advanced data structures links",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-10-06T11:41:11Z",
+      "closed_at": "2022-10-06T17:16:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 335,
+      "title": "CS 61B Revitalizations",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-22T23:09:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 334,
+      "title": "Add links to scroll to top",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-21T15:41:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 333,
+      "title": "add CS224w (ML with Graph) of Stanford",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-11T14:37:30Z",
+      "closed_at": "2022-06-19T10:39:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 332,
+      "title": "Add .whitesource configuration file",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-06T16:58:41Z",
+      "closed_at": "2022-01-06T17:00:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 331,
+      "title": "Computer Science",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-10-15T15:46:31Z",
+      "closed_at": "2022-11-08T07:42:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 329,
+      "title": "CS 3152 Introduction to Computer Game Development Cornell University - Links broken",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-21T20:59:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 328,
+      "title": "CS 411 Software Architecture Design Bilkent University - Link broken",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-21T20:58:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 327,
+      "title": "Update Github's emoji cdn location",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-04-19T04:56:49Z",
+      "closed_at": "2021-08-06T05:08:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 326,
+      "title": "Wrong Link",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-04-14T09:32:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 325,
+      "title": "Added course on principles of programming languages",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-26T11:12:17Z",
+      "closed_at": "2022-11-12T13:05:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 324,
+      "title": "Training suggestion - privacy training for startup founders and architects.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-04T18:20:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 323,
+      "title": "Fixed dead link of \"Fundamentals of Computer Networks\" CMU course",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-11-29T17:49:45Z",
+      "closed_at": "2020-12-02T19:38:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 322,
+      "title": "Removing deleted course",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-28T13:29:37Z",
+      "closed_at": "2022-10-06T17:16:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 321,
+      "title": "Ttt",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-23T11:15:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 320,
+      "title": "Teste",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-21T00:52:08Z",
+      "closed_at": "2022-10-06T07:36:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 319,
+      "title": "Links are dead",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-04T10:49:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 318,
+      "title": "Added another course on Concepts of Programming Languages",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-03-14T06:44:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 317,
+      "title": "Fix URL for CMU 14-740 course website",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-03-09T00:49:07Z",
+      "closed_at": "2020-03-13T20:00:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 309,
+      "title": "Added GSD 6338 from Harvard University",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-10-31T22:35:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 308,
+      "title": "Change icon to emoji",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-10-28T02:14:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 307,
+      "title": "Add Embedded Systems course",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-10-15T19:12:15Z",
+      "closed_at": "2020-03-13T20:01:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 306,
+      "title": "MIT 6.851 - update link to Fall 2017 (latest)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-10-02T12:48:32Z",
+      "closed_at": "2022-10-06T11:41:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 305,
+      "title": "Added Some YouTube Channels",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-09-20T00:01:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 304,
+      "title": "[Suggestion/Question]MOOC list",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-07-12T17:53:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 303,
+      "title": "CS 473/573 - 404 not found",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-07-02T09:48:14Z",
+      "closed_at": "2022-10-31T20:26:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 302,
+      "title": "make a simple roadmap for absolute beginners!",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-25T20:41:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 301,
+      "title": "CS193a Android App Development, Spring 2016 Stanford University Video Lecture  link is broken.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-11T17:02:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 300,
+      "title": "fixed a typo on line 113; shceduling > scheduling",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-08T21:26:25Z",
+      "closed_at": "2022-10-06T07:40:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 299,
+      "title": "Update icons/emojis",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-06T01:24:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 298,
+      "title": "add 15-410 -- CMU",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-27T10:40:51Z",
+      "closed_at": "2022-10-07T18:55:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 297,
+      "title": "Fix usage in README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-20T13:49:08Z",
+      "closed_at": "2022-10-06T17:22:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 296,
+      "title": "upgrade the course to the latest semester?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-16T12:55:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 295,
+      "title": "thanks for what you do",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-17T14:02:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 294,
+      "title": "Fix link to Stanford CS 155",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-03-12T08:11:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 293,
+      "title": "Add WPI CS 2102",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-02-01T21:41:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 292,
+      "title": "Merge pull request #1 from prakhar1989/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-01-23T15:47:21Z",
+      "closed_at": "2019-01-23T15:51:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 291,
+      "title": "Get rid of redundant material",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-25T14:06:02Z",
+      "closed_at": "2019-01-16T18:20:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 290,
+      "title": "Update CS 4812 @ Cornell to 2018 version",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-27T08:09:27Z",
+      "closed_at": "2019-01-16T18:20:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 289,
+      "title": "CS 4820 @ Cornell - update links to 2015 version",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-27T08:00:33Z",
+      "closed_at": "2019-01-16T18:21:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 288,
+      "title": "Fix CS 6810 @ Cornell and update to 2016 version",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-27T07:55:31Z",
+      "closed_at": "2019-01-16T18:21:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 287,
+      "title": "Fix CS 4810 @ Cornell links",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-27T07:49:47Z",
+      "closed_at": "2022-10-06T17:15:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 286,
+      "title": "Course on embedded system",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-24T01:25:22Z",
+      "closed_at": "2020-03-13T20:01:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 285,
+      "title": "Added Fast.ai Introduction to Machine Learning for Coders",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-16T20:42:37Z",
+      "closed_at": "2019-01-16T18:21:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 284,
+      "title": "Repository Abandoned?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-16T01:23:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 283,
+      "title": "add CS61 systems programming course",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-13T03:13:52Z",
+      "closed_at": "2018-11-28T05:50:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 282,
+      "title": "Fixed typos at readme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-13T02:20:10Z",
+      "closed_at": "2019-01-16T18:22:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 281,
+      "title": "Chaorrupted patch cs50",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-12T10:34:16Z",
+      "closed_at": "2019-01-16T18:26:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 280,
+      "title": "Added ceng111 from METU.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-11T21:39:38Z",
+      "closed_at": "2019-01-16T18:26:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 279,
+      "title": "Dead link (404) in CS50",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-11T20:28:49Z",
+      "closed_at": "2018-10-12T10:36:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 278,
+      "title": "UT / TACC courses",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-09-29T17:34:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 276,
+      "title": " Update link for CS97SI Notebook",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-20T09:01:39Z",
+      "closed_at": "2019-01-16T18:24:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 275,
+      "title": "CS 395T: Lecture and assignment broken link",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-12T13:57:52Z",
+      "closed_at": "2019-01-16T18:22:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 274,
+      "title": "Fix broken link for CS 123 from Brown University",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-04T15:26:49Z",
+      "closed_at": "2019-01-16T18:23:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 273,
+      "title": "CS 123 Introduction to Computer Graphics Brown University link dead",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-04T14:34:38Z",
+      "closed_at": "2020-07-25T12:48:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 272,
+      "title": "course",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-03T01:07:34Z",
+      "closed_at": "2018-05-03T01:07:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 271,
+      "title": "Stanford course access forbidden",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-03-20T16:45:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 270,
+      "title": "Fixed broken link",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-03-20T16:17:05Z",
+      "closed_at": "2019-01-16T18:27:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 269,
+      "title": "Added lecture videos for CS 61A",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-03-02T20:08:50Z",
+      "closed_at": "2022-10-06T17:23:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 268,
+      "title": "fix CS6452 name error",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-03-02T08:37:16Z",
+      "closed_at": "2019-01-16T18:27:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 267,
+      "title": "update 15-440 info from f2012 to f2016",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-02-26T15:09:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 266,
+      "title": "Fix cs 106a/106b/107 broken links",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-02-23T02:02:40Z",
+      "closed_at": "2019-01-16T18:31:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 265,
+      "title": "CS 61A: some links are dead",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-02-23T01:42:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 264,
+      "title": "CS610 - Not found error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-18T01:06:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 263,
+      "title": "Updated 14-740 link in README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-01-01T04:04:52Z",
+      "closed_at": "2019-01-16T18:28:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 262,
+      "title": "Expanding to all subjects",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-12-30T05:51:03Z",
+      "closed_at": "2017-12-30T06:47:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 261,
+      "title": "Updated link to 14-740",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-10T05:43:43Z",
+      "closed_at": "2018-01-01T01:34:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 260,
+      "title": "Network course link is dead",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-12-05T16:09:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 259,
+      "title": "Update Stanford Introduction to Robotics links",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-11-29T03:30:17Z",
+      "closed_at": "2017-11-30T03:56:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 258,
+      "title": "Added CS 193p - iPhone Application Development",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-11-07T09:54:56Z",
+      "closed_at": "2018-10-13T09:55:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 257,
+      "title": "Username/Password Required for CS 421 - Videos",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-07T09:38:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "prakhar1989",
+      "contributions": 284
+    },
+    {
+      "login": "awelch83",
+      "contributions": 19
+    },
+    {
+      "login": "robbyoconnor",
+      "contributions": 10
+    },
+    {
+      "login": "ivmarkp",
+      "contributions": 8
+    },
+    {
+      "login": "spekulatius",
+      "contributions": 7
+    },
+    {
+      "login": "themattchan",
+      "contributions": 6
+    },
+    {
+      "login": "arne-cl",
+      "contributions": 5
+    },
+    {
+      "login": "awesome-bot",
+      "contributions": 5
+    },
+    {
+      "login": "chaorrupted",
+      "contributions": 5
+    },
+    {
+      "login": "BhavdeepSethi",
+      "contributions": 4
+    },
+    {
+      "login": "royels",
+      "contributions": 4
+    },
+    {
+      "login": "samarjeet",
+      "contributions": 4
+    },
+    {
+      "login": "Ghost93",
+      "contributions": 4
+    },
+    {
+      "login": "ee08b397",
+      "contributions": 3
+    },
+    {
+      "login": "trentbradley",
+      "contributions": 3
+    },
+    {
+      "login": "anancds",
+      "contributions": 3
+    },
+    {
+      "login": "szdmr",
+      "contributions": 3
+    },
+    {
+      "login": "lingawakad",
+      "contributions": 3
+    },
+    {
+      "login": "cdipaolo",
+      "contributions": 3
+    },
+    {
+      "login": "mrdrozdov",
+      "contributions": 2
+    },
+    {
+      "login": "yangzgnay",
+      "contributions": 2
+    },
+    {
+      "login": "swong15",
+      "contributions": 2
+    },
+    {
+      "login": "harryge00",
+      "contributions": 2
+    },
+    {
+      "login": "liquidmetal",
+      "contributions": 2
+    },
+    {
+      "login": "tokeryberg",
+      "contributions": 2
+    },
+    {
+      "login": "seanli310",
+      "contributions": 2
+    },
+    {
+      "login": "praveenvvstgy",
+      "contributions": 2
+    },
+    {
+      "login": "philipmjohnson",
+      "contributions": 2
+    },
+    {
+      "login": "smihir",
+      "contributions": 2
+    },
+    {
+      "login": "Techfolio",
+      "contributions": 2
+    },
+    {
+      "login": "jasonsbarr",
+      "contributions": 2
+    },
+    {
+      "login": "DanGe42",
+      "contributions": 2
+    },
+    {
+      "login": "colegleason",
+      "contributions": 2
+    },
+    {
+      "login": "agungsantoso",
+      "contributions": 2
+    },
+    {
+      "login": "abhy-kumar",
+      "contributions": 2
+    },
+    {
+      "login": "sumitbhanushali",
+      "contributions": 1
+    },
+    {
+      "login": "tgaeta",
+      "contributions": 1
+    },
+    {
+      "login": "congchan",
+      "contributions": 1
+    },
+    {
+      "login": "tuvtran",
+      "contributions": 1
+    },
+    {
+      "login": "VictorVation",
+      "contributions": 1
+    },
+    {
+      "login": "vkoul",
+      "contributions": 1
+    },
+    {
+      "login": "vshan",
+      "contributions": 1
+    },
+    {
+      "login": "Sarin1204",
+      "contributions": 1
+    },
+    {
+      "login": "vivekpatle",
+      "contributions": 1
+    },
+    {
+      "login": "Voluong",
+      "contributions": 1
+    },
+    {
+      "login": "macwu1992",
+      "contributions": 1
+    },
+    {
+      "login": "yogeshpaul",
+      "contributions": 1
+    },
+    {
+      "login": "shawnLeeZX",
+      "contributions": 1
+    },
+    {
+      "login": "shinsaku417",
+      "contributions": 1
+    },
+    {
+      "login": "samyak-268",
+      "contributions": 1
+    },
+    {
+      "login": "roger-kang-mo",
+      "contributions": 1
+    },
+    {
+      "login": "rockytang",
+      "contributions": 1
+    },
+    {
+      "login": "lambainsaan",
+      "contributions": 1
+    },
+    {
+      "login": "Rethabile02",
+      "contributions": 1
+    },
+    {
+      "login": "mrahul17",
+      "contributions": 1
+    },
+    {
+      "login": "tanwanirahul",
+      "contributions": 1
+    },
+    {
+      "login": "MicBrain",
+      "contributions": 1
+    },
+    {
+      "login": "jwworth",
+      "contributions": 1
+    },
+    {
+      "login": "yohabe",
+      "contributions": 1
+    },
+    {
+      "login": "woodstok",
+      "contributions": 1
+    },
+    {
+      "login": "wangbinyq",
+      "contributions": 1
+    },
+    {
+      "login": "soupi",
+      "contributions": 1
+    },
+    {
+      "login": "souptikji",
+      "contributions": 1
+    },
+    {
+      "login": "sureyeaah",
+      "contributions": 1
+    },
+    {
+      "login": "sharihunt",
+      "contributions": 1
+    },
+    {
+      "login": "sairampola",
+      "contributions": 1
+    },
+    {
+      "login": "diddierh",
+      "contributions": 1
+    },
+    {
+      "login": "rjmacaranas",
+      "contributions": 1
+    },
+    {
+      "login": "pathway27",
+      "contributions": 1
+    },
+    {
+      "login": "ohlay",
+      "contributions": 1
+    },
+    {
+      "login": "mrmiywj",
+      "contributions": 1
+    },
+    {
+      "login": "miwojc",
+      "contributions": 1
+    },
+    {
+      "login": "matt-auld",
+      "contributions": 1
+    },
+    {
+      "login": "jeremieSimon",
+      "contributions": 1
+    },
+    {
+      "login": "Giraj",
+      "contributions": 1
+    },
+    {
+      "login": "fordaz",
+      "contributions": 1
+    },
+    {
+      "login": "erichoco",
+      "contributions": 1
+    },
+    {
+      "login": "crongray",
+      "contributions": 1
+    },
+    {
+      "login": "cedarz",
+      "contributions": 1
+    },
+    {
+      "login": "goalong",
+      "contributions": 1
+    },
+    {
+      "login": "tech-cow",
+      "contributions": 1
+    },
+    {
+      "login": "JMatharu",
+      "contributions": 1
+    },
+    {
+      "login": "Hardmath123",
+      "contributions": 1
+    },
+    {
+      "login": "haochuan",
+      "contributions": 1
+    },
+    {
+      "login": "GordyD",
+      "contributions": 1
+    },
+    {
+      "login": "Frederick-S",
+      "contributions": 1
+    },
+    {
+      "login": "frankjwu",
+      "contributions": 1
+    },
+    {
+      "login": "zuik",
+      "contributions": 1
+    },
+    {
+      "login": "Developer-Y",
+      "contributions": 1
+    },
+    {
+      "login": "daviddao",
+      "contributions": 1
+    },
+    {
+      "login": "DateBro",
+      "contributions": 1
+    },
+    {
+      "login": "danoneata",
+      "contributions": 1
+    },
+    {
+      "login": "schmich",
+      "contributions": 1
+    },
+    {
+      "login": "sup",
+      "contributions": 1
+    },
+    {
+      "login": "bcbcb",
+      "contributions": 1
+    },
+    {
+      "login": "ArthurMG",
+      "contributions": 1
+    },
+    {
+      "login": "tartakynov",
+      "contributions": 1
+    },
+    {
+      "login": "yurovant",
+      "contributions": 1
+    },
+    {
+      "login": "aniruddh-a",
+      "contributions": 1
+    },
+    {
+      "login": "koksal",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T09:08:02.571107Z"
+}

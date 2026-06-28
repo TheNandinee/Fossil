@@ -1,0 +1,1710 @@
+{
+  "full_name": "resume/resume.github.com",
+  "owner": "resume",
+  "name": "resume.github.com",
+  "url": "https://github.com/resume/resume.github.com",
+  "description": "Resumes generated using the GitHub informations",
+  "primary_language": "JavaScript",
+  "topics": [],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 62880,
+  "forks": 1370,
+  "open_issues": 76,
+  "created_at": "2011-02-06T13:39:55Z",
+  "pushed_at": "2023-02-15T06:38:51Z",
+  "updated_at": "2026-06-28T04:28:02Z",
+  "commits": [
+    {
+      "sha": "f5990756495bfd6d86495733bfb238c96771cbbf",
+      "author_login": "u2",
+      "authored_at": "2016-08-05T05:37:30Z",
+      "message": "Merge pull request #237 from bardiharborow/patch-1"
+    },
+    {
+      "sha": "6ca53fd9de25f25fc6498b75003462de5a539ec5",
+      "author_login": "bardiharborow",
+      "authored_at": "2016-08-05T05:29:01Z",
+      "message": "Rewrite and cleanup README."
+    },
+    {
+      "sha": "951598fde31ec86e3901ad56fcaff8eaa7095cef",
+      "author_login": "u2",
+      "authored_at": "2016-06-03T09:05:41Z",
+      "message": "Merge pull request #233 from shakeelmohamed/master"
+    },
+    {
+      "sha": "4a9ef4a25a3e0f7aa0dba9614e46be4cd1214062",
+      "author_login": "shakeelmohamed",
+      "authored_at": "2016-06-03T09:00:42Z",
+      "message": "fix aspect ratio"
+    },
+    {
+      "sha": "3030974302fddf033dfdb696670453e6226166a1",
+      "author_login": "shakeelmohamed",
+      "authored_at": "2016-06-03T08:57:43Z",
+      "message": "Update favicon to have a transparent background"
+    },
+    {
+      "sha": "ed9d7149afac5cff03f9dbac0e3a79008389f519",
+      "author_login": "u2",
+      "authored_at": "2016-06-03T08:54:35Z",
+      "message": "Merge pull request #232 from shakeelmohamed/master"
+    },
+    {
+      "sha": "5302ed4f4bc6454d334dbe83c03f843a4b400b47",
+      "author_login": "shakeelmohamed",
+      "authored_at": "2016-06-03T08:51:00Z",
+      "message": "Fix broken languages link"
+    },
+    {
+      "sha": "72af4ba508713dc99bb3b87192b25b0aa4e086ad",
+      "author_login": "u2",
+      "authored_at": "2016-06-01T08:13:26Z",
+      "message": "Merge pull request #231 from joaosa/master"
+    },
+    {
+      "sha": "e86661054ff34b5fe5f5f0b78f027dddaac3e013",
+      "author_login": "u2",
+      "authored_at": "2016-06-01T08:11:05Z",
+      "message": "Merge pull request #230 from himanshub16/master"
+    },
+    {
+      "sha": "825763d4c3def30fcc64f41be7025cc31aaed25c",
+      "author_login": "joaosa",
+      "authored_at": "2016-05-26T14:35:46Z",
+      "message": "Fix spacing"
+    },
+    {
+      "sha": "59281630d849fca9e318ac0af8ac0f032c30b901",
+      "author_login": "joaosa",
+      "authored_at": "2016-05-26T14:33:08Z",
+      "message": "Fix processing empty descriptions for private repositories"
+    },
+    {
+      "sha": "25f60bfd36e1593727324aaeefc4c79d2934325e",
+      "author_login": "himanshub16",
+      "authored_at": "2016-05-19T11:35:15Z",
+      "message": "Added favicon icon"
+    },
+    {
+      "sha": "2790a6d55a53f20523a632c6cc6e190f35f10a36",
+      "author_login": "u2",
+      "authored_at": "2016-05-07T06:02:50Z",
+      "message": "Merge pull request #228 from aldahick/issue210"
+    },
+    {
+      "sha": "e4e6b1efb9986f6149fedf7ee9f42c90a69c4a27",
+      "author_login": "u2",
+      "authored_at": "2016-05-07T06:00:38Z",
+      "message": "Merge pull request #229 from himanshub16/patch-1"
+    },
+    {
+      "sha": "70d691145797330b8b521506ebed624df7701268",
+      "author_login": "himanshub16",
+      "authored_at": "2016-05-07T05:39:38Z",
+      "message": "Autofocus added to index.html"
+    },
+    {
+      "sha": "6e2c7ee30dc982b8c11d27ae25081f66998eb102",
+      "author_login": "aldahick",
+      "authored_at": "2016-05-05T19:18:55Z",
+      "message": "Fix #210"
+    },
+    {
+      "sha": "07b3a6d3a831b3de5d582f7b171ff4ca913ab4ac",
+      "author_login": "u2",
+      "authored_at": "2016-02-22T02:47:56Z",
+      "message": "Merge pull request #225 from PeterDaveHello/patch-1"
+    },
+    {
+      "sha": "0ea9185489821b619f372cf18e7b5c0b2ab76e26",
+      "author_login": "PeterDaveHello",
+      "authored_at": "2016-02-22T02:41:21Z",
+      "message": "Update index.html"
+    },
+    {
+      "sha": "60a71261dfadddb43107c9cf0813f33f1a941b25",
+      "author_login": "u2",
+      "authored_at": "2016-02-22T02:12:30Z",
+      "message": "Merge pull request #224 from PeterDaveHello/examples"
+    },
+    {
+      "sha": "6f7bbcc8a65bfb497c261cd8c01693d6a6270c27",
+      "author_login": "u2",
+      "authored_at": "2016-02-22T02:10:23Z",
+      "message": "Merge pull request #223 from PeterDaveHello/patch-1"
+    },
+    {
+      "sha": "1293a65ca4fcbe47a9e7155477e3af48239f5cd9",
+      "author_login": "PeterDaveHello",
+      "authored_at": "2016-02-20T14:32:43Z",
+      "message": "remove the users haven't opted in in index example"
+    },
+    {
+      "sha": "eda11c68867ef18e56a9e975dd4398b4e0b1082c",
+      "author_login": "PeterDaveHello",
+      "authored_at": "2016-02-20T14:23:19Z",
+      "message": "Update index.html"
+    },
+    {
+      "sha": "56c155c1fdcaacd8b77665b8093474a22c1577fd",
+      "author_login": "u2",
+      "authored_at": "2016-02-19T04:23:55Z",
+      "message": "per_page maximum only 100"
+    },
+    {
+      "sha": "41c61e7ee9223b1b5023765d73fc028b476537f1",
+      "author_login": "u2",
+      "authored_at": "2016-02-19T03:44:17Z",
+      "message": "Merge pull request #221 from PeterDaveHello/patch-1"
+    },
+    {
+      "sha": "672c1c0278dad3ece478daa7dc1cb18d677f1c18",
+      "author_login": "PeterDaveHello",
+      "authored_at": "2016-02-19T03:23:34Z",
+      "message": "Update index.html"
+    },
+    {
+      "sha": "734a592f7d638f30fd34ecc81c0b74285956fa16",
+      "author_login": "u2",
+      "authored_at": "2016-02-18T16:59:32Z",
+      "message": "Merge pull request #211 from simonardejr/master"
+    },
+    {
+      "sha": "d8d2abb554ed2627b8cb636e4e0c7c77e26bcd47",
+      "author_login": "u2",
+      "authored_at": "2016-02-18T16:57:56Z",
+      "message": "Merge pull request #220 from PeterDaveHello/optimize"
+    },
+    {
+      "sha": "b7794c4582535cb4f5ffdaff19e29796b9f358c9",
+      "author_login": "u2",
+      "authored_at": "2016-02-18T16:09:25Z",
+      "message": "Add contributions repos"
+    },
+    {
+      "sha": "4bfb1800e91518d5859f06170de88a54328fb7bf",
+      "author_login": "u2",
+      "authored_at": "2016-02-18T08:43:30Z",
+      "message": "Reduce requests"
+    },
+    {
+      "sha": "2f41ace6367ee814a4199e9388a693c27cb07aad",
+      "author_login": "u2",
+      "authored_at": "2016-02-18T03:09:32Z",
+      "message": "Remove unused htmls"
+    },
+    {
+      "sha": "12184a6f0baba68c476f1864b7abc463b45c1d7b",
+      "author_login": "u2",
+      "authored_at": "2016-02-18T03:03:31Z",
+      "message": "Add homepage for repo"
+    },
+    {
+      "sha": "8861a7d0c20ce53be1aa1dd5fcb439cb122df70c",
+      "author_login": "u2",
+      "authored_at": "2016-02-17T15:34:25Z",
+      "message": "Update to HTML5"
+    },
+    {
+      "sha": "b7d8db7984b33059375dfd0bbe4999b4c7d1d461",
+      "author_login": "u2",
+      "authored_at": "2016-02-17T07:10:25Z",
+      "message": "Merge pull request #172 from JoahG/403-handling"
+    },
+    {
+      "sha": "98135ffac49ed6a747d8e1fa4e2237f35bd91754",
+      "author_login": "PeterDaveHello",
+      "authored_at": "2016-02-17T07:00:45Z",
+      "message": "use minified mustcache on cdnjs"
+    },
+    {
+      "sha": "69ba4ef00735e332ed5bfbfaf975c1c60ef3383a",
+      "author_login": "PeterDaveHello",
+      "authored_at": "2016-02-16T04:24:10Z",
+      "message": "use optipng to recompress png images losslessly"
+    },
+    {
+      "sha": "07d0354f00bc9eac63336d80dfa68867dfc96f54",
+      "author_login": "u2",
+      "authored_at": "2016-02-17T06:24:21Z",
+      "message": "typo"
+    },
+    {
+      "sha": "8207199301fe0c0d9947a1d9521076d22f0b85f1",
+      "author_login": "u2",
+      "authored_at": "2016-02-17T06:19:53Z",
+      "message": "Merge pull request #200 from vermiculus/master"
+    },
+    {
+      "sha": "ad6a15a8ed31fefc64a1f30896d03a0bd262ce7c",
+      "author_login": "vermiculus",
+      "authored_at": "2016-02-17T06:17:37Z",
+      "message": "Use endash where appropriate"
+    },
+    {
+      "sha": "7877994007eadf2b9a3d07270dfaa01556f55a7a",
+      "author_login": "u2",
+      "authored_at": "2016-02-17T03:05:37Z",
+      "message": "fallback to local for jquery cdn"
+    },
+    {
+      "sha": "3d9880aa9ac8cee1a4a1cdd91f333d298fca5e15",
+      "author_login": "u2",
+      "authored_at": "2016-02-17T03:00:21Z",
+      "message": "update jQuery version and using Goolge host jQuery"
+    },
+    {
+      "sha": "ea1e2a23437acf3fe32a80ac993b0283e7233d93",
+      "author_login": "u2",
+      "authored_at": "2016-02-16T14:04:27Z",
+      "message": "Merge pull request #205 from cyphar/fix-https-scripts"
+    },
+    {
+      "sha": "ed05dee3c51e1af1a484f7796e56265aad897658",
+      "author_login": "cyphar",
+      "authored_at": "2015-07-08T16:51:59Z",
+      "message": "index: fix scripts not loading on HTTPS"
+    },
+    {
+      "sha": "f23b2f943333474e68a4192d71b1b4f54373a9e0",
+      "author_login": "u2",
+      "authored_at": "2016-02-16T06:39:09Z",
+      "message": "Change url http://github.com/resume/resume.github.com to https"
+    },
+    {
+      "sha": "f75a20af9d2dff6cb449c1aa8f50de9a7f09c20f",
+      "author_login": "u2",
+      "authored_at": "2016-02-09T15:06:48Z",
+      "message": "Merge pull request #209 from danprince/master"
+    },
+    {
+      "sha": "11bf5bafd25545be8da208bd06a055c689416777",
+      "author_login": "u2",
+      "authored_at": "2016-02-08T16:08:35Z",
+      "message": "Merge pull request #199 from rjatkinson2/patch-1"
+    },
+    {
+      "sha": "8f66e47d7dbf47a5a4df4bf6f77eed45913bda26",
+      "author_login": "u2",
+      "authored_at": "2016-02-08T12:38:47Z",
+      "message": "Merge pull request #219 from bfontaine/sagotch"
+    },
+    {
+      "sha": "457fb21e8e8db098d7aba121a4e93f3152415504",
+      "author_login": "sagotch",
+      "authored_at": "2014-01-20T19:09:59Z",
+      "message": "Made link in \"Languages\" section point to search page of user's repo"
+    },
+    {
+      "sha": "0ad014760caab397fee6b38d28b65405b6406f5c",
+      "author_login": "u2",
+      "authored_at": "2016-02-08T01:34:00Z",
+      "message": "Merge pull request #176 from acrogenesis/tab-space-format"
+    },
+    {
+      "sha": "cb8257928e822b66e24c97a71979b3906d2cea3e",
+      "author_login": "u2",
+      "authored_at": "2016-02-07T15:59:07Z",
+      "message": "Merge pull request #215 from cydrobolt/patch-1"
+    },
+    {
+      "sha": "4cf2872f491b9cd38100c9db0f990d4133b58048",
+      "author_login": "cydrobolt",
+      "authored_at": "2016-01-10T16:22:19Z",
+      "message": "Use GitHub's language trending page for language links"
+    },
+    {
+      "sha": "d6780a6f171bb88e4d24c7500bc6d0d3a598edf2",
+      "author_login": "simonardejr",
+      "authored_at": "2015-10-31T12:00:22Z",
+      "message": "just adjusting some texts :-)"
+    },
+    {
+      "sha": "05a621dff73013323f1adc55c3043ae7a895d1e1",
+      "author_login": null,
+      "authored_at": "2015-08-30T22:43:58Z",
+      "message": "fix name of watchers field"
+    },
+    {
+      "sha": "20319d55e403742def5e6e5b23ffdc33065b0867",
+      "author_login": "rjatkinson2",
+      "authored_at": "2015-02-10T06:12:29Z",
+      "message": "Fix Grammar in README.markdown"
+    },
+    {
+      "sha": "e9634654bba1d2eec01cd417b3dc9de7420b0cce",
+      "author_login": "acrogenesis",
+      "authored_at": "2013-12-18T03:18:28Z",
+      "message": "replace tabs with spaces, added a missing </div>"
+    },
+    {
+      "sha": "52b006a421fc5170b44da75257c677a7383c7dcb",
+      "author_login": "acrogenesis",
+      "authored_at": "2013-12-18T03:15:45Z",
+      "message": "replace tabs with spaces, remove some whitespace at EOL"
+    },
+    {
+      "sha": "d6b807d3431a733e2e7c06b8b3836ed89181c0b2",
+      "author_login": null,
+      "authored_at": "2013-12-06T19:05:44Z",
+      "message": "Change variable name to increase semanticity"
+    },
+    {
+      "sha": "e915614a2a2118ea01aeeb4425b44d4ac64707f7",
+      "author_login": null,
+      "authored_at": "2013-12-06T19:00:27Z",
+      "message": "Adds 404 handling"
+    },
+    {
+      "sha": "c5e49dd5f7824bb7e4343659a86fd4f12ace10fe",
+      "author_login": null,
+      "authored_at": "2013-12-06T18:25:27Z",
+      "message": "Adds 403 Handling"
+    },
+    {
+      "sha": "c537d43f3eeb259578f4a0501cb5c0014edd3b72",
+      "author_login": null,
+      "authored_at": "2013-12-06T17:40:59Z",
+      "message": "Merge pull request #163 from JoahG/master"
+    },
+    {
+      "sha": "e83ac500b85af9314dff6458f50e127c289ffe6b",
+      "author_login": null,
+      "authored_at": "2013-12-06T17:40:48Z",
+      "message": "Merge pull request #171 from JoahG/blog-to-website"
+    },
+    {
+      "sha": "063dce1fadd0f91eb43ed99c89774d625703978b",
+      "author_login": null,
+      "authored_at": "2013-12-06T17:30:07Z",
+      "message": "Update to include #167"
+    },
+    {
+      "sha": "177b3b80eaeea1354e738d942d137d3d62890b0e",
+      "author_login": null,
+      "authored_at": "2013-12-06T17:29:22Z",
+      "message": "Merge pull request #162 from trans/master"
+    },
+    {
+      "sha": "3b81ad71abbd5264319adafc29992749aeaac774",
+      "author_login": null,
+      "authored_at": "2013-12-06T17:28:24Z",
+      "message": "Merge pull request #169 from JoahG/blog-to-website"
+    },
+    {
+      "sha": "6c06971478f85c8cb389a6062c33c2441a858b67",
+      "author_login": null,
+      "authored_at": "2013-12-06T17:26:55Z",
+      "message": "Merge pull request #167 from JoahG/footer-fix"
+    },
+    {
+      "sha": "a551a1ea1e3e1892961fa5669b1079502cacd51b",
+      "author_login": null,
+      "authored_at": "2013-12-06T17:26:37Z",
+      "message": "Merge pull request #165 from chocolateboy/fix_username"
+    },
+    {
+      "sha": "ed4fc82a875061c382946ecf515a33d048e3d775",
+      "author_login": null,
+      "authored_at": "2013-12-06T15:30:46Z",
+      "message": "Merge pull request #170 from bitdeli-chef/master"
+    },
+    {
+      "sha": "95fbdde85cda0eaf109ac7ab7956094c7d6d71c7",
+      "author_login": "bitdeli-chef",
+      "authored_at": "2013-12-06T15:33:11Z",
+      "message": "Add a Bitdeli badge to README"
+    },
+    {
+      "sha": "d74faf496cde4428453482117450f98a706c68f6",
+      "author_login": null,
+      "authored_at": "2013-12-05T19:47:49Z",
+      "message": "Changes all references of 'blog' to 'website' instead."
+    },
+    {
+      "sha": "57fddf9641eda81d6685c751e75c66fa230439a4",
+      "author_login": null,
+      "authored_at": "2013-12-04T13:52:20Z",
+      "message": "Added blog to resume footer"
+    },
+    {
+      "sha": "a7751345be6eea794078fc9a139f0738902eeed4",
+      "author_login": "chocolateboy",
+      "authored_at": "2013-12-03T10:09:42Z",
+      "message": "fix view.name for accounts without a \"friendly\" name"
+    },
+    {
+      "sha": "c4560f53c6712fad6bc46f87902c8c57d2e29baa",
+      "author_login": null,
+      "authored_at": "2013-12-02T21:13:47Z",
+      "message": "Addresses #70. Makes Repository description bigger than meta data."
+    },
+    {
+      "sha": "7c7f0eb5cbfdee07d8f45e4c11ae322c6533697c",
+      "author_login": "trans",
+      "authored_at": "2013-12-02T20:08:44Z",
+      "message": "Fix pageing of starred repos."
+    },
+    {
+      "sha": "b92e2c4b8b701b140a428677a1d7a845faba6dfb",
+      "author_login": null,
+      "authored_at": "2013-11-28T15:32:03Z",
+      "message": "Merge pull request #156 from leprechaun/popular-repos-quick-fix"
+    },
+    {
+      "sha": "c7b7c2e2cf6511d69bb23fac5e4f8fad657a0fd2",
+      "author_login": "leprechaun",
+      "authored_at": "2013-11-28T15:19:56Z",
+      "message": "Fixing 1st vs 3rd person texts"
+    },
+    {
+      "sha": "90bf1cf6012070f510372cabcaa51a7ab6980fe2",
+      "author_login": "leprechaun",
+      "authored_at": "2013-11-28T12:21:14Z",
+      "message": "Slight semantic fix for \"I do not have any public repos\""
+    },
+    {
+      "sha": "ebc9668856dfe88da0656e13271a2e0ed66a252b",
+      "author_login": null,
+      "authored_at": "2013-11-27T21:47:54Z",
+      "message": "Merge pull request #154 from m5n/master"
+    },
+    {
+      "sha": "18595f64df576a48d8cff07293b9ab2244929cfc",
+      "author_login": "m5n",
+      "authored_at": "2013-11-26T16:28:06Z",
+      "message": "Add developer info."
+    },
+    {
+      "sha": "6b98b96936a25387c87ffb684ebdfd5782517c85",
+      "author_login": "m5n",
+      "authored_at": "2013-11-26T16:26:31Z",
+      "message": "Remove the need for they/their by rewording. Pull blog into its own section."
+    },
+    {
+      "sha": "4caf14f958efcea83ce4c9e36a57805c63b23c12",
+      "author_login": null,
+      "authored_at": "2013-11-26T15:10:51Z",
+      "message": "Merge pull request #153 from ivuorinen/master"
+    },
+    {
+      "sha": "9013a8099fe2851b7c33e26e5fa89b41e99fa2f6",
+      "author_login": "ivuorinen",
+      "authored_at": "2013-11-26T09:40:24Z",
+      "message": "If the user hasn’t set their blog url, line shouldn’t end to a comma."
+    },
+    {
+      "sha": "3a093fef0e2160d2935df8c95161541a74616f01",
+      "author_login": null,
+      "authored_at": "2013-11-24T17:24:06Z",
+      "message": "Merge pull request #146 from varzan/patch-1"
+    },
+    {
+      "sha": "3378e2997541a951e551c2d57971004a3bd993ab",
+      "author_login": null,
+      "authored_at": "2013-11-24T02:03:28Z",
+      "message": "Merge pull request #145 from chocolateboy/stop_iteration_if_starred"
+    },
+    {
+      "sha": "0360e115022ea35280c32b10caaae17d773171ea",
+      "author_login": null,
+      "authored_at": "2013-11-24T02:02:17Z",
+      "message": "Merge pull request #149 from mosampaio/master"
+    },
+    {
+      "sha": "f7007cc514cfd27b3362927836be031a1a795884",
+      "author_login": null,
+      "authored_at": "2013-11-23T20:41:20Z",
+      "message": "Update resumeOrgs.html"
+    },
+    {
+      "sha": "c13eba3f9726c268037c7e359f82bb34f1b495a6",
+      "author_login": "mosampaio",
+      "authored_at": "2013-11-23T00:53:20Z",
+      "message": "adding responsiveness for max-width=60em"
+    },
+    {
+      "sha": "1aec12c666eac7fe230d112dc7d7f692cedd6658",
+      "author_login": "mosampaio",
+      "authored_at": "2013-11-23T00:47:34Z",
+      "message": "adding responsiveness for max-width=60em"
+    },
+    {
+      "sha": "43be1eadaa008269f7426db8dda7798352777808",
+      "author_login": "varzan",
+      "authored_at": "2013-11-21T21:04:00Z",
+      "message": "spelling"
+    },
+    {
+      "sha": "5cb49369469085afe845d8c63454a247e4cb33b3",
+      "author_login": "chocolateboy",
+      "authored_at": "2013-11-20T19:56:37Z",
+      "message": "stop iterating starred repos if a match is found"
+    },
+    {
+      "sha": "97e5f93f80bab6e353f98c519fda8248c978a8f5",
+      "author_login": null,
+      "authored_at": "2013-11-20T09:56:47Z",
+      "message": "Added more wording"
+    },
+    {
+      "sha": "ca65113d1eb687f6fe76f44984c7d6ba18974e90",
+      "author_login": null,
+      "authored_at": "2013-11-20T09:55:02Z",
+      "message": "Added the \"starring\" steps to the opt-out page."
+    },
+    {
+      "sha": "290bdb31fc3aaecbeefb7d273d9759fedfff5178",
+      "author_login": null,
+      "authored_at": "2013-11-20T09:49:39Z",
+      "message": "Merge pull request #139 from trans/master"
+    },
+    {
+      "sha": "d9dca6e8f6709a3e25e98aacd70329bfef0f91f5",
+      "author_login": "trans",
+      "authored_at": "2013-11-19T22:31:01Z",
+      "message": "Opt-in by starring resume.github.com project."
+    },
+    {
+      "sha": "1e45a8e4586a665dc101367fa7926658a3c5534d",
+      "author_login": null,
+      "authored_at": "2013-11-19T18:22:54Z",
+      "message": "Merge pull request #122 from kudos/master"
+    },
+    {
+      "sha": "214df533951fcfc1f2b34abf30b226b517d267ff",
+      "author_login": "kudos",
+      "authored_at": "2013-11-19T18:17:45Z",
+      "message": "Fix typo in opt_out_users.js"
+    },
+    {
+      "sha": "e64b5be9b4011ea76f06cab9e97815a1617d8e05",
+      "author_login": null,
+      "authored_at": "2013-11-19T17:59:57Z",
+      "message": "Removed brianvh"
+    },
+    {
+      "sha": "87bc798ca53b846e1360e757e02a58f95694dda4",
+      "author_login": null,
+      "authored_at": "2013-11-19T17:59:14Z",
+      "message": "Removed bitprophet"
+    },
+    {
+      "sha": "66a74d86f187a2211c872588451fd0f1bd27b3b6",
+      "author_login": null,
+      "authored_at": "2013-11-19T17:57:53Z",
+      "message": "Merge pull request #120 from remarkablerocket/master"
+    },
+    {
+      "sha": "c258704c14a9f7a6f85cf01afca994b66ddc9577",
+      "author_login": null,
+      "authored_at": "2013-11-19T17:44:26Z",
+      "message": "Update opt_out_users.js"
+    },
+    {
+      "sha": "84c3ad5358dba81d1eb732d029025b66849ce76f",
+      "author_login": null,
+      "authored_at": "2013-11-19T17:26:05Z",
+      "message": "Merge branch 'master' of https://github.com/resume/resume.github.com"
+    },
+    {
+      "sha": "a20a7d0b23c4ca959751fdaba0e636943e5dd8a7",
+      "author_login": null,
+      "authored_at": "2013-11-19T17:25:54Z",
+      "message": "Pushing the addition of more opt-out"
+    }
+  ],
+  "issues": [
+    {
+      "number": 323,
+      "title": "personal_resume 1.0.0",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-06-25T17:51:13Z",
+      "closed_at": "2026-06-25T17:52:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 322,
+      "title": "Fix typo and add author name in README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-06-19T12:10:46Z",
+      "closed_at": "2026-06-19T12:19:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 321,
+      "title": "Create additional info blocks",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-23T20:26:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 320,
+      "title": "Create a timeline",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-23T20:26:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 319,
+      "title": "Create a contact info block",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-23T20:26:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 318,
+      "title": "Create an intro",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-23T20:25:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 317,
+      "title": ".github/workflowsCreate main.yml",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-23T23:14:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 316,
+      "title": "Security: DOM-based XSS via unsanitized GitHub username and repository description injection",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-06T15:10:32Z",
+      "closed_at": "2026-03-06T16:29:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 315,
+      "title": "To-Do List System \n",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-27T07:36:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 314,
+      "title": "Glossy glow creation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-19T09:12:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 313,
+      "title": "resume",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-13T05:20:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 312,
+      "title": "The link for the deployment is not working",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-09T07:01:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 311,
+      "title": "Resume ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-07-28T10:31:51Z",
+      "closed_at": "2025-07-28T10:32:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 310,
+      "title": "رزومه سعید ایثاری (علی ایثاری)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-12T16:12:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 308,
+      "title": "Resume ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-27T05:39:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 307,
+      "title": "Update and rename README.markdown to README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-09-26T08:27:28Z",
+      "closed_at": "2024-09-26T08:29:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 306,
+      "title": "Скласти додаткові інформаційні блоки",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-06-01T17:11:58Z",
+      "closed_at": "2024-06-01T17:26:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 305,
+      "title": "Скласти таймлайн",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-06-01T17:11:31Z",
+      "closed_at": "2024-06-01T17:27:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 304,
+      "title": "Скласти блок контактної інформації",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-06-01T17:11:03Z",
+      "closed_at": "2024-06-01T17:28:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 303,
+      "title": "Скласти інтро",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-06-01T17:09:49Z",
+      "closed_at": "2024-06-01T17:28:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 302,
+      "title": "Link in about has mistake ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-28T05:57:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 301,
+      "title": "Starred the repo, Still says user not opted in. Pls fix  :)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-04-19T17:29:10Z",
+      "closed_at": "2024-04-19T17:30:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 300,
+      "title": "Says I haven't Opted In",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-29T12:48:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 298,
+      "title": "New",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-21T19:30:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 297,
+      "title": "Add OSSF Scorecard security workflow",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-21T12:07:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 296,
+      "title": "Ta",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-17T12:06:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 295,
+      "title": "My resume /intros/ documentary/ more",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-16T05:41:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 294,
+      "title": "changed",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-02-15T06:38:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 292,
+      "title": "fix: generated github urls for language search should work",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-01-13T20:12:26Z",
+      "closed_at": "2023-05-05T17:30:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 291,
+      "title": "[Ad]Since this project is not updated for a long time, you may try nusr/resume-vue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-03T05:34:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 290,
+      "title": "Update resume.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-10-16T23:25:26Z",
+      "closed_at": "2022-10-16T23:25:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 289,
+      "title": "Same Language counted twice",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-15T02:29:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 288,
+      "title": "Update homepage link in meta",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-24T16:54:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 287,
+      "title": "Incorrect number of commits in \"Contributions\" section",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-11T04:33:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 286,
+      "title": "Change name and the website link in the about section",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-09T11:33:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 285,
+      "title": "In Repository About section link is not working",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-09T09:43:20Z",
+      "closed_at": "2022-08-15T10:05:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 284,
+      "title": "[suggestion] Integrate Organizations",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-09T02:20:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 283,
+      "title": "Website not opening on the provided link",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-08T18:40:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 282,
+      "title": "Curriculum",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-07T02:23:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 281,
+      "title": "Wrong homepage link in repo page",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-07T01:32:15Z",
+      "closed_at": "2022-05-07T01:32:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 280,
+      "title": "[suggesting] don't display 0 forks",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-06T22:46:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 279,
+      "title": "resume does not fill Organizations  (or lack thereof)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-06T15:38:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 278,
+      "title": "Change https://resume.github.com to resume.github.io",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-06T15:19:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 277,
+      "title": "Exclude archived repositories from \"popular repositories\" list?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-04T17:12:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 276,
+      "title": "Take pinned repositories into account",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-04T17:12:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 275,
+      "title": "grammar fix in views/contrib.html",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-01-24T03:34:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 274,
+      "title": "Website link should be resume.github.io, not resume.github.com",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-27T00:09:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 273,
+      "title": "Resume",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-09T02:21:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 272,
+      "title": "Recent contributions are not being logged",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-01T22:27:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 271,
+      "title": "Correction of the \"followers\" link on the resume",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-02-01T10:37:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 270,
+      "title": "Google",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-17T01:04:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 269,
+      "title": "fix: corrected link to followers tab",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-16T05:18:27Z",
+      "closed_at": "2020-12-16T05:19:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 268,
+      "title": "🐞: Links aren't proper on generated pdf",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-16T05:12:09Z",
+      "closed_at": "2022-08-24T02:53:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 267,
+      "title": "[Feature Request] Adding the link to the resume directly to the README of the special repository",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-15T15:28:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 266,
+      "title": "The project has been starred, but the resume cannot be produced",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-20T02:13:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 265,
+      "title": "Added some meta tags for better view.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-10-01T08:30:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 264,
+      "title": "Update README.markdown",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-10-01T02:50:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 263,
+      "title": "Fix followers 404",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-09-14T23:59:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 262,
+      "title": "add Line of Code (LOC) of each project ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-21T19:53:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 261,
+      "title": "Page partially loads then errors out",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-21T14:31:30Z",
+      "closed_at": "2020-08-24T06:26:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 260,
+      "title": "[Feature Request] Contribution Graph & Activity Overview in the Resume",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-08T09:55:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 259,
+      "title": "Update resume.css",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-05-07T16:36:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 258,
+      "title": "won't work outside of test",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-01-07T23:25:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 255,
+      "title": "Fix link to Tweet in index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-17T01:11:44Z",
+      "closed_at": "2019-06-04T20:36:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 254,
+      "title": "Update contrib.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-26T15:36:38Z",
+      "closed_at": "2019-02-19T16:30:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 253,
+      "title": "Add an example in readme",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-10T05:29:16Z",
+      "closed_at": "2020-08-29T20:09:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 252,
+      "title": "Code refactor, add gitignore file, add profile image.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-08-13T11:51:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 251,
+      "title": "sort repos by stars",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-23T18:20:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 250,
+      "title": "Update HTML5Shiv to latest version",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-03-20T09:18:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 249,
+      "title": "Create test",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-10-12T14:33:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 248,
+      "title": "feat: List all user repos(owner + member)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-12T08:19:10Z",
+      "closed_at": "2022-11-25T06:06:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 247,
+      "title": "Typo in repository description",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-07-24T09:04:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 246,
+      "title": "Request: Remove opt-in",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-05-17T14:12:47Z",
+      "closed_at": "2025-05-21T22:05:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 245,
+      "title": "online builder",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-04-14T23:04:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 244,
+      "title": "Add other language?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-04-11T20:52:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 243,
+      "title": "Order contributions in reverse chronological order",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-02-06T13:53:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 242,
+      "title": "Not all commits are appearing as contributions",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-02-06T13:52:40Z",
+      "closed_at": "2017-02-12T17:43:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 241,
+      "title": "Fixed missing avatar.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-01-30T13:08:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 240,
+      "title": "Contribution count is off",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-01-04T22:25:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 239,
+      "title": "Add GitHub contributions calendar to resume",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-01-02T16:33:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 238,
+      "title": "Support multi language ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-10-04T06:01:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 237,
+      "title": "Rewrite and cleanup README.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-05T05:34:52Z",
+      "closed_at": "2016-08-05T05:37:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 236,
+      "title": "Links to commit, not just master and search",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-07-25T06:06:03Z",
+      "closed_at": "2018-02-21T09:43:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 235,
+      "title": "Remove bitdeli badge",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-07-14T22:21:36Z",
+      "closed_at": "2016-08-05T05:37:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 234,
+      "title": "UNIMPORTANT",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-06-21T21:09:58Z",
+      "closed_at": "2016-06-22T09:29:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 233,
+      "title": "Update favicon to have a transparent background",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-06-03T09:02:12Z",
+      "closed_at": "2016-06-03T09:05:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 232,
+      "title": "Fix broken languages link",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-06-03T08:51:55Z",
+      "closed_at": "2016-06-03T08:54:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 231,
+      "title": "Fix processing empty descriptions for private repositories",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-05-26T14:44:49Z",
+      "closed_at": "2016-06-01T08:13:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 230,
+      "title": "Added favicon icon",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-05-19T11:42:06Z",
+      "closed_at": "2016-06-01T08:11:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 229,
+      "title": "Autofocus added to index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-05-07T05:45:36Z",
+      "closed_at": "2016-05-07T06:00:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 228,
+      "title": "Fix #210",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-05-05T19:20:29Z",
+      "closed_at": "2016-05-07T06:02:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 227,
+      "title": "Fix #226 (and fix some consistency issues)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-05-05T13:43:06Z",
+      "closed_at": "2025-03-18T13:28:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 226,
+      "title": "Inaccurate commit count",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-05-05T12:12:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 225,
+      "title": "Update index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-02-22T02:41:25Z",
+      "closed_at": "2016-02-22T02:47:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 224,
+      "title": "remove the users haven't opted in in index example",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-02-20T14:34:42Z",
+      "closed_at": "2016-02-22T02:12:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 223,
+      "title": "Update index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-02-20T14:23:31Z",
+      "closed_at": "2016-02-22T02:10:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 222,
+      "title": "showing wrong contributions",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-02-19T17:16:58Z",
+      "closed_at": "2016-02-19T17:20:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 221,
+      "title": "Update index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-02-19T03:23:39Z",
+      "closed_at": "2016-02-19T03:44:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 220,
+      "title": "Optimize",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-02-17T07:01:17Z",
+      "closed_at": "2016-02-18T16:57:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 219,
+      "title": "Made link in \"Languages\" section point to search page of user's repo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-02-08T11:37:38Z",
+      "closed_at": "2016-02-08T12:38:48Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "u2",
+      "contributions": 31
+    },
+    {
+      "login": "NumEricR",
+      "contributions": 25
+    },
+    {
+      "login": "n1k0",
+      "contributions": 10
+    },
+    {
+      "login": "PeterDaveHello",
+      "contributions": 6
+    },
+    {
+      "login": "oscardelben",
+      "contributions": 4
+    },
+    {
+      "login": "Adman",
+      "contributions": 3
+    },
+    {
+      "login": "nicknovitski",
+      "contributions": 3
+    },
+    {
+      "login": "shakeelmohamed",
+      "contributions": 3
+    },
+    {
+      "login": "coverband",
+      "contributions": 3
+    },
+    {
+      "login": "okor",
+      "contributions": 3
+    },
+    {
+      "login": "himanshub16",
+      "contributions": 2
+    },
+    {
+      "login": "mosampaio",
+      "contributions": 2
+    },
+    {
+      "login": "m5n",
+      "contributions": 2
+    },
+    {
+      "login": "chocolateboy",
+      "contributions": 2
+    },
+    {
+      "login": "leprechaun",
+      "contributions": 2
+    },
+    {
+      "login": "joaosa",
+      "contributions": 2
+    },
+    {
+      "login": "conormcd",
+      "contributions": 2
+    },
+    {
+      "login": "acrogenesis",
+      "contributions": 2
+    },
+    {
+      "login": "trans",
+      "contributions": 2
+    },
+    {
+      "login": "igalic",
+      "contributions": 1
+    },
+    {
+      "login": "ivuorinen",
+      "contributions": 1
+    },
+    {
+      "login": "jacobian",
+      "contributions": 1
+    },
+    {
+      "login": "insin",
+      "contributions": 1
+    },
+    {
+      "login": "kudos",
+      "contributions": 1
+    },
+    {
+      "login": "sagotch",
+      "contributions": 1
+    },
+    {
+      "login": "kmcallister",
+      "contributions": 1
+    },
+    {
+      "login": "mohamedmansour",
+      "contributions": 1
+    },
+    {
+      "login": "nandak522",
+      "contributions": 1
+    },
+    {
+      "login": "paulca",
+      "contributions": 1
+    },
+    {
+      "login": "rjatkinson2",
+      "contributions": 1
+    },
+    {
+      "login": "varzan",
+      "contributions": 1
+    },
+    {
+      "login": "vermiculus",
+      "contributions": 1
+    },
+    {
+      "login": "simonardejr",
+      "contributions": 1
+    },
+    {
+      "login": "hjr3",
+      "contributions": 1
+    },
+    {
+      "login": "gregkare",
+      "contributions": 1
+    },
+    {
+      "login": "iamdanw",
+      "contributions": 1
+    },
+    {
+      "login": "Chris911",
+      "contributions": 1
+    },
+    {
+      "login": "eee-c",
+      "contributions": 1
+    },
+    {
+      "login": "cydrobolt",
+      "contributions": 1
+    },
+    {
+      "login": "bitdeli-chef",
+      "contributions": 1
+    },
+    {
+      "login": "bardiharborow",
+      "contributions": 1
+    },
+    {
+      "login": "augustl",
+      "contributions": 1
+    },
+    {
+      "login": "AndrewRadev",
+      "contributions": 1
+    },
+    {
+      "login": "aldahick",
+      "contributions": 1
+    },
+    {
+      "login": "cyphar",
+      "contributions": 1
+    },
+    {
+      "login": "alotaiba",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T09:08:06.453332Z"
+}
