@@ -2,7 +2,6 @@ name: Weekly Excavation
 
 on:
   schedule:
-    # Every Monday at 06:00 UTC
     - cron: "0 6 * * 1"
   workflow_dispatch:
     inputs:
@@ -10,6 +9,14 @@ on:
         description: "Number of repositories to excavate"
         required: false
         default: "3"
+      min_stars:
+        description: "Minimum stars"
+        required: false
+        default: "50"
+      inactive_days:
+        description: "Days since last push"
+        required: false
+        default: "730"
 
 permissions:
   contents: write
@@ -34,7 +41,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LOG_LEVEL: INFO
-        run: uv run fossil excavate --limit "${{ github.event.inputs.limit || 3 }}"
+        run: |
+          uv run fossil excavate \
+            --limit "${{ github.event.inputs.limit || 3 }}" \
+            --min-stars "${{ github.event.inputs.min_stars || 50 }}" \
+            --inactive-days "${{ github.event.inputs.inactive_days || 730 }}"
 
       - name: Commit results
         run: |
