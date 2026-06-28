@@ -1,0 +1,49 @@
+name: Weekly Excavation
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Number of repositories to excavate"
+        required: false
+        default: "3"
+
+permissions:
+  contents: write
+
+jobs:
+  excavate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+
+      - name: Set up Python
+        run: uv python install 3.12
+
+      - name: Install dependencies
+        run: uv sync --extra dev
+
+      - name: Run excavation
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LOG_LEVEL: INFO
+        run: uv run fossil excavate --limit "${{ github.event.inputs.limit || 3 }}"
+
+      - name: Commit results
+        run: |
+          git config user.name  "fossil-bot"
+          git config user.email "fossil-bot@users.noreply.github.com"
+          git add reports/ data/normalized/ README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(excavation): weekly autopsy update [skip ci]"
+            git push
+          fi

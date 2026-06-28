@@ -1,0 +1,21 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v3
+      - run: uv python install 3.12
+      - run: uv sync --extra dev
+      - name: Ruff
+        run: uv run ruff check .
+      - name: Mypy
+        run: uv run mypy src
+      - name: Tests
+        run: uv run pytest --cov=fossil --cov-report=term-missing
