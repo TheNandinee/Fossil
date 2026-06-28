@@ -1,0 +1,1678 @@
+{
+  "full_name": "dennybritz/reinforcement-learning",
+  "owner": "dennybritz",
+  "name": "reinforcement-learning",
+  "url": "https://github.com/dennybritz/reinforcement-learning",
+  "description": "Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.",
+  "primary_language": "Jupyter Notebook",
+  "topics": [],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 22055,
+  "forks": 6133,
+  "open_issues": 118,
+  "created_at": "2016-08-24T17:02:41Z",
+  "pushed_at": "2023-07-13T09:52:27Z",
+  "updated_at": "2026-06-28T07:39:49Z",
+  "commits": [
+    {
+      "sha": "2b832284894a65eccdd82353cc446f68d100676e",
+      "author_login": "dennybritz",
+      "authored_at": "2022-09-20T23:57:31Z",
+      "message": "Merge pull request #245 from arielsboiardi/master"
+    },
+    {
+      "sha": "d173521920759490516fe0738955f491fd373b71",
+      "author_login": "arielsboiardi",
+      "authored_at": "2022-09-20T08:46:18Z",
+      "message": "Corrected import"
+    },
+    {
+      "sha": "40eda6b1ca56cb41d99b1eae70a74774d016fa5f",
+      "author_login": "arielsboiardi",
+      "authored_at": "2022-09-19T17:19:46Z",
+      "message": "Compatible with gym==0.26"
+    },
+    {
+      "sha": "06ce3127a2cb7cfd6cf2a9cbd523ac4550db5a54",
+      "author_login": "dennybritz",
+      "authored_at": "2019-11-09T04:22:06Z",
+      "message": "Merge pull request #216 from roshray/patch-1"
+    },
+    {
+      "sha": "1298c8ddd60331ab7457bb7fa6fbc42ebecf8f0c",
+      "author_login": "roshray",
+      "authored_at": "2019-11-08T03:26:53Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "89dacf56ee8172e4038f899c7de1a9082a2a12f3",
+      "author_login": "dennybritz",
+      "authored_at": "2019-10-02T01:10:14Z",
+      "message": "Merge pull request #214 from nsydn/master"
+    },
+    {
+      "sha": "7d232607e63743c7c1b9ff912f4e0084bbf3e616",
+      "author_login": "quanturk",
+      "authored_at": "2019-10-01T15:13:40Z",
+      "message": "Update Policy Iteration Solution.ipynb"
+    },
+    {
+      "sha": "775fd81e82fa900f87d35309f937d1102ed9fc57",
+      "author_login": "quanturk",
+      "authored_at": "2019-10-01T15:04:03Z",
+      "message": "Update Policy Iteration Solution.ipynb"
+    },
+    {
+      "sha": "92205f5e5b49f7ffa80a3655c6c51e94ca962582",
+      "author_login": "dennybritz",
+      "authored_at": "2019-06-24T03:33:36Z",
+      "message": "Merge pull request #198 from fspirit/fix-rendering-crash-on-win-10"
+    },
+    {
+      "sha": "9dce017bbc6a4792b770a92e6a0333e8bc1ef6c8",
+      "author_login": "dennybritz",
+      "authored_at": "2019-06-24T03:32:43Z",
+      "message": "Merge pull request #201 from guotong1988/patch-1"
+    },
+    {
+      "sha": "b2d179a1fe2fc8ee5b01e9f9b5ecadaf9139ada7",
+      "author_login": "guotong1988",
+      "authored_at": "2019-06-11T07:58:21Z",
+      "message": "Update CliffWalk REINFORCE with Baseline Solution.ipynb"
+    },
+    {
+      "sha": "59cded5174583ec10469949af31d550e7d8c7e53",
+      "author_login": "dennybritz",
+      "authored_at": "2019-04-03T15:13:42Z",
+      "message": "Merge pull request #199 from anuzis/master"
+    },
+    {
+      "sha": "1abaae41f6bf751c66d555c04de9b304f8ef8abc",
+      "author_login": "anuzis",
+      "authored_at": "2019-04-02T21:15:57Z",
+      "message": "Q-Learning docstring improvements."
+    },
+    {
+      "sha": "bb9241dbbbdabb8dd1d6c116f7120e46459a87fd",
+      "author_login": "fspirit",
+      "authored_at": "2019-03-29T17:17:22Z",
+      "message": "Fix rendering crash on Win 10"
+    },
+    {
+      "sha": "b7b4d3d7ac91d5e0f09f50581c7560c59e378fad",
+      "author_login": "dennybritz",
+      "authored_at": "2019-03-13T10:54:15Z",
+      "message": "Merge pull request #195 from pieromacaluso/master"
+    },
+    {
+      "sha": "a35df152681152ecd11f88d50dded4d9879f06d2",
+      "author_login": "PieroMacaluso",
+      "authored_at": "2019-03-13T08:55:50Z",
+      "message": "Updated links to new version of Sutton's book"
+    },
+    {
+      "sha": "706b13ad10bd23f2cb1ff82b240b16bf68cf83da",
+      "author_login": "dennybritz",
+      "authored_at": "2019-03-02T11:41:49Z",
+      "message": "Merge pull request #193 from fspirit/add_deepmind_course_link"
+    },
+    {
+      "sha": "e4797f2014d06593da07b44b567045181d6a7ba4",
+      "author_login": "dennybritz",
+      "authored_at": "2019-03-02T11:34:15Z",
+      "message": "Merge pull request #194 from alek5k/dqn-fixes"
+    },
+    {
+      "sha": "4a2df43bb111ec319ea11cfd68a1d79c7dcceceb",
+      "author_login": "alek5k",
+      "authored_at": "2019-03-01T02:31:13Z",
+      "message": "fixed shape descriptions for neural network input layer"
+    },
+    {
+      "sha": "120fbcfb640afff960f741ae0af56a148955f9dd",
+      "author_login": null,
+      "authored_at": "2019-02-27T16:33:02Z",
+      "message": "Add link to Advanced Depp Learning & Reinforcement Learning lectures on youtube."
+    },
+    {
+      "sha": "cee9e78652f8ce98d6079282daf20680e5e17c6a",
+      "author_login": "dennybritz",
+      "authored_at": "2018-12-26T01:27:16Z",
+      "message": "Merge pull request #188 from JovanSardinha/master"
+    },
+    {
+      "sha": "01b8b1379a3c4a79ec14528b52b1c6c7608bbbaf",
+      "author_login": "jovsa",
+      "authored_at": "2018-12-25T16:51:57Z",
+      "message": "nit"
+    },
+    {
+      "sha": "30b230436c47e194f0209fad29f907146c739610",
+      "author_login": "jovsa",
+      "authored_at": "2018-12-25T16:50:53Z",
+      "message": "removed extra whitespace"
+    },
+    {
+      "sha": "0fe550c4ad64337a0ccef5c244bbe2ad5a51a8d1",
+      "author_login": "jovsa",
+      "authored_at": "2018-12-25T16:48:02Z",
+      "message": "documented structure for P[s][a]"
+    },
+    {
+      "sha": "9ad2689f9e638e645e6b71d8198f9f733d7142b5",
+      "author_login": "jovsa",
+      "authored_at": "2018-12-25T16:42:39Z",
+      "message": "added documentation for _render()"
+    },
+    {
+      "sha": "57f71cd4b97df36988dc1cbc868b45a2970d19d6",
+      "author_login": "jovsa",
+      "authored_at": "2018-12-25T16:42:14Z",
+      "message": "imported io so that StringIO() would work"
+    },
+    {
+      "sha": "8e8a21bd7faf6b386894621f8ce63d5386afd7c9",
+      "author_login": "dennybritz",
+      "authored_at": "2018-12-25T01:27:17Z",
+      "message": "Merge pull request #187 from JovanSardinha/master"
+    },
+    {
+      "sha": "b47c9206b6f35ebabeecaa44ac10ec5fa97ff239",
+      "author_login": "jovsa",
+      "authored_at": "2018-12-24T18:56:34Z",
+      "message": "updates to README.md"
+    },
+    {
+      "sha": "fd13eca60aac3434845ac7125d780e080ce55539",
+      "author_login": "dennybritz",
+      "authored_at": "2018-09-21T01:28:35Z",
+      "message": "Merge pull request #175 from Sharwon/patch-1"
+    },
+    {
+      "sha": "49631ce5b0afdcd23170026563ded145982c02f8",
+      "author_login": "shar1pius",
+      "authored_at": "2018-09-20T22:36:26Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "dfef331a54b54885d0b4b8600055ea5aedd346d4",
+      "author_login": "dennybritz",
+      "authored_at": "2018-05-29T05:03:48Z",
+      "message": "Merge pull request #164 from byorxyz/ex.4.3"
+    },
+    {
+      "sha": "fe3edfc570aa5d5150f9abfa0a728898b1b503a9",
+      "author_login": null,
+      "authored_at": "2018-05-29T03:15:01Z",
+      "message": "fix #89"
+    },
+    {
+      "sha": "4f0d9428597bc64c68b2d4fc71025a8de48a08d7",
+      "author_login": null,
+      "authored_at": "2018-05-28T23:46:49Z",
+      "message": "updated the broken link"
+    },
+    {
+      "sha": "be7cfe308e9e5b24146ed9dc41d7a68981613c33",
+      "author_login": null,
+      "authored_at": "2018-05-28T05:33:44Z",
+      "message": "just formatting"
+    },
+    {
+      "sha": "167525b38c47ee34cce823e6539a1144c9e368d4",
+      "author_login": "dennybritz",
+      "authored_at": "2018-05-28T04:33:01Z",
+      "message": "Merge pull request #163 from byorxyz/ex.4.3"
+    },
+    {
+      "sha": "1b5c06f5b00bfa16a8138644387b013e15fbec29",
+      "author_login": null,
+      "authored_at": "2018-05-28T00:13:36Z",
+      "message": "Gambler's problem (ex.4.3) added."
+    },
+    {
+      "sha": "782b951da3e7bdabb13eaae4e68d92408ba78179",
+      "author_login": "dennybritz",
+      "authored_at": "2018-05-27T00:17:14Z",
+      "message": "Merge pull request #162 from byorxyz/added_comment"
+    },
+    {
+      "sha": "377c87595ae903e12df44886dba50ee40091a934",
+      "author_login": null,
+      "authored_at": "2018-05-26T22:38:42Z",
+      "message": "added Sutton book's equation"
+    },
+    {
+      "sha": "07dd722024306da428923bd2d7a64beb689ef6be",
+      "author_login": null,
+      "authored_at": "2018-05-26T22:26:45Z",
+      "message": "added the equation reference"
+    },
+    {
+      "sha": "521b5a956220cd9921b741c72b5d9f021184035c",
+      "author_login": "dennybritz",
+      "authored_at": "2018-04-15T01:04:44Z",
+      "message": "Merge pull request #157 from aybberk/master"
+    },
+    {
+      "sha": "56f893c059be47d3d36cf5fbdf9a5bb1270ef182",
+      "author_login": "ayberkydn",
+      "authored_at": "2018-04-14T11:16:46Z",
+      "message": "typo fix and correction for state processor output shape"
+    },
+    {
+      "sha": "e67b3cf98e028177511786faed59b01c91549065",
+      "author_login": "dennybritz",
+      "authored_at": "2018-04-14T01:16:25Z",
+      "message": "Merge pull request #155 from aybberk/master"
+    },
+    {
+      "sha": "c90ebaf06ab507d4a2cb7eaa9bf382bb0f94d2ed",
+      "author_login": "ayberkydn",
+      "authored_at": "2018-04-13T15:20:08Z",
+      "message": "correction for state processor output shape"
+    },
+    {
+      "sha": "9baba87a72f33265ac7fe10151b45138026141ff",
+      "author_login": "dennybritz",
+      "authored_at": "2018-03-08T00:12:03Z",
+      "message": "Merge pull request #148 from jonahweissman/patch-1"
+    },
+    {
+      "sha": "542cbf04e553b9bbac7c4dc7e0dfd69dacb458f5",
+      "author_login": "jonahweissman",
+      "authored_at": "2018-03-07T23:13:01Z",
+      "message": "Fix typo in MC Control"
+    },
+    {
+      "sha": "8933e3ff873ff982087719a5bc898b3c4ea17b6e",
+      "author_login": "dennybritz",
+      "authored_at": "2018-02-21T01:02:09Z",
+      "message": "Merge pull request #146 from activatedgeek/fix-TD-envs"
+    },
+    {
+      "sha": "8da669c1496a617de8cbdf8c62ef075a4b9d8f3f",
+      "author_login": null,
+      "authored_at": "2018-02-20T21:42:36Z",
+      "message": "Fix missing render()"
+    },
+    {
+      "sha": "5e3b1fcb5844c1a27af29e67102f2be45c834fa7",
+      "author_login": "dennybritz",
+      "authored_at": "2018-02-20T00:48:49Z",
+      "message": "Merge pull request #144 from activatedgeek/refactor-lookahead"
+    },
+    {
+      "sha": "21a8e3107dfe26721c7a8d91aad77b4ef8a7cece",
+      "author_login": "dennybritz",
+      "authored_at": "2018-02-20T00:45:47Z",
+      "message": "Merge pull request #145 from activatedgeek/fix-blackjack-env"
+    },
+    {
+      "sha": "ba12f971f316078adc20ae898ff8de65491c1925",
+      "author_login": null,
+      "authored_at": "2018-02-19T19:27:28Z",
+      "message": "Update playground output"
+    },
+    {
+      "sha": "edcba6b8790dbfda151c319378d48ee349a0f4ac",
+      "author_login": null,
+      "authored_at": "2018-02-19T19:20:31Z",
+      "message": "Fix step and reset NotImplementedError"
+    },
+    {
+      "sha": "e030ecfe1e980189106d6d58bb69967819b78a7d",
+      "author_login": null,
+      "authored_at": "2018-02-19T15:45:54Z",
+      "message": "Add value check assertion"
+    },
+    {
+      "sha": "6211e2df03162f367c7a8c05728897385397ae35",
+      "author_login": null,
+      "authored_at": "2018-02-19T15:45:30Z",
+      "message": "Add one step lookahead function for easy comparison with Value Iteration"
+    },
+    {
+      "sha": "5334a6f3ddbb852d01532dcc3fdb0994909b0903",
+      "author_login": "dennybritz",
+      "authored_at": "2018-01-29T00:24:37Z",
+      "message": "Merge pull request #134 from keithmgould/master"
+    },
+    {
+      "sha": "2a6fe49cb1f6c1c075135d65da16ba4ed3e54ff9",
+      "author_login": "dennybritz",
+      "authored_at": "2018-01-29T00:24:03Z",
+      "message": "Merge pull request #137 from ByzanTine/master"
+    },
+    {
+      "sha": "9454010f60a87a6e66a517fdb038365b9988146c",
+      "author_login": "ByzanTine",
+      "authored_at": "2018-01-28T20:30:06Z",
+      "message": "Minor fix: sync sample policy with the solution"
+    },
+    {
+      "sha": "30326df0cf66d649c1619ce2e3134fc2839dcde9",
+      "author_login": "keithmgould",
+      "authored_at": "2018-01-24T15:03:44Z",
+      "message": "update value estimator only after calculating advantage"
+    },
+    {
+      "sha": "fa95c7e14c2c68b07a5a28ce45223fb4b7240304",
+      "author_login": "dennybritz",
+      "authored_at": "2018-01-04T03:02:30Z",
+      "message": "Merge pull request #129 from BAILOOL/master"
+    },
+    {
+      "sha": "d8136b4c575001a6ae4ff67f4362ced9c6cf8846",
+      "author_login": null,
+      "authored_at": "2018-01-03T05:58:39Z",
+      "message": "Updated links to new version of Sutton's book"
+    },
+    {
+      "sha": "61da56c5f9222dd62142ea5c851962c82868e148",
+      "author_login": "dennybritz",
+      "authored_at": "2017-12-30T05:14:22Z",
+      "message": "Merge pull request #126 from BAILOOL/master"
+    },
+    {
+      "sha": "783c2c39a3a94df40b5a62ab768e1570f95c776b",
+      "author_login": null,
+      "authored_at": "2017-12-28T01:16:48Z",
+      "message": "Mod. estimator_value comment in actor-critic"
+    },
+    {
+      "sha": "1f2e2eb50a36655c9a17da8dad7b533d72333c5e",
+      "author_login": "BAILOOL",
+      "authored_at": "2017-12-27T08:18:09Z",
+      "message": "Fixed broken links to Solutions in PolicyGradient"
+    },
+    {
+      "sha": "f637c42976275d5acd27f4a03779b2e1ddcf8a1a",
+      "author_login": "BAILOOL",
+      "authored_at": "2017-12-27T06:41:46Z",
+      "message": "\"Policy Gradient Methods\" chapter is completed. Updated OpenAI Gym link with cached version."
+    },
+    {
+      "sha": "85565ec067d2856f7d2ac033badd943f035adbf3",
+      "author_login": "BAILOOL",
+      "authored_at": "2017-12-27T06:13:47Z",
+      "message": "\"Policy Gradient Methods\" is chapter 13 now"
+    },
+    {
+      "sha": "dee1e01b6e4ed7cbd90ed603a0bf6ccb396fdcc4",
+      "author_login": null,
+      "authored_at": "2017-12-07T06:23:25Z",
+      "message": "DQN: Fixed typos. Changed labmda to gamma. Updated Readme"
+    },
+    {
+      "sha": "f45bcbf23daddbb7cfd9d08103609053ba4f92c6",
+      "author_login": "dennybritz",
+      "authored_at": "2017-12-06T08:26:15Z",
+      "message": "Merge pull request #123 from BAILOOL/master"
+    },
+    {
+      "sha": "9ee6cdd8494ff529df270d6d07658abbec0d62aa",
+      "author_login": null,
+      "authored_at": "2017-12-06T08:16:45Z",
+      "message": "Updated link to Sutton's book"
+    },
+    {
+      "sha": "152dbc414cfd70d67aff46241c3fc69887256c8b",
+      "author_login": null,
+      "authored_at": "2017-12-06T08:15:13Z",
+      "message": "Updated link to Sutton's book"
+    },
+    {
+      "sha": "3fce6b57c93ae505fd7990bad63c57cee4f9a6c1",
+      "author_login": null,
+      "authored_at": "2017-12-01T06:38:01Z",
+      "message": "Updated Readme. Changed Lambda to Gamma"
+    },
+    {
+      "sha": "74d301c6d04a0179fa14db0a4fb7d9c40b31a8ae",
+      "author_login": "dennybritz",
+      "authored_at": "2017-11-25T01:01:07Z",
+      "message": "Merge pull request #121 from BAILOOL/master"
+    },
+    {
+      "sha": "79cadc0ddb885787852bc2ade62641f8ae9ee909",
+      "author_login": null,
+      "authored_at": "2017-11-24T07:47:26Z",
+      "message": "Lambda to Gamma. Updated Readme."
+    },
+    {
+      "sha": "7a31a2b22e76565ee7671df0081ff3ef689ba0ea",
+      "author_login": "dennybritz",
+      "authored_at": "2017-11-23T05:57:29Z",
+      "message": "Merge pull request #120 from jonahweissman/master"
+    },
+    {
+      "sha": "90b0a4adfac77efbf19a4fec0072be778ba584d1",
+      "author_login": "dennybritz",
+      "authored_at": "2017-11-23T05:56:46Z",
+      "message": "Merge pull request #119 from BAILOOL/master"
+    },
+    {
+      "sha": "da612e5eddc00468bb1894d119d22a8c37566241",
+      "author_login": null,
+      "authored_at": "2017-11-23T00:23:51Z",
+      "message": "Change kernel to python3"
+    },
+    {
+      "sha": "7017f9edc2eda903e75ed7387ffec9f4c20fed30",
+      "author_login": "jonahweissman",
+      "authored_at": "2017-11-22T16:50:30Z",
+      "message": "Fix links in all the `README.md`s"
+    },
+    {
+      "sha": "430766766f34681460986ae044ecc7d408ddb691",
+      "author_login": null,
+      "authored_at": "2017-11-21T06:15:28Z",
+      "message": "Updates function description in DP. Fixed typos in MC. Changed Lambda to Gamma as in the book."
+    },
+    {
+      "sha": "60013e507080222c8fa473d77e7808795ea3f4eb",
+      "author_login": null,
+      "authored_at": "2017-11-16T04:54:30Z",
+      "message": "Sync function descriptions. Lambda -> gamma (discount factor). Added description of env.nS and env.nA"
+    },
+    {
+      "sha": "094ebf7da1d39308cce06a76b60b8585adad1c6e",
+      "author_login": "dennybritz",
+      "authored_at": "2017-11-03T01:11:31Z",
+      "message": "Merge pull request #118 from praveen-palanisamy/master"
+    },
+    {
+      "sha": "10ce5dc7eb242ab4953b6a07d342f8aae9267214",
+      "author_login": "praveen-palanisamy",
+      "authored_at": "2017-11-01T04:13:48Z",
+      "message": "Fixed typo"
+    },
+    {
+      "sha": "0b2ae4144b817c871153283188b270484aeeb7c2",
+      "author_login": "praveen-palanisamy",
+      "authored_at": "2017-11-01T04:13:25Z",
+      "message": "Fixed issues with the DQN in the exercise notebook"
+    },
+    {
+      "sha": "e9068bfe7a5d7b1f32e710a95a99df5c441b039d",
+      "author_login": "praveen-palanisamy",
+      "authored_at": "2017-11-01T03:59:14Z",
+      "message": "Updated to support recent versions of TF. Removed deprecated functions. Pointed out in #117"
+    },
+    {
+      "sha": "3611ec96b7429058a49c2478082506e90729ad3e",
+      "author_login": "praveen-palanisamy",
+      "authored_at": "2017-11-01T03:53:06Z",
+      "message": "Fixed some of the issues with the DQN script as pointed out in #117"
+    },
+    {
+      "sha": "18100ea7e3a5688e62ad89c43482aba583d83b92",
+      "author_login": "dennybritz",
+      "authored_at": "2017-10-12T11:27:59Z",
+      "message": "Merge pull request #113 from himanshusahni/master"
+    },
+    {
+      "sha": "bc7ee056e33518aea8d685ea43c12b8426993a96",
+      "author_login": "himanshusahni",
+      "authored_at": "2017-10-10T05:39:40Z",
+      "message": "worker name scope should have trailing backslash otherwise any worker 10-19 will clash in scope with worker 1, and so on."
+    },
+    {
+      "sha": "5364539dfbdaf71ae9d41acc8507788ef1b3b64f",
+      "author_login": "dennybritz",
+      "authored_at": "2017-10-04T23:43:08Z",
+      "message": "Merge pull request #111 from himanshusahni/master"
+    },
+    {
+      "sha": "1f04c1d7606c8e607c7d9213745f515a9fc2baf4",
+      "author_login": "himanshusahni",
+      "authored_at": "2017-10-04T22:58:13Z",
+      "message": "bind worker within lambda to avoid running worker twice"
+    },
+    {
+      "sha": "762f34c98f6c1978c97d258beee3c20ff57537a4",
+      "author_login": "dennybritz",
+      "authored_at": "2017-07-21T06:20:55Z",
+      "message": "Merge pull request #102 from sstarzycki/patch-1"
+    },
+    {
+      "sha": "2b576bd992014977238bb344a3a07a1145eda31f",
+      "author_login": "sstarzycki",
+      "authored_at": "2017-07-21T05:59:04Z",
+      "message": "Update description of env.P[s][a]"
+    },
+    {
+      "sha": "e7085b21413922586e81acba26e5c78e495eb410",
+      "author_login": "dennybritz",
+      "authored_at": "2017-07-09T05:20:00Z",
+      "message": "Merge pull request #99 from Kismuz/DQN-copy-model-params-fix"
+    },
+    {
+      "sha": "71223d590a517f3d9596bfe13a6bfb6cb7d8b9ff",
+      "author_login": "Kismuz",
+      "authored_at": "2017-07-08T13:53:15Z",
+      "message": "DQN copy_model_parameters memory leak fixed, tensorboard summaries updated with cpu/mem usage"
+    },
+    {
+      "sha": "67e98a98ad55c5276e4ffe312d4b916770d9a93d",
+      "author_login": "dennybritz",
+      "authored_at": "2017-07-08T10:25:16Z",
+      "message": "Merge pull request #98 from dennybritz/revert-97-patch-1"
+    },
+    {
+      "sha": "139b546b636ee3bee7801de4e908fd29e6bc8774",
+      "author_login": "dennybritz",
+      "authored_at": "2017-07-08T10:25:10Z",
+      "message": "Revert \"fix markdown links with spaces\""
+    },
+    {
+      "sha": "b37c95e974fecb4074e90bf7acd8f77ff3c86cb9",
+      "author_login": "dennybritz",
+      "authored_at": "2017-07-08T10:24:54Z",
+      "message": "Merge pull request #97 from ajschumacher/patch-1"
+    },
+    {
+      "sha": "d0c452a1b970d9761a95cafe65224b7c51d44400",
+      "author_login": "ajschumacher",
+      "authored_at": "2017-07-07T15:10:26Z",
+      "message": "fix markdown links with spaces"
+    },
+    {
+      "sha": "59bc9f7c6a4cc659841959e55b64a95730bb12fe",
+      "author_login": "dennybritz",
+      "authored_at": "2017-07-06T07:33:54Z",
+      "message": "Merge pull request #96 from bwseoh/upstream"
+    },
+    {
+      "sha": "257350715a5eb8d27e120b1f81745f67acd0334e",
+      "author_login": "ronaldseoh",
+      "authored_at": "2017-07-06T06:59:27Z",
+      "message": "correct more typos"
+    },
+    {
+      "sha": "4fb2e5c416e442c7ab7c3cb003d9d79a2bd7a2db",
+      "author_login": "dennybritz",
+      "authored_at": "2017-06-16T20:33:23Z",
+      "message": "Remove unused line"
+    },
+    {
+      "sha": "f4990e9ece192d952ef492e41ad9081eee261b93",
+      "author_login": "dennybritz",
+      "authored_at": "2017-06-11T19:59:08Z",
+      "message": "Merge branch 'master' of github.com:dennybritz/reinforcement-learning"
+    },
+    {
+      "sha": "7ecb3aa32d8a262c17e4a26cdca69cef3e99f73f",
+      "author_login": "dennybritz",
+      "authored_at": "2017-06-11T19:59:05Z",
+      "message": "Update book link"
+    },
+    {
+      "sha": "411736ead5f36dd618e3fff4d199cbda62fd141e",
+      "author_login": "dennybritz",
+      "authored_at": "2017-03-27T02:58:03Z",
+      "message": "Merge pull request #77 from tigerneil/patch-1"
+    }
+  ],
+  "issues": [
+    {
+      "number": 259,
+      "title": "question on importance sampling correction calculation in off-policy MC control",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-31T02:46:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 258,
+      "title": "reinforcement learning--application in graph networks",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-29T04:42:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 257,
+      "title": "Add One Hot Encoder State and Improve Documentation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-07T09:56:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 255,
+      "title": "I am looking for you...",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-10T14:34:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 252,
+      "title": "MC Control with Epsilon-Greedy Policies ---Epsilon Value and Best Action prob error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-23T14:57:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 251,
+      "title": "create new file",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-07-13T09:52:26Z",
+      "closed_at": "2023-07-13T09:54:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 250,
+      "title": "demystifying-deep-reinforcement-learning link is broken",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-07T13:34:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 249,
+      "title": "Create index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-05-17T09:21:39Z",
+      "closed_at": "2023-05-17T09:22:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 248,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-03-17T15:44:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 247,
+      "title": "please provide requirements.txt or mention the exact version of packages used.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-25T09:25:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 246,
+      "title": "Issue in: reinforcement-learning/MC/MC Prediction Solution.ipynb",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-29T06:07:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 245,
+      "title": "Fixed compatibility with current version of OpenAI gym without DiscreteEnv class",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-09-20T08:46:59Z",
+      "closed_at": "2022-09-20T23:57:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 244,
+      "title": "Typo in: \"Model-Free Prediction & Control with Monte Carlo (MC)\" section -> \"Blackjack Playground.ipynb\" file: ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-14T08:04:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 243,
+      "title": "A small correction in \"MDPs and Bellman Equations\" section",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-28T14:37:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 242,
+      "title": "Modify \"v (list) : state value function\" to \"V\"",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-10-29T19:04:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 241,
+      "title": "Hello",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-10-21T08:09:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 240,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-10-01T05:56:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 239,
+      "title": "Minor Link fix ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-22T08:29:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 238,
+      "title": "Reinforcement learning policy",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-23T04:40:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 237,
+      "title": "Error 'show() takes 1 positional argument but 2 were given' fixed in plotting.py",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-02-01T08:00:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 236,
+      "title": "DQN Testing Rewards on Atari Games",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-13T16:39:10Z",
+      "closed_at": "2021-01-13T16:40:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 235,
+      "title": "Clarification on DQN testing rewards on Atari games",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-13T16:38:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 234,
+      "title": "Minor fixes",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-12-22T14:58:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 233,
+      "title": "update slides",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-10-10T00:13:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 232,
+      "title": "Lecture Slides need an update ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-08T21:25:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 231,
+      "title": "Monte Carlo AssertionError: defaultdict(<function mc_control_importance_sampling.<locals>.<lambda> at 0x7f31699ffe18>, {}) (<class 'collections.defaultdict'>) ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-13T18:58:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 230,
+      "title": "Update DP exercise policy evaluation solution",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-17T11:00:00Z",
+      "closed_at": "2020-07-17T11:09:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 229,
+      "title": "Policy Evaluation Exercise Solution Is Wrong",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-17T10:51:00Z",
+      "closed_at": "2020-07-17T11:10:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 228,
+      "title": "Delete __init__.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-12T12:29:28Z",
+      "closed_at": "2020-07-13T08:50:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 227,
+      "title": "DQL size error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-26T15:43:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 226,
+      "title": "added: Double DQN Proportional Prioritized Experience Replay Solution",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-04-30T16:30:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 225,
+      "title": "added: DoubleDQN Proportional Prioritized Replay solution",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-30T15:09:38Z",
+      "closed_at": "2020-04-30T16:26:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 224,
+      "title": "Some question in MC Control with Epsilon-Greedy Policies Solution.ipynb",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-23T18:47:34Z",
+      "closed_at": "2020-05-14T14:25:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 223,
+      "title": "Gambler's Problem: 0 Stake Allowed?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-09T23:07:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 222,
+      "title": "why DQN use kernel size 8 ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-02-15T05:22:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 221,
+      "title": "Why is Chapter 11 excluded?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-02-03T23:37:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 220,
+      "title": "Is a line missing in 'MC Control with Epsilon-Greedy Policies Solution.ipynb'?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-23T04:49:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 219,
+      "title": "Why CliffWalkingEnv returns 'is_done=True' when reaching cliff?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-15T09:37:14Z",
+      "closed_at": "2020-05-01T02:40:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 218,
+      "title": "Can an agent learn valid actions offline, being able to choose only actions that were already taken (e.g. from historical data) ? [question] ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-07T10:58:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 217,
+      "title": "Deep Q Learning, neither works with tensorflow 1.x nor with tensorflow 2.x",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-09T18:20:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 216,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-11-08T04:07:20Z",
+      "closed_at": "2019-11-09T04:22:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 215,
+      "title": "Mdp branch",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-10-02T11:43:40Z",
+      "closed_at": "2019-10-02T11:43:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 214,
+      "title": "a test pull req (corrected few typos)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-10-01T15:15:45Z",
+      "closed_at": "2019-10-02T01:10:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 213,
+      "title": "Could anyone show me reason why use 4 same grayscale frames when training DQN?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-09-15T05:56:14Z",
+      "closed_at": "2019-09-15T10:14:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 212,
+      "title": "Policy iteration solution only show 1 optimal solution",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-08-16T09:07:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 208,
+      "title": "log",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-08-12T15:50:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 207,
+      "title": "Exercise notebooks with no outputs.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-08-03T09:58:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 206,
+      "title": "Add Links to Deepnote",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-08-01T00:14:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 205,
+      "title": "Test the policy in \"Value Iteration\" exercise",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-06-23T23:10:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 204,
+      "title": "Provided policy_improvement() solution initializes values to zero for each iteration",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-23T22:16:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 203,
+      "title": "Provided policy_improvement() solution is not guaranteed to terminate",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-23T22:12:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 202,
+      "title": "policy_improvement() should be renamed to policy_iteration()",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-23T20:38:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 201,
+      "title": "Update CliffWalk REINFORCE with Baseline Solution.ipynb",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-11T07:58:36Z",
+      "closed_at": "2019-06-24T03:32:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 200,
+      "title": "Vanilla REINFORCE implementation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-08T04:45:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 199,
+      "title": "Q-Learning docstring improvements.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-02T21:17:14Z",
+      "closed_at": "2019-04-03T15:13:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 198,
+      "title": "Fix rendering crash on Win 10",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-29T17:18:27Z",
+      "closed_at": "2019-06-24T03:33:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 197,
+      "title": "Proposal of Expected SARSA algorithm",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-03-25T09:50:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 196,
+      "title": "Randomness in optimal epsilon_greedy_policy ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-03-20T12:05:19Z",
+      "closed_at": "2020-09-22T11:38:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 195,
+      "title": "Updated links to new version of Sutton and Barto's book",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-13T08:58:19Z",
+      "closed_at": "2019-03-13T10:54:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 194,
+      "title": "fixed shape descriptions for neural network input layer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-01T02:33:04Z",
+      "closed_at": "2019-03-02T11:34:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 193,
+      "title": "Add link to Advanced Depp Learning & Reinforcement Learning lectures.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-02-27T16:38:03Z",
+      "closed_at": "2019-03-02T11:41:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 192,
+      "title": "Unstable reinforce with baseline model",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-21T00:28:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 191,
+      "title": "Home",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-02-18T23:57:51Z",
+      "closed_at": "2019-02-19T00:03:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 190,
+      "title": "feed action to critic network",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-12T14:31:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 189,
+      "title": "How to restore model",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-01-17T08:49:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 188,
+      "title": "cleaning up lib/envs/gridword.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-12-25T16:54:17Z",
+      "closed_at": "2018-12-26T01:27:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 187,
+      "title": "updates to README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-12-24T18:59:04Z",
+      "closed_at": "2018-12-25T01:27:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 186,
+      "title": "The output layer should not using RELU activation function. ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-24T07:07:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 185,
+      "title": "You don't follow the book?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-07T16:42:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 184,
+      "title": "Why RBFSampler from sklearn is used as the feature in the FA example?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-01T01:22:02Z",
+      "closed_at": "2018-12-09T00:28:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 183,
+      "title": "DQN Dense Tensor Using too Much Memory",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-25T22:14:06Z",
+      "closed_at": "2018-11-08T07:47:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 182,
+      "title": "Blackjack - Monte Carlo Prediction",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-24T22:15:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 181,
+      "title": "Policy Gradient Methods: Loss function of policy estimator in REINFORCE",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-22T06:06:47Z",
+      "closed_at": "2022-02-07T08:27:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 180,
+      "title": "Batch update for Continuous Mountain Car Actor-Critic",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-21T13:00:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 179,
+      "title": "Define an envirement",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-12T14:11:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 178,
+      "title": "Adding k-bandit implementation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-10-01T18:15:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 177,
+      "title": "policy evaluation algorithm and implementation bug",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-09-30T16:17:49Z",
+      "closed_at": "2018-10-05T13:36:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 176,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-21T10:46:30Z",
+      "closed_at": "2018-11-11T03:59:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 175,
+      "title": "added link to CS885",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-20T22:39:41Z",
+      "closed_at": "2018-09-21T01:28:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 174,
+      "title": "[bug] DQN/dqn.py: Incorrect loss function. [question] Question about RMSProp paramethers",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-28T12:34:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 173,
+      "title": "OSError: [Errno 12] Cannot allocate memory",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-23T09:05:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 172,
+      "title": "Questionable result in Gamblers Problem Solution",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-20T20:09:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 171,
+      "title": "Policy Evaluation Solution VS Sutton's Page 75",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-07-22T15:47:35Z",
+      "closed_at": "2018-07-23T06:57:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 170,
+      "title": "Is the Implementation correct?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-07-15T10:59:57Z",
+      "closed_at": "2020-09-06T12:17:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 169,
+      "title": "Create MDP_David_class_first_example.py",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-07-11T15:00:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 168,
+      "title": "Continuous MountainCar Actor Critic issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-11T03:18:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 167,
+      "title": "Policy Gradient, when action space is 40, how can I sample action from Gaussian?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-10T08:01:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 166,
+      "title": "Modify Policy Evaluation Solution.ipynb according to David Silver's slides.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-07-05T01:08:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 165,
+      "title": "Update dqn.py",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-06-07T07:32:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 164,
+      "title": "updated an old link, resolve issue #89",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-05-29T03:17:56Z",
+      "closed_at": "2018-05-29T05:03:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 163,
+      "title": "Gambler's problem (ex.4.3) added to DP.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-05-28T00:24:28Z",
+      "closed_at": "2018-05-28T04:33:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 162,
+      "title": "Added the equation reference from Sutton's book",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-05-26T22:41:59Z",
+      "closed_at": "2018-05-27T00:17:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 161,
+      "title": "eval() throws an error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-05-24T14:25:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 160,
+      "title": "OSError: [Errno 12] Cannot allocate memory",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-04-24T02:04:33Z",
+      "closed_at": "2018-07-31T12:34:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 159,
+      "title": "Reset BlackjackEnv to a chosen state",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-22T07:36:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 158,
+      "title": "Plot BlackJack Greedy Policy for MC On-line Control",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-18T14:49:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 157,
+      "title": "typo fix and correction for state processor output shape",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-14T11:22:18Z",
+      "closed_at": "2018-04-15T01:04:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 156,
+      "title": "issue with value update function",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-14T10:43:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 155,
+      "title": "correction for state processor output shape",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-13T15:21:41Z",
+      "closed_at": "2018-04-14T01:16:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 154,
+      "title": "Policy evaluation Synchronous or Asynchronous backups ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-09T13:37:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "dennybritz",
+      "contributions": 171
+    },
+    {
+      "login": "jovsa",
+      "contributions": 6
+    },
+    {
+      "login": "rockingdingo",
+      "contributions": 5
+    },
+    {
+      "login": "praveen-palanisamy",
+      "contributions": 4
+    },
+    {
+      "login": "BAILOOL",
+      "contributions": 3
+    },
+    {
+      "login": "j-min",
+      "contributions": 3
+    },
+    {
+      "login": "Shadowen",
+      "contributions": 3
+    },
+    {
+      "login": "jonahweissman",
+      "contributions": 2
+    },
+    {
+      "login": "quanturk",
+      "contributions": 2
+    },
+    {
+      "login": "himanshusahni",
+      "contributions": 2
+    },
+    {
+      "login": "ZuzooVn",
+      "contributions": 2
+    },
+    {
+      "login": "yenchenlin",
+      "contributions": 2
+    },
+    {
+      "login": "rianrajagede",
+      "contributions": 2
+    },
+    {
+      "login": "BruinBear",
+      "contributions": 2
+    },
+    {
+      "login": "ayberkydn",
+      "contributions": 2
+    },
+    {
+      "login": "arielsboiardi",
+      "contributions": 2
+    },
+    {
+      "login": "andytwigg",
+      "contributions": 2
+    },
+    {
+      "login": "ei-grad",
+      "contributions": 2
+    },
+    {
+      "login": "guotong1988",
+      "contributions": 1
+    },
+    {
+      "login": "sstarzycki",
+      "contributions": 1
+    },
+    {
+      "login": "david1309",
+      "contributions": 1
+    },
+    {
+      "login": "alvarosg",
+      "contributions": 1
+    },
+    {
+      "login": "absolutelyNoWarranty",
+      "contributions": 1
+    },
+    {
+      "login": "tigerneil",
+      "contributions": 1
+    },
+    {
+      "login": "fspirit",
+      "contributions": 1
+    },
+    {
+      "login": "shivamvats",
+      "contributions": 1
+    },
+    {
+      "login": "shar1pius",
+      "contributions": 1
+    },
+    {
+      "login": "roshray",
+      "contributions": 1
+    },
+    {
+      "login": "ronaldseoh",
+      "contributions": 1
+    },
+    {
+      "login": "PieroMacaluso",
+      "contributions": 1
+    },
+    {
+      "login": "anuzis",
+      "contributions": 1
+    },
+    {
+      "login": "Kismuz",
+      "contributions": 1
+    },
+    {
+      "login": "keithmgould",
+      "contributions": 1
+    },
+    {
+      "login": "fengyuleidian0615",
+      "contributions": 1
+    },
+    {
+      "login": "ByzanTine",
+      "contributions": 1
+    },
+    {
+      "login": "bfontaine",
+      "contributions": 1
+    },
+    {
+      "login": "alek5k",
+      "contributions": 1
+    },
+    {
+      "login": "ajschumacher",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T11:58:43.576924Z"
+}

@@ -1,0 +1,1795 @@
+{
+  "full_name": "eligrey/FileSaver.js",
+  "owner": "eligrey",
+  "name": "FileSaver.js",
+  "url": "https://github.com/eligrey/FileSaver.js",
+  "description": "An HTML5 saveAs() FileSaver implementation",
+  "primary_language": "JavaScript",
+  "topics": [],
+  "license_spdx": "NOASSERTION",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 21995,
+  "forks": 4320,
+  "open_issues": 214,
+  "created_at": "2011-07-15T03:27:54Z",
+  "pushed_at": "2023-03-01T13:55:08Z",
+  "updated_at": "2026-06-27T23:42:59Z",
+  "commits": [
+    {
+      "sha": "cea522bc41bfadc364837293d0c4dc585a65ac46",
+      "author_login": "lopezvit",
+      "authored_at": "2022-07-27T18:55:30Z",
+      "message": "Update package-lock.json"
+    },
+    {
+      "sha": "9806041b0e800979dddabbaa1b5f6ce6952d7cd7",
+      "author_login": "eligrey",
+      "authored_at": "2022-07-11T12:13:59Z",
+      "message": "Merge pull request #568 from micahjon/master"
+    },
+    {
+      "sha": "b5e61ec88969461ce0504658af07c2b56650ee8c",
+      "author_login": "jimmywarting",
+      "authored_at": "2020-11-19T13:34:15Z",
+      "message": "Update package.json"
+    },
+    {
+      "sha": "b590aeeb3958a1baebfaa86000938c64a026e721",
+      "author_login": "jimmywarting",
+      "authored_at": "2020-11-19T13:32:58Z",
+      "message": "Update FileSaver.js"
+    },
+    {
+      "sha": "5bb701bd6ea05a02836daf8ef88ec350a1dd4d83",
+      "author_login": "eligrey",
+      "authored_at": "2020-05-28T02:05:15Z",
+      "message": "Merge pull request #652 from rajivshah3/fix/only-macos-webview"
+    },
+    {
+      "sha": "43bbd2f0ae6794f8d452cd360e9d33aef6071234",
+      "author_login": "rajivshah3",
+      "authored_at": "2020-05-22T02:49:09Z",
+      "message": "chore: Rebuild dist"
+    },
+    {
+      "sha": "a60d75f18b5769774838d8643a9b225b80a1467d",
+      "author_login": "rajivshah3",
+      "authored_at": "2020-05-22T02:48:52Z",
+      "message": "chore: Bump version to 2.0.4"
+    },
+    {
+      "sha": "e5e74d69f4e0eb05d4b69f71fcd87a028ccac949",
+      "author_login": "rajivshah3",
+      "authored_at": "2020-05-22T02:33:32Z",
+      "message": "fix: Refine macOS WebView check so that it is false for browsers"
+    },
+    {
+      "sha": "648ff96f8b2b69024c719e018ec20712771b8470",
+      "author_login": "eligrey",
+      "authored_at": "2020-01-31T00:44:01Z",
+      "message": "Use FileReader in macOS native apps using WebKit (#613)"
+    },
+    {
+      "sha": "7a8ff3cc6ae717b6c7628b3c280a5c593c2206ee",
+      "author_login": "rajivshah3",
+      "authored_at": "2020-01-31T00:40:57Z",
+      "message": "Switch isWebKit and isSafari conditions to maintain behavior"
+    },
+    {
+      "sha": "0a2e868b48b6d745a0f2b9bf448f9226925efcd0",
+      "author_login": "rajivshah3",
+      "authored_at": "2020-01-31T00:20:04Z",
+      "message": "Rebuild dist"
+    },
+    {
+      "sha": "16a8bb9e8fb419d97d810c68e00ce3f4f888eb07",
+      "author_login": "rajivshah3",
+      "authored_at": "2020-01-31T00:18:02Z",
+      "message": "Bump version to 2.0.3"
+    },
+    {
+      "sha": "572f2548349da990a4e03e9b89a385fc9fe1051a",
+      "author_login": "rajivshah3",
+      "authored_at": "2020-01-31T00:00:37Z",
+      "message": "Ensure Chrome iOS still works"
+    },
+    {
+      "sha": "d3d2bd20d636b6b786bec05374d8807d06efe344",
+      "author_login": "rajivshah3",
+      "authored_at": "2020-01-30T23:50:01Z",
+      "message": "Merge branch 'master' into feature/webkit-macos"
+    },
+    {
+      "sha": "480d547986765f6cd402702c5606f27be6fd810b",
+      "author_login": "s-gerber",
+      "authored_at": "2019-10-29T13:33:06Z",
+      "message": "fix small spelling error"
+    },
+    {
+      "sha": "db7880179f1ad1b78197744b3adb7e9e3291d1c7",
+      "author_login": "rajivshah3",
+      "authored_at": "2019-12-21T22:41:53Z",
+      "message": "Use FileReader in macOS native apps using WebKit"
+    },
+    {
+      "sha": "9a0a1e4ae2732c2d8eedc0214ef1c0fa32d15150",
+      "author_login": "eligrey",
+      "authored_at": "2019-10-22T17:42:27Z",
+      "message": "Add GitHub Sponsors funding method"
+    },
+    {
+      "sha": "1ea2325a7521a97ad7c09ba7f11c2d06942675e1",
+      "author_login": "eligrey",
+      "authored_at": "2019-10-14T20:13:09Z",
+      "message": "Bump mixin-deep from 1.3.1 to 1.3.2 (#601)"
+    },
+    {
+      "sha": "35e9d8127d25883fb6a5bd803334e29869b31d79",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2019-10-14T18:22:49Z",
+      "message": "Bump mixin-deep from 1.3.1 to 1.3.2"
+    },
+    {
+      "sha": "538c4b57519a35d6245fb2390b6efc4233012dd4",
+      "author_login": "eligrey",
+      "authored_at": "2019-10-14T18:21:37Z",
+      "message": "Bump lodash from 4.17.11 to 4.17.14 (#575)"
+    },
+    {
+      "sha": "556db1f6df33da0fe8954dcea3fb49b11830e9c5",
+      "author_login": "eligrey",
+      "authored_at": "2019-07-16T06:34:35Z",
+      "message": "Merge pull request #577 from chrisdoble/master"
+    },
+    {
+      "sha": "b95a82a3ecb208fef5931e8931b2a8e67a834c02",
+      "author_login": null,
+      "authored_at": "2019-07-16T06:10:35Z",
+      "message": "Check that FileReader exists, not that it's an object"
+    },
+    {
+      "sha": "35f0e568d99d250d2f091d3ebfeac765dd7d8764",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2019-07-11T03:41:59Z",
+      "message": "Bump lodash from 4.17.11 to 4.17.14"
+    },
+    {
+      "sha": "a7e1ccfc44decde2679b078cf6f31b450db9523f",
+      "author_login": "eligrey",
+      "authored_at": "2019-06-12T05:39:07Z",
+      "message": "Create FUNDING.yml"
+    },
+    {
+      "sha": "0403f771ac53500266a19805bc2e9a0329a24c1e",
+      "author_login": "micahjon",
+      "authored_at": "2019-06-07T18:22:21Z",
+      "message": "Add namespace to <a> tag to prevent conflict with Chrome Poper"
+    },
+    {
+      "sha": "1bc9ed39c4844108f37f801b9b092038a5f5f8b4",
+      "author_login": "jimmywarting",
+      "authored_at": "2019-05-14T08:00:17Z",
+      "message": "bump minor version"
+    },
+    {
+      "sha": "71f266f93ec005001755b6c6d75c67e723de1b74",
+      "author_login": null,
+      "authored_at": "2019-03-19T09:55:00Z",
+      "message": "Missing dist build"
+    },
+    {
+      "sha": "9bd5261f602cef5ba5a6dcf7a4e44f2ea26c40a0",
+      "author_login": null,
+      "authored_at": "2019-03-19T09:44:52Z",
+      "message": "Catching an exception on Send. This happens when request for HEAD returns 405 Method Not Allowed. Instead of error http status, this may throw an exception. Return false and fallback to link download."
+    },
+    {
+      "sha": "3caf053bbd62b83bd3be4f0f641afa135a34ae63",
+      "author_login": null,
+      "authored_at": "2019-03-27T18:24:27Z",
+      "message": "fix autoBom documentation"
+    },
+    {
+      "sha": "04ca36440df3819a1a9f4b4e5d67cb782e53cfa1",
+      "author_login": "josephrocca",
+      "authored_at": "2019-03-01T01:45:12Z",
+      "message": "Updated Chrome data"
+    },
+    {
+      "sha": "d87b4196169cb35b3bb0e02421c9e75fa8673e49",
+      "author_login": "0xModene",
+      "authored_at": "2019-02-13T15:48:58Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3e46b730528fa34a82fcd97ba98d6e08c6f8eddf",
+      "author_login": "jimmywarting",
+      "authored_at": "2019-02-17T14:24:08Z",
+      "message": "Update package.json"
+    },
+    {
+      "sha": "b1ab5889468b580f2754cde18edaea5a6b5d8ccb",
+      "author_login": "tripulse",
+      "authored_at": "2019-01-31T17:41:54Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "4a73fd7a2dcdc6ce2947433af3d3fbad56a019fa",
+      "author_login": "binki",
+      "authored_at": "2019-01-03T19:01:10Z",
+      "message": "Fix a few spelling errors."
+    },
+    {
+      "sha": "0e905a3e06ac52cc22368aa6269ba0a2bb675b54",
+      "author_login": "asvetly",
+      "authored_at": "2018-12-02T10:43:05Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "283f438c31776b622670be002caf1986c40ce90c",
+      "author_login": "segovia",
+      "authored_at": "2018-11-26T17:18:54Z",
+      "message": "Fix accidental rewrite of global saveAs function"
+    },
+    {
+      "sha": "be09a02e8cd3fe7046a692b19f6aa9631d0146c7",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-11-14T11:34:32Z",
+      "message": "Removed eval"
+    },
+    {
+      "sha": "72effade4db27b0647bd0e39404cfaa120baaf54",
+      "author_login": "NeeEoo",
+      "authored_at": "2018-11-02T15:33:12Z",
+      "message": "Fixed grammar and punctuation"
+    },
+    {
+      "sha": "3ecf5a9f55bdf33971738bab83215afdfcaac9d9",
+      "author_login": "ZuBB",
+      "authored_at": "2018-11-02T10:57:50Z",
+      "message": "fix: make typo go away"
+    },
+    {
+      "sha": "6d09d0980b8eb5f1e098409e6a7c80ceb319c361",
+      "author_login": "asaarnak",
+      "authored_at": "2018-10-25T10:50:57Z",
+      "message": "Add sourcemap to /dist folder. #481"
+    },
+    {
+      "sha": "00183093bf92592fe231e56b0e681fe150123ccb",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-10-18T09:40:36Z",
+      "message": "don’t throw on module.exports"
+    },
+    {
+      "sha": "cf70d125b048349fb084d8c8395ee790b83c685c",
+      "author_login": "benbennza1",
+      "authored_at": "2018-10-16T19:06:07Z",
+      "message": "replaced the non-breaking space at with space"
+    },
+    {
+      "sha": "bbecae4d41bef588e2806b8c310637ee37135fe3",
+      "author_login": "eligrey",
+      "authored_at": "2018-10-10T19:21:16Z",
+      "message": "Merge pull request #477 from jeffbdye/patch-1"
+    },
+    {
+      "sha": "b08a6d256c0c151873cc0d33f56e03c320677eea",
+      "author_login": "jeffbdye",
+      "authored_at": "2018-10-10T19:12:43Z",
+      "message": "Minor misspellings in comments"
+    },
+    {
+      "sha": "767f830766dcad6afc68b6f0d9aa6dc64f956cb0",
+      "author_login": "PLoecker",
+      "authored_at": "2018-09-28T12:18:49Z",
+      "message": "Fix spelling of click-function"
+    },
+    {
+      "sha": "74846b33fe477286fccc47f549367d17c27040c4",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-27T19:00:17Z",
+      "message": "switched export method"
+    },
+    {
+      "sha": "556af82e6ae8e2d5cd5023ffcfc77a88094daf07",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-26T17:33:47Z",
+      "message": "changed the way how you import"
+    },
+    {
+      "sha": "15d96ca835a556c7f4161873f0884096637ad483",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-26T17:27:47Z",
+      "message": "Update CHANGELOG.md"
+    },
+    {
+      "sha": "047fa34d15bcbc384c818642e620a9c2e8749a1e",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-26T16:57:34Z",
+      "message": "Rename changelog.md to CHANGELOG.md"
+    },
+    {
+      "sha": "5183da9c57fa94cdec111b29dd04d1ec8b68f6d3",
+      "author_login": "kiwi-koder",
+      "authored_at": "2018-09-26T15:48:00Z",
+      "message": "Updated how saveAs is imported"
+    },
+    {
+      "sha": "b796e069a9ea6a32db683267b374a1af59d924ec",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-26T15:12:48Z",
+      "message": "reference another issue"
+    },
+    {
+      "sha": "410208d4f98028fc8e9f0b7d4fdac99769943782",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-26T15:10:49Z",
+      "message": "made issues to links"
+    },
+    {
+      "sha": "70c261d0268e4d02154c12e8ffd6069f82275ac8",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-26T15:04:34Z",
+      "message": "rc.2"
+    },
+    {
+      "sha": "f3b45ae5807e4b1f7bf8f2c1692b969a1288cc28",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-26T10:40:14Z",
+      "message": "Remove the implementation"
+    },
+    {
+      "sha": "31eccd14f95e3220d4e30b095e481157f3ee6ac2",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-26T10:19:51Z",
+      "message": "everything but dist folder"
+    },
+    {
+      "sha": "eb11f655e6541035541e1601f2ec64fb4c909838",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-26T10:12:52Z",
+      "message": "fix bom api docs"
+    },
+    {
+      "sha": "eaeac8dc3c2b1d0c260006cf0a93002dab560fd4",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-26T10:09:50Z",
+      "message": "fix BOM api docs"
+    },
+    {
+      "sha": "9e931126f5c3dc48ce88deac9598f2c83470ec5a",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-21T14:26:24Z",
+      "message": "docs for using url"
+    },
+    {
+      "sha": "37d757bbc613e0613d296bcbb362c44fac2c61c0",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-21T14:16:50Z",
+      "message": "don’t crash in worker"
+    },
+    {
+      "sha": "4de5ebccc835edd2d19fdf3855ce1617a8f3b8d6",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-21T14:10:37Z",
+      "message": "new version"
+    },
+    {
+      "sha": "5cbe331ec875950cfb6a50942a01091857a9f6e6",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-21T12:56:39Z",
+      "message": "include the list folder"
+    },
+    {
+      "sha": "a67731daf458ce8782a05ce49a008ec5e8f566fc",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-21T12:56:20Z",
+      "message": "update dev rep"
+    },
+    {
+      "sha": "660c35cdb8b9e5c26d9b5b7dcb7af2799f80cef1",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-09-21T12:54:47Z",
+      "message": "remove old demos"
+    },
+    {
+      "sha": "5db588a568aa542b98b04d5708fb8a1448961001",
+      "author_login": "owenblacker",
+      "authored_at": "2018-09-20T21:18:25Z",
+      "message": "Amended link to Apple's WebKit bug (#454)"
+    },
+    {
+      "sha": "1144ac42bb762f40d6dd272ea8d6aa88f2cb8e49",
+      "author_login": "jimmywarting",
+      "authored_at": "2018-08-07T17:44:51Z",
+      "message": "Add precaution note about file constructor "
+    },
+    {
+      "sha": "00e540fda507173f83a9408f1604622538d0c81a",
+      "author_login": "eligrey",
+      "authored_at": "2018-07-17T17:50:43Z",
+      "message": "Merge pull request #450 from ps011/master"
+    },
+    {
+      "sha": "23d400231f637fb75201dbf54438b8b664b3cabc",
+      "author_login": null,
+      "authored_at": "2018-07-03T09:01:01Z",
+      "message": "Added import statement in syntax section for ease of use"
+    },
+    {
+      "sha": "e865e37af9f9947ddcced76b549e27dc45c1cb2e",
+      "author_login": "eligrey",
+      "authored_at": "2018-03-22T21:09:13Z",
+      "message": "Revert #408"
+    },
+    {
+      "sha": "a606064f3747d8e8f753e9a3d9eedbed8799431a",
+      "author_login": "chrahunt",
+      "authored_at": "2018-03-22T18:48:05Z",
+      "message": "Revert interface change. (#411)"
+    },
+    {
+      "sha": "28a86d90c44ecccebd1bb459a3cd15438625cb51",
+      "author_login": "bdwain",
+      "authored_at": "2018-03-22T18:47:45Z",
+      "message": "Fix files included with npm (#413)"
+    },
+    {
+      "sha": "5914e2a57341d6ff2fb3d4699fae1d2f8971e46a",
+      "author_login": "eligrey",
+      "authored_at": "2018-03-20T21:30:18Z",
+      "message": "Version bump for 1.3.7"
+    },
+    {
+      "sha": "6356c3f6f6832e1ec784230b43689310445b6857",
+      "author_login": "eligrey",
+      "authored_at": "2018-03-16T21:45:20Z",
+      "message": "Set target=\"_blank\" on save link"
+    },
+    {
+      "sha": "24f9aaca805b946907ee64e39bd4691535e987bd",
+      "author_login": "eligrey",
+      "authored_at": "2018-01-25T09:46:34Z",
+      "message": "Merge pull request #397 from Rillke/patch-1"
+    },
+    {
+      "sha": "f1959c87cdfec2e328c89592b7a84026585f5733",
+      "author_login": "Rillke",
+      "authored_at": "2018-01-25T00:54:51Z",
+      "message": "Update @source in FileSaver.js"
+    },
+    {
+      "sha": "dfd58561fb18c7a1fb0d3cacbd77e85a2b3fd320",
+      "author_login": "eligrey",
+      "authored_at": "2018-01-22T23:53:17Z",
+      "message": "Use `export default`"
+    },
+    {
+      "sha": "a5dbf55c17286930a3488004f83dfc94c1fcca2d",
+      "author_login": "eligrey",
+      "authored_at": "2018-01-22T22:49:06Z",
+      "message": "Merge pull request #391 from ogonkov/use_babel"
+    },
+    {
+      "sha": "5978f3c5773ba5ddae51367b234b87afb45ec6d1",
+      "author_login": "ogonkov",
+      "authored_at": "2018-01-22T21:12:19Z",
+      "message": "Avoid using `window` in export"
+    },
+    {
+      "sha": "9570cf7362b6d0dbd74c6053c750f42293ade0d7",
+      "author_login": "ogonkov",
+      "authored_at": "2018-01-14T08:50:55Z",
+      "message": "Update readme"
+    },
+    {
+      "sha": "b1158d0c33b1a22af311fdf66db04c6062b89b04",
+      "author_login": "ogonkov",
+      "authored_at": "2018-01-14T08:44:50Z",
+      "message": "Update `main` in `bower.json`"
+    },
+    {
+      "sha": "b6c236d96d3e49fbef88ce33e01535522634b4f8",
+      "author_login": "ogonkov",
+      "authored_at": "2018-01-14T08:43:44Z",
+      "message": "Add check for `window.saveAs`"
+    },
+    {
+      "sha": "164deec5abd1e052ef6ed7db91884979984b4ce2",
+      "author_login": "ogonkov",
+      "authored_at": "2018-01-13T09:01:32Z",
+      "message": "Build to `dist` folder"
+    },
+    {
+      "sha": "99a89750b0916a3c9e8fa6fb57bf66ee180ebd41",
+      "author_login": "ogonkov",
+      "authored_at": "2018-01-13T08:39:48Z",
+      "message": "Update prepublish script name"
+    },
+    {
+      "sha": "ff675f80526a79477210e8c2cee794b95f7d326f",
+      "author_login": "ogonkov",
+      "authored_at": "2017-12-25T06:19:44Z",
+      "message": "Change to named export"
+    },
+    {
+      "sha": "17d5c67eb318bd22d1ecfd3ef1a8fdbfd771dc51",
+      "author_login": "ogonkov",
+      "authored_at": "2017-12-23T10:59:51Z",
+      "message": "Fix `files` section in `package.json`"
+    },
+    {
+      "sha": "70bb521e5def15277ae4d908e26ddea8e2c60401",
+      "author_login": "ogonkov",
+      "authored_at": "2017-12-23T10:58:10Z",
+      "message": "Preserve generated files location"
+    },
+    {
+      "sha": "b4c11367c083204206506edfcf85050745b8f69f",
+      "author_login": "ogonkov",
+      "authored_at": "2017-12-23T10:53:28Z",
+      "message": "Build minified version"
+    },
+    {
+      "sha": "281a1c1a93c053bc88e7d714df12238b358e656f",
+      "author_login": "ogonkov",
+      "authored_at": "2017-12-23T10:36:21Z",
+      "message": "Run build before publishing"
+    },
+    {
+      "sha": "d02373e40d232a409c430fdd01f4b42bc77862ab",
+      "author_login": "ogonkov",
+      "authored_at": "2017-12-23T10:30:29Z",
+      "message": "Preserve source file for npm"
+    },
+    {
+      "sha": "d7f5db32448211622f0a93bd11b807c54d29cea3",
+      "author_login": "ogonkov",
+      "authored_at": "2017-12-23T10:17:37Z",
+      "message": "Run build via `babel`"
+    },
+    {
+      "sha": "b4a918669accb81f184c610d741a4a8e1306aa27",
+      "author_login": "eligrey",
+      "authored_at": "2018-01-12T13:03:49Z",
+      "message": "Update version number for #387"
+    },
+    {
+      "sha": "5733e40e5af936eb3f48554cf6a8a7075d71d18a",
+      "author_login": "eligrey",
+      "authored_at": "2018-01-12T13:00:59Z",
+      "message": "Fixes #387"
+    },
+    {
+      "sha": "74f089808ec84ddb10e34b9b85319725742e63c8",
+      "author_login": "eligrey",
+      "authored_at": "2018-01-12T12:56:18Z",
+      "message": "Merge pull request #387 from arasabbasi/patch-1"
+    },
+    {
+      "sha": "fe42ec4055a28e005839b99ad12eb7a6d31d06d7",
+      "author_login": "Uzlopak",
+      "authored_at": "2018-01-12T12:46:49Z",
+      "message": "Update FileSaver.js"
+    },
+    {
+      "sha": "0b9054253529ab294a7ebd84cee052f0706c8466",
+      "author_login": "Uzlopak",
+      "authored_at": "2018-01-12T12:14:59Z",
+      "message": "Update FileSaver.js"
+    },
+    {
+      "sha": "c3e4a45021f205a790a2699f4af7a5b85fb63e09",
+      "author_login": "konekoya",
+      "authored_at": "2017-12-06T11:47:35Z",
+      "message": "Fix typo (#378)"
+    },
+    {
+      "sha": "db089ce81efca5f7419545d93f8ad0fdaed46b90",
+      "author_login": "Uzlopak",
+      "authored_at": "2017-12-04T18:42:44Z",
+      "message": "Update FileSaver.js"
+    },
+    {
+      "sha": "1bf9b35b544700254d3d509b3cca006e2230bc81",
+      "author_login": "Uzlopak",
+      "authored_at": "2017-12-04T18:40:44Z",
+      "message": "Fix RollUp-Error because of This is Undefined Rewrite"
+    },
+    {
+      "sha": "c347c51f6e6e56221b2fa3d8c9b32e181f76355c",
+      "author_login": "eligrey",
+      "authored_at": "2017-09-30T00:53:01Z",
+      "message": "Merge pull request #374 from thijstriemstra/patch-1"
+    },
+    {
+      "sha": "945f08bc7498af25a28f7b44b2245feae21fd630",
+      "author_login": "thijstriemstra",
+      "authored_at": "2017-09-30T00:10:23Z",
+      "message": "fix typo"
+    },
+    {
+      "sha": "dffa3a49896d4635eb1e8f67730b85699c1eb743",
+      "author_login": "jimmywarting",
+      "authored_at": "2017-06-22T07:01:12Z",
+      "message": "Updated browser support"
+    }
+  ],
+  "issues": [
+    {
+      "number": 831,
+      "title": "docs: fix typos in README.md (compatiblity → compatibility, cancelation → cancellation)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-19T02:47:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 830,
+      "title": "Smarter",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-10T22:46:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 829,
+      "title": "Himera project",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-20T09:50:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 828,
+      "title": "Particle.html",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-21T17:56:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 827,
+      "title": "Create 123",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-09T19:46:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 826,
+      "title": "TerX Galaxy V1 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-06T05:49:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 825,
+      "title": "Brute force attack tool",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-09-28T00:36:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 822,
+      "title": "😃😃",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-07-13T09:41:08Z",
+      "closed_at": "2025-07-13T09:42:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 820,
+      "title": "H",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-03-25T19:17:09Z",
+      "closed_at": "2025-03-25T19:17:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 819,
+      "title": "Birthday",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-03-25T19:13:50Z",
+      "closed_at": "2025-03-25T19:15:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 818,
+      "title": "失败-文件被截断，谷歌浏览器",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-25T09:23:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 815,
+      "title": "Losing leading zeroes on document creation",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-09-17T20:11:43Z",
+      "closed_at": "2024-09-18T12:13:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 814,
+      "title": "Help me",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-11T10:41:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 813,
+      "title": "The use of the deprecated initMouseEvent method",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-05T08:28:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 811,
+      "title": "Why is there a 40-second delay in calling the `URL.revokeObjectURL` method?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-07-12T08:18:53Z",
+      "closed_at": "2025-08-14T02:59:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 810,
+      "title": "How to get the pending state to show a loading indicator",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-11T10:11:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 809,
+      "title": "Ygo pro",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-25T17:20:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 808,
+      "title": "What does it mean to \"use the Content-Disposition header\"?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-25T08:07:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 807,
+      "title": "Any possibility to save files with leading dot (.)?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-06T13:45:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 806,
+      "title": "在下载oss临时凭证url时会报错：no enabled plugin supports this MIME type",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-21T10:52:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 805,
+      "title": "dist is outdated - TypeError: Cannot set properties of undefined",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-12T23:17:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 804,
+      "title": "导出为zip调用saveas方法时zip名称的时间是xx:xx:xx会转化为xx_xx_xx",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-12-21T02:33:26Z",
+      "closed_at": "2024-03-08T07:17:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 803,
+      "title": "Call saveAs to save the file, is there any way to get the specific directory of the saved file?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-20T09:24:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 802,
+      "title": "Thanks to the author for the open source；You can update this release date, it's less than 60 days and hasn't been updated for three years. ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-24T03:47:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 801,
+      "title": " Could not find a declaration file for module 'stream'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-20T10:55:48Z",
+      "closed_at": "2023-10-20T10:58:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 800,
+      "title": "Error when attempting to download static file",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-10T20:10:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 799,
+      "title": "Assigning to system location object",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-03T05:46:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 798,
+      "title": "(love) Just to tell you how great your software is",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-20T15:14:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 797,
+      "title": "My  Business Requirements is that downloads do not trigger a new tab to open.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-03T11:57:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 796,
+      "title": "Is there a way to know when a download is started??",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-29T13:48:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 795,
+      "title": "Textures aren't working for downloaded FBX file from WebGL runtime from Unity.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-21T06:13:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 794,
+      "title": "File Download Prompt not Showing in Samsung Internet Browser App on a Samsung Galaxy Mobile Device",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-02T09:47:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 793,
+      "title": "download function do not work",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-16T09:40:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 792,
+      "title": "There will be a pop-up window when you click a non-same-source link to download, which will affect the user experience",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-25T06:38:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 791,
+      "title": "I think this judgment is questionable",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-21T09:17:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 790,
+      "title": "error ssh: Could not resolve hostname github.com for file-saver.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-05T11:58:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 789,
+      "title": "ReactJs Android browser silently failing",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-27T09:43:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 788,
+      "title": ".txt download from different browers on phone that filename is not correct name.but PC browers is correct.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-04T03:50:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 787,
+      "title": "Bump minimist and mkdirp",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-03-01T13:55:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 786,
+      "title": "TypeError: undefined is not an object (evaluating 'f.navigator') __ERROR",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-22T07:16:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 785,
+      "title": ".txt extension added on downloaded files on iphone",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-10T22:03:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 784,
+      "title": "Bump json5 from 2.1.0 to 2.2.3",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-03T15:14:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 783,
+      "title": "Update FileSaver.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-12-30T21:02:40Z",
+      "closed_at": "2023-01-04T00:06:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 782,
+      "title": "IPhone/Opera: \"Opera cannot open the page because the address is invalid\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-19T17:33:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 781,
+      "title": "Bump decode-uri-component from 0.2.0 to 0.2.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-03T09:25:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 780,
+      "title": "Progress of downloading zip file from s3 presigned url not showing in browsers",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-24T12:50:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 779,
+      "title": "Console log an error when saveAs is called from a web worker",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-11T00:29:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 778,
+      "title": "saveAs fails on chrome with no error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-10T18:12:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 777,
+      "title": "Help please ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-27T12:57:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 776,
+      "title": "Content Problem",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-10-13T16:21:11Z",
+      "closed_at": "2023-01-12T08:53:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 775,
+      "title": "Added version check  before stripping of invalid Characters for Edge/…",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-12T08:13:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 774,
+      "title": "Add stripped down / Modern version",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-01T19:31:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 773,
+      "title": "Bump minimist and mkdirp",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-09-22T16:26:26Z",
+      "closed_at": "2023-03-01T13:55:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 772,
+      "title": "Bump set-value and union-value",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-09-22T16:25:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 771,
+      "title": "Bump ini from 1.3.5 to 1.3.8",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-09-22T16:25:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 770,
+      "title": "Bump tar from 4.4.8 to 4.4.19",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-09-22T16:25:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 769,
+      "title": "shruti added a message",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-09-06T10:30:43Z",
+      "closed_at": "2022-09-06T10:31:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 767,
+      "title": "Wrong downloading format",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-22T07:22:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 766,
+      "title": "\"Safari cannot download this file\" error on iOS",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-08-16T08:17:15Z",
+      "closed_at": "2022-08-16T10:27:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 765,
+      "title": "There is no release for version 2.0.5",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-31T20:24:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 764,
+      "title": "Update package-lock.json",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-07-28T08:58:27Z",
+      "closed_at": "2022-09-22T16:23:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 763,
+      "title": "npm install failed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-27T08:30:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 762,
+      "title": "Duplicate Download on Browsers canvas.toBlob but works normally on local host",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-05T15:17:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 761,
+      "title": "Apple wallet pkpasses bundle cannot be saved with correct extension",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-24T08:32:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 759,
+      "title": "How to handle a error?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-08T20:37:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 758,
+      "title": "Cannot dynamic import FileSaver.js",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-21T10:34:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 757,
+      "title": "jsPDF: npm install failed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-18T02:21:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 756,
+      "title": "How can I install dependencies in a disconnected environment",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-09T12:46:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 755,
+      "title": "feat: add ajax headers and post data",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-05-07T06:49:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 754,
+      "title": "Cannot use blob value in saveAs from Instagram In-App Browser",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-27T09:17:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 753,
+      "title": "Veracode issue in the version 2.0.5",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-04-18T15:35:00Z",
+      "closed_at": "2022-04-19T06:13:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 752,
+      "title": "docs: saveAs in iOS does not open in new tab as described",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-06T22:14:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 751,
+      "title": "Add bom invocation before generating object URL",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-03-18T18:04:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 750,
+      "title": "How can I make a bookmarklet that saves the current page with FileSaver.js?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-28T22:11:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 749,
+      "title": "Save refreshes browser. How do you stop it from refreshing?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-25T07:58:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 748,
+      "title": "word文档导出成功打开无内容",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-18T03:42:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 747,
+      "title": "File Saver",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-15T04:34:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 746,
+      "title": "Any plan for 'real' saveAs feature?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-08T15:00:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 745,
+      "title": "Retrieving File, Modifying, then downloading with FileSaver corrupts non-plaintext files",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-04T05:39:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 744,
+      "title": "Text lenghts exceeding",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-02-02T10:15:14Z",
+      "closed_at": "2022-02-07T11:54:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 743,
+      "title": "saveAs not using file name with url",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-27T19:52:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 742,
+      "title": "Downloading a file without a name, just extension, i.e \".env\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-24T08:44:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 741,
+      "title": "what's the font name of your blog?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-01-24T03:30:52Z",
+      "closed_at": "2022-01-24T04:54:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 740,
+      "title": "how to use FileSaver in html，cannot use NPM to import",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-08T03:09:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 739,
+      "title": "Is FileSaver.js ready for upcoming changes with navigator.userAgent in Chrome?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-04T13:00:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 738,
+      "title": "fix: the new popup not the download window",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-12-25T15:08:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 737,
+      "title": "feedback form  to text file",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-08T21:13:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 736,
+      "title": "How to save a \"https://xxxxxxxx.json\" file",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-01T06:33:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 735,
+      "title": "saveAs not working in chrome with iPad and iPhone",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-25T12:40:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 734,
+      "title": "Audit usage of navigator.userAgent, navigator.appVersion, and navigator.platform",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-24T23:44:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 733,
+      "title": "cannot download excel file",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-12T05:49:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 732,
+      "title": "Esta bilioteca FileSaver não esta sendo importada para criar extensão no DevOps ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-31T11:44:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 731,
+      "title": "Safari fails with 'top frame not allowed to naigate to data URL",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-20T08:12:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 730,
+      "title": "Deprecation warnings on installation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-11T10:12:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 729,
+      "title": "Can't save multiple files in Safari ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-05T08:28:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 728,
+      "title": "Audit vulnerabilities detected in the filesaver project on Tag: 2.0.4",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-30T13:27:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 727,
+      "title": "Does not seem to work in palemoon",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-28T09:58:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 726,
+      "title": "saveAs fails on Firefox without any error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-09-13T16:34:06Z",
+      "closed_at": "2022-04-13T18:13:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 725,
+      "title": "File not downloading using blob url for iOS edge browser",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-08T04:59:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 724,
+      "title": "Create BIGLEAF",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-08-28T11:28:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "eligrey",
+      "contributions": 171
+    },
+    {
+      "login": "jimmywarting",
+      "contributions": 49
+    },
+    {
+      "login": "ogonkov",
+      "contributions": 13
+    },
+    {
+      "login": "rajivshah3",
+      "contributions": 9
+    },
+    {
+      "login": "Uzlopak",
+      "contributions": 4
+    },
+    {
+      "login": "mudcube",
+      "contributions": 4
+    },
+    {
+      "login": "XhmikosR",
+      "contributions": 4
+    },
+    {
+      "login": "blakeembrey",
+      "contributions": 3
+    },
+    {
+      "login": "minj",
+      "contributions": 3
+    },
+    {
+      "login": "Jimbly",
+      "contributions": 2
+    },
+    {
+      "login": "jordanaustin",
+      "contributions": 2
+    },
+    {
+      "login": "chilijung",
+      "contributions": 2
+    },
+    {
+      "login": "dependabot[bot]",
+      "contributions": 2
+    },
+    {
+      "login": "evilaliv3",
+      "contributions": 2
+    },
+    {
+      "login": "floriangouy",
+      "contributions": 2
+    },
+    {
+      "login": "719media",
+      "contributions": 1
+    },
+    {
+      "login": "asvetly",
+      "contributions": 1
+    },
+    {
+      "login": "Amitesh",
+      "contributions": 1
+    },
+    {
+      "login": "benbennza1",
+      "contributions": 1
+    },
+    {
+      "login": "bdwain",
+      "contributions": 1
+    },
+    {
+      "login": "chrahunt",
+      "contributions": 1
+    },
+    {
+      "login": "ph4r05",
+      "contributions": 1
+    },
+    {
+      "login": "Hypercubed",
+      "contributions": 1
+    },
+    {
+      "login": "jjuutila",
+      "contributions": 1
+    },
+    {
+      "login": "jeffbdye",
+      "contributions": 1
+    },
+    {
+      "login": "konekoya",
+      "contributions": 1
+    },
+    {
+      "login": "josh-dykstra",
+      "contributions": 1
+    },
+    {
+      "login": "kiwi-koder",
+      "contributions": 1
+    },
+    {
+      "login": "Keyamoon",
+      "contributions": 1
+    },
+    {
+      "login": "mondalaci",
+      "contributions": 1
+    },
+    {
+      "login": "marvinscharle",
+      "contributions": 1
+    },
+    {
+      "login": "panzi",
+      "contributions": 1
+    },
+    {
+      "login": "micahjon",
+      "contributions": 1
+    },
+    {
+      "login": "binki",
+      "contributions": 1
+    },
+    {
+      "login": "NeeEoo",
+      "contributions": 1
+    },
+    {
+      "login": "owenblacker",
+      "contributions": 1
+    },
+    {
+      "login": "PLoecker",
+      "contributions": 1
+    },
+    {
+      "login": "Rillke",
+      "contributions": 1
+    },
+    {
+      "login": "sjurba",
+      "contributions": 1
+    },
+    {
+      "login": "s-gerber",
+      "contributions": 1
+    },
+    {
+      "login": "thijstriemstra",
+      "contributions": 1
+    },
+    {
+      "login": "tmcw",
+      "contributions": 1
+    },
+    {
+      "login": "treygriffith",
+      "contributions": 1
+    },
+    {
+      "login": "tripulse",
+      "contributions": 1
+    },
+    {
+      "login": "nashby",
+      "contributions": 1
+    },
+    {
+      "login": "ZuBB",
+      "contributions": 1
+    },
+    {
+      "login": "eugene-ku",
+      "contributions": 1
+    },
+    {
+      "login": "asaarnak",
+      "contributions": 1
+    },
+    {
+      "login": "josephrocca",
+      "contributions": 1
+    },
+    {
+      "login": "kingcody",
+      "contributions": 1
+    },
+    {
+      "login": "lopezvit",
+      "contributions": 1
+    },
+    {
+      "login": "segovia",
+      "contributions": 1
+    },
+    {
+      "login": "0xModene",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v2.0.4",
+      "published_at": "2020-08-06T22:13:47Z"
+    },
+    {
+      "tag": "v2.0.2",
+      "published_at": "2019-05-14T08:01:28Z"
+    },
+    {
+      "tag": "2.0.0",
+      "published_at": "2018-11-14T11:35:32Z"
+    },
+    {
+      "tag": "1.3.8",
+      "published_at": "2018-03-22T21:09:57Z"
+    },
+    {
+      "tag": "1.3.7",
+      "published_at": "2018-03-20T21:31:43Z"
+    },
+    {
+      "tag": "1.3.6",
+      "published_at": "2018-03-17T01:08:07Z"
+    },
+    {
+      "tag": "1.3.4",
+      "published_at": "2018-01-12T13:06:15Z"
+    },
+    {
+      "tag": "1.3.3",
+      "published_at": "2016-10-05T10:54:21Z"
+    },
+    {
+      "tag": "1.3.2",
+      "published_at": "2016-06-16T18:28:44Z"
+    },
+    {
+      "tag": "1.3.1",
+      "published_at": "2016-06-06T21:10:32Z"
+    },
+    {
+      "tag": "1.3.0",
+      "published_at": "2016-05-31T07:43:31Z"
+    },
+    {
+      "tag": "1.2.2",
+      "published_at": "2016-05-27T02:05:26Z"
+    },
+    {
+      "tag": "1.2.1",
+      "published_at": "2016-05-26T23:02:10Z"
+    },
+    {
+      "tag": "1.2.0",
+      "published_at": "2016-05-25T20:22:32Z"
+    }
+  ],
+  "collected_at": "2026-06-28T11:58:47.208626Z"
+}

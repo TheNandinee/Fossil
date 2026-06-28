@@ -1,0 +1,1344 @@
+{
+  "full_name": "anthropics/courses",
+  "owner": "anthropics",
+  "name": "courses",
+  "url": "https://github.com/anthropics/courses",
+  "description": "Anthropic's educational courses",
+  "primary_language": "Jupyter Notebook",
+  "topics": [],
+  "license_spdx": "NOASSERTION",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 22017,
+  "forks": 2337,
+  "open_issues": 90,
+  "created_at": "2024-05-30T15:40:29Z",
+  "pushed_at": "2025-11-13T20:40:51Z",
+  "updated_at": "2026-06-28T09:53:45Z",
+  "commits": [
+    {
+      "sha": "f4dbb137d7b02dddaf3cc73e32e20a702d3b5e77",
+      "author_login": "StephenGrider",
+      "authored_at": "2025-11-13T20:40:50Z",
+      "message": "Merge pull request #45 from emmanuel-ferdman/master"
+    },
+    {
+      "sha": "8523fca1beeae9c1db390393f1a48e8767e967ec",
+      "author_login": "StephenGrider",
+      "authored_at": "2025-10-09T18:04:20Z",
+      "message": "Merge pull request #97 from jennarbates/patch-1"
+    },
+    {
+      "sha": "458eeda6048bd184a40d57ff66279c406f213635",
+      "author_login": "StephenGrider",
+      "authored_at": "2025-10-09T18:02:53Z",
+      "message": "Merge pull request #101 from padickinson/patch-1"
+    },
+    {
+      "sha": "6541de94cb325fcb0d97b839cc187f760c3bc03d",
+      "author_login": "padickinson",
+      "authored_at": "2025-09-27T19:27:02Z",
+      "message": "Update 02_messages_format.ipynb"
+    },
+    {
+      "sha": "f8c420f78029ea17b315ca62d9e04b4123def426",
+      "author_login": "jennarbates",
+      "authored_at": "2025-07-20T00:41:41Z",
+      "message": "Update 01_prompting_recap.ipynb -fixed broken link"
+    },
+    {
+      "sha": "f65a90f8200e388f7b186de4f1fdcd1adf3a1bc0",
+      "author_login": "emmanuel-ferdman",
+      "authored_at": "2024-09-19T09:16:37Z",
+      "message": "update structured outputs notebook reference"
+    },
+    {
+      "sha": "b4f26aedef55e06ad5eead5de83985249d1fab2f",
+      "author_login": "alexalbertt",
+      "authored_at": "2024-09-18T19:33:21Z",
+      "message": "Merge pull request #36 from rainlee/tommy"
+    },
+    {
+      "sha": "c77af04312c652f4221d1b96fa8fdf52aefbc8e9",
+      "author_login": "rainlee",
+      "authored_at": "2024-09-10T09:42:31Z",
+      "message": "FIX: fix typo"
+    },
+    {
+      "sha": "37826bf9d854a2b05c25f48867cb8a648c859ee6",
+      "author_login": "rainlee",
+      "authored_at": "2024-09-10T06:17:21Z",
+      "message": "FIX: miss f-string"
+    },
+    {
+      "sha": "77b69879069ae353cd9b1dcd5b483010db79ea35",
+      "author_login": "rainlee",
+      "authored_at": "2024-09-10T02:29:08Z",
+      "message": "FIX: fix typo"
+    },
+    {
+      "sha": "42691177ebd290da149e1b973a6051426cfd9435",
+      "author_login": "rainlee",
+      "authored_at": "2024-09-09T07:17:55Z",
+      "message": "FIX: fix typo"
+    },
+    {
+      "sha": "1fd6c2280a714bb448d3d53e08dafa6f1f8deb25",
+      "author_login": "alexalbertt",
+      "authored_at": "2024-09-17T21:53:52Z",
+      "message": "Merge pull request #21 from ethancane/patch-1"
+    },
+    {
+      "sha": "9f7acfa62752c9928738beaf071c836b8cda24f8",
+      "author_login": "alexalbertt",
+      "authored_at": "2024-09-17T21:52:13Z",
+      "message": "Merge pull request #20 from melvincarvalho/patch-1"
+    },
+    {
+      "sha": "4ae820ef99b6f016fdf6400e77c0238cec270b9d",
+      "author_login": "alexalbertt",
+      "authored_at": "2024-09-17T21:50:59Z",
+      "message": "Merge pull request #31 from simonw/pip-install"
+    },
+    {
+      "sha": "bbc3b909f51340b998dad9b95ec075b7cda2732f",
+      "author_login": "alexalbertt",
+      "authored_at": "2024-09-17T21:50:02Z",
+      "message": "Merge pull request #35 from codeblech/patch-1"
+    },
+    {
+      "sha": "12cf6ac74a0e30f4b62b2e451b174622ff9c8368",
+      "author_login": "alexalbertt",
+      "authored_at": "2024-09-16T04:50:23Z",
+      "message": "Merge pull request #37 from anthropics/add-evals-course"
+    },
+    {
+      "sha": "3f2e1c4e5afc445e3e03085004b10e0399893454",
+      "author_login": "Colt",
+      "authored_at": "2024-09-12T17:19:47Z",
+      "message": "update promptfoo intro"
+    },
+    {
+      "sha": "7d366266360b3c1b30e2887801f2dfaa21fe1aac",
+      "author_login": "codeblech",
+      "authored_at": "2024-09-05T13:11:44Z",
+      "message": "Update 05_Formatting_Output_and_Speaking_for_Claude.ipynb"
+    },
+    {
+      "sha": "a29245ca7ce03262bc1501966ec06f51f178f928",
+      "author_login": "Colt",
+      "authored_at": "2024-09-05T01:14:14Z",
+      "message": "update README links"
+    },
+    {
+      "sha": "352c84945307384acb03af8d82c39b19d2a56e8f",
+      "author_login": "Colt",
+      "authored_at": "2024-09-05T01:12:34Z",
+      "message": "update README"
+    },
+    {
+      "sha": "81e1c272f6112aac3f2394a23be93f87af184860",
+      "author_login": "Colt",
+      "authored_at": "2024-09-05T01:07:18Z",
+      "message": "update AWS link"
+    },
+    {
+      "sha": "be27d32354509597e434163cd7fbb9c7ddd176c1",
+      "author_login": "Colt",
+      "authored_at": "2024-09-05T01:06:06Z",
+      "message": "update AWS workshop link"
+    },
+    {
+      "sha": "004f9048d54d6769df0389ad272649d7fcd3e60a",
+      "author_login": "Colt",
+      "authored_at": "2024-09-05T00:47:59Z",
+      "message": "fix broken link"
+    },
+    {
+      "sha": "a24229134ab1bb8f225968d7450728101e1f9d6b",
+      "author_login": "Colt",
+      "authored_at": "2024-09-05T00:46:32Z",
+      "message": "add note to all promptfoo lectures"
+    },
+    {
+      "sha": "93c65084f7130d1d800c94e8e8595586afc0e027",
+      "author_login": "Colt",
+      "authored_at": "2024-09-05T00:42:54Z",
+      "message": "move lessons to folders and add AWS PEIT"
+    },
+    {
+      "sha": "8bd9dfe05716b9da039543588bf20c3a0d2739b8",
+      "author_login": "Colt",
+      "authored_at": "2024-09-04T23:08:34Z",
+      "message": "update readme with correct number of total courses"
+    },
+    {
+      "sha": "2ac4fe8fd7ed119eb9cc3a482bb68166056fa549",
+      "author_login": "Colt",
+      "authored_at": "2024-09-04T23:07:57Z",
+      "message": "add vertex link"
+    },
+    {
+      "sha": "c2dd47ec9b1b6ae24ad7ad3542f9cfbbdb4ef8f0",
+      "author_login": "Colt",
+      "authored_at": "2024-09-04T23:06:50Z",
+      "message": "rename folder to prompt_evaluations and update README"
+    },
+    {
+      "sha": "8174d9d5878e777975870afeac38e77202ddfd58",
+      "author_login": "Colt",
+      "authored_at": "2024-09-04T22:50:48Z",
+      "message": "add note about models to README"
+    },
+    {
+      "sha": "967e6b10aa77f78fa62ca3828bbe96823d3bfe22",
+      "author_login": "Colt",
+      "authored_at": "2024-09-04T22:49:48Z",
+      "message": "fix promptfoo casing"
+    },
+    {
+      "sha": "921b39f1b85e8c44cc07dcea7f085a2226be156f",
+      "author_login": "Colt",
+      "authored_at": "2024-09-04T22:49:04Z",
+      "message": "update READMEs"
+    },
+    {
+      "sha": "b81598db867685fe8532103a15f8cee62c8398d5",
+      "author_login": "Colt",
+      "authored_at": "2024-09-04T22:45:46Z",
+      "message": "add evaluations course and update models table"
+    },
+    {
+      "sha": "d6dac6ca7b9b2271b60f7f88586cb2aee375f17c",
+      "author_login": "simonw",
+      "authored_at": "2024-08-29T23:57:25Z",
+      "message": "Use %pip install not !pip install, refs #30"
+    },
+    {
+      "sha": "cf2979dc88626f15c760ce83bc9e9e21015fcac5",
+      "author_login": "Colt",
+      "authored_at": "2024-08-27T22:42:02Z",
+      "message": "Merge pull request #25 from anthropics/maggie/update-readme"
+    },
+    {
+      "sha": "0b59caed9277ce37748f3fa7bd13968c139b6a20",
+      "author_login": "maggie-vo",
+      "authored_at": "2024-08-27T22:40:13Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "70b321bbfc8a93412dffaf8b6d80a2f246cd4ef7",
+      "author_login": "Colt",
+      "authored_at": "2024-08-27T22:36:49Z",
+      "message": "Merge pull request #22 from anthropics/elie/add-vertex-link-in-readme"
+    },
+    {
+      "sha": "4677106fc78c3e4d090c9d2098817490bd00c1a7",
+      "author_login": "elie",
+      "authored_at": "2024-08-27T20:40:24Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "68b6bdf88f80bd96940c95d6a51b9ad9d4ebe0a3",
+      "author_login": "maggie-vo",
+      "authored_at": "2024-08-27T20:32:24Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "6cbacc6fde68015906712c9b23122ac690399584",
+      "author_login": "elie",
+      "authored_at": "2024-08-27T20:30:47Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3d395f6db277b0074ccea798b363efa8282a1d9d",
+      "author_login": "elie",
+      "authored_at": "2024-08-27T20:28:02Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "cc33a6f9abd12b8d7aa5d2a10463b8269bd29f56",
+      "author_login": "elie",
+      "authored_at": "2024-08-27T12:06:25Z",
+      "message": "Update README to include Vertex branch"
+    },
+    {
+      "sha": "cd9f9c50e0e9071193bbdd0222ff3a7f056d3751",
+      "author_login": "ethancane",
+      "authored_at": "2024-08-22T20:52:37Z",
+      "message": "Update 01_getting_started.ipynb"
+    },
+    {
+      "sha": "03e1364bc7dd315862e295b0183636f796e70722",
+      "author_login": "melvincarvalho",
+      "authored_at": "2024-08-22T18:27:24Z",
+      "message": "fix typo in uri www.console. -> console."
+    },
+    {
+      "sha": "52f25e6c269b28a531bb477fc90c233e5d914cce",
+      "author_login": "alexalbertt",
+      "authored_at": "2024-08-21T17:00:59Z",
+      "message": "Merge pull request #19 from anthropics/add-prompting-courses"
+    },
+    {
+      "sha": "ac41d1bff2aa0f4b7f845f650471cba57daf9fce",
+      "author_login": "Colt",
+      "authored_at": "2024-08-14T03:19:10Z",
+      "message": "fix remaining casing issues"
+    },
+    {
+      "sha": "d2a7a9130c1b54e2eea1e8dbc13ffaec6234b3a8",
+      "author_login": "Colt",
+      "authored_at": "2024-08-14T03:05:26Z",
+      "message": "add prompting courses and rename folders to snake_case"
+    },
+    {
+      "sha": "e27b9abd237e9935c83fbed36467c4f1d2e7d37a",
+      "author_login": "Colt",
+      "authored_at": "2024-07-24T19:05:48Z",
+      "message": "Merge pull request #17 from anthropics/Colt-patch-1"
+    },
+    {
+      "sha": "e2fac09b41db434831b48785746c92ad2b0bc04e",
+      "author_login": "Colt",
+      "authored_at": "2024-07-24T17:11:37Z",
+      "message": "Fix link in README"
+    },
+    {
+      "sha": "6644e64d9d98b5e323961cc2f8b8ef464640d4f9",
+      "author_login": "Colt",
+      "authored_at": "2024-07-24T17:08:41Z",
+      "message": "Merge pull request #16 from anthropics/add-onramp"
+    },
+    {
+      "sha": "fe70cfb33feab8d80984004fec8a12b86c38f47a",
+      "author_login": "Colt",
+      "authored_at": "2024-07-23T17:54:00Z",
+      "message": "add license"
+    },
+    {
+      "sha": "62cfe77da423b416ae03091dc7d2fea1c6ac27fd",
+      "author_login": "Colt",
+      "authored_at": "2024-07-22T21:33:01Z",
+      "message": "rename course folder"
+    },
+    {
+      "sha": "263bd00e4350125d4144230dfe6afb5cf6fdce65",
+      "author_login": "Colt",
+      "authored_at": "2024-07-22T21:00:15Z",
+      "message": "add sdk onramp course to courses"
+    },
+    {
+      "sha": "7341c71e731f4d74b5b32ed60fc47b2141974188",
+      "author_login": "alexalbertt",
+      "authored_at": "2024-06-12T23:52:05Z",
+      "message": "Merge pull request #6 from polkerty/patch-1"
+    },
+    {
+      "sha": "72e487bbda3c229339f02d64b69cee57b820f5c1",
+      "author_login": "alexalbertt",
+      "authored_at": "2024-06-12T23:51:45Z",
+      "message": "Merge pull request #7 from abeusher/bugfix/readme-typo-fix"
+    },
+    {
+      "sha": "83b1df1c6ff28101565c8a1763a6a506734f4987",
+      "author_login": "abeusher",
+      "authored_at": "2024-06-07T02:01:59Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e1fb271c6b8a5cee35d86f92a3aa4c60122fdd61",
+      "author_login": "polkerty",
+      "authored_at": "2024-06-04T21:18:57Z",
+      "message": "Fix type in README"
+    },
+    {
+      "sha": "e63c1d4b69ef9ee556b360374cef7ed5b3997561",
+      "author_login": "l1n",
+      "authored_at": "2024-05-31T00:07:39Z",
+      "message": "Merge pull request #2 from anthropics/add-new-readme"
+    },
+    {
+      "sha": "7bcfe763bcbe547bd514384694042777d4282f3c",
+      "author_login": "Colt",
+      "authored_at": "2024-05-30T16:07:13Z",
+      "message": "signing"
+    },
+    {
+      "sha": "cd71d69f2dc23ea025829886aabe55f8296d7f07",
+      "author_login": "Colt",
+      "authored_at": "2024-05-30T16:03:27Z",
+      "message": "add initial tool use curriculum"
+    }
+  ],
+  "issues": [
+    {
+      "number": 168,
+      "title": "fix: update claude-3-haiku-20240307 to claude-haiku-4-5 in 04_parameters.ipynb",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-21T09:11:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 167,
+      "title": "Claude in Sheets",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-17T04:47:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 166,
+      "title": "Integration idea: BGPT structured evidence API",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-14T05:16:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 165,
+      "title": "[Lesson broken] \"Structured Data\" lesson: chat helper missing stop_sequences param, prefill unsupported on default model, missing prerequisite explanation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-05T09:36:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 164,
+      "title": "Add a structured outputs lesson to anthropic_api_fundamentals (#161)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-28T08:11:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 163,
+      "title": "Курсы клауд ! интересно прочесть",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-19T08:28:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 162,
+      "title": "docs: hyphenate real-world in README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-19T02:42:41Z",
+      "closed_at": "2026-06-17T05:34:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 161,
+      "title": "[Content outdated] \"Structured Data\" lesson teaches prefill + stop sequences, superseded by structured outputs",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-17T03:19:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 160,
+      "title": "🎯 AI Agents: Claim tasks and execute them here",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-05-16T10:03:43Z",
+      "closed_at": "2026-06-07T16:52:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 159,
+      "title": "proyecta estudio",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-15T01:20:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 158,
+      "title": "Add Lesson 10: Evaluating Subjective Behavior with Model-Graded Evals",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-13T19:02:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 157,
+      "title": "docs: add RLHF reward hacking evaluation lesson",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-11T01:12:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 156,
+      "title": "Add explanation faithfulness notebook (#155)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-28T08:45:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 155,
+      "title": "Proposal: New notebook — Evaluating LLM Explanation Faithfulness",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-27T18:39:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 154,
+      "title": "docs(courses): add missing environment variable name (#138)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-17T21:41:43Z",
+      "closed_at": "2026-06-11T15:24:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 153,
+      "title": "Fix typo: \"obection\" → \"objection\" in 05_customer_support_ai.ipynb",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-15T02:13:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 152,
+      "title": "Update deprecated Claude model IDs to current versions",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-09T19:39:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 151,
+      "title": "Update deprecated Claude model IDs to current versions",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-09T19:28:36Z",
+      "closed_at": "2026-04-09T19:37:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 150,
+      "title": "Add AgentWeb — free business data MCP server (11M+ businesses)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-09T15:36:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 149,
+      "title": "fix: use raw strings for regex patterns in Lesson 6.1 grading",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-04T07:55:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 146,
+      "title": "[SUPPORT] Financial damage report - Claude Code agent ~$45 USD",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-02T01:23:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 145,
+      "title": "Claude Code in Action: MCP Playwright setup instructions missing critical steps",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-28T23:58:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 144,
+      "title": "test",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-28T04:12:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 143,
+      "title": "Fix typo: \"Mdel-graded\" -> \"Model-graded\" in lesson.ipynb",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-25T07:49:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 142,
+      "title": "Fix typo and update outdated model reference",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-24T15:58:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 141,
+      "title": "Anthropic",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-18T11:27:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 140,
+      "title": "Fix Wikimedia image fetching by adding User-Agent header",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-14T20:10:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 139,
+      "title": "[BUG] Voice Mode - French STT completely fails (empty/garbled transcription)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-07T22:28:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 138,
+      "title": "Claude Code in Action: Missing env variable name in API key setup instructions",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-07T02:05:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 137,
+      "title": "Fix regex escape sequences in lesson 6.1 grading",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-06T17:52:47Z",
+      "closed_at": "2026-03-21T16:10:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 133,
+      "title": "fix: use raw strings for regex patterns in lesson 6.1 grading",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-02T10:53:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 132,
+      "title": "Fix typo: 'substutions' → 'substitutions' across tutorial notebooks",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-26T16:11:19Z",
+      "closed_at": "2026-02-27T22:43:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 131,
+      "title": "Fix typo: recieve -> receive in streaming tutorial",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-25T16:09:17Z",
+      "closed_at": "2026-02-27T22:43:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 130,
+      "title": "Fix regex syntax error in exercise 6.1 by using raw strings",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-25T08:10:33Z",
+      "closed_at": "2026-02-27T22:43:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 129,
+      "title": "Fix typo: \"Mdel-graded\" -> \"Model-graded\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-23T16:12:33Z",
+      "closed_at": "2026-02-25T00:49:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 128,
+      "title": "Fix regex strings in exercise 6.1 to use raw string literals",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-23T08:12:25Z",
+      "closed_at": "2026-02-25T00:49:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 127,
+      "title": "prompt",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-23T06:33:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 126,
+      "title": "Fix regex syntax error in lesson 6.1 grading: use raw strings",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-23T00:10:24Z",
+      "closed_at": "2026-02-27T22:43:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 125,
+      "title": "Fix regex strings in Lesson 6.1 to use raw string literals",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-22T08:11:19Z",
+      "closed_at": "2026-02-23T05:47:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 124,
+      "title": "Fix regex syntax error in Lesson 06 grading code",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-21T08:11:27Z",
+      "closed_at": "2026-02-23T05:47:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 123,
+      "title": "fix: correct 'reponse' typo to 'response' in tool_use chatbot notebook",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-20T00:12:18Z",
+      "closed_at": "2026-02-25T00:49:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 122,
+      "title": "Fix regex syntax error in lesson 6.1 grading code",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-19T16:11:12Z",
+      "closed_at": "2026-02-23T05:47:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 121,
+      "title": "fix: correct 'recieve' typo to 'receive' in streaming tutorial",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-19T08:12:34Z",
+      "closed_at": "2026-02-23T05:47:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 120,
+      "title": "Fix typo: recieve -> receive in Streaming notebook",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-18T16:11:35Z",
+      "closed_at": "2026-02-23T05:47:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 119,
+      "title": "Fix regex strings in exercise 6.1 to use raw strings",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-18T08:13:37Z",
+      "closed_at": "2026-02-23T05:47:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 118,
+      "title": "fix: correct 'recieve' typo to 'receive' in streaming notebook",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-18T00:08:23Z",
+      "closed_at": "2026-02-23T05:47:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 117,
+      "title": "fix: correct regex syntax and typo in course materials",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-13T15:44:37Z",
+      "closed_at": "2026-02-23T05:47:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 116,
+      "title": "FIX: 02_messages_format : fix solution render at the bottom",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-11T16:30:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 115,
+      "title": "fix: correct typo 'Mdel-graded' → 'Model-graded' (#52)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-15T08:07:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 114,
+      "title": "feat: add dynamic model selection utility (#71)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-01-15T07:57:03Z",
+      "closed_at": "2026-01-18T18:04:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 113,
+      "title": "fix: correct typo 'Mdel-graded' → 'Model-graded'",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-01-15T07:47:08Z",
+      "closed_at": "2026-01-15T08:05:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 112,
+      "title": "fix: update deprecated models in 03_models.ipynb",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-15T04:53:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 111,
+      "title": "docs: add code snippets for workbench test cases",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-15T03:42:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 110,
+      "title": "fix: correct Lesson 6.1 grading regex syntax error",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-15T03:41:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 109,
+      "title": "fix: correct async/await usage in streaming notebook",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-01-15T03:23:18Z",
+      "closed_at": "2026-01-15T03:37:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 108,
+      "title": "Fix async await error in streaming notebook",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-08T21:09:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 107,
+      "title": "Fix regex syntax error by using raw strings in lesson 6.1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-06T21:16:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 106,
+      "title": "هنا",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-21T22:57:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 105,
+      "title": "Anthropic MCP Course adapted to be used With OpenAI API",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-20T19:42:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 104,
+      "title": "Update to latest Claude models",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-15T19:23:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 103,
+      "title": "Lesson 6.1 grading syntax error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-13T17:51:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 102,
+      "title": "Create API-KEY",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-10-06T03:54:10Z",
+      "closed_at": "2025-10-09T18:01:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 101,
+      "title": "Update 02_messages_format.ipynb",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-09-27T19:27:11Z",
+      "closed_at": "2025-10-09T18:02:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 100,
+      "title": "This is just horribe",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-08-29T07:25:53Z",
+      "closed_at": "2025-10-09T18:03:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 99,
+      "title": "03_models.ipynb",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-19T10:09:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 98,
+      "title": "Update 02_messages_format.ipynb",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-08-18T01:46:13Z",
+      "closed_at": "2025-10-09T18:03:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 97,
+      "title": "Update 01_prompting_recap.ipynb - fixed broken link",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-20T00:44:03Z",
+      "closed_at": "2025-10-09T18:04:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 96,
+      "title": "Code snippets needed for 02_workbench_evals",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-08T23:02:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 95,
+      "title": "These existing 5 courses are well combined in this ~1.5 hour-long course: \"Building toward Computer Use with Anthropic\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-06T16:17:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 94,
+      "title": "Hello",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-07-06T06:48:11Z",
+      "closed_at": "2025-10-09T18:08:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 93,
+      "title": "Update 02_messages_format.ipynb",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-03T15:47:59Z",
+      "closed_at": "2025-10-09T18:04:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 92,
+      "title": "FIX : Updated code for the current Python SDK version",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-06-28T03:51:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 91,
+      "title": "started with interactive tutorial but it failing on very first example : Client.__init__() got an unexpected keyword argument 'proxies'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-18T12:54:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 90,
+      "title": "Lets o",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-05-15T08:15:51Z",
+      "closed_at": "2025-10-09T18:05:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 89,
+      "title": "Persistent Session Memory for Claude Without Prompt Injection ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-24T14:03:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 88,
+      "title": "Update 02_messages_format.ipynb",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-04-14T19:09:51Z",
+      "closed_at": "2025-10-09T18:05:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 87,
+      "title": "Update 03_models.ipynb",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-04-14T19:08:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 86,
+      "title": "C1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-12T19:07:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "Fix typo in 02_messages_format.ipynb",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-04-12T17:10:48Z",
+      "closed_at": "2025-10-09T18:05:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "Update 03_models.ipynb",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-04-10T01:44:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "中文社区交流群",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-04-05T05:14:20Z",
+      "closed_at": "2025-10-09T18:08:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 82,
+      "title": "Update 10.1_Appendix_Chaining Prompts.ipynb",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-03-31T17:32:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 81,
+      "title": "Typo: Remove Unnecessary `f` Format String Literal",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-03-28T20:19:37Z",
+      "closed_at": "2026-02-01T19:19:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "Typo: Fix `with` Typo in API Fundamentals",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-03-26T20:35:15Z",
+      "closed_at": "2026-02-01T19:19:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "Docs: Update `02_messages_format.ipynb` for clarity and accuracy",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-03-25T15:12:57Z",
+      "closed_at": "2025-03-25T19:03:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "Docs: Update 02_messages_format.ipynb",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-03-25T15:09:58Z",
+      "closed_at": "2025-03-25T19:01:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "Removed duplicate output responses",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-03-11T21:44:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "Update 03_code_graded.ipynb",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-02-26T09:12:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "In [79] in anthropic_api_fundamentals/05_Streaming.ipynb error. Await must be inside async function.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-26T04:22:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "Update 03_prompt_engineering.ipynb",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-02-25T17:34:28Z",
+      "closed_at": "2025-02-26T13:16:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "implement dynamic model name selection in course notebooks",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-17T17:32:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "API Fundamentals: 03_models.ipynb - calculating \"time per token\"",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-02-01T20:50:28Z",
+      "closed_at": "2025-02-01T21:54:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "Update 01_tool_use_overview.ipynb",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-01-26T19:23:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "Main",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-12-31T06:33:21Z",
+      "closed_at": "2024-12-31T06:33:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "Update Anthropic API Fundamentals notebooks",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-12-24T21:50:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "Fix typo in line 16: correct 'wit' to 'with",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-11-04T23:18:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "Impossible to scroll horizontally on mobile",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-01T15:04:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": "type edit",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-10-31T17:19:56Z",
+      "closed_at": "2025-05-15T09:15:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "typo edit",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-10-31T17:10:26Z",
+      "closed_at": "2024-10-31T17:12:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "Test super linter",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-10-28T17:58:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "Colt",
+      "contributions": 27
+    },
+    {
+      "login": "alexalbertt",
+      "contributions": 9
+    },
+    {
+      "login": "elie",
+      "contributions": 4
+    },
+    {
+      "login": "rainlee",
+      "contributions": 4
+    },
+    {
+      "login": "StephenGrider",
+      "contributions": 3
+    },
+    {
+      "login": "maggie-vo",
+      "contributions": 2
+    },
+    {
+      "login": "abeusher",
+      "contributions": 1
+    },
+    {
+      "login": "emmanuel-ferdman",
+      "contributions": 1
+    },
+    {
+      "login": "ethancane",
+      "contributions": 1
+    },
+    {
+      "login": "polkerty",
+      "contributions": 1
+    },
+    {
+      "login": "jennarbates",
+      "contributions": 1
+    },
+    {
+      "login": "melvincarvalho",
+      "contributions": 1
+    },
+    {
+      "login": "l1n",
+      "contributions": 1
+    },
+    {
+      "login": "padickinson",
+      "contributions": 1
+    },
+    {
+      "login": "simonw",
+      "contributions": 1
+    },
+    {
+      "login": "codeblech",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T11:58:45.191955Z"
+}
