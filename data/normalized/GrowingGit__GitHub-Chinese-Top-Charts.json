@@ -1,0 +1,1530 @@
+{
+  "full_name": "GrowingGit/GitHub-Chinese-Top-Charts",
+  "owner": "GrowingGit",
+  "name": "GitHub-Chinese-Top-Charts",
+  "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+  "description": ":cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+  "primary_language": "Java",
+  "topics": [],
+  "license_spdx": "NOASSERTION",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 108606,
+  "forks": 13541,
+  "open_issues": 193,
+  "created_at": "2019-09-05T03:01:56Z",
+  "pushed_at": "2024-10-12T06:51:36Z",
+  "updated_at": "2026-06-28T07:46:24Z",
+  "commits": [
+    {
+      "sha": "0403f534a33853d75a053fbe085a4d144bb56bf3",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-10-12T06:53:24Z",
+      "message": "data update"
+    },
+    {
+      "sha": "ec7023a9b0c205ace6b1257232dbca2bba58b1a2",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-10-11T06:56:57Z",
+      "message": "data update"
+    },
+    {
+      "sha": "fd2f04cb9286417b417bcb46c911d68b7a8cb7f3",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-10-10T06:10:40Z",
+      "message": "data update"
+    },
+    {
+      "sha": "f840272e527e13bc5cfb80cd6678acef0ff09f4b",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-10-09T04:19:25Z",
+      "message": "data update"
+    },
+    {
+      "sha": "ce4901771f400a611039eac39f15d31880d53b36",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-10-08T09:20:18Z",
+      "message": "data update"
+    },
+    {
+      "sha": "bf011f928231ccdfa89b927b42ed4d0127dbe031",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-10-07T06:18:26Z",
+      "message": "data update"
+    },
+    {
+      "sha": "8152550b35e5e123475d5cbe713771a1d5bf7c93",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-10-06T08:16:52Z",
+      "message": "data update"
+    },
+    {
+      "sha": "331e967064299fa55b19d67a2efced977e58715c",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-10-05T05:36:51Z",
+      "message": "data update"
+    },
+    {
+      "sha": "97990cd35c73ae00a28221349efff672d597f9d6",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-10-04T04:17:57Z",
+      "message": "data update"
+    },
+    {
+      "sha": "a75f049e06503aacac1ffe21a40fb0cc4fab4c27",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-10-03T07:03:38Z",
+      "message": "data update"
+    },
+    {
+      "sha": "7502dc2870d173afbc43c92a194b253e85319ba5",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-10-02T03:35:14Z",
+      "message": "data update"
+    },
+    {
+      "sha": "440b78ea9d4cb8fb23863a9a3667db8cca4456ef",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-10-01T07:48:20Z",
+      "message": "data update"
+    },
+    {
+      "sha": "9e502051169322d568a022ce2bc92981bb295f34",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-29T12:28:25Z",
+      "message": "data update"
+    },
+    {
+      "sha": "3204899e341d1a0996897ae3b27f7a47f388de44",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-28T06:17:50Z",
+      "message": "data update"
+    },
+    {
+      "sha": "4be36445109769e1c59000c4e44694a4ac68c182",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-27T08:04:17Z",
+      "message": "data update"
+    },
+    {
+      "sha": "1dc06a0a836424547107a98a204498f04ed58293",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-26T08:26:23Z",
+      "message": "data update"
+    },
+    {
+      "sha": "43194449453a5131a40f506114fa1bc4b3570e2f",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-25T04:31:29Z",
+      "message": "data update"
+    },
+    {
+      "sha": "e8e547f11c5f19b3c57fc9d89003936f8125429d",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-24T03:56:52Z",
+      "message": "data update"
+    },
+    {
+      "sha": "7424e7e31debec1eb04122924d27bf09303686fc",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-23T09:39:58Z",
+      "message": "data update"
+    },
+    {
+      "sha": "f30f6f245f34f2657418bea26d5d5e820c690fa0",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-22T06:12:03Z",
+      "message": "data update"
+    },
+    {
+      "sha": "c72fb741690eee4ab2590bd9376246e60424c870",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-21T05:26:06Z",
+      "message": "data update"
+    },
+    {
+      "sha": "383e217d6acefde9c00b4e1a4ae5b02b9b72c70b",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-20T09:04:13Z",
+      "message": "data update"
+    },
+    {
+      "sha": "325d48415a6edba02385c36b92758f2e0d82f20b",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-19T07:11:47Z",
+      "message": "data update"
+    },
+    {
+      "sha": "98b876e55a46ed440c2794d080ed434d74a9461c",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-18T06:15:51Z",
+      "message": "data update"
+    },
+    {
+      "sha": "e8c8d5721a22de194038a0149dca1dfef656b313",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-17T06:17:30Z",
+      "message": "data update"
+    },
+    {
+      "sha": "a400a918caab70f6cf3219b5f1d47c3847412326",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-16T04:17:30Z",
+      "message": "data update"
+    },
+    {
+      "sha": "614f7d37a60b8fdf9d6ba2f0ea33e52047abf1c0",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-15T06:23:26Z",
+      "message": "data update"
+    },
+    {
+      "sha": "7a6187302dd86ff16d0df5892f89c372781d1ecb",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-14T04:17:35Z",
+      "message": "data update"
+    },
+    {
+      "sha": "419b5dd3dbc0102021a7800489ca237cba8f4f7f",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-13T05:56:37Z",
+      "message": "data update"
+    },
+    {
+      "sha": "f0729422ad84b0b45b315a1539a6e0a15376db85",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-12T09:00:26Z",
+      "message": "data update"
+    },
+    {
+      "sha": "e8fe7fb7306f483b2e895f968917daea6cb78de1",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-10T06:02:37Z",
+      "message": "data update"
+    },
+    {
+      "sha": "78a70684172280622c824a6da38cbec52e1db5b8",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-09T06:44:34Z",
+      "message": "data update"
+    },
+    {
+      "sha": "8c6e9ee41ca92360b348d3758c97b74993742e63",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-08T02:27:05Z",
+      "message": "data update"
+    },
+    {
+      "sha": "20c2843d39fdfaca7f89f660cd452cc3428d352f",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-07T07:46:13Z",
+      "message": "data update"
+    },
+    {
+      "sha": "c20021459aebfbae5ff2eaf16238e9119b319bbc",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-06T02:36:15Z",
+      "message": "data update"
+    },
+    {
+      "sha": "517c2f21b36d1d7ceced8932d327254bc188d655",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-05T07:25:35Z",
+      "message": "data update"
+    },
+    {
+      "sha": "42f89cf0ba38ff1ec351939cfd74f8e4315fbc8b",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-04T02:37:06Z",
+      "message": "data update"
+    },
+    {
+      "sha": "17a188fcb8f2616b03b6a9ceca7b1b53759e0e49",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-03T07:40:54Z",
+      "message": "data update"
+    },
+    {
+      "sha": "2b631bbfe51cda4b44cf361403e1ff86796f0c54",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-02T05:41:37Z",
+      "message": "data update"
+    },
+    {
+      "sha": "c2a0ca5247b9f97ecb80a0de9a55d0cbb990622c",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-09-01T12:55:45Z",
+      "message": "data update"
+    },
+    {
+      "sha": "61d0fe6ab6b817d0ed98fb2dbeb4df9237d8a56d",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-31T06:36:00Z",
+      "message": "data update"
+    },
+    {
+      "sha": "1c8fc31a79793198060a4906edffd8ac876b6f27",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-30T08:45:24Z",
+      "message": "data update"
+    },
+    {
+      "sha": "2642492e8acf469263c95cdc036f78215e503109",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-29T07:36:09Z",
+      "message": "data update"
+    },
+    {
+      "sha": "560ebda5e0a9132d549f046673d534a71f042df7",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-28T07:42:41Z",
+      "message": "data update"
+    },
+    {
+      "sha": "539c9d0448191fc54e3fcb54106815e672ade7bc",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-27T05:12:48Z",
+      "message": "data update"
+    },
+    {
+      "sha": "dc6bb4af75eba96c5dd56e1134f5e99256f0e0db",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-26T05:42:56Z",
+      "message": "data update"
+    },
+    {
+      "sha": "8b8b095f3969cd42cdb7041f49237f5d6add0fff",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-25T05:53:58Z",
+      "message": "data update"
+    },
+    {
+      "sha": "4eea36dc63174f2eac58c45d1e8784588aedd316",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-24T05:20:15Z",
+      "message": "data update"
+    },
+    {
+      "sha": "a6147ff58fe535d9a9997eb4814f3d39e603e125",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-23T06:22:22Z",
+      "message": "data update"
+    },
+    {
+      "sha": "5582b832988cb75d1920e24868545d46d61a3657",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-22T03:48:59Z",
+      "message": "data update"
+    },
+    {
+      "sha": "f5bf407f51e2c77d039e2f9c7e7542d282f68373",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-21T07:17:00Z",
+      "message": "data update"
+    },
+    {
+      "sha": "563042706ba194e6c424bb021598f07a414ff6f0",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-20T04:49:53Z",
+      "message": "data update"
+    },
+    {
+      "sha": "edaf973e1601e692a34107146cc7b0f058e326df",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-19T05:31:35Z",
+      "message": "data update"
+    },
+    {
+      "sha": "95186ca8f723b8adfc107c0941ca1cc4fbe95f7f",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-18T06:22:32Z",
+      "message": "data update"
+    },
+    {
+      "sha": "3b2328538f970bf4e574f73fa6764f226ad6d564",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-17T04:39:48Z",
+      "message": "data update"
+    },
+    {
+      "sha": "a7232f4cc20c4c344cc03a1a4b47fa1a31b96f45",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-16T03:40:40Z",
+      "message": "data update"
+    },
+    {
+      "sha": "eb8772616a7d169964846092eb5ed2398513db6d",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-15T06:28:34Z",
+      "message": "data update"
+    },
+    {
+      "sha": "db7bdcc2e985074840fac9eb69eb4871399d1163",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-14T06:10:32Z",
+      "message": "data update"
+    },
+    {
+      "sha": "7d76297807bf694623440ca02b2c3a10f0f4789c",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-13T05:51:23Z",
+      "message": "data update"
+    },
+    {
+      "sha": "1a48c7601f1fd735db65689753638ce1a2b0bbf0",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-12T06:19:15Z",
+      "message": "data update"
+    },
+    {
+      "sha": "5875f8202a8395ff2f8d5a7a7239dbdfa92b563e",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-11T08:49:12Z",
+      "message": "data update"
+    },
+    {
+      "sha": "fc1fc6946c60b18579fe3f8a5d5bac19905af0e7",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-10T06:19:55Z",
+      "message": "data update"
+    },
+    {
+      "sha": "e18e61ce5bde19fb747379be95668b700c73699d",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-09T10:22:43Z",
+      "message": "data update"
+    },
+    {
+      "sha": "5629e1be977b1a912b609b1e75f9dcece916e0a3",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-08T06:25:44Z",
+      "message": "data update"
+    },
+    {
+      "sha": "6a77fe18489d3f82ad52e0fcbcac9e003d418ee6",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-07T03:34:38Z",
+      "message": "data update"
+    },
+    {
+      "sha": "a97cdad2587cd4dcd08e72e15f30cffcf42d4bf5",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-06T05:51:24Z",
+      "message": "data update"
+    },
+    {
+      "sha": "6f2ac34241092086325701d89e973dfb94cd8124",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-05T06:16:46Z",
+      "message": "data update"
+    },
+    {
+      "sha": "93efc6e4329ddbfac4b438dec4c671585d2f5965",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-04T06:41:35Z",
+      "message": "data update"
+    },
+    {
+      "sha": "bfb0bcf48fcf5e814bc79f59dba0cf84719160d0",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-03T03:05:59Z",
+      "message": "data update"
+    },
+    {
+      "sha": "c9f07069e98a650bf6cfbd5ab9673c55768cc6b1",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-02T05:17:35Z",
+      "message": "data update"
+    },
+    {
+      "sha": "f2e6df42e21d4336572bd0fa20c34c96a30949a1",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-08-01T06:59:51Z",
+      "message": "data update"
+    },
+    {
+      "sha": "c16ac810d87095191129fda22b141038f579a072",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-31T04:47:42Z",
+      "message": "data update"
+    },
+    {
+      "sha": "7afc0f0768d19f99f8dedb8acafcc6b4e1322950",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-30T07:20:39Z",
+      "message": "data update"
+    },
+    {
+      "sha": "88dc8b176c6ab29c119fa60c82ac890ae996f8c9",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-29T01:31:17Z",
+      "message": "data update"
+    },
+    {
+      "sha": "b848a3ae5c5b1ef68c229533bf8409a5a0adf40f",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-28T06:06:32Z",
+      "message": "data update"
+    },
+    {
+      "sha": "95e798a562e7b042bb0624ba657412ac3359a6e8",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-27T03:19:40Z",
+      "message": "data update"
+    },
+    {
+      "sha": "e8f167aff72fce687ee20f34d99b9e4a52d70b03",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-26T07:19:21Z",
+      "message": "data update"
+    },
+    {
+      "sha": "afb571750f6feffd0309bca3c71928bfa58efc9d",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-25T06:13:50Z",
+      "message": "data update"
+    },
+    {
+      "sha": "67bbb8404ec680adba95dfb191dbb1a0cbf86e43",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-24T06:22:30Z",
+      "message": "data update"
+    },
+    {
+      "sha": "d47464746eb664d1b1e982a67cedd278c8cd7c70",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-23T03:48:43Z",
+      "message": "data update"
+    },
+    {
+      "sha": "f53e372bdbc0347e4a6b2491ef95dfd2a33abf77",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-22T05:17:55Z",
+      "message": "data update"
+    },
+    {
+      "sha": "955efd6d9e5b4f2038690f89f04808efef0b5813",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-21T03:35:51Z",
+      "message": "data update"
+    },
+    {
+      "sha": "cea0e13e4ab77bff2d916713ccc04babe0e7fadb",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-20T06:45:13Z",
+      "message": "data update"
+    },
+    {
+      "sha": "4f09a270f0af3a7a78f139f8fc7d59c221046b71",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-19T05:25:10Z",
+      "message": "data update"
+    },
+    {
+      "sha": "a6a10df43e00f28881e4b592fecdbeef9eb8f8e0",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-18T08:59:03Z",
+      "message": "data update"
+    },
+    {
+      "sha": "6a6b79b0158012642823dfe94201b4ac7d4d890a",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-17T11:33:19Z",
+      "message": "data update"
+    },
+    {
+      "sha": "7af8c57fe0fdeedbf56a594702555c6dba4d504e",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-16T06:19:46Z",
+      "message": "data update"
+    },
+    {
+      "sha": "59e56144f07af71694780ca1321a12addef2439a",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-15T05:58:08Z",
+      "message": "data update"
+    },
+    {
+      "sha": "1e5f37373ff8e690eb83dd2ca41e97745aa6d087",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-14T06:29:40Z",
+      "message": "data update"
+    },
+    {
+      "sha": "0de909e5271bead250109f824949f5d04e1f9a94",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-13T04:52:01Z",
+      "message": "data update"
+    },
+    {
+      "sha": "827994c01a8cd98f117dd432193b2f533db00bcc",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-11T05:25:45Z",
+      "message": "data update"
+    },
+    {
+      "sha": "204d8e1000e77dacd938dc745892cca628ce8cb3",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-10T06:39:12Z",
+      "message": "data update"
+    },
+    {
+      "sha": "c59b4e161b3e38bc28417b92dd18e6b1942d1497",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-09T09:55:24Z",
+      "message": "data update"
+    },
+    {
+      "sha": "ccd169abfb2d9709d5fa5c1311fcfae841903215",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-08T05:36:46Z",
+      "message": "data update"
+    },
+    {
+      "sha": "cd8c8324e29c3899ad745acb8e4fd9c62a98ae42",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-07T06:06:43Z",
+      "message": "data update"
+    },
+    {
+      "sha": "2f6c1647b8a7f62a6a86a65aa88c6fbd8f1c351d",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-06T05:29:40Z",
+      "message": "data update"
+    },
+    {
+      "sha": "7adaf5cb022cb3899f80aa02774db291977a5e6b",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-05T06:04:25Z",
+      "message": "data update"
+    },
+    {
+      "sha": "40ece4d3a49ef72d75c5a604cb1e91d5e5b17ff2",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-04T05:51:43Z",
+      "message": "data update"
+    },
+    {
+      "sha": "aa567f9f878b73ad5ccd47374c085957c01610bf",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-03T05:17:09Z",
+      "message": "data update"
+    },
+    {
+      "sha": "ec49b7b61fe135e77e08d2b19d29379ea0b89e3c",
+      "author_login": "GrowingGit",
+      "authored_at": "2024-07-02T05:19:50Z",
+      "message": "data update"
+    }
+  ],
+  "issues": [
+    {
+      "number": 481,
+      "title": "【开源自荐】AI Hub - 全球AI工具聚合平台** 是一个开源且免费的AI工具导航站，致力于为用户一站式发现、筛选和比较全球范围内的优质AI工具。平台目前已收录1124+款AI工具。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-09T01:13:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 480,
+      "title": "【开源自荐】Open Agent SDK (Swift) - 开源 Swift Agent SDK，快速构建 AI 应用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-29T01:52:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 479,
+      "title": "【开源自荐】Axion - 用自然语言驱动 macOS 的 AI Agent",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-29T01:51:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 478,
+      "title": "Chet.QuartzNet.UI 可视化作业调度管理系统",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-15T08:19:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 476,
+      "title": "现在注册白羊加速，享全套餐 7 折",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-20T10:17:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 475,
+      "title": "ChatGPT 或 Claude 账号被封，别再用万人骑的劣质 IP 交学费了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-20T07:56:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 473,
+      "title": "挑战全栈框架的极限：仅 7kb 的 Lupine.js 发布了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-13T05:26:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 472,
+      "title": "my-desktop-bak",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-06T01:57:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 471,
+      "title": "【开源自荐】Xget：面向开发者资源的超高性能、安全、一体化加速引擎",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-06T05:43:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 470,
+      "title": "五星大厨:全面Multi-Agent 的客服机器人，基于langraph实现，txt2sql ,txt2cypher, lightrag, 多模态 等",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-17T09:23:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 469,
+      "title": "【开源自荐】中文古籍數字復刻計劃 Reproduction Project of Ancient Chinese Books",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-23T02:10:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 468,
+      "title": "插件用不了了",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-07-17T09:54:31Z",
+      "closed_at": "2025-07-17T09:55:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 467,
+      "title": "怎么不更新了呢",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-12T09:37:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 466,
+      "title": "希望能增加ArkTS语言榜单",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-05T23:04:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 465,
+      "title": "【开源自荐】凹语言",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-07T15:14:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 460,
+      "title": "q",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-09-20T18:32:29Z",
+      "closed_at": "2025-07-15T06:03:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 459,
+      "title": "【LLM】能不能增加LLM相关的优质项目",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-09-11T12:06:31Z",
+      "closed_at": "2024-09-25T06:55:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 458,
+      "title": "【大厂开源自荐】XIAOJUSURVEY - 一款致力于从自动化到智能化的调研系统",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-05T09:39:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 390,
+      "title": "【开源自荐】minio-plus 一个 MinIO 的二次封装与增强工具",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-12T06:01:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 389,
+      "title": "【开源自荐】可直接修改jar的IDEA插件-JarEditor",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-11T07:53:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 388,
+      "title": "基于GoFrame的Gfast后台管理系统",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-07T07:24:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 387,
+      "title": "【开源自荐】go-events 是一个 go 实现的事件及事件过滤器库 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-30T11:56:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 386,
+      "title": "【开源自荐】--> 软件类 -->  shell -->  『win-linux批量运维宝 』",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-25T07:45:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 383,
+      "title": "【开源自荐】OpenAPI-TS-Request 根据swagger2/openapi3(适用于Apifox)生成TS、Request Client、mock请求、枚举、枚举翻译、type字段翻译的工具",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-02T14:42:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 380,
+      "title": "自荐：心理学资源导航站",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-30T06:28:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 379,
+      "title": "【开源推荐】一个基于阿里云盘官方 API 授权的自动同步和备份工具，支持云盘挂载到本地，多平台、安全、自动化的数据管理方案。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-08T10:34:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 378,
+      "title": "【开源自荐】一个基于 Cloudflare Pages + Workers + D1 + R2 全家桶的博客项目",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-05T14:10:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 377,
+      "title": "【开源自荐】Navigation-Learning：一个本科生的导航学习笔记",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-06-01T09:47:09Z",
+      "closed_at": "2024-06-01T09:52:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 376,
+      "title": "GitHub-Chinese-Top-Charts（中文排行榜）",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-01T05:57:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 375,
+      "title": "【开源自荐】XinjingdailyBot",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-05-30T03:16:24Z",
+      "closed_at": "2024-09-12T13:52:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 374,
+      "title": "【开源自荐】语音技能平台云云接入通用处理应用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-26T14:32:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 372,
+      "title": "【开源自荐】批量为视频生成字幕，同时可翻译字幕为其它语言",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-23T03:20:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 371,
+      "title": "[开源自荐] 资料类->游戏开发资料大全 ->AnythingAboutGame ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-22T08:36:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 369,
+      "title": "123",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-03T13:30:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 368,
+      "title": "【开源自荐】一个集成了AI的匿名聊天工具smalltalk",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-03T07:25:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 367,
+      "title": "【开源自荐】go-hash 是一个 go 常用摘要 hash 算法库",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-25T08:15:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 365,
+      "title": "数据很久没更新了呀",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-04-20T21:29:13Z",
+      "closed_at": "2025-09-19T07:56:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 364,
+      "title": "【开源自荐】AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-19T09:03:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 363,
+      "title": "开源项目自荐-极简朋友圈",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-19T05:22:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 361,
+      "title": "【开源自荐】SubConv: 一个 Python 实现的开源 Clash 订阅转换",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-04T13:12:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 359,
+      "title": "|61|[Sab1e-GitHub/BadAppleJuice](https://github.com/Sab1e-GitHub/BadAppleJuice)|参考自EvilAppleJuice的项目，用于在安卓设备上发送广播包，唤起iPhone设备的弹窗。|186|2024-03-19|2023-11-16|",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-03-22T05:00:16Z",
+      "closed_at": "2024-03-22T05:00:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 355,
+      "title": "尋找 能夠製作機器人的高手 北部地區面談 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-17T05:09:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 354,
+      "title": "feat: 阿里云盘同步和备份工具，多平台兼容，自动化的数据管理方案。",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-03-16T01:31:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 353,
+      "title": "【开源自荐】thingsboard物联网平台Vue3前端实现。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-13T10:10:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 351,
+      "title": "【开源自荐】基于JAVA高性能分布式MQTT代理服务器",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-05T07:14:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 350,
+      "title": "国人还是太功利了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-05T01:46:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 349,
+      "title": "CN-top_Chart",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-04T04:27:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 348,
+      "title": "Can you show the latest updates in the readme, otherwise it's too much",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-03T14:16:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 347,
+      "title": "awesome-flutter-plugins   好用的Flutter插件以便更效率的开发",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-03T14:14:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 345,
+      "title": "feat:新增node后端onela框架，让一套业务代码支持无缝支持多种SQL数据库’",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-21T09:57:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 344,
+      "title": "开源自荐：XTalk-Chat，更加简洁的服务器式聊天软件和最好的通信与及服务器防御/通信模块",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-10T05:55:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 343,
+      "title": "ha",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-09T18:37:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 342,
+      "title": "【开源自荐】React + Typescript 编写的在线多功能网页计算器",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-02-04T14:40:36Z",
+      "closed_at": "2024-07-10T10:28:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 341,
+      "title": "【开源自荐】Spring Boot 3 + Java + Kotlin 和 Vue 3 + Ts + Element Plus 编写的权限管理系统",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-04T06:34:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 340,
+      "title": "[开源自荐]  C# 国产ORM ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-01T15:01:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 339,
+      "title": "huugynface",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-29T18:57:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 338,
+      "title": "10$",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-24T16:51:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 337,
+      "title": "【开源自荐】openAPI-UI 一个根据swagger或openapi3生成简洁美观接口文档的API工具，快速模拟请求参数并调用接口",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-23T08:49:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 336,
+      "title": "可否把clojure也拉进来？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-22T04:44:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 335,
+      "title": "【开源自荐】基于Go语言实现的高性能Redis分布式锁服务。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-21T05:14:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 334,
+      "title": "【开源自荐】Go 语言开发的通用数据类型处理工具",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-21T05:13:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 333,
+      "title": "【问题反馈】发现奇怪项目",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-10T06:21:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 332,
+      "title": "【开源自荐】github上最详细的中文K8s教程",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-01-10T03:04:27Z",
+      "closed_at": "2024-03-27T14:58:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 331,
+      "title": "【开源自荐】Go语言的Web框架，基于gnet目前实现了http1.1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-07T11:28:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 330,
+      "title": "【开源自荐】一个简单易用的 go 时间解析库",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-07T09:16:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 329,
+      "title": "11",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-07T06:12:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 328,
+      "title": "【开源自荐】antdv-pro基于vite5.x + vue3.4.x + antdv4的一套后台管理模板",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-03T11:08:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 327,
+      "title": "【开源自荐】DevOpsGPT: AI驱动的智能软件开发平台，一个自然语言交互就能开发软件的平台",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-11T09:54:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 326,
+      "title": "【开源工具推荐】RainbowGPT AI Agent ，免费GPT API  提供 ！！。实时接口股票数据分析预测、本地无上限字数知识库搜索问答、Google搜索引擎问答",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-08T07:15:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 324,
+      "title": "【开源自荐】go-cryptobin 是 go 常用的加密解密和签名验证库",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-03T16:22:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 323,
+      "title": "【开源自荐】跨平台的截图、录屏、录音、录像软件 pear-rec ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-28T06:51:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 322,
+      "title": "【开源自荐】1Panel - 开源 Linux 服务器运维管理面板",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-26T14:21:08Z",
+      "closed_at": "2023-11-28T10:04:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 321,
+      "title": "【开源自荐】Dawn Launcher - Windows快捷启动工具",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-25T06:22:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 320,
+      "title": "【开源自荐】🌱Spring 源码阅读系列",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-22T06:06:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 319,
+      "title": "【开源自荐】一个企业级微服务架构的云服务多租户SaaS平台",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-08T18:33:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 317,
+      "title": "【开源自荐】定制中国传统节日头像",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-29T03:40:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 316,
+      "title": "⚡️ 不再受限！科学上网轻松get，稳定加速使用ChatGPT",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-26T02:00:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 315,
+      "title": "【开源自荐】定制中秋贺卡 🌕 送祝福·庆团圆·寄相思",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-20T08:50:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 314,
+      "title": "【开源自荐】SolidUI 一句话生成任何图形",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-14T16:23:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 313,
+      "title": "【开源自荐】Go 语言一站式学习",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-18T02:48:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 312,
+      "title": "【项目自荐】RxSwift与Dart响应式编写客户端项目wandroid，包含iOS平台与Flutter跨平台。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-16T07:45:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 309,
+      "title": "【开源自荐】基于Canvas的开源版\"创客贴\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-04T09:46:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 308,
+      "title": "🚀【项目自荐】最新ChatGPT注册完整指南 免手机号",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-04T09:17:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 304,
+      "title": "【开源自荐】使用 golang 轻松方便地在不同数据类型之间进行转换。支持json和sql序列化",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-03T11:28:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 303,
+      "title": "推荐一个好项目，能加入吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-28T09:44:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 301,
+      "title": "这个排行榜好像没有react，请问作者大佬可以把react加进去吗？为项目点赞！",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-16T11:02:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 300,
+      "title": "【开源自荐】vue大屏自适应终极解决方案",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-05T06:34:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 299,
+      "title": "🚀 稳定、安全、快速的科学上网方法",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-26T12:25:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 298,
+      "title": "【开源自荐】一个专注于前端视觉效果的集合应用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-11T08:38:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 297,
+      "title": "🚀🚀🚀  ChatGPT注册登录流程图解",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-07T14:55:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 296,
+      "title": "好多已经失效了，地址都找不到，不更新一遍吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-01T00:55:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 295,
+      "title": "【开源自荐】vue-draggable-plus 支持vue2/vue3的拖拽排序组件",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-29T04:00:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 294,
+      "title": "【开源自荐】Alice CodeCreator 代码生成器/代码辅助工具",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-21T02:44:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 293,
+      "title": "【开源自荐】lakego-admin 是使用 gin、JWT 和 RBAC 的 go 后台管理系统",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-20T16:11:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 292,
+      "title": "【开源自荐】go-cryptobin 是 go 常用的加密解密库",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-20T16:03:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 291,
+      "title": "【开源自荐】一个灵活的 nodejs 爬虫库 —— x-crawl ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-20T01:35:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 290,
+      "title": "【开源自荐】 DI-engine - 通用的决策智能引擎",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-10T07:22:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 286,
+      "title": "【开源自荐】轻快图床：基于Koa2 + Vue3.x + Vite3.x + typescript开发的轻量级快捷图片管理系统、图床系统",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-22T01:33:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 285,
+      "title": "【开源自荐】微信答题小程序--",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-20T08:41:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 283,
+      "title": "【VPN推荐】翻墙用着不错，可以试下",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-05T08:06:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "GrowingGit",
+      "contributions": 978
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T08:53:12.642675Z"
+}

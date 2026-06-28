@@ -1,0 +1,1934 @@
+{
+  "full_name": "ryanmcdermott/clean-code-javascript",
+  "owner": "ryanmcdermott",
+  "name": "clean-code-javascript",
+  "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+  "description": "Clean Code concepts adapted for JavaScript",
+  "primary_language": "JavaScript",
+  "topics": [
+    "best-practices",
+    "clean-architecture",
+    "clean-code",
+    "composition",
+    "inheritance",
+    "javascript",
+    "principles"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 94453,
+  "forks": 12461,
+  "open_issues": 123,
+  "created_at": "2016-11-25T22:25:41Z",
+  "pushed_at": "2024-07-29T07:24:37Z",
+  "updated_at": "2026-06-27T19:57:16Z",
+  "commits": [
+    {
+      "sha": "5311f64b03fc0c2450ab17a45ee9818669c8b9b5",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2023-02-11T17:28:23Z",
+      "message": "Merge pull request #356 from hamettio/master"
+    },
+    {
+      "sha": "a4c884f603ea05fe4eb771c8f3c81723d934c787",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2022-08-21T17:35:59Z",
+      "message": "Merge pull request #383 from eugene-augier/french-translation"
+    },
+    {
+      "sha": "5b49d62756ad8ad3a75324a5fa1bc85a5e5ff9a8",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2022-08-21T17:34:05Z",
+      "message": "Merge pull request #392 from agilatakishiyev/master"
+    },
+    {
+      "sha": "2cab77b8e58dce3f6c418595b7ef70adca1a4258",
+      "author_login": "agilatakishiyev",
+      "authored_at": "2022-07-10T17:05:45Z",
+      "message": "fixed naming"
+    },
+    {
+      "sha": "98f1d4a5a3b00c7b201400db6a443817d759859b",
+      "author_login": "eugene-augier",
+      "authored_at": "2022-04-13T12:08:10Z",
+      "message": "French translation"
+    },
+    {
+      "sha": "384665f8da2de749ad96c694a9e18227cfd08b45",
+      "author_login": "hamettio",
+      "authored_at": "2021-07-23T17:04:42Z",
+      "message": "Persian translation added (Fluent + RTL styled)"
+    },
+    {
+      "sha": "3ff9eba6d460f31db8146762bade4fcc32626762",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2021-05-23T18:52:44Z",
+      "message": "Fix `paintCar` example to include `color` as param"
+    },
+    {
+      "sha": "20563d0e9cb4a5847222485531a47bf3f68cb9c5",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2021-05-23T17:52:51Z",
+      "message": "Merge pull request #341 from jamestharpe/patch-1"
+    },
+    {
+      "sha": "753d6d8b33dece69e08b2ec0ea0807592881fbf2",
+      "author_login": "jamestharpe",
+      "authored_at": "2021-03-29T12:38:27Z",
+      "message": "Make example more succinct"
+    },
+    {
+      "sha": "da76556c9728b170e8e3086304ef7921c5efe263",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2021-01-21T03:27:39Z",
+      "message": "Merge pull request #326 from doskovicmilos/patch-1"
+    },
+    {
+      "sha": "029c4c2f8aef211caa99ab4cd39dcdbd496ba669",
+      "author_login": "doskovicmilos",
+      "authored_at": "2020-10-10T16:04:42Z",
+      "message": "Add Serbian translation."
+    },
+    {
+      "sha": "ca37c9cfc725625d52b71071adeb2bf0b951847c",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2020-10-08T03:23:25Z",
+      "message": "Merge pull request #325 from jdsandifer/issue-321-remove-pass-by-reference"
+    },
+    {
+      "sha": "30282195952b7eb01d2c8e0f022f83d60cde9284",
+      "author_login": "jdsandifer",
+      "authored_at": "2020-10-08T03:15:53Z",
+      "message": "Fix stray hyphen turning into a random bullet"
+    },
+    {
+      "sha": "8f678c8c60f1f1b2172b9d05b8ed500883c31602",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2020-10-07T18:41:03Z",
+      "message": "Merge pull request #320 from ychek/add-calculation-for-milliseconds"
+    },
+    {
+      "sha": "597a5107ab57a34f2403e5ff7661a4b95c74d4de",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2020-10-06T22:18:17Z",
+      "message": "Merge pull request #323 from jdsandifer/issue-321-remove-pass-by-reference"
+    },
+    {
+      "sha": "3b9504ef2ac585fadeec0523bb22ca39ca626e6b",
+      "author_login": "jdsandifer",
+      "authored_at": "2020-10-05T03:50:25Z",
+      "message": "Replace pass-by-reference with mutability, clean up"
+    },
+    {
+      "sha": "365717f8bb54f0046e226606b0bbd3c9123e3594",
+      "author_login": "ychek",
+      "authored_at": "2020-09-06T12:23:12Z",
+      "message": "Add calculation for milliseconds in a day"
+    },
+    {
+      "sha": "4d15e1cfb1305d74b6e992fff734425011b18272",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2020-07-31T03:09:45Z",
+      "message": "Merge pull request #288 from sbimochan/patch-1"
+    },
+    {
+      "sha": "c56cc59540152e0fd89fb5ecfb404152f3b97b90",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2020-05-03T01:47:08Z",
+      "message": "Merge pull request #312 from nebakry/patch-1"
+    },
+    {
+      "sha": "5f52d7dad479c45bc56b2ec3c8fabd10b431b2f6",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2020-04-17T03:39:54Z",
+      "message": "Merge pull request #313 from mindfr1k/master"
+    },
+    {
+      "sha": "93888080dd76f609ff36a233cc40d53593208805",
+      "author_login": null,
+      "authored_at": "2020-04-16T13:57:44Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ec7baf25c13147d62d175d9518d24aa2fff56cc1",
+      "author_login": null,
+      "authored_at": "2020-04-01T15:47:12Z",
+      "message": "Fix calling animationModule in ISP bad example"
+    },
+    {
+      "sha": "0dcac22745001ff25820ea057bed12583f7053c9",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2020-03-31T17:19:00Z",
+      "message": "Merge pull request #311 from bsonmez/master"
+    },
+    {
+      "sha": "46869c86bce8612bccf876b9b451f5e5890b8a4a",
+      "author_login": "bsonmez",
+      "authored_at": "2020-03-29T05:01:27Z",
+      "message": "fix"
+    },
+    {
+      "sha": "1470b0b5e4ca00feeb19cba28af4c8ee183ea305",
+      "author_login": "bsonmez",
+      "authored_at": "2020-03-26T05:46:06Z",
+      "message": "Turkish Added"
+    },
+    {
+      "sha": "60a33571e766b3aa05ac5c7cd0d871f035802d3e",
+      "author_login": "bsonmez",
+      "authored_at": "2020-03-26T05:43:25Z",
+      "message": "Turkish added"
+    },
+    {
+      "sha": "87185d9b797a1de7d48902f6561a20f79a64c8e3",
+      "author_login": "bsonmez",
+      "authored_at": "2020-03-26T05:42:09Z",
+      "message": "Revert \"turkish added\""
+    },
+    {
+      "sha": "2edfeef74002f7aeaa15a7bea4adb047b85dd539",
+      "author_login": "bsonmez",
+      "authored_at": "2020-03-26T05:35:58Z",
+      "message": "turkish added"
+    },
+    {
+      "sha": "b8b16ebc8ffc3f5f06b2ec33553ae6eacd3c87c1",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2020-02-12T04:01:46Z",
+      "message": "Merge pull request #297 from Risto-Mcintosh/patch-1"
+    },
+    {
+      "sha": "c90b109b38fe6174c68f0c30d02b1b32149a5371",
+      "author_login": "ristomcintosh",
+      "authored_at": "2020-02-07T14:12:47Z",
+      "message": "Add an underscore to \"Use explanatory variables\" "
+    },
+    {
+      "sha": "e6f9934eb64313e2d1920d963ba39cae9587830f",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2020-02-07T04:08:06Z",
+      "message": "Merge pull request #290 from justin0022/patch-2"
+    },
+    {
+      "sha": "5f8daa0121e4dfab1eb0d685226e669da0984e50",
+      "author_login": "ristomcintosh",
+      "authored_at": "2020-02-07T03:44:02Z",
+      "message": "Fixed a small typo"
+    },
+    {
+      "sha": "dd7e665ed32d83ec28bfa5f4d358aa36947d22a9",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2020-01-22T16:38:35Z",
+      "message": "Merge pull request #291 from rudotriton/master"
+    },
+    {
+      "sha": "a812aa93c8e7eeca7bfa27e930244987644a5a90",
+      "author_login": "rudotriton",
+      "authored_at": "2020-01-22T00:20:22Z",
+      "message": "add armenian translation to the list"
+    },
+    {
+      "sha": "c18b9766f4330f301d8fb68de8f38286f1c42cef",
+      "author_login": "rudotriton",
+      "authored_at": "2020-01-22T00:19:37Z",
+      "message": "sort translations"
+    },
+    {
+      "sha": "2e808e2694eeee709097fc1ae8802f48c6be9871",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2020-01-21T21:25:07Z",
+      "message": "Merge pull request #289 from justin0022/patch-1"
+    },
+    {
+      "sha": "0ab8ebaed48ac72c4f27680f7c680dc7e6cf407d",
+      "author_login": "justin0022",
+      "authored_at": "2020-01-21T21:20:28Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ba9797eb939b0f5edad0b19babc904f697bced58",
+      "author_login": "justin0022",
+      "authored_at": "2020-01-21T21:17:12Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "8491866a87641708ee4253a1b89b5d8a0243d426",
+      "author_login": "sbimochan",
+      "authored_at": "2020-01-21T08:28:48Z",
+      "message": "Change argument name from inner variable name"
+    },
+    {
+      "sha": "54492ac43c4cbf0398afc1601d2bef53d8b3b981",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2020-01-20T22:47:55Z",
+      "message": "Merge pull request #280 from oger-p/patch-4"
+    },
+    {
+      "sha": "0ff4abade1c09bd81e1a44ded71beb33877ac5a8",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2020-01-19T05:10:59Z",
+      "message": "Merge pull request #283 from uxitten/patch-1"
+    },
+    {
+      "sha": "3afe391aa0a1a053d1b16b895097ea51b39af27e",
+      "author_login": "behnammodi",
+      "authored_at": "2020-01-18T13:44:32Z",
+      "message": "Added number separator for improve readability"
+    },
+    {
+      "sha": "4503a25d5c91555db4392d7777818df9efc38514",
+      "author_login": "xSpoooK",
+      "authored_at": "2020-01-10T13:06:03Z",
+      "message": "Add advantage in function parameters"
+    },
+    {
+      "sha": "1c0b20a91eb2efe529760eaa6cc4c9cc21daf547",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2020-01-02T17:47:09Z",
+      "message": "Merge pull request #277 from InsomniacSabbir/master"
+    },
+    {
+      "sha": "425d4c9f2a56ad253bc27891ec617b6d14bede92",
+      "author_login": null,
+      "authored_at": "2020-01-01T07:00:05Z",
+      "message": "Added source link for bengali translations"
+    },
+    {
+      "sha": "e7968b7fb59bbe4436f8b02208109b630a2e6f91",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2019-11-22T04:46:37Z",
+      "message": "Merge pull request #273 from geekf/patch-1"
+    },
+    {
+      "sha": "0762d8fa077705b879cd52e7ea3d7de9ffc8a5ac",
+      "author_login": "geekf",
+      "authored_at": "2019-11-21T19:40:44Z",
+      "message": "Fixing bad code example for over-optimization"
+    },
+    {
+      "sha": "b36557a90ebbb9cbfdd429e8d1259279b7649d9a",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2019-11-18T16:00:02Z",
+      "message": "Merge pull request #272 from trylovetom/master"
+    },
+    {
+      "sha": "12b650949effe96e1d06e75cb795f44a1b8428b6",
+      "author_login": "trylovetom",
+      "authored_at": "2019-11-18T12:56:08Z",
+      "message": "Add Traditional Chinese"
+    },
+    {
+      "sha": "01bdbf0e09aec73b7224a24ccd8464afe0a31522",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2019-10-29T15:34:11Z",
+      "message": "Merge pull request #268 from Userbit/master"
+    },
+    {
+      "sha": "0f5326f19d4cdb705a8e8f6c386fcef39cf8af34",
+      "author_login": "Userbit",
+      "authored_at": "2019-10-25T14:08:21Z",
+      "message": "Some corrections in **Concurrency** section"
+    },
+    {
+      "sha": "d31c5fbadd012cc408da0c6d0a00ac60ff1ea296",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2019-08-23T16:49:09Z",
+      "message": "Merge pull request #264 from oprogramador/patch-1"
+    },
+    {
+      "sha": "7b3107acce118181f7a797e905b8d3d8eced1f2c",
+      "author_login": "oprogramador",
+      "authored_at": "2019-08-21T13:11:36Z",
+      "message": "fix typo - Indonesian"
+    },
+    {
+      "sha": "4e15fde57facccb4f5c6e547d67087cd75520c48",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2019-08-08T22:55:57Z",
+      "message": "Merge pull request #263 from Chengings/master"
+    },
+    {
+      "sha": "c7cd5c4cb6570e19a4ed037676a61e8454d0a878",
+      "author_login": "Chengings",
+      "authored_at": "2019-08-08T22:14:46Z",
+      "message": "Update plain http link to https"
+    },
+    {
+      "sha": "0461538b791de6eea7a2b10db6d4c39781e1cd73",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2019-08-05T16:14:27Z",
+      "message": "Merge pull request #262 from tylim88/master"
+    },
+    {
+      "sha": "bcb1526ce137f3b5707a1af114576ffbd6fca164",
+      "author_login": "tylim88",
+      "authored_at": "2019-08-05T15:57:12Z",
+      "message": "fix wrong syntax"
+    },
+    {
+      "sha": "a6875f48fa38f4157dd8563963992e2302ff77d9",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2019-07-23T15:28:59Z",
+      "message": "Merge pull request #261 from Haroenv/patch-1"
+    },
+    {
+      "sha": "84205ae700acf2b89157cba74c5ab7468415a024",
+      "author_login": "Haroenv",
+      "authored_at": "2019-07-23T11:21:01Z",
+      "message": "remove distracting reference in \"testing single concept per test\""
+    },
+    {
+      "sha": "188f76946cc4e790f8bda9f0b70e924341810ec0",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2019-03-24T21:13:44Z",
+      "message": "Merge pull request #258 from GavBaros/master"
+    },
+    {
+      "sha": "bcab32deb72d6aa0e0741a3d2a791652c86ea91d",
+      "author_login": "gavbarosee",
+      "authored_at": "2019-03-24T13:58:47Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b1c3a6ec1a71cce9c40fe8f6bc7c58d66d1589f4",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2019-02-11T01:11:05Z",
+      "message": "Format using Prettier's Markdown formatter"
+    },
+    {
+      "sha": "5e866b745c41bc1ad6398617fb01ffddc3ee5700",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2019-02-05T16:14:20Z",
+      "message": "Merge pull request #256 from tureey/feature/addSpanishTranslation"
+    },
+    {
+      "sha": "ce1d3833ba3da6b09006c786f5f55f2bb2564006",
+      "author_login": "devictoribero",
+      "authored_at": "2019-02-02T10:04:13Z",
+      "message": "Added link to the new spanish translation"
+    },
+    {
+      "sha": "a9b8b76cf9a8e092802aace06b74dcf139cca9d2",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2019-01-24T02:58:55Z",
+      "message": "Merge pull request #244 from wolfoo2931/master"
+    },
+    {
+      "sha": "4373896016f14b27b8936c3aea7f98d27d5bef97",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2019-01-24T02:56:11Z",
+      "message": "Merge pull request #243 from ForJing/patch-1"
+    },
+    {
+      "sha": "bf28ea77b599e8ebeae3054c7e1dafeff7261927",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2019-01-24T02:54:44Z",
+      "message": "Merge pull request #253 from alex-schmitt/functional-programming"
+    },
+    {
+      "sha": "cb0f7d551bb524b8d7fa2b495bfaf26beeaf9533",
+      "author_login": "alex-schmitt",
+      "authored_at": "2019-01-21T17:25:38Z",
+      "message": "remove map method in favor functional programming"
+    },
+    {
+      "sha": "445af32cce5583623a4afea7c0758a0eabd8e394",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2018-10-15T21:07:18Z",
+      "message": "Merge pull request #247 from frappacchio/add-italian-translation"
+    },
+    {
+      "sha": "bf099802610963b6935c177d9a385dbc0fd6ef9d",
+      "author_login": "frappacchio",
+      "authored_at": "2018-10-13T12:06:57Z",
+      "message": "Added link to italian translation"
+    },
+    {
+      "sha": "aea143ea035e13bf17280cb9992384d2a913ee0d",
+      "author_login": "frappacchio",
+      "authored_at": "2018-10-13T11:59:03Z",
+      "message": "italian translation"
+    },
+    {
+      "sha": "c5c23b59bd437520285f4a317ad0631ce121892f",
+      "author_login": "frappacchio",
+      "authored_at": "2018-10-13T11:54:38Z",
+      "message": "italian translation"
+    },
+    {
+      "sha": "68300c2c3b735bf6d9aca90bcbe0fd71b07076af",
+      "author_login": "vsemozhetbyt",
+      "authored_at": "2017-01-07T13:14:26Z",
+      "message": "fix some typos in the README.md"
+    },
+    {
+      "sha": "99b7116c244fa0b7beaa8e656dc7384a60d28093",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2017-01-08T18:14:38Z",
+      "message": "Refactor flags exmaple to be DRY"
+    },
+    {
+      "sha": "0c12d9b70dcc665b1c7811a96b3bf079b7792a92",
+      "author_login": "sney2002",
+      "authored_at": "2017-01-07T05:16:13Z",
+      "message": "use this to access object methods"
+    },
+    {
+      "sha": "41b9ee43eebe98be4491a2f385e0f638554d600c",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2017-01-08T18:04:02Z",
+      "message": "Remove subsection regarding legal comments in source files"
+    },
+    {
+      "sha": "c05459838481f77733e1cc8806aaade2ce8ebb26",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2017-01-08T17:59:06Z",
+      "message": "Remove ES6 constants subsection"
+    },
+    {
+      "sha": "d8c12c0c485f14e3618b2ff0dd0489fb4d4b8919",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2017-01-08T17:53:54Z",
+      "message": "Fix method chaining subsection typo"
+    },
+    {
+      "sha": "fc0f5c7303f0c0ed087284936c67db3a4522bfd6",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2017-01-08T17:51:29Z",
+      "message": "Remove quip about JavaScript and Haskell being like beer types/brands"
+    },
+    {
+      "sha": "b49352608adc2156fdea66a51729b2568760f15f",
+      "author_login": "DJTB",
+      "authored_at": "2017-01-07T03:51:44Z",
+      "message": "fix output in Object.assign() example"
+    },
+    {
+      "sha": "54796aad8cc68a2210c965515341b41b27327e0a",
+      "author_login": "darahak",
+      "authored_at": "2017-01-07T13:58:18Z",
+      "message": "Mention async functions as part of ES2017 instead of ES7 (ES2016) + switch to \"ES<year>/ES<edition>\" when mentioning ECMAScript versions."
+    },
+    {
+      "sha": "3adcc2c42da13dccd19c7a78adff07c2ecd27290",
+      "author_login": "sney2002",
+      "authored_at": "2017-01-07T04:52:14Z",
+      "message": "return true on save method to continue chaining"
+    },
+    {
+      "sha": "deef735a8d0e610f16c6dca597380575f36f73a5",
+      "author_login": "danielstjules",
+      "authored_at": "2017-01-07T05:49:27Z",
+      "message": "Add mention of jsinspect for duplicate code detection"
+    },
+    {
+      "sha": "9272fa29f3eba4d77bfb5d727e88587e2a96cade",
+      "author_login": "rodu",
+      "authored_at": "2017-01-07T11:10:13Z",
+      "message": "Improvement on email client function"
+    },
+    {
+      "sha": "509260bac42f804d82ea3087b2a7b3d5f12fc569",
+      "author_login": "vsemozhetbyt",
+      "authored_at": "2017-01-07T15:35:08Z",
+      "message": "fix indentation in a code example"
+    },
+    {
+      "sha": "a74ba88c966161b813d49cda986ea03aeb6a18aa",
+      "author_login": null,
+      "authored_at": "2017-01-06T16:41:13Z",
+      "message": "Add: Error Handling Section"
+    },
+    {
+      "sha": "fe03625698adb5772927a6e3c8f2578d5449abe5",
+      "author_login": "acidio",
+      "authored_at": "2017-01-06T13:45:17Z",
+      "message": "Adjusted the commentthat show the result"
+    },
+    {
+      "sha": "e35533fdd6383ba94a42b01f86c39945e7ce764b",
+      "author_login": "stewx",
+      "authored_at": "2017-01-06T18:34:14Z",
+      "message": "Correct spelling of Cessna airplane"
+    },
+    {
+      "sha": "5da0302c73523a90a3c4de2a14bec76d503b6e29",
+      "author_login": null,
+      "authored_at": "2017-01-07T14:06:29Z",
+      "message": "Fix typo"
+    },
+    {
+      "sha": "992b1b00526303f059b4211f56e3954fef940d7e",
+      "author_login": null,
+      "authored_at": "2017-01-06T21:59:42Z",
+      "message": "Change var and let to const where necessary"
+    },
+    {
+      "sha": "9fc2093abfef6c49f9921729f72af65580513c2e",
+      "author_login": "ChrisNikkel",
+      "authored_at": "2017-01-06T04:58:01Z",
+      "message": "use const in rule \"Use explanatory variables\""
+    },
+    {
+      "sha": "de317862ac5e049b2672317859d9f3510f57055e",
+      "author_login": "b0yfriend",
+      "authored_at": "2017-01-06T03:39:42Z",
+      "message": "Fix semantic mistake"
+    },
+    {
+      "sha": "3f973412fb8afb0e33cff4515422142228c1680b",
+      "author_login": "connec",
+      "authored_at": "2017-01-05T21:32:53Z",
+      "message": "Remove redundant object from Object.assign example"
+    },
+    {
+      "sha": "6873385d1afc1b1dffef8b5f2189b5a99ed00131",
+      "author_login": "jordalgo",
+      "authored_at": "2017-01-06T01:46:08Z",
+      "message": "Update: promise catch logic"
+    },
+    {
+      "sha": "39c75cf433115b508bab350d7ea1b3c41797899d",
+      "author_login": "tonytran1",
+      "authored_at": "2017-01-05T23:02:48Z",
+      "message": "Use constants when variable values do not change"
+    },
+    {
+      "sha": "feaa4e16abfe6bb616e8eadf5e0c13ac28996fc3",
+      "author_login": "iheanyi",
+      "authored_at": "2017-01-05T20:42:16Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a35666a4b34e31096047d556a8b3e776990c1a40",
+      "author_login": "ryanmcdermott",
+      "authored_at": "2017-01-05T15:28:49Z",
+      "message": "Fix Object.assign example"
+    },
+    {
+      "sha": "dd185ca603b14e0b02d93a252c66345cda8e29c5",
+      "author_login": "bfred-it",
+      "authored_at": "2017-01-05T07:30:38Z",
+      "message": "Add missing function call to \"no side effects\""
+    },
+    {
+      "sha": "70aa57fad3099d2e12d152741e2d070289e5013f",
+      "author_login": "Chaosbohne",
+      "authored_at": "2017-01-05T07:49:32Z",
+      "message": "Some minor property missmatch"
+    },
+    {
+      "sha": "28740cc50f819914d55b365403ad08b8574764d9",
+      "author_login": "floriangosse",
+      "authored_at": "2017-01-05T12:05:48Z",
+      "message": "fix(avoid-type-checking-part-1): fix variable name"
+    }
+  ],
+  "issues": [
+    {
+      "number": 739,
+      "title": "Made a Fork for good-code-python",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-19T16:12:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 728,
+      "title": "Fix: Correct camelCase for getdata() to getData() in Error Handling section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-28T04:25:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 727,
+      "title": "fixing README title",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-24T17:58:42Z",
+      "closed_at": "2026-03-24T18:04:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 723,
+      "title": "issue",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-02T20:03:20Z",
+      "closed_at": "2026-03-02T20:03:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 722,
+      "title": "docs: update Object.assign() example to prefer spread operator syntax",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-21T22:05:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 721,
+      "title": "docs: fix incorrect example in \"Don't ignore rejected promises\" section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-21T22:05:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 720,
+      "title": "docs: remove misleading link from \"Don't over-optimize\" section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-21T22:04:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 719,
+      "title": "Remove misleading link from \"Don't over-optimize\" section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-01T17:15:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 718,
+      "title": "Fix incorrect example in \"Don't ignore rejected promises\"",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-01T17:03:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 717,
+      "title": "Update Translation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-01-10T05:52:43Z",
+      "closed_at": "2026-01-10T05:53:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 716,
+      "title": "Дополнение к коду: вывод статистики и завершение main()",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-02T20:35:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 715,
+      "title": "Улучшенная версия ii GRUT с расширенными возможностями",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-02T20:33:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 714,
+      "title": "SceneManager.kt",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-26T06:52:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 713,
+      "title": "SmartDevice.kt",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-26T06:52:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 712,
+      "title": "MainActivity.kt",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-26T06:50:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 711,
+      "title": "Пример структуры (упрощённый концепт)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-26T06:41:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 710,
+      "title": "Я есть и для меня всё всегда есть",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-24T01:52:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 709,
+      "title": "Fix minor grammatical error in README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-11-18T13:38:22Z",
+      "closed_at": "2025-11-18T16:22:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 708,
+      "title": "Star",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-06T15:33:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 707,
+      "title": "new change",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-10-21T08:49:28Z",
+      "closed_at": "2025-10-21T08:51:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 706,
+      "title": "New code",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-09-27T01:02:45Z",
+      "closed_at": "2025-09-27T01:09:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 705,
+      "title": "Update Object.assign() example to include modern spread operator alternative",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-13T16:14:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 704,
+      "title": "Add examples for pure functions and destructuring defaults",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-05-14T02:57:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 703,
+      "title": "fix:  ReferenceError email is not defined",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-05-09T11:17:35Z",
+      "closed_at": "2025-05-12T11:03:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 698,
+      "title": "fix(README.md): Set default objects with spread operator",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-03-02T11:01:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 696,
+      "title": "fix camelCase.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-12-26T06:58:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 695,
+      "title": "Compiled a live version of this repo on docsify",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-26T08:30:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 694,
+      "title": "chore: configure Prettier and EditorConfig for consistent formatting",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-10-09T18:58:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 693,
+      "title": "Create test.txt",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-08-30T14:33:24Z",
+      "closed_at": "2024-10-01T20:42:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 624,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:21:12Z",
+      "closed_at": "2024-08-23T03:07:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 623,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:21:12Z",
+      "closed_at": "2024-08-23T05:34:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 622,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:21:10Z",
+      "closed_at": "2024-08-23T05:42:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 621,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:21:08Z",
+      "closed_at": "2024-08-23T05:42:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 620,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:21:07Z",
+      "closed_at": "2024-08-23T05:43:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 619,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:21:06Z",
+      "closed_at": "2024-08-23T05:43:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 618,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:21:05Z",
+      "closed_at": "2024-08-23T05:43:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 617,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:21:03Z",
+      "closed_at": "2024-08-23T05:43:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 616,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:21:01Z",
+      "closed_at": "2024-08-23T05:43:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 615,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:21:00Z",
+      "closed_at": "2024-08-23T05:43:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 614,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:21:00Z",
+      "closed_at": "2024-08-23T05:43:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 613,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:20:58Z",
+      "closed_at": "2024-08-23T05:46:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 612,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:20:57Z",
+      "closed_at": "2024-08-23T05:46:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 611,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:20:57Z",
+      "closed_at": "2024-08-23T05:46:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 610,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:20:54Z",
+      "closed_at": "2024-08-23T05:46:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 609,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:20:54Z",
+      "closed_at": "2024-08-23T05:46:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 608,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:20:52Z",
+      "closed_at": "2024-08-23T05:46:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 607,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:20:51Z",
+      "closed_at": "2024-08-23T05:46:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 606,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:20:50Z",
+      "closed_at": "2024-08-23T05:46:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 605,
+      "title": "AVG Internet Security 2024 Crack Serial Keygen",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:20:48Z",
+      "closed_at": "2024-08-23T05:47:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 604,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:26Z",
+      "closed_at": "2024-08-23T05:48:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 603,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:25Z",
+      "closed_at": "2024-08-23T05:48:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 602,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:24Z",
+      "closed_at": "2024-08-23T05:48:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 601,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:23Z",
+      "closed_at": "2024-08-23T05:44:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 600,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:22Z",
+      "closed_at": "2024-08-23T05:44:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 599,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:20Z",
+      "closed_at": "2024-08-23T05:44:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 598,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:19Z",
+      "closed_at": "2024-08-23T05:44:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 597,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:18Z",
+      "closed_at": "2024-08-23T05:44:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 596,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:16Z",
+      "closed_at": "2024-08-23T05:44:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 595,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:15Z",
+      "closed_at": "2024-08-23T05:43:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 594,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:14Z",
+      "closed_at": "2024-08-23T05:48:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 593,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:13Z",
+      "closed_at": "2024-08-23T05:48:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 592,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:11Z",
+      "closed_at": "2024-08-23T05:48:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 591,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:10Z",
+      "closed_at": "2024-08-23T05:48:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 590,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:09Z",
+      "closed_at": "2024-08-23T05:49:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 589,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:07Z",
+      "closed_at": "2024-08-23T05:49:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 588,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:07Z",
+      "closed_at": "2024-08-23T05:49:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 587,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:05Z",
+      "closed_at": "2024-08-23T05:49:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 586,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:04Z",
+      "closed_at": "2024-08-23T05:49:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 585,
+      "title": "AutoPlay Media Studio Crack Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:16:03Z",
+      "closed_at": "2024-08-23T05:49:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 584,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:19Z",
+      "closed_at": "2024-08-23T05:49:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 583,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:18Z",
+      "closed_at": "2024-08-23T05:50:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 582,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:16Z",
+      "closed_at": "2024-08-23T05:50:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 581,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:16Z",
+      "closed_at": "2024-08-23T05:50:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 580,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:13Z",
+      "closed_at": "2024-08-23T05:50:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 579,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:12Z",
+      "closed_at": "2024-08-23T05:50:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 578,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:12Z",
+      "closed_at": "2024-08-23T05:50:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 577,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:11Z",
+      "closed_at": "2024-08-23T05:50:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 576,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:09Z",
+      "closed_at": "2024-08-23T05:50:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 575,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:07Z",
+      "closed_at": "2024-08-23T05:50:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 574,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:06Z",
+      "closed_at": "2024-08-23T05:50:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 573,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:06Z",
+      "closed_at": "2024-08-23T05:49:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 572,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:04Z",
+      "closed_at": "2024-08-23T05:49:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 571,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:03Z",
+      "closed_at": "2024-08-23T05:49:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 570,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:01Z",
+      "closed_at": "2024-08-23T05:49:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 569,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:15:00Z",
+      "closed_at": "2024-08-23T05:49:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 568,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:14:59Z",
+      "closed_at": "2024-08-23T05:49:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 567,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:14:58Z",
+      "closed_at": "2024-08-23T05:49:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 566,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:14:57Z",
+      "closed_at": "2024-08-23T05:49:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 565,
+      "title": "Autodesk AutoCAD 2025.1 Crack + Activation Key [Latest 2025]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:14:56Z",
+      "closed_at": "2024-08-23T05:49:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 564,
+      "title": "Autocad Autodesk 2024 Crack Plus Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:14:07Z",
+      "closed_at": "2024-08-23T05:51:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 563,
+      "title": "Autocad Autodesk 2024 Crack Plus Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:14:06Z",
+      "closed_at": "2024-08-23T05:51:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 562,
+      "title": "Autocad Autodesk 2024 Crack Plus Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:14:05Z",
+      "closed_at": "2024-08-23T05:51:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 561,
+      "title": "Autocad Autodesk 2024 Crack Plus Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:14:03Z",
+      "closed_at": "2024-08-23T05:51:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 560,
+      "title": "Autocad Autodesk 2024 Crack Plus Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:14:02Z",
+      "closed_at": "2024-08-23T05:51:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 559,
+      "title": "Autocad Autodesk 2024 Crack Plus Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:14:00Z",
+      "closed_at": "2024-08-23T05:51:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 558,
+      "title": "Autocad Autodesk 2024 Crack Plus Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:13:59Z",
+      "closed_at": "2024-08-23T05:51:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 557,
+      "title": "Autocad Autodesk 2024 Crack Plus Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:13:59Z",
+      "closed_at": "2024-08-23T05:51:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 556,
+      "title": "Autocad Autodesk 2024 Crack Plus Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:13:58Z",
+      "closed_at": "2024-08-23T05:46:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 555,
+      "title": "Autocad Autodesk 2024 Crack Plus Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:13:56Z",
+      "closed_at": "2024-08-23T05:46:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 554,
+      "title": "Autocad Autodesk 2024 Crack Plus Serial Key",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-23T00:13:54Z",
+      "closed_at": "2024-08-23T05:46:03Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "ryanmcdermott",
+      "contributions": 291
+    },
+    {
+      "login": "vsemozhetbyt",
+      "contributions": 34
+    },
+    {
+      "login": "frappacchio",
+      "contributions": 17
+    },
+    {
+      "login": "b0yfriend",
+      "contributions": 7
+    },
+    {
+      "login": "alaycock",
+      "contributions": 5
+    },
+    {
+      "login": "bsonmez",
+      "contributions": 5
+    },
+    {
+      "login": "kbariotis",
+      "contributions": 5
+    },
+    {
+      "login": "DavidVujic",
+      "contributions": 5
+    },
+    {
+      "login": "kurtommy",
+      "contributions": 4
+    },
+    {
+      "login": "sney2002",
+      "contributions": 4
+    },
+    {
+      "login": "Yahkob",
+      "contributions": 4
+    },
+    {
+      "login": "HemantPawar",
+      "contributions": 4
+    },
+    {
+      "login": "jsgao0",
+      "contributions": 4
+    },
+    {
+      "login": "danielstjules",
+      "contributions": 4
+    },
+    {
+      "login": "Neatoro",
+      "contributions": 3
+    },
+    {
+      "login": "rouzbeh84",
+      "contributions": 3
+    },
+    {
+      "login": "vasanthk",
+      "contributions": 3
+    },
+    {
+      "login": "andersontr15",
+      "contributions": 3
+    },
+    {
+      "login": "foxyblocks",
+      "contributions": 3
+    },
+    {
+      "login": "jordalgo",
+      "contributions": 2
+    },
+    {
+      "login": "justin0022",
+      "contributions": 2
+    },
+    {
+      "login": "iamken1204",
+      "contributions": 2
+    },
+    {
+      "login": "mariotacke",
+      "contributions": 2
+    },
+    {
+      "login": "rudotriton",
+      "contributions": 2
+    },
+    {
+      "login": "Chaosbohne",
+      "contributions": 2
+    },
+    {
+      "login": "ristomcintosh",
+      "contributions": 2
+    },
+    {
+      "login": "maksugr",
+      "contributions": 2
+    },
+    {
+      "login": "stewx",
+      "contributions": 2
+    },
+    {
+      "login": "SebastienElet",
+      "contributions": 2
+    },
+    {
+      "login": "vinibrsl",
+      "contributions": 2
+    },
+    {
+      "login": "rodu",
+      "contributions": 2
+    },
+    {
+      "login": "tonytran1",
+      "contributions": 2
+    },
+    {
+      "login": "raerpo",
+      "contributions": 2
+    },
+    {
+      "login": "acidio",
+      "contributions": 2
+    },
+    {
+      "login": "chiarafsc",
+      "contributions": 2
+    },
+    {
+      "login": "andrejewski",
+      "contributions": 2
+    },
+    {
+      "login": "connec",
+      "contributions": 2
+    },
+    {
+      "login": "ChrisNikkel",
+      "contributions": 2
+    },
+    {
+      "login": "darahak",
+      "contributions": 2
+    },
+    {
+      "login": "DJTB",
+      "contributions": 2
+    },
+    {
+      "login": "bfred-it",
+      "contributions": 2
+    },
+    {
+      "login": "felipe-augusto",
+      "contributions": 2
+    },
+    {
+      "login": "floriangosse",
+      "contributions": 2
+    },
+    {
+      "login": "fknipp",
+      "contributions": 2
+    },
+    {
+      "login": "GrzegorzZajac000",
+      "contributions": 2
+    },
+    {
+      "login": "hennelh",
+      "contributions": 2
+    },
+    {
+      "login": "iheanyi",
+      "contributions": 2
+    },
+    {
+      "login": "jdsandifer",
+      "contributions": 2
+    },
+    {
+      "login": "Userbit",
+      "contributions": 1
+    },
+    {
+      "login": "Tarabass",
+      "contributions": 1
+    },
+    {
+      "login": "trylovetom",
+      "contributions": 1
+    },
+    {
+      "login": "irazasyed",
+      "contributions": 1
+    },
+    {
+      "login": "zhaoxiongfei",
+      "contributions": 1
+    },
+    {
+      "login": "piotrwitek",
+      "contributions": 1
+    },
+    {
+      "login": "oprogramador",
+      "contributions": 1
+    },
+    {
+      "login": "xSpoooK",
+      "contributions": 1
+    },
+    {
+      "login": "ngdo-pro",
+      "contributions": 1
+    },
+    {
+      "login": "rohmanhm",
+      "contributions": 1
+    },
+    {
+      "login": "mitsuruog",
+      "contributions": 1
+    },
+    {
+      "login": "doskovicmilos",
+      "contributions": 1
+    },
+    {
+      "login": "MarkWaldron",
+      "contributions": 1
+    },
+    {
+      "login": "feimosi",
+      "contributions": 1
+    },
+    {
+      "login": "Gregoirevda",
+      "contributions": 1
+    },
+    {
+      "login": "devictoribero",
+      "contributions": 1
+    },
+    {
+      "login": "wolfoliver",
+      "contributions": 1
+    },
+    {
+      "login": "ychek",
+      "contributions": 1
+    },
+    {
+      "login": "ForJing",
+      "contributions": 1
+    },
+    {
+      "login": "filipetedim",
+      "contributions": 1
+    },
+    {
+      "login": "hienvd",
+      "contributions": 1
+    },
+    {
+      "login": "krzysztof-grzybek",
+      "contributions": 1
+    },
+    {
+      "login": "imsobear",
+      "contributions": 1
+    },
+    {
+      "login": "othree",
+      "contributions": 1
+    },
+    {
+      "login": "snirad",
+      "contributions": 1
+    },
+    {
+      "login": "timjacobi",
+      "contributions": 1
+    },
+    {
+      "login": "tylim88",
+      "contributions": 1
+    },
+    {
+      "login": "bali182",
+      "contributions": 1
+    },
+    {
+      "login": "checkaayush",
+      "contributions": 1
+    },
+    {
+      "login": "agilatakishiyev",
+      "contributions": 1
+    },
+    {
+      "login": "alex-schmitt",
+      "contributions": 1
+    },
+    {
+      "login": "andirkh",
+      "contributions": 1
+    },
+    {
+      "login": "gabriel-augustus",
+      "contributions": 1
+    },
+    {
+      "login": "Asheboy",
+      "contributions": 1
+    },
+    {
+      "login": "behnammodi",
+      "contributions": 1
+    },
+    {
+      "login": "sbimochan",
+      "contributions": 1
+    },
+    {
+      "login": "BoryaMogila",
+      "contributions": 1
+    },
+    {
+      "login": "Chengings",
+      "contributions": 1
+    },
+    {
+      "login": "Endlessline",
+      "contributions": 1
+    },
+    {
+      "login": "mitogh",
+      "contributions": 1
+    },
+    {
+      "login": "scraggo",
+      "contributions": 1
+    },
+    {
+      "login": "posva",
+      "contributions": 1
+    },
+    {
+      "login": "esganzerla",
+      "contributions": 1
+    },
+    {
+      "login": "elliothimmelfarb",
+      "contributions": 1
+    },
+    {
+      "login": "travellingprog",
+      "contributions": 1
+    },
+    {
+      "login": "eugene-augier",
+      "contributions": 1
+    },
+    {
+      "login": "geekf",
+      "contributions": 1
+    },
+    {
+      "login": "gavbarosee",
+      "contributions": 1
+    },
+    {
+      "login": "greg-dev",
+      "contributions": 1
+    },
+    {
+      "login": "hamettio",
+      "contributions": 1
+    },
+    {
+      "login": "Haroenv",
+      "contributions": 1
+    },
+    {
+      "login": "kantuni",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T08:53:18.811437Z"
+}

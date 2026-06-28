@@ -1,0 +1,2131 @@
+{
+  "full_name": "react/create-react-app",
+  "owner": "react",
+  "name": "create-react-app",
+  "url": "https://github.com/react/create-react-app",
+  "description": "Set up a modern web app by running one command.",
+  "primary_language": "JavaScript",
+  "topics": [
+    "build-tools",
+    "react",
+    "zero-configuration"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 103316,
+  "forks": 26983,
+  "open_issues": 2409,
+  "created_at": "2016-07-17T14:55:11Z",
+  "pushed_at": "2025-02-15T01:32:11Z",
+  "updated_at": "2026-06-27T14:19:26Z",
+  "commits": [
+    {
+      "sha": "6254386531d263688ccfa542d0e628fbc0de0b28",
+      "author_login": "rickhanlonii",
+      "authored_at": "2025-02-15T01:18:18Z",
+      "message": "Publish"
+    },
+    {
+      "sha": "b961be37929c9dd340aff94cb92debf700a9aeba",
+      "author_login": "rickhanlonii",
+      "authored_at": "2025-02-14T19:02:07Z",
+      "message": "Add deprecation to website (#17008)"
+    },
+    {
+      "sha": "380066041106963c50f55869904f504822d396af",
+      "author_login": "rickhanlonii",
+      "authored_at": "2025-02-14T07:09:13Z",
+      "message": "Update deprecation link (#17015)"
+    },
+    {
+      "sha": "b532a58792ea79ba7b0e85c1cb42b2a36dafe276",
+      "author_login": "orta",
+      "authored_at": "2025-01-28T23:15:23Z",
+      "message": "Deprecate Create React App officially by changing the README, and adding a message on init (#17003)"
+    },
+    {
+      "sha": "fde66a29e3c220068a4d6bed996676a47d15cc6b",
+      "author_login": "rickhanlonii",
+      "authored_at": "2025-01-28T22:07:16Z",
+      "message": "Merge pull request #13738 from MatanBobi/chores/update-rtl-version-rtl-16"
+    },
+    {
+      "sha": "32652a5ad6bf688276e4c4bffbabda2318379eed",
+      "author_login": "rickhanlonii",
+      "authored_at": "2025-01-28T21:44:00Z",
+      "message": "skip svg component test"
+    },
+    {
+      "sha": "0dc2b2df00ceae62a4014e3f554da1bde9515b81",
+      "author_login": "rickhanlonii",
+      "authored_at": "2025-01-28T21:00:10Z",
+      "message": "Update tests"
+    },
+    {
+      "sha": "7510aa602c8fb9eec8785bca0a7497c2006b7fdb",
+      "author_login": "rickhanlonii",
+      "authored_at": "2025-01-28T04:03:09Z",
+      "message": "idk"
+    },
+    {
+      "sha": "a8b21a1b514abe925fed8dafae6ab1129cc58fe9",
+      "author_login": "rickhanlonii",
+      "authored_at": "2025-01-28T03:27:53Z",
+      "message": "update react-scripts react devDep"
+    },
+    {
+      "sha": "40936ad4579bd8689659170e34ecaa6cfd74854e",
+      "author_login": "rickhanlonii",
+      "authored_at": "2025-01-28T03:21:35Z",
+      "message": "try this instead"
+    },
+    {
+      "sha": "96f98e9d5a1a1d421f7258c362dedbd8b56c6533",
+      "author_login": "rickhanlonii",
+      "authored_at": "2025-01-28T03:16:02Z",
+      "message": "Add act"
+    },
+    {
+      "sha": "9bd1974523d317699ce790ef4f3bffe751598a89",
+      "author_login": "rickhanlonii",
+      "authored_at": "2025-01-28T02:56:34Z",
+      "message": "Fix e2e tests"
+    },
+    {
+      "sha": "413d2c7b1c168bc25a1d99dd24de09362c7bbbc6",
+      "author_login": "rickhanlonii",
+      "authored_at": "2025-01-28T02:32:31Z",
+      "message": "Fix tests"
+    },
+    {
+      "sha": "02caaa63c988172d7989fc1eb203b45e8c437145",
+      "author_login": "rickhanlonii",
+      "authored_at": "2025-01-28T02:32:18Z",
+      "message": "Update types from #13725"
+    },
+    {
+      "sha": "50d01564dd91ccb21ee83a7500dc1f35ff4b2b3d",
+      "author_login": "MatanBobi",
+      "authored_at": "2024-12-26T07:49:30Z",
+      "message": "chore: upgrade RTL version to avoid peer-deps mismatch"
+    },
+    {
+      "sha": "dd420a6d25d037decd7b81175626dfca817437ff",
+      "author_login": "eaviles",
+      "authored_at": "2024-08-27T17:09:10Z",
+      "message": "Merge pull request #13644 from Olexandr88/patch-1"
+    },
+    {
+      "sha": "736bffe070de10640d0fa5f94a049a3258120a93",
+      "author_login": "Olexandr88",
+      "authored_at": "2024-08-09T04:31:57Z",
+      "message": "Update running-tests.md"
+    },
+    {
+      "sha": "0a827f69ab0d2ee3871ba9b71350031d8a81b7ae",
+      "author_login": "zpao",
+      "authored_at": "2023-06-14T20:58:56Z",
+      "message": "Migrate from Azure Pipelines to GitHub Actions (#13222)"
+    },
+    {
+      "sha": "0f5e990b8a04f53861d64ff53751517bbf73d867",
+      "author_login": "eventualbuddha",
+      "authored_at": "2023-05-29T21:57:59Z",
+      "message": "fix(babel-preset-react-app): add missing dependency (#12364)"
+    },
+    {
+      "sha": "d960b9e38c062584ff6cfb1a70e1512509a966e7",
+      "author_login": "jackblackevo",
+      "authored_at": "2022-09-08T07:40:47Z",
+      "message": "docs: fix link of \"Building for Relative Paths\" (#12691)"
+    },
+    {
+      "sha": "f34d88e30c7d8be7181f728d1abc4fd8d5cd07d3",
+      "author_login": "matrush",
+      "authored_at": "2022-07-05T18:52:20Z",
+      "message": "Merge pull request #12558 from danielrentz/patch-1"
+    },
+    {
+      "sha": "c378572024967fee15d97da1b6fbfcd2894b4b66",
+      "author_login": "matrush",
+      "authored_at": "2022-07-05T18:49:51Z",
+      "message": "Merge pull request #12537 from pawelskowronek/patch-1"
+    },
+    {
+      "sha": "a45ee3b091b3a7c7151a98ebaf5ec460eda7d614",
+      "author_login": "matrush",
+      "authored_at": "2022-07-05T18:48:30Z",
+      "message": "Merge pull request #12531 from MoshiulRabbi/patch-1"
+    },
+    {
+      "sha": "bcff1928dac6f9d708613dff5eac36c2834bc139",
+      "author_login": "matrush",
+      "authored_at": "2022-07-05T18:48:07Z",
+      "message": "Merge pull request #12539 from liam-mulhall/patch-1"
+    },
+    {
+      "sha": "c2cbaaf006e9ba70888565ed33b4990985f5fc44",
+      "author_login": "matrush",
+      "authored_at": "2022-07-05T18:47:33Z",
+      "message": "Merge pull request #12557 from sdarnadeem/patch-2"
+    },
+    {
+      "sha": "2f891bbda3e777e049a89aa55797d29df76e222b",
+      "author_login": "matrush",
+      "authored_at": "2022-07-05T18:46:21Z",
+      "message": "Merge pull request #12563 from rvdende/patch-1"
+    },
+    {
+      "sha": "91b239515319e2562ed8f40e43dd958c1b4cc543",
+      "author_login": null,
+      "authored_at": "2022-07-03T10:14:29Z",
+      "message": "fix code splitting link"
+    },
+    {
+      "sha": "78d776873cc5609c22fd9311293413f3e638bf83",
+      "author_login": "danielrentz",
+      "authored_at": "2022-06-30T06:43:20Z",
+      "message": "VSCode debugger plugin deprecated"
+    },
+    {
+      "sha": "1603e5a90d9dd1d4a3864e2b261962147d5c7232",
+      "author_login": "sdarnadeem",
+      "authored_at": "2022-06-30T05:38:08Z",
+      "message": "fix broken link progressive web app"
+    },
+    {
+      "sha": "4eae1ae83ad117f6cd249837d3c66d38b147640a",
+      "author_login": null,
+      "authored_at": "2022-06-23T20:30:22Z",
+      "message": "docs: Add Link to Adding Routes Docs"
+    },
+    {
+      "sha": "a7212db504d7e06bdca4d6a8527b0f4488ce2682",
+      "author_login": "pawelskowronek",
+      "authored_at": "2022-06-23T06:47:37Z",
+      "message": "Add missing instruction if you are adding typescript"
+    },
+    {
+      "sha": "ee7ce83fc0554ed05701efa52bca3039be36541c",
+      "author_login": "MoshiulRabbi",
+      "authored_at": "2022-06-20T18:42:30Z",
+      "message": "update the heroku buildpack link"
+    },
+    {
+      "sha": "cee26589ff919e946030a5651a93ccba78a93293",
+      "author_login": "matrush",
+      "authored_at": "2022-06-17T17:38:19Z",
+      "message": "Merge pull request #12080 from adamalston/12079-fix-jest-links"
+    },
+    {
+      "sha": "f0855c3d6aa48cd9e205d3139984603aa0cd86e0",
+      "author_login": "matrush",
+      "authored_at": "2022-06-17T17:36:51Z",
+      "message": "Merge pull request #10501 from nvh95/patch-1"
+    },
+    {
+      "sha": "706aaa107bd9e39134a2ccd03ccb79fcefe69a74",
+      "author_login": "matrush",
+      "authored_at": "2022-06-17T17:33:46Z",
+      "message": "Merge pull request #11315 from jonniebigodes/chore_fix_storybook_instructions"
+    },
+    {
+      "sha": "c6b0140b78ec0b15aad5112829da1499473ceead",
+      "author_login": "matrush",
+      "authored_at": "2022-06-17T17:29:36Z",
+      "message": "Merge pull request #12197 from facebook/dependabot/npm_and_yarn/minimist-1.2.6"
+    },
+    {
+      "sha": "0e64dc92d4ebc9b43d568c9c25333a0d78bb83d8",
+      "author_login": "matrush",
+      "authored_at": "2022-06-17T17:27:37Z",
+      "message": "Merge pull request #10543 from imdkbj/patch-1"
+    },
+    {
+      "sha": "a3ef11db331a6ea7d0e7a0f3e5b7971f5239483a",
+      "author_login": "matrush",
+      "authored_at": "2022-06-17T17:27:23Z",
+      "message": "Merge branch 'main' into patch-1"
+    },
+    {
+      "sha": "236915aec792e37163190e6ff6208df3870f2e30",
+      "author_login": "matrush",
+      "authored_at": "2022-06-17T17:26:47Z",
+      "message": "Apply suggestions from code review"
+    },
+    {
+      "sha": "30806f747ac19ab904745da4c864faf9411789a1",
+      "author_login": "matrush",
+      "authored_at": "2022-06-17T17:25:19Z",
+      "message": "Merge pull request #10696 from bitcoinbrisbane/patch-1"
+    },
+    {
+      "sha": "1059fe352117709faff032f062babf605dd27b50",
+      "author_login": "matrush",
+      "authored_at": "2022-06-17T17:18:21Z",
+      "message": "Merge pull request #11837 from ddzz/fix-readme-links"
+    },
+    {
+      "sha": "3e425915dd633650596e37336e6fba3b351f5ff2",
+      "author_login": "matrush",
+      "authored_at": "2022-06-17T17:06:57Z",
+      "message": "Merge pull request #12242 from yamankatby/patch-1"
+    },
+    {
+      "sha": "810e1269bb40d8ff26aed3a4a50af94bfab8af33",
+      "author_login": "matrush",
+      "authored_at": "2022-06-17T17:05:23Z",
+      "message": "Merge pull request #12337 from teemezzy/patch-1"
+    },
+    {
+      "sha": "bc96d327b278bfdf9a43dc407cd86725e948d22d",
+      "author_login": "matrush",
+      "authored_at": "2022-06-17T17:02:23Z",
+      "message": "Merge pull request #12464 from JSLGeeganage/patch-1"
+    },
+    {
+      "sha": "b111faaebe1d0d09725ea1af4ae72a43c26abf10",
+      "author_login": "matrush",
+      "authored_at": "2022-06-17T16:56:11Z",
+      "message": "Merge pull request #12521 from leonid-omelchuk-jemmic/feature--update-VS-Code-debugger"
+    },
+    {
+      "sha": "d5fc243d1f5168e34eac8a159d6968892055cd0c",
+      "author_login": "leonid-omelchuk-jemmic",
+      "authored_at": "2022-06-17T08:00:39Z",
+      "message": "update a debugger for VS Code"
+    },
+    {
+      "sha": "5dd8139b9c091ba296537678fef6091764a9e933",
+      "author_login": "JSLGeeganage",
+      "authored_at": "2022-06-04T08:59:55Z",
+      "message": "Update making-a-progressive-web-app.md"
+    },
+    {
+      "sha": "c20ccecfa1cf130a47d37908dc54959c618ce8ea",
+      "author_login": "nvh95",
+      "authored_at": "2022-05-18T19:57:50Z",
+      "message": "fix: Reuse opening tab in Chrome Dev and Chrome Beta (#12412)"
+    },
+    {
+      "sha": "6f02847d7109ee8adf8d16cd0b61279d6b9c9b64",
+      "author_login": "teemezzy",
+      "authored_at": "2022-04-28T09:14:29Z",
+      "message": "Update getting-started.md"
+    },
+    {
+      "sha": "f99167c014a728ec856bda14f87181d90b050813",
+      "author_login": "lukekarrys",
+      "authored_at": "2022-04-13T20:38:38Z",
+      "message": "chore(lint): lint all files (#12288)"
+    },
+    {
+      "sha": "19fa58d527ae74f2b6baa0867463eea1d290f9a5",
+      "author_login": "iansu",
+      "authored_at": "2022-04-12T17:33:16Z",
+      "message": "Publish"
+    },
+    {
+      "sha": "6fb4f977b7522c6a1632ec9133af30f5df3afb09",
+      "author_login": "iansu",
+      "authored_at": "2022-04-12T17:29:16Z",
+      "message": "Prepare 5.0.1 release"
+    },
+    {
+      "sha": "9802941ff049a28da2682801bc182a29761b71f4",
+      "author_login": "apburnie",
+      "authored_at": "2022-04-11T21:35:17Z",
+      "message": "fix: webpack noise printed only if error or warning (#12245)"
+    },
+    {
+      "sha": "2eef1d0a1db2e84cdcd6e7ca941c85a48cc7cc65",
+      "author_login": "kyletsang",
+      "authored_at": "2022-04-08T22:04:14Z",
+      "message": "Update templates to use React 18 `createRoot` (#12220)"
+    },
+    {
+      "sha": "213b6a2050ece9e3a68c4fc46150866174aa4e0f",
+      "author_login": "MatanBobi",
+      "authored_at": "2022-04-08T20:54:13Z",
+      "message": "chore: upgrade rtl version to support react 18 (#12223)"
+    },
+    {
+      "sha": "a7a30f84e3ae15f62084ebcf58f9a949fd86b43d",
+      "author_login": "yamankatby",
+      "authored_at": "2022-04-04T13:17:00Z",
+      "message": "Update adding-a-router.md"
+    },
+    {
+      "sha": "67b48688081d8ee3562b8ac1bf6ae6d44112745a",
+      "author_login": "shortcuts",
+      "authored_at": "2022-03-24T19:56:42Z",
+      "message": "docs: update Algolia credentials (#12151)"
+    },
+    {
+      "sha": "552514bbf2fbea0d82fdb5bb2a63cc78734577e8",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2022-03-23T20:40:14Z",
+      "message": "Bump minimist from 1.2.5 to 1.2.6"
+    },
+    {
+      "sha": "efc3581e075ee049179029c982c5a10d0d2a3300",
+      "author_login": "iansu",
+      "authored_at": "2022-03-23T20:12:47Z",
+      "message": "Update lockfile"
+    },
+    {
+      "sha": "52d643170b8871b40eb72dbb9f781924dc2cb19c",
+      "author_login": "iansu",
+      "authored_at": "2022-03-23T20:09:37Z",
+      "message": "Warn when not using the latest version of create-react-app but do not exit (#11915)"
+    },
+    {
+      "sha": "fd8c5f7b1b1d19d10d24cc2f9fdfc110585dc030",
+      "author_login": "dmitryvinn",
+      "authored_at": "2022-03-02T18:52:51Z",
+      "message": "docs: add homepage banner in support of Ukraine (#12113)"
+    },
+    {
+      "sha": "e076dc5abfc4b01b21ba971ef1988349cab21871",
+      "author_login": "adamalston",
+      "authored_at": "2022-02-19T03:34:26Z",
+      "message": "docs: update jest links"
+    },
+    {
+      "sha": "428ddb683193e548043a4a7edac73d2857386a4c",
+      "author_login": "iansu",
+      "authored_at": "2022-01-27T16:38:24Z",
+      "message": "Ignore docs when publishing (#11985)"
+    },
+    {
+      "sha": "a422bf227cf5294a34d68696664e9568a152fd8f",
+      "author_login": "psiservices-justin-sullard",
+      "authored_at": "2022-01-12T21:47:50Z",
+      "message": "Ensure posix compliant joins for urls in middleware (#11640)"
+    },
+    {
+      "sha": "63ae6dd5b9b491c081a673a4a57131a86b259a73",
+      "author_login": "wisammechano",
+      "authored_at": "2022-01-12T21:47:06Z",
+      "message": "updated deprecated rules (#11622)"
+    },
+    {
+      "sha": "255822ff2d6199801733d7a66729c094f0430913",
+      "author_login": "fishmandev",
+      "authored_at": "2022-01-12T21:45:14Z",
+      "message": "Fix a typo in deployment.md (#11594)"
+    },
+    {
+      "sha": "d73c2f24053da5272d4286049e27adcd767c1c8a",
+      "author_login": "jafin",
+      "authored_at": "2022-01-12T21:44:30Z",
+      "message": "docs: Changelog 5.0.0 (#11805)"
+    },
+    {
+      "sha": "b2f9ee371d1c7f3d82b37990f4bcedb63bcd4115",
+      "author_login": "mubarakn",
+      "authored_at": "2022-01-12T21:43:18Z",
+      "message": "prevent both npm and yarn commands from being copied (#11757)"
+    },
+    {
+      "sha": "0c72a329a4e703de5e99d20290dde8f6ac179168",
+      "author_login": "iansu",
+      "authored_at": "2022-01-12T21:39:53Z",
+      "message": "Add docusaurus to workspaces, update lockfile"
+    },
+    {
+      "sha": "b79ef9c4638ff62c64973542d08e2a633d9bc2c5",
+      "author_login": "ddzz",
+      "authored_at": "2021-12-23T21:00:24Z",
+      "message": "Update links in README"
+    },
+    {
+      "sha": "9673858a3715287c40aef9e800c431c7d45c05a2",
+      "author_login": "iansu",
+      "authored_at": "2021-12-14T15:56:03Z",
+      "message": "Update CONTRIBUTING.md"
+    },
+    {
+      "sha": "221e511730ca51c036c6954a9d2ee7659ff860f9",
+      "author_login": "iansu",
+      "authored_at": "2021-12-14T15:53:54Z",
+      "message": "Publish"
+    },
+    {
+      "sha": "6a3315b73c19791cf485d3e53b7ff72a042014cb",
+      "author_login": "iansu",
+      "authored_at": "2021-12-14T06:09:24Z",
+      "message": "Update CONTRIBUTING.md"
+    },
+    {
+      "sha": "5614c87bfbaae0ce52ac15aedd2cd0f91ffd420d",
+      "author_login": "iansu",
+      "authored_at": "2021-12-14T05:47:34Z",
+      "message": "Add support for Tailwind (#11717)"
+    },
+    {
+      "sha": "657739fb15a39fc2bb608ff446c308406afe6388",
+      "author_login": "lukekarrys",
+      "authored_at": "2021-12-08T18:40:53Z",
+      "message": "chore(test): make all tests install with `npm ci` (#11723)"
+    },
+    {
+      "sha": "20edab4894b301f6b90dad0f90a2f82c52a7ac66",
+      "author_login": "jawadsh123",
+      "authored_at": "2021-12-03T01:14:45Z",
+      "message": "fix(webpackDevServer): disable overlay for warnings (#11413)"
+    },
+    {
+      "sha": "69321b0d55859db3058266437b90c43eb4f0dbb7",
+      "author_login": "lukekarrys",
+      "authored_at": "2021-12-02T23:58:56Z",
+      "message": "Remove cached lockfile (#11706)"
+    },
+    {
+      "sha": "3afbbc0ab922fb982bb275ccb3fe5beecdf5f889",
+      "author_login": "jd1048576",
+      "authored_at": "2021-12-02T22:33:19Z",
+      "message": "Update all dependencies (#11624)"
+    },
+    {
+      "sha": "f5467d5e77d51a3f23dd5fa70697dbab79832489",
+      "author_login": "MichaelDeBoey",
+      "authored_at": "2021-12-02T17:24:24Z",
+      "message": "feat(eslint-config-react-app): support ESLint 8.x (#11375)"
+    },
+    {
+      "sha": "e8319da3d8d4ebbda5f6a18f0a7db74751513734",
+      "author_login": "raix",
+      "authored_at": "2021-12-01T16:58:53Z",
+      "message": "[WIP] Fix integration test teardown / cleanup and missing yarn installation (#11686)"
+    },
+    {
+      "sha": "c7627ce96c4674f327081f101dd0e2771be4d045",
+      "author_login": "raix",
+      "authored_at": "2021-11-17T18:10:14Z",
+      "message": "Update webpack and dev server (#11646)"
+    },
+    {
+      "sha": "f85b06493c5169483ec3227036d7d2576c0e259c",
+      "author_login": "leo",
+      "authored_at": "2021-11-04T16:15:18Z",
+      "message": "The default port used by `serve` has changed (#11619)"
+    },
+    {
+      "sha": "544befeb536a89b0ff95792df70bb037b17f55b9",
+      "author_login": null,
+      "authored_at": "2021-11-01T22:05:42Z",
+      "message": "Update package.json (#11597)"
+    },
+    {
+      "sha": "9d0369b1fe3260e620b08effcf85f1edefc5d1ea",
+      "author_login": "mrmckeb",
+      "authored_at": "2021-10-13T18:12:09Z",
+      "message": "Fix ESLint Babel preset resolution (#11547)"
+    },
+    {
+      "sha": "d7b23c81f144533bfe87e8cb1a2981b164e3a15a",
+      "author_login": "jamesgeorge007",
+      "authored_at": "2021-10-12T08:29:58Z",
+      "message": "test(create-react-app): assert for exit code (#10973)"
+    },
+    {
+      "sha": "1465357b842eae16b2b52243d2e55db9a17f0425",
+      "author_login": "iansu",
+      "authored_at": "2021-10-04T18:36:15Z",
+      "message": "Prepare 5.0.0 alpha release"
+    },
+    {
+      "sha": "3880ba6cfd98d9f2843217fd9061e385274b452f",
+      "author_login": "mrmckeb",
+      "authored_at": "2021-10-01T01:30:33Z",
+      "message": "Remove dependency pinning (#11474)"
+    },
+    {
+      "sha": "8b9fbee65ef464b2fc624e476e4bb192addcb26b",
+      "author_login": "iansu",
+      "authored_at": "2021-09-29T22:50:53Z",
+      "message": "Update CODEOWNERS"
+    },
+    {
+      "sha": "cacf5909ead643e656b41ece33222e4aad8c3528",
+      "author_login": "shfshanyue",
+      "authored_at": "2021-09-29T17:31:36Z",
+      "message": "Bump template dependency version (#11415)"
+    },
+    {
+      "sha": "5cedfe4d6f19a5f07137ac7429f57dfe923d93b5",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2021-09-22T23:14:06Z",
+      "message": "Bump browserslist from 4.14.2 to 4.16.5 (#11476)"
+    },
+    {
+      "sha": "50ea5ad6977fcd05eb32aac71f4f56b9b02511f3",
+      "author_login": "hasanayan",
+      "authored_at": "2021-09-22T22:48:38Z",
+      "message": "allow CORS on webpack-dev-server (#11325)"
+    },
+    {
+      "sha": "63bba07d584a769cfaf7699e0aab92ed99c3c57e",
+      "author_login": "krreet",
+      "authored_at": "2021-09-22T22:47:16Z",
+      "message": "Upgrade jest and related packages from 26.6.0 to 27.1.0 (#11338)"
+    },
+    {
+      "sha": "960b21e89d368acc0cbbb672d6755269b65b57f8",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2021-09-22T17:37:46Z",
+      "message": "Bump immer from 8.0.4 to 9.0.6 (#11364)"
+    },
+    {
+      "sha": "134cd3c59cdac8db9383432519f5a612b4dcfb79",
+      "author_login": "merceyz",
+      "authored_at": "2021-09-22T17:36:18Z",
+      "message": "Resolve dependency issues in v5 alpha (#11294)"
+    },
+    {
+      "sha": "b45ae3c9caf10174d53ced1cad01a272d164f8de",
+      "author_login": "iansu",
+      "authored_at": "2021-09-02T21:24:33Z",
+      "message": "Update CONTRIBUTING.md"
+    },
+    {
+      "sha": "25f516f8de602187bea4e725b9d8fc1034d909a6",
+      "author_login": "iansu",
+      "authored_at": "2021-09-01T17:49:18Z",
+      "message": "Prepare 5.0.0 alpha release"
+    },
+    {
+      "sha": "04482a6c2c6639c19deb330c48e4fa5573a1654e",
+      "author_login": "lukekarrys",
+      "authored_at": "2021-09-01T17:42:14Z",
+      "message": "Use env var to detect yarn or npm as the package manager (#11322)"
+    },
+    {
+      "sha": "ece4dbf3a58168f07b8cad631aef569cd89d3c2f",
+      "author_login": "lukekarrys",
+      "authored_at": "2021-09-01T17:14:03Z",
+      "message": "Use npm v7 with workspaces for local development and testing (#11304)"
+    },
+    {
+      "sha": "08dc7ab0f520f680b678556edeb702a5791af20e",
+      "author_login": "raix",
+      "authored_at": "2021-08-19T13:35:19Z",
+      "message": "Merge pull request #11316 from hasanayan/main"
+    },
+    {
+      "sha": "3cca085f0e0717e1dc0ad849b1a8643bfa523eda",
+      "author_login": "hasanayan",
+      "authored_at": "2021-08-19T12:57:29Z",
+      "message": "Merge branch 'facebook:main' into main"
+    }
+  ],
+  "issues": [
+    {
+      "number": 17271,
+      "title": "AvigestTangata",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-20T04:02:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17269,
+      "title": "OS Command Injection in openBrowser.js",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-07T06:23:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17268,
+      "title": "chore(deps): Most deps are many major versions behind (jest 27→29, eslint 8→9, pretti",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-06T02:02:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17267,
+      "title": "chore(deps): 7 dependencies with safe minor/patch upgrades identified. Notable: husky",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-05T02:06:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17266,
+      "title": "chore(deps): 12 outdated deps found. Notable high-risk: puppeteer 12→21 (major jump, ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-04T02:06:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17265,
+      "title": "chore(deps): 12 outdated deps found. Most are safe minor/patch bumps; execa 5→9 has b",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-03T02:05:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17264,
+      "title": "chore(deps): 14 outdated deps found. Key safe upgrades: jest 27.4.3→27.5.1 (patch), e",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-02T02:03:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17262,
+      "title": "chore(deps): 5 safe upgrades identified: jest 27.4.3→27.5.1, eslint 8.3.0→8.57.1, ler",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-01T02:02:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17261,
+      "title": "Claude/erp phase 1 foundations 9mi e5",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-31T05:37:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17260,
+      "title": "chore(deps): 4 high-confidence safe upgrades (eslint, fs-extra, globby, web-vitals al",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-31T02:04:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17259,
+      "title": "chore(deps): 20 deps analyzed. Safe minor/patch upgrades: prettier → 2.8.8, meow → 9.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-30T02:04:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17258,
+      "title": "chore(deps): 19 outdated deps identified. Low-risk safe upgrades: eslint, fs-extra, g",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-29T02:04:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17257,
+      "title": "chore(deps): 6 deps with safe upgrades identified. Core packages like jest (27.4.3→27",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-28T02:06:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17256,
+      "title": "chore(deps): Core toolchain deps (eslint, prettier, jest) are outdated. ESLint 8.3→8.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-27T02:09:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17255,
+      "title": "chore(deps): 9 outdated deps identified. Safe minor/patch upgrades: @testing-library/",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-26T02:04:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17254,
+      "title": "chore(deps): 9 outdated deps found. Most are safe minor/patch bumps (jest, fs-extra, ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-25T02:05:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17253,
+      "title": "Test-keys",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-24T17:26:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17252,
+      "title": "chore(deps): 11 deps with safe upgrades identified. Most are within-current-major upd",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-24T02:04:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17251,
+      "title": "chore(deps): 3 packages have safe minor/patch upgrades: @testing-library/jest-dom 5.1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-23T02:02:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17250,
+      "title": "chore(deps): 6 conservative upgrades identified. Many deps here (husky v4, lerna v4, ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-22T02:07:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17249,
+      "title": "chore(deps): 23 deps analyzed. 18 can be safely updated within their current major ve",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-21T02:06:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17248,
+      "title": "MADHAN K",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-20T03:40:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17247,
+      "title": "chore(deps): 16 outdated deps found. Several are 3+ major versions behind: puppeteer ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-19T02:04:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17246,
+      "title": "Passport stamp — toured @react on GIT42",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-18T04:10:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17245,
+      "title": "chore(deps): 2 outdated deps identified (jest 27.4.3→27.5.1, lerna-changelog 2.2.0→3.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-18T02:09:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17244,
+      "title": "chore(deps): 7 outdated deps identified. High-confidence safe upgrades: eslint 8.3→8.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-17T02:03:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17243,
+      "title": "chore(deps): 11 outdated deps found. Highest priority safe upgrades: eslint (8.3→8.57",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-16T02:04:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17242,
+      "title": "chore(deps): 9 deps with safe updates. Key highlights: eslint 8.3→8.57 (many patch fi",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-15T02:06:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17240,
+      "title": "chore(deps): 16 dependencies identified as outdated. 8 safe minor/patch upgrades sugg",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-13T02:04:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17239,
+      "title": "chore(deps): 5 deps reviewed. jest→27.5.0 and eslint→8.57.0 are safe patch/minor upda",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-12T02:08:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17238,
+      "title": "chore(deps): 2 high-confidence safe upgrades: jest 27.4.3→27.5.1 (patch), globby 11.0",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-11T02:06:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17236,
+      "title": "chore(deps): 9 deps have safe within-major upgrades available: jest 27→29 (security+p",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-10T02:04:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17235,
+      "title": "chore(deps): 15 dependencies evaluated. Key safe upgrades: eslint 8.3→8.57 (patch), j",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-09T02:04:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17234,
+      "title": "chore(deps): 13 outdated deps identified. Priority: puppeteer (security, major jump),",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-08T17:21:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17233,
+      "title": "chore(deps): 14 potentially outdated deps. High-confidence safe upgrades: jest 27→29,",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-08T17:19:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17227,
+      "title": "chore: add .editorconfig for consistent code formatting",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-25T02:42:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17224,
+      "title": "Create santi-move",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-14T19:10:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17220,
+      "title": "Migrate CI to GitHub Actions and deprecate Create React App",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-30T00:24:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17219,
+      "title": "Testing",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-27T07:08:37Z",
+      "closed_at": "2026-03-27T07:09:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17218,
+      "title": "Ai voice",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-26T09:44:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17217,
+      "title": "Security vulnerabilities or End of Life report for Debug library",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-25T10:52:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17216,
+      "title": "[Bug] ERR_OSSL_EVP_UNSUPPORTED on Node 20 LTS and critical audit vulnerabilities",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-24T06:15:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17215,
+      "title": "Safusic",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-21T18:16:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17213,
+      "title": "Convert website to mobile app without coding?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-17T11:29:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17212,
+      "title": "Kimi",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-12T12:46:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17211,
+      "title": "Glm",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-12T12:45:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17210,
+      "title": "Seed",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-12T12:42:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17209,
+      "title": "Create useDarkMode.ts",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-12T12:35:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17208,
+      "title": "React-scripts 5 build fails on Netlify - \"validate is not a function\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-10T09:19:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17207,
+      "title": "redux",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-09T07:56:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17206,
+      "title": "tentgo este error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-06T03:37:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17205,
+      "title": "Fix DeprecationWarning: use fs.constants.F_OK instead of fs.F_OK",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-02T00:56:40Z",
+      "closed_at": "2026-03-02T15:27:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17204,
+      "title": "Update getting-started.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-25T22:08:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17203,
+      "title": "node -v npm -v",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-23T17:39:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17202,
+      "title": "voalk-app",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-17T15:37:11Z",
+      "closed_at": "2026-02-17T15:37:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17201,
+      "title": "Bootlpader",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-02-12T10:33:42Z",
+      "closed_at": "2026-02-12T10:34:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17200,
+      "title": "Adding Hostinger to deployment documentation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-02T14:38:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17199,
+      "title": "Pasa comment Facebook",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-31T03:28:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17198,
+      "title": "LITTLE KAFIS",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-29T12:26:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17197,
+      "title": "docs: README missing sections: Usage",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-28T00:03:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17196,
+      "title": "fix: upgrade workbox-webpack-plugin from v6 to v7",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-17T09:55:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17195,
+      "title": "fix: replace deprecated Babel plugin-proposal-* with plugin-transform-*",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-17T09:48:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17194,
+      "title": "fix: upgrade @svgr/webpack from v5.5.0 to v8.1.0",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-17T08:49:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17192,
+      "title": "Inefficient Regular Expression Complexity in react",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-12T14:05:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17191,
+      "title": "Docs: clarify Create React App project scope and status",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-10T14:03:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17190,
+      "title": "Docs: clarify Create React App project scope and current status",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-01-10T13:57:25Z",
+      "closed_at": "2026-01-10T14:03:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17188,
+      "title": "Syno54 Update making-a-progressive-web-app.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-03T09:42:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17185,
+      "title": "Create new-year-wishes",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-31T13:54:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17184,
+      "title": "Create Task Management Web App",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-12-28T01:46:30Z",
+      "closed_at": "2025-12-28T01:46:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17183,
+      "title": "postinstall command put in package.json",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-27T06:33:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17182,
+      "title": "Update React documentation links from reactjs.org to react.dev",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-23T19:29:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17181,
+      "title": "Personen",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-23T15:20:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17180,
+      "title": "ACTION NEEDED: Why don't trigger create-react-app to run create vite --template react",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-23T07:19:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17179,
+      "title": "started.md test mode",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-22T02:36:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17178,
+      "title": "A new app is out here is the script",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-14T05:38:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17177,
+      "title": "smart",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-12-10T04:40:57Z",
+      "closed_at": "2026-03-03T04:06:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17176,
+      "title": "fix vulnerability",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-12-08T06:46:34Z",
+      "closed_at": "2025-12-08T07:16:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17175,
+      "title": "Fix formatting in create.js for Babel presets",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-12-07T18:42:48Z",
+      "closed_at": "2025-12-07T18:43:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17172,
+      "title": "feat: add DISABLE_NO_UNUSED_VARS env variable to disable no-unused-va…",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-07T12:26:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17171,
+      "title": "My Early Days with React and CRA",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-21T08:51:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17170,
+      "title": "UpdaKids Drawing App",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-20T13:36:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17169,
+      "title": "concierge",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-18T16:37:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17168,
+      "title": "💡 Bounty Platform for Create React App",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-11-12T08:06:50Z",
+      "closed_at": "2025-11-13T12:42:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17167,
+      "title": "feat: Add environment variable validation for development mode",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-11-07T09:25:22Z",
+      "closed_at": "2026-02-09T10:10:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17166,
+      "title": "Hh",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-06T00:59:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17165,
+      "title": "BotWeve",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-03T13:04:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17164,
+      "title": "Feature/telegram clone app s9h",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-02T11:50:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17163,
+      "title": "I like create-react-app",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-01T01:38:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17162,
+      "title": "Convert getting-started.md to HTML structure",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-31T14:29:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17161,
+      "title": "michelt",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-28T15:11:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17160,
+      "title": "Revise post-processing CSS doc with MarketCar component",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-10-24T22:37:39Z",
+      "closed_at": "2025-10-24T22:38:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17159,
+      "title": "Update and rename docusaurus/docs/title-and-meta-tags.md to Iwacubusi…",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-22T02:35:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17158,
+      "title": "Update issue templates",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-15T22:03:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17157,
+      "title": "Button component not rendering correctly on mobile",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-15T21:55:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17155,
+      "title": "Webpack to dev",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-10-15T05:15:44Z",
+      "closed_at": "2025-10-15T05:16:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17154,
+      "title": "Change webpack to dev dep",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-10-15T03:03:02Z",
+      "closed_at": "2025-10-15T05:16:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17153,
+      "title": "Update getting-started.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-07T16:31:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17152,
+      "title": "Codespace ideal carnival g4xp9p9xrv473v5qq",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-01T14:09:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17151,
+      "title": "Create mOOm",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-01T13:50:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17150,
+      "title": "atm",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-09-30T15:34:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "gaearon",
+      "contributions": 655
+    },
+    {
+      "login": "Timer",
+      "contributions": 293
+    },
+    {
+      "login": "iansu",
+      "contributions": 153
+    },
+    {
+      "login": "ianschmitz",
+      "contributions": 85
+    },
+    {
+      "login": "selbekk",
+      "contributions": 77
+    },
+    {
+      "login": "fson",
+      "contributions": 50
+    },
+    {
+      "login": "mrmckeb",
+      "contributions": 28
+    },
+    {
+      "login": "vjeux",
+      "contributions": 28
+    },
+    {
+      "login": "viankakrisna",
+      "contributions": 23
+    },
+    {
+      "login": "matrush",
+      "contributions": 19
+    },
+    {
+      "login": "andriijas",
+      "contributions": 18
+    },
+    {
+      "login": "MichaelDeBoey",
+      "contributions": 18
+    },
+    {
+      "login": "mxstbr",
+      "contributions": 13
+    },
+    {
+      "login": "rickhanlonii",
+      "contributions": 13
+    },
+    {
+      "login": "jeffposnick",
+      "contributions": 11
+    },
+    {
+      "login": "tharakawj",
+      "contributions": 10
+    },
+    {
+      "login": "amyrlam",
+      "contributions": 10
+    },
+    {
+      "login": "heyimalex",
+      "contributions": 9
+    },
+    {
+      "login": "brunolemos",
+      "contributions": 9
+    },
+    {
+      "login": "EnoahNetzach",
+      "contributions": 8
+    },
+    {
+      "login": "arcanis",
+      "contributions": 8
+    },
+    {
+      "login": "raix",
+      "contributions": 8
+    },
+    {
+      "login": "xiaoxiangmoe",
+      "contributions": 7
+    },
+    {
+      "login": "ro-savage",
+      "contributions": 7
+    },
+    {
+      "login": "n3tr",
+      "contributions": 7
+    },
+    {
+      "login": "existentialism",
+      "contributions": 7
+    },
+    {
+      "login": "bondz",
+      "contributions": 6
+    },
+    {
+      "login": "jamesgeorge007",
+      "contributions": 6
+    },
+    {
+      "login": "GreenGremlin",
+      "contributions": 6
+    },
+    {
+      "login": "ryansully",
+      "contributions": 6
+    },
+    {
+      "login": "sidoshi",
+      "contributions": 6
+    },
+    {
+      "login": "tuchk4",
+      "contributions": 6
+    },
+    {
+      "login": "dependabot[bot]",
+      "contributions": 5
+    },
+    {
+      "login": "bradfordlemley",
+      "contributions": 5
+    },
+    {
+      "login": "SimenB",
+      "contributions": 5
+    },
+    {
+      "login": "petetnt",
+      "contributions": 5
+    },
+    {
+      "login": "mareksuscak",
+      "contributions": 5
+    },
+    {
+      "login": "lukekarrys",
+      "contributions": 5
+    },
+    {
+      "login": "lacker",
+      "contributions": 5
+    },
+    {
+      "login": "johann-sonntagbauer",
+      "contributions": 5
+    },
+    {
+      "login": "endiliey",
+      "contributions": 4
+    },
+    {
+      "login": "sophiebits",
+      "contributions": 4
+    },
+    {
+      "login": "eanplatter",
+      "contributions": 4
+    },
+    {
+      "login": "lixiaoyan",
+      "contributions": 4
+    },
+    {
+      "login": "tabrindle",
+      "contributions": 4
+    },
+    {
+      "login": "marionebl",
+      "contributions": 4
+    },
+    {
+      "login": "koistya",
+      "contributions": 4
+    },
+    {
+      "login": "keyz",
+      "contributions": 4
+    },
+    {
+      "login": "dceddia",
+      "contributions": 4
+    },
+    {
+      "login": "eliperelman",
+      "contributions": 4
+    },
+    {
+      "login": "gnapse",
+      "contributions": 4
+    },
+    {
+      "login": "ForbesLindesay",
+      "contributions": 4
+    },
+    {
+      "login": "GAumala",
+      "contributions": 4
+    },
+    {
+      "login": "hnordt",
+      "contributions": 4
+    },
+    {
+      "login": "xjlim",
+      "contributions": 4
+    },
+    {
+      "login": "insin",
+      "contributions": 4
+    },
+    {
+      "login": "lukyth",
+      "contributions": 4
+    },
+    {
+      "login": "nhajidin",
+      "contributions": 3
+    },
+    {
+      "login": "NShahri",
+      "contributions": 3
+    },
+    {
+      "login": "orta",
+      "contributions": 3
+    },
+    {
+      "login": "RDIL",
+      "contributions": 3
+    },
+    {
+      "login": "robertvansteen",
+      "contributions": 3
+    },
+    {
+      "login": "bebbi",
+      "contributions": 3
+    },
+    {
+      "login": "timothyis",
+      "contributions": 3
+    },
+    {
+      "login": "tobiasbueschel",
+      "contributions": 3
+    },
+    {
+      "login": "deftomat",
+      "contributions": 3
+    },
+    {
+      "login": "valscion",
+      "contributions": 3
+    },
+    {
+      "login": "pd4d10",
+      "contributions": 3
+    },
+    {
+      "login": "themre",
+      "contributions": 3
+    },
+    {
+      "login": "anilreddykatta",
+      "contributions": 3
+    },
+    {
+      "login": "bmuenzenmeyer",
+      "contributions": 3
+    },
+    {
+      "login": "FezVrasta",
+      "contributions": 3
+    },
+    {
+      "login": "dallonf",
+      "contributions": 3
+    },
+    {
+      "login": "alexzherdev",
+      "contributions": 3
+    },
+    {
+      "login": "coryhouse",
+      "contributions": 3
+    },
+    {
+      "login": "bvaughn",
+      "contributions": 3
+    },
+    {
+      "login": "davidgilbertson",
+      "contributions": 3
+    },
+    {
+      "login": "frontsideair",
+      "contributions": 3
+    },
+    {
+      "login": "hasanayan",
+      "contributions": 3
+    },
+    {
+      "login": "jasonLaster",
+      "contributions": 3
+    },
+    {
+      "login": "jihchi",
+      "contributions": 3
+    },
+    {
+      "login": "justingrant",
+      "contributions": 3
+    },
+    {
+      "login": "kripod",
+      "contributions": 3
+    },
+    {
+      "login": "dunglas",
+      "contributions": 3
+    },
+    {
+      "login": "leo",
+      "contributions": 3
+    },
+    {
+      "login": "levrik",
+      "contributions": 3
+    },
+    {
+      "login": "lpalmes",
+      "contributions": 3
+    },
+    {
+      "login": "marcofugaro",
+      "contributions": 3
+    },
+    {
+      "login": "NMinhNguyen",
+      "contributions": 2
+    },
+    {
+      "login": "MostafaNawara",
+      "contributions": 2
+    },
+    {
+      "login": "npverni",
+      "contributions": 2
+    },
+    {
+      "login": "nickserv",
+      "contributions": 2
+    },
+    {
+      "login": "nikolas",
+      "contributions": 2
+    },
+    {
+      "login": "OwenFlood",
+      "contributions": 2
+    },
+    {
+      "login": "pdillon",
+      "contributions": 2
+    },
+    {
+      "login": "zpao",
+      "contributions": 2
+    },
+    {
+      "login": "Hurtak",
+      "contributions": 2
+    },
+    {
+      "login": "piotr-cz",
+      "contributions": 2
+    },
+    {
+      "login": "pmmmwh",
+      "contributions": 2
+    },
+    {
+      "login": "matoilic",
+      "contributions": 2
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v5.0.1",
+      "published_at": "2022-04-12T17:35:30Z"
+    },
+    {
+      "tag": "v5.0.0",
+      "published_at": "2021-12-14T15:56:37Z"
+    },
+    {
+      "tag": "v4.0.3",
+      "published_at": "2021-02-22T18:24:09Z"
+    },
+    {
+      "tag": "v4.0.2",
+      "published_at": "2021-02-03T19:06:38Z"
+    },
+    {
+      "tag": "v4.0.1",
+      "published_at": "2020-11-23T05:42:58Z"
+    },
+    {
+      "tag": "v4.0.0",
+      "published_at": "2020-10-23T18:14:40Z"
+    },
+    {
+      "tag": "v3.4.4",
+      "published_at": "2020-10-20T22:00:54Z"
+    },
+    {
+      "tag": "v3.4.2",
+      "published_at": "2020-10-20T21:58:45Z"
+    },
+    {
+      "tag": "v3.4.3",
+      "published_at": "2020-10-20T22:00:21Z"
+    },
+    {
+      "tag": "v3.4.1",
+      "published_at": "2020-03-21T00:05:47Z"
+    },
+    {
+      "tag": "v3.4.0",
+      "published_at": "2020-02-14T18:46:25Z"
+    },
+    {
+      "tag": "v3.3.1",
+      "published_at": "2020-01-31T04:11:35Z"
+    },
+    {
+      "tag": "v3.3.0",
+      "published_at": "2019-12-05T00:11:54Z"
+    },
+    {
+      "tag": "v3.2.0",
+      "published_at": "2019-10-03T04:28:44Z"
+    },
+    {
+      "tag": "v3.1.2",
+      "published_at": "2019-09-19T17:49:06Z"
+    },
+    {
+      "tag": "v3.1.1",
+      "published_at": "2019-08-13T19:42:37Z"
+    },
+    {
+      "tag": "v3.1.0",
+      "published_at": "2019-08-09T22:44:34Z"
+    },
+    {
+      "tag": "v3.0.1",
+      "published_at": "2019-05-08T17:37:48Z"
+    },
+    {
+      "tag": "v3.0.0",
+      "published_at": "2019-04-22T18:53:43Z"
+    },
+    {
+      "tag": "v2.1.8",
+      "published_at": "2019-03-07T00:54:38Z"
+    },
+    {
+      "tag": "v2.1.7",
+      "published_at": "2019-03-07T00:41:29Z"
+    },
+    {
+      "tag": "v2.1.6",
+      "published_at": "2019-03-06T23:23:39Z"
+    },
+    {
+      "tag": "v2.1.5",
+      "published_at": "2019-02-11T16:40:44Z"
+    },
+    {
+      "tag": "v2.1.4",
+      "published_at": "2019-02-10T21:55:35Z"
+    },
+    {
+      "tag": "v2.1.3",
+      "published_at": "2019-01-04T19:08:33Z"
+    },
+    {
+      "tag": "v2.1.2",
+      "published_at": "2018-12-23T18:57:33Z"
+    },
+    {
+      "tag": "v2.1.1",
+      "published_at": "2018-11-01T03:31:16Z"
+    },
+    {
+      "tag": "v2.1.0",
+      "published_at": "2018-10-30T03:44:58Z"
+    },
+    {
+      "tag": "v2.0.5",
+      "published_at": "2018-10-14T19:08:08Z"
+    },
+    {
+      "tag": "v2.0.4",
+      "published_at": "2018-10-03T20:07:36Z"
+    },
+    {
+      "tag": "v2.0.3",
+      "published_at": "2018-10-02T00:58:18Z"
+    },
+    {
+      "tag": "v1.1.5",
+      "published_at": "2018-08-24T14:41:39Z"
+    },
+    {
+      "tag": "v1.1.4",
+      "published_at": "2018-04-04T00:33:57Z"
+    },
+    {
+      "tag": "v1.1.3",
+      "published_at": "2018-04-03T17:31:28Z"
+    },
+    {
+      "tag": "v1.1.2",
+      "published_at": "2018-04-02T23:49:23Z"
+    },
+    {
+      "tag": "v1.1.1",
+      "published_at": "2018-02-09T13:21:56Z"
+    },
+    {
+      "tag": "v1.1.0",
+      "published_at": "2018-01-15T00:57:23Z"
+    },
+    {
+      "tag": "v1.0.17",
+      "published_at": "2017-11-03T18:28:15Z"
+    },
+    {
+      "tag": "v1.0.16",
+      "published_at": "2017-10-31T10:42:13Z"
+    },
+    {
+      "tag": "v1.0.15",
+      "published_at": "2017-10-31T09:03:26Z"
+    },
+    {
+      "tag": "react-scripts@1.0.14",
+      "published_at": "2017-09-27T00:21:37Z"
+    },
+    {
+      "tag": "v1.0.13",
+      "published_at": "2017-09-02T21:00:14Z"
+    },
+    {
+      "tag": "v1.0.12",
+      "published_at": "2017-08-28T02:27:45Z"
+    },
+    {
+      "tag": "v1.0.11",
+      "published_at": "2017-08-09T03:42:44Z"
+    },
+    {
+      "tag": "v1.0.10",
+      "published_at": "2017-06-29T18:04:45Z"
+    },
+    {
+      "tag": "v1.0.9",
+      "published_at": "2017-06-29T12:12:17Z"
+    },
+    {
+      "tag": "v1.0.8",
+      "published_at": "2017-06-28T16:34:25Z"
+    },
+    {
+      "tag": "v1.0.7",
+      "published_at": "2017-05-27T11:44:34Z"
+    },
+    {
+      "tag": "v1.0.6",
+      "published_at": "2017-05-24T12:23:24Z"
+    },
+    {
+      "tag": "v1.0.5",
+      "published_at": "2017-05-22T16:09:44Z"
+    }
+  ],
+  "collected_at": "2026-06-28T08:53:14.788475Z"
+}

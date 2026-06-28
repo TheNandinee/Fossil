@@ -1,0 +1,1147 @@
+{
+  "full_name": "ByteByteGoHq/system-design-101",
+  "owner": "ByteByteGoHq",
+  "name": "system-design-101",
+  "url": "https://github.com/ByteByteGoHq/system-design-101",
+  "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+  "primary_language": null,
+  "topics": [
+    "aws",
+    "cloud-computing",
+    "coding-interviews",
+    "computer-science",
+    "interview-questions",
+    "software-architecture",
+    "software-development",
+    "software-engineering",
+    "system-design",
+    "system-design-interview"
+  ],
+  "license_spdx": "NOASSERTION",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 84038,
+  "forks": 9316,
+  "open_issues": 66,
+  "created_at": "2023-09-18T20:52:03Z",
+  "pushed_at": "2025-04-04T17:30:30Z",
+  "updated_at": "2026-06-28T08:45:32Z",
+  "commits": [
+    {
+      "sha": "b28380a4710c5ec9638ec037d4168e288f334cba",
+      "author_login": "nilbuild",
+      "authored_at": "2025-04-04T17:30:30Z",
+      "message": "Add contributors workflow and contribution guidelines (#107)"
+    },
+    {
+      "sha": "ee4b7305a2ccd6aa13688559d345e8a6647774de",
+      "author_login": "nilbuild",
+      "authored_at": "2025-04-01T05:16:44Z",
+      "message": "Adds ByteByteGo guides and links (#106)"
+    },
+    {
+      "sha": "44f1251199ae384a1d46c01479b58b1bed610cb8",
+      "author_login": "LombardiDaniel",
+      "authored_at": "2023-12-27T04:20:34Z",
+      "message": "Fixed wording on How to Improve API Performance?- Caching - Update README.md (#68)"
+    },
+    {
+      "sha": "a219053f42bbf3e158667f1c192bee8e385174b8",
+      "author_login": "LombardiDaniel",
+      "authored_at": "2023-12-27T04:20:06Z",
+      "message": "fixed order of diagram and text, text was pointing to diagram \"below\" when diagram was above (#69)"
+    },
+    {
+      "sha": "2d5e68b16930776b75dc5397724d44bcc5145287",
+      "author_login": "slam",
+      "authored_at": "2023-11-29T06:51:38Z",
+      "message": "Nix -> Nx (#64)"
+    },
+    {
+      "sha": "ab9e6ae3106398940974b119882872c11a6ed2cf",
+      "author_login": "slam",
+      "authored_at": "2023-11-07T03:27:57Z",
+      "message": "Clarify diagrams are not translated (#53)"
+    },
+    {
+      "sha": "694ae2db4cbfbb512ca8bdd2bf9ec1dbb3248ee5",
+      "author_login": "slam",
+      "authored_at": "2023-11-07T03:03:02Z",
+      "message": "Add TRANSLATIONS.md (#52)"
+    },
+    {
+      "sha": "aa2d2669cac43ac24a6d16efe3cf2a263ac40e86",
+      "author_login": "slam",
+      "authored_at": "2023-10-26T04:54:11Z",
+      "message": "Add CONTRIBUTING.md (#45)"
+    },
+    {
+      "sha": "e6cee803a59147c72050b54e1421654f5f9c3aad",
+      "author_login": "liweiyi88",
+      "authored_at": "2023-10-26T04:44:53Z",
+      "message": "Add GitHub trending badge in readme (#42)"
+    },
+    {
+      "sha": "c5e23c23f1379cba5d2334cbf422a7a29b315f4f",
+      "author_login": "isdaniel",
+      "authored_at": "2023-10-26T01:38:28Z",
+      "message": "fix stackoverflow.jpg image typo (#39)"
+    },
+    {
+      "sha": "75f473ec3dfd6b8a002fb63b654f067d6d9523a3",
+      "author_login": "fmajorcminor",
+      "authored_at": "2023-10-25T23:48:16Z",
+      "message": "Made grammatical changes (#10)"
+    },
+    {
+      "sha": "9734b761316dd8737711bb1158335644d492714f",
+      "author_login": "slam",
+      "authored_at": "2023-10-25T23:41:35Z",
+      "message": "Improve \"REST vs GraphQL\" (#44)"
+    },
+    {
+      "sha": "787a615c9a99fe395c7413bcef694054026ddedd",
+      "author_login": "dev-scripts",
+      "authored_at": "2023-10-22T22:59:44Z",
+      "message": "gRPC: move text above gRPC diagram (#25)"
+    },
+    {
+      "sha": "56956d352b356c6090ebd5d9212987e409d0cea4",
+      "author_login": "BolajiOlajide",
+      "authored_at": "2023-10-22T22:59:11Z",
+      "message": "typo: update reasons for reverse proxy (#22)"
+    },
+    {
+      "sha": "edcbc0443fa6df7559dbbeed1b722a575faf5f08",
+      "author_login": "haoger1012",
+      "authored_at": "2023-10-22T17:58:19Z",
+      "message": "fix indentation of How does Docker work? section (#26)"
+    },
+    {
+      "sha": "542d4c1c0d39b8e8f98888f9db8e3bcc83ba24d7",
+      "author_login": "umutbozdag",
+      "authored_at": "2023-10-22T17:56:50Z",
+      "message": "fix wrong naming in How does gRPC work? section (#28)"
+    },
+    {
+      "sha": "3daa7722d3a51947b0d2b90e2cbdf77f5f168dc2",
+      "author_login": "slam",
+      "authored_at": "2023-10-21T05:20:48Z",
+      "message": "Fix typo in how-to-learn-sql.jpg (#18)"
+    },
+    {
+      "sha": "a8ed39557c236ef6df03462f531bcdab5f3155f8",
+      "author_login": "lucasberti",
+      "authored_at": "2023-10-21T03:55:50Z",
+      "message": "Fixing text to match stackoverflow.jpg's orientation (#17)"
+    },
+    {
+      "sha": "101db2c1c35f5ab6263409c6797cf3c942d95851",
+      "author_login": "Stephanvs",
+      "authored_at": "2023-10-20T16:02:12Z",
+      "message": "link to w3c clarification for further reading (#11)"
+    },
+    {
+      "sha": "695ba488e139b31e91fc0c988138eed9ecd676a4",
+      "author_login": "regchiu",
+      "authored_at": "2023-10-18T17:17:09Z",
+      "message": "Add ordered lists number for 6 common load-balancing algorithms (#6)"
+    },
+    {
+      "sha": "377a1d1d1321f11a1b899304d134c02bd28cb688",
+      "author_login": "alastairp",
+      "authored_at": "2023-10-17T16:02:12Z",
+      "message": "Fixing spelling and typos in README (#4)"
+    },
+    {
+      "sha": "e30e906dc56ff6f43094b63823ed19eaf9a31d7f",
+      "author_login": "wingkwong",
+      "authored_at": "2023-10-17T16:01:39Z",
+      "message": "remove empty point in disney hotstar case study (#3)"
+    },
+    {
+      "sha": "d566af5e5a2faba60e89115480dbc4989e5a8621",
+      "author_login": "slam",
+      "authored_at": "2023-10-17T00:54:14Z",
+      "message": "Add dedicated LICENSE.md to make it easy to find (#2)"
+    },
+    {
+      "sha": "e9950b7702adc3d18a04821e676a3cf69069ca10",
+      "author_login": "ByteByteGoHq",
+      "authored_at": "2023-10-16T06:00:51Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "57625a285d9b5de07f0079da80d5b14c94c55de9",
+      "author_login": "ByteByteGoHq",
+      "authored_at": "2023-10-16T01:49:24Z",
+      "message": "first commit"
+    }
+  ],
+  "issues": [
+    {
+      "number": 137,
+      "title": "Data Lake and Data Mart definitions are swapped in key-data-terms.md",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-05T05:37:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 136,
+      "title": "Test Issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-03T03:37:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 135,
+      "title": "chore(deps): 1 outdated dev dep found. @types/node 22.13.14 → 22.14.0 (minor, safe). ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-31T02:04:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 134,
+      "title": "chore(deps): @types/node ^22.13.14 and tsx ^4.19.3 are both very recent (late 2024/ea",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-30T02:05:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 133,
+      "title": "chore(deps): 1 potentially outdated dep found. gray-matter is slightly behind on patc",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-28T02:06:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 132,
+      "title": "How does REST API work? (duplicate image)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-19T12:51:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 131,
+      "title": "How does REST API work? (duplicate image)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-05-14T16:05:52Z",
+      "closed_at": "2026-05-19T12:53:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 130,
+      "title": "chore(deps): All three devDependencies are at current or near-current versions. @type",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-10T02:04:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 129,
+      "title": "pulll request",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-26T23:50:31Z",
+      "closed_at": "2026-04-27T02:04:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 127,
+      "title": "Ggaggsgsg",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-07T16:47:43Z",
+      "closed_at": "2026-03-07T17:54:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 126,
+      "title": "Feature suggestion: FileShot.io as a zero-knowledge encryption case study",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-03T17:14:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 125,
+      "title": "Type in What is GraphQL image explaination",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-25T02:48:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 124,
+      "title": "Correct LSP definition in acronym guide",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-06T03:04:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 123,
+      "title": "Update posts",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-24T17:07:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 122,
+      "title": "Fix surname typo",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-22T13:23:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 121,
+      "title": "Fix: Sanitize special characters in README URLs",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-10T05:46:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 120,
+      "title": "Feature Request: Virtual Coin Messaging Functionality",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-12T13:29:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 119,
+      "title": "💡 Bounty Platform for System Design 101",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-11-12T07:56:24Z",
+      "closed_at": "2025-11-13T12:38:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 118,
+      "title": "Fix formatting inconsistencies in Netflix's Tech Stack guide",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-21T12:23:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 116,
+      "title": "Update what-is-cloud-native",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-08-18T18:19:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 115,
+      "title": "Update what-is-cloud-native",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-08-18T18:07:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 114,
+      "title": "Can we please make a community where people can discuss their doubts, put forward designs and get them evaluated.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-06T22:05:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 113,
+      "title": "Broken link",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-07-11T20:05:56Z",
+      "closed_at": "2025-07-31T10:59:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 112,
+      "title": "Wrong Image Load Balancer Realistic Use Cases",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-11T15:53:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 111,
+      "title": "Update how-does-rest-api-work.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-07-10T17:02:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 110,
+      "title": "Types of VPNs image is missing",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-09T16:26:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 109,
+      "title": "Typo correction do-you-know-all-the-components-of-a-url.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-05-09T15:51:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 108,
+      "title": "Create SECURITY.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-04-30T10:37:06Z",
+      "closed_at": "2026-01-26T10:10:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 107,
+      "title": "Add contributors workflow and contribution guidelines",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-04-04T09:51:57Z",
+      "closed_at": "2025-04-04T17:30:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 106,
+      "title": "Adds ByteByteGo guides and links",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-03-31T22:17:33Z",
+      "closed_at": "2025-04-01T05:16:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 105,
+      "title": "feat(i18n): Add Turkish translation for system-design-101",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-02-26T19:26:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 103,
+      "title": "System design",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-10-27T09:19:01Z",
+      "closed_at": "2025-04-14T22:33:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 102,
+      "title": "MODULAR MONOLITH ARCHITECTURE IS NOT INCLUDED",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-20T13:53:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 101,
+      "title": "Bug: correction needed for Frontend and Backend technology classification in Microservices section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-10-10T16:15:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 100,
+      "title": "How does gRPC work?: Doesnt explain the g",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-10T06:26:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 99,
+      "title": "REST API vs. GraphQL: Comparison is not fair",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-10T05:55:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 93,
+      "title": "Of course, 😆",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-02T19:04:57Z",
+      "closed_at": "2024-08-02T19:05:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 92,
+      "title": "fix: corrected the incorrect usage of tech stack in microservices section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-07-30T06:36:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 91,
+      "title": "fix: corrected the incorrect usage of tech stack in microservices section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-30T06:30:40Z",
+      "closed_at": "2024-07-30T06:32:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 90,
+      "title": "Bug: correction needed for Frontend and Backend technology classification in Microservices section",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-30T06:21:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 89,
+      "title": "External",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-25T05:07:23Z",
+      "closed_at": "2024-07-25T05:09:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "OAuth Grant Type recommendations",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-28T10:03:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "Sd3",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-05-10T16:39:49Z",
+      "closed_at": "2024-06-25T18:15:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "REST url is incorrect",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-06T23:07:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 82,
+      "title": "[FIX] Typo in HTTP status code message and Orders Endpoint",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-04-11T16:02:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 81,
+      "title": "Typo in HTTP status codes message ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-11T16:01:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "Translation: Chinese (Traditional)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-14T17:22:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "/",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-02-07T16:00:46Z",
+      "closed_at": "2024-06-25T18:15:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "Add Korean Translation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-01-31T13:48:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "Translation: Korean",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-27T14:03:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "Translation: Turkish",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-10T20:16:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "Penso che mi servirebbe molto,vorrei provare..",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-12-29T15:21:33Z",
+      "closed_at": "2024-06-25T18:15:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "System design ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-12-25T13:48:24Z",
+      "closed_at": "2024-06-25T18:16:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "Notification System Design",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-21T13:03:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "Add Brazilian Portuguese translation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-12-21T00:06:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "Add Brazilian Portuguese translation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-12-20T23:51:57Z",
+      "closed_at": "2023-12-21T00:28:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "fixed order of diagram and text, text was pointing to diagram \"below\" when diagram was above",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-12-19T19:59:36Z",
+      "closed_at": "2023-12-27T04:20:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "Fixed wording on How to Improve API Performance?- Caching - Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-12-19T18:49:04Z",
+      "closed_at": "2023-12-27T04:20:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "Translation: Brazilian Portuguese",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-18T18:42:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "System design ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-12-17T06:18:15Z",
+      "closed_at": "2023-12-17T06:18:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "Nix -> Nx",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-11-29T06:46:24Z",
+      "closed_at": "2023-11-29T06:51:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": "Add uzbek translation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-11-26T11:23:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "Add Chinese (Simplified) Translation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-11-22T19:49:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "Nix confused with NX",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-17T14:40:45Z",
+      "closed_at": "2023-11-29T06:51:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "Translation: Uzbek",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-15T20:23:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "Typo in figure",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-10T04:22:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "Can you tell us about the Registration Center?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-09T09:12:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "Add spanish translation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-11-08T20:37:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "Translation: Spanish (neutro)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-08T20:35:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-11-07T20:59:06Z",
+      "closed_at": "2023-11-07T21:37:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 54,
+      "title": "Translation: Chinese (Simplified)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-07T14:21:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "Clarify diagrams are not translated",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-11-07T03:10:21Z",
+      "closed_at": "2023-11-07T03:27:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 52,
+      "title": "Add TRANSLATIONS.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-11-07T02:40:31Z",
+      "closed_at": "2023-11-07T03:03:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 51,
+      "title": "Suggestion for Architectural patterns",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-04T07:31:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 50,
+      "title": "中文翻译",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-03T03:46:49Z",
+      "closed_at": "2023-11-10T01:01:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 49,
+      "title": "adding a new file",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-27T01:15:52Z",
+      "closed_at": "2023-10-27T01:20:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 48,
+      "title": "System Design",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-26T15:05:14Z",
+      "closed_at": "2023-10-26T16:40:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 47,
+      "title": "Bug: Inacurate WebSocket representation in the Communication Protocols diagram",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-26T13:04:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 46,
+      "title": "Regarding secure password storage",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-26T06:58:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 45,
+      "title": "Add CONTRIBUTING.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-26T04:53:18Z",
+      "closed_at": "2023-10-26T04:54:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 44,
+      "title": "Improve \"REST vs GraphQL\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-25T23:39:32Z",
+      "closed_at": "2023-10-25T23:41:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 43,
+      "title": "What software was used to create the diagram?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-25T15:23:57Z",
+      "closed_at": "2023-10-30T00:48:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 42,
+      "title": "Add GitHub trending badge in readme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-25T08:28:27Z",
+      "closed_at": "2023-10-26T04:44:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 41,
+      "title": "generate epub version to read in kindle or other ebook",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-24T20:10:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 40,
+      "title": "Is that possible shared original image in this repository?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-24T09:32:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 39,
+      "title": "fix stackoverflow.jpg image typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-24T09:29:17Z",
+      "closed_at": "2023-10-26T01:38:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "colab",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-23T19:26:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 37,
+      "title": "Typo in \"Monorepo vs Microrepo\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-23T18:43:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 36,
+      "title": "Update grammatical issues in README",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-23T16:48:06Z",
+      "closed_at": "2023-10-26T05:17:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 34,
+      "title": "git rebase diagram correct?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-23T10:43:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 33,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-23T05:02:26Z",
+      "closed_at": "2023-10-26T04:56:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "Diagram Images not getting loaded ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-23T03:48:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "Typo in CI/CD Pipeline Explained in Simple Terms graph",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-22T10:38:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "Fix: Replaced typos in some images",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-10-22T10:14:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "fix wrong naming in How does gRPC work? section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-22T09:19:49Z",
+      "closed_at": "2023-10-22T17:56:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "Typo in gRPC",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-22T05:17:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "fix indentation of How does Docker work? section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-22T04:22:06Z",
+      "closed_at": "2023-10-22T17:58:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "gRPC: move text above gRPC diagram",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-22T03:14:26Z",
+      "closed_at": "2023-10-22T22:59:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "Small typo",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-21T19:08:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "Enhancements: Back to ToC links + other minor adjustments",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-21T18:10:11Z",
+      "closed_at": "2024-03-02T17:06:08Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "slam",
+      "contributions": 7
+    },
+    {
+      "login": "LombardiDaniel",
+      "contributions": 2
+    },
+    {
+      "login": "nilbuild",
+      "contributions": 2
+    },
+    {
+      "login": "alastairp",
+      "contributions": 1
+    },
+    {
+      "login": "BolajiOlajide",
+      "contributions": 1
+    },
+    {
+      "login": "fmajorcminor",
+      "contributions": 1
+    },
+    {
+      "login": "dev-scripts",
+      "contributions": 1
+    },
+    {
+      "login": "haoger1012",
+      "contributions": 1
+    },
+    {
+      "login": "liweiyi88",
+      "contributions": 1
+    },
+    {
+      "login": "lucasberti",
+      "contributions": 1
+    },
+    {
+      "login": "regchiu",
+      "contributions": 1
+    },
+    {
+      "login": "Stephanvs",
+      "contributions": 1
+    },
+    {
+      "login": "umutbozdag",
+      "contributions": 1
+    },
+    {
+      "login": "wingkwong",
+      "contributions": 1
+    },
+    {
+      "login": "isdaniel",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T08:53:24.530048Z"
+}

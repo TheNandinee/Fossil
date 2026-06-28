@@ -1,0 +1,1933 @@
+{
+  "full_name": "jlevy/the-art-of-command-line",
+  "owner": "jlevy",
+  "name": "the-art-of-command-line",
+  "url": "https://github.com/jlevy/the-art-of-command-line",
+  "description": "Master the command line, in one page",
+  "primary_language": null,
+  "topics": [
+    "bash",
+    "documentation",
+    "linux",
+    "macos",
+    "unix",
+    "windows"
+  ],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 161443,
+  "forks": 14824,
+  "open_issues": 256,
+  "created_at": "2015-05-20T15:11:03Z",
+  "pushed_at": "2024-06-25T18:13:44Z",
+  "updated_at": "2026-06-28T05:49:56Z",
+  "commits": [
+    {
+      "sha": "6b50745d2e788add2e8f1ed29010e72659a9a074",
+      "author_login": "jlevy",
+      "authored_at": "2023-07-12T21:40:23Z",
+      "message": "Merge pull request #847 from BreakingLead/patch-1"
+    },
+    {
+      "sha": "19f6ac0e86616714a415a4b3c4e33cb0aa786905",
+      "author_login": "jlevy",
+      "authored_at": "2023-07-12T21:39:46Z",
+      "message": "Merge pull request #865 from darksoilder/typo"
+    },
+    {
+      "sha": "28dad36efcc63a76f1815fa441cae51ff7d91e51",
+      "author_login": "jlevy",
+      "authored_at": "2023-07-12T21:39:14Z",
+      "message": "Merge pull request #866 from m2nx/fix-mosh-url"
+    },
+    {
+      "sha": "98071e0a1874b1333056364c98489c8a31960dac",
+      "author_login": "jlevy",
+      "authored_at": "2023-07-12T21:38:30Z",
+      "message": "Merge pull request #867 from NX-Official/patch-1"
+    },
+    {
+      "sha": "cbc0ccf226349944cd5f2c264aaec4b22477c769",
+      "author_login": "nickxudotme",
+      "authored_at": "2023-07-04T07:00:50Z",
+      "message": "Typo: README_zh.md Github -> GitHub"
+    },
+    {
+      "sha": "cb3fd6150287828d28e81e4d6da4fcdc067f4bd2",
+      "author_login": null,
+      "authored_at": "2023-06-20T07:33:34Z",
+      "message": "update README.md fix mosh url"
+    },
+    {
+      "sha": "f5502541123cd707a8b29a7152d0ddb4369e1180",
+      "author_login": "darksoilder",
+      "authored_at": "2023-05-22T19:28:31Z",
+      "message": "corected a typo"
+    },
+    {
+      "sha": "80b5f907f6df57fd413d31296320f7bdc5e0f1f8",
+      "author_login": "jlevy",
+      "authored_at": "2023-03-07T19:34:50Z",
+      "message": "Merge pull request #824 from ericguirbal/fr"
+    },
+    {
+      "sha": "1c6439c6945597a118f32e4ffe89c32b9636ae44",
+      "author_login": null,
+      "authored_at": "2023-02-15T08:59:57Z",
+      "message": "Fix typo in README-zh.md"
+    },
+    {
+      "sha": "1e65c45b2adc1264baaf3caed85c0b55a39ffbab",
+      "author_login": "ericguirbal",
+      "authored_at": "2022-12-30T17:37:42Z",
+      "message": "fr: Synchronize the translation"
+    },
+    {
+      "sha": "4d9f5b90bc67b4f57c54ff1a1d05339a521dbf00",
+      "author_login": "jlevy",
+      "authored_at": "2022-12-29T22:43:54Z",
+      "message": "Merge pull request #810 from LLyaudet/patch-1"
+    },
+    {
+      "sha": "883ffc8be0b8076a3861b45fc3dfca8ecd502c59",
+      "author_login": "jlevy",
+      "authored_at": "2022-12-29T22:43:24Z",
+      "message": "Merge pull request #811 from LLyaudet/patch-2"
+    },
+    {
+      "sha": "9e22e3a39e39929936ffd89a168fe03f226a35c9",
+      "author_login": "jlevy",
+      "authored_at": "2022-12-29T22:42:58Z",
+      "message": "Merge pull request #816 from LLyaudet/patch-7"
+    },
+    {
+      "sha": "a08637668614898ad458920e7694cbbbae804d28",
+      "author_login": "jlevy",
+      "authored_at": "2022-12-29T22:41:26Z",
+      "message": "Merge pull request #641 from ericguirbal/fr"
+    },
+    {
+      "sha": "15332998d09e0dfeb39a70aa4225109835ea8ee2",
+      "author_login": "jlevy",
+      "authored_at": "2022-12-29T22:38:51Z",
+      "message": "Merge pull request #812 from LLyaudet/patch-3"
+    },
+    {
+      "sha": "261898291c6c918f181682ffa00b3ac4ec5e2f99",
+      "author_login": "jlevy",
+      "authored_at": "2022-12-29T22:38:03Z",
+      "message": "Merge pull request #815 from LLyaudet/patch-5"
+    },
+    {
+      "sha": "a1af6ae8615d59099f216c270d10907f58864197",
+      "author_login": "jlevy",
+      "authored_at": "2022-12-29T22:37:34Z",
+      "message": "Merge pull request #814 from LLyaudet/patch-6"
+    },
+    {
+      "sha": "8dde9839c7d9132c0ba669b9f1d314550c8ecf28",
+      "author_login": "LLyaudet",
+      "authored_at": "2022-12-02T16:21:34Z",
+      "message": "typos \"q'une\" -> \"qu'une\", \"avec taux\" -> \"avec un taux\""
+    },
+    {
+      "sha": "b1826a42a92b816a2671793e971e32aa937b205d",
+      "author_login": "LLyaudet",
+      "authored_at": "2022-12-02T16:09:49Z",
+      "message": "typo \"information général\" -> \"information générale\""
+    },
+    {
+      "sha": "dda67acb3b5e0e81f31de1f6b507063840acf6cc",
+      "author_login": "LLyaudet",
+      "authored_at": "2022-12-02T16:02:51Z",
+      "message": "3x \"debogage\" -> \"débogage\""
+    },
+    {
+      "sha": "3771c127fb56ed65d24ba96152fed149000a8834",
+      "author_login": "LLyaudet",
+      "authored_at": "2022-12-02T15:31:57Z",
+      "message": "typo \"de multiple fichiers\" -> \"de multiples fichiers\""
+    },
+    {
+      "sha": "edadec347b1badfd0f8f668035110d41765373db",
+      "author_login": "LLyaudet",
+      "authored_at": "2022-12-02T15:21:03Z",
+      "message": "typos \"intér\" -> \"inter\" (2xactive, 1xagir)"
+    },
+    {
+      "sha": "d46913c06ade98c19767744807ce00491ff3869c",
+      "author_login": "LLyaudet",
+      "authored_at": "2022-12-02T14:25:08Z",
+      "message": "correction typo \"aliases\" -> \"alias\""
+    },
+    {
+      "sha": "c25756000101bfe0bbad4a774fff12e27bd15b96",
+      "author_login": "LLyaudet",
+      "authored_at": "2022-12-02T13:38:31Z",
+      "message": "correction typo \"intéractive\" -> \"interactive\""
+    },
+    {
+      "sha": "38725ee7e457a15c98e3ca5a5fbb7a360d43ec13",
+      "author_login": "jlevy",
+      "authored_at": "2022-07-16T01:06:16Z",
+      "message": "Merge pull request #778 from yees7/master"
+    },
+    {
+      "sha": "9d0c515fc120330da436ee9eb07f2e2866b353a5",
+      "author_login": "yees7",
+      "authored_at": "2022-06-18T12:22:13Z",
+      "message": "Fix README-zh.md typo"
+    },
+    {
+      "sha": "f79f79cfe6c2195a5bd6e1926cbf6bffddbc8745",
+      "author_login": "jlevy",
+      "authored_at": "2020-09-07T19:20:29Z",
+      "message": "Merge pull request #682 from matt-kita/master"
+    },
+    {
+      "sha": "4d3d93d219f4e53e8dd40512ddecdf0dc8e4f1a6",
+      "author_login": "jlevy",
+      "authored_at": "2020-08-17T00:29:30Z",
+      "message": "Merge pull request #649 from anttesoriero/patch-1"
+    },
+    {
+      "sha": "e8a50fa1bdaae05797291b5b9bc4b415c843e5ea",
+      "author_login": "jlevy",
+      "authored_at": "2020-08-17T00:26:56Z",
+      "message": "Fix typo."
+    },
+    {
+      "sha": "3e70d1c9a181d8c96555f6ea18ad53bcbb9a5794",
+      "author_login": "jlevy",
+      "authored_at": "2020-08-17T00:25:40Z",
+      "message": "Small update to note at top."
+    },
+    {
+      "sha": "725fddb2fc0fa8b49362e676e6c7d71dfb9b8b75",
+      "author_login": "matt-kita",
+      "authored_at": "2020-03-25T16:15:19Z",
+      "message": "complete, most up-to-date translation into Polish language"
+    },
+    {
+      "sha": "f6339398dc6113cb3b065b0e707ea844ae38f7e8",
+      "author_login": "anttesoriero",
+      "authored_at": "2019-10-30T20:20:38Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f119f46b0f3d4d2237e2562e30d9b65bb2e5b535",
+      "author_login": "ericguirbal",
+      "authored_at": "2019-07-31T14:35:13Z",
+      "message": "fr: Synchronize the translation"
+    },
+    {
+      "sha": "84482aa24dd6c3af62a2f64977e6cd22d918684f",
+      "author_login": "jlevy",
+      "authored_at": "2019-05-27T22:27:37Z",
+      "message": "One-liner to show colored, normalized JSON diffs."
+    },
+    {
+      "sha": "3d8afef22ed748be5cae1eb652e81fdab71ab927",
+      "author_login": "jlevy",
+      "authored_at": "2019-05-23T17:14:40Z",
+      "message": "Note about soliciting an author."
+    },
+    {
+      "sha": "2e5608865fcbecb055dd6febf89d3c9614d7e5c7",
+      "author_login": "jlevy",
+      "authored_at": "2019-03-17T03:55:47Z",
+      "message": "Merge pull request #580 from reiscigit/master"
+    },
+    {
+      "sha": "435a1f6644164d1fc89933226d48177cc86e9608",
+      "author_login": "reiscigit",
+      "authored_at": "2018-10-19T16:03:40Z",
+      "message": "zh-Hant: Update iconv and uconv example"
+    },
+    {
+      "sha": "03e57f04379b68b95f5e74edff47e868b20a02b6",
+      "author_login": "jlevy",
+      "authored_at": "2018-10-10T23:32:08Z",
+      "message": "Merge pull request #579 from randombenj/feature/add-cheat-sheet"
+    },
+    {
+      "sha": "cec920ca5b3bba546c08aab79c03760c7ee262a8",
+      "author_login": "jlevy",
+      "authored_at": "2018-10-10T23:31:41Z",
+      "message": "Adjust formatting on cheat.sh"
+    },
+    {
+      "sha": "6f12627e92d68cd89f9bf4b5f12392ac491f8948",
+      "author_login": "randombenj",
+      "authored_at": "2018-10-10T06:26:45Z",
+      "message": "Add cheat sheet to commands"
+    },
+    {
+      "sha": "c5e55f981ffe9d1ae6357d6b1a6f930d181b737a",
+      "author_login": "jlevy",
+      "authored_at": "2018-10-03T21:29:19Z",
+      "message": "Merge pull request #574 from wyattscarpenter/patch-1"
+    },
+    {
+      "sha": "2bcfcaa455abaff7886771508a66b778e6566c04",
+      "author_login": "wyattscarpenter",
+      "authored_at": "2018-09-15T03:31:42Z",
+      "message": "copy-editing around mention of pipefail"
+    },
+    {
+      "sha": "35daaa4e1bdf0110f11edc72aa6cf4e934c4b705",
+      "author_login": "jlevy",
+      "authored_at": "2018-08-19T01:07:58Z",
+      "message": "Merge pull request #573 from jlevy/update-authors"
+    },
+    {
+      "sha": "70d292f3bea67f462e35cc78686bd060978f5994",
+      "author_login": "jlevy",
+      "authored_at": "2018-08-19T00:59:48Z",
+      "message": "Group maintainers/translators/contributors."
+    },
+    {
+      "sha": "399af122b9322baa9f9e19b8ce3290b1a5d9de55",
+      "author_login": "jlevy",
+      "authored_at": "2018-08-19T00:48:53Z",
+      "message": "Update authors."
+    },
+    {
+      "sha": "e7241594c3ce39656fbbd6825179a3573facd185",
+      "author_login": "jlevy",
+      "authored_at": "2018-08-19T00:35:51Z",
+      "message": "Merge pull request #568 from koh7/master"
+    },
+    {
+      "sha": "bc3f954351523285b698310ac19771fa0c9b19dc",
+      "author_login": "jlevy",
+      "authored_at": "2018-08-19T00:35:10Z",
+      "message": "Merge pull request #572 from tangchengcheng/master"
+    },
+    {
+      "sha": "a319616fa5be113da45c8301a52d85770eca042b",
+      "author_login": "jlevy",
+      "authored_at": "2018-08-19T00:34:21Z",
+      "message": "Merge pull request #571 from ericguirbal/fr"
+    },
+    {
+      "sha": "c89afb81169def5aa0c6724e02e6016dfbc6054f",
+      "author_login": "tangchengcheng",
+      "authored_at": "2018-08-14T05:32:07Z",
+      "message": "minor language edit"
+    },
+    {
+      "sha": "14c19600f0a368eafa6d1bb618e91b3f308b38ee",
+      "author_login": "ericguirbal",
+      "authored_at": "2018-08-06T15:57:43Z",
+      "message": "fr: Synchronize the translation"
+    },
+    {
+      "sha": "5ebfe9118f423ee3357c34d9d2879d8fa74546f2",
+      "author_login": "jlevy",
+      "authored_at": "2018-08-05T07:02:43Z",
+      "message": "Add useful pandoc example"
+    },
+    {
+      "sha": "a393ebeaea63af0c58c3da3ae8934a9676b2783d",
+      "author_login": "jlevy",
+      "authored_at": "2018-08-05T06:59:21Z",
+      "message": "Merge pull request #567 from gayu-mike/patch-1"
+    },
+    {
+      "sha": "bcd4c080c3348ec2e644c88f3e3ee052554a9992",
+      "author_login": "jlevy",
+      "authored_at": "2018-08-05T06:55:42Z",
+      "message": "Merge pull request #561 from nglee/ko"
+    },
+    {
+      "sha": "3842e25e2412ad414abb292be44cbec985ff231b",
+      "author_login": "CoffeeTakada",
+      "authored_at": "2018-08-05T06:10:05Z",
+      "message": "fix typo"
+    },
+    {
+      "sha": "2d25e58a2257be40bbadca99f8aaa92a07cd39dd",
+      "author_login": "CoffeeTakada",
+      "authored_at": "2018-07-21T00:30:34Z",
+      "message": "update README-ja.md"
+    },
+    {
+      "sha": "592576949bd046933715adeefb6b06cfef444717",
+      "author_login": "zxymike93",
+      "authored_at": "2018-07-18T01:59:55Z",
+      "message": "Update `apt-get` to `apt`"
+    },
+    {
+      "sha": "54dfd78b037e3182cc939061758176e1f4baa812",
+      "author_login": "jlevy",
+      "authored_at": "2018-06-15T05:57:41Z",
+      "message": "Merge pull request #563 from petk/patch-sl"
+    },
+    {
+      "sha": "8a560b5dc9f7b84ad8b9dfd0b45f73be9ab9cb4c",
+      "author_login": "petk",
+      "authored_at": "2018-06-13T10:25:30Z",
+      "message": "sl: Update Slovenian translation"
+    },
+    {
+      "sha": "911db8df68534d192554b9e72dd47c6d21230042",
+      "author_login": "nglee",
+      "authored_at": "2018-05-19T18:51:23Z",
+      "message": "ko: Update Meta and Basics section"
+    },
+    {
+      "sha": "8ee5bfd70595516f362024b3e4172062d8327b96",
+      "author_login": "jlevy",
+      "authored_at": "2018-04-15T23:47:08Z",
+      "message": "Merge pull request #557 from AlexanderBodin/patch-1"
+    },
+    {
+      "sha": "56d6a094a2efaadb10fe89f89608ef687a2024d1",
+      "author_login": "AlexanderBodin",
+      "authored_at": "2018-04-14T15:08:51Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "836d3929ab1c392d87150ccc38070abae41b5a0f",
+      "author_login": "jlevy",
+      "authored_at": "2018-04-07T20:25:51Z",
+      "message": "Merge pull request #554 from dspinellis/progress-monitor"
+    },
+    {
+      "sha": "2abdf9d808d2214173acd808e3754ffa2caf9749",
+      "author_login": "jlevy",
+      "authored_at": "2018-04-07T20:24:55Z",
+      "message": "Add pv link as well."
+    },
+    {
+      "sha": "b81ac31ba172653d78c6f2bd738b97ab342fc80d",
+      "author_login": "jlevy",
+      "authored_at": "2018-04-07T20:21:59Z",
+      "message": "Merge pull request #550 from dflamand/here-document"
+    },
+    {
+      "sha": "1178af6816be1574d567e4287df8eeae16edb0c2",
+      "author_login": "jlevy",
+      "authored_at": "2018-04-07T20:21:21Z",
+      "message": "Shorten language on heredocs."
+    },
+    {
+      "sha": "8cfae524f68093fe229049ce2e84766ca4210e29",
+      "author_login": "jlevy",
+      "authored_at": "2018-04-07T20:10:14Z",
+      "message": "Merge pull request #552 from dspinellis/macOS"
+    },
+    {
+      "sha": "452327870b27350d45ad23bdb048992f9e34360f",
+      "author_login": "jlevy",
+      "authored_at": "2018-04-07T20:09:31Z",
+      "message": "Fix link"
+    },
+    {
+      "sha": "3a7f1548643e81c66edbe9ec661b48aa55a4aed8",
+      "author_login": "jlevy",
+      "authored_at": "2018-04-07T20:08:47Z",
+      "message": "Fix link"
+    },
+    {
+      "sha": "5347322b32e8cf3ae12a26ddddc867c2d058f0d5",
+      "author_login": "jlevy",
+      "authored_at": "2018-04-07T20:07:43Z",
+      "message": "Merge pull request #551 from anna-d/master"
+    },
+    {
+      "sha": "499d59ad30a3ae1cf86fcbf431fdc6b8ec8e29fc",
+      "author_login": "anna-d",
+      "authored_at": "2018-04-03T23:30:39Z",
+      "message": "el: Update translation"
+    },
+    {
+      "sha": "89402366a60de5a542bf8f7abc339b28a34687b3",
+      "author_login": "dspinellis",
+      "authored_at": "2018-04-03T07:44:10Z",
+      "message": "Add pmonitor link and correct tools' description"
+    },
+    {
+      "sha": "b4f7a83ce6d9aef7af61fa1caff78b1bf70dd65e",
+      "author_login": "dspinellis",
+      "authored_at": "2018-04-03T06:56:13Z",
+      "message": "Rename OS X into the current macOS name"
+    },
+    {
+      "sha": "715783493839e17e0c94f178f52917fac0ff67f8",
+      "author_login": "anna-d",
+      "authored_at": "2018-04-03T00:38:05Z",
+      "message": "el: Update translation"
+    },
+    {
+      "sha": "01cb49ff905e4f33f0b251c06df4b15da3a722c6",
+      "author_login": "dflamand",
+      "authored_at": "2018-04-01T05:30:06Z",
+      "message": "Expand on \"here document\""
+    },
+    {
+      "sha": "666c7fee189dd81d6da07de4c1754e1f6252a9bc",
+      "author_login": "jlevy",
+      "authored_at": "2018-03-25T16:37:03Z",
+      "message": "Update CONTRIBUTING.md"
+    },
+    {
+      "sha": "4bea369ba1b65b7099def4cbbd49a9cd7ac89c97",
+      "author_login": "jlevy",
+      "authored_at": "2018-03-19T17:37:05Z",
+      "message": "Merge pull request #498 from hpanago/patch-1"
+    },
+    {
+      "sha": "fffd56d236cf764be5cfe725f3d65b2d23b5591c",
+      "author_login": "jlevy",
+      "authored_at": "2018-03-19T17:35:52Z",
+      "message": "Rewrite editor section."
+    },
+    {
+      "sha": "38bda5c08f4c3fbb7353c2e668abe7b3303cc07f",
+      "author_login": "jlevy",
+      "authored_at": "2018-03-14T01:40:17Z",
+      "message": "Merge pull request #543 from jlevy/jlevy-patch-1"
+    },
+    {
+      "sha": "ddb79dba36fa10959c47809d7fa683c394d1ed8c",
+      "author_login": "jlevy",
+      "authored_at": "2018-03-05T19:54:46Z",
+      "message": "Merge pull request #546 from jlevy/jlevy-patch-2"
+    },
+    {
+      "sha": "910efd23dd78cbf1b182fd9ad5073c1eee3065da",
+      "author_login": "jlevy",
+      "authored_at": "2018-03-05T19:53:25Z",
+      "message": "Add ISO8601 date command."
+    },
+    {
+      "sha": "1777450d8239f2eb335197bba4ec17e930066b8c",
+      "author_login": "jlevy",
+      "authored_at": "2018-02-24T00:28:09Z",
+      "message": "Another couple uconv examples I find useful."
+    },
+    {
+      "sha": "405d4fa6653560c3f9795a029b1ddca68888d566",
+      "author_login": "jlevy",
+      "authored_at": "2018-01-10T03:53:51Z",
+      "message": "Merge pull request #539 from 0xmohit/brace-expansion"
+    },
+    {
+      "sha": "08824c0e9e5374bec9c385cd8f321305589c8497",
+      "author_login": "jlevy",
+      "authored_at": "2018-01-10T03:53:26Z",
+      "message": "Split out bullet."
+    },
+    {
+      "sha": "2e7bdfd6787612742bdbaf65945b1c5ea8ebd81b",
+      "author_login": "jlevy",
+      "authored_at": "2018-01-10T03:50:55Z",
+      "message": "Merge pull request #540 from 0xmohit/process-substitution"
+    },
+    {
+      "sha": "6fae9cf3514ee86cd736d98043a22be1ecb3bfb5",
+      "author_login": "0xmohit",
+      "authored_at": "2018-01-08T03:30:34Z",
+      "message": "Mention that `<(...)` refers to process substitution."
+    },
+    {
+      "sha": "915a880d9cc3a8e98c028bdf84b13a2a6c350752",
+      "author_login": "0xmohit",
+      "authored_at": "2018-01-08T03:26:49Z",
+      "message": "Mention that brace expansion is performed before any other expansion"
+    },
+    {
+      "sha": "a7c4d571bfd45ca00d4344ea39ce5acdddd8efca",
+      "author_login": "jlevy",
+      "authored_at": "2018-01-04T18:38:37Z",
+      "message": "Merge pull request #538 from petk/patch-win"
+    },
+    {
+      "sha": "3f6cdcbaa68967c05f9ee1d2646db47bda0fcdab",
+      "author_login": "petk",
+      "authored_at": "2018-01-03T22:29:20Z",
+      "message": "WSL now allows running Linux and Windows programs"
+    },
+    {
+      "sha": "00082dc6babf49c2d7c5ba5fb845bd7c238bc8d2",
+      "author_login": "petk",
+      "authored_at": "2018-01-01T19:59:39Z",
+      "message": "Rename WSL"
+    },
+    {
+      "sha": "9fdd56bff83457ee32754994649bc61ac61e11e1",
+      "author_login": "jlevy",
+      "authored_at": "2017-12-31T06:08:04Z",
+      "message": "Merge pull request #535 from youngwookim/fixtypo1"
+    },
+    {
+      "sha": "72c71cd2b50bed84f0ff9669c65a51edb71e7ec9",
+      "author_login": "jlevy",
+      "authored_at": "2017-11-28T22:00:14Z",
+      "message": "Make taocl() more robust"
+    },
+    {
+      "sha": "30b38e917059f3beb67f68fd28503fdcfd6866c4",
+      "author_login": "youngwookim",
+      "authored_at": "2017-11-22T03:44:55Z",
+      "message": "Fix a typo and spacing words in Korean translation"
+    },
+    {
+      "sha": "3868fc2291adb0aecfebbb4ab528403737b0753b",
+      "author_login": "jlevy",
+      "authored_at": "2017-11-22T00:41:42Z",
+      "message": "Merge pull request #530 from snowme34/update-translation"
+    },
+    {
+      "sha": "b9ca98b24c76ef34585eb7af4ba5887bb18c0a58",
+      "author_login": "jlevy",
+      "authored_at": "2017-11-22T00:41:05Z",
+      "message": "Merge pull request #527 from petk/patch-sl"
+    },
+    {
+      "sha": "04a11648c2b503f624319ef418a396c71d084761",
+      "author_login": "jlevy",
+      "authored_at": "2017-11-22T00:40:44Z",
+      "message": "Merge pull request #532 from ericguirbal/fr"
+    },
+    {
+      "sha": "b7cabed0931e172d199bd310524de7c160f2a4fb",
+      "author_login": "jlevy",
+      "authored_at": "2017-11-22T00:40:17Z",
+      "message": "Merge pull request #534 from jondot/patch-1"
+    },
+    {
+      "sha": "0c269ad88b1133d80cc9928d42dc88d109571615",
+      "author_login": "jondot",
+      "authored_at": "2017-11-21T07:28:43Z",
+      "message": "Fix wrong ripgrep link"
+    },
+    {
+      "sha": "29f0cbcb48fed8001d8c928e640d0897766277c7",
+      "author_login": "snowme34",
+      "authored_at": "2017-11-19T19:55:54Z",
+      "message": "zh: Update translation"
+    },
+    {
+      "sha": "6f6e1a13cf43e8c8564827e9bea65b40671d750e",
+      "author_login": "jlevy",
+      "authored_at": "2017-11-11T23:23:04Z",
+      "message": "Merge pull request #524 from ChristopherBiscardi/jiq"
+    },
+    {
+      "sha": "07979a6b536f133bde206888372b2c920b007b28",
+      "author_login": "jlevy",
+      "authored_at": "2017-11-11T23:22:41Z",
+      "message": "Mention both jid qnd jiq."
+    }
+  ],
+  "issues": [
+    {
+      "number": 951,
+      "title": "projects ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-19T11:35:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 949,
+      "title": "remove dead link #HSFDPMUW",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-07T17:43:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 938,
+      "title": "Add AGENTS.md to prevent screenshot function usage",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-23T17:08:47Z",
+      "closed_at": "2026-03-23T18:21:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 935,
+      "title": "- Update sandbox deps (vite had a vulnerability).",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-17T08:54:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 934,
+      "title": "55555",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-09T08:17:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 933,
+      "title": "**Issue:** Playwriter Extension Slow Attachment and Frequent Disconnects",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-08T11:19:36Z",
+      "closed_at": "2026-03-17T02:49:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 932,
+      "title": "best way to fix this right now would be to tell in AGENTS.md to not use the function that does the screenshot",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-08T11:18:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 931,
+      "title": "Basic Computer Science ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-07T17:46:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 930,
+      "title": "Update Explainshell link to use HTTPS",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-06T07:34:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 928,
+      "title": "MacOS Section Update",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-07T00:07:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 927,
+      "title": "km: Add Khmer translation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-11T00:18:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 926,
+      "title": "Fix formatting inconsistency in lsmod entry",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-25T17:44:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 925,
+      "title": "uk: Improve grammar. Minor fixes.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-06T07:10:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 923,
+      "title": "Add Roman Urdu translation of Art of Command Line",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-09-28T05:57:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 922,
+      "title": "Filipino Translation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-11T05:35:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 920,
+      "title": "HandBrakeのアイコン",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-07T01:35:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 919,
+      "title": "Student",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-19T22:05:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 918,
+      "title": "[Draft] New Issue: Additional Information Needed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-12T14:10:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 917,
+      "title": "tip for using sudo !! to repeat previous command with sudo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-06-10T18:59:52Z",
+      "closed_at": "2025-08-24T16:42:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 916,
+      "title": "hack",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-05-04T14:32:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 915,
+      "title": "JjUpdate authors-info.yml",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-04-22T23:21:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 914,
+      "title": "My branch",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-04-18T15:01:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 913,
+      "title": "pt: Translated some comments in the one-liners section.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-03-24T15:12:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 912,
+      "title": "Create SECURITY.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-01-06T12:19:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 911,
+      "title": "Frankie",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-30T12:08:07Z",
+      "closed_at": "2024-11-30T12:08:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 910,
+      "title": "Create Knrd",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-10-29T19:18:08Z",
+      "closed_at": "2025-01-23T18:54:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 909,
+      "title": "update README-es.md fix typos and add info",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-10-22T18:05:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 908,
+      "title": "ENDUSER",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-16T06:57:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 906,
+      "title": "Update READme",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-10-10T19:33:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 903,
+      "title": "Fix translation errors in README-fr.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-10-01T15:03:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 902,
+      "title": "HSJ-linx",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-15T06:38:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 901,
+      "title": "Art of cml",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-19T17:33:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 900,
+      "title": "Command line ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-15T01:11:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 898,
+      "title": "The art of command kine",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-04T17:41:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 896,
+      "title": "Qasimali ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-06-30T21:32:01Z",
+      "closed_at": "2024-06-30T21:32:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 895,
+      "title": "Rename authors-info.yml to authors-info.yml",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-06-25T18:13:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 894,
+      "title": "اختصارات commands ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-06T19:29:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 893,
+      "title": "اختصارات ال commands",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-05T09:22:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 892,
+      "title": "website ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-01T01:44:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 891,
+      "title": "Initial commit",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-05-22T18:01:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 890,
+      "title": "Command Line ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-13T18:57:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 889,
+      "title": "Cmd",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-12T03:42:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 888,
+      "title": "No need of mouse ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-04T04:28:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 887,
+      "title": "Commands ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-27T14:47:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 886,
+      "title": "bn: added bengali translation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-04-09T17:02:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 885,
+      "title": "Bengali translation and maintainer",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-06T16:13:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 883,
+      "title": "git commit",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-03-30T15:22:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 882,
+      "title": "Typo: fix Github to GitHub",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-03-17T08:44:01Z",
+      "closed_at": "2024-09-01T07:20:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 881,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-03-13T22:50:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 880,
+      "title": "Update README-zh.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-03-13T22:47:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 879,
+      "title": "improval of Japanese translation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-27T15:06:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 878,
+      "title": "Fixed markdown syntax errors in README-zh.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-25T03:31:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 877,
+      "title": "package main\n\nimport (\n        \"github.com/acorn-io/cmd\"\n        \"github.com/gptscript-ai/gptscript/pkg/cli\"\n)\n\nfunc main() {\n        cmd.Main(cli.New())\n}",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-19T02:00:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 875,
+      "title": "zh: sync with the English version line by line",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-12-24T07:25:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 874,
+      "title": "Enhanced: Refined the Chinese translation for improved clarity and native fluency",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-12-23T21:33:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 873,
+      "title": "Cli",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-20T12:57:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 872,
+      "title": "letter fix README-es.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-10-27T14:39:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 871,
+      "title": "Update README-it.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-07-18T10:01:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 870,
+      "title": "Update README-ja.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-07-16T16:50:48Z",
+      "closed_at": "2025-08-21T01:16:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 869,
+      "title": "Urdu translation and maintainer",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-16T12:04:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 868,
+      "title": "zh: Fixing a redirect error in README-zh.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-07-13T12:04:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 867,
+      "title": "Typo: README_zh.md Github -> GitHub",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-07-04T07:01:06Z",
+      "closed_at": "2023-07-12T21:38:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 866,
+      "title": "update README.md fix mosh url",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-06-20T07:37:43Z",
+      "closed_at": "2023-07-12T21:39:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 865,
+      "title": "corected a typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-05-22T19:29:51Z",
+      "closed_at": "2023-07-12T21:39:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 864,
+      "title": "tr: Add Turkish translation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-05-22T04:08:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 863,
+      "title": "Specified the functionality of disown command to keep background tasks running",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-05-17T11:28:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 861,
+      "title": "well",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-05-07T10:28:44Z",
+      "closed_at": "2023-05-07T10:29:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 858,
+      "title": "Neg'enrg",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-01T17:52:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 855,
+      "title": "mac os app",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-22T07:51:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 854,
+      "title": "Art",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-18T00:11:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 853,
+      "title": "Repo Modification",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-04-02T20:38:20Z",
+      "closed_at": "2023-04-03T20:21:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 852,
+      "title": "Translation to Vietnamese",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-22T02:53:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 851,
+      "title": "Update Korean translation to 4d9f5b90",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-03-06T01:23:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 850,
+      "title": "Osync.lan@192.168.1.183/Works",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-04T13:45:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 849,
+      "title": "Create Mith’s",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-02-26T12:53:11Z",
+      "closed_at": "2023-02-26T12:53:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 848,
+      "title": "Basic commande line bash",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-23T16:55:20Z",
+      "closed_at": "2023-02-23T16:55:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 847,
+      "title": "Fix typo in README-zh.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-02-15T09:00:06Z",
+      "closed_at": "2023-07-12T21:40:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 845,
+      "title": "Suggest using the keybindings of your favourite editor",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-02-08T13:10:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 843,
+      "title": "Rename OS X to the current macOS name",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-02-05T01:07:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 842,
+      "title": "Create Revv6",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-02-03T18:28:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 841,
+      "title": "fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-02-02T05:19:37Z",
+      "closed_at": "2023-03-01T13:08:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 840,
+      "title": "Команды для командной строки",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-01T14:16:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 839,
+      "title": "incorrect claim: Bash is powerful and always available",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-30T08:06:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 837,
+      "title": "bg: Add bulgarian translation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-29T18:25:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 836,
+      "title": "Annvi",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-28T19:44:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 835,
+      "title": "Feature branch",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-28T19:34:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 834,
+      "title": "trying my first pull request",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-28T19:31:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 833,
+      "title": "More macOS commands: caffeinate, textutil, mdfind, etc.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-27T18:50:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 832,
+      "title": "Fix some simplified Chinese characters in README-zh-Hant.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-27T11:47:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 831,
+      "title": "Syntax highlight enhancement",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-27T11:38:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 827,
+      "title": "Updated readme.md file",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-16T18:59:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 826,
+      "title": "Correct a small spelling error in the note (French)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-16T18:46:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 825,
+      "title": "Command line",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-01-15T15:16:38Z",
+      "closed_at": "2023-01-27T18:49:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 824,
+      "title": "fr: Synchronize the translation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-12-30T17:41:09Z",
+      "closed_at": "2023-03-07T19:34:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 823,
+      "title": "나ㅣ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-12-30T12:49:12Z",
+      "closed_at": "2023-01-27T18:49:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 816,
+      "title": "typos \"q'une\" -> \"qu'une\", \"avec taux\" -> \"avec un taux\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-12-02T16:21:48Z",
+      "closed_at": "2022-12-29T22:42:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 815,
+      "title": "typo \"information général\" -> \"information générale\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-12-02T16:10:01Z",
+      "closed_at": "2022-12-29T22:38:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 814,
+      "title": "3x \"debogage\" -> \"débogage\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-12-02T16:02:57Z",
+      "closed_at": "2022-12-29T22:37:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 813,
+      "title": "typo \"recommencer zéro\" -> \"recommencer de zéro\"",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-02T15:51:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 812,
+      "title": "typo \"de multiple fichiers\" -> \"de multiples fichiers\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-12-02T15:32:03Z",
+      "closed_at": "2022-12-29T22:38:52Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "jlevy",
+      "contributions": 484
+    },
+    {
+      "login": "petk",
+      "contributions": 54
+    },
+    {
+      "login": "Psycho7",
+      "contributions": 46
+    },
+    {
+      "login": "stepan0904",
+      "contributions": 38
+    },
+    {
+      "login": "ericguirbal",
+      "contributions": 33
+    },
+    {
+      "login": "olegberman",
+      "contributions": 27
+    },
+    {
+      "login": "niltonvasques",
+      "contributions": 25
+    },
+    {
+      "login": "anna-d",
+      "contributions": 25
+    },
+    {
+      "login": "Ungsik-Yun",
+      "contributions": 23
+    },
+    {
+      "login": "dspinellis",
+      "contributions": 15
+    },
+    {
+      "login": "lsrom",
+      "contributions": 14
+    },
+    {
+      "login": "xuchunyang",
+      "contributions": 13
+    },
+    {
+      "login": "spmbt",
+      "contributions": 13
+    },
+    {
+      "login": "ClumsyLee",
+      "contributions": 12
+    },
+    {
+      "login": "S1SYPHOS",
+      "contributions": 12
+    },
+    {
+      "login": "mihaimaruseac",
+      "contributions": 11
+    },
+    {
+      "login": "Lakshmipathi",
+      "contributions": 10
+    },
+    {
+      "login": "dmytro",
+      "contributions": 9
+    },
+    {
+      "login": "fernandoalmeida",
+      "contributions": 8
+    },
+    {
+      "login": "mudongliang",
+      "contributions": 8
+    },
+    {
+      "login": "mkwardakov",
+      "contributions": 8
+    },
+    {
+      "login": "gernd",
+      "contributions": 7
+    },
+    {
+      "login": "LLyaudet",
+      "contributions": 7
+    },
+    {
+      "login": "timacs",
+      "contributions": 5
+    },
+    {
+      "login": "aaossa",
+      "contributions": 5
+    },
+    {
+      "login": "uggla",
+      "contributions": 5
+    },
+    {
+      "login": "mark-i-m",
+      "contributions": 5
+    },
+    {
+      "login": "BishopWolf",
+      "contributions": 5
+    },
+    {
+      "login": "0xCD",
+      "contributions": 4
+    },
+    {
+      "login": "Snowcat8436",
+      "contributions": 4
+    },
+    {
+      "login": "timothyqiu",
+      "contributions": 4
+    },
+    {
+      "login": "w169q169",
+      "contributions": 3
+    },
+    {
+      "login": "mitogh",
+      "contributions": 3
+    },
+    {
+      "login": "grossws",
+      "contributions": 3
+    },
+    {
+      "login": "aneasystone",
+      "contributions": 3
+    },
+    {
+      "login": "Naereen",
+      "contributions": 3
+    },
+    {
+      "login": "374632897",
+      "contributions": 3
+    },
+    {
+      "login": "hpanago",
+      "contributions": 3
+    },
+    {
+      "login": "23Pstars",
+      "contributions": 3
+    },
+    {
+      "login": "snowme34",
+      "contributions": 2
+    },
+    {
+      "login": "yasuhiroki",
+      "contributions": 2
+    },
+    {
+      "login": "CoffeeTakada",
+      "contributions": 2
+    },
+    {
+      "login": "kevingo",
+      "contributions": 2
+    },
+    {
+      "login": "kesu",
+      "contributions": 2
+    },
+    {
+      "login": "doublemarket",
+      "contributions": 2
+    },
+    {
+      "login": "delucks",
+      "contributions": 2
+    },
+    {
+      "login": "zackp30",
+      "contributions": 2
+    },
+    {
+      "login": "vcvpaiva",
+      "contributions": 2
+    },
+    {
+      "login": "timotei",
+      "contributions": 2
+    },
+    {
+      "login": "0xmohit",
+      "contributions": 2
+    },
+    {
+      "login": "l3xx",
+      "contributions": 2
+    },
+    {
+      "login": "jalanb",
+      "contributions": 2
+    },
+    {
+      "login": "zelark",
+      "contributions": 2
+    },
+    {
+      "login": "andreas-hofmann",
+      "contributions": 2
+    },
+    {
+      "login": "anna-4",
+      "contributions": 2
+    },
+    {
+      "login": "Armour",
+      "contributions": 2
+    },
+    {
+      "login": "CodinCat",
+      "contributions": 2
+    },
+    {
+      "login": "daveloyall",
+      "contributions": 2
+    },
+    {
+      "login": "wyf88",
+      "contributions": 2
+    },
+    {
+      "login": "idvoretskyi",
+      "contributions": 2
+    },
+    {
+      "login": "jwilk",
+      "contributions": 2
+    },
+    {
+      "login": "shukitchan",
+      "contributions": 2
+    },
+    {
+      "login": "michaelbarlow7",
+      "contributions": 2
+    },
+    {
+      "login": "hunkim",
+      "contributions": 1
+    },
+    {
+      "login": "m-takagi",
+      "contributions": 1
+    },
+    {
+      "login": "mintisan",
+      "contributions": 1
+    },
+    {
+      "login": "gitter-badger",
+      "contributions": 1
+    },
+    {
+      "login": "fbukevin",
+      "contributions": 1
+    },
+    {
+      "login": "EaterOA",
+      "contributions": 1
+    },
+    {
+      "login": "kalbasit",
+      "contributions": 1
+    },
+    {
+      "login": "zxymike93",
+      "contributions": 1
+    },
+    {
+      "login": "zxdvd",
+      "contributions": 1
+    },
+    {
+      "login": "fnzv",
+      "contributions": 1
+    },
+    {
+      "login": "yssmcl",
+      "contributions": 1
+    },
+    {
+      "login": "soham-pythian",
+      "contributions": 1
+    },
+    {
+      "login": "simar7",
+      "contributions": 1
+    },
+    {
+      "login": "marocchino",
+      "contributions": 1
+    },
+    {
+      "login": "isvforall",
+      "contributions": 1
+    },
+    {
+      "login": "SemenMartynov",
+      "contributions": 1
+    },
+    {
+      "login": "sakshamsharma",
+      "contributions": 1
+    },
+    {
+      "login": "rpdelaney",
+      "contributions": 1
+    },
+    {
+      "login": "picasso250",
+      "contributions": 1
+    },
+    {
+      "login": "RasmusWL",
+      "contributions": 1
+    },
+    {
+      "login": "pravdomil",
+      "contributions": 1
+    },
+    {
+      "login": "l13t",
+      "contributions": 1
+    },
+    {
+      "login": "yees7",
+      "contributions": 1
+    },
+    {
+      "login": "wyattscarpenter",
+      "contributions": 1
+    },
+    {
+      "login": "vitzli",
+      "contributions": 1
+    },
+    {
+      "login": "taxusyew",
+      "contributions": 1
+    },
+    {
+      "login": "rileyjshaw",
+      "contributions": 1
+    },
+    {
+      "login": "reiscigit",
+      "contributions": 1
+    },
+    {
+      "login": "rahulkavale",
+      "contributions": 1
+    },
+    {
+      "login": "p12se",
+      "contributions": 1
+    },
+    {
+      "login": "osmero",
+      "contributions": 1
+    },
+    {
+      "login": "miuc",
+      "contributions": 1
+    },
+    {
+      "login": "matt-kita",
+      "contributions": 1
+    },
+    {
+      "login": "lcmtwn",
+      "contributions": 1
+    },
+    {
+      "login": "kumon",
+      "contributions": 1
+    },
+    {
+      "login": "kastian",
+      "contributions": 1
+    },
+    {
+      "login": "Kargakis",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T08:53:08.852043Z"
+}

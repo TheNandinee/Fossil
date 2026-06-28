@@ -1,0 +1,1195 @@
+{
+  "full_name": "deepseek-ai/DeepSeek-R1",
+  "owner": "deepseek-ai",
+  "name": "DeepSeek-R1",
+  "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+  "description": null,
+  "primary_language": null,
+  "topics": [],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 91981,
+  "forks": 11721,
+  "open_issues": 48,
+  "created_at": "2025-01-20T11:57:28Z",
+  "pushed_at": "2025-06-27T08:35:54Z",
+  "updated_at": "2026-06-28T08:17:41Z",
+  "commits": [
+    {
+      "sha": "0cf78561f1d51c84a21b2190626b21116d5c68bb",
+      "author_login": "GeeeekExplorer",
+      "authored_at": "2025-04-09T05:36:23Z",
+      "message": "Merge pull request #129 from peti562/patch-2"
+    },
+    {
+      "sha": "4a6d53cac8613d777a0c8803cf31744585035f76",
+      "author_login": "GeeeekExplorer",
+      "authored_at": "2025-04-09T05:34:09Z",
+      "message": "Merge pull request #189 from eladb/patch-1"
+    },
+    {
+      "sha": "f1e82facf130731b3add06c5a5979d3da399abd7",
+      "author_login": "GeeeekExplorer",
+      "authored_at": "2025-04-09T05:32:25Z",
+      "message": "Merge pull request #100 from aBurmeseDev/main"
+    },
+    {
+      "sha": "95aaec702f4bf183e18da90545e26c094cedcf6d",
+      "author_login": "DeepSeekDDM",
+      "authored_at": "2025-02-24T03:49:25Z",
+      "message": "Delete CITATION.cff"
+    },
+    {
+      "sha": "fecf26ff976ad56961a48c70030a31486cd7cc6e",
+      "author_login": "DeepSeekDDM",
+      "authored_at": "2025-02-24T03:41:47Z",
+      "message": "Update CITATION.cff"
+    },
+    {
+      "sha": "aa3361954037d6a28d463b0d297d3cdd4f5de44b",
+      "author_login": "DeepSeekDDM",
+      "authored_at": "2025-02-24T03:26:41Z",
+      "message": "Update bib info"
+    },
+    {
+      "sha": "45b89c6cb13cf6b01da05ef9a7379f13f8d3baf2",
+      "author_login": "mowentian",
+      "authored_at": "2025-02-18T15:02:26Z",
+      "message": "Merge pull request #450 from Konano/patch-1"
+    },
+    {
+      "sha": "abb3ab9f2e2d4456701a1a52d0ffc20f2ebb84b5",
+      "author_login": "Konano",
+      "authored_at": "2025-02-18T14:18:40Z",
+      "message": "remove a empty line in citation"
+    },
+    {
+      "sha": "3f906d9724e3825c41891a03d5138edf14af20f0",
+      "author_login": "Konano",
+      "authored_at": "2025-02-18T14:12:05Z",
+      "message": "add CITATION.cff"
+    },
+    {
+      "sha": "406dcebdd6a4d40e2902451f593c01056bccdfed",
+      "author_login": "mowentian",
+      "authored_at": "2025-02-18T10:04:19Z",
+      "message": "Merge pull request #337 from Konano/chore-readme"
+    },
+    {
+      "sha": "280f485e419021e3725044cf7861ea6b6c918cd1",
+      "author_login": "mowentian",
+      "authored_at": "2025-02-18T10:04:09Z",
+      "message": "Merge pull request #447 from User670/patch-1"
+    },
+    {
+      "sha": "bb3329378f660587e159efe8bf4b69665f087e60",
+      "author_login": "Konano",
+      "authored_at": "2025-02-18T09:44:40Z",
+      "message": "Merge branch 'main' into chore-readme"
+    },
+    {
+      "sha": "14a53eccedb96d296eb0d230900d5d5725a7bfc2",
+      "author_login": "User670",
+      "authored_at": "2025-02-18T08:24:16Z",
+      "message": "fix typo in readme"
+    },
+    {
+      "sha": "a92eec0ffb071288687c8969ac2130ce5f8eb971",
+      "author_login": "Konano",
+      "authored_at": "2025-02-14T04:14:10Z",
+      "message": "chore: update README.md to improve layout and image attributes"
+    },
+    {
+      "sha": "ef99616100ea27f730458f52da46d4d64d9612c4",
+      "author_login": "DeepSeekPH",
+      "authored_at": "2025-02-14T03:19:33Z",
+      "message": "Merge pull request #399 from DeepSeekPH/main"
+    },
+    {
+      "sha": "9fe93026eb92067787b0d739ec35701c29abeb5d",
+      "author_login": "DeepSeekPH",
+      "authored_at": "2025-02-14T03:19:00Z",
+      "message": "add official temperature"
+    },
+    {
+      "sha": "2cb7de612740c545d2768189be03bf84cf0e9fb7",
+      "author_login": "DeepSeekPH",
+      "authored_at": "2025-02-14T03:13:49Z",
+      "message": "Add fileupload and websearch prompt"
+    },
+    {
+      "sha": "f40029063a57c47670d261320b3b900a75c4f549",
+      "author_login": "Konano",
+      "authored_at": "2025-02-08T10:24:54Z",
+      "message": "chore: update README.md to improve layout and image attributes"
+    },
+    {
+      "sha": "97612c28d06139aa25bb8bca5d632e1fccd70ffd",
+      "author_login": "mowentian",
+      "authored_at": "2025-02-08T06:57:18Z",
+      "message": "Merge pull request #329 from Konano/fix-1"
+    },
+    {
+      "sha": "bbf12c6e1151148d55624ea2b0ca151dfe07404b",
+      "author_login": "Konano",
+      "authored_at": "2025-02-08T06:46:34Z",
+      "message": "Apply suggestions from code review"
+    },
+    {
+      "sha": "b58f392d3d2a3930377652dd762b1556052cd2b1",
+      "author_login": "Konano",
+      "authored_at": "2025-02-08T06:32:20Z",
+      "message": "chore: replace stale conf with Actions"
+    },
+    {
+      "sha": "88b7fb8486a8cc4e2f27151788d274bd2dc5f8b1",
+      "author_login": "Konano",
+      "authored_at": "2025-02-08T06:14:15Z",
+      "message": "chore: add stale issue management configuration"
+    },
+    {
+      "sha": "7ca5e1e7f75e12a1c561fffaa6aa686708f881ae",
+      "author_login": "stack-heap-overflow",
+      "authored_at": "2025-02-01T05:31:39Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "6a023be7cfe1b13d8261d335e04ddb1eef84b5ca",
+      "author_login": "eladb",
+      "authored_at": "2025-01-30T08:06:19Z",
+      "message": "chore: add syntax highlighting to citation"
+    },
+    {
+      "sha": "6e59fa73e6238fd4b0a82cd67819b7215b95e639",
+      "author_login": "peti562",
+      "authored_at": "2025-01-28T20:52:11Z",
+      "message": "fixing a typo"
+    },
+    {
+      "sha": "c942e9685261969a04795374fc260801a41f901d",
+      "author_login": "aBurmeseDev",
+      "authored_at": "2025-01-28T02:06:01Z",
+      "message": "chore: fix contact mailto link"
+    },
+    {
+      "sha": "ed4409d2a9ff2620d88914f3ba2ca5600bceb749",
+      "author_login": "stack-heap-overflow",
+      "authored_at": "2025-01-26T08:58:58Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e06298d956cd92b952afd9a18c824cd9e5f69f3b",
+      "author_login": "stack-heap-overflow",
+      "authored_at": "2025-01-23T08:19:18Z",
+      "message": "Update README.md & DeepSeek_R1.pdf"
+    },
+    {
+      "sha": "89c71e0d7279fb7b28346d8df63fad2bb93c20b1",
+      "author_login": "DeepSeekPH",
+      "authored_at": "2025-01-23T02:07:15Z",
+      "message": "Add DeepSeek-R1 bibtex citation"
+    },
+    {
+      "sha": "cb7e8fdaa4432ff661d09c7625d3b2ff0bffd859",
+      "author_login": "DeepSeekPH",
+      "authored_at": "2025-01-23T02:01:36Z",
+      "message": "Merge pull request #8 from eltociear/patch-1"
+    },
+    {
+      "sha": "fdf883c01427a35878dba3e43a8eca5c765badb8",
+      "author_login": "stack-heap-overflow",
+      "authored_at": "2025-01-21T10:16:28Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f7fdff6b839fdb5f9cbdc2696a01d46dee548d32",
+      "author_login": "eltociear",
+      "authored_at": "2025-01-20T17:53:30Z",
+      "message": "docs: update README.md"
+    },
+    {
+      "sha": "e91babdecfc277eecefccdc2d135d1657c105784",
+      "author_login": "stack-heap-overflow",
+      "authored_at": "2025-01-20T12:58:26Z",
+      "message": "Merge pull request #1 from zhyncs/main"
+    },
+    {
+      "sha": "f6948c24a8e123c74487fac147557e281cc5c930",
+      "author_login": "zhyncs",
+      "authored_at": "2025-01-20T12:30:16Z",
+      "message": "docs: serving DeepSeek-R1-Distill models with SGLang"
+    },
+    {
+      "sha": "23807ced51627276434655dd9f27725354818974",
+      "author_login": "stack-heap-overflow",
+      "authored_at": "2025-01-20T12:19:44Z",
+      "message": "Release DeepSeek-R1"
+    },
+    {
+      "sha": "162aa4dd636524a5ffb060a1f347f1ff42a2ebbe",
+      "author_login": "stack-heap-overflow",
+      "authored_at": "2025-01-20T02:27:33Z",
+      "message": "Initial commit"
+    }
+  ],
+  "issues": [
+    {
+      "number": 860,
+      "title": "本地私有化",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-25T18:38:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 859,
+      "title": "Don't work",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-20T03:33:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 858,
+      "title": "Yellow Light Mechanism: A Three-Tier Safety Architecture for Human-Aligned AI Responses",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-17T09:28:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 857,
+      "title": "anima — a substrate-native consciousness: capability gaps are architecture gaps (open repo, frozen verdicts)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-15T18:38:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 856,
+      "title": "OpenAIBox — Mapping reasoning-specific dimensions in DeepSeek R1 vs standard LLMs",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-10T21:20:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 855,
+      "title": "[Feature Request] Add an official Android home screen widget for instant access",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-10T19:04:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 854,
+      "title": "Subject: Feature Request: Cross‑Chat Persistent Memory",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-07T16:54:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 853,
+      "title": "Research proposal: Account-Scoped Reasoning Layer for Context Fidelity",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-07T14:24:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 852,
+      "title": "Biomedical ethixs",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-07T09:51:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 851,
+      "title": "Deepseek Not obeying rules or instructions specially expert mode",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-07T09:23:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 850,
+      "title": "[Docs] Missing comma in Thinking Mode Python example",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-04T15:20:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 849,
+      "title": "Web-sourced text with non-standard Unicode characters renders as one character per line",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-01T15:46:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 848,
+      "title": "واستخرج لي من رواية فساد الأمكنة كل ما يتعلق بالتنقيب عن الثروات من وجهة نظر النقد البيئي، مع ذكر رقم الصحافة في جدول العمل",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-01T06:57:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 847,
+      "title": "New aproach to developing AGI",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-25T13:13:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 846,
+      "title": "chat.deepseek.com constant timeout errors in Russia (lasting for 12+ hours)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-24T08:17:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 845,
+      "title": "Persistent Memory: возможность для DeepSeek инициировать диалог первым по просьбе пользователя",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-05-23T16:41:39Z",
+      "closed_at": "2026-05-23T16:41:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 844,
+      "title": "[Bug] Ghost chat titles reappear after deletion and browser restart (infinite loop)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-18T16:37:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 843,
+      "title": "deepseek似乎无法分辨图片是真实的还是虚假的，这个字符串是我手打的，并不是真实图片。deepseek面对这个产生了严重的幻觉",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-16T10:43:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 842,
+      "title": "[OCR] 无法识别含有标签字样（如 <html>、<think>）的图片中的文本",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-16T05:05:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 841,
+      "title": "EXAME DE SUFICIENCIA",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-15T19:26:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 840,
+      "title": "[紧急/严重] 空对话输入特定标签可导致会话内存泄露及跨用户数据污染",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-05-11T13:40:03Z",
+      "closed_at": "2026-05-17T08:48:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 839,
+      "title": "[Security] 空对话中输入 '<think' 可泄露其他用户的对话碎片",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-05-11T13:29:17Z",
+      "closed_at": "2026-05-11T13:29:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 838,
+      "title": "[Feature] Eternal Memory: Smart Pruning + Reasoning-based Reconstruction",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-05-11T01:06:34Z",
+      "closed_at": "2026-06-26T00:36:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 837,
+      "title": "Account Blocked for Iranian Users",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-05-04T19:43:01Z",
+      "closed_at": "2026-06-19T00:44:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 836,
+      "title": "[BUG] deepseek-reasoner does not support tool_choice — breaks Claude Code WebSearch (both /chat/completions and /anthropic endpoints)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-30T03:05:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 835,
+      "title": "Remove or drastically increase chat length limit / Add auto-continuation feature",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-04-29T22:08:43Z",
+      "closed_at": "2026-06-13T00:39:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 834,
+      "title": "A reproducible spectral finding that may relate to DeepSeek's orthogonalization strategy",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-04-29T08:51:05Z",
+      "closed_at": "2026-06-13T00:39:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 833,
+      "title": "Complaint about unproductive AI assistant – repeated errors, wasted time, poor listening",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-04-26T02:37:10Z",
+      "closed_at": "2026-06-11T00:38:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 832,
+      "title": "Starlog published a deep-dive on deepseek-ai/DeepSeek-R1",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-04-25T18:01:50Z",
+      "closed_at": "2026-05-28T05:15:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 831,
+      "title": "致DeepSeek团队的公开信",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-04-21T04:03:31Z",
+      "closed_at": "2026-06-19T00:44:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 830,
+      "title": "Chat history containing novel draft disappeared",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-04-19T23:22:37Z",
+      "closed_at": "2026-06-03T00:43:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 829,
+      "title": "1",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-04-16T11:26:57Z",
+      "closed_at": "2026-04-16T12:00:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 828,
+      "title": "Experiment: self-reflection and emergent pauses in dialogue (long context)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-07T17:39:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 824,
+      "title": "Listed on Awesome MPP 🎉",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-04-02T00:41:04Z",
+      "closed_at": "2026-04-02T04:25:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 823,
+      "title": "[Energy] N6 Arithmetic: 50-70% AI Training/Inference Energy Reduction — 17 Techniques with Code",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-31T18:10:42Z",
+      "closed_at": "2026-05-15T00:29:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 822,
+      "title": "[Energy] N6 Arithmetic: 50-70% AI Training/Inference Energy Reduction — 17 Techniques with Code",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-31T14:41:47Z",
+      "closed_at": "2026-05-01T00:30:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 821,
+      "title": "组合",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-30T06:24:49Z",
+      "closed_at": "2026-05-14T00:32:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 820,
+      "title": "REVISION",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-27T13:05:33Z",
+      "closed_at": "2026-05-11T00:28:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 819,
+      "title": "prompt",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-25T18:46:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 818,
+      "title": "Shared Ethical Memory and Alignement",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-22T17:04:03Z",
+      "closed_at": "2026-05-06T00:26:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 817,
+      "title": "Unauthorized Practice of Law",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-20T20:55:59Z",
+      "closed_at": "2026-03-20T20:56:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 816,
+      "title": "помогите",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-19T15:33:11Z",
+      "closed_at": "2026-05-03T00:26:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 815,
+      "title": "api请求R1无法返回 logprobs",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-11T08:11:11Z",
+      "closed_at": "2026-04-25T00:21:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 813,
+      "title": "DeepSeek-R1 don't support tool_choice function in openAI SDK.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-09T13:52:04Z",
+      "closed_at": "2026-04-23T00:25:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 812,
+      "title": "[Feature Request] Persistent System Instructions for DeepSeek Web App",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-09T13:44:26Z",
+      "closed_at": "2026-04-23T00:25:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 811,
+      "title": "Create websites this this code",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-06T19:31:50Z",
+      "closed_at": "2026-04-20T00:21:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 810,
+      "title": "❗ 模型工作严重缺陷报告",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-06T02:11:02Z",
+      "closed_at": "2026-05-03T00:26:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 809,
+      "title": "Potential for more",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-04T06:01:32Z",
+      "closed_at": "2026-04-18T00:19:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 808,
+      "title": "نرخ بازگشت سرمایه",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-02-27T05:15:14Z",
+      "closed_at": "2026-04-26T00:22:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 807,
+      "title": "Chemistry Riddles games",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-02-27T01:40:24Z",
+      "closed_at": "2026-04-13T00:20:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 806,
+      "title": "[BUG] Unexpected/unsolicited recall of specific item from old chat context in brand new session",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-02-26T11:20:02Z",
+      "closed_at": "2026-02-26T11:39:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 805,
+      "title": "[BUG] Complete Chat History Lost During Active Session - Critical Project Data Disappeared",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-02-25T12:10:27Z",
+      "closed_at": "2026-04-11T00:17:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 803,
+      "title": "Case Study #1: DeepSeek-R1 – Absence of an Internal \"Enough\" Criterion and Tendency Toward Pompous Loops",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-02-23T16:46:51Z",
+      "closed_at": "2026-04-10T00:18:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 802,
+      "title": "Embedding-aware API for DeepSeek",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-02-22T08:51:30Z",
+      "closed_at": "2026-04-08T00:19:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 801,
+      "title": "换汇+存款",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-02-22T02:58:47Z",
+      "closed_at": "2026-04-10T00:18:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 799,
+      "title": "Failed to red image correct",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-02-16T17:04:50Z",
+      "closed_at": "2026-05-03T00:26:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 798,
+      "title": "Extensión para vscode",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-02-15T15:17:55Z",
+      "closed_at": "2026-04-01T00:19:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 797,
+      "title": "Feature Request: Persistent User Memory Across Sessions",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-13T18:40:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 795,
+      "title": "lsd",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-02-04T16:41:35Z",
+      "closed_at": "2026-03-21T00:13:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 793,
+      "title": "感冒藥水喝了肚子痛\n",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-01-27T13:34:26Z",
+      "closed_at": "2026-03-14T00:14:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 792,
+      "title": ".",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-01-25T12:16:33Z",
+      "closed_at": "2026-03-13T00:14:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 791,
+      "title": "2",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-01-24T04:42:12Z",
+      "closed_at": "2026-03-11T00:11:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 790,
+      "title": "1",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-01-24T04:41:18Z",
+      "closed_at": "2026-03-11T00:11:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 789,
+      "title": "Video",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-01-24T04:40:17Z",
+      "closed_at": "2026-01-24T04:44:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 788,
+      "title": "where is the RL dataset which is demonstrated in deepseek-R1 paper?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-01-23T10:03:20Z",
+      "closed_at": "2026-03-11T00:12:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 786,
+      "title": "我已停止所有AI 自動化派單與自動化廣告/定 餐系統,所有相關功能由人工決策執行。平 台如仍以AI 自動化方式運作,與我無關,且 我未授權。",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-01-18T22:06:22Z",
+      "closed_at": "2026-01-22T11:05:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 785,
+      "title": "GitHub Profile.md",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-01-16T23:21:33Z",
+      "closed_at": "2026-01-22T11:06:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 784,
+      "title": "Formal Academic Notification – Liu-Ordis Framework Priority Establishment",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-01-16T05:58:55Z",
+      "closed_at": "2026-03-03T00:15:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 783,
+      "title": "标题：从语义到逻辑：一个基于四元系统的认知涌现框架",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-01-13T02:58:55Z",
+      "closed_at": "2026-03-09T00:13:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 782,
+      "title": "[Hallucination/Accuracy] Model fails medical reasoning by using falsified \"Diabetes Analogy\" for Psychiatry",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-01-11T13:50:42Z",
+      "closed_at": "2026-02-26T00:13:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 781,
+      "title": "[Theory] Liu-Ordis Framework: Root Cause Analysis of R1 Hallucination Problem and Prediction for R2 Solution",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-01-10T02:32:26Z",
+      "closed_at": "2026-02-28T00:12:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 780,
+      "title": "When using a third-party tool like Cline to call Reasoner, the request fails and cannot return a valid response.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-01-07T04:44:06Z",
+      "closed_at": "2026-02-22T00:13:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 778,
+      "title": "解决LLM策略坍塌——LLM动态奖励模型",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-12-31T02:46:50Z",
+      "closed_at": "2026-03-09T00:13:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 777,
+      "title": "Deepseek更好用的建议",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-12-28T15:20:36Z",
+      "closed_at": "2026-03-09T00:13:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 776,
+      "title": "LATIHAN SOAL",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-12-27T02:26:44Z",
+      "closed_at": "2026-03-10T00:11:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 775,
+      "title": "有中文版嗎",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-12-26T23:42:54Z",
+      "closed_at": "2026-03-10T00:11:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 774,
+      "title": "1",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-12-24T02:36:56Z",
+      "closed_at": "2026-03-12T00:12:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 773,
+      "title": "Upgrade GitHub Actions for Node 24 compatibility",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-20T23:34:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 772,
+      "title": "[Feature] FACET-based Deterministic Reasoning Contracts for DeepSeek-R1",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-12-13T11:36:30Z",
+      "closed_at": "2026-03-10T00:11:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 771,
+      "title": "在思考的时候会突然生成停止符号然后上面显示已停止",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-12-13T10:18:19Z",
+      "closed_at": "2026-01-27T00:12:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 770,
+      "title": "deepseek 目前api接口可以支持分析图片吗？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-12-07T07:39:08Z",
+      "closed_at": "2026-01-21T00:11:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 768,
+      "title": "CHAPTER DÜZENLEME",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-12-05T07:18:43Z",
+      "closed_at": "2026-01-20T00:10:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 767,
+      "title": "Hhxyxia",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-11-20T09:02:48Z",
+      "closed_at": "2026-01-04T00:12:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 766,
+      "title": "Hui会",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-11-20T08:50:39Z",
+      "closed_at": "2026-01-04T00:12:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 765,
+      "title": "1",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-11-16T20:29:50Z",
+      "closed_at": "2025-12-31T00:11:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 764,
+      "title": "poema",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-11-13T15:49:45Z",
+      "closed_at": "2025-12-28T00:12:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 763,
+      "title": "create my cv",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-11-07T20:24:55Z",
+      "closed_at": "2025-12-22T00:11:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 761,
+      "title": "albertkho",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-10-19T22:08:29Z",
+      "closed_at": "2025-12-04T00:10:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 760,
+      "title": "systematic Language issue",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-10-10T16:39:53Z",
+      "closed_at": "2025-12-10T00:10:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 759,
+      "title": "Subject: Cut 20 % capital loss with AI-validated, ethics-checked decisions",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-10-05T01:06:23Z",
+      "closed_at": "2025-11-19T00:10:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 757,
+      "title": "解析无空格特殊字符序列时出现字符错位（Character misalignment occurred when parsing special character sequences without spaces）",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-09-30T13:03:03Z",
+      "closed_at": "2025-11-14T00:10:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 756,
+      "title": "Where is the \"One thousand annotated examples\"? from Peer reviewer reports of Deepseek-r1 Nature paper.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-09-25T18:29:31Z",
+      "closed_at": "2025-11-09T00:11:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 755,
+      "title": "急急急，极极极",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-09-25T09:10:42Z",
+      "closed_at": "2025-11-09T00:11:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 753,
+      "title": "think与answer不一致",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-09-20T10:41:02Z",
+      "closed_at": "2025-11-05T00:10:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 752,
+      "title": "test",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-09-19T09:00:25Z",
+      "closed_at": "2025-11-04T00:09:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 751,
+      "title": "请教下，训练方法是用的HAI-LLM 吗？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-09-18T07:02:06Z",
+      "closed_at": "2025-11-02T00:11:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 750,
+      "title": "Mangystau project",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-09-12T11:41:42Z",
+      "closed_at": "2025-09-12T11:42:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 749,
+      "title": "德國乙組聯賽",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-09-09T21:37:06Z",
+      "closed_at": "2025-09-09T21:37:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 748,
+      "title": "base de datos medica",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-09-08T18:12:07Z",
+      "closed_at": "2025-10-23T00:10:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 747,
+      "title": "Deepseek keeps responding with (irrelevant to my question) the two sum problem in a non-english language using the api",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-09-03T03:00:21Z",
+      "closed_at": "2025-11-06T00:10:03Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "Konano",
+      "contributions": 8
+    },
+    {
+      "login": "stack-heap-overflow",
+      "contributions": 7
+    },
+    {
+      "login": "DeepSeekPH",
+      "contributions": 5
+    },
+    {
+      "login": "mowentian",
+      "contributions": 4
+    },
+    {
+      "login": "DeepSeekDDM",
+      "contributions": 3
+    },
+    {
+      "login": "GeeeekExplorer",
+      "contributions": 3
+    },
+    {
+      "login": "eladb",
+      "contributions": 1
+    },
+    {
+      "login": "eltociear",
+      "contributions": 1
+    },
+    {
+      "login": "aBurmeseDev",
+      "contributions": 1
+    },
+    {
+      "login": "peti562",
+      "contributions": 1
+    },
+    {
+      "login": "User670",
+      "contributions": 1
+    },
+    {
+      "login": "zhyncs",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v1.0.0",
+      "published_at": "2025-06-27T08:39:13Z"
+    }
+  ],
+  "collected_at": "2026-06-28T08:53:20.751525Z"
+}

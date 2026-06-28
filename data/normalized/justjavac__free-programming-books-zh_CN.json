@@ -1,0 +1,1954 @@
+{
+  "full_name": "justjavac/free-programming-books-zh_CN",
+  "owner": "justjavac",
+  "name": "free-programming-books-zh_CN",
+  "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+  "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+  "primary_language": null,
+  "topics": [
+    "android",
+    "angular",
+    "books",
+    "free",
+    "ios",
+    "javascript",
+    "kotlin",
+    "pdf",
+    "programming",
+    "python",
+    "react",
+    "react-native",
+    "swift",
+    "vue"
+  ],
+  "license_spdx": "GPL-3.0",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 117197,
+  "forks": 28220,
+  "open_issues": 32,
+  "created_at": "2013-11-04T01:59:19Z",
+  "pushed_at": "2024-07-15T08:55:20Z",
+  "updated_at": "2026-06-28T07:54:15Z",
+  "commits": [
+    {
+      "sha": "2ca0d17c40c04d530938280bfcc0d65174052b27",
+      "author_login": "AICodeHunt",
+      "authored_at": "2024-01-22T00:24:11Z",
+      "message": "add 编程网站目录 (#877)"
+    },
+    {
+      "sha": "61fe35dc7486d5ed99ecd16bf33acc3171e72c0a",
+      "author_login": "Montia37",
+      "authored_at": "2023-11-13T08:33:06Z",
+      "message": "标注失效链接 :worried: (#875)"
+    },
+    {
+      "sha": "26ee90531bc0271bf32e22f3934359e2a84a21e6",
+      "author_login": "ThisisGame",
+      "authored_at": "2022-06-13T03:25:12Z",
+      "message": "add book 《游戏引擎 浅入浅出》 (#845)"
+    },
+    {
+      "sha": "aaa1aa0fd45d0e56954366496300012ed0d5cf87",
+      "author_login": "Sheng14",
+      "authored_at": "2022-06-13T03:23:11Z",
+      "message": "添加Node相关电子书籍 (#846)"
+    },
+    {
+      "sha": "62f468bdc0f2fd7173c553b72ceac309c27d6b82",
+      "author_login": "loocao",
+      "authored_at": "2022-06-13T03:22:46Z",
+      "message": "通过例子学 Rust 中文版 (#847)"
+    },
+    {
+      "sha": "4766a792d90d8011bc785457e8e3f55aaebed9d7",
+      "author_login": "RobertHoffman",
+      "authored_at": "2022-06-13T03:22:30Z",
+      "message": "添加了R语言教程 Python黑魔法手册 (#848)"
+    },
+    {
+      "sha": "666946699eeb677d62978915cf955a4d129e86a8",
+      "author_login": "bzy-nya",
+      "authored_at": "2022-06-13T03:22:07Z",
+      "message": "Update README.md (#849)"
+    },
+    {
+      "sha": "f27a025864aa02fdc52d2a5e79b28261d5e5864c",
+      "author_login": "Haceau-Zoac",
+      "authored_at": "2022-06-13T03:20:50Z",
+      "message": "[Feature](README.md): add \"labuladong 的算法小抄\". (#825)"
+    },
+    {
+      "sha": "7a4745cfd252fb120f1eeb70f106e7a792a4f6a8",
+      "author_login": "kungkao",
+      "authored_at": "2022-06-13T03:20:27Z",
+      "message": "Update README.md (#824)"
+    },
+    {
+      "sha": "8332e3a7a76fec2a2a3fa37571590e45d6a0b973",
+      "author_login": "gittower-moved",
+      "authored_at": "2022-06-13T03:19:40Z",
+      "message": "Add 2 learning resources on Git / Version Control (#814)"
+    },
+    {
+      "sha": "38755c84940e1bbfa0d2b60b067a20ce14f807a4",
+      "author_login": "muxik",
+      "authored_at": "2022-06-13T03:19:10Z",
+      "message": "更新了emacs 相关和 两本thinkphp开发手册 (#813)"
+    },
+    {
+      "sha": "00030e1528c927fb469e0a1b48c954ae716e7642",
+      "author_login": "JMbaozi",
+      "authored_at": "2022-06-13T03:18:42Z",
+      "message": "修改“用Python做科学计算”网址 (#812)"
+    },
+    {
+      "sha": "aebae5ae2e43e9aad34e92db2f84a9fe92c54b28",
+      "author_login": "justjavac",
+      "authored_at": "2022-06-13T03:15:54Z",
+      "message": "update buy-me-a-coffee-wechat (#851)"
+    },
+    {
+      "sha": "0a0972fac0d9a51a8357ce3d222dd9003a318044",
+      "author_login": "phodal",
+      "authored_at": "2021-01-08T06:33:08Z",
+      "message": "docs: add serverless & migration (#823)"
+    },
+    {
+      "sha": "70e52bd4f05a56d54cdf05634de8a21aad09f1fb",
+      "author_login": "justjavac",
+      "authored_at": "2020-07-13T08:33:11Z",
+      "message": "图片修改为 640px"
+    },
+    {
+      "sha": "69deec4bc3509361925b0f4e7a6df3ff8d062d4b",
+      "author_login": "justjavac",
+      "authored_at": "2020-07-13T08:30:33Z",
+      "message": "使用原图"
+    },
+    {
+      "sha": "da1b7f8c85293803ccd212e9c8a2811aeaa986ff",
+      "author_login": "justjavac",
+      "authored_at": "2020-04-27T13:31:09Z",
+      "message": "修复无法访问的链接"
+    },
+    {
+      "sha": "2b8742e65f6ab4ba255d9a18fc6221bd7702b986",
+      "author_login": "justjavac",
+      "authored_at": "2020-04-27T13:08:55Z",
+      "message": "remove issue"
+    },
+    {
+      "sha": "6f8770c69bf321b8e4626bbac81f76248555bd26",
+      "author_login": "justjavac",
+      "authored_at": "2020-04-27T12:50:28Z",
+      "message": "Delete buy-me-a-coffee-wechat.png"
+    },
+    {
+      "sha": "d38f93fa932538f66f4c6c732b51d38149f731d5",
+      "author_login": "justjavac",
+      "authored_at": "2020-04-27T12:50:12Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d8d1cba9b5965d18da7ae2606e4f72e006c5babb",
+      "author_login": "justjavac",
+      "authored_at": "2020-04-11T14:05:28Z",
+      "message": "更新《GNU make中文手册》"
+    },
+    {
+      "sha": "b06efd0a3d6af0cfe3f9b0a7c5ee5815a4aa05af",
+      "author_login": "justjavac",
+      "authored_at": "2020-04-11T14:03:11Z",
+      "message": "更新《跟我一起写 Makefile》"
+    },
+    {
+      "sha": "b4f423536969c46c9e079e0ca5ccc884214e149d",
+      "author_login": "justjavac",
+      "authored_at": "2020-04-11T14:00:15Z",
+      "message": "buy me a coffee"
+    },
+    {
+      "sha": "bdf999d5d6329d0e86cf8a5507f737cd59c22fab",
+      "author_login": "wuqinqiang",
+      "authored_at": "2020-02-05T02:49:11Z",
+      "message": "Leetcode-php (#728)"
+    },
+    {
+      "sha": "b65606ec45981a8ada56a98e5debb985dd23c39c",
+      "author_login": "justjavac",
+      "authored_at": "2020-02-04T12:27:52Z",
+      "message": "Merge pull request #716 from vforbox/master"
+    },
+    {
+      "sha": "322656127cb4e6f7f9e72acaf9b0504f27b65894",
+      "author_login": "justjavac",
+      "authored_at": "2020-02-04T12:27:42Z",
+      "message": "Merge pull request #712 from Michael18811380328/patch-1"
+    },
+    {
+      "sha": "c5ad927ee0afdbc228ca04e83d3b5028e411d58c",
+      "author_login": "justjavac",
+      "authored_at": "2020-02-04T12:26:58Z",
+      "message": "fix link: Clojure/Clojure入门教程 (#710)"
+    },
+    {
+      "sha": "b810d7470002a82b4452e62d0e31cc4102c90deb",
+      "author_login": "zombie110year",
+      "authored_at": "2020-02-04T12:26:45Z",
+      "message": "fix link: C# 超全面的 .NET GDI+ 图形图像编程教程 (#709)"
+    },
+    {
+      "sha": "18cfff28b750f57985e2e15c4a6badf5af59a8c2",
+      "author_login": "sjsdfg",
+      "authored_at": "2020-02-04T12:26:19Z",
+      "message": "增加 Effective Java 第3版中文版 (#708)"
+    },
+    {
+      "sha": "84e9bdf4b0d4b8c071751ee70ec18f1826d1e415",
+      "author_login": "chen56",
+      "authored_at": "2020-02-04T12:25:23Z",
+      "message": "update 鸟哥的Linux私房菜,原网址失效 (#706)"
+    },
+    {
+      "sha": "37bce8333bc4d3c249554eee1747c01f1c68fc5b",
+      "author_login": "imba-tjd",
+      "authored_at": "2020-02-04T12:16:46Z",
+      "message": "Update C# (#736)"
+    },
+    {
+      "sha": "c81585e086881c9af400a6475127d99954916bc8",
+      "author_login": null,
+      "authored_at": "2020-02-04T12:13:06Z",
+      "message": "添加 Go语言高级编程 等四本 Go 语言书籍. (#722)"
+    },
+    {
+      "sha": "dc1563237dd7e676930dfed75e19b7551df260dc",
+      "author_login": "yeshan333",
+      "authored_at": "2020-02-04T12:11:50Z",
+      "message": "添加Flask入门教程 (#719)"
+    },
+    {
+      "sha": "0fd804303f64c5231214805020e4bd9c1af61d65",
+      "author_login": "justjavac",
+      "authored_at": "2019-12-18T06:53:37Z",
+      "message": "Merge pull request #745 from ylvict/master"
+    },
+    {
+      "sha": "1431957e24f6f2786636ecb3e94b2c861ae5846f",
+      "author_login": "ylvict",
+      "authored_at": "2019-12-18T06:46:28Z",
+      "message": "update link for sea.js"
+    },
+    {
+      "sha": "237a771834b44e0e41007abb8df080b4f34956c2",
+      "author_login": "vforbox",
+      "authored_at": "2019-07-12T08:01:08Z",
+      "message": "fix link: 把《编程珠玑》读薄"
+    },
+    {
+      "sha": "31ecf3b06511e31069c6f149e52d126977b5eb57",
+      "author_login": "vforbox",
+      "authored_at": "2019-07-12T07:54:11Z",
+      "message": "新增《awk实战指南》"
+    },
+    {
+      "sha": "08d3a0e9db2c81e327bbc8c1ba9a4a6e164fdebb",
+      "author_login": "Michael18811380328",
+      "authored_at": "2019-07-04T06:07:44Z",
+      "message": "Change jS book location"
+    },
+    {
+      "sha": "690d9a3f9fca368ccb78b2791ff8ff655ffe843b",
+      "author_login": "zombie110year",
+      "authored_at": "2019-06-20T14:52:22Z",
+      "message": "fix link: Clojure/Clojure入门教程"
+    },
+    {
+      "sha": "3d87cf3a6d4efdfdbbb613564e11fbd6b3845517",
+      "author_login": "justjavac",
+      "authored_at": "2019-06-10T03:33:39Z",
+      "message": "remove GitHub Sponsors"
+    },
+    {
+      "sha": "64cb16757b8409d51384c25d6d9b4096489680b7",
+      "author_login": "justjavac",
+      "authored_at": "2019-06-06T07:37:08Z",
+      "message": "Merge pull request #682 from lfzm/patch-1"
+    },
+    {
+      "sha": "cf19736980dba060e6b002370e2a61bc7af2285e",
+      "author_login": "justjavac",
+      "authored_at": "2019-06-06T07:36:53Z",
+      "message": "Merge pull request #672 from bhaltair/feature/node"
+    },
+    {
+      "sha": "f88e48ef010e3a726e06c912785c29fcff52accd",
+      "author_login": "justjavac",
+      "authored_at": "2019-06-06T07:36:07Z",
+      "message": "add 《不可替代的团队领袖培养计划》 (#692)"
+    },
+    {
+      "sha": "aa55a4d4a4b00a34c138fece172668e01777243f",
+      "author_login": "lingcoder",
+      "authored_at": "2019-06-06T07:35:01Z",
+      "message": "增加 On Java 8 中文版,事实上的 Java 编程思想第五版 (#690)"
+    },
+    {
+      "sha": "4cd9289c416cde4bbcb7063e30eb215a8b8ce4bc",
+      "author_login": "stacklens",
+      "authored_at": "2019-06-06T07:34:43Z",
+      "message": "增加Django条目：Django 2.1 搭建个人博客教程 (#687)"
+    },
+    {
+      "sha": "c5d1541c8d8c35ddaaa6e5f85302395deefc3316",
+      "author_login": "startalks",
+      "authored_at": "2019-06-06T07:34:05Z",
+      "message": "add Kotlin (#705)"
+    },
+    {
+      "sha": "a48cc54510b1c3dc6acd6ac62babb713759c91df",
+      "author_login": "TuringZhu",
+      "authored_at": "2019-06-06T07:33:42Z",
+      "message": "update link of rust book (#704)"
+    },
+    {
+      "sha": "1b44533a46263c413ad2d14c8a06e76ca1b7e8d9",
+      "author_login": "Blyth0He",
+      "authored_at": "2019-06-06T07:33:18Z",
+      "message": "Update what-non-programming-books-should-programmers-read.md (#702)"
+    },
+    {
+      "sha": "de9bff61b28f018bea7cd6920fcbef8a191d752d",
+      "author_login": "justjavac",
+      "authored_at": "2019-06-06T07:01:01Z",
+      "message": "Create FUNDING.yml"
+    },
+    {
+      "sha": "4063c486fbaee5601317c128779cedfb4b71b711",
+      "author_login": "ghostsf",
+      "authored_at": "2019-04-18T06:29:29Z",
+      "message": "add 《不可替代的团队领袖培养计划》"
+    },
+    {
+      "sha": "2f30f70df5b56a57476ccfcd335406d34b9e87d0",
+      "author_login": "lfzm",
+      "authored_at": "2019-03-05T13:39:12Z",
+      "message": "增加 现代JavaScript教程 "
+    },
+    {
+      "sha": "31bdb8c2247355da7f9c560279058f89465ed4a3",
+      "author_login": "justjavac",
+      "authored_at": "2019-02-21T02:54:58Z",
+      "message": "Delete gulpfile.js"
+    },
+    {
+      "sha": "9455722b0b22dc5f04ba18cfa6ee726368291c29",
+      "author_login": null,
+      "authored_at": "2018-11-06T07:05:15Z",
+      "message": "add 一起学Node.js"
+    },
+    {
+      "sha": "b0a71576a2450478bfdb16c97d61e0f2975e9c23",
+      "author_login": "justjavac",
+      "authored_at": "2018-11-05T09:20:56Z",
+      "message": "Merge pull request #639 from QianMo/patch-1"
+    },
+    {
+      "sha": "64cc4ef32053b33910099dcd9c558a0f08880aa1",
+      "author_login": "justjavac",
+      "authored_at": "2018-11-05T09:19:31Z",
+      "message": "Merge pull request #642 from liuqun/master"
+    },
+    {
+      "sha": "235faf6ceb9ffe6ee3e90aa92d01dfb6c33f4c51",
+      "author_login": "justjavac",
+      "authored_at": "2018-11-05T09:18:57Z",
+      "message": "Merge pull request #648 from hbzs/master"
+    },
+    {
+      "sha": "5e6ee8e031f732922b41ef4643cf72ab4af11e03",
+      "author_login": "justjavac",
+      "authored_at": "2018-11-05T09:18:29Z",
+      "message": "Merge pull request #649 from 7Ethan/master"
+    },
+    {
+      "sha": "3d67161bcdb1458664207e71db3d96b6ad88d9c5",
+      "author_login": "justjavac",
+      "authored_at": "2018-11-05T07:13:20Z",
+      "message": "Merge pull request #645 from jedch/master"
+    },
+    {
+      "sha": "eedcb8cdb797c97db5b8567cefb9f629936607e8",
+      "author_login": "justjavac",
+      "authored_at": "2018-11-05T07:12:58Z",
+      "message": "Merge pull request #657 from zenghongtu/zenghongtu-patch-1"
+    },
+    {
+      "sha": "aba08ab7149038ea5787ede1e5999107b3a384c4",
+      "author_login": "justjavac",
+      "authored_at": "2018-11-05T07:11:04Z",
+      "message": "Cmake 实践 的地址 404 fixed #671"
+    },
+    {
+      "sha": "31cc9cb838671a257d2930137653dc325d84ee98",
+      "author_login": "justjavac",
+      "authored_at": "2018-11-05T06:36:12Z",
+      "message": "修正链接"
+    },
+    {
+      "sha": "ca8bac14197896b14241a9d2ddafe4d25d1c0db4",
+      "author_login": "justjavac",
+      "authored_at": "2018-11-05T05:51:08Z",
+      "message": "重新排版"
+    },
+    {
+      "sha": "b4f87ff7675c76ebcea49ebe8351eb1334cbdac4",
+      "author_login": "justjavac",
+      "authored_at": "2018-11-05T05:19:05Z",
+      "message": "添加“返回目录”"
+    },
+    {
+      "sha": "f3a0260b1f2633d866bccfda84cbce07d0d9e236",
+      "author_login": "justjavac",
+      "authored_at": "2018-10-30T09:28:36Z",
+      "message": "Merge pull request #666 from keelii/master"
+    },
+    {
+      "sha": "0d42b5c8384f531fa90e960942d3129fef1c0e8c",
+      "author_login": "keelii",
+      "authored_at": "2018-09-25T04:04:49Z",
+      "message": "添加「Python 中的 Socket 编程」翻译版"
+    },
+    {
+      "sha": "fea7e4c5338376907b604eb30008dc8e3f51cd6f",
+      "author_login": "zenghongtu",
+      "authored_at": "2018-07-13T10:48:58Z",
+      "message": "添加两本非常好的React入门教程，强力推荐！"
+    },
+    {
+      "sha": "cde67eccdf5c10f5bfe695a8c81045a8e7c4725b",
+      "author_login": "Jancd",
+      "authored_at": "2018-06-06T16:50:04Z",
+      "message": "增加【LeetCode题解】"
+    },
+    {
+      "sha": "d25a5edb65f8b540a00eb8bfb0b6c2ec543541b1",
+      "author_login": "Jancd",
+      "authored_at": "2018-06-06T16:46:18Z",
+      "message": "增加 【高速上手 C++11/14/17】"
+    },
+    {
+      "sha": "c247be9407d50482392e04ccf1460d0d2f1b394a",
+      "author_login": "Jancd",
+      "authored_at": "2018-06-06T16:41:39Z",
+      "message": "更新 “Haskell 趣学指南”"
+    },
+    {
+      "sha": "6e2fb37f2ccf3c2c6321ac1bd0a86347b4b52de7",
+      "author_login": "hbzs",
+      "authored_at": "2018-06-05T22:05:34Z",
+      "message": "简明 Python 教程，Python 3 版本"
+    },
+    {
+      "sha": "91ca6b97c91d09eb2f3070dce90a8c50b114a9cc",
+      "author_login": null,
+      "authored_at": "2018-05-09T12:57:19Z",
+      "message": "update django documents"
+    },
+    {
+      "sha": "05d56d9f82c9c6b3f183e38eb887f5984870bf3a",
+      "author_login": "liuqun",
+      "authored_at": "2018-05-02T01:56:24Z",
+      "message": "更新 SQLAlchemy 中文文档链接"
+    },
+    {
+      "sha": "464931039d845b6940b8d0154e0e567d675e7919",
+      "author_login": "QianMo",
+      "authored_at": "2018-04-23T03:17:46Z",
+      "message": "添加电子书“《Real-Time Rendering 3rd》提炼总结”"
+    },
+    {
+      "sha": "d4bcb64481c91a1e67d08e10d31157eebb11f298",
+      "author_login": "justjavac",
+      "authored_at": "2018-03-22T01:24:21Z",
+      "message": "移除“移动APP自动化测试优秀框架” fixed #630"
+    },
+    {
+      "sha": "f72f15ab6b177b15600dc26944485733e9e5740e",
+      "author_login": "justjavac",
+      "authored_at": "2018-03-22T01:22:22Z",
+      "message": "修复“HTTP 下午茶”链接 fixed #631"
+    },
+    {
+      "sha": "47b8aa103a3533401f52240ed0e640e0677157da",
+      "author_login": "justjavac",
+      "authored_at": "2018-03-22T01:16:26Z",
+      "message": "前端工程师的入门与进阶"
+    },
+    {
+      "sha": "42eb672e021d87de88e564d940810b1e461b3ff5",
+      "author_login": "justjavac",
+      "authored_at": "2018-03-22T01:15:11Z",
+      "message": "添加如何学习nodejs fixed #632"
+    },
+    {
+      "sha": "f0aef11216c2b887b9e43727e377e8c73bc94fe4",
+      "author_login": "justjavac",
+      "authored_at": "2018-01-24T07:22:46Z",
+      "message": "Merge pull request #611 from dofy/master"
+    },
+    {
+      "sha": "01373bf590f634b78f5604752162c404d1218170",
+      "author_login": "dofy",
+      "authored_at": "2017-12-04T07:15:11Z",
+      "message": "add vim 实操教程"
+    },
+    {
+      "sha": "c9c64e4cc5238c190c5208d9ad6615b36d7a0cb7",
+      "author_login": "justjavac",
+      "authored_at": "2017-11-10T09:48:02Z",
+      "message": "Delete .travis.yml"
+    },
+    {
+      "sha": "1d1fbea8947177d8366d8a5bdedf9602f6ae0cca",
+      "author_login": "justjavac",
+      "authored_at": "2017-11-10T09:44:52Z",
+      "message": "Merge pull request #604 from Adherentman/Adherentman-branch"
+    },
+    {
+      "sha": "001f43dac8838979bb09dd39514e4187593ee4fb",
+      "author_login": "Adherentman",
+      "authored_at": "2017-11-10T09:33:53Z",
+      "message": "更新React中文文档"
+    },
+    {
+      "sha": "3df0f87d7da56c28abdf9e480fe29924d73d4e79",
+      "author_login": "justjavac",
+      "authored_at": "2017-08-09T02:31:48Z",
+      "message": "Merge pull request #581 from justjavac/add-code-of-conduct-1"
+    },
+    {
+      "sha": "97531a1bbb3c9c83f1fe3438bf63335df8f07626",
+      "author_login": "justjavac",
+      "authored_at": "2017-08-09T02:31:14Z",
+      "message": "Create CODE_OF_CONDUCT.md"
+    },
+    {
+      "sha": "d96c729b9e4a17ce257bdc441ccff4fc7425417a",
+      "author_login": "justjavac",
+      "authored_at": "2017-06-03T08:06:46Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "91f56cc0e007be7b18d541941ffa8b458655f3bd",
+      "author_login": "justjavac",
+      "authored_at": "2016-08-11T16:08:31Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "62e1e828a087c90e09741d05410b1c624c9fa552",
+      "author_login": "justjavac",
+      "authored_at": "2016-08-11T15:47:35Z",
+      "message": "Update .travis.yml"
+    },
+    {
+      "sha": "ac0b052ec6d3f6f95332ff484e2cadcec64df151",
+      "author_login": "justjavac",
+      "authored_at": "2016-08-01T00:37:51Z",
+      "message": "Merge pull request #523 from spacewander/patch-2"
+    },
+    {
+      "sha": "c262ec148967064d83493a1dbe78e6d4a3087b18",
+      "author_login": "justjavac",
+      "authored_at": "2016-08-01T00:37:03Z",
+      "message": "Merge pull request #522 from wizardforcel/master"
+    },
+    {
+      "sha": "bf1802899a691574230a5d2b8df710e5d2b2c692",
+      "author_login": "spacewander",
+      "authored_at": "2016-07-31T05:57:05Z",
+      "message": "添加《The Twelve-Factor App》一书的中文翻译"
+    },
+    {
+      "sha": "e8f9e85c508717e3dc6d9aeb0b25cf217ddb8b6a",
+      "author_login": "wizardforcel",
+      "authored_at": "2016-07-30T14:39:09Z",
+      "message": "add python-quant"
+    },
+    {
+      "sha": "b207b99862ae20fd592c44b6ad137f5997dfb9f1",
+      "author_login": "justjavac",
+      "authored_at": "2016-07-22T00:38:01Z",
+      "message": "Merge pull request #521 from wizardforcel/master"
+    },
+    {
+      "sha": "70519e4aaaead03409080c24b2a6fdb8aca59fea",
+      "author_login": "wizardforcel",
+      "authored_at": "2016-07-21T10:31:31Z",
+      "message": "add modern-java"
+    },
+    {
+      "sha": "4c236a6b684aec367cf46448de53bb0960399673",
+      "author_login": "justjavac",
+      "authored_at": "2016-07-18T02:30:13Z",
+      "message": "NoSQL数据库笔谈"
+    },
+    {
+      "sha": "eab9077f7ec23184d9ab143ccf4ec15777e3976b",
+      "author_login": "justjavac",
+      "authored_at": "2016-07-18T02:26:19Z",
+      "message": "Merge pull request #520 from HmyBmny/patch-1"
+    },
+    {
+      "sha": "784ef4a313213f97b7a8f0116fb22b454f1ce009",
+      "author_login": "justjavac",
+      "authored_at": "2016-07-18T02:24:13Z",
+      "message": "新增:Golang, Apache Spark,Atom手册 fixed #410"
+    },
+    {
+      "sha": "ac2c45e4cc6539aede4fa0096685e06a94ee0eaa",
+      "author_login": "kingofctrl",
+      "authored_at": "2016-07-16T10:44:29Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d74001dd85d61ff86025d9ccfe6e965a683fcc86",
+      "author_login": "justjavac",
+      "authored_at": "2016-07-12T01:14:56Z",
+      "message": "Merge pull request #519 from wizardforcel/master"
+    },
+    {
+      "sha": "6d07b349dbf2f8332175a1b0f6d4e40d528cde39",
+      "author_login": "wizardforcel",
+      "authored_at": "2016-07-09T04:02:24Z",
+      "message": "add some books"
+    },
+    {
+      "sha": "3ba679e947d668e8c9de6e373fd335460811d5c2",
+      "author_login": "justjavac",
+      "authored_at": "2016-07-07T04:37:31Z",
+      "message": "Merge pull request #518 from skiy/master"
+    }
+  ],
+  "issues": [
+    {
+      "number": 890,
+      "title": "docs: 修复 Javascript 源码链接中的拼写错误",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-04T11:20:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 889,
+      "title": "docs: 修复 Javascript 源码链接中的拼写错误",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-03T08:58:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 887,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-04T07:13:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 886,
+      "title": "stackoverflow 中文版链接失效",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-03-18T06:28:10Z",
+      "closed_at": "2025-03-18T07:13:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 885,
+      "title": "标注失效链接",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-09-02T08:38:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 884,
+      "title": "码农高天(python核心开发者)的 B 站 python 教程",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-07-15T08:55:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 883,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-05-05T12:56:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 882,
+      "title": "Add Linux 内核实验",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-04-22T02:45:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 881,
+      "title": "Add 动手学深度学习",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-04-02T05:47:32Z",
+      "closed_at": "2024-10-16T13:33:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 880,
+      "title": "[编程艺术] add 重构 改善既有代码的设计",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-03-20T10:08:18Z",
+      "closed_at": "2024-04-07T06:59:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 879,
+      "title": "add 设计模式图文并茂版",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-23T10:13:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 878,
+      "title": "docs: 添加一本设计模式书籍",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-21T19:41:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 877,
+      "title": "add 编程网站目录",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-19T05:40:15Z",
+      "closed_at": "2024-01-22T00:24:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 876,
+      "title": "Create changes.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-12-07T11:00:30Z",
+      "closed_at": "2023-12-07T14:01:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 875,
+      "title": "标注失效链接 :worried:",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-28T08:59:27Z",
+      "closed_at": "2023-11-13T08:33:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 874,
+      "title": "Fix links, add 1 pdf book.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-28T01:45:25Z",
+      "closed_at": "2024-09-14T02:42:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 873,
+      "title": "Create Test",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-12T04:25:11Z",
+      "closed_at": "2023-09-22T03:48:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 871,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-06-07T08:13:22Z",
+      "closed_at": "2023-06-08T08:51:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 870,
+      "title": "添加了四本GoLang编程书籍",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-14T03:00:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 868,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-03-24T04:22:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 867,
+      "title": "修正內文",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-03-04T11:09:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 866,
+      "title": "aniket commited",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-02-10T21:47:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 865,
+      "title": "Updated a helpful resource to this repository.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-05T13:02:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 864,
+      "title": "Two of the links here are broken.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-05T08:12:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 863,
+      "title": "Pr/862",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-24T06:28:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 862,
+      "title": "添加`Go语言设计与实现`一书推荐",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-26T04:02:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 861,
+      "title": "无法访问 `Google JavaScript 代码风格指南`",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-08-13T10:24:50Z",
+      "closed_at": "2024-07-09T06:29:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 860,
+      "title": "添加了MySQL书籍",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-08-09T13:47:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 859,
+      "title": "加入了MySQL书籍",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-08-09T13:07:58Z",
+      "closed_at": "2022-08-09T13:40:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 858,
+      "title": "添加 Spring 系列中文文档",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-08-06T11:07:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 857,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-07-17T14:37:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 856,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-07-15T10:19:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 855,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-07-02T06:33:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 854,
+      "title": "Software Engineering at Google",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-30T03:54:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 853,
+      "title": "標示已失效的網址",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-13T12:26:59Z",
+      "closed_at": "2023-03-31T06:41:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 852,
+      "title": "增加《Rust语言圣经(Rust Course)》",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-13T05:01:25Z",
+      "closed_at": "2023-04-06T02:09:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 851,
+      "title": "update buy-me-a-coffee-wechat",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-13T03:15:47Z",
+      "closed_at": "2022-06-13T03:15:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 850,
+      "title": "Create Android Design",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-04-06T12:17:28Z",
+      "closed_at": "2022-06-13T03:16:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 849,
+      "title": "Linux 设备驱动 (第三版) 链接失效",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-22T14:03:29Z",
+      "closed_at": "2022-06-13T03:22:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 848,
+      "title": "添加了R语言教程、Python黑魔法手册",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-15T10:01:34Z",
+      "closed_at": "2022-06-13T03:22:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 847,
+      "title": "通过例子学 Rust 中文版",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-04T07:51:11Z",
+      "closed_at": "2022-06-13T03:22:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 846,
+      "title": "Update README.md（添加Node相关电子书籍）",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-03T12:34:28Z",
+      "closed_at": "2022-06-13T03:23:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 845,
+      "title": "add book 《游戏引擎 浅入浅出》",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-16T16:11:04Z",
+      "closed_at": "2022-06-13T03:25:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 844,
+      "title": "上传关于Python编程入门和机器学习入门的pdf",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-31T12:25:42Z",
+      "closed_at": "2022-06-13T03:25:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 843,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-12-07T08:06:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 842,
+      "title": "[Python 官方文档中文版]链接不能正常访问",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-09-08T08:10:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 840,
+      "title": "Merge pull request #1 from justjavac/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-23T06:59:50Z",
+      "closed_at": "2021-08-23T07:00:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 839,
+      "title": "Merge pull request #1 from justjavac/master",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-07-13T15:40:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 837,
+      "title": "add book 《通过测试驱动开发学习 Go 语言》",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-17T05:49:47Z",
+      "closed_at": "2024-11-14T08:53:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 836,
+      "title": "python 模块部分书籍链接失效的woried标记",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-04-30T01:09:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 835,
+      "title": "add worried to 背包问题九讲",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-04-28T06:04:16Z",
+      "closed_at": "2025-09-11T07:01:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 834,
+      "title": "Android Design(中文版) 链接不能正常访问",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-25T16:30:50Z",
+      "closed_at": "2022-09-05T03:48:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 833,
+      "title": "docs: add go源码剖析",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-03-25T01:18:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 832,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-03-04T01:38:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 831,
+      "title": "`Python自然语言处理中文版`链接失效",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-03T02:28:46Z",
+      "closed_at": "2022-06-13T03:16:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 830,
+      "title": "Mysql链接失效",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-01T01:38:53Z",
+      "closed_at": "2022-06-13T03:16:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 829,
+      "title": "修正《haskell趣学指南》链接",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-02-22T05:19:56Z",
+      "closed_at": "2024-11-14T08:53:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 828,
+      "title": "Create bundle.yml",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-02-20T10:06:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 827,
+      "title": "链接失效",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-02-16T15:39:19Z",
+      "closed_at": "2026-05-04T01:02:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 826,
+      "title": "Python 标准库 中文版链接失效;添加新链接",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-02-03T09:12:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 825,
+      "title": "[Feature](README.md): add \"labuladong 的算法小抄\".",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-24T03:59:16Z",
+      "closed_at": "2022-06-13T03:20:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 824,
+      "title": "更新《Google Java编程风格指南》的链接",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-13T11:28:17Z",
+      "closed_at": "2022-06-13T03:20:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 823,
+      "title": "docs: add serverless & migration",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-08T06:29:46Z",
+      "closed_at": "2021-01-08T06:33:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 822,
+      "title": "更新《数据结构与算法/leetcode/lintcode题解》书名与链接；",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-06T13:41:11Z",
+      "closed_at": "2021-01-24T13:15:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 821,
+      "title": "更新 《深入分析 Linux 内核源码》 链接",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-25T00:53:09Z",
+      "closed_at": "2022-06-13T03:16:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 820,
+      "title": "Merge pull request #1 from justjavac/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-11-27T03:40:06Z",
+      "closed_at": "2022-06-13T03:19:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 819,
+      "title": "添加 LeetCode Cookbook",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-04T05:38:29Z",
+      "closed_at": "2022-06-13T03:16:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 818,
+      "title": "更新《逐行剖析 Vue.js 源码》的链接",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-08-26T12:51:43Z",
+      "closed_at": "2021-08-07T08:51:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 817,
+      "title": "Merge pull request #1 from justjavac/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-22T01:16:41Z",
+      "closed_at": "2020-07-22T01:25:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 816,
+      "title": "Merge pull request #1 from justjavac/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-21T13:29:31Z",
+      "closed_at": "2020-07-21T13:36:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 814,
+      "title": "Add 2 learning resources on Git / Version Control",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-19T12:05:28Z",
+      "closed_at": "2022-06-13T03:19:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 813,
+      "title": "更新了emacs 相关和 两本thinkphp开发手册",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-01T02:28:41Z",
+      "closed_at": "2022-06-13T03:19:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 812,
+      "title": "修改“用Python做科学计算”网址",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-30T00:42:28Z",
+      "closed_at": "2022-06-13T03:18:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 811,
+      "title": "“用Python做科学计算”链接失效",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-28T03:12:29Z",
+      "closed_at": "2020-04-30T00:08:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 810,
+      "title": "Translated the Readme file to English",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-25T10:47:37Z",
+      "closed_at": "2020-04-27T13:01:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 745,
+      "title": "update link for sea.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-12-18T06:48:16Z",
+      "closed_at": "2019-12-18T06:53:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 736,
+      "title": "Update C#",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-11-24T12:38:37Z",
+      "closed_at": "2020-02-04T12:16:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 735,
+      "title": "Create Yey",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-11-24T03:57:56Z",
+      "closed_at": "2020-02-04T12:16:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 729,
+      "title": "Merge pull request #1 from justjavac/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-10-20T04:20:20Z",
+      "closed_at": "2020-02-04T12:15:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 728,
+      "title": "Leetcode-php",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-10-12T10:05:33Z",
+      "closed_at": "2020-02-05T02:49:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 723,
+      "title": "分布式内存数据库voltdb管理手册",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-23T14:08:30Z",
+      "closed_at": "2020-02-04T12:28:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 722,
+      "title": "添加 Go语言高级编程 等四本 Go 语言书籍.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-11T07:34:28Z",
+      "closed_at": "2020-02-04T12:13:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 719,
+      "title": "添加Flask入门教程",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-08-17T02:45:05Z",
+      "closed_at": "2020-02-04T12:11:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 718,
+      "title": "20190720",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-07-20T02:55:29Z",
+      "closed_at": "2019-07-20T02:55:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 716,
+      "title": " 新增《awk实战指南》以及修复 把《编程珠玑》读薄的链接",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-07-12T08:09:42Z",
+      "closed_at": "2020-02-04T12:27:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 712,
+      "title": "Change jS book location",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-07-04T06:08:24Z",
+      "closed_at": "2020-02-04T12:27:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 710,
+      "title": "fix link: Clojure/Clojure入门教程",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-20T15:12:40Z",
+      "closed_at": "2020-02-04T12:26:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 709,
+      "title": "fix link: C# 超全面的 .NET GDI+ 图形图像编程教程",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-20T15:11:15Z",
+      "closed_at": "2020-02-04T12:26:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 708,
+      "title": "增加 Effective Java 第3版中文版",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-15T05:10:20Z",
+      "closed_at": "2020-02-04T12:26:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 706,
+      "title": "update 鸟哥的Linux私房菜,原网址失效",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-06T14:58:35Z",
+      "closed_at": "2020-02-04T12:25:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 705,
+      "title": "add Kotlin",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-01T13:16:45Z",
+      "closed_at": "2019-06-06T07:34:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 704,
+      "title": "update link of rust book",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-30T04:29:39Z",
+      "closed_at": "2019-06-06T07:33:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 702,
+      "title": "Update what-non-programming-books-should-programmers-read.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-27T06:30:35Z",
+      "closed_at": "2019-06-06T07:33:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 692,
+      "title": "add 《不可替代的团队领袖培养计划》",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-18T06:31:23Z",
+      "closed_at": "2019-06-06T07:36:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 690,
+      "title": "增加 On Java 8 中文版,事实上的 Java 编程思想第五版",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-28T10:44:56Z",
+      "closed_at": "2019-06-06T07:35:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 687,
+      "title": "增加Django条目：Django 2.1 搭建个人博客教程",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-25T11:28:51Z",
+      "closed_at": "2019-06-06T07:34:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 685,
+      "title": "增加 Web性能实践日志 (中文版 PDF)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-17T05:10:21Z",
+      "closed_at": "2020-02-04T12:24:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 684,
+      "title": "更新 Web 性能实践日志 （中文版 PDF）",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-17T04:49:07Z",
+      "closed_at": "2019-03-17T04:51:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 683,
+      "title": "增加 Swift 官方预览版同步中文文档",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-06T03:11:16Z",
+      "closed_at": "2019-04-29T00:18:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 682,
+      "title": "增加 现代JavaScript教程",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-05T13:39:26Z",
+      "closed_at": "2019-06-06T07:37:09Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "justjavac",
+      "contributions": 557
+    },
+    {
+      "login": "spacewander",
+      "contributions": 48
+    },
+    {
+      "login": "hacpai",
+      "contributions": 22
+    },
+    {
+      "login": "hoosin",
+      "contributions": 19
+    },
+    {
+      "login": "wizardforcel",
+      "contributions": 17
+    },
+    {
+      "login": "OwenCedaric",
+      "contributions": 11
+    },
+    {
+      "login": "qha0731",
+      "contributions": 8
+    },
+    {
+      "login": "SDLyu",
+      "contributions": 7
+    },
+    {
+      "login": "wangminli",
+      "contributions": 7
+    },
+    {
+      "login": "lk375273991",
+      "contributions": 6
+    },
+    {
+      "login": "chencl",
+      "contributions": 6
+    },
+    {
+      "login": "myd7349",
+      "contributions": 6
+    },
+    {
+      "login": "theJian",
+      "contributions": 5
+    },
+    {
+      "login": "ReadmeCritic",
+      "contributions": 4
+    },
+    {
+      "login": "phodal",
+      "contributions": 3
+    },
+    {
+      "login": "ywfwj2008",
+      "contributions": 3
+    },
+    {
+      "login": "shidephen",
+      "contributions": 3
+    },
+    {
+      "login": "0532",
+      "contributions": 3
+    },
+    {
+      "login": "linkgod",
+      "contributions": 3
+    },
+    {
+      "login": "howiefh",
+      "contributions": 3
+    },
+    {
+      "login": "Jancd",
+      "contributions": 3
+    },
+    {
+      "login": "Yixiaohan",
+      "contributions": 2
+    },
+    {
+      "login": "ksky521",
+      "contributions": 2
+    },
+    {
+      "login": "wangjiezhe",
+      "contributions": 2
+    },
+    {
+      "login": "vforbox",
+      "contributions": 2
+    },
+    {
+      "login": "maguowei",
+      "contributions": 2
+    },
+    {
+      "login": "hacke2",
+      "contributions": 2
+    },
+    {
+      "login": "zombie110year",
+      "contributions": 2
+    },
+    {
+      "login": "Mooophy",
+      "contributions": 2
+    },
+    {
+      "login": "xuxiaodong",
+      "contributions": 2
+    },
+    {
+      "login": "dgeibi",
+      "contributions": 2
+    },
+    {
+      "login": "lzufalcon",
+      "contributions": 2
+    },
+    {
+      "login": "ztmark",
+      "contributions": 2
+    },
+    {
+      "login": "Liam0205",
+      "contributions": 2
+    },
+    {
+      "login": "Go7hic",
+      "contributions": 2
+    },
+    {
+      "login": "flyhigher139",
+      "contributions": 2
+    },
+    {
+      "login": "dragonhnd",
+      "contributions": 2
+    },
+    {
+      "login": "L-Jovi",
+      "contributions": 2
+    },
+    {
+      "login": "lkxiaolou",
+      "contributions": 1
+    },
+    {
+      "login": "Adherentman",
+      "contributions": 1
+    },
+    {
+      "login": "muxik",
+      "contributions": 1
+    },
+    {
+      "login": "ph87",
+      "contributions": 1
+    },
+    {
+      "login": "startalks",
+      "contributions": 1
+    },
+    {
+      "login": "time-river",
+      "contributions": 1
+    },
+    {
+      "login": "tsstss123",
+      "contributions": 1
+    },
+    {
+      "login": "unityoxb",
+      "contributions": 1
+    },
+    {
+      "login": "vansteki",
+      "contributions": 1
+    },
+    {
+      "login": "kelubo",
+      "contributions": 1
+    },
+    {
+      "login": "Ljhero",
+      "contributions": 1
+    },
+    {
+      "login": "keelii",
+      "contributions": 1
+    },
+    {
+      "login": "huguangju",
+      "contributions": 1
+    },
+    {
+      "login": "yunkaiyueming",
+      "contributions": 1
+    },
+    {
+      "login": "ghostsf",
+      "contributions": 1
+    },
+    {
+      "login": "feythin",
+      "contributions": 1
+    },
+    {
+      "login": "cos800",
+      "contributions": 1
+    },
+    {
+      "login": "chancyWu",
+      "contributions": 1
+    },
+    {
+      "login": "callinglove",
+      "contributions": 1
+    },
+    {
+      "login": "caimaoy",
+      "contributions": 1
+    },
+    {
+      "login": "hbzs",
+      "contributions": 1
+    },
+    {
+      "login": "ThisisGame",
+      "contributions": 1
+    },
+    {
+      "login": "lfzm",
+      "contributions": 1
+    },
+    {
+      "login": "Haceau-Zoac",
+      "contributions": 1
+    },
+    {
+      "login": "imba-tjd",
+      "contributions": 1
+    },
+    {
+      "login": "jysperm",
+      "contributions": 1
+    },
+    {
+      "login": "loocao",
+      "contributions": 1
+    },
+    {
+      "login": "QianMo",
+      "contributions": 1
+    },
+    {
+      "login": "Montia37",
+      "contributions": 1
+    },
+    {
+      "login": "lichunqiang",
+      "contributions": 1
+    },
+    {
+      "login": "me115",
+      "contributions": 1
+    },
+    {
+      "login": "zhou-yg",
+      "contributions": 1
+    },
+    {
+      "login": "Flowerowl",
+      "contributions": 1
+    },
+    {
+      "login": "yuche",
+      "contributions": 1
+    },
+    {
+      "login": "yeshan333",
+      "contributions": 1
+    },
+    {
+      "login": "xiaoweiChen",
+      "contributions": 1
+    },
+    {
+      "login": "wwj718",
+      "contributions": 1
+    },
+    {
+      "login": "wwek",
+      "contributions": 1
+    },
+    {
+      "login": "wuqinqiang",
+      "contributions": 1
+    },
+    {
+      "login": "withwind93",
+      "contributions": 1
+    },
+    {
+      "login": "dinglixiang",
+      "contributions": 1
+    },
+    {
+      "login": "liuqun",
+      "contributions": 1
+    },
+    {
+      "login": "lingcoder",
+      "contributions": 1
+    },
+    {
+      "login": "Lich2013",
+      "contributions": 1
+    },
+    {
+      "login": "kungkao",
+      "contributions": 1
+    },
+    {
+      "login": "KevinHu-1024",
+      "contributions": 1
+    },
+    {
+      "login": "kxxoling",
+      "contributions": 1
+    },
+    {
+      "login": "AICodeHunt",
+      "contributions": 1
+    },
+    {
+      "login": "2dxgujun",
+      "contributions": 1
+    },
+    {
+      "login": "JuanitoFatas",
+      "contributions": 1
+    },
+    {
+      "login": "sjsdfg",
+      "contributions": 1
+    },
+    {
+      "login": "zenghongtu",
+      "contributions": 1
+    },
+    {
+      "login": "ylvict",
+      "contributions": 1
+    },
+    {
+      "login": "Hawstein",
+      "contributions": 1
+    },
+    {
+      "login": "stacklens",
+      "contributions": 1
+    },
+    {
+      "login": "chen56",
+      "contributions": 1
+    },
+    {
+      "login": "kingofctrl",
+      "contributions": 1
+    },
+    {
+      "login": "Blyth0He",
+      "contributions": 1
+    },
+    {
+      "login": "qddegtya",
+      "contributions": 1
+    },
+    {
+      "login": "AlanViast",
+      "contributions": 1
+    },
+    {
+      "login": "bzy-nya",
+      "contributions": 1
+    },
+    {
+      "login": "bolasblack",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "3.0",
+      "published_at": "2018-11-05T05:21:03Z"
+    },
+    {
+      "tag": "v2.0",
+      "published_at": "2017-08-21T16:54:24Z"
+    },
+    {
+      "tag": "v1.0",
+      "published_at": "2016-08-11T16:09:33Z"
+    }
+  ],
+  "collected_at": "2026-06-28T08:53:10.772118Z"
+}

@@ -1,0 +1,107 @@
+{
+  "full_name": "justjavac/free-programming-books-zh_CN",
+  "cause": "maintainer_abandonment",
+  "confidence": 0.9,
+  "death_score": 0.901,
+  "supporting_evidence": [
+    {
+      "analyzer": "commits",
+      "code": "last_commit_age",
+      "summary": "Last commit was 888 days ago",
+      "severity": "high",
+      "value": 888,
+      "unit": "days"
+    },
+    {
+      "analyzer": "releases",
+      "code": "last_release_age",
+      "summary": "Last release was 7.6 years ago",
+      "severity": "high",
+      "value": 2792,
+      "unit": "days"
+    },
+    {
+      "analyzer": "commits",
+      "code": "commit_frequency",
+      "summary": "Averaged 1.1 commits/month over history",
+      "severity": "info",
+      "value": 1.09,
+      "unit": "commits/month"
+    }
+  ],
+  "analyses": [
+    {
+      "analyzer": "commits",
+      "evidence": [
+        {
+          "analyzer": "commits",
+          "code": "last_commit_age",
+          "summary": "Last commit was 888 days ago",
+          "severity": "high",
+          "value": 888,
+          "unit": "days"
+        },
+        {
+          "analyzer": "commits",
+          "code": "commit_frequency",
+          "summary": "Averaged 1.1 commits/month over history",
+          "severity": "info",
+          "value": 1.09,
+          "unit": "commits/month"
+        }
+      ],
+      "metrics": {
+        "analyzer": "commits",
+        "metrics": {
+          "commit_count_window": 100.0,
+          "days_since_last_commit": 888.4,
+          "commits_per_month": 1.09
+        }
+      }
+    },
+    {
+      "analyzer": "contributors",
+      "evidence": [],
+      "metrics": {
+        "analyzer": "contributors",
+        "metrics": {
+          "contributor_count": 100.0,
+          "total_contributions": 840.0,
+          "top_contributor_share": 0.663
+        }
+      }
+    },
+    {
+      "analyzer": "issues",
+      "evidence": [],
+      "metrics": {
+        "analyzer": "issues",
+        "metrics": {
+          "issue_count": 0.0,
+          "open_issue_count": 0.0
+        }
+      }
+    },
+    {
+      "analyzer": "releases",
+      "evidence": [
+        {
+          "analyzer": "releases",
+          "code": "last_release_age",
+          "summary": "Last release was 7.6 years ago",
+          "severity": "high",
+          "value": 2792,
+          "unit": "days"
+        }
+      ],
+      "metrics": {
+        "analyzer": "releases",
+        "metrics": {
+          "release_count": 3.0,
+          "days_since_last_release": 2792.1
+        }
+      }
+    }
+  ],
+  "narrative": null
+}

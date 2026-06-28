@@ -1,0 +1,2143 @@
+{
+  "full_name": "PanJiaChen/vue-element-admin",
+  "owner": "PanJiaChen",
+  "name": "vue-element-admin",
+  "url": "https://github.com/PanJiaChen/vue-element-admin",
+  "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin",
+  "primary_language": "Vue",
+  "topics": [
+    "admin",
+    "admin-dashboard",
+    "admin-template",
+    "axios",
+    "dashboard",
+    "desktop",
+    "element",
+    "element-ui",
+    "i18n",
+    "management-system",
+    "mock",
+    "tinymce",
+    "vue",
+    "vue-admin",
+    "vue-cli",
+    "vuex",
+    "webpack",
+    "webpack4",
+    "xlsx"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 90251,
+  "forks": 30423,
+  "open_issues": 1402,
+  "created_at": "2017-04-17T03:35:49Z",
+  "pushed_at": "2024-10-24T11:25:46Z",
+  "updated_at": "2026-06-28T08:51:27Z",
+  "commits": [
+    {
+      "sha": "6858a9ad67483025f6a9432a926beb9327037be3",
+      "author_login": "PanJiaChen",
+      "authored_at": "2024-10-24T11:25:43Z",
+      "message": "docs: update sponsor"
+    },
+    {
+      "sha": "0caa975ee224074c77540107b1fe076081cdf306",
+      "author_login": "PanJiaChen",
+      "authored_at": "2022-04-11T03:32:06Z",
+      "message": "docs: update sponsor image src"
+    },
+    {
+      "sha": "cd3f72674988f8a1b48f789d2bd79a04d0d8d5fe",
+      "author_login": "PanJiaChen",
+      "authored_at": "2022-04-11T02:30:57Z",
+      "message": "docs: update sponsor"
+    },
+    {
+      "sha": "7ddfe81749639ddc1a8cd1b2ecbbf6f79400fb66",
+      "author_login": "PanJiaChen",
+      "authored_at": "2021-12-07T10:55:16Z",
+      "message": "docs: update"
+    },
+    {
+      "sha": "805965e8f23a5447f96e442f0d9eb57195642a71",
+      "author_login": "PanJiaChen",
+      "authored_at": "2021-12-07T10:54:03Z",
+      "message": "docs: update sponsor"
+    },
+    {
+      "sha": "e680b8fa7b55df450f0c68b0dc13e6de77ef3509",
+      "author_login": "PanJiaChen",
+      "authored_at": "2021-12-07T10:26:52Z",
+      "message": "docs: update sponsor"
+    },
+    {
+      "sha": "0e61e6d82db606cdcdfbadde2a7f8ea887a8b012",
+      "author_login": "PanJiaChen",
+      "authored_at": "2021-11-19T07:18:26Z",
+      "message": "docs: update readme"
+    },
+    {
+      "sha": "33a93a12b4dc6429dbe91f43ef17fb76236f2d6c",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-12-04T05:50:23Z",
+      "message": "feat: add new sponsored"
+    },
+    {
+      "sha": "1bc2e5c1980b2e5131164849f66dd4f03216806d",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-09-08T02:01:50Z",
+      "message": "docs: add coupon"
+    },
+    {
+      "sha": "9cc3fa732aece1b67a95167cd6bd2a3b1f6ef43e",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-09-07T13:45:28Z",
+      "message": "perf: refine documentation button css"
+    },
+    {
+      "sha": "44e23d00ca0ac173b13106a11bfe116f6631ec49",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-09-07T13:37:44Z",
+      "message": "docs: add vue-java-admin-dashboard-spring"
+    },
+    {
+      "sha": "8fd08c9167d69e050788b3ac9fbfdbde670a85d6",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-08-30T14:57:38Z",
+      "message": "docs: remove gitads"
+    },
+    {
+      "sha": "5e7113935cf9b0ba69867ae569cccda95b687118",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-07-27T02:08:38Z",
+      "message": "docs: add GitAds"
+    },
+    {
+      "sha": "46e11caafce93f03c2158244931ca84cd075ce6d",
+      "author_login": "kerolloz",
+      "authored_at": "2020-07-20T10:13:01Z",
+      "message": "typo: replace Css with CSS (#3323)"
+    },
+    {
+      "sha": "ea604783043942a7281dcb66f5d19ebf887ddad5",
+      "author_login": "dyzsoft",
+      "authored_at": "2020-07-05T05:12:46Z",
+      "message": "perf[permission.js]: remove useless code (#3301)"
+    },
+    {
+      "sha": "fe22b3cd943622e45fab0292aaa5dc6eac70f767",
+      "author_login": "crayymumu",
+      "authored_at": "2020-07-01T05:50:18Z",
+      "message": "perf[Tinymce]: remove useless code (#3295)"
+    },
+    {
+      "sha": "7c062141906bfff672232b1a42b35a42db8a43c3",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-06-24T02:17:57Z",
+      "message": "perf[chore]: remove preserveWhitespace config (#3280)"
+    },
+    {
+      "sha": "73a9ab03797dcc6ad91e2150280401857957884f",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-06-23T13:12:44Z",
+      "message": "fix[chore]: do not preload runtime.js (#3279)"
+    },
+    {
+      "sha": "585391228ecf9150247cf755510eb741a7fe18dd",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-06-21T13:39:37Z",
+      "message": "[release] 4.4.0"
+    },
+    {
+      "sha": "ae2aa61880ff2bb1edde0059d87eddebdba18f3c",
+      "author_login": "dihak",
+      "authored_at": "2020-06-21T13:25:55Z",
+      "message": "bump: update to vue-cli@4 (#3028)"
+    },
+    {
+      "sha": "f6d8204b0b6fbb794ada0c99391b7b85ce976380",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-06-18T13:01:02Z",
+      "message": "[release] 4.3.1"
+    },
+    {
+      "sha": "435db380d3d26a902d6c03092f1aeb2d316b26b1",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-06-15T09:18:55Z",
+      "message": "fix some typos"
+    },
+    {
+      "sha": "6d88db5c73ea54063190830da3d1a40421c51bf3",
+      "author_login": "qige2016",
+      "authored_at": "2020-06-15T04:00:17Z",
+      "message": "fix[plop]: set trim => trim() (#3254)"
+    },
+    {
+      "sha": "1c943509f9788297f0ddc188208f9501648c8e7f",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-06-12T02:18:05Z",
+      "message": "chore: update element-ui to 2.13.2"
+    },
+    {
+      "sha": "4e7665c07226cf3bc3278a9af1bf60fe6782cb7d",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-06-11T13:02:18Z",
+      "message": "fix[v-permission]: support dynamic set roles (#3251)"
+    },
+    {
+      "sha": "a87218e2663210be30171b92b29e5ea894f12085",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-06-11T12:51:10Z",
+      "message": "perf: lint code"
+    },
+    {
+      "sha": "7702b3d809a312feb2a9eb7c7a70fef3ea0628b8",
+      "author_login": "Silentdoer",
+      "authored_at": "2020-06-11T12:24:17Z",
+      "message": "perf: remove unused showdown"
+    },
+    {
+      "sha": "a50180f6538aba51074f0152157075337e73a4fd",
+      "author_login": "mayunhai",
+      "authored_at": "2020-06-11T12:18:23Z",
+      "message": "fix[utils]: param2Obj bug when url params includes ==(#3100)"
+    },
+    {
+      "sha": "fc68f56d130387b0f0320f8611d8e33e76525376",
+      "author_login": "Cat7373",
+      "authored_at": "2020-06-11T05:57:41Z",
+      "message": "feat[Menu]: menu icon support el-icon(#3048)"
+    },
+    {
+      "sha": "d3bd933a8e314e5e51d48125dbcda9e3df8ee673",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-06-11T03:40:53Z",
+      "message": "refactor: change mock files to commonjs (#3246)"
+    },
+    {
+      "sha": "0bf61aac535b7799a0f17573741fee507003a7e4",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-06-10T13:47:50Z",
+      "message": "chore: turn on the preload"
+    },
+    {
+      "sha": "2ef49493c33e97092de8fc4bf46bad68a375713f",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-06-09T02:51:27Z",
+      "message": "docs: fix wrong link"
+    },
+    {
+      "sha": "f14805d0cdd4e2ebe1ddbe74d0710f03fd79e437",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-06-08T13:35:01Z",
+      "message": "[release] 4.3.0"
+    },
+    {
+      "sha": "c5abe7532ce24ac2b3c26a92ab76c95e67b02477",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-06-08T12:39:45Z",
+      "message": "perf: change >>> ::v-deep"
+    },
+    {
+      "sha": "534cd5bc269261408d74c6bb743cec8b20dfd8cd",
+      "author_login": "Cat7373",
+      "authored_at": "2020-06-08T12:41:46Z",
+      "message": "chore: change node-sass to dart-sass (#3040)"
+    },
+    {
+      "sha": "f1feb2a86d35b7e78ee6db18bd99c584e0a4cad3",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-06-08T11:38:55Z",
+      "message": "[release] 4.2.2"
+    },
+    {
+      "sha": "0ae5079b2a330ceb4b14c16962256eed21335456",
+      "author_login": null,
+      "authored_at": "2020-06-05T05:32:15Z",
+      "message": "docs: Improve read me files and changes in Spanish. (#3234)"
+    },
+    {
+      "sha": "6f80263b4251fa72e04ac3d6a11f147b2d45aeea",
+      "author_login": "giscafer",
+      "authored_at": "2020-05-08T03:43:39Z",
+      "message": "fix[css]: min btn width (#3164)"
+    },
+    {
+      "sha": "5890499077589db1c04c7a72c4dacaa97a58f87c",
+      "author_login": "c-f-cooper",
+      "authored_at": "2020-05-05T05:21:51Z",
+      "message": "fix[parseTime]: fixed when pass null (#3038)"
+    },
+    {
+      "sha": "29b4ff636b36d8a3b4fc2707251e671e995ba9b4",
+      "author_login": "dongxiaosun",
+      "authored_at": "2020-05-05T04:55:22Z",
+      "message": "perf: when tags-view scroll close the right-menu"
+    },
+    {
+      "sha": "e692876c289a227b92476b13b355987a18b59422",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-05-05T03:06:51Z",
+      "message": "docs: add tips"
+    },
+    {
+      "sha": "6dacb783b2c58190e568603e6125883f071528d4",
+      "author_login": "garethx",
+      "authored_at": "2020-05-04T15:05:29Z",
+      "message": "feat: add option to try project on CodeSandbox (#2976)"
+    },
+    {
+      "sha": "a2784dd6ef2e11c9c1242b451fdc3241df1ec70e",
+      "author_login": null,
+      "authored_at": "2020-05-04T13:51:21Z",
+      "message": "perf: change default element-ui language to english (#2741)"
+    },
+    {
+      "sha": "fc26c3106fefda7ff80afdc8bcad06f0b1ef2909",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-05-04T13:30:58Z",
+      "message": "fix: compatibility with vetur (#1700)"
+    },
+    {
+      "sha": "9580c43a8ee2ce9c71c1db6011941c7338bebfe2",
+      "author_login": "ntnyq",
+      "authored_at": "2020-04-28T10:26:34Z",
+      "message": "fix[element-variables]: missing space in element-variables (#3144)"
+    },
+    {
+      "sha": "1b8f726529b6d2b6384ee55db44b24daadc3dfa8",
+      "author_login": "aisen60",
+      "authored_at": "2020-04-28T02:10:58Z",
+      "message": "perf[Tinymce]: editor try to keep these URLs intact (#3141)"
+    },
+    {
+      "sha": "d4405464ceb53513bff7ec6caf07113623e95383",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-04-22T02:31:46Z",
+      "message": "fix: use vue-cli default source-map (#3097)"
+    },
+    {
+      "sha": "9d8c7edf91d73bf543d8034a0871f179536774be",
+      "author_login": "sabatale",
+      "authored_at": "2020-04-04T07:53:26Z",
+      "message": "fixed typo (#3091)"
+    },
+    {
+      "sha": "6eccffeb2f9037e873591944e119d0246139ffc7",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-03-28T03:16:41Z",
+      "message": "fix: svg support old broswer (#3085)"
+    },
+    {
+      "sha": "f7a9d211094c11600d812f8bbd1f8b5f32fa66b8",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-03-27T04:32:30Z",
+      "message": "Update README.zh-CN.md"
+    },
+    {
+      "sha": "993a6c72e8c25d8c70ef5ec79e432a1e20c56328",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-03-27T03:57:40Z",
+      "message": "docs: add smallsticker"
+    },
+    {
+      "sha": "9e0435ac85da58b74692594be7770c0920cc707d",
+      "author_login": "echofly",
+      "authored_at": "2020-03-24T02:17:18Z",
+      "message": "perf: format component names as PascalCase (#3074)"
+    },
+    {
+      "sha": "776f10e19720039d39593064663b618fbdb0e837",
+      "author_login": "aisen60",
+      "authored_at": "2020-03-20T13:24:31Z",
+      "message": "fix:fixed parseTime bug in ie and safari(#3066)"
+    },
+    {
+      "sha": "c2a5a159564d17b982e3903455c20c7b9f65e9bb",
+      "author_login": "echofly",
+      "authored_at": "2020-03-18T11:22:38Z",
+      "message": "fix[profile/UserCard]: fixed wrong key name (#3056)"
+    },
+    {
+      "sha": "a45e64fcb2f66d4582a41068c3c16b6bae428e08",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-02-12T02:01:27Z",
+      "message": "perf: change script-loader to dependencies"
+    },
+    {
+      "sha": "fec25fedba996c060f8cdabc5299f1b0df25316d",
+      "author_login": "artn",
+      "authored_at": "2020-02-05T01:51:43Z",
+      "message": "docs: improve Japanese translation (#2970)"
+    },
+    {
+      "sha": "d6816c547de8d02d72c2f8e97cf6dd43f3e17923",
+      "author_login": "roblues",
+      "authored_at": "2020-02-02T11:39:41Z",
+      "message": "perf[Mock]: set responseFake to mock-server.js(#2966)"
+    },
+    {
+      "sha": "6850312e8920be432e916e316eb19b6e3cba91e0",
+      "author_login": "lainlee",
+      "authored_at": "2020-01-11T02:25:59Z",
+      "message": "fix: fixed redirect path regex (#2933)"
+    },
+    {
+      "sha": "d634e2ae2fdc4920a0b98678e01d64e2ca5378d6",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-01-09T12:24:48Z",
+      "message": "fix: fixed require mock bug in production"
+    },
+    {
+      "sha": "b57f2008bd6edec9daf4d22b0fa8a2da352cc6a9",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-01-09T09:36:49Z",
+      "message": "bump: update element-ui version"
+    },
+    {
+      "sha": "c9affcf2ad44d23d48dc45537275e0d9998ff4cd",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-01-09T09:21:36Z",
+      "message": "fix: fixed mock server (#2929)"
+    },
+    {
+      "sha": "fbad7f481bc848dbc9ebe5268f7d66ffae05cf9f",
+      "author_login": "PanJiaChen",
+      "authored_at": "2020-01-09T08:49:57Z",
+      "message": "fix[Charts]: fix charts resize in keep-alive bug (#2922)"
+    },
+    {
+      "sha": "088f64eeccf9570120e846f3871dd91df127f3bd",
+      "author_login": "shangTou",
+      "authored_at": "2020-01-08T04:12:10Z",
+      "message": "perf: optimize checkCapslock method (#2635)"
+    },
+    {
+      "sha": "55b1bbac993cc8d44b67975f5396977649b39400",
+      "author_login": "AndyLZC",
+      "authored_at": "2020-01-07T14:30:07Z",
+      "message": "perf[complex-table]:refine code (#2825)"
+    },
+    {
+      "sha": "fd5a2e8da2592fdb6cb30426de40d87a773b8bfe",
+      "author_login": null,
+      "authored_at": "2020-01-06T14:34:14Z",
+      "message": "perf[Menu]: remove unused menu-wrapper (#2903)"
+    },
+    {
+      "sha": "a0b39d5043349e1ee236173a395af7260e000d50",
+      "author_login": "MillerRen",
+      "authored_at": "2020-01-06T14:22:37Z",
+      "message": "perf: import mockXHR only in production (#2910)"
+    },
+    {
+      "sha": "4f563a7bfe6e6e601c4500d491c8e60cfd9c7023",
+      "author_login": "wangshantao",
+      "authored_at": "2019-12-31T06:14:34Z",
+      "message": "fix[Logout]: click blank area of ​​dropDown able to logout (#2896)"
+    },
+    {
+      "sha": "262c0ba08e80df87768c1bd855374ef2ec93432e",
+      "author_login": "PanJiaChen",
+      "authored_at": "2019-12-15T12:17:59Z",
+      "message": "perf[documentation]:  refine css"
+    },
+    {
+      "sha": "594fc58d0cb58f3c44b9c93f4d085e4c6e78c035",
+      "author_login": "flitrue",
+      "authored_at": "2019-12-12T07:16:03Z",
+      "message": "fix[icons]:fixed eslint 1 error and 2 warnings (#2835)"
+    },
+    {
+      "sha": "65d8c451e89c4f679cd983316b7b9a5f1e9ac748",
+      "author_login": "monkeycf",
+      "authored_at": "2019-12-04T02:34:23Z",
+      "message": "feat: plop new generate store (#2805)"
+    },
+    {
+      "sha": "e1554fdbd0d03413a46dd64797abc299446b328e",
+      "author_login": "MikuBlog",
+      "authored_at": "2019-12-01T07:48:30Z",
+      "message": "perf[views/icons]: use grid (#2803)"
+    },
+    {
+      "sha": "53803d067dc962e6e15c0471253aaab532c35614",
+      "author_login": null,
+      "authored_at": "2019-11-27T02:06:28Z",
+      "message": "perf: format pdf download (#2791)"
+    },
+    {
+      "sha": "25dddbbce84c9cbfa5cf026916553f44b222b9c9",
+      "author_login": "PanJiaChen",
+      "authored_at": "2019-11-12T09:25:12Z",
+      "message": "update 'MarkdownEditor' components name (#2743)"
+    },
+    {
+      "sha": "683f68b83859c49a188515324642f11ebc3ccd6c",
+      "author_login": null,
+      "authored_at": "2019-11-12T09:24:30Z",
+      "message": "format: space in user card (#2744)"
+    },
+    {
+      "sha": "44203f88a786f4814de994dbd696ee8e9b6013e6",
+      "author_login": "bbigcd",
+      "authored_at": "2019-11-12T04:08:45Z",
+      "message": "update 'MarkdownEditor' components name"
+    },
+    {
+      "sha": "d5c013a48cc94a26841c7762a3f92798e1237aad",
+      "author_login": null,
+      "authored_at": "2019-11-11T11:39:59Z",
+      "message": "perf: text i18n (#2739)"
+    },
+    {
+      "sha": "b11acb2171425f86ed22071df3e28e69b11b1428",
+      "author_login": null,
+      "authored_at": "2019-11-08T03:26:53Z",
+      "message": "perf: complex table (#2732)"
+    },
+    {
+      "sha": "b2dd7caee612b8231084828c4ccaf33d2255911c",
+      "author_login": null,
+      "authored_at": "2019-11-08T03:25:42Z",
+      "message": "perf: format drag table (#2733)"
+    },
+    {
+      "sha": "a4fa1199ba55917914cf8a58d78810c8b8dc2923",
+      "author_login": null,
+      "authored_at": "2019-11-07T05:37:05Z",
+      "message": "perf: format inline edit table (#2725)"
+    },
+    {
+      "sha": "6a194d1b4f7de5a481a84e511005a1431c51f07a",
+      "author_login": null,
+      "authored_at": "2019-11-05T06:26:24Z",
+      "message": "perf: format dropdown menu code (#2720)"
+    },
+    {
+      "sha": "6739ab543b29936c71523c7a017ffe7a79a6379e",
+      "author_login": "PanJiaChen",
+      "authored_at": "2019-10-25T11:45:21Z",
+      "message": "style: fix el-date-picker css style"
+    },
+    {
+      "sha": "6a214f0eac0a4cbf712853480f4477dec427978e",
+      "author_login": "BradyBromley",
+      "authored_at": "2019-10-14T02:25:30Z",
+      "message": "docs: improved README.md (#2656)"
+    },
+    {
+      "sha": "5273e022591a5b873b5c3f1d01abb7fb9b644c82",
+      "author_login": "PanJiaChen",
+      "authored_at": "2019-10-12T09:51:26Z",
+      "message": "docs: add job ad"
+    },
+    {
+      "sha": "b51590b982841795853b82501376d3978763406c",
+      "author_login": "PanJiaChen",
+      "authored_at": "2019-10-11T05:37:01Z",
+      "message": "fix[TagsView]: fixed click.middle can close affixed tag bug (#2649)"
+    },
+    {
+      "sha": "12b44f5d4bf6061ad64757bf201394f498794967",
+      "author_login": "mayunhai",
+      "authored_at": "2019-10-10T03:35:48Z",
+      "message": "perf[SvgIcon]: change xlink:href to href(#2645)"
+    },
+    {
+      "sha": "197948dc4414db87df36419022aaf0502d503a86",
+      "author_login": "PanJiaChen",
+      "authored_at": "2019-10-08T13:20:34Z",
+      "message": "fix[TagsView]: fixed toLastView bug (#2634)"
+    },
+    {
+      "sha": "b4cdf528ba786060709227f0471640d72298a27d",
+      "author_login": "PanJiaChen",
+      "authored_at": "2019-10-08T12:38:19Z",
+      "message": "fix[logout]: empty tagsview when logout (#2632)"
+    },
+    {
+      "sha": "f266713daf5ae75d3da792aea129d35905b763da",
+      "author_login": "PanJiaChen",
+      "authored_at": "2019-10-08T10:20:11Z",
+      "message": "fix[tagsView]: fixed DEL_OTHERS_CACHED_VIEWS bug"
+    },
+    {
+      "sha": "0343988f3de2a181bfbee43b1a1400f68f9ffa3b",
+      "author_login": "monkeycf",
+      "authored_at": "2019-10-08T10:15:22Z",
+      "message": "perf[tagsView]: pref DEL_CACHED_VIEW and DEL_OTHERS_CACHED_VIEWS function (#2626)"
+    },
+    {
+      "sha": "9c723c66182308995f090621f86cd263c856d6fa",
+      "author_login": "monkeycf",
+      "authored_at": "2019-10-08T09:54:47Z",
+      "message": "perf[utils.js]: perf parseTime function (#2625)"
+    },
+    {
+      "sha": "e3cbf4ad90130ba3637f267bad0058d2824b2a12",
+      "author_login": "PanJiaChen",
+      "authored_at": "2019-09-30T08:38:18Z",
+      "message": "fix[example]: fixed create.vue cache error"
+    },
+    {
+      "sha": "82350116659c79d51dd0880fc45df00a5c958a45",
+      "author_login": "PanJiaChen",
+      "authored_at": "2019-09-30T07:06:42Z",
+      "message": "fix: fixed numberFormatter  bug"
+    },
+    {
+      "sha": "0e9ce78b8a2f3a60717c76e0163021f5df3862a1",
+      "author_login": "mayunhai",
+      "authored_at": "2019-09-30T05:56:56Z",
+      "message": "refactor[ImageCropper]: fix lint error (#2365)"
+    },
+    {
+      "sha": "3a08b6e471ec6a7cb22d6c788070306b49272ac6",
+      "author_login": "reuwi",
+      "authored_at": "2019-09-30T05:14:55Z",
+      "message": "perf: optimize import file-saver way(#2347)"
+    },
+    {
+      "sha": "4d2d52ef03862546496683f8c6b066f1db01c448",
+      "author_login": "JosephMing",
+      "authored_at": "2019-09-27T05:45:49Z",
+      "message": "perf: VS Code support webpack alias file jump (#2609)"
+    },
+    {
+      "sha": "1336b92c2ff753c55b65d85b5fc54031f8ffdfc4",
+      "author_login": "mayunhai",
+      "authored_at": "2019-09-26T02:34:31Z",
+      "message": "fix[Dashboard]: fixed debounce bug (#2586) (#2597)"
+    },
+    {
+      "sha": "c7c815eef046230b8554b8f95c45b6083d838dfe",
+      "author_login": "PanJiaChen",
+      "authored_at": "2019-09-22T10:40:28Z",
+      "message": "docs: add awesome-project"
+    },
+    {
+      "sha": "ee287d8314a320a68083496636fa9d3b575b4e13",
+      "author_login": "lmislm",
+      "authored_at": "2019-08-29T02:23:45Z",
+      "message": "fix: typos (#2532)"
+    },
+    {
+      "sha": "12c8d8587345e07bfc084cb2663d0822b9526a38",
+      "author_login": "PanJiaChen",
+      "authored_at": "2019-08-27T12:57:51Z",
+      "message": "fix: fixed missing icons"
+    },
+    {
+      "sha": "46cc375d0d91261a7962715dd48e66e10e8c5872",
+      "author_login": "cnwhy",
+      "authored_at": "2019-07-16T09:12:26Z",
+      "message": "fix[complex-table]: form header sort icon is out of sync (#2382)"
+    }
+  ],
+  "issues": [
+    {
+      "number": 4372,
+      "title": "chore(deps): 23 outdated deps found. Most are safe minor/patch upgrades within same m",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-06T02:02:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4371,
+      "title": "chore(deps): 17 outdated deps identified with safe/low-risk upgrades. Key security fi",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-05T02:06:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4370,
+      "title": "chore(deps): 19 outdated deps found. Core safe upgrades: axios 0.18→0.21, element-ui ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-04T02:06:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4369,
+      "title": "chore(deps): 33 outdated deps identified. Major safe groups: Vue 2.6→2.7.x (last Vue2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-03T02:05:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4368,
+      "title": "chore(deps): 15 dependencies with safe/minor upgrades identified. Key ones: axios 0.1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-02T02:04:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4367,
+      "title": "chore(deps): 28 packages have safe upgrades: Critical security fixes for axios, jszip",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-01T02:03:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4366,
+      "title": "chore(deps): 21 outdated deps identified. All are minor/patch upgrades within their c",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-31T02:04:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4365,
+      "title": "chore(deps): 10 outdated deps identified. Highest priority: core-js 3.6→3.36, echarts",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-30T02:05:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4364,
+      "title": "chore(deps): 27 outdated deps identified. Core Vue ecosystem (vue, vue-router, vuex, ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-29T02:04:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4363,
+      "title": "chore(deps): 17 outdated deps found. Key security fixes: axios 0.18.1→0.28.0 (SSRF), ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-27T02:09:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4362,
+      "title": "chore(deps): 20 dependencies flagged for update. High-confidence safe upgrades: axios",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-26T02:04:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4361,
+      "title": "chore(deps): 29 dependencies flagged for update. Priority security: axios 0.18.1→0.21",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-24T02:04:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4360,
+      "title": "chore(deps): 30 outdated deps found. Key highlights: vue/vue-router/vuex to 2.7/3.6/3",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-23T02:03:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4359,
+      "title": "chore(deps): 6 outdated deps found. file-saver, sortablejs, codemirror: safe patch/mi",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-22T02:08:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4358,
+      "title": "chore(deps): 16 outdated deps found. Key safe upgrades: axios 0.18→0.21 (security), e",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-21T02:06:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4357,
+      "title": "chore(deps): 9 outdated deps identified with safe upgrade paths. Key security fixes: ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-20T02:05:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4356,
+      "title": "chore(deps): 14 safe/medium-risk updates identified across production and dev deps. K",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-19T02:04:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4355,
+      "title": "chore(deps): 8 outdated deps identified. Key safe updates: axios 0.18.1→0.21.4 (secur",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-18T02:09:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4354,
+      "title": "chore(deps): 16 outdated deps identified. Critical: core-js 3.6.5→3.33.3 (security) a",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-17T02:04:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4353,
+      "title": "fix: recover from router chunk load failures",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-16T02:59:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4352,
+      "title": "chore(deps): 19 deps need updates. High-priority security fixes: vue 2.6→2.7.15, vuex",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-16T02:04:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4351,
+      "title": "chore(deps): 20 outdated deps identified. Key updates: vue 2.6→2.7.44 (final Vue 2, a",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-15T02:07:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4350,
+      "title": "chore(deps): 12 dependencies with safe upgrades. Notable: axios 0.18→0.21, jszip 3.2→",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-13T02:05:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4349,
+      "title": "chore(deps): 20 outdated deps identified. Core Vue ecosystem (vue/vuex/vue-router) ca",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-12T02:08:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4348,
+      "title": "chore(deps): 22 outdated dependencies identified. Priority safe upgrades: vue (2.6.10",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-11T02:07:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4347,
+      "title": "chore(deps): 26 outdated deps identified. Core deps needing updates: axios 0.18→0.27,",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-10T02:04:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4346,
+      "title": "chore(deps): 25 deps flagged as outdated. Critical: Vue 2.6→2.7, element-ui→2.15, axi",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-09T02:04:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4345,
+      "title": "chore(deps): 20 outdated deps identified. Priority security fix: axios 0.18.1→0.21.4.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-08T17:21:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4344,
+      "title": "chore(deps): 14 outdated deps identified. Highest-priority safe upgrades: vuex 3.1→3.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-08T17:19:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4343,
+      "title": ".2350076982984809:d1a100f7fc1b76aae5caf5fa9787836b_69e2d2bfc78df9ef3ad3fe97.69e358ef89b40c589c63f7c1.69e358e52ff1b33fbd4c2a09:Trae CN.T(2026/4/18 18:11:59)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-18T10:20:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4342,
+      "title": "初始化",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-11T06:52:01Z",
+      "closed_at": "2026-04-11T06:52:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4341,
+      "title": "初始化",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-11T06:50:42Z",
+      "closed_at": "2026-04-11T06:51:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4340,
+      "title": "Implement Global CTA Click Lock via Axios Interceptors to Prevent Duplicate Requests",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-10T11:17:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4338,
+      "title": "l10n: add Swedish language support",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-29T08:31:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4337,
+      "title": "feat: integrate admin template with backend auth",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-25T09:19:35Z",
+      "closed_at": "2026-03-25T09:27:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4336,
+      "title": "现在注册白羊加速，享全套餐 7 折",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-20T10:29:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4335,
+      "title": "githubusercontent link is broken",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-24T17:45:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4334,
+      "title": "Fix #439: 点击切换路由的时候，有时候会报错，Error: Loading chunk 1 failed.     at HTMLS",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-21T05:43:07Z",
+      "closed_at": "2026-03-19T16:20:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4333,
+      "title": "feat: 新增用户列表高级搜索表单功能",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-01-28T12:40:16Z",
+      "closed_at": "2026-01-29T02:19:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4332,
+      "title": "docs(README): correct spanish translation errors in .es.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-09T04:20:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4331,
+      "title": "Spanish Readme - Grammar",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-09T03:19:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4330,
+      "title": "fix(security): prevent stored XSS in role notifications",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-26T11:29:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4329,
+      "title": "现在有外联页面不跳转在当前子路由打开吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-26T03:58:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4328,
+      "title": "elementui2，el-menu 点击导航条的选项时会跳动，折叠一下再展开，是哪个配置项不对",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-25T08:28:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4327,
+      "title": "有没有分享 #模型数据 #数据管理 #数据治理 #LLM Data Manager #DataViewer #Datastudio",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-18T03:39:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4326,
+      "title": "1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-12-01T09:09:05Z",
+      "closed_at": "2025-12-01T09:10:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4325,
+      "title": "Refactor: melhorar qualidade do código",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-27T03:12:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4323,
+      "title": "feat:docs 添加分支测试记录",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-08T01:58:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4322,
+      "title": "panl",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-09T20:23:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4321,
+      "title": "fix(markdown): 修复markdown preview 显示问题",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-09-13T16:38:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4320,
+      "title": "Add files via upload",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-31T20:28:50Z",
+      "closed_at": "2025-07-31T20:30:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4319,
+      "title": "这个系统包含后台权限控制的模块吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-26T01:30:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4318,
+      "title": "process.env.VUE_APP_BASE_API   undefined",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-07-22T15:44:25Z",
+      "closed_at": "2025-07-24T03:22:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4317,
+      "title": "如何debug这个项目",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-24T17:23:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4316,
+      "title": "update",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-06-17T05:09:23Z",
+      "closed_at": "2025-06-17T05:10:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4315,
+      "title": "导航栏支持改成水平的吗 ？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-06-13T09:56:29Z",
+      "closed_at": "2026-03-06T08:49:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4314,
+      "title": "使用SpringBoot打包之后，饿了么ui的图标不展示",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-13T08:56:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4313,
+      "title": "详情页面中添加几个tab选项卡展示子列表数据, 详情页中的table继承了列表的分页怎么处理",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-05-25T10:03:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4311,
+      "title": "feat: 将菜单标题改为中文",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-04-28T09:01:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4310,
+      "title": "Uzbek and Russian languages are added",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-04-26T09:07:06Z",
+      "closed_at": "2025-04-26T09:40:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4309,
+      "title": "vue3",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-24T02:10:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4308,
+      "title": "Stored Cross-Site Scripting (XSS) via Name and Description Parameters (by @RedHuntLabs)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-23T18:21:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4307,
+      "title": "Admin Information Disclosure via Token Parameter (by @RedHuntLabs)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-23T18:11:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4306,
+      "title": "Unauthorized Access to Transaction Details (by @RedHuntLabs)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-23T17:59:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4305,
+      "title": "menda bitta savol bor edi menga yordam ber",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-14T18:54:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4304,
+      "title": "编译打包报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-14T02:33:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4303,
+      "title": "merge",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-03-13T09:33:36Z",
+      "closed_at": "2025-03-13T09:34:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4302,
+      "title": "为什么我修改了menu.mock.ts文件里边的动态路由，页面却没有效果？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-28T16:01:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4301,
+      "title": "tab停留在网址 按下回车  页面并不会刷新是什么原因导致的",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-15T08:02:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4300,
+      "title": "JDK升级错误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-02-11T08:28:57Z",
+      "closed_at": "2025-02-11T08:36:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4293,
+      "title": "整合SpringBoot Security框架",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-05T16:04:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4289,
+      "title": "打包后执行npm run preview 打开地址报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-03T02:39:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4287,
+      "title": "项目在yarn 安装后，报错/node_modules/deasync: Command failed.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-21T11:15:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4286,
+      "title": "pagination组件",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-20T01:54:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4274,
+      "title": "点击侧边栏要在新页面打开内部页面应该怎么实现",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-15T06:15:30Z",
+      "closed_at": "2024-11-18T07:35:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4273,
+      "title": "修改了依赖tui-editor",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-11-13T11:57:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4272,
+      "title": "Handsomewu",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-11-12T15:31:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4271,
+      "title": "update",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-11-12T15:28:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4270,
+      "title": "菜单栏添加<hr>元素导致菜单展开后，无法正常显示",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-07T10:03:26Z",
+      "closed_at": "2024-11-08T07:21:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4269,
+      "title": "www",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-04T14:23:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4268,
+      "title": "fix关于登录页密码框的样式问题 #4236",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-11-04T03:36:33Z",
+      "closed_at": "2025-03-01T06:58:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4267,
+      "title": "mock热更新问题，修改mock数据之后，再去请求接口，接口相应超时，已取消",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-30T02:50:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4266,
+      "title": "is:issue is:open 不更新了吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-21T03:59:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4254,
+      "title": "deepClone router中asyncRoutes 导致每次点击侧边栏，layout组件都重新渲染",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-26T08:29:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4253,
+      "title": "takecloud-shop-admin@0.1.0 dev: `cross-env BABEL_ENV=development webpack-dev-server --inline --progress --config build/webpack.dev.conf.js` npm ERR! Exit status 1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-11T05:28:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4252,
+      "title": "你addRoutes的route数组应该是深克隆的数组，那么Layout这个组件就是新生成的对象，vue会重新渲染Layout, 侧边栏也就会重新渲染了。",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-09-10T01:51:45Z",
+      "closed_at": "2024-09-10T01:52:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4250,
+      "title": "npm run dev发生错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-27T07:10:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4249,
+      "title": "node-ipc 要求 node <=18    降级到16后  commander@12.1.0 又要求node>18 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-06T03:19:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4248,
+      "title": "update;fix-bug",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-07-16T07:51:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4246,
+      "title": "怎么判断刷新页面之后，就自动跳转到指定页面",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-05T08:24:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4244,
+      "title": "responseFake中的写法疑问",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-20T16:52:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4243,
+      "title": "vue3版本的admin难道没有吗",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-06-12T02:43:19Z",
+      "closed_at": "2024-06-20T10:18:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4242,
+      "title": "Element UI 的 Cascader 级联选择器怎么用上去呀",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-08T09:27:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4241,
+      "title": "npm install报错",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-06-05T14:34:39Z",
+      "closed_at": "2024-06-07T04:17:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4239,
+      "title": "有VUE3版本的吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-31T02:43:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4238,
+      "title": "vue2项目，刷新当前路由页面后，侧边栏菜单不选中是咋回事",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-29T14:44:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4237,
+      "title": "修复登录页密码框样式问题",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-05-11T06:52:45Z",
+      "closed_at": "2024-07-07T13:05:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4236,
+      "title": "关于登录页密码框的样式问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-11T06:47:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4235,
+      "title": "echarts - chinamap",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-04-27T08:35:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4234,
+      "title": "为什么在路由守卫里必须给定角色并传入store中？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-24T13:51:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "PanJiaChen",
+      "contributions": 825
+    },
+    {
+      "login": "mayunhai",
+      "contributions": 13
+    },
+    {
+      "login": "spiritree",
+      "contributions": 9
+    },
+    {
+      "login": "leij1ang",
+      "contributions": 7
+    },
+    {
+      "login": "wyudong",
+      "contributions": 6
+    },
+    {
+      "login": "yugasun",
+      "contributions": 5
+    },
+    {
+      "login": "dongsuo",
+      "contributions": 4
+    },
+    {
+      "login": "xqbumu",
+      "contributions": 3
+    },
+    {
+      "login": "marxangels",
+      "contributions": 3
+    },
+    {
+      "login": "monkeycf",
+      "contributions": 3
+    },
+    {
+      "login": "mimimile",
+      "contributions": 3
+    },
+    {
+      "login": "tuandm",
+      "contributions": 3
+    },
+    {
+      "login": "reuwi",
+      "contributions": 3
+    },
+    {
+      "login": "ZYSzys",
+      "contributions": 2
+    },
+    {
+      "login": "aisen60",
+      "contributions": 2
+    },
+    {
+      "login": "ruochuan12",
+      "contributions": 2
+    },
+    {
+      "login": "sunchenguang",
+      "contributions": 2
+    },
+    {
+      "login": "tmpbook",
+      "contributions": 2
+    },
+    {
+      "login": "yuntao1997",
+      "contributions": 2
+    },
+    {
+      "login": "Liugq5713",
+      "contributions": 2
+    },
+    {
+      "login": "happystory",
+      "contributions": 2
+    },
+    {
+      "login": "frank10000",
+      "contributions": 2
+    },
+    {
+      "login": "echofly",
+      "contributions": 2
+    },
+    {
+      "login": "ansonhorse",
+      "contributions": 2
+    },
+    {
+      "login": "painnick",
+      "contributions": 2
+    },
+    {
+      "login": "Cat7373",
+      "contributions": 2
+    },
+    {
+      "login": "lepig",
+      "contributions": 1
+    },
+    {
+      "login": "itsccn",
+      "contributions": 1
+    },
+    {
+      "login": "jaysunxiao",
+      "contributions": 1
+    },
+    {
+      "login": "kaisawind",
+      "contributions": 1
+    },
+    {
+      "login": "kuviki",
+      "contributions": 1
+    },
+    {
+      "login": "linfeimy",
+      "contributions": 1
+    },
+    {
+      "login": "linlinjava",
+      "contributions": 1
+    },
+    {
+      "login": "linzhengen",
+      "contributions": 1
+    },
+    {
+      "login": "lvsmart",
+      "contributions": 1
+    },
+    {
+      "login": "imaemo",
+      "contributions": 1
+    },
+    {
+      "login": "ntnyq",
+      "contributions": 1
+    },
+    {
+      "login": "ginhom",
+      "contributions": 1
+    },
+    {
+      "login": "garethx",
+      "contributions": 1
+    },
+    {
+      "login": "flitrue",
+      "contributions": 1
+    },
+    {
+      "login": "dyzsoft",
+      "contributions": 1
+    },
+    {
+      "login": "donng",
+      "contributions": 1
+    },
+    {
+      "login": "dingyi1993",
+      "contributions": 1
+    },
+    {
+      "login": "de1ck",
+      "contributions": 1
+    },
+    {
+      "login": "crayymumu",
+      "contributions": 1
+    },
+    {
+      "login": "c-f-cooper",
+      "contributions": 1
+    },
+    {
+      "login": "bpzhang",
+      "contributions": 1
+    },
+    {
+      "login": "wangshantao",
+      "contributions": 1
+    },
+    {
+      "login": "ren8179",
+      "contributions": 1
+    },
+    {
+      "login": "jsjzh",
+      "contributions": 1
+    },
+    {
+      "login": "rainydayDY",
+      "contributions": 1
+    },
+    {
+      "login": "mgbq",
+      "contributions": 1
+    },
+    {
+      "login": "AimWhy",
+      "contributions": 1
+    },
+    {
+      "login": "lainlee",
+      "contributions": 1
+    },
+    {
+      "login": "llccing",
+      "contributions": 1
+    },
+    {
+      "login": "bowencool",
+      "contributions": 1
+    },
+    {
+      "login": "MillerRen",
+      "contributions": 1
+    },
+    {
+      "login": "codeyu",
+      "contributions": 1
+    },
+    {
+      "login": "zhaoguoweiLLHC",
+      "contributions": 1
+    },
+    {
+      "login": "MikuBlog",
+      "contributions": 1
+    },
+    {
+      "login": "xbigcat",
+      "contributions": 1
+    },
+    {
+      "login": "yuanyuanyuan",
+      "contributions": 1
+    },
+    {
+      "login": "cnwhy",
+      "contributions": 1
+    },
+    {
+      "login": "LiuwqGit",
+      "contributions": 1
+    },
+    {
+      "login": "ttop5",
+      "contributions": 1
+    },
+    {
+      "login": "tlx6550",
+      "contributions": 1
+    },
+    {
+      "login": "eggachecat",
+      "contributions": 1
+    },
+    {
+      "login": "samuelchlui",
+      "contributions": 1
+    },
+    {
+      "login": "qige2016",
+      "contributions": 1
+    },
+    {
+      "login": "jiankian",
+      "contributions": 1
+    },
+    {
+      "login": "jessynt",
+      "contributions": 1
+    },
+    {
+      "login": "Jesonhu",
+      "contributions": 1
+    },
+    {
+      "login": "jerecui",
+      "contributions": 1
+    },
+    {
+      "login": "Insua",
+      "contributions": 1
+    },
+    {
+      "login": "sabrinaluo",
+      "contributions": 1
+    },
+    {
+      "login": "hex-ci",
+      "contributions": 1
+    },
+    {
+      "login": "Baoyx007",
+      "contributions": 1
+    },
+    {
+      "login": "JosephMing",
+      "contributions": 1
+    },
+    {
+      "login": "Estelle00",
+      "contributions": 1
+    },
+    {
+      "login": "duynguyenhoang",
+      "contributions": 1
+    },
+    {
+      "login": "dihak",
+      "contributions": 1
+    },
+    {
+      "login": "Armour",
+      "contributions": 1
+    },
+    {
+      "login": "y2gu2xi",
+      "contributions": 1
+    },
+    {
+      "login": "Aysnine",
+      "contributions": 1
+    },
+    {
+      "login": "BradyBromley",
+      "contributions": 1
+    },
+    {
+      "login": "lmislm",
+      "contributions": 1
+    },
+    {
+      "login": "AndyLZC",
+      "contributions": 1
+    },
+    {
+      "login": "andreydos",
+      "contributions": 1
+    },
+    {
+      "login": "sabatale",
+      "contributions": 1
+    },
+    {
+      "login": "dongxiaosun",
+      "contributions": 1
+    },
+    {
+      "login": "bbigcd",
+      "contributions": 1
+    },
+    {
+      "login": "amedora",
+      "contributions": 1
+    },
+    {
+      "login": "xiaotiandada",
+      "contributions": 1
+    },
+    {
+      "login": "OtaconBYF",
+      "contributions": 1
+    },
+    {
+      "login": "jingyulong",
+      "contributions": 1
+    },
+    {
+      "login": "yamelsenih",
+      "contributions": 1
+    },
+    {
+      "login": "TinaryTree",
+      "contributions": 1
+    },
+    {
+      "login": "Silentdoer",
+      "contributions": 1
+    },
+    {
+      "login": "artn",
+      "contributions": 1
+    },
+    {
+      "login": "Arthur-Conan-Dog",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "4.4.0",
+      "published_at": "2020-06-21T13:42:12Z"
+    },
+    {
+      "tag": "4.3.1",
+      "published_at": "2020-06-18T13:04:37Z"
+    },
+    {
+      "tag": "4.3.0",
+      "published_at": "2020-06-08T13:38:52Z"
+    },
+    {
+      "tag": "4.2.2",
+      "published_at": "2020-06-08T11:39:10Z"
+    },
+    {
+      "tag": "4.2.1",
+      "published_at": "2019-05-27T08:27:26Z"
+    },
+    {
+      "tag": "4.2.0",
+      "published_at": "2019-05-21T02:59:14Z"
+    },
+    {
+      "tag": "4.1.0",
+      "published_at": "2019-05-05T09:05:04Z"
+    },
+    {
+      "tag": "4.0.1",
+      "published_at": "2019-04-10T07:55:24Z"
+    },
+    {
+      "tag": "v4.0.0",
+      "published_at": "2019-04-01T10:12:49Z"
+    },
+    {
+      "tag": "v3.11.0",
+      "published_at": "2019-03-28T06:23:40Z"
+    },
+    {
+      "tag": "v4.0.0-beta",
+      "published_at": "2019-03-26T07:39:00Z"
+    },
+    {
+      "tag": "v3.10.0",
+      "published_at": "2018-12-31T13:23:21Z"
+    },
+    {
+      "tag": "v3.9.3",
+      "published_at": "2018-10-26T02:44:30Z"
+    },
+    {
+      "tag": "v3.9.2",
+      "published_at": "2018-10-19T06:55:40Z"
+    },
+    {
+      "tag": "v3.9.1",
+      "published_at": "2018-10-09T07:53:08Z"
+    },
+    {
+      "tag": "v3.9.0",
+      "published_at": "2018-09-18T01:39:06Z"
+    },
+    {
+      "tag": "v3.8.1",
+      "published_at": "2018-08-20T02:23:02Z"
+    },
+    {
+      "tag": "v3.8.0",
+      "published_at": "2018-08-15T07:42:25Z"
+    },
+    {
+      "tag": "v3.7.3",
+      "published_at": "2018-07-31T03:19:28Z"
+    },
+    {
+      "tag": "v3.7.2",
+      "published_at": "2018-07-13T05:49:18Z"
+    },
+    {
+      "tag": "v3.7.1",
+      "published_at": "2018-06-27T02:50:40Z"
+    },
+    {
+      "tag": "v3.7.0",
+      "published_at": "2018-06-01T06:28:48Z"
+    },
+    {
+      "tag": "v3.6.6",
+      "published_at": "2018-05-02T07:18:40Z"
+    },
+    {
+      "tag": "v3.6.5",
+      "published_at": "2018-04-13T02:32:42Z"
+    },
+    {
+      "tag": "v3.6.4",
+      "published_at": "2018-03-26T06:17:56Z"
+    },
+    {
+      "tag": "v3.6.3",
+      "published_at": "2018-03-14T02:04:34Z"
+    },
+    {
+      "tag": "v3.6.2",
+      "published_at": "2018-02-02T09:36:53Z"
+    },
+    {
+      "tag": "v3.6.1",
+      "published_at": "2018-01-23T07:25:46Z"
+    },
+    {
+      "tag": "v3.5.1",
+      "published_at": "2018-01-05T05:36:52Z"
+    },
+    {
+      "tag": "3.5.0",
+      "published_at": "2017-12-29T08:35:18Z"
+    },
+    {
+      "tag": "v3.4.1",
+      "published_at": "2017-12-22T03:16:54Z"
+    },
+    {
+      "tag": "v3.4.0",
+      "published_at": "2017-12-15T06:15:12Z"
+    },
+    {
+      "tag": "v3.3.0",
+      "published_at": "2017-12-13T10:41:53Z"
+    },
+    {
+      "tag": "v3.2.0",
+      "published_at": "2017-12-08T10:30:13Z"
+    },
+    {
+      "tag": "v3.1.1",
+      "published_at": "2017-12-06T06:23:02Z"
+    },
+    {
+      "tag": "v3.1.0",
+      "published_at": "2017-12-05T03:31:34Z"
+    },
+    {
+      "tag": "v3.0.0",
+      "published_at": "2017-11-29T02:45:16Z"
+    },
+    {
+      "tag": "v2.2.1",
+      "published_at": "2017-10-25T09:32:13Z"
+    },
+    {
+      "tag": "v2.2.0",
+      "published_at": "2017-09-27T02:47:41Z"
+    },
+    {
+      "tag": "v2.1.1",
+      "published_at": "2017-09-25T09:45:59Z"
+    },
+    {
+      "tag": "v2.1.0",
+      "published_at": "2017-09-11T06:53:10Z"
+    },
+    {
+      "tag": "v2.0.0",
+      "published_at": "2017-08-29T10:12:01Z"
+    },
+    {
+      "tag": "v1.2.0",
+      "published_at": "2017-07-28T09:45:46Z"
+    },
+    {
+      "tag": "v1.1.1",
+      "published_at": "2017-07-25T09:54:47Z"
+    },
+    {
+      "tag": "v1.1.0",
+      "published_at": "2017-07-06T10:21:29Z"
+    },
+    {
+      "tag": "v1.0.3",
+      "published_at": "2017-06-23T10:07:35Z"
+    },
+    {
+      "tag": "v1.0.2",
+      "published_at": "2017-06-15T06:50:17Z"
+    },
+    {
+      "tag": "v1.0.1",
+      "published_at": "2017-05-31T08:18:03Z"
+    },
+    {
+      "tag": "v1.0.0",
+      "published_at": "2017-05-25T09:33:42Z"
+    }
+  ],
+  "collected_at": "2026-06-28T08:53:22.709482Z"
+}

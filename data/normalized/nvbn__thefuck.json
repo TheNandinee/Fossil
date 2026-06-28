@@ -1,0 +1,1998 @@
+{
+  "full_name": "nvbn/thefuck",
+  "owner": "nvbn",
+  "name": "thefuck",
+  "url": "https://github.com/nvbn/thefuck",
+  "description": "Magnificent app which corrects your previous console command.",
+  "primary_language": "Python",
+  "topics": [
+    "python",
+    "shell"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 97442,
+  "forks": 3948,
+  "open_issues": 455,
+  "created_at": "2015-04-08T15:08:04Z",
+  "pushed_at": "2024-07-19T14:56:13Z",
+  "updated_at": "2026-06-28T05:52:05Z",
+  "commits": [
+    {
+      "sha": "c7e7e1d884d3bb241ea6448f72a989434c2a35ec",
+      "author_login": "AlanGabbianelli",
+      "authored_at": "2024-01-25T08:35:11Z",
+      "message": "Fix typos in README.md"
+    },
+    {
+      "sha": "62e0767c5069aeee176b0fe3459068b7703aaa26",
+      "author_login": "scorphus",
+      "authored_at": "2023-07-30T20:22:37Z",
+      "message": "#N/A: Fix a couple of issues after new flake8 release"
+    },
+    {
+      "sha": "3cd187a3bb47351890ac7308464e1a2780507220",
+      "author_login": "gerardog",
+      "authored_at": "2023-07-10T13:09:27Z",
+      "message": "#1329: Add support for Windows `CMD` and easier setup for Powershell"
+    },
+    {
+      "sha": "0420442e778dd7bc53bdbdb50278eea2c207dc74",
+      "author_login": "scorphus",
+      "authored_at": "2023-07-10T12:43:45Z",
+      "message": "#1248: Use imp only when importlib.util not available"
+    },
+    {
+      "sha": "617aaa1fd07271d0b370e56efd307827c085eb7c",
+      "author_login": "scorphus",
+      "authored_at": "2023-07-10T12:40:45Z",
+      "message": "#1248: Skip a failing test when running on Windows"
+    },
+    {
+      "sha": "cf0921be4ad01fc644358a3e99680be5f238bfa7",
+      "author_login": "scorphus",
+      "authored_at": "2023-07-10T12:39:58Z",
+      "message": "#1248: Check for multiple patterns in functional tests"
+    },
+    {
+      "sha": "ef1ea4b4dd1016082c7d8199364cfe3e8a2916e6",
+      "author_login": "scorphus",
+      "authored_at": "2023-07-10T12:36:42Z",
+      "message": "#1248: Check container status before test functions"
+    },
+    {
+      "sha": "2cadcca9043e6ae3ddf0b4cb9ddd9caa0c668f1e",
+      "author_login": "scorphus",
+      "authored_at": "2023-07-10T12:29:31Z",
+      "message": "#1248: Reuse Docker images in functional tests"
+    },
+    {
+      "sha": "d81929f29438b8e115efa4091dc8362431c4ce1e",
+      "author_login": "scorphus",
+      "authored_at": "2023-07-10T12:22:23Z",
+      "message": "#1248: Move deprecated Python versions to separate workflow job"
+    },
+    {
+      "sha": "b03e0913d3e94e605dc36ef9c7c2e48cd2f6e5fc",
+      "author_login": "scorphus",
+      "authored_at": "2023-07-10T12:20:40Z",
+      "message": "#1248: Run workflows on push and pull_request"
+    },
+    {
+      "sha": "b79e104df88877588386e3e2b20d5aa859649795",
+      "author_login": "hugovk",
+      "authored_at": "2022-10-27T08:24:53Z",
+      "message": "Add support for Python 3.11"
+    },
+    {
+      "sha": "3f71959b1ba9e8359cc0e42226706a742e82ab8b",
+      "author_login": "hugovk",
+      "authored_at": "2021-11-23T14:07:27Z",
+      "message": "Add python_requires to help pip"
+    },
+    {
+      "sha": "51b82c53771b3fffeb07817acfbce6a80edee747",
+      "author_login": "hugovk",
+      "authored_at": "2021-11-23T13:56:18Z",
+      "message": "Update min Python 3 version required in README"
+    },
+    {
+      "sha": "5f562a185ce3ca398f990b392c54d82104a105a7",
+      "author_login": "hugovk",
+      "authored_at": "2021-11-23T13:45:46Z",
+      "message": "Drop the dot https://twitter.com/pytestdotorg/status/753767547866972160"
+    },
+    {
+      "sha": "1a242c7daa59ddfe787eca0eb54d00afa03c95f8",
+      "author_login": "hugovk",
+      "authored_at": "2021-11-23T13:43:11Z",
+      "message": "Test on Python 3.10 final"
+    },
+    {
+      "sha": "ceeaeab94b5df5a4fe9d94d61e4f6b0bbea96378",
+      "author_login": "josepdaniel",
+      "authored_at": "2022-09-25T19:37:47Z",
+      "message": "Add terraform 'no command' rule (#1317)"
+    },
+    {
+      "sha": "77627a314048dad8439941ca25c8f0beaedf74a9",
+      "author_login": "scorphus",
+      "authored_at": "2022-09-07T19:33:40Z",
+      "message": "#N/A: Define branches in workflow (#1328)"
+    },
+    {
+      "sha": "03a032295d3c978d10d8f43644679c917e870fd7",
+      "author_login": "scorphus",
+      "authored_at": "2022-08-31T20:36:44Z",
+      "message": "#N/A: Change workflow triggers"
+    },
+    {
+      "sha": "56c16b737f68cec08ab2160b9b7b0eb3b0084f33",
+      "author_login": "deudz",
+      "authored_at": "2022-08-31T18:42:41Z",
+      "message": "Added Arch based installation (#1319)"
+    },
+    {
+      "sha": "f9768cf929c5e96bd146a770b838680b4cdc04a9",
+      "author_login": "MaddyGuthridge",
+      "authored_at": "2022-07-03T11:22:36Z",
+      "message": "#1302: Add new git_clone_missing rule"
+    },
+    {
+      "sha": "ed40463105a882c64cefa0b68f6267878f7cad9f",
+      "author_login": "pyrrolizin",
+      "authored_at": "2022-07-02T13:06:00Z",
+      "message": "#1299: Update output for brew_install and cleanup (#1316)"
+    },
+    {
+      "sha": "f1b7d879bdfc712c14de1e40f00c52ed4a0437dd",
+      "author_login": "pyrrolizin",
+      "authored_at": "2022-06-28T16:28:38Z",
+      "message": "#1290: Update output for brew_update_formula"
+    },
+    {
+      "sha": "5198b34f24ca4bc414a5bf1b0288ee86ea2529a8",
+      "author_login": "nkakonas",
+      "authored_at": "2022-06-13T21:29:15Z",
+      "message": "#1282: Keep quotes in the script on no_command rule"
+    },
+    {
+      "sha": "1a1b5200a954975d88ea7165ad785f3f37540dc4",
+      "author_login": "scorphus",
+      "authored_at": "2022-06-08T21:39:19Z",
+      "message": "#N/A: Lock pyte<=0.8.0 for Python 2"
+    },
+    {
+      "sha": "06cb50b1e38263c365ed7abbccb22a04fb250c44",
+      "author_login": "0xphk",
+      "authored_at": "2022-06-05T20:58:31Z",
+      "message": "#1308: Add updatedb (mlocate) pattern to sudo rule"
+    },
+    {
+      "sha": "16eb823066407a4115bb129ac3fce1872c16dc6b",
+      "author_login": null,
+      "authored_at": "2022-05-29T19:40:31Z",
+      "message": "#1261: Add two more patterns to sudo rule (#1307)"
+    },
+    {
+      "sha": "d8ddf5a2be9d52ec4bc8c11e79fcc7b3c390b669",
+      "author_login": "Tagadda",
+      "authored_at": "2022-03-27T20:06:40Z",
+      "message": "#1279: Add pikaur AUR manager to Arch Linux's commands"
+    },
+    {
+      "sha": "cf1beb6b89cfcefb594f40a0d698da2b1ee94955",
+      "author_login": "mrshu",
+      "authored_at": "2022-01-29T00:36:34Z",
+      "message": "fix: Add missing comma"
+    },
+    {
+      "sha": "925e562d968f45c588dd9fb4c26a2fa6fd931097",
+      "author_login": "anupampatil44",
+      "authored_at": "2022-01-18T06:43:45Z",
+      "message": "Updated license date to 2022"
+    },
+    {
+      "sha": "841e3f9e13f52747c18319b55c77ece8095df306",
+      "author_login": "scorphus",
+      "authored_at": "2022-01-02T21:45:09Z",
+      "message": "Bump to 3.32"
+    },
+    {
+      "sha": "0f4a523dc4cab990641131a7aac90b67bf7fb5fc",
+      "author_login": "nootr",
+      "authored_at": "2021-10-21T22:04:33Z",
+      "message": "Encapsulate force_command in _get_raw_command"
+    },
+    {
+      "sha": "c719712b6256f4add4e65e8d4369b36d73342b48",
+      "author_login": "benjamin-rood",
+      "authored_at": "2021-09-05T13:40:10Z",
+      "message": "Use `--user` with pip, not `sudo pip`"
+    },
+    {
+      "sha": "51e4e8728098903a87fb6d1cd2083460d439f357",
+      "author_login": "scorphus",
+      "authored_at": "2021-08-16T20:44:13Z",
+      "message": "#1227: Make `git_support` support output-independent rules"
+    },
+    {
+      "sha": "7b7c150bb7e86bf71523ec735f4e0cd7b68ddf5c",
+      "author_login": "scorphus",
+      "authored_at": "2021-08-01T18:31:10Z",
+      "message": "#697: Encode expanded script on Python 2"
+    },
+    {
+      "sha": "2a166a7dec3c872ef6be3870b50889500ca6a212",
+      "author_login": "yotam180",
+      "authored_at": "2021-08-07T21:26:36Z",
+      "message": "#977: Add `wrong_hyphen_before_subcommand` rule"
+    },
+    {
+      "sha": "8fa10b1049ddf21f188b9605bcd5afbe33bf33db",
+      "author_login": "larsblumberg",
+      "authored_at": "2021-08-07T11:12:12Z",
+      "message": "#868: Fix outdated link to homebrew for Linux (#1226)"
+    },
+    {
+      "sha": "7f3442747ee4318d893891db4527846bb656998c",
+      "author_login": "scorphus",
+      "authored_at": "2021-07-29T21:54:51Z",
+      "message": "#579: Ignore commands of len 1 in missing_space_before_subcommand"
+    },
+    {
+      "sha": "8bebce331e75a1300cec31b3905be463a2ea0954",
+      "author_login": "scorphus",
+      "authored_at": "2021-07-29T21:48:36Z",
+      "message": "#933: Correctly redefine the function with a cache"
+    },
+    {
+      "sha": "dbc435c0401c464b6bbb2059a77ec98a96d4fe06",
+      "author_login": "scorphus",
+      "authored_at": "2021-07-28T20:46:34Z",
+      "message": "#618: Fix git_push_without_commits rule"
+    },
+    {
+      "sha": "30c90bccaa358d0817cfedd11f246ab21ef1f159",
+      "author_login": "scorphus",
+      "authored_at": "2021-07-21T11:33:41Z",
+      "message": "#1184: Configure devcontainer shell with recommended way"
+    },
+    {
+      "sha": "8e8c80c22757508cb54f5fb17c67a7fb925dd0e1",
+      "author_login": "scorphus",
+      "authored_at": "2021-07-23T18:05:06Z",
+      "message": "#1188: Remove only leading whitespace chars from script"
+    },
+    {
+      "sha": "c2df71caed917ea659a72a393b105881ec0709df",
+      "author_login": "scorphus",
+      "authored_at": "2021-07-14T11:09:04Z",
+      "message": "#994: Replace decoding errors with the replacement marker"
+    },
+    {
+      "sha": "eb05b28c5b9c1c43fb0de126faa6d3949af3bf9f",
+      "author_login": "scorphus",
+      "authored_at": "2021-07-13T20:33:00Z",
+      "message": "#N/A: Replace only exact words when expanding a Git alias"
+    },
+    {
+      "sha": "a2a6cbdc7098b099cee66b9625a061d8fc2f2299",
+      "author_login": "dvjn",
+      "authored_at": "2020-12-27T22:34:08Z",
+      "message": "#894: Combine commands with shell.and_ in docker_login rule"
+    },
+    {
+      "sha": "58ddd4338adf12a3abc2ffed0e27794a398fa8d2",
+      "author_login": "scorphus",
+      "authored_at": "2021-07-18T13:48:03Z",
+      "message": "#1215: Initiate settings before printing the alias"
+    },
+    {
+      "sha": "58f61d8090deff3727ac2a4f72927e85843ddb5c",
+      "author_login": "storey247",
+      "authored_at": "2021-07-19T20:47:19Z",
+      "message": "#1184: Add devcontainer for easy Python development"
+    },
+    {
+      "sha": "0668822abb6471c3f382ad19bb7f761ff79bea37",
+      "author_login": "scorphus",
+      "authored_at": "2021-07-17T12:15:51Z",
+      "message": "#1215: Remove redirection to stderr with the ^ character"
+    },
+    {
+      "sha": "711feb4df56c44561f4e6c347c5efb0fe3ab1a37",
+      "author_login": "scorphus",
+      "authored_at": "2021-07-09T14:13:25Z",
+      "message": "#1184: Improve + fix `git_main_master` rule"
+    },
+    {
+      "sha": "70a42b54ab2153db4f6f5143122bc9ef9db4f818",
+      "author_login": "storey247",
+      "authored_at": "2021-04-06T13:50:43Z",
+      "message": "#1184: Add new rule for main / master Git branches"
+    },
+    {
+      "sha": "11b70526f72339bcce0beefa1665c74bb06e18b3",
+      "author_login": "scorphus",
+      "authored_at": "2021-07-08T19:43:35Z",
+      "message": "#1131: Improve git_commit_add rule"
+    },
+    {
+      "sha": "55922e4dbeedaca384e83406f2fa87c5a8e152fb",
+      "author_login": "the-docta",
+      "authored_at": "2020-09-08T09:47:05Z",
+      "message": "#1131: Add rule for Git commit with no added files"
+    },
+    {
+      "sha": "799f4127caab4e90755d5924e5f5e8239bbc955d",
+      "author_login": "scorphus",
+      "authored_at": "2021-07-01T11:41:07Z",
+      "message": "#942: Improve git_branch_0flag rule - with a new name"
+    },
+    {
+      "sha": "fe1942866bb2cee93f750a97ee026508aa0b4fc6",
+      "author_login": "rpdelaney",
+      "authored_at": "2021-07-07T21:05:55Z",
+      "message": "#1133: Match commands with path prefixes in @for_app decorations"
+    },
+    {
+      "sha": "13fda64d6e008e336b3a05a0e903242d01284176",
+      "author_login": "kwonmha",
+      "authored_at": "2021-07-06T14:58:44Z",
+      "message": "#1109: Fix a typo on a comment"
+    },
+    {
+      "sha": "6111523034edcd8d78216ee6aa84acc383a87ee4",
+      "author_login": "abraham-chan",
+      "authored_at": "2021-07-06T10:52:54Z",
+      "message": "#1210: Add rule 'rails_migrations_pending'"
+    },
+    {
+      "sha": "24576b30b294878e15b09c3e44010189360bc729",
+      "author_login": "ProfessorTom",
+      "authored_at": "2021-07-01T21:07:38Z",
+      "message": "#942: Add new git_branch_0v_to_dash_v rule"
+    },
+    {
+      "sha": "373f445e9b514786b1231675674120dda5dc8e00",
+      "author_login": "AirmanKolberg",
+      "authored_at": "2021-07-01T09:47:12Z",
+      "message": "#1150: Update the name of macOS on README"
+    },
+    {
+      "sha": "54253027e3f5a186fd5ed9ce712c583b104a39b2",
+      "author_login": "dvjn",
+      "authored_at": "2021-06-30T21:10:06Z",
+      "message": "#1123: Update composer_not_command rule (#1135)"
+    },
+    {
+      "sha": "9201ce79cf381c5516d736cce96a191840711383",
+      "author_login": "theslimshaney",
+      "authored_at": "2020-02-08T12:37:19Z",
+      "message": "#1039: Remove all leading $ not just one"
+    },
+    {
+      "sha": "7f97818663de9351ac7e2c6314ed94184811d62a",
+      "author_login": "Rom1deTroyes",
+      "authored_at": "2021-06-30T12:20:48Z",
+      "message": "#455: [README] Add uninstall instructions (#1171)"
+    },
+    {
+      "sha": "2f4adcf3cbfc1f38712fb4c2c647bdbed67b9b40",
+      "author_login": "abraham-chan",
+      "authored_at": "2021-06-29T19:26:13Z",
+      "message": "#N/A: Fix yield_fixture deprecation (#1211)"
+    },
+    {
+      "sha": "06e14afd17bfeb61dbadd536dae648c7eb22b525",
+      "author_login": "donno2048",
+      "authored_at": "2021-06-29T19:25:01Z",
+      "message": "#N/A: Fix grammar and spelling errors (#1193)"
+    },
+    {
+      "sha": "3651b0fa0ccb6e15fe319ff8f3ad90815c523c80",
+      "author_login": "agarwalutkarsh554",
+      "authored_at": "2021-06-23T10:19:47Z",
+      "message": "#1164: Optimize GIFs with ImgBot"
+    },
+    {
+      "sha": "d723bb71b7a98d93fa8f17586d24b84fef82eff7",
+      "author_login": "felixonmars",
+      "authored_at": "2021-05-05T22:41:18Z",
+      "message": "Avoid using pkg_resources"
+    },
+    {
+      "sha": "b2e1886de8baa8152aee2ff11fb35ad3e0adeea9",
+      "author_login": "hamidnazari",
+      "authored_at": "2021-06-15T05:23:52Z",
+      "message": "Fix git_hook_bypass priority (#1207)"
+    },
+    {
+      "sha": "0949d2e77022ad69cc07d4b25a858a7e023503ac",
+      "author_login": "nvbn",
+      "authored_at": "2021-06-09T19:50:44Z",
+      "message": "Bump to 3.31"
+    },
+    {
+      "sha": "e343c577cd7da4d304b837d4a07ab4df1e023092",
+      "author_login": "nvbn",
+      "authored_at": "2021-06-08T20:04:51Z",
+      "message": "NA: Fix possible changes in files outside of working directory (#1206)"
+    },
+    {
+      "sha": "6da0bc557f0fd94ea1397d3a7f508be896cc98d8",
+      "author_login": "stuartleeks",
+      "authored_at": "2021-04-21T17:43:21Z",
+      "message": "Add excluded_search_path_prefixes setting (#1165)"
+    },
+    {
+      "sha": "1a595f1ba23843823037479d0caede926b0bd752",
+      "author_login": "scorphus",
+      "authored_at": "2021-04-17T12:51:18Z",
+      "message": "#N/A: Force decorator<5 for Python <= 2.7"
+    },
+    {
+      "sha": "875d3f11cbde13dfecdd9f7036d265be7fab6e81",
+      "author_login": "godofhyperdeath",
+      "authored_at": "2021-04-16T22:24:30Z",
+      "message": "#N/A: Update license year to 2020-2021 (#1088)"
+    },
+    {
+      "sha": "4c7479b3adcf8715a93d0c48e1ece83a35cda50d",
+      "author_login": "s1ddly",
+      "authored_at": "2021-03-22T19:55:45Z",
+      "message": "#N/A: Add `cd_cs` rule (#1167)"
+    },
+    {
+      "sha": "5b612add745c52b25cbbf987bd58d7382a3eedfb",
+      "author_login": "dvjn",
+      "authored_at": "2021-03-13T13:24:53Z",
+      "message": "#1154: Fix badges in README (#1175)"
+    },
+    {
+      "sha": "b9dd54c76803d7038e77bb0e3027166706e5e5ea",
+      "author_login": "scorphus",
+      "authored_at": "2021-03-13T11:47:55Z",
+      "message": "#1174: Fix anchor references"
+    },
+    {
+      "sha": "7af9f41d93dfeda7a73d0116ffeddcf2dcda7e8a",
+      "author_login": "bhav09",
+      "authored_at": "2021-03-12T23:58:10Z",
+      "message": "#N/A: Add a Contents section to README (#1174)"
+    },
+    {
+      "sha": "c2cc95db886be879f9710095e4e70c64532573fd",
+      "author_login": "scorphus",
+      "authored_at": "2021-02-22T21:54:45Z",
+      "message": "#1117: Mock Popen in go_unknown_command test"
+    },
+    {
+      "sha": "0e34c2343ed8b84e07b0320188397b1485985e6a",
+      "author_login": "gkodosis",
+      "authored_at": "2021-02-11T11:48:20Z",
+      "message": "#/N/A: Extend pyenv rule to include goenv, nodenv and rbenv (#1100)"
+    },
+    {
+      "sha": "fd90e69ceb63edb19e12eda7ba880288eb95d4eb",
+      "author_login": "cjmartian",
+      "authored_at": "2021-02-08T12:04:59Z",
+      "message": "#N/A: Add conda rule (#1138)"
+    },
+    {
+      "sha": "0c5831793246a23e6b259a139773cff429ab5ba8",
+      "author_login": "dvjn",
+      "authored_at": "2021-01-21T13:34:01Z",
+      "message": "#N/A: Migrate CI pipeline to Github Actions (#1154)"
+    },
+    {
+      "sha": "62dddd5821312aca4a6001c7b84be0bee137fc48",
+      "author_login": "dvjn",
+      "authored_at": "2021-01-19T21:37:05Z",
+      "message": "#1149: Add python_module_error rule (#1151)"
+    },
+    {
+      "sha": "40dd65963d7819a3c566416827dd1c8dae5baf0e",
+      "author_login": "dvjn",
+      "authored_at": "2020-11-18T09:43:11Z",
+      "message": "#1141: Fix crash on empty history (#1145)"
+    },
+    {
+      "sha": "836f6eeac50a25346df26a799b8f6b76b5ab2316",
+      "author_login": "KartikSoneji",
+      "authored_at": "2020-11-03T17:30:03Z",
+      "message": "Skip test instead of failing if go executable is not found. (#1117)"
+    },
+    {
+      "sha": "b4c75eebe6078040d511437424b9a8616a3a027f",
+      "author_login": "KartikSoneji",
+      "authored_at": "2020-11-03T17:29:28Z",
+      "message": "Fix pytest warnings (#1116)"
+    },
+    {
+      "sha": "22efa8f70e4665e6e92392636ff7dd5ff2d369f8",
+      "author_login": "scorphus",
+      "authored_at": "2020-11-03T17:27:09Z",
+      "message": "#1113: Do not load excluded rules (#1125)"
+    },
+    {
+      "sha": "9d3bcad229a29f3890514e5b33d474654ecd8e84",
+      "author_login": "scorphus",
+      "authored_at": "2020-11-03T17:26:13Z",
+      "message": "#1113: Ignore a rule that fails to load (#1124)"
+    },
+    {
+      "sha": "c196e2901c449d96bf5116e6988610c38ca8b725",
+      "author_login": "dvjn",
+      "authored_at": "2020-07-16T21:56:58Z",
+      "message": "#509: Fixed correction on windows machine running other shells (#1091)"
+    },
+    {
+      "sha": "ca46956e20b4bfd7424042a0f06cf206c26177fe",
+      "author_login": "aditig",
+      "authored_at": "2020-07-16T21:34:41Z",
+      "message": "#1066 - Fix rule for brew cask (#1111)"
+    },
+    {
+      "sha": "639e9bda7a5a69e75c3de3e0b840c1940017968d",
+      "author_login": "nyanotech",
+      "authored_at": "2020-07-16T21:34:22Z",
+      "message": "Add rule to remove a doubled-up \"git clone\" in a git clone command. (#1106)"
+    },
+    {
+      "sha": "39753a004e2b01543bef418e677156ef11872b8f",
+      "author_login": "dvjn",
+      "authored_at": "2020-07-16T21:32:29Z",
+      "message": "#1096: Rule: Bypass failed git hook (#1097)"
+    },
+    {
+      "sha": "365db1ee41d7bcd9f62d910f3b20361ea3499d92",
+      "author_login": "dvjn",
+      "authored_at": "2020-06-14T14:20:40Z",
+      "message": "#N/A: Refactor for better readability (#1094)"
+    },
+    {
+      "sha": "81b39defe48239f8c0585ea6d5c22a9c41612f15",
+      "author_login": "dvjn",
+      "authored_at": "2020-06-10T22:21:45Z",
+      "message": "#N/A: Fix formatting (#1092)"
+    },
+    {
+      "sha": "f82176802e34ba5d5aa3ea0a4b81fe2af2c578e4",
+      "author_login": "cjmartian",
+      "authored_at": "2020-06-10T22:20:37Z",
+      "message": "add git-lfs support (#1056)"
+    },
+    {
+      "sha": "6975d30818792f1b37de702fc93c66023c4c50d5",
+      "author_login": "scorphus",
+      "authored_at": "2020-04-06T19:46:40Z",
+      "message": "#960: Improve pacman_invalid_option rule (#1072)"
+    },
+    {
+      "sha": "3c542a5b8cde085126fd9197b1ca6967c7adab1e",
+      "author_login": "DragonGhost7",
+      "authored_at": "2020-03-28T22:15:20Z",
+      "message": "Added pacman invalid option rule (#960)"
+    },
+    {
+      "sha": "d3a05426deb53b46b63ea3a996dce7b4e472fadb",
+      "author_login": "nvbn",
+      "authored_at": "2020-03-19T17:21:12Z",
+      "message": "Bump to 3.30"
+    },
+    {
+      "sha": "88db57b4b131f87334e9de64be52ae2a814870fd",
+      "author_login": "Caplinja",
+      "authored_at": "2020-03-01T06:07:54Z",
+      "message": "#N/A: Add a new rule to create directory on cp or mv"
+    },
+    {
+      "sha": "444908ce1c17767ef4aaf9e0b4950497914f7f63",
+      "author_login": "Caplinja",
+      "authored_at": "2020-03-01T01:19:38Z",
+      "message": "#1047: Fix pip_unknown_command by using a less restrictive regex"
+    },
+    {
+      "sha": "2ced7a7f33ae0bec3ffc7a43ce95330bdf6cfcb9",
+      "author_login": "djh82",
+      "authored_at": "2020-01-13T22:28:20Z",
+      "message": "Allow multiple returns from git_checkout (#1022)"
+    },
+    {
+      "sha": "b28ece0f34e54d1c980e31223451f3b2f0f20ff9",
+      "author_login": "djh82",
+      "authored_at": "2020-01-05T22:53:09Z",
+      "message": "Apt-get help is now much more like apt (#1031)"
+    },
+    {
+      "sha": "eb60900330d038383fe1460e0279d33d303739a7",
+      "author_login": "nvbn",
+      "authored_at": "2020-01-05T22:51:19Z",
+      "message": "#N/A: Unlink python 2 on travis-ci osx build (#1032)"
+    },
+    {
+      "sha": "ed8aaa7f26c61e20d0cecd1f6debff7f2a8fb43a",
+      "author_login": null,
+      "authored_at": "2019-12-23T16:57:42Z",
+      "message": "fixed grammar on how to configure message (#1029)"
+    }
+  ],
+  "issues": [
+    {
+      "number": 1609,
+      "title": "Add rvm_not_installed rule",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-24T21:19:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1608,
+      "title": "fix: Stop fucking around with deprecated imports — Python 3.12/3.13/3.14 compatibility omnibus",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-20T23:13:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1607,
+      "title": "fix: remove shell-specific && assumption in sudo rule",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-18T10:00:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1606,
+      "title": "Security issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-17T08:48:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1605,
+      "title": "Fix typos in settings header and install message",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-06-16T23:40:21Z",
+      "closed_at": "2026-06-17T01:48:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1604,
+      "title": "fix: use shell-agnostic 'and' operator in sudo rule instead of hardcoded '&&'",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-09T16:14:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1603,
+      "title": "chore(deps): 5 potential updates identified. mock is deprecated (unittest.mock in std",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-06T02:02:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1602,
+      "title": "fix: replace deprecated pkg_resources/imp/distutils with modern stdlib",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-06-05T15:16:05Z",
+      "closed_at": "2026-06-06T13:00:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1601,
+      "title": "chore(deps): 3 dependencies need attention. mock (deprecated, use stdlib unittest.moc",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-05T02:06:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1600,
+      "title": "Handle denied process exe lookup in rerun",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-05T01:19:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1599,
+      "title": "chore(deps): Most deps in requirements.txt lack pinned versions so current versions w",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-04T02:06:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1598,
+      "title": "chore(deps): 3 deps flagged for upgrade. setuptools constraint is critically outdated",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-03T02:05:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1597,
+      "title": "chore(deps): 1 clearly outdated dep: setuptools>=17.1 (2014 vintage) should be modern",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-02T02:03:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1596,
+      "title": "chore(deps): 2 outdated version constraints in setup.py extras_require. The decorator",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-01T02:02:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1595,
+      "title": "chore(deps): Most deps in requirements.txt lack version pins, making stale detection ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-31T02:04:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1594,
+      "title": "chore(deps): 3 potential updates: setuptools is critically outdated (17.1→70.x, safe)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-30T02:05:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1593,
+      "title": "chore(deps): Major concern: setuptools lower bound (>=17.1 from 2014) is severely out",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-29T02:04:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1592,
+      "title": "chore(deps): 2 concerns found. mock should be removed (deprecated, replaced by stdlib",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-28T02:06:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1591,
+      "title": "chore(deps): 5 outdated entries found. setuptools floor bumped to modern 75.x (high c",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-27T02:09:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1590,
+      "title": "chore(deps): 3 outdated constraints found. setuptools min (>=17.1→>=75.0) is severely",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-25T02:05:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1589,
+      "title": "chore(deps): 2 issues found. setuptools has a 2013-era minimum constraint (>=17.1 → >",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-24T02:04:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1588,
+      "title": "chore(deps): 4 outdated dependencies identified. decorator/pyte have hard caps in set",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-23T02:03:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1587,
+      "title": "chore(deps): Found 5 areas of concern. Most critical: setuptools lower bound is 17.1 ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-22T02:07:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1586,
+      "title": "chore(deps): 2 outdated dependencies identified. 'mock' should be removed (stdlib uni",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-21T02:06:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1585,
+      "title": "chore(deps): 2 actionable changes: (1) setuptools lower bound bumped to modern minimu",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-19T02:04:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1584,
+      "title": "chore(deps): 3 outdated constraints found. setuptools constraint is severely outdated",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-18T02:09:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1583,
+      "title": "chore(deps): 3 outdated deps found. pexpect 4.2.1→4.9.0 (minor, safe), decorator <5 →",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-17T02:03:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1582,
+      "title": "chore(deps): 2 actionable changes identified. pyte<0.8.1 → pyte<0.9.0 widens safe upp",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-16T02:04:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1581,
+      "title": "chore(deps): 1 clearly outdated dep found. setuptools pinned to >=17.1 (2014) is very",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-15T02:07:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1580,
+      "title": "Fix: python 3.13 windows compat",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-13T06:52:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1579,
+      "title": "chore(deps): 2 outdated constraints found. setuptools>=17.1 is severely outdated (201",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-13T02:05:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1578,
+      "title": "chore(deps): 3 outdated/obsolete constraints found. setuptools floor (17.1 from 2013)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-12T02:08:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1577,
+      "title": "chore(deps): 6 potential improvements: psutil 5.0.0→>=5.9 (major bump, test after), s",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-10T02:04:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1576,
+      "title": "perf: parallel rule loading/matching, cache PATH executables on disk",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-09T15:03:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1575,
+      "title": "chore(deps): 3 concerns found: setuptools floor is 10 years old (>=17.1→>=70); mock i",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-09T02:04:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1574,
+      "title": "chore(deps): 3 outdated constraints found. setuptools lower-bound is ancient (>=17.1 ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-08T17:21:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1573,
+      "title": "chore(deps): 2 outdated constraints identified. setuptools lower bound is 10+ years o",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-08T07:38:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1572,
+      "title": "Fix sudo rule for Fish shell compatibility (fixes #1229)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-04T01:04:33Z",
+      "closed_at": "2026-05-16T00:56:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1571,
+      "title": "Fix typo: 'bellow' -> 'below' in settings header",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-23T01:16:13Z",
+      "closed_at": "2026-04-23T01:44:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1570,
+      "title": "thefuck-fixed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-16T02:03:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1569,
+      "title": "support:support for Python 3.12+",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-16T01:34:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1568,
+      "title": "Can you consider replacing \"fuck upgrade\" with \"fuck up\"?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-10T13:11:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1567,
+      "title": "Please support Python 3.14",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-06T06:03:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1566,
+      "title": "Is this project not be maintained so long?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-05T03:26:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1564,
+      "title": "fix: use shell-agnostic 'and' operator in sudo rule instead of hardcoded '&&'",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-30T09:11:56Z",
+      "closed_at": "2026-05-04T03:23:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1563,
+      "title": "Fix: handle 'cd ..' edge case in cd_parent rule",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-28T07:21:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1562,
+      "title": "fix: gracefully handle non-TTY environments",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-25T18:25:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1561,
+      "title": "Is a different command correction tool -- Typo",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-25T11:57:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1560,
+      "title": "libexpat now an explicit install requirement on macOS",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-19T16:08:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1559,
+      "title": "Change \"which\" to \"that\" in repo description",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-19T15:47:22Z",
+      "closed_at": "2026-04-03T15:05:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1558,
+      "title": "Fix: replace pkg_resources with importlib.metadata for setuptools 82+",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-19T08:14:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1557,
+      "title": "tests: remove fixture mark deprecated in pytest 9",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-18T18:31:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1556,
+      "title": "Mentioned \"Ubuntu/Mint\" in README",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-15T11:05:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1555,
+      "title": "Replace deprecated pkg_resources with importlib.metadata",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-15T06:40:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1554,
+      "title": "Gives \"no fucks given\" error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-11T15:58:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1553,
+      "title": "Add rule for debian systems getting an externally managed enviroment error",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-08T16:30:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1552,
+      "title": "Use of deprecated / removed pkg_resources",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-01T05:21:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1551,
+      "title": "Fix IndexError when parsing empty alias value in bash shell",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-27T11:17:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1550,
+      "title": "tests: make tests compatible with Pytest 9",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-24T15:32:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1549,
+      "title": "[self-tests] fail against pytest 9",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-24T15:14:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1548,
+      "title": "Fix typo: Installations -> Installation in TOC",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-19T18:55:52Z",
+      "closed_at": "2026-04-05T04:40:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1547,
+      "title": "Fix typo: Installations -> Installation in README TOC",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-19T18:24:05Z",
+      "closed_at": "2026-04-05T04:40:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1546,
+      "title": "No module named 'distutils'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-09T18:00:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1545,
+      "title": "Mobile UX feedback: Hard to unsubscribe from issue notifications",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-02-08T10:44:52Z",
+      "closed_at": "2026-03-19T15:10:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1544,
+      "title": "It seems that python3.12 is not supported",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-17T03:44:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1543,
+      "title": "bug: git commit -m command fix error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-15T14:07:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1542,
+      "title": "[FULL 3.12 SUPPORT] Enhances Python compatibility to version 3.12",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-09T18:42:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1541,
+      "title": "IndexError: string index out of range",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-09T03:11:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1540,
+      "title": "Fix IndexError in brew_unknown_command rule",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-01-05T11:21:12Z",
+      "closed_at": "2026-04-08T09:27:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1539,
+      "title": "Fix BrokenPipeError when terminal pipe is closed",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-28T01:51:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1538,
+      "title": "#1536: Added --shell argument to force specific shell usage.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-26T08:10:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1537,
+      "title": "fix: suppress Windows PowerShell encoding mismatch warning",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-14T08:41:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1536,
+      "title": "Force specific shell with `thefuck --alias`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-07T18:03:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1534,
+      "title": "Fix `No module named 'distutils'` for Python3.12+",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-02T01:34:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1533,
+      "title": "cannot install on Ubuntu 24..04",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-29T09:39:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1532,
+      "title": "Small issue when using “fuck” command with oh-my-zsh",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-26T14:07:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1531,
+      "title": "[Bug]: open_command string-concatenates user-controlled output, enabling command injection",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-21T18:19:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1530,
+      "title": "Broken Pipe",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-09-25T15:47:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1529,
+      "title": "Have to source bashrc every time I open a shell",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-09-17T10:51:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1528,
+      "title": "Use AI instead of pattern recognition",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-09-14T05:56:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1527,
+      "title": "The 'imp' import in Python 3.13 is obsolete.| imp库已经没了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-31T01:08:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1526,
+      "title": "Fix Python 3.13 compatibility: replace distutils with shutil",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-08-29T10:24:15Z",
+      "closed_at": "2025-09-28T20:53:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1525,
+      "title": "updated a module for python3 user compatibility",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-08-20T10:48:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1524,
+      "title": "Python 3: anydbm import is outdated (should use dbm)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-20T10:33:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1523,
+      "title": "fix #1515: add no_memoize to TestGetValidHistoryWithoutCurrent",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-08-20T07:09:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1522,
+      "title": "Works once - then stops",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-08-05T20:53:11Z",
+      "closed_at": "2025-09-12T19:15:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1521,
+      "title": "Rewrite it in Rust",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-03T12:36:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1520,
+      "title": "Have you considered integrating AI tools to improve command analysis and error correction capabilities?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-25T02:16:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1519,
+      "title": "FuckDescription",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-07-23T07:09:26Z",
+      "closed_at": "2025-07-23T07:10:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1518,
+      "title": "Rewrite it in C",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-17T12:23:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1517,
+      "title": "Add callout for WSL suggested config to improve performance",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-07-14T14:09:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1516,
+      "title": "Changes to induce compatablity with python 12+ ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-07-10T05:58:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1515,
+      "title": "Test Failing: test_get_valid_history_without_current on macOS + Python 3.11",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-17T23:25:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1514,
+      "title": "Add support for 'paru' in pacman_not_found rule and tests",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-06-13T14:39:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1513,
+      "title": "Chinese README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-06-12T18:23:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1512,
+      "title": "More Windows commands",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-12T18:14:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1511,
+      "title": "Request to add a Chinese README document",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-12T18:04:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1509,
+      "title": "`psutil.AccessDenied` and `PermissionError` after exiting `sudo su`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-05-24T18:06:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1508,
+      "title": "newest version of python",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-05-15T08:40:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1506,
+      "title": "Add Escape key as an alternative way to abort selection",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-04-22T09:32:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "nvbn",
+      "contributions": 930
+    },
+    {
+      "login": "scorphus",
+      "contributions": 140
+    },
+    {
+      "login": "mcarton",
+      "contributions": 125
+    },
+    {
+      "login": "josephfrazier",
+      "contributions": 88
+    },
+    {
+      "login": "mlk",
+      "contributions": 14
+    },
+    {
+      "login": "SanketDG",
+      "contributions": 14
+    },
+    {
+      "login": "djh82",
+      "contributions": 11
+    },
+    {
+      "login": "Epse",
+      "contributions": 11
+    },
+    {
+      "login": "dvjn",
+      "contributions": 10
+    },
+    {
+      "login": "MattKotsenas",
+      "contributions": 8
+    },
+    {
+      "login": "kimtree",
+      "contributions": 7
+    },
+    {
+      "login": "qrqiuren",
+      "contributions": 6
+    },
+    {
+      "login": "ik1ne",
+      "contributions": 6
+    },
+    {
+      "login": "duboviy",
+      "contributions": 5
+    },
+    {
+      "login": "dhilipsiva",
+      "contributions": 5
+    },
+    {
+      "login": "nwinkler",
+      "contributions": 5
+    },
+    {
+      "login": "hugovk",
+      "contributions": 5
+    },
+    {
+      "login": "felixonmars",
+      "contributions": 4
+    },
+    {
+      "login": "bugaevc",
+      "contributions": 4
+    },
+    {
+      "login": "ls0f",
+      "contributions": 3
+    },
+    {
+      "login": "lawben",
+      "contributions": 3
+    },
+    {
+      "login": "waldyrious",
+      "contributions": 3
+    },
+    {
+      "login": "tjhorner",
+      "contributions": 3
+    },
+    {
+      "login": "SpyCheese",
+      "contributions": 3
+    },
+    {
+      "login": "mkreder",
+      "contributions": 3
+    },
+    {
+      "login": "reitermarkus",
+      "contributions": 3
+    },
+    {
+      "login": "lukechilds",
+      "contributions": 3
+    },
+    {
+      "login": "cjmartian",
+      "contributions": 3
+    },
+    {
+      "login": "Brobin",
+      "contributions": 3
+    },
+    {
+      "login": "LarsMichelsen",
+      "contributions": 2
+    },
+    {
+      "login": "maciekmm",
+      "contributions": 2
+    },
+    {
+      "login": "pakrym",
+      "contributions": 2
+    },
+    {
+      "login": "pyrrolizin",
+      "contributions": 2
+    },
+    {
+      "login": "rstacruz",
+      "contributions": 2
+    },
+    {
+      "login": "rpdelaney",
+      "contributions": 2
+    },
+    {
+      "login": "scolby33",
+      "contributions": 2
+    },
+    {
+      "login": "tdsmith",
+      "contributions": 2
+    },
+    {
+      "login": "vikstrous",
+      "contributions": 2
+    },
+    {
+      "login": "boonwj",
+      "contributions": 2
+    },
+    {
+      "login": "jab",
+      "contributions": 2
+    },
+    {
+      "login": "makalaaneesh",
+      "contributions": 2
+    },
+    {
+      "login": "abraham-chan",
+      "contributions": 2
+    },
+    {
+      "login": "Caplinja",
+      "contributions": 2
+    },
+    {
+      "login": "wikiti",
+      "contributions": 2
+    },
+    {
+      "login": "storey247",
+      "contributions": 2
+    },
+    {
+      "login": "dionyziz",
+      "contributions": 2
+    },
+    {
+      "login": "elihschiff",
+      "contributions": 2
+    },
+    {
+      "login": "evverx",
+      "contributions": 2
+    },
+    {
+      "login": "HughMacdonald",
+      "contributions": 2
+    },
+    {
+      "login": "IngaFeick",
+      "contributions": 2
+    },
+    {
+      "login": "revolter",
+      "contributions": 2
+    },
+    {
+      "login": "crimsonknave",
+      "contributions": 2
+    },
+    {
+      "login": "KartikSoneji",
+      "contributions": 2
+    },
+    {
+      "login": "ProfessorTom",
+      "contributions": 1
+    },
+    {
+      "login": "premek",
+      "contributions": 1
+    },
+    {
+      "login": "bluszcz",
+      "contributions": 1
+    },
+    {
+      "login": "RetekBacsi",
+      "contributions": 1
+    },
+    {
+      "login": "Rom1deTroyes",
+      "contributions": 1
+    },
+    {
+      "login": "rvolosatovs",
+      "contributions": 1
+    },
+    {
+      "login": "dfadev",
+      "contributions": 1
+    },
+    {
+      "login": "SamuelMarks",
+      "contributions": 1
+    },
+    {
+      "login": "scott-abernethy",
+      "contributions": 1
+    },
+    {
+      "login": "the-docta",
+      "contributions": 1
+    },
+    {
+      "login": "wx-csy",
+      "contributions": 1
+    },
+    {
+      "login": "shawnmcgraw",
+      "contributions": 1
+    },
+    {
+      "login": "s1ddly",
+      "contributions": 1
+    },
+    {
+      "login": "SimenB",
+      "contributions": 1
+    },
+    {
+      "login": "shakaran",
+      "contributions": 1
+    },
+    {
+      "login": "philiparola",
+      "contributions": 1
+    },
+    {
+      "login": "PLNech",
+      "contributions": 1
+    },
+    {
+      "login": "pcmitsis",
+      "contributions": 1
+    },
+    {
+      "login": "thedrow",
+      "contributions": 1
+    },
+    {
+      "login": "OJFord",
+      "contributions": 1
+    },
+    {
+      "login": "nyanotech",
+      "contributions": 1
+    },
+    {
+      "login": "nkakonas",
+      "contributions": 1
+    },
+    {
+      "login": "darkfiberiru",
+      "contributions": 1
+    },
+    {
+      "login": "manikantanallagatla",
+      "contributions": 1
+    },
+    {
+      "login": "nabeelvalapra",
+      "contributions": 1
+    },
+    {
+      "login": "bam241",
+      "contributions": 1
+    },
+    {
+      "login": "m1guelpf",
+      "contributions": 1
+    },
+    {
+      "login": "MaddyGuthridge",
+      "contributions": 1
+    },
+    {
+      "login": "BoboTiG",
+      "contributions": 1
+    },
+    {
+      "login": "yangkyeongmo",
+      "contributions": 1
+    },
+    {
+      "login": "wbolster-eiq",
+      "contributions": 1
+    },
+    {
+      "login": "tobixx",
+      "contributions": 1
+    },
+    {
+      "login": "theslimshaney",
+      "contributions": 1
+    },
+    {
+      "login": "thatneat",
+      "contributions": 1
+    },
+    {
+      "login": "sQu1rr",
+      "contributions": 1
+    },
+    {
+      "login": "olysyuk",
+      "contributions": 1
+    },
+    {
+      "login": "mklkj",
+      "contributions": 1
+    },
+    {
+      "login": "kozar",
+      "contributions": 1
+    },
+    {
+      "login": "josepdaniel",
+      "contributions": 1
+    },
+    {
+      "login": "grammaright",
+      "contributions": 1
+    },
+    {
+      "login": "godofhyperdeath",
+      "contributions": 1
+    },
+    {
+      "login": "fzerorubigd",
+      "contributions": 1
+    },
+    {
+      "login": "dannionqiu",
+      "contributions": 1
+    },
+    {
+      "login": "yotam180",
+      "contributions": 1
+    },
+    {
+      "login": "agarwalutkarsh554",
+      "contributions": 1
+    },
+    {
+      "login": "KiaraGrouwstra",
+      "contributions": 1
+    },
+    {
+      "login": "timofurrer",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "3.32",
+      "published_at": "2022-01-02T22:17:40Z"
+    },
+    {
+      "tag": "3.31",
+      "published_at": "2021-06-09T19:58:15Z"
+    },
+    {
+      "tag": "3.30",
+      "published_at": "2020-03-19T17:47:56Z"
+    },
+    {
+      "tag": "3.29",
+      "published_at": "2019-05-27T16:43:34Z"
+    },
+    {
+      "tag": "3.28",
+      "published_at": "2018-11-29T22:56:35Z"
+    },
+    {
+      "tag": "3.27",
+      "published_at": "2018-05-22T17:31:37Z"
+    },
+    {
+      "tag": "3.26",
+      "published_at": "2018-04-25T16:30:53Z"
+    },
+    {
+      "tag": "3.25",
+      "published_at": "2017-11-23T19:56:19Z"
+    },
+    {
+      "tag": "3.24",
+      "published_at": "2017-10-16T18:26:16Z"
+    },
+    {
+      "tag": "3.23",
+      "published_at": "2017-08-29T07:41:24Z"
+    },
+    {
+      "tag": "3.22",
+      "published_at": "2017-08-29T03:05:57Z"
+    },
+    {
+      "tag": "3.21",
+      "published_at": "2017-08-21T10:28:40Z"
+    },
+    {
+      "tag": "3.20",
+      "published_at": "2017-08-16T09:30:44Z"
+    },
+    {
+      "tag": "3.19",
+      "published_at": "2017-08-03T11:52:05Z"
+    },
+    {
+      "tag": "3.18",
+      "published_at": "2017-05-10T14:52:39Z"
+    },
+    {
+      "tag": "3.17",
+      "published_at": "2017-05-10T13:40:28Z"
+    },
+    {
+      "tag": "3.16",
+      "published_at": "2017-04-10T21:19:32Z"
+    }
+  ],
+  "collected_at": "2026-06-28T08:53:16.793621Z"
+}
