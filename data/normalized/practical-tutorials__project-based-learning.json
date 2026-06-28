@@ -1,0 +1,1935 @@
+{
+  "full_name": "practical-tutorials/project-based-learning",
+  "owner": "practical-tutorials",
+  "name": "project-based-learning",
+  "url": "https://github.com/practical-tutorials/project-based-learning",
+  "description": "Curated list of project-based tutorials",
+  "primary_language": null,
+  "topics": [
+    "beginner-project",
+    "cpp",
+    "golang",
+    "javascript",
+    "project",
+    "python",
+    "tutorial",
+    "webdevelopment"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 271145,
+  "forks": 35041,
+  "open_issues": 317,
+  "created_at": "2017-04-12T05:07:46Z",
+  "pushed_at": "2024-08-15T05:33:54Z",
+  "updated_at": "2026-06-28T08:03:41Z",
+  "commits": [
+    {
+      "sha": "243d33995fc5a616010fced6c9e131090e8e1a39",
+      "author_login": "axelbdt",
+      "authored_at": "2023-03-21T10:24:20Z",
+      "message": "Add \"Write a game boy emulator in Ocaml\" (#419)"
+    },
+    {
+      "sha": "4277a1088f06187c8e5ef4962181547d3228df6b",
+      "author_login": "jiyeonseo",
+      "authored_at": "2023-03-20T22:43:14Z",
+      "message": "Add a new c/c++ project (#403)"
+    },
+    {
+      "sha": "6d753e538e14b2332b3c98222b2d82dce88ae9c7",
+      "author_login": "rdonald",
+      "authored_at": "2023-03-20T22:41:38Z",
+      "message": "Added Flutter Netflix Clone Tutorial (#408)"
+    },
+    {
+      "sha": "74363c578424a120b23544b0ad1dc462dc0bffd8",
+      "author_login": "RivaanRanawat",
+      "authored_at": "2022-08-28T05:18:14Z",
+      "message": "Adding Flutter Tutorials (#364)"
+    },
+    {
+      "sha": "ba4c3c6c627e014698f67db4ce340cff709fba85",
+      "author_login": null,
+      "authored_at": "2022-08-25T16:00:54Z",
+      "message": "Added Realtime Chat app tutorial for django (#371)"
+    },
+    {
+      "sha": "575fa6461cd50a97ad195f105367889a81409f7b",
+      "author_login": "savankansagra",
+      "authored_at": "2022-08-25T15:53:04Z",
+      "message": "Updated Java security project reference. (#363)"
+    },
+    {
+      "sha": "c4207f5081b9ba4eeb89206c7ab25d7067357b0d",
+      "author_login": "alabhyajindal",
+      "authored_at": "2022-04-13T14:04:01Z",
+      "message": "Removed multiple dead links (#349)"
+    },
+    {
+      "sha": "21d7c30ee9b775e65ff40144c98f23b7643ac055",
+      "author_login": "arminpatel",
+      "authored_at": "2022-04-05T13:53:39Z",
+      "message": "Update readme.md (#351)"
+    },
+    {
+      "sha": "0d3b4e535ccb1be6d3e637eac5e694d67fb8f60c",
+      "author_login": "enkeyz",
+      "authored_at": "2022-01-28T11:06:53Z",
+      "message": "added new Go project (#327)"
+    },
+    {
+      "sha": "8c9ecbf2cd8c5dacfa69690dc7db6f016968bf87",
+      "author_login": "enkeyz",
+      "authored_at": "2022-01-28T11:02:11Z",
+      "message": "added new Go project (#325)"
+    },
+    {
+      "sha": "bceea63fabfa4e9915c96fd408eaaee5284764be",
+      "author_login": "Krish-bhardwaj",
+      "authored_at": "2022-01-27T22:13:29Z",
+      "message": "Update README.md (#343)"
+    },
+    {
+      "sha": "7dcba3b6ebc0b1cd5569b543931ed154d910d1ad",
+      "author_login": "joshinihal",
+      "authored_at": "2021-12-28T12:58:47Z",
+      "message": "refactor: remove tutorials which shut down (#335)"
+    },
+    {
+      "sha": "15d5112688fbc77d6f145f61be03ffa094fe01de",
+      "author_login": "saheelahmed2",
+      "authored_at": "2021-12-28T12:58:19Z",
+      "message": "Added tutorial for fake news detector using python & ml (#336)"
+    },
+    {
+      "sha": "bdf1c16b0f65bd42321b7c0f3016bd2f74d8b8ac",
+      "author_login": "Utpal29",
+      "authored_at": "2021-12-28T12:57:48Z",
+      "message": "added JavaScript project (#337)"
+    },
+    {
+      "sha": "d589770355f1d2b58c54159369026cffc0fe4dfd",
+      "author_login": "enkeyz",
+      "authored_at": "2021-09-14T20:02:16Z",
+      "message": "added Go project (#326)"
+    },
+    {
+      "sha": "a10dead3b0f9b16116cd999f54935fc0f584d4b2",
+      "author_login": "syrotkin",
+      "authored_at": "2021-09-14T12:10:14Z",
+      "message": "Fix typo (#333)"
+    },
+    {
+      "sha": "48d7662f377b99f10317f0903d91b74733ee9c44",
+      "author_login": "enkeyz",
+      "authored_at": "2021-09-07T18:24:52Z",
+      "message": "updated LICENSE.md (#328)"
+    },
+    {
+      "sha": "ce762032c15ba4f6936f7a3a5f0cd9a4c63160d4",
+      "author_login": "enkeyz",
+      "authored_at": "2021-09-02T08:20:53Z",
+      "message": "added labels (#323)"
+    },
+    {
+      "sha": "f8ea5cb2c77043a94121f885ad1b787352638375",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-31T17:04:38Z",
+      "message": "Go category cleanup after bad merge (#324)"
+    },
+    {
+      "sha": "d63e7dc62f6ba84ec305633833ca0d1fccaa174b",
+      "author_login": "anshuman-agarwala",
+      "authored_at": "2021-08-29T16:07:38Z",
+      "message": "Removed broken link (#322)"
+    },
+    {
+      "sha": "240460bb3e01a2c044503ee628a12d513a41c131",
+      "author_login": "justinlew",
+      "authored_at": "2021-08-28T05:42:32Z",
+      "message": "Update README.md (#141)"
+    },
+    {
+      "sha": "482e74d28457dd82e8a59470141d1966a2963f04",
+      "author_login": "bobeff",
+      "authored_at": "2021-08-27T19:57:48Z",
+      "message": "Add \"Let's write a compiler\" tutorial series (#318)"
+    },
+    {
+      "sha": "7e4eb0d68925abe83b65653983fd2fb4fbd06c96",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-27T19:06:46Z",
+      "message": "Merge pull request #321 from enkeyz/stalebot"
+    },
+    {
+      "sha": "674712e186411aa8975ea59d251bd00466c97ae1",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-27T10:25:07Z",
+      "message": "prep for stalebot"
+    },
+    {
+      "sha": "c4b486b2207ce387b6b4b7ee8a1df1d174b59cc8",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-27T09:37:34Z",
+      "message": "Merge pull request #249 from meerasndr/ms_rust"
+    },
+    {
+      "sha": "d8207b8cf8f19ccaa9b0451e19e7e03017d20d30",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-27T09:19:53Z",
+      "message": "Merge pull request #256 from Rajatkhatri7/master"
+    },
+    {
+      "sha": "e266f0c38e18bf993738a75843b217d634f3d4b0",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-27T09:19:37Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a97d51b58319526881a70027f878bdcbddbf0859",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-27T09:13:23Z",
+      "message": "Merge pull request #277 from bondtiffanym/patch-1"
+    },
+    {
+      "sha": "9abb4da73605d9e385b9194a833801f777507b72",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-27T09:13:08Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "977c8f9c271d97a82e197095aad450a231ad62d6",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-27T09:06:43Z",
+      "message": "Merge pull request #275 from RonaldColyar/master"
+    },
+    {
+      "sha": "8362ec0b947a5aa89c3f4a6991011d2a73af7bf6",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-27T09:06:15Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "9ed321faee64f6633cf980eaad41e6d497f7d4d2",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-27T08:43:10Z",
+      "message": "Merge pull request #160 from kartikeytripathi/master"
+    },
+    {
+      "sha": "0717840141cb674c6af82b99fbdda16952ca9c47",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-27T08:42:31Z",
+      "message": "Merge branch 'master' into master"
+    },
+    {
+      "sha": "10d19185082f6f8623bb373790ca9b4612175c06",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-26T09:34:17Z",
+      "message": "Merge pull request #314 from booleanhunter/dev"
+    },
+    {
+      "sha": "58864402fb7bba4f91b5bb52fd69977888fe148a",
+      "author_login": "booleanhunter",
+      "authored_at": "2021-08-26T06:35:57Z",
+      "message": "Web application: How to build yor own Uber-for-X app"
+    },
+    {
+      "sha": "725108423cef6fc6c07bfeab16c8c71ea74ecea6",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-26T08:21:36Z",
+      "message": "Merge pull request #197 from optimist2309/patch-1"
+    },
+    {
+      "sha": "3077e168fe0fe247bdc5b89a4a52360525e80f30",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-26T08:18:20Z",
+      "message": "Merge pull request #280 from rohitpaulk/patch-1"
+    },
+    {
+      "sha": "0048fb521034bbc8a83382668d34d2d4fb958b03",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-26T08:12:21Z",
+      "message": "Merge pull request #232 from sacgov/master"
+    },
+    {
+      "sha": "a36c813c38fcbf81b20221a4e640fb5be60a7b4d",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-26T08:00:00Z",
+      "message": "Merge pull request #189 from akshaydeep06/akshaydeep"
+    },
+    {
+      "sha": "c90e624c7dc31160ca7b62e49e71661428e28d91",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-26T07:59:30Z",
+      "message": "Merge branch 'master' into akshaydeep"
+    },
+    {
+      "sha": "a49a26215eee5ea9b27f39848933ba4a4d836172",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T23:02:42Z",
+      "message": "Merge pull request #286 from Gaurav3435/master"
+    },
+    {
+      "sha": "ca549557f112603593e48b6a10132a30d34d6679",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T23:02:24Z",
+      "message": "Merge branch 'master' into master"
+    },
+    {
+      "sha": "a1541d5077832b8bc735285946d5a04f92346dd0",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T23:01:10Z",
+      "message": "Merge pull request #237 from akwanmaroso/golang-resource"
+    },
+    {
+      "sha": "093ef37081b1c6db4a79510f972084bc517856db",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T23:00:38Z",
+      "message": "Merge branch 'master' into golang-resource"
+    },
+    {
+      "sha": "4d08a98a2cb122f1117a86034de6d8e117b57932",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T22:29:04Z",
+      "message": "Merge pull request #190 from BiswaViraj/master"
+    },
+    {
+      "sha": "e79c168c4abdc1c210f535ed6b337ad2f56c9323",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T21:29:51Z",
+      "message": "Merge pull request #253 from eliasmaia/master"
+    },
+    {
+      "sha": "7a7e6b68594862079274d1509bb047deba2ef4c7",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T21:29:16Z",
+      "message": "Merge pull request #238 from DanEnglishby/readme-resource-amendment"
+    },
+    {
+      "sha": "17eba1a431f1eee3068baf606d7f74523e1d403a",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T21:26:42Z",
+      "message": "Merge pull request #257 from DeepaPrasanna/master"
+    },
+    {
+      "sha": "e61c3f73301d9c32b21080b2f49832b09350cddb",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T21:23:09Z",
+      "message": "Merge pull request #258 from SpekBin/master"
+    },
+    {
+      "sha": "04c5300ee2b52346f9b81f48a87a90a1b8b1873d",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T21:19:10Z",
+      "message": "Merge pull request #269 from JadHADDAD92/master"
+    },
+    {
+      "sha": "26a7298514f5c352eeeb44f6f3427696b4e9d33c",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T21:18:26Z",
+      "message": "Merge pull request #272 from thisisjofrank/vue-peer-to-peer-tutorial"
+    },
+    {
+      "sha": "0a7db0f2c48bd955a0d28bf6345d13452e78a3d2",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T21:15:25Z",
+      "message": "Merge pull request #278 from Dinesh101041/game"
+    },
+    {
+      "sha": "a24285ab57b467618004a8d03b77ebfac7e01880",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T21:01:14Z",
+      "message": "Merge pull request #271 from booleanhunter/dev"
+    },
+    {
+      "sha": "9c7599be2b18770b65d18f4a253f73a24de8ea17",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T21:00:37Z",
+      "message": "Merge pull request #279 from fartem/ruby-git"
+    },
+    {
+      "sha": "03367cbce63869a956677db9728d17f624678290",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T20:59:59Z",
+      "message": "Merge pull request #288 from sainad2222/patch-1"
+    },
+    {
+      "sha": "823dedbba367416a4c69582e22775db818cd352d",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T20:57:08Z",
+      "message": "Merge pull request #293 from bobeff/rest-servers-in-go"
+    },
+    {
+      "sha": "fa9ff7eedacdde5b1227163da150ae3c3273e987",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-25T20:55:19Z",
+      "message": "Merge pull request #298 from sharmas1ddharth/master"
+    },
+    {
+      "sha": "9d24ebada44300c5bbcdde1f0df08325119bef50",
+      "author_login": "tuvtran",
+      "authored_at": "2021-08-25T20:37:06Z",
+      "message": "Merge pull request #313 from enkeyz/gitter"
+    },
+    {
+      "sha": "49524da0be3b8f3115425776ca46ab70fae8efa7",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-24T09:34:07Z",
+      "message": "added gitter badge"
+    },
+    {
+      "sha": "578a8820f5f2eec27fbc4d5e4b0e3f8120d594df",
+      "author_login": "booleanhunter",
+      "authored_at": "2020-12-10T05:31:48Z",
+      "message": "Add Python Django Web Application"
+    },
+    {
+      "sha": "2123162eeddc1e1afea3c99ae0534a061c24f266",
+      "author_login": "tuvtran",
+      "authored_at": "2021-08-23T17:10:35Z",
+      "message": "Merge pull request #312 from AviFS/master"
+    },
+    {
+      "sha": "8ad8274107912dc1fd58eff785799598d6268cd2",
+      "author_login": "AviFS",
+      "authored_at": "2021-08-20T00:23:35Z",
+      "message": "Fixed broken link"
+    },
+    {
+      "sha": "2ae5bc29b81cb838f0a3996efdebce600620256d",
+      "author_login": "meerasndr",
+      "authored_at": "2021-08-18T05:55:27Z",
+      "message": "Merge branch 'master' into ms_rust"
+    },
+    {
+      "sha": "414d047da63defc5bdab1066bfe5474461ed35bb",
+      "author_login": "tuvtran",
+      "authored_at": "2021-08-16T08:12:50Z",
+      "message": "Merge pull request #300 from bobeff/nes-emulator-in-rust"
+    },
+    {
+      "sha": "b0e12248d7e7f6a16c4ae07ccf1703c9385b74ef",
+      "author_login": "bobeff",
+      "authored_at": "2021-08-16T08:06:04Z",
+      "message": "Merge branch 'master' into nes-emulator-in-rust"
+    },
+    {
+      "sha": "d3e886b680b2270e72931702be90cefacbd85bc1",
+      "author_login": "bobeff",
+      "authored_at": "2021-08-16T08:04:06Z",
+      "message": "Merge branch 'master' into rest-servers-in-go"
+    },
+    {
+      "sha": "f223d6c22fd87e7c0c68e06318cfb4c8b7350222",
+      "author_login": "tuvtran",
+      "authored_at": "2021-08-16T07:50:29Z",
+      "message": "Merge pull request #308 from bobeff/swift-fps"
+    },
+    {
+      "sha": "5608df74d620b3306d8f443801b5720689c07806",
+      "author_login": "tuvtran",
+      "authored_at": "2021-08-16T07:49:14Z",
+      "message": "Merge pull request #305 from sigmaSd/Rust_learning_to_fly"
+    },
+    {
+      "sha": "eea09890313a20ad525bec82b257d12d5b63590f",
+      "author_login": "bobeff",
+      "authored_at": "2021-08-13T22:30:18Z",
+      "message": "Add a tutorial series about making a FPS"
+    },
+    {
+      "sha": "4107381caf94d3cd3cd08785cc8b1e8525dab8bc",
+      "author_login": "tuvtran",
+      "authored_at": "2021-08-16T07:35:01Z",
+      "message": "Merge pull request #307 from enkeyz/new-go-tuts"
+    },
+    {
+      "sha": "e4b3afc27ef0001308bb30e58ce8f1a7e0e02be1",
+      "author_login": "enkeyz",
+      "authored_at": "2021-08-03T10:58:24Z",
+      "message": "added new go project"
+    },
+    {
+      "sha": "6b54b826e965346693ef201ffbf08563da7a0716",
+      "author_login": "sigmaSd",
+      "authored_at": "2021-07-22T08:06:08Z",
+      "message": "Add Rust project: Learning to Fly"
+    },
+    {
+      "sha": "0302eec76e191613eb79496feb1b68e5f9124b53",
+      "author_login": "BiswaViraj",
+      "authored_at": "2021-07-19T15:58:58Z",
+      "message": "Merge branch 'tuvtran:master' into master"
+    },
+    {
+      "sha": "f982b9799fcc9d3a939f05a6aad75864527da44b",
+      "author_login": "tuvtran",
+      "authored_at": "2021-07-07T21:48:29Z",
+      "message": "Merge pull request #290 from kbariotis/patch-1"
+    },
+    {
+      "sha": "6615ac6bb8ea8b436c45fdf45d3059e178a4dd34",
+      "author_login": "tuvtran",
+      "authored_at": "2021-07-07T21:47:27Z",
+      "message": "Merge pull request #302 from bobeff/clojure-script-tetris"
+    },
+    {
+      "sha": "662c010213818afe3a85cabb2f2550350708e9fa",
+      "author_login": "bobeff",
+      "authored_at": "2021-06-16T14:16:15Z",
+      "message": "Add a tutorial about writing a Tetris game"
+    },
+    {
+      "sha": "dba2b28eec862b78329b07b2a36b8152dde893e9",
+      "author_login": "bobeff",
+      "authored_at": "2021-05-07T19:48:45Z",
+      "message": "Add \"REST servers in Go\" tutorials"
+    },
+    {
+      "sha": "a4b9dbe46d042a1e84987a34321a5bf9d24d43b0",
+      "author_login": "bobeff",
+      "authored_at": "2021-06-09T19:39:43Z",
+      "message": "Add a tutorial about writing an NES emulator"
+    },
+    {
+      "sha": "46b54cfe44f2a67bdd80e860b486b82417d0ffd1",
+      "author_login": "sharmas1ddharth",
+      "authored_at": "2021-05-25T11:25:58Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7175a4186352b633a0102f1d1c3f6777a50fa2b0",
+      "author_login": "kbariotis",
+      "authored_at": "2021-03-21T10:30:25Z",
+      "message": "Switch domain jeiwan.cc to jeiwan.net"
+    },
+    {
+      "sha": "d19c2eeb5a66894d237817d474ede5648d812acc",
+      "author_login": "sainad2222",
+      "authored_at": "2021-03-13T16:31:17Z",
+      "message": "Replaced link in React"
+    },
+    {
+      "sha": "e9f67229e6877a5ce3ed50bd57e4705c1aabc609",
+      "author_login": "Gaurav3435",
+      "authored_at": "2021-03-09T05:24:16Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "946d49aba22d8bee6683893fc8614bb4b9c011fe",
+      "author_login": "rohitpaulk",
+      "authored_at": "2021-01-31T11:42:57Z",
+      "message": "Added CodeCrafters to additional resources"
+    },
+    {
+      "sha": "d7e599db0244ee48938d98864b807e17a54bcf93",
+      "author_login": "fartem",
+      "authored_at": "2021-01-28T04:10:14Z",
+      "message": "Added Ruby Git project"
+    },
+    {
+      "sha": "0d594eecb17e169e27b911eebdba9574d267a2b0",
+      "author_login": "Dinesh101041",
+      "authored_at": "2021-01-27T15:13:27Z",
+      "message": "snake game"
+    },
+    {
+      "sha": "71473736afdc46a3e45718d1336e9f8ac4faf550",
+      "author_login": "bondtiffanym",
+      "authored_at": "2021-01-24T19:56:15Z",
+      "message": "Added React Phone E-Commerce Project"
+    },
+    {
+      "sha": "1cddb5fb93d9308a207655367295b68eed0ac9fb",
+      "author_login": "RonaldColyar",
+      "authored_at": "2020-12-30T18:29:58Z",
+      "message": "Added a python A.I. voice assistant tutorial"
+    },
+    {
+      "sha": "299ca881b14a350adc8da9f8132aad1c3d5a4220",
+      "author_login": "thisisjofrank",
+      "authored_at": "2020-12-18T09:48:40Z",
+      "message": "Add Vue tutorial to build peer to peer app"
+    },
+    {
+      "sha": "9f3f3f4601bb17edecc6b1362eff323816f0a55e",
+      "author_login": "jad-haddad",
+      "authored_at": "2020-11-20T11:20:42Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "c45bd3c798539f4685f18638aebd7755715b7ac4",
+      "author_login": "spekulatius",
+      "authored_at": "2020-10-01T16:33:11Z",
+      "message": "Removing broken link"
+    },
+    {
+      "sha": "39e2e2e0c4a20dc6d44c908c80d4a3f037607741",
+      "author_login": "DeepaPrasanna",
+      "authored_at": "2020-10-01T16:19:01Z",
+      "message": "added TicTacToe game using VanillaJs"
+    },
+    {
+      "sha": "ee2cc249027e4e283bea2ec5a27a0e753c27df25",
+      "author_login": "Rajatkhatri7",
+      "authored_at": "2020-10-01T13:32:35Z",
+      "message": "Merge pull request #1 from Rajatkhatri7/Rajatkhatri7-patch-1"
+    },
+    {
+      "sha": "9dc86bd0fd2d2b6b8b9d688b90c68f263fd46c8d",
+      "author_login": "Rajatkhatri7",
+      "authored_at": "2020-10-01T13:32:05Z",
+      "message": "Updated project for fastest object detection with YOLOv3"
+    },
+    {
+      "sha": "e736c85a552686ddf2b5a521a881f6fc23c1b4f2",
+      "author_login": null,
+      "authored_at": "2020-09-26T15:39:53Z",
+      "message": "The link for Learn Unsupervised Learning with Python seems to be broken. When the page loads, it says that 'The author deleted this Medium story.'"
+    },
+    {
+      "sha": "0be7b94515bd88a299f17827a6ed93b21492e637",
+      "author_login": "meerasndr",
+      "authored_at": "2020-09-02T10:37:56Z",
+      "message": "add rust spa tutorial"
+    },
+    {
+      "sha": "97afefeb79ffb67a865adef90b20c0e61d1d581a",
+      "author_login": "tuvtran",
+      "authored_at": "2020-08-22T22:14:21Z",
+      "message": "Merge pull request #245 from JavaLich/dev"
+    },
+    {
+      "sha": "32eebdb06242ecb60c7d50927801532df138b87c",
+      "author_login": "tuvtran",
+      "authored_at": "2020-08-22T22:13:25Z",
+      "message": "Merge pull request #246 from mrterranova/update/License_copyright_updated_2020"
+    },
+    {
+      "sha": "56df4613ca3125c0ef0d693384c4a016d87e7c39",
+      "author_login": null,
+      "authored_at": "2020-08-21T12:13:33Z",
+      "message": "Updated date to the license from 2017 to 2020"
+    },
+    {
+      "sha": "b62fe0db5dbe6cec972da42ff629a3475b954104",
+      "author_login": "akash-melachuri",
+      "authored_at": "2020-08-03T23:20:32Z",
+      "message": "Replaced 'How to Write an Emulator (CHIP-8 Interpreter)' with a working link to another tutorial 'Building A CHIP-8 Emulator'"
+    },
+    {
+      "sha": "10ee1bbfc8211c4cf947f65f7d17d631abe30d61",
+      "author_login": "tuvtran",
+      "authored_at": "2020-08-03T08:58:25Z",
+      "message": "Merge pull request #234 from sanket2000sonavane/master"
+    }
+  ],
+  "issues": [
+    {
+      "number": 892,
+      "title": "Add digital clock tutorial",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-27T04:35:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 891,
+      "title": "Add tutorial: Build Your Own Compression Algorithm (C/C++)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-23T08:35:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 890,
+      "title": "Add tutorial: Build a DNS Server (Go)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-23T08:34:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 889,
+      "title": "Add tutorial: Build a JSON Parser (Python)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-23T08:34:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 888,
+      "title": "Broken Link in Go for Create a Real Time Chat App with Golang, Angular 2, and WebSocket",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-16T10:13:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 887,
+      "title": "[Suggestion] Add Next.js 14/15 (App Router) tutorials to the JS/TS section",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-15T17:43:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 885,
+      "title": "Include personal portfolio idea and Example link in README",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-12T07:15:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 882,
+      "title": "Add Python tutorial: Build Your Own Search Engine (inverted index + TF-IDF)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-09T19:42:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 881,
+      "title": "Fix dead 'Build a Reddit Bot' link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-09T19:39:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 880,
+      "title": "Add Swift.org and Stanford tutorials to Swift section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-09T05:55:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 879,
+      "title": "Initial commit",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-06-08T09:29:08Z",
+      "closed_at": "2026-06-08T09:31:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 876,
+      "title": "Update Write You A Scheme link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-02T08:11:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 875,
+      "title": "Remove dead Scotch tutorial links",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-01T13:04:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 874,
+      "title": "Fix Go websocket tutorial link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-31T23:59:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 873,
+      "title": "Fix Rust linked lists resource link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-31T14:50:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 872,
+      "title": "Remove dead Erlang tutorial link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-31T13:48:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 865,
+      "title": "docs(bash): add bash learning resources",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-24T19:45:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 864,
+      "title": "Add Networking from Scratch to C/C++ network programming",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-23T15:39:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 861,
+      "title": "Vivo Y39",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-20T15:04:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 860,
+      "title": "This guy try to hackes my insta acc",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-20T10:55:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 859,
+      "title": "broken url in Go Realtime chat using websocket",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-17T02:46:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 858,
+      "title": "Broken link for learning rust with too many linked lists",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-15T21:37:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 857,
+      "title": "Add Go CLI and Task Scheduler project tutorials",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-13T17:30:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 855,
+      "title": "docs: fix Multiple Object Tracker typo",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-08T03:19:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 854,
+      "title": "docs: fix TF-IDF typo in deep learning section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-08T02:53:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 853,
+      "title": "Add Streamlit section with beginner tutorial",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-02T12:45:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 852,
+      "title": "Add Data Engineering Fundamentals — interactive browser simulators",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-27T20:28:10Z",
+      "closed_at": "2026-04-28T19:21:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 851,
+      "title": "fix: replace dead TowardsDataScience link with working GeeksforGeeks tutorial",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-27T06:59:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 850,
+      "title": "Remove invalid NoSQL Python link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-27T06:37:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 849,
+      "title": "Remove broken Medium links from JavaScript section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-27T05:56:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 848,
+      "title": "Add resource type tags guidance",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-27T05:01:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 847,
+      "title": "docs: add resource type tagging guidance",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-26T09:01:03Z",
+      "closed_at": "2026-04-27T06:42:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 846,
+      "title": "Fixed Erlang Link 404 Error",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-23T22:06:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 844,
+      "title": "Fix formatting and grammar in CONTRIBUTING.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-18T14:46:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 843,
+      "title": "Add hecto: Build your own text editor in Rust",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-16T08:11:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 841,
+      "title": "Add connect 4 game link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-14T02:56:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 840,
+      "title": "Broken Link: Erlang -> \"Making a Chat App with Erlang, Rebar, Cowboy and Bullet\" leads to 404 error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-13T10:55:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 839,
+      "title": "Add Connect 4 game project link",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-13T10:34:54Z",
+      "closed_at": "2026-04-14T02:11:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 838,
+      "title": "Add python resource",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-12T05:05:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 837,
+      "title": "An API has been added",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-09T17:49:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 836,
+      "title": "Broken Links for Javascript Learning",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-09T16:11:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 834,
+      "title": "Add FastAPI comprehensive course to Python Web Applications",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-08T05:19:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 829,
+      "title": "YES",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-05T13:27:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 828,
+      "title": "Add AI Bug Reporter tutorial",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-05T11:56:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 825,
+      "title": "Add AI Trading System with Adversarial Debate to Machine Learning",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-03T04:53:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 815,
+      "title": "Add: JavaScript Weather App tutorial to JS section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-27T18:03:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 814,
+      "title": "Fix: Typo in PHP Laravel section (Permissinos → Permissions)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-27T17:56:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 812,
+      "title": "Add Terminal Emulator Tutorial to TypeScript section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-20T12:23:15Z",
+      "closed_at": "2026-04-02T07:57:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 811,
+      "title": "Remove broken and dead tutorial links",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-16T08:14:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 810,
+      "title": "Fix typo in README (Permissinos -> Permissions)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-11T03:03:31Z",
+      "closed_at": "2026-03-11T07:24:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 809,
+      "title": "added Streamlit project tutorial section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-10T16:11:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 808,
+      "title": "commit 1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-09T16:04:02Z",
+      "closed_at": "2026-04-07T14:18:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 807,
+      "title": "fix: replace broken Build a Reddit Bot link",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-04T19:11:25Z",
+      "closed_at": "2026-05-16T00:58:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 806,
+      "title": "fix: replace dead AngularJS Django tutorial link",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-04T19:11:03Z",
+      "closed_at": "2026-05-16T00:58:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 805,
+      "title": "Fix broken deep learning tutorial link (Mask detection using PyTorch Lightning)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-04T18:47:52Z",
+      "closed_at": "2026-05-16T00:58:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 803,
+      "title": "Add Apple SwiftUI project tutorial to Swift resources",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-04T01:07:22Z",
+      "closed_at": "2026-05-16T00:58:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 802,
+      "title": "Add load balancer tutorial to Go section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-03T03:00:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 799,
+      "title": "Add FastAPI tutorial to Python Web Applications",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-23T02:14:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 798,
+      "title": "Fix typo: Chapter 14 on -> Chapter 14",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-20T01:22:33Z",
+      "closed_at": "2026-04-05T04:40:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 794,
+      "title": "Update README to improve description clarity",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-01-27T09:47:07Z",
+      "closed_at": "2026-01-27T09:47:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 793,
+      "title": "Add Flask-Login authentication tutorial link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-22T14:19:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 792,
+      "title": "fix: update broken Java tutorial link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-18T17:59:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 791,
+      "title": "Add WhatsApp Bot tutorial link to README",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-17T19:03:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 790,
+      "title": "Fix broken link: Update Mask detection PyTorch Lightning tutorial URL",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-14T12:04:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 789,
+      "title": "Add beginner LLM Fine-Tuning tutorial under Python miscellaneous",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-12T08:31:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 788,
+      "title": "Broken Link: Deep Learning -> \"Mask detection using PyTorch Lightning\" leads to 404 error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-11T17:35:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 787,
+      "title": "Remove broken AngularJS tutorial link returning 502 error",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-09T07:55:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 786,
+      "title": "Add Python ML project for building an inference API with FastAPI and ONNX",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-09T07:47:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 785,
+      "title": "Clarify how to suggest improvements to contribution guidelines",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-08T12:51:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 784,
+      "title": "Broken link: Build a Google+ clone with Django and AngularJS (Angular 1.x)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-08T11:21:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 782,
+      "title": "Remove Phishing links & Dead sites",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-01T17:01:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 781,
+      "title": "Add JavaScript project links to README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-12-28T15:29:50Z",
+      "closed_at": "2026-02-26T11:36:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 780,
+      "title": "Remove incorrect links from README",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-27T05:55:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 779,
+      "title": "Improve stale issue automation configuration",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-26T13:24:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 778,
+      "title": "master",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-24T18:54:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 777,
+      "title": "Bhavesh3288",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-24T18:53:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 776,
+      "title": "Build A Premium E-Commerce Site",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-19T01:59:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 775,
+      "title": "Add Portfolio Builder (HTML/CSS/JS project)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-16T22:57:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 774,
+      "title": "Add StickHero game project to Game Development section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-12-11T07:33:49Z",
+      "closed_at": "2025-12-30T23:41:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 773,
+      "title": "Gojo",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-07T06:33:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 771,
+      "title": "docs: improve bug report template",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-05T10:17:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 770,
+      "title": "Feature",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-11-23T00:37:09Z",
+      "closed_at": "2025-11-23T00:38:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 769,
+      "title": "Task - 1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-18T05:48:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 768,
+      "title": "Issue 2",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-17T15:46:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 767,
+      "title": "Issue ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-17T12:58:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 766,
+      "title": "!<DOCTYPE html>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-16T04:24:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 765,
+      "title": "Fix broken link for Search Engine tutorial (Fixes #380)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-14T05:25:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 764,
+      "title": "https://justoarts.netlify.app/",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-13T19:05:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 763,
+      "title": "Fix broken Reddit bot tutorial link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-13T14:09:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 761,
+      "title": "\"Build a Reddit Bot\" link broken",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-08T04:57:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 760,
+      "title": "Add new C/C++ project tutorial link and improve formatting",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-11-04T15:54:10Z",
+      "closed_at": "2025-12-19T09:30:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 759,
+      "title": "Nomas",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-02T10:24:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 758,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-29T20:36:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 755,
+      "title": "Project based learning\n",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-10-19T06:54:19Z",
+      "closed_at": "2025-10-19T06:58:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 754,
+      "title": "Features/nandu 2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-18T13:29:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 753,
+      "title": "first file",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-17T11:45:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 750,
+      "title": "Updated python web development projects",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-12T14:19:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 749,
+      "title": "Create A Django API in under 20 minutes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-10-12T13:47:51Z",
+      "closed_at": "2025-10-12T14:11:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 748,
+      "title": "8",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-10T15:52:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 747,
+      "title": "docs: small, helpful improvement by @ex1234",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-10T07:35:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "tuvtran",
+      "contributions": 244
+    },
+    {
+      "login": "sayands",
+      "contributions": 114
+    },
+    {
+      "login": "enkeyz",
+      "contributions": 42
+    },
+    {
+      "login": "bobeff",
+      "contributions": 21
+    },
+    {
+      "login": "olucode",
+      "contributions": 10
+    },
+    {
+      "login": "adilkhash",
+      "contributions": 4
+    },
+    {
+      "login": "nishitkshah",
+      "contributions": 3
+    },
+    {
+      "login": "itsmingjie",
+      "contributions": 3
+    },
+    {
+      "login": "MacAhmed",
+      "contributions": 3
+    },
+    {
+      "login": "jodylecompte",
+      "contributions": 3
+    },
+    {
+      "login": "biodunch",
+      "contributions": 3
+    },
+    {
+      "login": "meerasndr",
+      "contributions": 2
+    },
+    {
+      "login": "BiswaViraj",
+      "contributions": 2
+    },
+    {
+      "login": "booleanhunter",
+      "contributions": 2
+    },
+    {
+      "login": "yrsdi",
+      "contributions": 2
+    },
+    {
+      "login": "geekysrm",
+      "contributions": 2
+    },
+    {
+      "login": "robert",
+      "contributions": 2
+    },
+    {
+      "login": "Rajatkhatri7",
+      "contributions": 2
+    },
+    {
+      "login": "spekulatius",
+      "contributions": 2
+    },
+    {
+      "login": "rohitpaulk",
+      "contributions": 2
+    },
+    {
+      "login": "AdrienTorris",
+      "contributions": 2
+    },
+    {
+      "login": "alvierahman90",
+      "contributions": 2
+    },
+    {
+      "login": "codepr",
+      "contributions": 2
+    },
+    {
+      "login": "lalaithan",
+      "contributions": 2
+    },
+    {
+      "login": "AzariasB",
+      "contributions": 2
+    },
+    {
+      "login": "daoanhnhat1995",
+      "contributions": 2
+    },
+    {
+      "login": "adamfaliq42",
+      "contributions": 2
+    },
+    {
+      "login": "dmushail",
+      "contributions": 2
+    },
+    {
+      "login": "jianjacob",
+      "contributions": 2
+    },
+    {
+      "login": "mr-ubik",
+      "contributions": 2
+    },
+    {
+      "login": "srobins259",
+      "contributions": 1
+    },
+    {
+      "login": "sharmas1ddharth",
+      "contributions": 1
+    },
+    {
+      "login": "shreybs",
+      "contributions": 1
+    },
+    {
+      "login": "selrond",
+      "contributions": 1
+    },
+    {
+      "login": "samcoren",
+      "contributions": 1
+    },
+    {
+      "login": "sainad2222",
+      "contributions": 1
+    },
+    {
+      "login": "saheelahmed2",
+      "contributions": 1
+    },
+    {
+      "login": "sacgov",
+      "contributions": 1
+    },
+    {
+      "login": "rdonald",
+      "contributions": 1
+    },
+    {
+      "login": "RonaldColyar",
+      "contributions": 1
+    },
+    {
+      "login": "RivaanRanawat",
+      "contributions": 1
+    },
+    {
+      "login": "ravi-ojha",
+      "contributions": 1
+    },
+    {
+      "login": "prtk1910",
+      "contributions": 1
+    },
+    {
+      "login": "prasastoadi",
+      "contributions": 1
+    },
+    {
+      "login": "palash25",
+      "contributions": 1
+    },
+    {
+      "login": "Quadrified",
+      "contributions": 1
+    },
+    {
+      "login": "joshinihal",
+      "contributions": 1
+    },
+    {
+      "login": "sigmaSd",
+      "contributions": 1
+    },
+    {
+      "login": "savankansagra",
+      "contributions": 1
+    },
+    {
+      "login": "sanket2000sonavane",
+      "contributions": 1
+    },
+    {
+      "login": "patrykryczko",
+      "contributions": 1
+    },
+    {
+      "login": "mory91",
+      "contributions": 1
+    },
+    {
+      "login": "justinlew",
+      "contributions": 1
+    },
+    {
+      "login": "fartem",
+      "contributions": 1
+    },
+    {
+      "login": "delta4d",
+      "contributions": 1
+    },
+    {
+      "login": "anshuman-agarwala",
+      "contributions": 1
+    },
+    {
+      "login": "anancds",
+      "contributions": 1
+    },
+    {
+      "login": "akshaytolly",
+      "contributions": 1
+    },
+    {
+      "login": "yankeexe",
+      "contributions": 1
+    },
+    {
+      "login": "VictorAvelar",
+      "contributions": 1
+    },
+    {
+      "login": "syrotkin",
+      "contributions": 1
+    },
+    {
+      "login": "hellerve",
+      "contributions": 1
+    },
+    {
+      "login": "Utpal29",
+      "contributions": 1
+    },
+    {
+      "login": "tdjholder",
+      "contributions": 1
+    },
+    {
+      "login": "bondtiffanym",
+      "contributions": 1
+    },
+    {
+      "login": "Dinesh101041",
+      "contributions": 1
+    },
+    {
+      "login": "DeepaPrasanna",
+      "contributions": 1
+    },
+    {
+      "login": "DanEnglishby",
+      "contributions": 1
+    },
+    {
+      "login": "jiyeonseo",
+      "contributions": 1
+    },
+    {
+      "login": "bihanviranga",
+      "contributions": 1
+    },
+    {
+      "login": "benbarth",
+      "contributions": 1
+    },
+    {
+      "login": "axelbdt",
+      "contributions": 1
+    },
+    {
+      "login": "AviFS",
+      "contributions": 1
+    },
+    {
+      "login": "ashokgelal",
+      "contributions": 1
+    },
+    {
+      "login": "AryanJ-NYC",
+      "contributions": 1
+    },
+    {
+      "login": "avestura",
+      "contributions": 1
+    },
+    {
+      "login": "arminpatel",
+      "contributions": 1
+    },
+    {
+      "login": "koolamusic",
+      "contributions": 1
+    },
+    {
+      "login": "Nirvikalpa108",
+      "contributions": 1
+    },
+    {
+      "login": "alabhyajindal",
+      "contributions": 1
+    },
+    {
+      "login": "akwanmaroso",
+      "contributions": 1
+    },
+    {
+      "login": "deadcoder0904",
+      "contributions": 1
+    },
+    {
+      "login": "AjayAgAI",
+      "contributions": 1
+    },
+    {
+      "login": "codelooper",
+      "contributions": 1
+    },
+    {
+      "login": "lujanfernaud",
+      "contributions": 1
+    },
+    {
+      "login": "Krish-bhardwaj",
+      "contributions": 1
+    },
+    {
+      "login": "kbariotis",
+      "contributions": 1
+    },
+    {
+      "login": "kartikeytripathi",
+      "contributions": 1
+    },
+    {
+      "login": "Jlemien",
+      "contributions": 1
+    },
+    {
+      "login": "johnoro",
+      "contributions": 1
+    },
+    {
+      "login": "thisisjofrank",
+      "contributions": 1
+    },
+    {
+      "login": "akash-melachuri",
+      "contributions": 1
+    },
+    {
+      "login": "jamesroutley",
+      "contributions": 1
+    },
+    {
+      "login": "jad-haddad",
+      "contributions": 1
+    },
+    {
+      "login": "JayTailor45",
+      "contributions": 1
+    },
+    {
+      "login": "tqachev",
+      "contributions": 1
+    },
+    {
+      "login": "mii9000",
+      "contributions": 1
+    },
+    {
+      "login": "havanagrawal",
+      "contributions": 1
+    },
+    {
+      "login": "optimist2309",
+      "contributions": 1
+    },
+    {
+      "login": "Gaurav3435",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-28T08:17:26.920912Z"
+}

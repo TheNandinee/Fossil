@@ -16,6 +16,8 @@ repos:
           - tenacity
           - jinja2
           - types-Jinja2
+          - typer
+          - rich
         args:
           - --strict
           - src
