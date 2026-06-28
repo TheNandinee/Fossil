@@ -1,8 +1,4 @@
-"""README generator: regenerate the repository's front page from data.
-
-Reads ALL accumulated classifications from disk and rebuilds the README so
-nothing from previous runs is lost.
-"""
+"""README generator: regenerate the repository's front page from data."""
 
 from __future__ import annotations
 
@@ -28,12 +24,12 @@ def render_readme(all_classifications: list[Classification]) -> str:
     today = datetime.now(UTC).date().isoformat()
     lines = [_HEADER.format(count=count, date=today), ""]
 
-    recent = sorted(all_classifications, key=lambda c: c.death_score, reverse=True)
+    ranked = sorted(all_classifications, key=lambda c: c.death_score, reverse=True)
 
     lines.append("## 🕳️ Excavations\n")
     lines.append("| # | Repository | Cause | Death score |")
     lines.append("| ---: | --- | --- | ---: |")
-    for i, c in enumerate(recent, 1):
+    for i, c in enumerate(ranked, 1):
         link = f"reports/repositories/{c.full_name.replace('/', '__')}.md"
         lines.append(
             f"| {i} | [{c.full_name}]({link}) | `{c.cause.value}` "
