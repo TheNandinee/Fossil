@@ -30,11 +30,10 @@ class DiscoveryEngine:
         seen = seen or set()
         cutoff = datetime.now(UTC) - timedelta(days=inactive_days)
         query = self._build_query(min_stars, cutoff, language)
-        logger.info("Discovery query: %s", query)
 
-        # Randomly pick a page between 1-5 to avoid always returning the same top repos
-        page = random.randint(1, 5)
-        logger.info("Discovery starting at page %d", page)
+        # Page 1 is exhausted — start from page 2 onwards, rotating weekly
+        page = random.randint(2, 10)
+        logger.info("Discovery query: %s (page %d)", query, page)
 
         candidates: list[Candidate] = []
         for item in self._client.paginate(
