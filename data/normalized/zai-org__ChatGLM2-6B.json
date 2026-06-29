@@ -1,0 +1,1441 @@
+{
+  "full_name": "zai-org/ChatGLM2-6B",
+  "owner": "zai-org",
+  "name": "ChatGLM2-6B",
+  "url": "https://github.com/zai-org/ChatGLM2-6B",
+  "description": "ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型",
+  "primary_language": "Python",
+  "topics": [
+    "chatglm",
+    "chatglm-6b",
+    "large-language-models",
+    "llm"
+  ],
+  "license_spdx": "NOASSERTION",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 15564,
+  "forks": 1803,
+  "open_issues": 452,
+  "created_at": "2023-06-24T06:21:34Z",
+  "pushed_at": "2024-06-27T04:05:08Z",
+  "updated_at": "2026-06-29T08:24:21Z",
+  "commits": [
+    {
+      "sha": "cb8e8b43c0951b32614f25c03e1ab593a0603a1c",
+      "author_login": "duzx16",
+      "authored_at": "2024-06-27T04:05:08Z",
+      "message": "Merge pull request #681 from zRzRzRzRzRzRzR/main"
+    },
+    {
+      "sha": "d8894f8c209d271a15907f5679d878154409f536",
+      "author_login": "zRzRzRzRzRzRzR",
+      "authored_at": "2024-06-27T04:00:39Z",
+      "message": "GLM-4 update"
+    },
+    {
+      "sha": "06720003d5ce0cbdef864c1c66806775a155427b",
+      "author_login": "zRzRzRzRzRzRzR",
+      "authored_at": "2024-06-27T03:59:33Z",
+      "message": "glm-4 update"
+    },
+    {
+      "sha": "db9d52d6ffce69821fd034e0d619d270939f6646",
+      "author_login": "duzx16",
+      "authored_at": "2024-04-11T03:30:55Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "921d7e9adc69020a19169d1ba4f76c2675a2dd29",
+      "author_login": "duzx16",
+      "authored_at": "2023-10-27T06:25:31Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "3d0225f969d56c058f052f6800a21630d14a1184",
+      "author_login": "duzx16",
+      "authored_at": "2023-09-11T07:40:36Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "0d7163868f88ee230b0f551c1475bf8e1ba6d168",
+      "author_login": "duzx16",
+      "authored_at": "2023-09-04T15:47:55Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "ecab0b63253ded881d2257f0a845c3a601b7fc97",
+      "author_login": "duzx16",
+      "authored_at": "2023-08-28T02:51:52Z",
+      "message": "Merge pull request #502 from HarmonyHu/main"
+    },
+    {
+      "sha": "a4b197fd236e412c0d715847d79aae5e55ae194e",
+      "author_login": "HarmonyHu",
+      "authored_at": "2023-08-25T13:22:17Z",
+      "message": "Update README for chatglm2-tpu"
+    },
+    {
+      "sha": "80602dcae1f78a7c809e40426e1f4d5c22234e85",
+      "author_login": "davidlvxin",
+      "authored_at": "2023-07-31T09:33:12Z",
+      "message": "Update README.md for ChatGLM2-6B-32K"
+    },
+    {
+      "sha": "f01259efb46bdca93ef8d54bbc59b8ba9aba1a61",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-27T11:42:47Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "882956c8090c4422125baa052e42cc0721cc2026",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-26T14:23:15Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "bd7e7c4fabc42392c9db8374dda1c93c28d4a060",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-26T14:16:39Z",
+      "message": "Update chatglm2-12b result"
+    },
+    {
+      "sha": "41f5c436fbf74a0017257fe40d33bbee4cecd0e6",
+      "author_login": "Stanislas0",
+      "authored_at": "2023-07-26T01:19:49Z",
+      "message": "Add CodeGeeX2"
+    },
+    {
+      "sha": "1679b014c6d08005174a215c86190d672b029501",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-19T14:40:00Z",
+      "message": "Merge branch 'main' of github.com:THUDM/ChatGLM2-6B"
+    },
+    {
+      "sha": "a023ad9227a2e525c85d8d7d5d18532bf604c2a6",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-19T14:21:32Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "738e015cac96a11bcb7c5f281d8cd716fea94c3b",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-17T09:06:10Z",
+      "message": "Merge pull request #323 from HarmonyHu/main"
+    },
+    {
+      "sha": "f6436ad8f5c15251aaa2a2cb81322ff7039b276a",
+      "author_login": "HarmonyHu",
+      "authored_at": "2023-07-17T06:41:48Z",
+      "message": "add project link of ChatGLM2-TPU"
+    },
+    {
+      "sha": "6c6a93d0c60ed83fb48d7f0355f157a9f5a52954",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-17T03:41:23Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "9d50b01310ad8f489e07accab3f2089c77822e71",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-16T07:21:19Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "5486f4f170ea99afcb7665485a97feac3f4c6b2c",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-14T11:15:45Z",
+      "message": "Merge branch 'main' of github.com:THUDM/ChatGLM2-6B"
+    },
+    {
+      "sha": "0a70324e741299d2876f3c24049708a37bb5e916",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-14T11:15:30Z",
+      "message": "Add web-demo2.gife"
+    },
+    {
+      "sha": "4a85b09f8f64150aa9a05055cf66556096044e61",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-14T11:13:25Z",
+      "message": "Update MODEL_LICENSE"
+    },
+    {
+      "sha": "003a4b4e060af508ae70e3b5e2fe98b33151d270",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-14T11:11:56Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "a2560762abbe1b61ba0ff2e8b5338718d856aad9",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-14T11:03:18Z",
+      "message": "Update model license"
+    },
+    {
+      "sha": "0ba4f565a291f7c9e48b6be120261137c5aa996e",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-12T08:52:13Z",
+      "message": "Update web demo instruction"
+    },
+    {
+      "sha": "877ef10d85c93ddfcfe945fcdc764393a52541b8",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-11T08:41:34Z",
+      "message": "Merge pull request #250 from jsl9208/main"
+    },
+    {
+      "sha": "7610833fb0fdd1ea355324a1d309d00ebb96bf95",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-08T02:31:56Z",
+      "message": "Update email address"
+    },
+    {
+      "sha": "aa525abab1e9817bd20c5b2b2af43a9fcd7d27b1",
+      "author_login": "jsl9208",
+      "authored_at": "2023-07-07T14:44:33Z",
+      "message": "add online tutorials"
+    },
+    {
+      "sha": "9e18d611fc58885ddbb70c8d5dc4df22453dbf10",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-07T08:09:00Z",
+      "message": "Update web demo"
+    },
+    {
+      "sha": "34a25f906454b4b9d246035f394440607002f49b",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-06T08:25:16Z",
+      "message": "Merge branch 'main' of github.com:THUDM/ChatGLM2-6B"
+    },
+    {
+      "sha": "30f2da451d82d321969ca764d6b101c6fded7d3a",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-06T08:24:51Z",
+      "message": "Add chatglm.cpp for mac deployment"
+    },
+    {
+      "sha": "a33cb4f8b96f8b10061c082802ac4bd8539f61b7",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-04T12:57:14Z",
+      "message": "Fix max sequence padding"
+    },
+    {
+      "sha": "04d5ee435d5b174b930d26a9914a0801a7d4308c",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-04T08:43:42Z",
+      "message": "Merge pull request #177 from THUDM/Stanislas0-patch-1"
+    },
+    {
+      "sha": "4c18cf035fd235ecec63fd95f5f9ea0979ddeccb",
+      "author_login": "Stanislas0",
+      "authored_at": "2023-07-04T08:42:41Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b5632d5ea1f8a586b6e34fdaac7c29b09f90666d",
+      "author_login": "Stanislas0",
+      "authored_at": "2023-07-04T08:41:01Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b99e3d74c965d3f3d24cb420d6690c870b25d8ca",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-04T04:07:01Z",
+      "message": "Merge pull request #152 from mougua/main"
+    },
+    {
+      "sha": "3be48aa44a023b622b3e9fefa3df3494acc99761",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-04T03:57:30Z",
+      "message": "Add finetuning"
+    },
+    {
+      "sha": "36f3d6731044ed3c7e04d940d9b0910c3ac0a911",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-04T03:53:44Z",
+      "message": "Merge branch 'main' of github.com:THUDM/ChatGLM2-6B"
+    },
+    {
+      "sha": "b519f9a092b06afa1b1b16371abfa69c4540a8c0",
+      "author_login": "duzx16",
+      "authored_at": "2023-07-02T14:10:24Z",
+      "message": "Merge pull request #150 from li-plus/main"
+    },
+    {
+      "sha": "fcd2d7f4bba1d0138c76440b86b38490d02fdd46",
+      "author_login": "mougua",
+      "authored_at": "2023-07-02T04:38:44Z",
+      "message": "fix: openai_api 的 stream api，服务端全部生成文本后客户端才一次性收到"
+    },
+    {
+      "sha": "07a6e4105f0435d2e6e39847eb072ec82f340a82",
+      "author_login": "li-plus",
+      "authored_at": "2023-07-02T01:51:45Z",
+      "message": "Add ChatGLM.cpp project link"
+    },
+    {
+      "sha": "deeaa6c7bdd506abc6296e167ce37dc4e9985113",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-29T03:09:25Z",
+      "message": "Update slack link"
+    },
+    {
+      "sha": "53f010681717fc70144fbd15e973ef60bc863227",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-28T15:15:15Z",
+      "message": "Merge pull request #102 from Yidadaa/patch-1"
+    },
+    {
+      "sha": "6fa53c645e59498aac59fcecaad94d708d38c02b",
+      "author_login": "Yidadaa",
+      "authored_at": "2023-06-28T09:03:47Z",
+      "message": "feat: add cors support for openai_api.py"
+    },
+    {
+      "sha": "ba60190296e3451c0e7e6a0f26c60a8ba7720dfe",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-28T05:54:36Z",
+      "message": "Merge pull request #89 from eltociear/patch-1"
+    },
+    {
+      "sha": "d45d3dce6fa4f05e37a9eae5d3bc90ec1cc097f6",
+      "author_login": "eltociear",
+      "authored_at": "2023-06-28T03:57:53Z",
+      "message": "Update FAQ.md"
+    },
+    {
+      "sha": "0a499b7e9a60909b188c3226768fc649ad54006a",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-27T12:46:56Z",
+      "message": "Add evaluation script"
+    },
+    {
+      "sha": "8673270a4a4c78ec001f94d97bf9d7ca4141926d",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-27T06:42:47Z",
+      "message": "Add multi-gpu in README.md"
+    },
+    {
+      "sha": "b09e0c5a69b9c54d5655b1e2980cd34932f4eb18",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-27T06:40:44Z",
+      "message": "Add multi-gpu support"
+    },
+    {
+      "sha": "549cdeb054c687c4310c8d0bbafa5255a731f678",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-27T06:33:02Z",
+      "message": "Merge pull request #23 from qinjx/main"
+    },
+    {
+      "sha": "5916e3feebc11b671d471495a99b445d0caefac2",
+      "author_login": "qinjx",
+      "authored_at": "2023-06-27T05:20:46Z",
+      "message": "add multiple GPUs usage comments for python files"
+    },
+    {
+      "sha": "3fb52912a9be232a192cb9f8e75800099d8418a1",
+      "author_login": "qinjx",
+      "authored_at": "2023-06-27T05:17:04Z",
+      "message": "Merge branch 'THUDM:main' into main"
+    },
+    {
+      "sha": "761db39c1b8bb4d6fd565a400952c4a8d26cfdf4",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-27T01:51:05Z",
+      "message": "Implement fluent cli demo"
+    },
+    {
+      "sha": "8a0f57b1da47c3d84ae8aface800253e0b459afb",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-26T14:40:14Z",
+      "message": "Add download link"
+    },
+    {
+      "sha": "9f247f65d0bbf7174232ac5edb9c068d28d98ce7",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-26T14:34:03Z",
+      "message": "Update openai-style api in README.md"
+    },
+    {
+      "sha": "de8ab5b1364037701c89c98d8aabb4a3e69c7fdd",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-26T14:33:48Z",
+      "message": "Update openai-style api in README.md"
+    },
+    {
+      "sha": "3444756a1773569d55f2a13ceb25071bce07a583",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-26T14:22:20Z",
+      "message": "Remove device=\"cuda\""
+    },
+    {
+      "sha": "d09927fa5207357c1a69d266dcd2e878b00f005a",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-26T14:09:41Z",
+      "message": "Merge pull request #18 from hiyouga/patch-1"
+    },
+    {
+      "sha": "e8992aa6e5a64c8f0e2051642f24a592b2254e94",
+      "author_login": "hiyouga",
+      "authored_at": "2023-06-26T10:14:30Z",
+      "message": "Update openai_api.py"
+    },
+    {
+      "sha": "892691c3b3f0f49130c224ae94ed378b6d131327",
+      "author_login": "hiyouga",
+      "authored_at": "2023-06-26T10:13:21Z",
+      "message": "Update openai_api.py"
+    },
+    {
+      "sha": "f1f7e4bbf8bfb3e5564734df79c744a09b879840",
+      "author_login": "qinjx",
+      "authored_at": "2023-06-26T09:30:44Z",
+      "message": "Merge branch 'main' into main"
+    },
+    {
+      "sha": "1c144d168bd1a17409331427d19331d3eb363d11",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-26T09:07:24Z",
+      "message": "Update streamlit web demo"
+    },
+    {
+      "sha": "385040e6c78e6c033f69784658600853245567e1",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-26T08:49:56Z",
+      "message": "Fix prompt in cli demo"
+    },
+    {
+      "sha": "9d439304d4430d69051155885644e806d7c8f90e",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-26T06:03:37Z",
+      "message": "Remove device=\"cuda\""
+    },
+    {
+      "sha": "b35782c46e41cc2dd18934f79307c182e971ef5b",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-26T05:52:12Z",
+      "message": "Add gcc installation"
+    },
+    {
+      "sha": "d3c58147eddd972df2bf393bd19123fe7563e65f",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-26T05:34:04Z",
+      "message": "Update requirements.txt"
+    },
+    {
+      "sha": "3ee8ff7717f3bd9ac51d5492b16bef34ad20be37",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-26T05:32:14Z",
+      "message": "Delete device='cuda'"
+    },
+    {
+      "sha": "a3ba2275ed26f8cc9d58b4876a82ea29bca02537",
+      "author_login": "qinjx",
+      "authored_at": "2023-06-26T02:37:38Z",
+      "message": "small change of comment about multiple GPUs support"
+    },
+    {
+      "sha": "08ffab941faab32c6f347bf5265daa1b5dc5162e",
+      "author_login": "qinjx",
+      "authored_at": "2023-06-26T02:29:19Z",
+      "message": "Multiple GPUs support: migrate the code from ChatGLM-6B, make a few modifications to support ChatGLM2."
+    },
+    {
+      "sha": "55d7548e4c349535c5f0c440e0b233894ca8e90e",
+      "author_login": "qinjx",
+      "authored_at": "2023-06-26T02:17:03Z",
+      "message": "typo fixed: ChatGLM -> ChatGLM2"
+    },
+    {
+      "sha": "9edf43fa53c00f422e5258e77c4c6f8ca891257a",
+      "author_login": "hiyouga",
+      "authored_at": "2023-06-25T15:32:27Z",
+      "message": "Create openai_api.py"
+    },
+    {
+      "sha": "07957bacf81c8923ce0c9b7b9041de060606dd87",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-25T13:01:01Z",
+      "message": "Add int model"
+    },
+    {
+      "sha": "6fed3d4dc247413794044938a8e050375ff3265d",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-25T09:35:08Z",
+      "message": "Remove bfloat16 in web demo"
+    },
+    {
+      "sha": "c410768faeb27d9b34ebc6c7fd625ee3626fe810",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-25T08:27:44Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "57d6d4d34624d32aa0c9e201eca244702ad03987",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-25T08:24:46Z",
+      "message": "Add wechat image"
+    },
+    {
+      "sha": "aec54b3f0769f75482a5ebcdc27ec37243a8889b",
+      "author_login": "duzx16",
+      "authored_at": "2023-06-25T07:32:49Z",
+      "message": "init commit"
+    }
+  ],
+  "issues": [
+    {
+      "number": 689,
+      "title": "[BUG/Help] <title>在colab运行时 实例代码是报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-03T05:30:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 688,
+      "title": "[BUG/Help] API部署",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-20T03:17:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 687,
+      "title": "运行openapi.py",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-20T02:40:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 686,
+      "title": "[BUG/Help] <title>运行示例代码出现TypeError报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-17T13:02:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 685,
+      "title": "[BUG/Help] <title>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-17T07:25:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 684,
+      "title": "[BUG/Help] <title>OSError: [WinError 123] 文件名、目录名或卷标语法不正确。: 'C:\\\\Users\\\\xx\\\\.cache\\\\huggingface\\\\modules\\\\transformers_modules\\\\E:'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-23T10:05:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 681,
+      "title": "GLM-4 模型已经发布，欢迎使用",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-06-27T04:03:52Z",
+      "closed_at": "2024-06-27T04:05:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 680,
+      "title": "[BUG/Help] 用vllm 起INT4量化版本的模型报错 类型不匹配 self_attention.dense.weight int4 shape [4096,2048] mismatch fp16 shape [4096, 4096]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-05T08:52:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 679,
+      "title": "[BUG/Help] <title>运行api.py报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-01T14:24:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 678,
+      "title": "[BUG/Help] <title>python api.py  后，点击链接 报错405 Method Not Allowed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-01T03:03:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 677,
+      "title": "[BUG/Help] ModuleNotFoundError: No module named 'transformers.models.mpt'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-05-13T08:57:03Z",
+      "closed_at": "2024-05-14T01:10:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 676,
+      "title": "[Help] 我在把项目fork下来之后，替换为我自己的接口，用axios不是fetch，我可以确定的是接口是正常的流式返回，但是在本地跑的时候，调用这个接口会显示一次性返回，不是流式输出，我看了头信息都是没有问题的，但是部署在服务器中是没有问题的，是因为什么呢，要怎样解决呢，希望得到作者或者同行的帮助，谢谢",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-11T05:11:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 675,
+      "title": "[BUG/Help] <title>peft , deepspeed 下 p-tuning , AttributeError: 'NoneType' object has no attribute 'shape'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-10T07:04:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 674,
+      "title": "[Help] <title>关于微调ptuning不能达到训练集的效果，且不破坏原有结构实验",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-10T03:31:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 673,
+      "title": "[BUG/Help] <title>python3.7  cli_demo.py 报错cannot set version_counter for inference tensor",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-26T06:54:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 672,
+      "title": "test",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-03-25T09:33:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 671,
+      "title": "运行python cli_demo.py报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-25T06:21:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 670,
+      "title": "[BUG/Help]UnstructuredFileLoade 读取 txt 文件 报错： zipfile.BadZipFile: File is not a zip file",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-03-22T09:26:09Z",
+      "closed_at": "2024-03-22T13:20:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 669,
+      "title": "[BUG/Help] <title>最后运行的时候出现这个问题，不知道怎么解决",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-13T09:45:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 668,
+      "title": "Unable to load weights from pytorch checkpoint file for '/home/qianlab03/rjs/Langchain-Chatchat-0.2.7/chatglm2-6b/pytorch_model-00001-of-00007.bin",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-10T02:56:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 667,
+      "title": "[BUG/Help] 为什么chatglma2量化后weight的size会改变<title>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-08T05:05:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 666,
+      "title": "[BUG/Help] <title>按照官方给出的多轮问答数据集构建问答数据之后，运行脚本命令出现Traceback (most recent call last):   File \"/mnt/ChatGLM2-6B/ptuning/main.py\", line 411, in <module>     main()   File \"/mnt/ChatGLM2-6B/ptuning/main.py",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-22T01:24:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 665,
+      "title": "请问现在大家目前有微调的效果比较好的方案吗，目前微调效果一直不理想。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-18T07:06:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 664,
+      "title": "[BUG/Help] <title>chatglm2首token时延增长随输入长度成倍快速增长",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-08T02:17:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 663,
+      "title": "[友情链接] <Colossal-AI加速ChatGLM2>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-07T09:00:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 662,
+      "title": "[BUG/Help] cannot import name '_sentencepiece' from partially initialized module 'sentencepiece'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-06T02:26:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 661,
+      "title": "Update README for NPU inference",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-01-30T08:48:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 660,
+      "title": "[BUG/Help] <pytorch_model.bin don't exists>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-30T03:05:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 659,
+      "title": "请问chatglm1、chatglm2、chatglm3训练了多少种语言呢？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-27T15:25:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 658,
+      "title": "[BUG/Help] <title>微调后为什么聊着聊着说我chatbot为空",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-25T07:02:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 657,
+      "title": "[BUG/Help] <title>如何通过API来调用ChatGLM？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-24T03:47:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 656,
+      "title": "[BUG/Help] <title> ptuning的时候可以自定义loss吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-20T13:14:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 655,
+      "title": "[Help] chatGLM2-6B是否支持直接注入整篇文档进行微调，如果支持怎么处理",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-18T02:43:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 654,
+      "title": "[Help] 请问如何能做到微调过程中不保存早期的checkpoint",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-15T03:52:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 653,
+      "title": "[BUG/Help] <title>训练数据时显示ValueError: None is not in list，尝试过自己的json文件和AdvertiseGen提供的json文件",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-09T13:33:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 652,
+      "title": "[Help] 6b-int4 lora 微调使用 adam 优化器时梯度爆炸",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-01-09T07:27:20Z",
+      "closed_at": "2024-03-11T15:30:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 651,
+      "title": "当我的transformers是4.36.2时，chatglm2不能正常加载",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-05T03:52:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 650,
+      "title": "[BUG/Help] Nonetype bug for build_stream_inputs",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-01-03T09:31:37Z",
+      "closed_at": "2024-01-03T09:32:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 649,
+      "title": "how to transfer chatglm2-6b int4 model to npu device",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-02T09:19:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 648,
+      "title": "[Help] 请问ChatGLM2-6B 目前是否通过中国相关部门的安全审查",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-26T07:51:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 647,
+      "title": "[BUG/Help] <title>6b-chat基模型输出bug",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-19T06:32:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 646,
+      "title": "[BUG/Help] <win10微调 失败：ValueError: None is not in list>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-18T06:29:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 645,
+      "title": "[Help] <title>用lora微调遇到这个问题RuntimeError: Expected to mark a variable ready only once. ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-18T04:52:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 644,
+      "title": "[BUG/Help] <title>如何对微调前的模型进行推理",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-16T12:09:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 642,
+      "title": "[BUG/Help] 求问  在做基于ChatGLM2-6B的Ptuning v2的微调任务时  损失/目标函数的公式是什么样子的",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-14T15:40:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 641,
+      "title": "Update requirements.txt for version of gradio",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-12-14T09:38:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 640,
+      "title": "[BUG/Help] readme中清华云盘的模型文件版本不对，跑出来是乱码，需使用huggingface.co模型，麻烦更新",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-10T07:10:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 639,
+      "title": "[BUG] `Both max_new_tokens and max_length seem to have been set` warning trigger",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-07T14:01:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 638,
+      "title": "[BUG/Help] <title>实测C-Eval数据集中验证集所有subject的平均准确率与提供的结果有差异",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-30T06:50:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 637,
+      "title": "[Help] chatglm2是否有类似openai中stop的接口",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-29T09:00:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 636,
+      "title": "[BUG/Help] 请问一下本地部署了chatglm2，其回答总是会先复述一遍问题，这种情况应该如何解决",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-29T06:47:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 635,
+      "title": "[BUG/Help] <title>ptuning微调后想要在此基础上进一步微调",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-29T06:41:51Z",
+      "closed_at": "2024-08-26T07:57:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 634,
+      "title": "[BUG/Help] <title> 求可以下载chatglm2-6b-32k  chatglm2-6b-base  chatglm2-12b-base大模型文件的国内网盘",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-24T07:50:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 633,
+      "title": "[Help]有没有人尝试过把优化器改成SGD来减少显存占用的",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-23T02:52:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 630,
+      "title": "ChatGLM2用了FlashAttention，但是看源码没看到用在哪里[Feature] <title>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-20T07:20:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 629,
+      "title": "[BUG/Help] <title>没法git clone https://huggingface.co/THUDM/chatglm2-6b  试了很多次无果。抓狂中。。。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-18T18:06:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 628,
+      "title": "[Feature] 麻烦自己怎么离线量化呢？有方法吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-17T03:19:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 627,
+      "title": "[Help] 请问api.py中的max_length参数具体指的是什么length",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-10T01:59:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 626,
+      "title": "[Help] 模型在推理时是否存在记忆？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-10T01:36:05Z",
+      "closed_at": "2023-11-14T00:42:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 625,
+      "title": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0xce in position 5811: invalid continuation byte",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-09T13:29:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 624,
+      "title": "[单卡支持多个Lora] <如何在微调的时候支持多个Lora 同时训练>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-09T07:51:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 623,
+      "title": "[BUG/Help] ptuning微调之后向模型提问，返回空",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-08T11:14:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 622,
+      "title": "[Help] API部署的情况下，怎么打断模型执行？终止生成",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-08T07:15:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 621,
+      "title": "[BUG/Help] 单张A800 显存80g 跑chatglm2没问题，但是使用两张A40，一张A40显存48g，跑chatglm2报了torch.cuda.OutOfMemoryError: CUDA out of memory.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-07T12:07:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 619,
+      "title": "[BUG/Help] 在ptuning中的main.py中，第130行model = model.half()，采用cpu加载，造成超内存报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-06T10:22:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 618,
+      "title": "[新增低资源语言] <如何新增加一个新的语言>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-06T09:09:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 617,
+      "title": "[Help]关于source_prefix参数的疑问",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-04T14:45:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 616,
+      "title": "[BUG/Help] <title>运行web_demo.py报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-03T06:34:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 614,
+      "title": "[Help] <ptuning时，增大target_length后训练，模型不收敛>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-02T07:21:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 613,
+      "title": "[BUG/Help] model = AutoModel.from_pretrained(\"D:\\\\ChatGLM\\\\model\\\\2\", trust_remote_code=True).cuda() 没有报错直接退出",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-01T07:23:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 612,
+      "title": "[BUG/Help] <window环境下微调模型>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-28T11:08:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 611,
+      "title": "[BUG/Help] Readme中进行 openapi-api的API 调用的示例代码报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-27T12:41:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 610,
+      "title": "[BUG/Help] <ptuning的微调方式，合并权重到basemodel的代码和方法有么？>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-27T08:38:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 609,
+      "title": "[BUG/Help] <title>请问是否支持设置beam size >1，并将生成的多个输出一起返回呢？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-27T05:45:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 608,
+      "title": "[BUG/Help] 请求大神对微调参数设置进行详解",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-27T02:30:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 606,
+      "title": "[BUG/Help] 使用 adapter 方法微调模型在 forward pass 出现 nan / inf 异常值",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-26T09:18:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 605,
+      "title": "[BUG/Help] <title>如何提高多卡下的p-tuning训练速度",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-26T04:40:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 603,
+      "title": "left padding side和mask下三角矩阵之间的矛盾",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-25T13:26:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 602,
+      "title": "RuntimeError: CUDA error: an illegal memory access was encountered ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-24T15:14:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 601,
+      "title": "[BUG/Help] <title>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-24T06:38:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 600,
+      "title": "如何改造原有模型并达到私有化使用。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-24T06:34:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 599,
+      "title": "有打算开源比6B更强的模型吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-22T14:11:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 598,
+      "title": "[BUG/Help] <为什么同一个字符会对应多个token_id？（排除BPE分词处理）>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-22T08:22:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 597,
+      "title": "逻辑能力有待加强",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-21T12:49:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 596,
+      "title": "运行web_demo.py，向GLM提问遇到JS错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-21T05:57:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 595,
+      "title": "[BUG/Help] <title>ChatGLM可以在一个服务中同时加载多个lora微调模型，根据输入切换使用哪个模型吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-20T07:17:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 594,
+      "title": "[Help] 长文本推理OOM",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-20T06:50:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 593,
+      "title": "【Help】使用lm-evaluation-harness评估，ChatGLM2-6B在CEval上准确率很低？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-19T09:17:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 592,
+      "title": "执行train.sh 进行微调报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-19T06:57:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 591,
+      "title": "为什么提问是调用的https://api.segment.io/v1/t这个url，必须是这样吗还是可以配置",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-19T06:52:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 590,
+      "title": "[BUG/Help] RuntimeError: CUDA error: CUBLAS_STATUS_NOT_INITIALIZED when calling `cublasCreate(handle)`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-17T09:07:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 589,
+      "title": "[BUG/Help] 基于文档问答的stream输出和非stream输出不一致，stream输出会有格式混乱的情况",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-17T08:30:56Z",
+      "closed_at": "2023-10-18T09:12:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 588,
+      "title": "[BUG/Help] 6b-int4 模型全量微调 loss 为 nan",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-17T02:38:57Z",
+      "closed_at": "2023-10-20T09:43:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 587,
+      "title": "chatglm2微调回合数该如何设置[BUG/Help] <title>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-14T14:20:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 586,
+      "title": "[BUG/Help] openai_api.py调用报错404",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-13T17:44:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 585,
+      "title": "模型部署依赖哪些包，为什么在不同平台部署性能不一致",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-13T07:04:17Z",
+      "closed_at": "2023-10-13T14:33:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 583,
+      "title": "[Help] lora微调合并后模型推理速度明显慢了好多",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-13T02:25:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 582,
+      "title": "想问问数据集中的标签有什么特殊含义吗？可以随意修改吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-12T12:35:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 581,
+      "title": "请问是否支持在国产dcu上部署呢？[Feature] <title>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-12T07:40:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 579,
+      "title": "[Help] <title请问一下，如果训练可以让chatglm2-6b获取时间",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-11T05:55:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "duzx16",
+      "contributions": 55
+    },
+    {
+      "login": "qinjx",
+      "contributions": 6
+    },
+    {
+      "login": "hiyouga",
+      "contributions": 3
+    },
+    {
+      "login": "Stanislas0",
+      "contributions": 3
+    },
+    {
+      "login": "HarmonyHu",
+      "contributions": 2
+    },
+    {
+      "login": "zRzRzRzRzRzRzR",
+      "contributions": 2
+    },
+    {
+      "login": "eltociear",
+      "contributions": 1
+    },
+    {
+      "login": "jsl9208",
+      "contributions": 1
+    },
+    {
+      "login": "davidlvxin",
+      "contributions": 1
+    },
+    {
+      "login": "Yidadaa",
+      "contributions": 1
+    },
+    {
+      "login": "li-plus",
+      "contributions": 1
+    },
+    {
+      "login": "mougua",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-06-29T10:30:21.023069Z"
+}

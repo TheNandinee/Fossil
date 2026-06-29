@@ -1,0 +1,1746 @@
+{
+  "full_name": "CodeByZach/pace",
+  "owner": "CodeByZach",
+  "name": "pace",
+  "url": "https://github.com/CodeByZach/pace",
+  "description": "Automatically add a progress bar to your site.",
+  "primary_language": "CSS",
+  "topics": [
+    "loading-animation",
+    "loading-bar",
+    "loading-indicator",
+    "pace",
+    "pace-js",
+    "progress-bar"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 15612,
+  "forks": 1845,
+  "open_issues": 278,
+  "created_at": "2013-09-12T04:24:29Z",
+  "pushed_at": "2024-02-26T22:12:24Z",
+  "updated_at": "2026-06-23T22:57:29Z",
+  "commits": [
+    {
+      "sha": "b163bc0f4865417c1c54e359083fc2c2f22696c2",
+      "author_login": "CodeByZach",
+      "authored_at": "2024-02-26T22:12:24Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "2350e563a7c899deb2b93903bee7164921018b2b",
+      "author_login": "CodeByZach",
+      "authored_at": "2022-07-15T15:37:27Z",
+      "message": "Merge pull request #537 from cha147/patch-1"
+    },
+    {
+      "sha": "46aeab2e0fa74b5628fff53dfbeac37860e344b9",
+      "author_login": "cha147",
+      "authored_at": "2022-07-13T21:26:05Z",
+      "message": "fix typos in readme"
+    },
+    {
+      "sha": "000358e18dfc65d0f44a311276845f4f26937d74",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-07-28T20:46:52Z",
+      "message": "Revert \"Added Subresource Integrity hash to the CDN urls\""
+    },
+    {
+      "sha": "94f996e1cb7232f443dc45e02d0ded3f85b8c06f",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-07-28T20:35:39Z",
+      "message": "Added Subresource Integrity hash to the CDN urls"
+    },
+    {
+      "sha": "f039897f91205d9a686a37f46306ce5a7655b98d",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-03-24T23:18:09Z",
+      "message": "Updated Readme"
+    },
+    {
+      "sha": "f7910422b155e57f81ade87c7a45cb1708d935b7",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-03-03T04:00:52Z",
+      "message": "Merge pull request #518 from CodeByZach/514"
+    },
+    {
+      "sha": "5ba323cbf9ab2ca3213db3eec4f0b9eee8b41d64",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-03-03T03:57:07Z",
+      "message": "Fixing some Ajax calls not completing"
+    },
+    {
+      "sha": "9402ceab308c9562023cf8611c3b8325db6182e6",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-03-03T03:53:48Z",
+      "message": "1.2.4"
+    },
+    {
+      "sha": "1b26c8fbe634ca567ba1e3f286038607f50d9fe5",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-03-03T03:48:01Z",
+      "message": "Merge branch 'master' into 514"
+    },
+    {
+      "sha": "44c3a158c0cb6cc8acb4a313bbf0c616933950a7",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-03-03T03:34:25Z",
+      "message": "Merge pull request #517 from CodeByZach/development"
+    },
+    {
+      "sha": "e5206c8f28054583f03973514a36a9e5e25c472b",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-03-03T03:33:33Z",
+      "message": "Merge branch 'master' into development"
+    },
+    {
+      "sha": "b9f5cfc63d1270e528838a8ba162b06c1f216605",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-03-03T03:33:10Z",
+      "message": "Merge branch 'master' into development"
+    },
+    {
+      "sha": "bd7d38cff1ee7e755e7f73e2ca3b2e804261533c",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-03-03T03:30:46Z",
+      "message": "Patched stylesheet tag"
+    },
+    {
+      "sha": "460c597adf3b5a265de0f150815a8c5f5ef247c9",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-02-19T08:20:53Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "cd827e769df6cda2d9bdee76f7f32764c395339d",
+      "author_login": "LuukBosma",
+      "authored_at": "2021-02-17T13:26:19Z",
+      "message": "Fixing some Ajax calls not completing"
+    },
+    {
+      "sha": "d326cd0c4038e60eafb058449ef7e0715f100e09",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-02-16T02:06:41Z",
+      "message": "readme"
+    },
+    {
+      "sha": "be90d0459cb9db1f9e6630f172eea1ee7cc638fd",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-02-16T01:38:29Z",
+      "message": "Updated docs"
+    },
+    {
+      "sha": "255d11d99747f789adfac55097e3aaa66cbb5401",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-02-10T22:15:01Z",
+      "message": "npm"
+    },
+    {
+      "sha": "e44c4d8427fc45d6d9afa347fb411dcf40fffebd",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-02-10T22:05:19Z",
+      "message": "npm config"
+    },
+    {
+      "sha": "e1a74a3e837903ee1f436c3c20c47dbc6736ca22",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-02-10T21:29:55Z",
+      "message": "npm package update"
+    },
+    {
+      "sha": "a57b0352ae805d45ecb7d92b229de65f7b677f91",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-01-22T16:41:07Z",
+      "message": "formatting"
+    },
+    {
+      "sha": "4b4ed893aae889a10eba877c5eb5f1abcc689cf7",
+      "author_login": "CodeByZach",
+      "authored_at": "2021-01-21T20:34:26Z",
+      "message": "Merge branch 'master' into 502"
+    },
+    {
+      "sha": "4d6ed2b48f2243646fee05ded0367f7c95dd431c",
+      "author_login": "CodeByZach",
+      "authored_at": "2020-11-15T23:50:38Z",
+      "message": "Repository renaming"
+    },
+    {
+      "sha": "3f4ac5d93203d37a75c63662431941ef6f09697f",
+      "author_login": "CodeByZach",
+      "authored_at": "2020-11-15T22:59:00Z",
+      "message": "Merge branch 'dev'"
+    },
+    {
+      "sha": "3437b5a08cf969f28fb3769990ff2182f512fb3d",
+      "author_login": "CodeByZach",
+      "authored_at": "2020-11-15T22:53:16Z",
+      "message": "Marking the new version at 1.2.3"
+    },
+    {
+      "sha": "0b80e14e8c11a0c1d8158c77489cffa4e48e0fd5",
+      "author_login": "CodeByZach",
+      "authored_at": "2020-11-15T22:50:00Z",
+      "message": "Inconsequential spacing fix."
+    },
+    {
+      "sha": "b3847b5cf053a8145c6845ae46f88d66d78ffbea",
+      "author_login": "CodeByZach",
+      "authored_at": "2020-11-15T22:47:55Z",
+      "message": "Merge branch 'upstream_master' into test"
+    },
+    {
+      "sha": "85236e7c82861642551116f4961339b5382b9943",
+      "author_login": null,
+      "authored_at": "2020-11-05T08:02:34Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "bca8c8520262c1bbe37a8e9ef0311c5bd6522b0e",
+      "author_login": "FranDias",
+      "authored_at": "2020-11-04T21:56:55Z",
+      "message": "Merge pull request #504 from a2intl/master"
+    },
+    {
+      "sha": "5f870e72c33721ddbc2a33e91c9713ed013d263c",
+      "author_login": "a2intl",
+      "authored_at": "2020-11-04T21:37:43Z",
+      "message": "fix issue HubSpot/pace#261 by localizing key per loop in extendNative"
+    },
+    {
+      "sha": "6ed323ff44b8b24601ba25bea96bab0bb56d55ad",
+      "author_login": "CodeByZach",
+      "authored_at": "2020-09-08T19:29:00Z",
+      "message": "patches for 1.2.2"
+    },
+    {
+      "sha": "644d25ed493cc84cce0ac6c78b89287da2f64382",
+      "author_login": "CodeByZach",
+      "authored_at": "2020-09-08T19:11:07Z",
+      "message": "Support for evenet listener on update"
+    },
+    {
+      "sha": "0f7f00a41e35e254d7cb6d70667fa3e5ee4b4590",
+      "author_login": "CodeByZach",
+      "authored_at": "2020-09-08T16:39:03Z",
+      "message": "Merge branch 'master' of github.com:EatBreatheCode/pace into master"
+    },
+    {
+      "sha": "22f6c15419742c95368a004f4bbf967980237b4c",
+      "author_login": "CodeByZach",
+      "authored_at": "2020-09-08T16:34:37Z",
+      "message": "updates"
+    },
+    {
+      "sha": "8a680543e2d244be2334319afa3c2f96b2d75444",
+      "author_login": null,
+      "authored_at": "2020-09-06T23:27:34Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "57270d68f74d471f3e3d0bf742138cf2013f377d",
+      "author_login": "timgates42",
+      "authored_at": "2020-09-04T21:39:55Z",
+      "message": "docs: Fix simple typo, seperate -> separate"
+    },
+    {
+      "sha": "2f5b4b5c308bfc1429d0f0fa8185b97a65d2c9f5",
+      "author_login": "CodeByZach",
+      "authored_at": "2020-02-22T22:09:43Z",
+      "message": "Added a default theme."
+    },
+    {
+      "sha": "c9209fb1f5d1d6d31dcacdb59cb100e74c778609",
+      "author_login": null,
+      "authored_at": "2019-10-13T07:11:33Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ed52bf325f9d0e64410afa4833c305f3b44dd418",
+      "author_login": null,
+      "authored_at": "2019-10-07T19:21:59Z",
+      "message": "patches"
+    },
+    {
+      "sha": "8961dc58532b43cacf688f869abd330e79e21848",
+      "author_login": null,
+      "authored_at": "2019-10-07T18:32:07Z",
+      "message": "upgraded"
+    },
+    {
+      "sha": "04c7268df506aa9562fe6278861889489d6df019",
+      "author_login": null,
+      "authored_at": "2019-10-07T18:13:12Z",
+      "message": "Merge pull request #6 from EatBreatheCode/378"
+    },
+    {
+      "sha": "f57d8e289d077193b215d059c9ec9cb17d07bc52",
+      "author_login": null,
+      "authored_at": "2019-10-07T18:13:00Z",
+      "message": "pass progress"
+    },
+    {
+      "sha": "d1afa539a345b7bcb7524d0a514147e86dab7568",
+      "author_login": null,
+      "authored_at": "2019-10-07T18:12:27Z",
+      "message": "Merge branch 'upgrades' into 378"
+    },
+    {
+      "sha": "e92e05730c83f3218aeb13c7149b4563183079bb",
+      "author_login": null,
+      "authored_at": "2019-10-07T18:03:20Z",
+      "message": "Merge branch 'upgrades' into refresh"
+    },
+    {
+      "sha": "335c10ca95eacef77608d03860c6c42e7a7a1979",
+      "author_login": null,
+      "authored_at": "2019-10-07T18:02:42Z",
+      "message": "Merge pull request #15 from EatBreatheCode/455"
+    },
+    {
+      "sha": "958e729ac76a77fb7baae3f68acbf0432c1c5ec2",
+      "author_login": null,
+      "authored_at": "2019-10-07T18:02:11Z",
+      "message": "upgrades"
+    },
+    {
+      "sha": "15fb0ef1c6f6ef7644304b57bb3a5ca839c08ebc",
+      "author_login": null,
+      "authored_at": "2019-10-07T17:54:48Z",
+      "message": "Merge branch 'master' into 455"
+    },
+    {
+      "sha": "cbc5edea261aba7138a11e80c66fef41a682f424",
+      "author_login": null,
+      "authored_at": "2019-10-07T17:45:33Z",
+      "message": "updates"
+    },
+    {
+      "sha": "fa2c1e03d246a7a7fc0fdd3eea9765e8ab75b9d0",
+      "author_login": "CodeByZach",
+      "authored_at": "2019-10-07T05:52:45Z",
+      "message": "upgrade"
+    },
+    {
+      "sha": "5272503d19bdce4a6ad65ee9c035e6ffc1b5e880",
+      "author_login": "CodeByZach",
+      "authored_at": "2019-10-07T05:34:17Z",
+      "message": "New version"
+    },
+    {
+      "sha": "512b6010ea6bc45b6bc62ca5f26f661a995e2444",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:55:05Z",
+      "message": "Merge pull request #16 from EatBreatheCode/464"
+    },
+    {
+      "sha": "938ff4d8dd5ee62e77b0c82549402544f8ae3be9",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:54:55Z",
+      "message": "Merge branch 'upgrades' into 464"
+    },
+    {
+      "sha": "d3a8358c09d9dd4d90ae08bab69f859a2bec2bb4",
+      "author_login": "CodeByZach",
+      "authored_at": "2019-10-07T04:52:43Z",
+      "message": "recompiled"
+    },
+    {
+      "sha": "ac588dff544cf889aef8fec0b8a5b1a6b50c9582",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:52:23Z",
+      "message": "Merge pull request #11 from EatBreatheCode/245"
+    },
+    {
+      "sha": "c73ec681dd62bf9fc2ab7bf2a0e801dc00424961",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:52:17Z",
+      "message": "Merge branch 'upgrades' into 245"
+    },
+    {
+      "sha": "c2e05dcd1d6276ab70cf54e779d5523ed4280fbb",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:48:29Z",
+      "message": "Merge pull request #20 from EatBreatheCode/revert-12-217"
+    },
+    {
+      "sha": "26a144f8283d95d94d231b1f113584cc8ef3409b",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:48:00Z",
+      "message": "Revert \"217\""
+    },
+    {
+      "sha": "e5ec19b05211ce6734272c9decd653c4a6a78d48",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:44:04Z",
+      "message": "Merge pull request #12 from EatBreatheCode/217"
+    },
+    {
+      "sha": "08b1990b1d5ebf344a1fee15562acd5612f07272",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:43:55Z",
+      "message": "Merge branch 'upgrades' into 217"
+    },
+    {
+      "sha": "77ded67e238e18d963f0bc405608d665bbc8e463",
+      "author_login": "CodeByZach",
+      "authored_at": "2019-10-07T04:38:58Z",
+      "message": "recompiled source"
+    },
+    {
+      "sha": "65b5fc094156af3f02c26c4bac2b54b8c726d375",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:35:14Z",
+      "message": "Merge pull request #7 from EatBreatheCode/277"
+    },
+    {
+      "sha": "109673bb5b63ffae287563c18ea68980f999503a",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:34:22Z",
+      "message": "Merge branch 'upgrades' into 277"
+    },
+    {
+      "sha": "71f502aab70a6948483943b78a6ebf23e777c32d",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:28:37Z",
+      "message": "Merge pull request #17 from EatBreatheCode/251"
+    },
+    {
+      "sha": "0a6a177afd5c0526395dd76bc88fe1e5a1284c2c",
+      "author_login": "CodeByZach",
+      "authored_at": "2019-10-07T04:24:12Z",
+      "message": "compiled"
+    },
+    {
+      "sha": "d6cc8f74158ecac5b8da04eac849f75dd5282608",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:18:01Z",
+      "message": "Merge pull request #1 from EatBreatheCode/175"
+    },
+    {
+      "sha": "27455a3117148d45352fe241eb2dc2fec2ce0710",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:17:55Z",
+      "message": "Merge branch 'upgrades' into 175"
+    },
+    {
+      "sha": "8be4dbe35c7268551fcdd71c7e900129cbb6bf81",
+      "author_login": "CodeByZach",
+      "authored_at": "2019-10-07T04:15:53Z",
+      "message": "compiled"
+    },
+    {
+      "sha": "c2da3b70c9422512ca85acc0f90676e3d9bf9c78",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:15:18Z",
+      "message": "Merge pull request #10 from EatBreatheCode/232"
+    },
+    {
+      "sha": "11423bd52490b797dabdfbead6df195063eebd96",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:14:48Z",
+      "message": "Merge branch 'upgrades' into 232"
+    },
+    {
+      "sha": "63eac12faade7f540527e3927009d8fa03263f51",
+      "author_login": "CodeByZach",
+      "authored_at": "2019-10-07T04:13:58Z",
+      "message": "recompiled"
+    },
+    {
+      "sha": "a575febf6f5ae6c9faabb04af08132a04d7a854d",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:08:22Z",
+      "message": "Merge pull request #13 from EatBreatheCode/410"
+    },
+    {
+      "sha": "435b179a4a742df60cfcd017a6ac04a6bf59d462",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:08:10Z",
+      "message": "Merge branch 'upgrades' into 410"
+    },
+    {
+      "sha": "856df942809121b6c68f3cc653246dfd1b4b170c",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:06:51Z",
+      "message": "Merge pull request #8 from EatBreatheCode/366"
+    },
+    {
+      "sha": "057fffc0c7029ee03f9cdae124eef5a1a4e41ac3",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:04:58Z",
+      "message": "Merge pull request #4 from EatBreatheCode/389"
+    },
+    {
+      "sha": "de31eca666b217f5798ec1a6a83b0909cdb99e8f",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:02:33Z",
+      "message": "Merge pull request #18 from EatBreatheCode/354"
+    },
+    {
+      "sha": "3892518de8dda91c5827c7f2656a9e1422636294",
+      "author_login": null,
+      "authored_at": "2019-10-07T04:01:37Z",
+      "message": "Merge pull request #19 from EatBreatheCode/288"
+    },
+    {
+      "sha": "f2e2844f1d67276351ad904bfa251ec85b0ffb01",
+      "author_login": null,
+      "authored_at": "2019-10-07T03:58:06Z",
+      "message": "Merge pull request #2 from EatBreatheCode/377"
+    },
+    {
+      "sha": "f9f53bc554a662e1ef203a1609d101a102c1be57",
+      "author_login": "Muraker",
+      "authored_at": "2018-06-26T13:14:54Z",
+      "message": "Remove a space in the <body class=''> tag"
+    },
+    {
+      "sha": "b24a4a2d38cb078a847277e99531cfd0b29547a9",
+      "author_login": "rizzomichaelg",
+      "authored_at": "2018-01-13T15:05:27Z",
+      "message": "Update pace.min.js"
+    },
+    {
+      "sha": "a4a9ca3e6dbe9542e46091cb45bbc97f03368f82",
+      "author_login": "rizzomichaelg",
+      "authored_at": "2018-01-13T15:04:17Z",
+      "message": "added className option to options for custom styling of progress bar without theme"
+    },
+    {
+      "sha": "4afddfb37aec45cc8588a91416fe28ca173314a8",
+      "author_login": "FranDias",
+      "authored_at": "2017-10-26T18:47:24Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "c555a122f98e4b6d18be0f021c9fe2050bb68579",
+      "author_login": "mxgr7",
+      "authored_at": "2017-05-07T14:07:07Z",
+      "message": "Rebuild"
+    },
+    {
+      "sha": "be7ee1053bd3425b9c9694b3f1c8c4e591d0a2b3",
+      "author_login": "mxgr7",
+      "authored_at": "2017-05-07T09:01:03Z",
+      "message": "Don't restart when a socket's readyState is 1"
+    },
+    {
+      "sha": "2cc4701a5aebed0dd56fb699158529c0c7b6fbea",
+      "author_login": "vinceshere",
+      "authored_at": "2017-01-16T19:20:50Z",
+      "message": "Updated AMD define"
+    },
+    {
+      "sha": "aad0682475a361a807750039f6d2329f33bc4ad1",
+      "author_login": "FranDias",
+      "authored_at": "2016-12-22T19:57:23Z",
+      "message": "Merge pull request #384 from jeremywrowe/patch-3"
+    },
+    {
+      "sha": "9b43df003132f863d6b0479add05f3a25e8ce03a",
+      "author_login": "jeremywrowe",
+      "authored_at": "2016-12-22T19:54:34Z",
+      "message": "Fixes spelling mistake"
+    },
+    {
+      "sha": "dcc41b528d1624fb9b115a87984e1ccd3e1d607f",
+      "author_login": "zackbloom",
+      "authored_at": "2016-12-09T19:22:10Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "9820da2918f10e1238a9269539fb79125b3b3326",
+      "author_login": "mylesduncanking",
+      "authored_at": "2016-12-09T10:07:00Z",
+      "message": "Add trigger for change"
+    },
+    {
+      "sha": "1116a6d73f6ab755242953d2eda15284292c039f",
+      "author_login": "mylesduncanking",
+      "authored_at": "2016-12-09T09:51:49Z",
+      "message": "Add change demo"
+    },
+    {
+      "sha": "82e5df056371801c6d03b358b222f84f517e2714",
+      "author_login": "graingert",
+      "authored_at": "2016-10-18T14:18:45Z",
+      "message": "Use anonymous define"
+    },
+    {
+      "sha": "62bc45debe3944ba189d5f563905d4620d06cb96",
+      "author_login": "zackbloom",
+      "authored_at": "2016-10-18T14:12:19Z",
+      "message": "Merge pull request #353 from graingert/patch-2"
+    },
+    {
+      "sha": "d486a2d175e87c32908e326a7824d9be42983b39",
+      "author_login": "radarhere",
+      "authored_at": "2016-09-03T01:43:51Z",
+      "message": "Fixed typos"
+    },
+    {
+      "sha": "b1804ed05a1bc26ff3a4c7da4ea9c815f522799c",
+      "author_login": "graingert",
+      "authored_at": "2016-09-02T16:10:43Z",
+      "message": "Use the correct NPM name"
+    },
+    {
+      "sha": "a03f1f1de62c9cea6c88b2267b8d7a83858b6cb6",
+      "author_login": "zackbloom",
+      "authored_at": "2016-06-01T15:42:33Z",
+      "message": "Don't use Eager module builder"
+    },
+    {
+      "sha": "a76326d0f4f2d88ecede0e7f66afa20b865a0f7e",
+      "author_login": "clayzermk1",
+      "authored_at": "2016-05-24T16:38:57Z",
+      "message": "Remove all instances of a class when calling removeClass()."
+    },
+    {
+      "sha": "aead1ffb15d4e2106870c8b3a642296a6f9ad18c",
+      "author_login": "clayzermk1",
+      "authored_at": "2016-05-24T16:38:33Z",
+      "message": "Prevented addition of an existing class when calling addClass()."
+    },
+    {
+      "sha": "83f0b8f2340543eede21cb9d923b7ebc91afaecc",
+      "author_login": "clayzermk1",
+      "authored_at": "2016-05-24T00:00:41Z",
+      "message": "Added addClass() and removeClass() functions per discussion with @zackbloom."
+    },
+    {
+      "sha": "e76cb9ba7b756401137401cedff122a84b0a1443",
+      "author_login": "zackbloom",
+      "authored_at": "2016-05-23T22:15:20Z",
+      "message": "Merge pull request #214 from vectart/master"
+    },
+    {
+      "sha": "ae886870f4e735f526cb9695b4fea5a60b28b1a7",
+      "author_login": "zackbloom",
+      "authored_at": "2016-05-23T22:13:35Z",
+      "message": "Merge pull request #222 from thorikawa/box-sizing"
+    }
+  ],
+  "issues": [
+    {
+      "number": 550,
+      "title": "feat: use css custom properties for theme color customization",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-05T06:19:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 549,
+      "title": "fix: remove obsolete vendor-prefixed @keyframes and animation properties",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-04T23:27:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 548,
+      "title": "Fix the prototype pollution vulnerability found in extend function.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-09T23:10:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 547,
+      "title": "fix: avoid multiple `pace-done` classes in body element",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-10-10T19:45:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 546,
+      "title": "Prototype pollution vulnerability found in pace-js that leads by html injection",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-30T23:57:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 545,
+      "title": "EventLagMonitor's interval function doesn't stop with Pace.stop",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-31T01:01:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 544,
+      "title": "What version of jQuery is Pace.js compatible with? ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-02T10:15:03Z",
+      "closed_at": "2023-02-02T10:19:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 543,
+      "title": "Prototype-polluting function",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-12T08:22:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 542,
+      "title": "No way to start loading besides ajax requests?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-04T20:46:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 541,
+      "title": "module not defined",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-04T16:34:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 540,
+      "title": "Angular's ApplicationRef never fire \"isStable = true\" in Firefox because of pace-js",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-30T20:38:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 539,
+      "title": "In firefox, the progress bar stays for a long time.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-09-26T19:27:23Z",
+      "closed_at": "2022-09-26T19:31:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 538,
+      "title": "Fix a bug when there's an error when starting or destroying the bar",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-08-14T21:49:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 537,
+      "title": "fix typos in readme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-07-13T21:26:35Z",
+      "closed_at": "2022-07-15T15:37:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 536,
+      "title": "Issue with the pace bar not stopping",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-27T17:04:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 535,
+      "title": "Display loading pace only if it takes more than 3 seconds to load?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-26T19:03:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 534,
+      "title": "Javascript doesn't always get executed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-22T09:06:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 533,
+      "title": "The following could not be found",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-09T15:25:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 532,
+      "title": "Synchronous XMLHttpRequest on the main thread is depreciated",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-11-18T22:01:52Z",
+      "closed_at": "2025-12-02T07:59:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 531,
+      "title": "loading stuck on 99%",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-18T19:35:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 527,
+      "title": "Request Overlay",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-29T11:54:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 526,
+      "title": "Add animated gif on loader",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-26T14:00:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 525,
+      "title": "feat: added POST method in ajax tracking",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-28T07:42:59Z",
+      "closed_at": "2021-05-28T07:43:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 524,
+      "title": "Use with websockets",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-20T10:32:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 523,
+      "title": "Pace progress bar finishes much more earlier than actual download and display of PDF file",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-15T03:38:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 522,
+      "title": "Import Pace and use paceoptions before it",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-04T00:34:37Z",
+      "closed_at": "2022-09-17T02:17:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 521,
+      "title": "RTL support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-28T21:19:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 520,
+      "title": "voiceOver/ScreenReader  ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-03-25T10:58:49Z",
+      "closed_at": "2021-03-26T10:46:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 519,
+      "title": "How to disable \"PACE\" progress barl loading on some requestes in angular component",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-10T13:07:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 518,
+      "title": "Fixing some Ajax calls not completing",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-03T03:59:35Z",
+      "closed_at": "2021-03-03T04:00:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 517,
+      "title": "Patched stylesheet tag",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-03T03:31:55Z",
+      "closed_at": "2021-03-03T03:34:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 516,
+      "title": "How to integrate with Angular 11?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-03-02T07:40:19Z",
+      "closed_at": "2021-03-03T03:34:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 515,
+      "title": "Class pace-done added to body multiple times",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-25T10:42:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 514,
+      "title": "Fixing some Ajax calls not completing",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-02-17T13:30:05Z",
+      "closed_at": "2021-03-03T04:00:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 513,
+      "title": "version 1.2.3 stops papaparse.js reading in .csv files ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-28T10:23:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 512,
+      "title": "Backend REST API calls are blocked by pace progress bar in GCP cloud.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-28T10:06:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 511,
+      "title": "pace.js breaks authenticaiton flow in blazor",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-17T23:40:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 510,
+      "title": "Latest version in Firefox",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-14T15:42:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 509,
+      "title": "Updating v1.0.2 to v.1.2.3 - Some Ajax calls not completing",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-11-23T16:22:44Z",
+      "closed_at": "2021-03-03T04:00:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 508,
+      "title": "Tag not found",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-11-16T10:53:30Z",
+      "closed_at": "2020-11-17T01:06:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 507,
+      "title": "Website problem",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-06T04:43:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 506,
+      "title": "another fix for #261, in extendNative, share prototype, copy direct properties (not from prototype)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-11-05T19:07:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 505,
+      "title": "Ownership",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-11-04T22:04:44Z",
+      "closed_at": "2020-11-05T04:19:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 504,
+      "title": "fix issue HubSpot/pace#261 by localizing key per loop in extendNative",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-11-04T21:48:43Z",
+      "closed_at": "2020-11-04T21:56:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 503,
+      "title": "Keeps loading in Firefox browser",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-28T07:22:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 502,
+      "title": "docs: Fix simple typo, seperate -> separate",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-04T21:40:03Z",
+      "closed_at": "2021-01-21T20:37:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 501,
+      "title": "Uncaught TypeError: Array.prototype.indexOf called on null or undefined",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-03T18:11:41Z",
+      "closed_at": "2020-08-09T08:14:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 500,
+      "title": "Add a method to attach an EventListener to 'progress'",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-22T07:52:32Z",
+      "closed_at": "2021-01-21T20:29:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 499,
+      "title": "Pace percentage starting from minus -5,-4,-3,-2,-1,0,1,2,10,100 <= like this",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-07-14T07:51:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 498,
+      "title": "Remove Google Analytics",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-25T19:57:31Z",
+      "closed_at": "2020-10-04T13:36:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 497,
+      "title": "Pace.js keeps loading while on low battery mode",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-11T17:10:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 496,
+      "title": "Breaks WebSocket",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-29T12:39:54Z",
+      "closed_at": "2024-03-15T13:58:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 495,
+      "title": "THERE IS NO OPTION TO SET PERCENTAGE MANUALLY",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-22T11:19:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 494,
+      "title": "Loading indicator instead of a progress indicator",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-06T01:47:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 493,
+      "title": "Unusual spaces in body tag",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-11-23T17:19:33Z",
+      "closed_at": "2021-02-10T20:19:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 492,
+      "title": "Blazor - Pace causing blazor websocket to close",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-10-08T06:47:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 491,
+      "title": "Fixes import Pace",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-23T07:38:16Z",
+      "closed_at": "2019-09-23T07:39:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 490,
+      "title": "Setting options in react",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-27T21:57:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 489,
+      "title": "Pace.stop() causes extra entries in _intercept.bindings for AjaxMonitor.watch",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-23T12:00:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 488,
+      "title": "How async load video?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-22T10:14:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 487,
+      "title": "How to configure to let it ignore those short time request < 1s",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-16T10:23:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 486,
+      "title": "Is anyone going to work on this",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-04-25T20:42:16Z",
+      "closed_at": "2019-06-12T19:45:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 485,
+      "title": "How to add string under the gif",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-10T15:39:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 484,
+      "title": "iframe url issue in welcome.html ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-05T18:16:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 483,
+      "title": "Modal popup shows black baground",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-17T16:17:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 482,
+      "title": "Can pace start on the old page before start loading the new page",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-09T13:37:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 481,
+      "title": "HOW TO:  Add second indicator when DOM is busy?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-01T23:09:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 480,
+      "title": "Pace theme CSS file was not found: blue/pace-theme-minimal.css",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-01-31T06:17:03Z",
+      "closed_at": "2019-02-09T17:04:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 479,
+      "title": "Delay threshold",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-01-22T22:10:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 478,
+      "title": "angular4+ support?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-25T01:46:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 477,
+      "title": "RTL support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-22T23:15:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 476,
+      "title": "Incompatible with Rails Ujs",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-09T12:40:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 475,
+      "title": "Fix up downloading themes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-29T21:03:07Z",
+      "closed_at": "2018-10-29T21:03:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 474,
+      "title": "Ive included this in a webapp i created recently but only this shows up",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-28T19:33:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 473,
+      "title": "Datatables and PACEJS broken after pressing back button",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-27T12:08:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 472,
+      "title": "Date data not displaying in tableview ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-22T16:06:45Z",
+      "closed_at": "2018-10-22T17:26:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 471,
+      "title": "Ignore youtube video",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-22T11:36:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 470,
+      "title": "PACE reaches 99% and never completes on safari mobile devices",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-05T09:44:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 469,
+      "title": "In edge, ajax's progress bar after download file not closed automatically",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-23T11:19:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 468,
+      "title": "No longer working",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-20T22:58:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 467,
+      "title": "Pace won't run inside iframe",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-19T13:28:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 466,
+      "title": "ignoreURLs",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-07-05T13:20:56Z",
+      "closed_at": "2018-07-05T13:21:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 465,
+      "title": "Erreur in cosole on Firefox 62.0b2 ( not stable )",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-06-29T14:25:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 464,
+      "title": "Remove a space in the <body class=''> tag",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-26T13:17:07Z",
+      "closed_at": "2020-11-15T23:44:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 463,
+      "title": "A space is added to the <body class=''> tag",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-06-26T13:10:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 462,
+      "title": "Pace not working on Chrome kiosk mode?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-05T13:23:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 461,
+      "title": "Theme downloads are irresponsive",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-26T18:55:39Z",
+      "closed_at": "2018-10-29T21:03:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 460,
+      "title": "How to change window.paceOptions at runtime",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-13T07:38:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 459,
+      "title": "Not able to download styles",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-06T08:57:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 458,
+      "title": "Update to support Opentok",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-02-21T03:38:55Z",
+      "closed_at": "2018-02-21T03:38:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 457,
+      "title": "Pace with zebra Browser Print break",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-02-13T12:43:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 456,
+      "title": "pace sometimes not working",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-24T13:42:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 455,
+      "title": "Added className Option",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-01-13T15:07:01Z",
+      "closed_at": "2020-11-15T23:44:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 454,
+      "title": "[Question] How could add an overlay to the pace?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-11T19:25:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 453,
+      "title": "Pace bar closes before the track of an ajax request completes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-04T08:44:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 452,
+      "title": "Progress bar never disappear on opera browser",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-02T09:10:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 451,
+      "title": "Unhandled Promise rejection: (SystemJS) Invalid calling object In IE11",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-12-15T11:43:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 450,
+      "title": "Pace.on(\"update\",function(pro){})  ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-04T10:08:18Z",
+      "closed_at": "2017-12-04T10:22:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 449,
+      "title": "Adding an interface to Pace",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-12-04T09:52:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 448,
+      "title": "Not working download theme from site",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-29T16:22:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "zackbloom",
+      "contributions": 194
+    },
+    {
+      "login": "adamschwartz",
+      "contributions": 105
+    },
+    {
+      "login": "CodeByZach",
+      "contributions": 38
+    },
+    {
+      "login": "clayzermk1",
+      "contributions": 4
+    },
+    {
+      "login": "Friss",
+      "contributions": 4
+    },
+    {
+      "login": "FranDias",
+      "contributions": 3
+    },
+    {
+      "login": "kennyglenn",
+      "contributions": 3
+    },
+    {
+      "login": "mxgr7",
+      "contributions": 2
+    },
+    {
+      "login": "rizzomichaelg",
+      "contributions": 2
+    },
+    {
+      "login": "graingert",
+      "contributions": 2
+    },
+    {
+      "login": "thorikawa",
+      "contributions": 2
+    },
+    {
+      "login": "mylesduncanking",
+      "contributions": 2
+    },
+    {
+      "login": "hugomrdias",
+      "contributions": 2
+    },
+    {
+      "login": "dyatko",
+      "contributions": 1
+    },
+    {
+      "login": "vectart",
+      "contributions": 1
+    },
+    {
+      "login": "mascah",
+      "contributions": 1
+    },
+    {
+      "login": "timgates42",
+      "contributions": 1
+    },
+    {
+      "login": "traviscross",
+      "contributions": 1
+    },
+    {
+      "login": "TrevorBurnham",
+      "contributions": 1
+    },
+    {
+      "login": "vinceshere",
+      "contributions": 1
+    },
+    {
+      "login": "cha147",
+      "contributions": 1
+    },
+    {
+      "login": "alessandro-diez",
+      "contributions": 1
+    },
+    {
+      "login": "rogeriopvl",
+      "contributions": 1
+    },
+    {
+      "login": "LuukBosma",
+      "contributions": 1
+    },
+    {
+      "login": "xinan",
+      "contributions": 1
+    },
+    {
+      "login": "kaleworsley",
+      "contributions": 1
+    },
+    {
+      "login": "jeremywrowe",
+      "contributions": 1
+    },
+    {
+      "login": "JeremyGeros",
+      "contributions": 1
+    },
+    {
+      "login": "Muraker",
+      "contributions": 1
+    },
+    {
+      "login": "endel",
+      "contributions": 1
+    },
+    {
+      "login": "radarhere",
+      "contributions": 1
+    },
+    {
+      "login": "a2intl",
+      "contributions": 1
+    },
+    {
+      "login": "alexmelnikov",
+      "contributions": 1
+    },
+    {
+      "login": "aroben",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v1.2.4",
+      "published_at": "2021-03-03T04:02:55Z"
+    },
+    {
+      "tag": "v1.2.3",
+      "published_at": "2020-11-15T23:56:51Z"
+    },
+    {
+      "tag": "v0.7.8",
+      "published_at": "2017-05-15T19:43:11Z"
+    },
+    {
+      "tag": "v0.7.5",
+      "published_at": "2015-10-08T19:36:16Z"
+    },
+    {
+      "tag": "v0.7.1",
+      "published_at": "2014-12-12T22:40:14Z"
+    },
+    {
+      "tag": "v0.7.0",
+      "published_at": "2014-12-08T21:43:45Z"
+    },
+    {
+      "tag": "v0.4.18",
+      "published_at": "2020-11-15T23:15:09Z"
+    },
+    {
+      "tag": "v0.4.16",
+      "published_at": "2013-12-09T17:01:13Z"
+    },
+    {
+      "tag": "v0.4.15",
+      "published_at": "2013-10-11T20:30:46Z"
+    },
+    {
+      "tag": "v0.4.13",
+      "published_at": "2013-10-02T20:57:08Z"
+    },
+    {
+      "tag": "v0.4.11",
+      "published_at": "2013-09-30T16:59:32Z"
+    },
+    {
+      "tag": "v0.4.10",
+      "published_at": "2013-09-24T20:42:13Z"
+    },
+    {
+      "tag": "v0.4.9",
+      "published_at": "2013-09-24T20:11:03Z"
+    },
+    {
+      "tag": "v0.4.8",
+      "published_at": "2013-09-24T17:44:36Z"
+    },
+    {
+      "tag": "v0.4.7",
+      "published_at": "2013-09-24T17:42:58Z"
+    },
+    {
+      "tag": "v0.4.6",
+      "published_at": "2013-09-23T20:03:32Z"
+    },
+    {
+      "tag": "v0.4.5",
+      "published_at": "2013-09-23T18:17:25Z"
+    },
+    {
+      "tag": "v0.4.4",
+      "published_at": "2013-09-22T03:43:03Z"
+    },
+    {
+      "tag": "v0.4.3",
+      "published_at": "2013-09-21T17:23:10Z"
+    }
+  ],
+  "collected_at": "2026-06-29T10:30:18.558677Z"
+}

@@ -1,0 +1,1588 @@
+{
+  "full_name": "microsoft/Bringing-Old-Photos-Back-to-Life",
+  "owner": "microsoft",
+  "name": "Bringing-Old-Photos-Back-to-Life",
+  "url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+  "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+  "primary_language": "Python",
+  "topics": [
+    "gans",
+    "generative-adversarial-network",
+    "image-manipulation",
+    "image-restoration",
+    "old-photo-restoration",
+    "photo-restoration",
+    "photos",
+    "pytorch"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 15689,
+  "forks": 2089,
+  "open_issues": 109,
+  "created_at": "2020-06-24T06:37:58Z",
+  "pushed_at": "2023-10-26T08:06:57Z",
+  "updated_at": "2026-06-28T09:36:13Z",
+  "commits": [
+    {
+      "sha": "33875eccf4ebcd3665cf38cc56f3a0ce563d3a9c",
+      "author_login": "zhangmozhe",
+      "authored_at": "2022-07-23T06:52:29Z",
+      "message": "Merge pull request #226 from M-Ahadi/fixed-requirements"
+    },
+    {
+      "sha": "ca3c626780d0ad6ab0d6970fe24ed3502fdee86f",
+      "author_login": "zhangmozhe",
+      "authored_at": "2022-07-23T06:42:35Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "69d175266b559496a593c8377ec64bfa82e6e849",
+      "author_login": "zhangmozhe",
+      "authored_at": "2022-07-23T06:36:05Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "133534b3efc66ba2ddc02c50f694f1ab2beb42c7",
+      "author_login": "raywzy",
+      "authored_at": "2022-03-31T07:31:35Z",
+      "message": "update"
+    },
+    {
+      "sha": "5e0f953b8c0d58511ea7e3cb1f764af347922603",
+      "author_login": "M-Ahadi",
+      "authored_at": "2022-03-23T10:36:18Z",
+      "message": "fixed requirements, added matplotlib to the requirements.txt"
+    },
+    {
+      "sha": "bce7d626d6af148b68c01d16dfa7e0fe349b779b",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-10-09T03:47:18Z",
+      "message": "Merge pull request #199 from CJWBW/replicate"
+    },
+    {
+      "sha": "e9f55eca09b3a97e399ddce636709206aac61005",
+      "author_login": "chenxwh",
+      "authored_at": "2021-09-28T14:00:44Z",
+      "message": "reformat and fix temp input dir bug"
+    },
+    {
+      "sha": "05d9ed44452d92e6b63bfcfe08a839e8495be754",
+      "author_login": "chenxwh",
+      "authored_at": "2021-09-20T15:52:22Z",
+      "message": "fix read output image bug"
+    },
+    {
+      "sha": "a035e3b380893fbb312226cc3d5f14c5cc070ef3",
+      "author_login": "chenxwh",
+      "authored_at": "2021-09-20T15:45:57Z",
+      "message": "Merge pull request #2 from CJWBW/revert-1-replicate"
+    },
+    {
+      "sha": "b5b428393edba30a92c7959c1fe18f2769dcfc32",
+      "author_login": "chenxwh",
+      "authored_at": "2021-09-20T15:44:14Z",
+      "message": "Revert \"Read output png images correctly\""
+    },
+    {
+      "sha": "a536f15b0596542d6528528d8e71ba21f25e1554",
+      "author_login": "chenxwh",
+      "authored_at": "2021-09-19T11:34:37Z",
+      "message": "Merge pull request #1 from ericallam/replicate"
+    },
+    {
+      "sha": "67ef0ba4a3347dbc71305d64b8a53ccfca7e082c",
+      "author_login": "chenxwh",
+      "authored_at": "2021-09-19T11:32:49Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f959c0bb8b40cd0e524244d5d6c89f8152a3cf45",
+      "author_login": null,
+      "authored_at": "2021-09-17T13:36:10Z",
+      "message": "Read output png images correctly"
+    },
+    {
+      "sha": "eb16399ee7e61761f1a5d60fd7a50d5149ba5ee8",
+      "author_login": null,
+      "authored_at": "2021-09-17T09:54:45Z",
+      "message": "reformatted"
+    },
+    {
+      "sha": "12c689e56aa3f9705d9e15e6115ee530a045f3a4",
+      "author_login": null,
+      "authored_at": "2021-09-14T22:20:31Z",
+      "message": "update readme"
+    },
+    {
+      "sha": "f2ec44f1f828dfd5d4f66512382b91f793a027b1",
+      "author_login": null,
+      "authored_at": "2021-09-14T21:51:43Z",
+      "message": "update cog.yaml"
+    },
+    {
+      "sha": "6f087202ef57aab7f2c9ad90a3d23d55e85e7154",
+      "author_login": null,
+      "authored_at": "2021-09-13T19:54:15Z",
+      "message": "fix multiple run bug"
+    },
+    {
+      "sha": "c7067cef8fbaa84bf0953de380f7fa4d8a5b7c59",
+      "author_login": null,
+      "authored_at": "2021-09-13T18:25:42Z",
+      "message": "enable cog"
+    },
+    {
+      "sha": "046ed37fcb0a3d5623ba89209009d64d50b81622",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-07-13T10:32:31Z",
+      "message": "Merge pull request #181 from p1x31/master"
+    },
+    {
+      "sha": "fae2133847b7cfb7b2671719bffac81210a88dfd",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-07-13T10:29:34Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b01c01a0613d8585249ff5c0fce7f5926ee0bcc8",
+      "author_login": "p1x31",
+      "authored_at": "2021-07-12T13:25:12Z",
+      "message": "Minor Update test.py"
+    },
+    {
+      "sha": "e6b62710286c154a7bdb428a8eefa7e42727c53a",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-07-12T12:51:33Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a9272ef837224999fead9becdcd0aa84b1ef37a6",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-07-12T12:51:04Z",
+      "message": "Add files via upload"
+    },
+    {
+      "sha": "8cf38d393711f78ec838c77e5ab180349e0b08ff",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-07-12T12:14:41Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "bd3b65a142a71c5c7dd7c6601f4e506bc3fb3bca",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-07-12T12:02:03Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "53a30232c90e616fc2a4215f82dd7659a28517a8",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-07-12T12:01:29Z",
+      "message": "Update test.py"
+    },
+    {
+      "sha": "9887c93e3cdd760d7c3ec05f2f55be3f3fbde840",
+      "author_login": "raywzy",
+      "authored_at": "2021-07-12T07:44:28Z",
+      "message": "update_readme"
+    },
+    {
+      "sha": "03cd2816373cdf3b551087bf75c6a3e772bc5314",
+      "author_login": "raywzy",
+      "authored_at": "2021-07-12T07:39:14Z",
+      "message": "run_HR"
+    },
+    {
+      "sha": "da0903af3678d5dcaeddb34e0d139977f63f240f",
+      "author_login": "raywzy",
+      "authored_at": "2021-07-04T09:19:21Z",
+      "message": "HR_backbone"
+    },
+    {
+      "sha": "ed38d6a7971845b2f0fcb5fdcdd7cb332194146a",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-06-07T16:52:41Z",
+      "message": "Merge pull request #175 from Aayush-hub/GUI"
+    },
+    {
+      "sha": "80ddcb266b7f519d7c2dc59320e7840774153082",
+      "author_login": "Aayush-hub",
+      "authored_at": "2021-06-07T15:46:06Z",
+      "message": "Added PySimpleGUI to requirements file"
+    },
+    {
+      "sha": "63998490c4d8dc5328eb3e728336e9ff617b09ba",
+      "author_login": "Aayush-hub",
+      "authored_at": "2021-06-07T15:39:36Z",
+      "message": "Corrected Path"
+    },
+    {
+      "sha": "eba3d3c57060127f46d4378e74dd0a24eda3e524",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-06-07T14:00:26Z",
+      "message": "Merge pull request #174 from Aayush-hub/GUI"
+    },
+    {
+      "sha": "6142eb5195f8fd68beb2704458105527f9a44a78",
+      "author_login": "Aayush-hub",
+      "authored_at": "2021-06-07T13:14:36Z",
+      "message": "Updated Readme"
+    },
+    {
+      "sha": "9860af1da155121309f0a59f3e686c9492692b9b",
+      "author_login": "Aayush-hub",
+      "authored_at": "2021-06-06T12:35:52Z",
+      "message": "Added GUI frontend"
+    },
+    {
+      "sha": "11775c6aafd03675ba69a51a9093d3ab1d3dbb66",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-06-03T12:32:31Z",
+      "message": "Merge pull request #173 from p1x31/master"
+    },
+    {
+      "sha": "67268ed6f3ad4e97c38407ba134f5478802793fe",
+      "author_login": "p1x31",
+      "authored_at": "2021-06-02T19:19:00Z",
+      "message": "fixes --with_scratch"
+    },
+    {
+      "sha": "95ba2834a358fa243665c86407b220e4e78854fe",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-03-29T03:49:14Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1794fa5f96e35d3ca6d769941d02c23e2564401a",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-03-29T03:47:30Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "4cc412bf023b6d625b8f4cf6ee6a235408b126ba",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-03-29T03:47:01Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "20ebc457f406430c3d887d4436e6aa66482800eb",
+      "author_login": "raywzy",
+      "authored_at": "2021-03-28T07:56:34Z",
+      "message": "finalize training"
+    },
+    {
+      "sha": "d16719d13b120ac9b032f2ac5c14869fec12e011",
+      "author_login": "raywzy",
+      "authored_at": "2021-03-28T07:52:00Z",
+      "message": "visualizer"
+    },
+    {
+      "sha": "31c0b5a4aae47269089a23b60ab5b25b8c2d3923",
+      "author_login": "raywzy",
+      "authored_at": "2021-03-28T07:50:36Z",
+      "message": "training options"
+    },
+    {
+      "sha": "5ce6ba9404f5212e93acad32ad107c2a02899e89",
+      "author_login": "raywzy",
+      "authored_at": "2021-03-28T07:48:40Z",
+      "message": "training model"
+    },
+    {
+      "sha": "84dfc1fe3738a79cf84e260e500789d648865d7c",
+      "author_login": "raywzy",
+      "authored_at": "2021-03-28T07:10:57Z",
+      "message": "data generator"
+    },
+    {
+      "sha": "57c54d18f1d5e315b2702b027780a5e0b7e8a098",
+      "author_login": "raywzy",
+      "authored_at": "2021-03-28T07:04:43Z",
+      "message": "training loader"
+    },
+    {
+      "sha": "10f588ecf9abb9eaefb8520a5992c3fd42dcc742",
+      "author_login": "raywzy",
+      "authored_at": "2021-03-28T06:59:22Z",
+      "message": "Bigfile"
+    },
+    {
+      "sha": "85c2d64b9f95d0ca78a3edea1f62fc23c8058d7f",
+      "author_login": "raywzy",
+      "authored_at": "2021-03-28T06:44:36Z",
+      "message": "update_readme"
+    },
+    {
+      "sha": "b02f052cc717eb8399b477792f66bf115f419f49",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-03-05T04:43:39Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "c1fc519f6c6f177a596a520b23f974401761be09",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-02-19T10:23:50Z",
+      "message": "Merge pull request #117 from codeandmedia/master"
+    },
+    {
+      "sha": "fbbc1b71f2ccc8e8d046bf233f7ebc6b54e8dc27",
+      "author_login": "codeandmedia",
+      "authored_at": "2021-02-14T16:51:32Z",
+      "message": "ansible yaml added"
+    },
+    {
+      "sha": "1b28615c66dacb1a86a648bfa6790a26b3ea427c",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-02-09T09:03:05Z",
+      "message": "Update test_face.py"
+    },
+    {
+      "sha": "9fe6a267b33b90c792188d291fce9062d9229fed",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-02-09T09:01:36Z",
+      "message": "Update requirements.txt"
+    },
+    {
+      "sha": "c14716372feb53739d6c728460ac04ba0a270487",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-02-09T08:58:10Z",
+      "message": "Update detection.py"
+    },
+    {
+      "sha": "ff9403e543276b830ef2ac880d78153407b2a2b1",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-02-09T08:57:36Z",
+      "message": "reduce memory"
+    },
+    {
+      "sha": "3ea954f0673df7a76aff2ac4193cca61ece92290",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-02-08T10:54:42Z",
+      "message": "reduce memory footprint"
+    },
+    {
+      "sha": "4d67369596b6baa4f32e3b4449605bb6e17fb663",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-02-08T10:53:00Z",
+      "message": "remove memory footprint"
+    },
+    {
+      "sha": "133108390aa05c179582cf3bdca54d9c7d998aad",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-02-04T07:07:57Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "4b41a89a3f9a422b0bc16d3e34dd819593317136",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-02-04T06:41:06Z",
+      "message": "Update run.py"
+    },
+    {
+      "sha": "b2ca226f9b07c49e85b76bb4a185a7e1b1db7fcc",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-02-04T06:08:12Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e597b70f25c6ce0cb534444fde35765551c7f630",
+      "author_login": "zhangmozhe",
+      "authored_at": "2021-02-03T09:15:09Z",
+      "message": "Update detection.py"
+    },
+    {
+      "sha": "8d4779e56246acda4f2b497ffa9a57bd70d4db48",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-12-01T11:43:51Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7c5c60824df22df7026394ebba256b715451e1d6",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-12-01T09:21:06Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a2a97d8f4d42e36fc66a56d94ddef58bd1c305b0",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-12-01T09:19:40Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "2f77f5ca1e9c1fd04556ae4d5df912982ea9460d",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-12-01T09:19:11Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "2c8b2f2f8995dc497b19484fc2bb3c07b768fa54",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-12-01T08:51:24Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "057b61ba9e636fc3217138b0e4f977160959fe6c",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-11-30T06:05:21Z",
+      "message": "Merge pull request #68 from microsoft/revert-62-master"
+    },
+    {
+      "sha": "38bcab5cc73f57e5159bfeea7ea6d9a11997d1e5",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-11-30T06:05:03Z",
+      "message": "Revert \"Update detection.py for CPU mode\""
+    },
+    {
+      "sha": "ee203a8755c1b26987e7a9ec893d997aa81ab109",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-11-27T11:22:49Z",
+      "message": "Merge pull request #62 from lt94/master"
+    },
+    {
+      "sha": "85e9f11a8fc67db88c7aa5f488aeabdd1388de44",
+      "author_login": "LeetaoGoooo",
+      "authored_at": "2020-11-27T11:19:38Z",
+      "message": "Update detection.py for CPU mode"
+    },
+    {
+      "sha": "04cc58e4191e032a533989fca8c08de21683d524",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-11-27T05:03:19Z",
+      "message": "Merge pull request #60 from lt94/master"
+    },
+    {
+      "sha": "700e051e84c511cf3e30ec625d645ad06ee4d63d",
+      "author_login": "LeetaoGoooo",
+      "authored_at": "2020-11-26T23:51:34Z",
+      "message": "make `--GPU` param works under `--with_scratch`"
+    },
+    {
+      "sha": "ae7e26de291576b0068723dd25227c33bb048fa8",
+      "author_login": "LeetaoGoooo",
+      "authored_at": "2020-11-26T13:44:32Z",
+      "message": "Update README.md for how to run code with CPU"
+    },
+    {
+      "sha": "1a1c43d62de281c95ee04855b06afac1bf43a424",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-11-23T09:35:53Z",
+      "message": "Merge pull request #51 from hijak/master"
+    },
+    {
+      "sha": "e5b7fc4c801ae46e207431884a9a9ea3e3b34378",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-11-23T09:35:02Z",
+      "message": "Merge pull request #53 from davvid/cpu-support"
+    },
+    {
+      "sha": "c7a10e986b6d110a993fbe82c356802a3686deb8",
+      "author_login": "davvid",
+      "authored_at": "2020-11-22T23:32:57Z",
+      "message": "models: improve support for non-GPU cpu usage"
+    },
+    {
+      "sha": "9a1ba81b8affae166246037d3f492628c6c2e77e",
+      "author_login": "davvid",
+      "authored_at": "2020-11-23T00:12:14Z",
+      "message": "options: avoid clobbering the python \"id\" builtin"
+    },
+    {
+      "sha": "77bce10941076b13dcfb9fa4f7ec3e3b2c613158",
+      "author_login": "hijak",
+      "authored_at": "2020-11-20T21:45:11Z",
+      "message": "Dockerfile and kubernetes example"
+    },
+    {
+      "sha": "ab40e6b254454a22bee73253356482583f3a4cad",
+      "author_login": "hijak",
+      "authored_at": "2020-11-20T21:43:14Z",
+      "message": "Dockerfile and kubernetes example"
+    },
+    {
+      "sha": "44ed656fdaca121ae3dc1a4e4a851691b5544e08",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-10-23T11:30:38Z",
+      "message": "Merge pull request #30 from samiraguiar/minor-improvements"
+    },
+    {
+      "sha": "1c4b4aa9cb0bdebe74d548a46317678fd6b96f7e",
+      "author_login": "samiraguiar",
+      "authored_at": "2020-10-16T21:35:59Z",
+      "message": "Replace os.system by subprocess.call"
+    },
+    {
+      "sha": "498d33dc8ccf84c5b3c3f5d4b7867ee7837ab98f",
+      "author_login": "samiraguiar",
+      "authored_at": "2020-10-16T21:23:48Z",
+      "message": "Support non-absolute input and output paths"
+    },
+    {
+      "sha": "9686071b35d3fa009a8cab3de564399e925ea58b",
+      "author_login": "samiraguiar",
+      "authored_at": "2020-10-16T21:14:15Z",
+      "message": "Ignore non-files in the input directory"
+    },
+    {
+      "sha": "43e5cb758265469eb755da1c6aff817e456299e9",
+      "author_login": "samiraguiar",
+      "authored_at": "2020-10-16T21:05:16Z",
+      "message": "Create non-existing output folders"
+    },
+    {
+      "sha": "18b306e70fcc3cca8e09e048efd96f83aa9ae051",
+      "author_login": "samiraguiar",
+      "authored_at": "2020-10-16T21:03:44Z",
+      "message": "Add .gitignore"
+    },
+    {
+      "sha": "b5e6c3b5743d7624b634c4464cf5cf3aa81cde8c",
+      "author_login": "samiraguiar",
+      "authored_at": "2020-10-16T01:52:54Z",
+      "message": "Don't track Python bytecode files"
+    },
+    {
+      "sha": "0d2817e3ec58ba7478931b23f565a6fda5944218",
+      "author_login": "samiraguiar",
+      "authored_at": "2020-10-15T18:35:55Z",
+      "message": "Inform the user of errors when skipping"
+    },
+    {
+      "sha": "d58a399b645d54b0198a5efe0515c58401ff7b6b",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-10-07T06:34:13Z",
+      "message": "Update requirements.txt"
+    },
+    {
+      "sha": "2c4e57b5a649ce0cb6b37d6ffc62f5bacacfaf33",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-10-06T07:16:55Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "36fd43b846c929dcecc75c63f4bd4ca59d00ebf4",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-10-06T07:16:19Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3dab15214e65435a277fb8897f48e2e1ed13abaf",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-10-06T06:46:02Z",
+      "message": "Update requirements.txt"
+    },
+    {
+      "sha": "909abc6d67fb30baa184d1d202cd14cd4955352b",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-10-02T11:59:48Z",
+      "message": "Update test_face.py"
+    },
+    {
+      "sha": "6540a33955ef0ec14385c748424de01fea7f09c5",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-09-29T04:15:53Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7dd1ffe26152a9faeaefb4a85807bc47b6cbd980",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-09-18T14:36:57Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d8297e8fb05730e051bdae2c0bb7e43264753ae8",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-09-18T14:06:37Z",
+      "message": "update readme"
+    },
+    {
+      "sha": "3efeecc237a68f9615169792c9f0b2290eba135f",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-09-18T14:05:23Z",
+      "message": "update readme"
+    },
+    {
+      "sha": "f85380f0b72931320ef9ac7e81aa482abfa3a8ad",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-09-18T11:20:17Z",
+      "message": "update test image"
+    },
+    {
+      "sha": "4804d26211f7682e0ca8d65f291567b1e3cd16bd",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-09-18T10:02:06Z",
+      "message": "update test images"
+    },
+    {
+      "sha": "be780eca35e964e5e7071954081e5c21cf7b1e67",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-09-18T03:52:08Z",
+      "message": "update readme"
+    },
+    {
+      "sha": "b4b9cc9ed07f4313daa2aeaa0a6c6e6879dbacf1",
+      "author_login": "zhangmozhe",
+      "authored_at": "2020-09-17T10:03:50Z",
+      "message": "update readme"
+    }
+  ],
+  "issues": [
+    {
+      "number": 308,
+      "title": "Thank you — HyMPOR builds on your work",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-05T06:33:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 307,
+      "title": "Unable to download face_checkpoints.zip and global_checkpoints.zip",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-05T13:39:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 306,
+      "title": "1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-07T10:04:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 305,
+      "title": "Fix NumPy casting error in blur_blending_cv2 function",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-03-13T11:28:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 303,
+      "title": "Add M-chip to accelerate adaptation and support for higher version",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-02-21T12:52:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 302,
+      "title": "Error when using model in replicate.com - IndexError: list index out of range",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-02T19:35:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 301,
+      "title": "Hi I am having trouble restoring this photo",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-21T05:25:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 300,
+      "title": "Links for the Intsalltion",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-09-23T06:05:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 299,
+      "title": "Improve GUI and windows installation instructions",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-22T16:36:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 298,
+      "title": "list index out of range ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-01T12:59:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 297,
+      "title": "BOPBtL models missing",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-24T16:12:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 296,
+      "title": "这个项目目前无法使用了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-21T09:44:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 295,
+      "title": "\"Restore the photos with scratches\" section fails with **\"FileNotFoundError: [Errno 2] No such file or directory: '/content/photo_restoration/Global/checkpoints/detection/FT_Epoch_latest.pt'\"**",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-21T09:40:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 294,
+      "title": "Global and Face_Enhancement weights: Public access is not permitted on this storage account.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-03-26T03:49:10Z",
+      "closed_at": "2024-03-26T04:01:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 293,
+      "title": "Dlib dir",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-19T09:13:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 292,
+      "title": "GUI warns it has gone commercial and a licence will be required",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-16T10:17:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 291,
+      "title": "cast error - line 219 in align_warp_back_multiple_dlib.py, using Python 3.10.12",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-04T21:22:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 290,
+      "title": "IndexError: list index out of range (model on replicate.com)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-30T15:18:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 289,
+      "title": "No errors, but output images are blank/white",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-18T02:22:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 288,
+      "title": "Updating Base Image and Data Download URL for Improved Docker Operations",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-10-26T08:06:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 287,
+      "title": "Update more convenience base image and data download URL in Dockerfile",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-23T06:44:59Z",
+      "closed_at": "2023-10-26T07:56:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 286,
+      "title": "How can I use the GPU on the macbook(m1) ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-21T14:41:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 285,
+      "title": "Update base image and data download URL in Dockerfile",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-11T06:22:32Z",
+      "closed_at": "2023-10-23T06:46:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 284,
+      "title": "refined dockerfile",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-10T10:40:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 283,
+      "title": "Add default gpu argument to run without error",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-10-05T20:00:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 282,
+      "title": "Deprecated dependencies detected",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-28T14:37:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 281,
+      "title": ": unrecognized arguments",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-23T13:48:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 280,
+      "title": "Out of memory error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-10T13:28:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 279,
+      "title": "Not working",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-28T22:31:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 278,
+      "title": "Not working (conda with env)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-08-28T22:29:19Z",
+      "closed_at": "2023-08-30T22:19:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 277,
+      "title": "尝试从google.protobuf.internal模块导入名为'builder'的子模块时出现了问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-15T04:25:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 276,
+      "title": "很多很多问题，应该是没有再维护了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-09T15:33:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 275,
+      "title": "how can I use my own model",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-07T08:18:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 274,
+      "title": "fix(sec): upgrade torch to 1.13.1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-06-07T04:43:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 273,
+      "title": "代码里好多错误，pix2pixHD_model_DA.py里面的netE是什么了？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-11T06:37:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 272,
+      "title": "MemoryError",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-20T04:58:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 271,
+      "title": "Why do I get this error when I add my own photo",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-15T09:23:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 270,
+      "title": "this project still available？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-13T07:51:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 269,
+      "title": "Fix Python dependency API risk issue",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-03-30T13:55:15Z",
+      "closed_at": "2025-09-11T21:00:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 268,
+      "title": "dataset information and details of training and hyperparameter and number of epoch ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-28T19:50:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 267,
+      "title": "i am not able to run code for installation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-23T09:08:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 266,
+      "title": "What happened? I ran it again but the result is not correct?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-03-22T12:54:34Z",
+      "closed_at": "2023-03-29T11:25:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 265,
+      "title": "ModuleNotFoundError: No module named 'tensorboardX'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-03-22T02:02:10Z",
+      "closed_at": "2023-03-30T06:13:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 264,
+      "title": "manifest for nvidia/cuda:11.1-base-ubuntu20.04 not found: manifest unknown: manifest unknown",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-03-22T00:14:06Z",
+      "closed_at": "2023-03-30T06:14:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 263,
+      "title": "RuntimeError",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-18T03:45:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 262,
+      "title": "'utf-8' codec can't decode byte 0x99 in position 11: invalid start byte",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-16T05:30:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 261,
+      "title": "Face enhancement erroring result",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-14T01:18:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 260,
+      "title": "Project dependencies may have API risk issues",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-12T07:18:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 259,
+      "title": "CUDA out of memory. Tried to allocate 171.24 GiB",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-08T08:54:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 258,
+      "title": "For those who use the google colab, need to adjust the codes a bit",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-07T21:31:44Z",
+      "closed_at": "2023-02-07T21:59:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 257,
+      "title": "error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-04T15:57:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 256,
+      "title": "Resizing algo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-02-01T08:58:25Z",
+      "closed_at": "2023-02-01T08:59:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 255,
+      "title": "The results folder is empty after the run is complete.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-29T13:20:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 253,
+      "title": "Skip a.png due to an error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-12T11:41:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 252,
+      "title": "Error in Downloading Checkpoint for Face Enhancement ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-28T04:00:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 251,
+      "title": "Can you share the collected real old photos?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-03T07:56:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 250,
+      "title": "ModuleNotFoundError: No module named 'torch'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-03T04:47:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 249,
+      "title": "How does this project \"generate scratches\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-21T07:40:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 248,
+      "title": "Missing additional download",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-09T21:03:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 247,
+      "title": "New GUI, fixed argparse error in run.py and More.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-22T21:13:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 246,
+      "title": "Base bugfix",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-10-06T21:45:28Z",
+      "closed_at": "2022-10-06T21:45:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 245,
+      "title": "cannot execute ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-30T13:09:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 244,
+      "title": "Upgrade to Cog version 0.1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-09-28T22:58:52Z",
+      "closed_at": "2024-12-30T15:41:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 243,
+      "title": "Running locally almost halts the computer",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-25T21:29:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 242,
+      "title": "Running the model with --with-scratch but without --HR makes it try and allocate 470GB per photo",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-09-11T19:28:24Z",
+      "closed_at": "2022-09-11T20:36:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 241,
+      "title": "AttributeError: module 'torch._C' has no attribute '_cuda_setDevice'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-25T22:51:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 240,
+      "title": "ImportError: dlopen: cannot load any more object with static TLS",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-08-15T03:15:47Z",
+      "closed_at": "2022-08-15T03:49:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 239,
+      "title": "builder windows",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-07-21T11:54:14Z",
+      "closed_at": "2022-07-23T06:47:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 238,
+      "title": "Don't know how to train VAE_B_scratch,can't find ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-06-28T09:11:55Z",
+      "closed_at": "2022-11-08T01:23:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 237,
+      "title": "NameError: name 'GlobalGenerator_v2' is not defined",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-06-18T08:35:12Z",
+      "closed_at": "2022-06-22T01:05:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 236,
+      "title": "VanceAI Photo Restorer ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-17T04:07:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 235,
+      "title": "Create VanceAI Photo Restorer",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-17T04:04:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 234,
+      "title": "Lots of errors",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-31T14:55:50Z",
+      "closed_at": "2022-07-23T06:47:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 233,
+      "title": "can not save models for mapping_train",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-27T11:49:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 232,
+      "title": "fix save model mapping",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-05-25T17:00:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 231,
+      "title": "Cannot cast ufunc 'multiply' output from dtype('float64') to dtype('uint8') with casting rule 'same_kind'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-22T12:57:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 230,
+      "title": "not enough memory by GUI",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-02T05:36:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 229,
+      "title": "Inference on CPP code",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-04-26T09:18:25Z",
+      "closed_at": "2022-07-23T06:49:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 228,
+      "title": "Traing the mapping with scratches",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-07T01:50:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 227,
+      "title": "GUI ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-03-26T13:26:01Z",
+      "closed_at": "2022-07-23T06:49:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 226,
+      "title": "fixed requirements, added matplotlib to the requirements.txt",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-23T10:36:40Z",
+      "closed_at": "2022-07-23T06:52:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 225,
+      "title": "module 'models.networks' has no attribute 'modify_commandline_options'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-17T01:41:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 224,
+      "title": "ModuleNotFoundError: No module named '_lzma'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-10T02:39:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 223,
+      "title": "at CentOS8 execute pip install -r requirements.txt  tip install dlib fail",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-09T11:45:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 222,
+      "title": "tkinter 8.5.9.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-24T12:35:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 221,
+      "title": "Hi",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-17T17:23:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 220,
+      "title": "List Index Out of Range",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-13T02:05:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 219,
+      "title": "cpu and location",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-12T05:02:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 218,
+      "title": "FileNotFoundError: [WinError 3] 系统找不到指定的路径。",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-01-09T01:22:47Z",
+      "closed_at": "2022-01-09T01:40:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 217,
+      "title": "Fix the the type cast error, issue #214",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-06T00:08:36Z",
+      "closed_at": "2026-03-12T14:52:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 216,
+      "title": "GUI.py error \"...can't open/read file: check file path/integrity..\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-02T15:50:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 215,
+      "title": "why the photo cut to only has face? like:",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-01T12:31:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 214,
+      "title": "Cannot cast ufunc 'multiply' output from dtype('float64') to dtype('uint8') with casting rule 'same_kind'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-31T20:03:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 213,
+      "title": "Global Restoration issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-28T22:13:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 212,
+      "title": "太拉垮了。。 动不动就超出大小。500多K的东西都处理不了。",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-12-28T16:00:55Z",
+      "closed_at": "2022-01-07T09:53:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 211,
+      "title": "how does it run witn option --GPU -1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-25T12:29:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 210,
+      "title": "The model runs independently, which can increase the speed！！",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-12-24T09:53:44Z",
+      "closed_at": "2022-02-25T11:01:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 209,
+      "title": "readme写的太混乱了，根本看不懂干了什么",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-12-21T12:16:25Z",
+      "closed_at": "2021-12-22T05:57:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 208,
+      "title": "cp: cannot stat 'Synchronized-BatchNorm-PyTorch/sync_batchnorm': No such file or directory",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-20T13:58:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 207,
+      "title": "The result not good as introduce",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-12-13T01:45:24Z",
+      "closed_at": "2023-11-12T09:46:46Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "zhangmozhe",
+      "contributions": 58
+    },
+    {
+      "login": "raywzy",
+      "contributions": 12
+    },
+    {
+      "login": "samiraguiar",
+      "contributions": 7
+    },
+    {
+      "login": "chenxwh",
+      "contributions": 6
+    },
+    {
+      "login": "Aayush-hub",
+      "contributions": 4
+    },
+    {
+      "login": "microsoftopensource",
+      "contributions": 4
+    },
+    {
+      "login": "LeetaoGoooo",
+      "contributions": 3
+    },
+    {
+      "login": "davvid",
+      "contributions": 2
+    },
+    {
+      "login": "hijak",
+      "contributions": 2
+    },
+    {
+      "login": "p1x31",
+      "contributions": 2
+    },
+    {
+      "login": "M-Ahadi",
+      "contributions": 1
+    },
+    {
+      "login": "codeandmedia",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v1.0",
+      "published_at": "2021-07-12T12:11:32Z"
+    }
+  ],
+  "collected_at": "2026-06-29T10:30:15.777327Z"
+}
