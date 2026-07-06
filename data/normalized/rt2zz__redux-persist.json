@@ -1,0 +1,1980 @@
+{
+  "full_name": "rt2zz/redux-persist",
+  "owner": "rt2zz",
+  "name": "redux-persist",
+  "url": "https://github.com/rt2zz/redux-persist",
+  "description": "persist and rehydrate a redux store",
+  "primary_language": "TypeScript",
+  "topics": [
+    "persistor",
+    "redux",
+    "redux-middleware",
+    "storage"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 12971,
+  "forks": 847,
+  "open_issues": 594,
+  "created_at": "2015-07-23T04:43:58Z",
+  "pushed_at": "2024-05-01T18:49:34Z",
+  "updated_at": "2026-07-05T00:55:52Z",
+  "commits": [
+    {
+      "sha": "d8b01a085e3679db43503a3858e8d4759d6f22fa",
+      "author_login": "ckalika",
+      "authored_at": "2021-11-22T18:28:13Z",
+      "message": "Merge pull request #1346 from Shrugsy/readme/duplicate-section"
+    },
+    {
+      "sha": "92dfdd0ad3b4e532455bf42aaef2a3cc0d97dc80",
+      "author_login": "Shrugsy",
+      "authored_at": "2021-10-24T01:11:37Z",
+      "message": "📝 Remove duplicate section of readme"
+    },
+    {
+      "sha": "57d1c6ccd37dd8dcfd30f6485e6b35baf5a8f51f",
+      "author_login": "ckalika",
+      "authored_at": "2021-10-17T10:20:53Z",
+      "message": "Merge branch 'smellman-dev-typescript'"
+    },
+    {
+      "sha": "2bff213c6be03ba094d0ca5851bf276729d390a7",
+      "author_login": "ckalika",
+      "authored_at": "2021-10-17T10:20:02Z",
+      "message": "Merge of Typescript Code"
+    },
+    {
+      "sha": "1d30165faf4e69d862a7388d82c0f99c5006cefe",
+      "author_login": "ckalika",
+      "authored_at": "2021-10-17T10:16:43Z",
+      "message": "Minor updates"
+    },
+    {
+      "sha": "26663aa0e3c0e98d56174fea6e3205a9c117e6a0",
+      "author_login": "ckalika",
+      "authored_at": "2021-10-13T21:59:37Z",
+      "message": "Merge pull request #1342 from futpib/patch-2"
+    },
+    {
+      "sha": "6234ac57fcf0f83240d182d28fa3ab2311d6cafc",
+      "author_login": "futpib",
+      "authored_at": "2021-10-13T11:58:13Z",
+      "message": "Update types.d.ts"
+    },
+    {
+      "sha": "5a697f5b4ed8c210f338a354bac05e1b5ad1ee8f",
+      "author_login": "ckalika",
+      "authored_at": "2021-09-27T18:50:37Z",
+      "message": "Merge pull request #1132 from machester4/patch-1"
+    },
+    {
+      "sha": "22bea055202a8d91476c6e510daf6d4e6626a6e2",
+      "author_login": "ckalika",
+      "authored_at": "2021-09-27T18:49:56Z",
+      "message": "Updated localForage Git URL"
+    },
+    {
+      "sha": "59cf852f3cee5ae5c18bbb4f3d15a67f92d8f883",
+      "author_login": "ckalika",
+      "authored_at": "2021-09-27T18:46:46Z",
+      "message": "Merge pull request #1231 from tab/patch-1"
+    },
+    {
+      "sha": "375814fc6ee9327780575eeaedca1bf4b9eaa505",
+      "author_login": "ckalika",
+      "authored_at": "2021-09-27T18:41:48Z",
+      "message": "Merge pull request #1338 from pinchez254/patch-1"
+    },
+    {
+      "sha": "fbd29fbc0089cedeec50261ae2465893fe694ca8",
+      "author_login": "ckalika",
+      "authored_at": "2021-09-22T17:55:13Z",
+      "message": "Update to README.md - New maintainer"
+    },
+    {
+      "sha": "ea85a4ca77032e9f13dfe9e19f0026d5d3174195",
+      "author_login": "pinchez254",
+      "authored_at": "2021-09-16T12:57:29Z",
+      "message": "refactor: update readme "
+    },
+    {
+      "sha": "95f00b93a9b5d78d722665ebf05843a055f70bfb",
+      "author_login": "smellman",
+      "authored_at": "2021-08-09T07:12:29Z",
+      "message": "fix AsyncStorage paths"
+    },
+    {
+      "sha": "e97fd3ff546292d3e2fbcb6b0a9fa1c117bbe8d9",
+      "author_login": "smellman",
+      "authored_at": "2021-08-09T05:58:27Z",
+      "message": "fix types path"
+    },
+    {
+      "sha": "d89737a063ddf8136ae6fb767ce68d8b77a6f1f9",
+      "author_login": "smellman",
+      "authored_at": "2021-08-09T05:52:08Z",
+      "message": "includes d.ts to es and lib directories"
+    },
+    {
+      "sha": "83ff13a7267ab9307d96c53251bfa25b62cbfa11",
+      "author_login": "smellman",
+      "authored_at": "2021-08-09T05:14:51Z",
+      "message": "fixes integration dir"
+    },
+    {
+      "sha": "e616ec8117f2ea73f2258bb2be8e9b01fe3beaeb",
+      "author_login": "smellman",
+      "authored_at": "2021-08-09T04:47:27Z",
+      "message": "import all modules"
+    },
+    {
+      "sha": "e8f37de2016d8a4ca4034fd03e5738dc3bf604ed",
+      "author_login": "smellman",
+      "authored_at": "2021-08-09T02:23:55Z",
+      "message": "rewrite build configuration"
+    },
+    {
+      "sha": "33cfbfbecea33582f54edbe80a2d60e687a044fe",
+      "author_login": "smellman",
+      "authored_at": "2021-08-08T15:59:33Z",
+      "message": "output only esmodule"
+    },
+    {
+      "sha": "238434ce33a8f6c510b64847aa911b22caff3593",
+      "author_login": "smellman",
+      "authored_at": "2021-08-08T15:29:09Z",
+      "message": "set globals"
+    },
+    {
+      "sha": "8cba1f603fe918e2409bc4f94479473e224282b8",
+      "author_login": "smellman",
+      "authored_at": "2021-08-08T15:16:15Z",
+      "message": "added replace and external 'react' in rollup"
+    },
+    {
+      "sha": "6785042ff5eafb783f5f4a28c89e539e7951414d",
+      "author_login": "smellman",
+      "authored_at": "2021-08-08T14:56:15Z",
+      "message": "includes all files using @rollup/plugin-multi-entry"
+    },
+    {
+      "sha": "92112de1e78cd57150d08d4d73d24b9ebc72e94f",
+      "author_login": "smellman",
+      "authored_at": "2021-08-08T14:16:35Z",
+      "message": "module system to amd"
+    },
+    {
+      "sha": "a63bbad8eca560fec7dafd203b5b8b1656bd6881",
+      "author_login": "smellman",
+      "authored_at": "2021-08-08T14:10:13Z",
+      "message": "d.ts to be one file"
+    },
+    {
+      "sha": "29188f8d97fe2dfc154ec9e87aa55f2cc9ec47f6",
+      "author_login": "smellman",
+      "authored_at": "2021-08-08T13:21:10Z",
+      "message": "fixes for AsyncStorage again"
+    },
+    {
+      "sha": "f665a0912418558f8c6bb5323154c65ffaf47878",
+      "author_login": "smellman",
+      "authored_at": "2021-08-08T13:10:23Z",
+      "message": "fixes for AsyncStorage"
+    },
+    {
+      "sha": "1286ff3ad19196e88636419cdbaafbf519d10ffa",
+      "author_login": "smellman",
+      "authored_at": "2021-08-08T07:50:42Z",
+      "message": "fixes failing test"
+    },
+    {
+      "sha": "537d82c054022680ac188a9f59f812e003bcc16e",
+      "author_login": "smellman",
+      "authored_at": "2021-08-08T07:36:08Z",
+      "message": "build all"
+    },
+    {
+      "sha": "98e0ac18c00812ad1b3d0200377f0cb72ac92ead",
+      "author_login": "smellman",
+      "authored_at": "2021-08-08T06:23:44Z",
+      "message": "exclude node_modules in tsconfig"
+    },
+    {
+      "sha": "8a679a687cbebaddc7927fb6f6284dffb5f8bccc",
+      "author_login": "smellman",
+      "authored_at": "2021-08-08T05:09:15Z",
+      "message": "remove cross-env, change premitter target to typescript"
+    },
+    {
+      "sha": "4333e57614b085173a063380378b364cd71eba96",
+      "author_login": "smellman",
+      "authored_at": "2021-08-08T05:03:03Z",
+      "message": "eslint fixes"
+    },
+    {
+      "sha": "9c0baee98749c2f3bb9cf1d7963a8fa70cd64755",
+      "author_login": "smellman",
+      "authored_at": "2021-08-08T04:52:10Z",
+      "message": "eslint fixes"
+    },
+    {
+      "sha": "9246750fc57bbb29cebcab4e600902f8b234d0f4",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T15:40:29Z",
+      "message": "eslint fixes"
+    },
+    {
+      "sha": "2e5df42c7adc44f3d8704c648c1483e07bef7270",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T15:10:08Z",
+      "message": "run eslint --fix"
+    },
+    {
+      "sha": "7e90f4a6f7ea9072b6bdc50480b745d6b4eeac50",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T15:09:09Z",
+      "message": "run eslint --fix"
+    },
+    {
+      "sha": "653dbae4bd4c301a5064466928d8cbd0b4dbbd0e",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T14:54:34Z",
+      "message": "remove types because typescript generate types, remove dtslint"
+    },
+    {
+      "sha": "8eb212794692414cb08361061f7c4f45e4e76314",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T14:45:44Z",
+      "message": "remove babel"
+    },
+    {
+      "sha": "8eb9ba5c86a85370d4c89e7563cbd884b16c744e",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T14:43:24Z",
+      "message": "enable to run eslint"
+    },
+    {
+      "sha": "c82e5c245043cf28ab5ffbf8ecb738331bc0ada7",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T14:37:07Z",
+      "message": "fixes typescript build errors"
+    },
+    {
+      "sha": "221a62fb23b86a8a25d878b7c4db42e3c82d4327",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T13:45:45Z",
+      "message": "refactoring, need wait 5000ms"
+    },
+    {
+      "sha": "78cf81c673920655be79e7e53af7d7cf3b35cc1e",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T13:14:43Z",
+      "message": "fix typo in github actions"
+    },
+    {
+      "sha": "b4f9f46cd7917b2378e047fc28f9d8cd9e702941",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T13:09:37Z",
+      "message": "remove travis, use github actions"
+    },
+    {
+      "sha": "951ed8f0ad4b1804bb85c1edc2d7ca95df711168",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T12:55:38Z",
+      "message": "WIP: fixes typescript errors"
+    },
+    {
+      "sha": "9730946c1d572ffa4b50972ea04da7e76f228a60",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T12:34:22Z",
+      "message": "WIP: fixes typescript errors"
+    },
+    {
+      "sha": "34227d28a97090cba804fa7e21e0d202c84e7d96",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T11:39:12Z",
+      "message": "fixes test code typescript errors"
+    },
+    {
+      "sha": "ad74287a1e3f78a79439d2038b9a7d3bcecb4516",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T11:33:16Z",
+      "message": "persistStore.spec.ts pass test"
+    },
+    {
+      "sha": "ab35931c6a32be14720b3e597243fc56e02236c7",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T11:14:03Z",
+      "message": "WIP: persistStore.spec.ts is working"
+    },
+    {
+      "sha": "435f9b455edb7d582fa34ab7b165b969de193ecb",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T11:03:44Z",
+      "message": "added ts-node and some types, remove storage-memory and re-implement it inside test/utils"
+    },
+    {
+      "sha": "28eb3d2085439363d46f2fcf84885e6a8a755f73",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T10:44:51Z",
+      "message": "remove flow"
+    },
+    {
+      "sha": "75ed1d66e31d3d6c7988210b9cdbed043e9b322b",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T10:18:38Z",
+      "message": "rename typescript in test codes, unused lodash, use AnyAction"
+    },
+    {
+      "sha": "4107075aabe1fc761c583801017457e56b5eb3cc",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T07:14:22Z",
+      "message": "rename typescript; rewrite typescript"
+    },
+    {
+      "sha": "9bf525b357555e3f5c6bbdbbc572b5a0831ae77e",
+      "author_login": "smellman",
+      "authored_at": "2021-08-07T02:22:55Z",
+      "message": "upgrade all packages, remove old configuration, disable uglify"
+    },
+    {
+      "sha": "baadccb0973e23dbe5be0ee66c523318cddf532e",
+      "author_login": "tab",
+      "authored_at": "2020-07-23T14:49:16Z",
+      "message": "Typo fix"
+    },
+    {
+      "sha": "b2a49bd6d5bd12ad756bafa007364863ad394375",
+      "author_login": "machester4",
+      "authored_at": "2019-12-11T13:18:54Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f56919ae54bc026ab0285172ef15e4b70b8c7ddd",
+      "author_login": "machester4",
+      "authored_at": "2019-12-11T13:14:23Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d7efde9115a0bd2d6a0309ac6fb1c018bf06dc30",
+      "author_login": null,
+      "authored_at": "2019-09-02T00:44:33Z",
+      "message": "(docs): add v6 migration instructions"
+    },
+    {
+      "sha": "06d69c8259c07ba8dfdad6f1713447fea79be2bb",
+      "author_login": null,
+      "authored_at": "2019-09-02T00:39:11Z",
+      "message": "6.0.0"
+    },
+    {
+      "sha": "b9547b638a4a70f55c148c5e2b81db31a9b34324",
+      "author_login": null,
+      "authored_at": "2019-09-02T00:38:12Z",
+      "message": "(deps): bump deps"
+    },
+    {
+      "sha": "75f753c424b61e8e802eb239c7c7b208f7e0683b",
+      "author_login": "joelshepherd",
+      "authored_at": "2019-09-02T00:26:21Z",
+      "message": "Adding write fail handler to typescript definition (#1062)"
+    },
+    {
+      "sha": "22d78c4c43eb980c13cbeef74b9f0478a6e4b6a6",
+      "author_login": "dejagersh",
+      "authored_at": "2019-09-02T00:25:17Z",
+      "message": "A few small typos (#1072)"
+    },
+    {
+      "sha": "fdb1dc37e071159fcbd8dc6b4088de0b8629d7da",
+      "author_login": null,
+      "authored_at": "2019-07-05T16:16:02Z",
+      "message": "6.0.0-pre2.1"
+    },
+    {
+      "sha": "9ed3b77915162a22068bd2145feb2f97a90db987",
+      "author_login": null,
+      "authored_at": "2019-07-05T16:14:52Z",
+      "message": "(types): fix constant types for ts"
+    },
+    {
+      "sha": "0e5862b72fbdf74bd329cc2879792497a44ac571",
+      "author_login": null,
+      "authored_at": "2019-07-05T16:09:19Z",
+      "message": "6.0.0-pre2.0"
+    },
+    {
+      "sha": "7bbf971d8505e87c43650b53383b730e5d15b4ae",
+      "author_login": "leoek",
+      "authored_at": "2019-07-05T16:05:26Z",
+      "message": "Add an option to delay the automatic persistence. (#986)"
+    },
+    {
+      "sha": "5a5f463dc2f4def8579f9f6d91c2e47a5ed7b888",
+      "author_login": "arbaaz",
+      "authored_at": "2019-07-05T16:02:20Z",
+      "message": "Update createPersistoid.js (#803)"
+    },
+    {
+      "sha": "4e4028328a0e8c19de8e6e369af54b7facc6bbe7",
+      "author_login": "nilbuild",
+      "authored_at": "2019-07-05T16:01:42Z",
+      "message": "Add expire redux-persist-expire transformer (#901)"
+    },
+    {
+      "sha": "6f4a81e786a0b064b4842f8fa26c703bfe1cf46c",
+      "author_login": "yanick",
+      "authored_at": "2019-07-05T16:00:53Z",
+      "message": "add link to redux-persist-pouchdb (#1055)"
+    },
+    {
+      "sha": "5ad36b8739b986a3cc2f8733db525996af937fe7",
+      "author_login": "jscinoz",
+      "authored_at": "2019-06-08T22:15:00Z",
+      "message": "fix(persistReducer): Ensure nested reducers can handle `PERSIST` too. Fixes #940 (#1048)"
+    },
+    {
+      "sha": "2cd1eca67b9bfb6370f469a0b194fd0991003ac0",
+      "author_login": null,
+      "authored_at": "2019-06-04T19:23:58Z",
+      "message": "6.0.0-pre2"
+    },
+    {
+      "sha": "f6f6d642fb3e3f32544189a336442726344f323a",
+      "author_login": null,
+      "authored_at": "2019-06-04T19:20:55Z",
+      "message": "(persistStore) remove unused import"
+    },
+    {
+      "sha": "c3841f2fc56adf30a87cd61f7d2315146048079e",
+      "author_login": "arseneyr",
+      "authored_at": "2019-06-04T19:19:09Z",
+      "message": "Fix serialize/deserialize config settings (#1037)"
+    },
+    {
+      "sha": "49ef43a24bf6d124cb268c5da901569ace57043e",
+      "author_login": "codebutler",
+      "authored_at": "2019-06-04T19:17:16Z",
+      "message": "Remove useBuiltins from babelrc (#1035)"
+    },
+    {
+      "sha": "89842d109a99ee0908c287ba806fc304b6153c7e",
+      "author_login": "vikrantnegi",
+      "authored_at": "2019-06-04T19:16:13Z",
+      "message": "Updated AsyncStorage import in README (#1041)"
+    },
+    {
+      "sha": "3ee7bf8980c713bf42e09197283ac23effa9297b",
+      "author_login": null,
+      "authored_at": "2019-05-07T21:10:30Z",
+      "message": "6.0.0-pre1"
+    },
+    {
+      "sha": "8f11862de8807e7e6b3e1d9044b171436cebe424",
+      "author_login": null,
+      "authored_at": "2019-05-07T21:08:39Z",
+      "message": "(deps): update rollup"
+    },
+    {
+      "sha": "b13a3909bec0d64901d5598d56252609fcdd3e0d",
+      "author_login": null,
+      "authored_at": "2019-05-07T21:02:14Z",
+      "message": "fix tests"
+    },
+    {
+      "sha": "7ea5cbe5b280ddd1ddd058a531c301c0fd1ef905",
+      "author_login": "tasos14",
+      "authored_at": "2019-05-07T19:30:52Z",
+      "message": "updated readme to include seamless-immutable transformer link (#855)"
+    },
+    {
+      "sha": "15cb3ff08d89675cbccad4fbaabd9c684973e492",
+      "author_login": "t73liu",
+      "authored_at": "2019-05-07T19:23:47Z",
+      "message": "Update README with redux-persist-expo-filesystem (#902)"
+    },
+    {
+      "sha": "3d2eff55d704376202165121e9a859be8c4aa3d2",
+      "author_login": "myrjola",
+      "authored_at": "2019-05-07T19:23:07Z",
+      "message": "(persistoid): Do no unnecessary writes with undefined values (#911)"
+    },
+    {
+      "sha": "4c2652792dbd5acfbae942c689eccfc608471065",
+      "author_login": "PepijnSenders",
+      "authored_at": "2019-05-07T19:21:37Z",
+      "message": "Misleading error message when initializing redux-persist server side. (#912)"
+    },
+    {
+      "sha": "cdf64f5a23ae345e69f42fa60eb73d9e55e03666",
+      "author_login": "jacquesdev",
+      "authored_at": "2019-05-07T19:19:04Z",
+      "message": "add prepare build step - to build from github (#1020)"
+    },
+    {
+      "sha": "47b57067f88daf0e617bc71ae43b59377efe16d7",
+      "author_login": "xkrsz",
+      "authored_at": "2019-05-07T19:18:40Z",
+      "message": "refactor(react): use finally instead of then and catch (#1022)"
+    },
+    {
+      "sha": "72a76137691415003970238d8e8a4f148d06c26b",
+      "author_login": null,
+      "authored_at": "2019-05-07T19:18:04Z",
+      "message": "[deps] update deps, babel 7, flow (#1031)"
+    },
+    {
+      "sha": "62fd1bb4367c06f1bf75b189721cb20dce54b16d",
+      "author_login": "piotr-cz",
+      "authored_at": "2019-05-07T17:23:29Z",
+      "message": "Fix typo in docblock (#1030)"
+    },
+    {
+      "sha": "f4eb4d22aeaa6aa783f26ff99a4ce63856c21a2f",
+      "author_login": "aguynamedben",
+      "authored_at": "2019-02-04T19:01:15Z",
+      "message": "Merge pull request #958 from scott1028/master"
+    },
+    {
+      "sha": "13a0b600b3145e0eb7b693401413326bfe8ae6a0",
+      "author_login": "scott1028",
+      "authored_at": "2019-01-28T13:27:43Z",
+      "message": "make deserialize/serialize of config consistent; optimize if-else statement for getStoredState.js & createPersistoid.js"
+    },
+    {
+      "sha": "523dcbcd8e3dd0410ecd2d5e0c42b2db46d0ad80",
+      "author_login": "aguynamedben",
+      "authored_at": "2019-01-26T01:04:12Z",
+      "message": "Merge pull request #962 from mattlubner/patch-1"
+    },
+    {
+      "sha": "ba593673efb95e6e97b8d44c2e4f93d7e0777f8f",
+      "author_login": "aguynamedben",
+      "authored_at": "2019-01-26T01:02:40Z",
+      "message": "Merge pull request #965 from jerolimov/patch-1"
+    },
+    {
+      "sha": "11ccb91907c9d9609b392ccd0f0aeba464c1ead4",
+      "author_login": "aguynamedben",
+      "authored_at": "2019-01-26T01:01:20Z",
+      "message": "Merge pull request #970 from kreba/kreba-readme-transforms"
+    },
+    {
+      "sha": "42d573cc133d8573596a0c951c19cd1682b9c005",
+      "author_login": "aguynamedben",
+      "authored_at": "2019-01-26T00:59:12Z",
+      "message": "Merge pull request #863 from mnapoli/patch-1"
+    },
+    {
+      "sha": "8a96ffcc0d13d39d1108bf4e6def62b028ee7d93",
+      "author_login": "aguynamedben",
+      "authored_at": "2019-01-26T00:56:26Z",
+      "message": "Merge pull request #974 from erksch/master"
+    },
+    {
+      "sha": "aaaf64aacc22f74969c41bc1e4fe69e051a642bd",
+      "author_login": "erksch",
+      "authored_at": "2019-01-23T16:52:37Z",
+      "message": "Add CHANGELOG entry"
+    },
+    {
+      "sha": "eccc3c61271142d2892a847533794a1e915a14f0",
+      "author_login": "erksch",
+      "authored_at": "2019-01-23T16:45:49Z",
+      "message": "Merge branch 'master' of https://github.com/rt2zz/redux-persist"
+    },
+    {
+      "sha": "5ef42cc981384ab661ffa6c89a29386682f0abe0",
+      "author_login": "aguynamedben",
+      "authored_at": "2019-01-23T16:13:37Z",
+      "message": "Merge pull request #954 from rt2zz/add-changelog"
+    },
+    {
+      "sha": "ee0749c7412f497343aaa66a344668cae42b879e",
+      "author_login": "erksch",
+      "authored_at": "2019-01-23T14:43:16Z",
+      "message": "Fix flow defaultProps in PersistGate"
+    },
+    {
+      "sha": "acee0d10a0a5910e33a7e88f371f55d3f14c697b",
+      "author_login": "aguynamedben",
+      "authored_at": "2019-01-19T00:44:32Z",
+      "message": "Merge pull request #961 from Ailrun/fix-npm-files"
+    },
+    {
+      "sha": "a01eda6f9a966aeaa54a2b208e6660ba7a859b24",
+      "author_login": "kreba",
+      "authored_at": "2019-01-17T10:36:20Z",
+      "message": "[docs] Add instructions for applying transforms"
+    },
+    {
+      "sha": "c6b9772d27d58b51a7e6bf027049e439da3b1df6",
+      "author_login": "christoph-jerolimov",
+      "authored_at": "2019-01-13T12:52:28Z",
+      "message": "Fix issue that also newState should not be changed"
+    },
+    {
+      "sha": "22ff3fb5ce39eebb28ef33507af6756550837a60",
+      "author_login": "mattlubner",
+      "authored_at": "2019-01-08T03:00:29Z",
+      "message": "Fix HMR example"
+    }
+  ],
+  "issues": [
+    {
+      "number": 1484,
+      "title": "Maximum call stack size exceeded in actuallyMutateSubscriptions when using persistReducer as a nested slice in a large RTK store with PersistGate",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-21T11:31:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1483,
+      "title": "Replace board.id.length < SHORT_ID_MAX_LENGTH by a helper function",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-03T21:24:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1482,
+      "title": "Build & Style: Dependencies and styling update",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-08-19T20:11:59Z",
+      "closed_at": "2025-08-19T20:12:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1481,
+      "title": "Implementing custom persistor",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-09T00:18:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1480,
+      "title": "Fix link to PersistConfig in README",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-04-28T14:12:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1479,
+      "title": "Opened a new fork of the project - Anyone is welcome to contribute",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-19T20:05:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1477,
+      "title": "UseEffect is not called on app relaunch (Initial render)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-23T12:29:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1476,
+      "title": "When should I add new migration to the state?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-09T10:55:42Z",
+      "closed_at": "2024-09-12T17:59:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1475,
+      "title": "We've run into the same problem with Android.  Has anyone had any luck addressing it?  Zero-ing to null-ing the timeout value hasn't worked.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-30T10:23:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1474,
+      "title": "navigate back button is freeze when using redux-persist in React Native",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-22T08:39:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1473,
+      "title": "TypeError: 0, _$$_REQUIRE(_dependencyMap[15], \"redux\").isAction is not a function (it is undefined)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-08T04:27:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1472,
+      "title": "Data sometimes not persisted in AsyncStorage on Android",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-07-03T14:59:47Z",
+      "closed_at": "2024-07-30T12:10:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1471,
+      "title": "Dead link for config object of persistReducer function.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-13T10:24:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1470,
+      "title": "Update link to config type definition",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-05-01T18:49:34Z",
+      "closed_at": "2026-05-29T16:22:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1469,
+      "title": "Redux persist getting cleared after persisting PatientsReducers",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-27T10:08:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1468,
+      "title": "storage.getItem is not a function (it is undefined) - RN 0.73.4",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-02-21T23:01:55Z",
+      "closed_at": "2024-06-18T22:05:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1467,
+      "title": "Option to disable storage creation error for dynamic stores",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-18T12:55:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1466,
+      "title": "Vitest - The slice reducer for key \"reducer name\" returned undefined during initialization",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-06T13:08:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1465,
+      "title": "Replace recommended storage engine for secure storage on react-native",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-02T12:25:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1464,
+      "title": "redux-persist failed to create sync storage. falling back to noop storage | Next js",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-27T15:33:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1463,
+      "title": "Move project to new repo?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-16T23:21:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1462,
+      "title": "Redux persist not working with RN 0.73",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-27T15:37:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1461,
+      "title": "data migration security and automatization",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-09T13:36:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1460,
+      "title": "state is null",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-09T11:18:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1459,
+      "title": "Support for Redux v5 and RTK v2",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-05T13:07:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1458,
+      "title": "Sets PersistGate bootstrapped state in component constructor.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-12-04T14:34:47Z",
+      "closed_at": "2023-12-04T16:53:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1457,
+      "title": "Clear Redux Persist Data on App uninstall in IOS React Native",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-20T09:37:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1456,
+      "title": "createStore() is old",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-12T07:57:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1455,
+      "title": "getting error: A non-serializable value was detected in an action",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-30T21:10:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1454,
+      "title": "Getting got unexpected undefined error while changing redux state",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-25T07:08:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1453,
+      "title": "Documentation for Migration is unnecessary complicated.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-22T13:25:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1452,
+      "title": "PersistGate in SSR applications rendering app twice when using React v18",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-16T12:04:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1451,
+      "title": "failed to preserved initial state value at rehydrate",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-07T08:03:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1450,
+      "title": "Persist not working after page reload or refresh",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-27T20:35:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1449,
+      "title": "Jest snapshot is always created as null in react native",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-24T06:34:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1448,
+      "title": "Importing PersistGate results in compilation error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-22T06:35:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1447,
+      "title": "Do you support persist bigint when serialize?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-16T17:50:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1446,
+      "title": "clarify docs on parameters of functions inside createTransform()",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-06-16T21:44:39Z",
+      "closed_at": "2025-11-02T21:41:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1445,
+      "title": "A non-serializable value was detected in the state 😥",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-06-02T11:23:26Z",
+      "closed_at": "2023-06-12T05:11:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1444,
+      "title": "added logs for debugging",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-05-30T11:07:16Z",
+      "closed_at": "2023-05-30T11:07:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1443,
+      "title": "Deserialize key missing in config types",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-29T20:56:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1442,
+      "title": "Problems with NextJS 13 : TypeError: Super expression must either be null or a function",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-17T17:17:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1441,
+      "title": "RangeError: Maximum call stack size exceeded",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-05-05T18:25:28Z",
+      "closed_at": "2023-05-10T15:00:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1440,
+      "title": "Is this project no longer being maintained?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-04-25T14:35:47Z",
+      "closed_at": "2023-04-26T01:14:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1439,
+      "title": "Problem with 'non-serializable value'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-16T09:46:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1438,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-04-15T11:45:21Z",
+      "closed_at": "2023-04-15T11:48:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1437,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-10T12:18:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1436,
+      "title": "Rendering a blank white screen",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-07T12:29:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1435,
+      "title": "Changing Local Storage With Inspector",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-03-24T10:16:26Z",
+      "closed_at": "2023-03-29T10:24:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1434,
+      "title": "Nested Persists issue : https://github.com/rt2zz/redux-persist#nested-persists",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-16T04:45:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1433,
+      "title": "Redux Persist renders a white screen instead of SplashScreen",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-14T21:39:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1432,
+      "title": "Using RTK Query along with Redux persist.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-03-14T13:13:16Z",
+      "closed_at": "2023-03-16T03:32:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1431,
+      "title": "Random timeout when hydrating secondary persisted reducer ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-20T16:22:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1430,
+      "title": "redux-presist not working with android",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-16T02:37:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1429,
+      "title": "feat: async migrations",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-22T11:59:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1428,
+      "title": "React-Native blacklist some keys from a single reducer not working with rtk",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-12T17:44:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1427,
+      "title": "redux-persist whitelist not working with rtk",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-10T12:57:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1426,
+      "title": "How to blacklist a nested property that is inside of an array?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-01-10T00:20:33Z",
+      "closed_at": "2023-01-12T15:42:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1425,
+      "title": "Bump json5 from 2.2.0 to 2.2.3",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-07T03:56:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1424,
+      "title": "Changes to the store are not applying",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-20T23:16:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1423,
+      "title": "Improve documentation on `createTransform()`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-16T13:45:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1422,
+      "title": "Fix broken link to config definition",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-12-16T09:45:00Z",
+      "closed_at": "2022-12-16T09:45:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1421,
+      "title": "Update Readme confing broken link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-16T08:31:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1420,
+      "title": "Is now this library maintained and are there any plans for the future:question:",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-01T16:03:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1419,
+      "title": "Wiki: Should this repository Wiki be editable by collaborators only?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-26T22:23:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1418,
+      "title": "[Feature Request]: Auto merge deeper than level 2",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-14T21:49:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1417,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-09T12:15:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1416,
+      "title": "How to purge only some data",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-27T13:57:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1415,
+      "title": "sap-term-changes: Rename black/white according to SAP",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-25T19:08:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1414,
+      "title": "Problem with purging persistor in 1 place but not another.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-10-19T11:16:51Z",
+      "closed_at": "2023-10-11T15:27:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1413,
+      "title": "Uncaught TypeError: Cannot read properties of null (reading 'useContext') | persistStore | React 18",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-10T17:16:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1412,
+      "title": "Are there any active mantainers here?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-05T23:50:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1411,
+      "title": "persistReducer only works for very small sized data",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-03T11:10:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1410,
+      "title": "redux toolkit createAsyncThunk response not persisted",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-20T09:13:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1409,
+      "title": "Redux persist giving previous state response or initial state response even after providing proper details",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-15T12:57:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1408,
+      "title": "Ineffective re-saving of the same data",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-30T15:49:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1407,
+      "title": "Redux Persist not working with RTK",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-26T05:35:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1406,
+      "title": "Blank White Screen After Adding Persist - Used with Redux Toolkit Query (React Native)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-22T07:08:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1405,
+      "title": "Unexpected key found in previous state: rehydration merges incorrect state",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-08-17T14:03:07Z",
+      "closed_at": "2022-08-17T15:26:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1404,
+      "title": "The way to remove single key from localstorage",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-16T09:03:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1403,
+      "title": "feat: resync state",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-08-16T05:03:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1402,
+      "title": "Change from AsyncStorage to react-native-mmkv-storage ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-10T14:39:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1401,
+      "title": "[Typescript suggestion] Stricter type checking for persist config",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-26T15:32:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1400,
+      "title": "[Typescript BUG] _persist is missing in type State but required in PersistPartial",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-26T13:39:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1399,
+      "title": "'PersistGate' cannot be used as a JSX Component ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-25T20:32:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1398,
+      "title": "Bump terser from 5.7.1 to 5.14.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-07-20T11:01:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1397,
+      "title": "Persistoid crashes in react-native testing library",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-19T06:54:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1396,
+      "title": "Redux-persis",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-17T18:08:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1395,
+      "title": "fix markdown list item",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-07-05T12:52:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1394,
+      "title": "Transformer Errors Not Being Logged",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-29T04:52:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1393,
+      "title": "redux persist actions reset to default data after the page reload.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-06-24T09:12:01Z",
+      "closed_at": "2022-06-24T11:32:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1392,
+      "title": "Unable to execute RootStaga with Redux Persist.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-23T07:05:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1391,
+      "title": "Readme update - nested configs alternative",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-22T15:35:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1390,
+      "title": "Update Link in README.md",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-10T02:46:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1389,
+      "title": "LocalStorage.clear() does not clear my persist State in LocalStorage",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-05T17:26:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1388,
+      "title": "Fix throttle behavior to write all changes at once",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-03T14:08:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1387,
+      "title": "REHYDRATE is dispatched after reducer is injected",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-02T15:49:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1386,
+      "title": "getting 'suspended while responding to synchronous input' error with react18 while lazy loading",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-22T03:38:13Z",
+      "closed_at": "2022-05-23T16:18:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1385,
+      "title": "What if flush called after pause?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-18T17:49:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1384,
+      "title": "createMigrate not triggered",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-12T11:00:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "smellman",
+      "contributions": 40
+    },
+    {
+      "login": "rt2zz",
+      "contributions": 22
+    },
+    {
+      "login": "aguynamedben",
+      "contributions": 17
+    },
+    {
+      "login": "marvinhagemeister",
+      "contributions": 10
+    },
+    {
+      "login": "Andarist",
+      "contributions": 10
+    },
+    {
+      "login": "ckalika",
+      "contributions": 10
+    },
+    {
+      "login": "greenkeeperio-bot",
+      "contributions": 8
+    },
+    {
+      "login": "LKay",
+      "contributions": 4
+    },
+    {
+      "login": "rufman",
+      "contributions": 4
+    },
+    {
+      "login": "Klathmon",
+      "contributions": 3
+    },
+    {
+      "login": "erksch",
+      "contributions": 3
+    },
+    {
+      "login": "af",
+      "contributions": 3
+    },
+    {
+      "login": "Cretezy",
+      "contributions": 2
+    },
+    {
+      "login": "scott1028",
+      "contributions": 2
+    },
+    {
+      "login": "brownbl1",
+      "contributions": 2
+    },
+    {
+      "login": "stevemao",
+      "contributions": 2
+    },
+    {
+      "login": "rodrigoelp",
+      "contributions": 2
+    },
+    {
+      "login": "piotr-cz",
+      "contributions": 2
+    },
+    {
+      "login": "wachunei",
+      "contributions": 2
+    },
+    {
+      "login": "morlay",
+      "contributions": 2
+    },
+    {
+      "login": "zalmoxisus",
+      "contributions": 2
+    },
+    {
+      "login": "machester4",
+      "contributions": 2
+    },
+    {
+      "login": "thenewt15",
+      "contributions": 2
+    },
+    {
+      "login": "levsero",
+      "contributions": 2
+    },
+    {
+      "login": "Ailrun",
+      "contributions": 2
+    },
+    {
+      "login": "cuijiemmx",
+      "contributions": 2
+    },
+    {
+      "login": "ninjacarr",
+      "contributions": 2
+    },
+    {
+      "login": "unindented",
+      "contributions": 2
+    },
+    {
+      "login": "cbayram",
+      "contributions": 2
+    },
+    {
+      "login": "robwalkerco",
+      "contributions": 1
+    },
+    {
+      "login": "openscript",
+      "contributions": 1
+    },
+    {
+      "login": "rkurbatov",
+      "contributions": 1
+    },
+    {
+      "login": "ssorallen",
+      "contributions": 1
+    },
+    {
+      "login": "iroy2000",
+      "contributions": 1
+    },
+    {
+      "login": "sebcode",
+      "contributions": 1
+    },
+    {
+      "login": "shayc",
+      "contributions": 1
+    },
+    {
+      "login": "stevenjob",
+      "contributions": 1
+    },
+    {
+      "login": "sscaff1",
+      "contributions": 1
+    },
+    {
+      "login": "stevenyap",
+      "contributions": 1
+    },
+    {
+      "login": "sghosh968",
+      "contributions": 1
+    },
+    {
+      "login": "raymondsze",
+      "contributions": 1
+    },
+    {
+      "login": "TalAter",
+      "contributions": 1
+    },
+    {
+      "login": "raunofreiberg",
+      "contributions": 1
+    },
+    {
+      "login": "raphaeleidus",
+      "contributions": 1
+    },
+    {
+      "login": "kreba",
+      "contributions": 1
+    },
+    {
+      "login": "rafaelkallis",
+      "contributions": 1
+    },
+    {
+      "login": "psperber",
+      "contributions": 1
+    },
+    {
+      "login": "philraj",
+      "contributions": 1
+    },
+    {
+      "login": "pinchez254",
+      "contributions": 1
+    },
+    {
+      "login": "PepijnSenders",
+      "contributions": 1
+    },
+    {
+      "login": "pocesar",
+      "contributions": 1
+    },
+    {
+      "login": "PaitoAnderson",
+      "contributions": 1
+    },
+    {
+      "login": "orlando",
+      "contributions": 1
+    },
+    {
+      "login": "osdiab",
+      "contributions": 1
+    },
+    {
+      "login": "abersager",
+      "contributions": 1
+    },
+    {
+      "login": "tab",
+      "contributions": 1
+    },
+    {
+      "login": "ratson",
+      "contributions": 1
+    },
+    {
+      "login": "nhducit",
+      "contributions": 1
+    },
+    {
+      "login": "murraybauer",
+      "contributions": 1
+    },
+    {
+      "login": "matttti",
+      "contributions": 1
+    },
+    {
+      "login": "igrayson",
+      "contributions": 1
+    },
+    {
+      "login": "goodhyun",
+      "contributions": 1
+    },
+    {
+      "login": "futpib",
+      "contributions": 1
+    },
+    {
+      "login": "devfive",
+      "contributions": 1
+    },
+    {
+      "login": "atlanteh",
+      "contributions": 1
+    },
+    {
+      "login": "asaarnak",
+      "contributions": 1
+    },
+    {
+      "login": "arseneyr",
+      "contributions": 1
+    },
+    {
+      "login": "papa-zakari",
+      "contributions": 1
+    },
+    {
+      "login": "yanick",
+      "contributions": 1
+    },
+    {
+      "login": "zhuangya",
+      "contributions": 1
+    },
+    {
+      "login": "willmcclellan",
+      "contributions": 1
+    },
+    {
+      "login": "wvteijlingen",
+      "contributions": 1
+    },
+    {
+      "login": "rgripper",
+      "contributions": 1
+    },
+    {
+      "login": "vikrantnegi",
+      "contributions": 1
+    },
+    {
+      "login": "ucarion",
+      "contributions": 1
+    },
+    {
+      "login": "baransu",
+      "contributions": 1
+    },
+    {
+      "login": "timwangdev",
+      "contributions": 1
+    },
+    {
+      "login": "TimBroddin",
+      "contributions": 1
+    },
+    {
+      "login": "blaues0cke",
+      "contributions": 1
+    },
+    {
+      "login": "tasos14",
+      "contributions": 1
+    },
+    {
+      "login": "t73liu",
+      "contributions": 1
+    },
+    {
+      "login": "robonaut",
+      "contributions": 1
+    },
+    {
+      "login": "IanVS",
+      "contributions": 1
+    },
+    {
+      "login": "hongbo-miao",
+      "contributions": 1
+    },
+    {
+      "login": "HaNdTriX",
+      "contributions": 1
+    },
+    {
+      "login": "doxxx",
+      "contributions": 1
+    },
+    {
+      "login": "geriux",
+      "contributions": 1
+    },
+    {
+      "login": "gasp",
+      "contributions": 1
+    },
+    {
+      "login": "actra-gschuster",
+      "contributions": 1
+    },
+    {
+      "login": "GabrielDelepine",
+      "contributions": 1
+    },
+    {
+      "login": "gabceb",
+      "contributions": 1
+    },
+    {
+      "login": "fkrauthan-hyperwallet",
+      "contributions": 1
+    },
+    {
+      "login": "fregante",
+      "contributions": 1
+    },
+    {
+      "login": "codebutler",
+      "contributions": 1
+    },
+    {
+      "login": "reblws",
+      "contributions": 1
+    },
+    {
+      "login": "edy",
+      "contributions": 1
+    },
+    {
+      "login": "dougkeen",
+      "contributions": 1
+    },
+    {
+      "login": "domlazic",
+      "contributions": 1
+    },
+    {
+      "login": "zarv1k",
+      "contributions": 1
+    },
+    {
+      "login": "hinok",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v6.0.0",
+      "published_at": "2019-09-02T00:41:59Z"
+    },
+    {
+      "tag": "v6.0.0-pre2.0",
+      "published_at": "2019-07-05T16:10:00Z"
+    },
+    {
+      "tag": "v6.0.0-pre1",
+      "published_at": "2019-05-07T21:16:14Z"
+    },
+    {
+      "tag": "v5.7.0",
+      "published_at": "2018-02-10T08:50:16Z"
+    },
+    {
+      "tag": "v5.6.5",
+      "published_at": "2018-02-01T08:08:30Z"
+    },
+    {
+      "tag": "v5.4.0",
+      "published_at": "2017-11-19T22:08:56Z"
+    },
+    {
+      "tag": "v4.6.0",
+      "published_at": "2017-04-02T19:15:53Z"
+    },
+    {
+      "tag": "v4.0.0",
+      "published_at": "2017-01-20T08:17:54Z"
+    },
+    {
+      "tag": "v3.0.0",
+      "published_at": "2016-05-05T06:15:25Z"
+    },
+    {
+      "tag": "v1.5.3",
+      "published_at": "2016-02-12T23:44:07Z"
+    },
+    {
+      "tag": "v1.2.0",
+      "published_at": "2015-10-24T06:22:25Z"
+    },
+    {
+      "tag": "v1.1.0",
+      "published_at": "2015-10-21T20:39:19Z"
+    }
+  ],
+  "collected_at": "2026-07-06T10:04:17.159553Z"
+}

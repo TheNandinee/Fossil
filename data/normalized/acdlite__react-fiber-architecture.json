@@ -1,0 +1,692 @@
+{
+  "full_name": "acdlite/react-fiber-architecture",
+  "owner": "acdlite",
+  "name": "react-fiber-architecture",
+  "url": "https://github.com/acdlite/react-fiber-architecture",
+  "description": "A description of React's new core algorithm, React Fiber",
+  "primary_language": null,
+  "topics": [],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 12969,
+  "forks": 751,
+  "open_issues": 44,
+  "created_at": "2016-07-19T01:15:34Z",
+  "pushed_at": "2024-07-02T17:40:28Z",
+  "updated_at": "2026-07-05T16:21:52Z",
+  "commits": [
+    {
+      "sha": "9eaf43e490ac57a4113be2f5069e8071224a2b56",
+      "author_login": "acdlite",
+      "authored_at": "2016-10-18T22:37:28Z",
+      "message": "Merge pull request #7 from wuct/master"
+    },
+    {
+      "sha": "c5f0b18de6f82f3883b04bc3ba2230aa7fbf9733",
+      "author_login": "wuct",
+      "authored_at": "2016-10-18T12:36:00Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "06128b857f3e513cf478aba0131f00c95a45ab63",
+      "author_login": "acdlite",
+      "authored_at": "2016-08-18T20:26:47Z",
+      "message": "Merge pull request #6 from lukaswelinder/master"
+    },
+    {
+      "sha": "252d3a580ecf048b32e6b9496ba075ffc9ba78a7",
+      "author_login": "lukaswelinder",
+      "authored_at": "2016-08-18T16:27:17Z",
+      "message": "[fix] minor gramatical/syntax error"
+    },
+    {
+      "sha": "efbf8936293f7cc4e8a30f475ffd01087d4d974c",
+      "author_login": "acdlite",
+      "authored_at": "2016-08-06T16:10:59Z",
+      "message": "Merge pull request #4 from Nickman87/patch-1"
+    },
+    {
+      "sha": "252a019be35b741da9e30ad3fb9eccdea6d44d75",
+      "author_login": "Nickman87",
+      "authored_at": "2016-08-05T06:43:53Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ed5e8ca12f74aecf16386342a7a8b6a8ab8bc844",
+      "author_login": "acdlite",
+      "authored_at": "2016-07-22T05:21:47Z",
+      "message": "Merge pull request #3 from git-richard/patch-1"
+    },
+    {
+      "sha": "42215c2baf4c58f93b206c17dd799d94332730ed",
+      "author_login": "git-richard",
+      "authored_at": "2016-07-22T05:18:20Z",
+      "message": "Add link for tail-called function."
+    },
+    {
+      "sha": "c947088e4238ae8d7d6d4899cc07567d924bcc97",
+      "author_login": "acdlite",
+      "authored_at": "2016-07-20T16:41:08Z",
+      "message": "Merge pull request #2 from megapctr/patch-1"
+    },
+    {
+      "sha": "1ec28f424f6716e82172bb5e5be37d68a663298f",
+      "author_login": null,
+      "authored_at": "2016-07-20T06:39:24Z",
+      "message": "Typo"
+    },
+    {
+      "sha": "5da990ff51a2861dc4cd2721297b0908efceb7fc",
+      "author_login": "acdlite",
+      "authored_at": "2016-07-19T17:19:36Z",
+      "message": "Make it even clearer that Fiber is an ongoing project"
+    },
+    {
+      "sha": "bfb42940423086fb622a8b19d01062ec6fe77a50",
+      "author_login": "acdlite",
+      "authored_at": "2016-07-19T03:22:35Z",
+      "message": "Merge pull request #1 from maxdeviant/fix-typo"
+    },
+    {
+      "sha": "eb2c8c4556c8fe4663656253e306ed894762b906",
+      "author_login": "maxdeviant",
+      "authored_at": "2016-07-19T03:10:12Z",
+      "message": "Add missing 'to'"
+    },
+    {
+      "sha": "0af9a44deed95d9251617a165d7187cf29d9f278",
+      "author_login": "acdlite",
+      "authored_at": "2016-07-19T01:15:22Z",
+      "message": "Initial commit"
+    }
+  ],
+  "issues": [
+    {
+      "number": 63,
+      "title": "Update introduction of React Fiber in READMER",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-09T12:43:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "Is this repo still relevant or not?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-04T22:04:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "Update link to React Fiber implementation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-26T11:26:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "Update README with clearer introduction",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-06-14T14:00:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "Add explanation of how the React scheduler finds the next unit of work",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-04-26T06:20:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-03-28T12:07:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-02-23T13:18:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "fix: links of prerequisites articles",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-12-28T13:39:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-12-13T12:00:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 54,
+      "title": "Broken URL for resources",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-09T06:00:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "Fix links to legacy React docs",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-10-29T19:24:39Z",
+      "closed_at": "2024-10-29T20:20:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 52,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-09-13T13:18:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 51,
+      "title": "\"Reconciliation\" link says \"Page Not Found\"",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-21T07:12:50Z",
+      "closed_at": "2024-11-05T10:45:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 50,
+      "title": ".",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-07-11T04:38:21Z",
+      "closed_at": "2024-07-11T04:40:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 49,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-02T17:40:27Z",
+      "closed_at": "2024-07-02T17:41:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 48,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-06-29T01:43:05Z",
+      "closed_at": "2024-07-25T10:55:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 46,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-27T08:43:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 45,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-01-23T06:40:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 44,
+      "title": "hello",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-12-08T18:52:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 43,
+      "title": "React Reconciliation Article ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-25T06:13:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 42,
+      "title": "Update react fiber implementation link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-30T08:26:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 41,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-04T12:54:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 40,
+      "title": "Update fiber implementation links",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-08-15T08:25:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 39,
+      "title": "Fixed scheduler priority module link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-27T17:29:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "update link for the react priorities levels",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-02-15T22:00:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 37,
+      "title": "Link to ReactPriorityLevel is broken",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-14T19:40:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 36,
+      "title": "Confusion",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-28T10:21:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 35,
+      "title": "The Section \"pendingWorkPriority\" is out of date",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-27T14:43:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 34,
+      "title": "It is bad practice to use useEffect(async ()=> { await something } ):",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-07-28T14:16:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 33,
+      "title": "Update core reference to fibre priority",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-04-18T13:52:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "Broken link",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-18T13:49:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 31,
+      "title": "add chinese doc ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-02-23T03:30:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "change output field to stateNode",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-03-30T18:08:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "Fix broken link to react source",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-03-30T17:55:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-12-18T01:50:10Z",
+      "closed_at": "2025-02-18T07:04:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "Can't find further sections",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-09-04T09:01:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "waiting for future sections ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-16T02:30:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-07-10T00:46:37Z",
+      "closed_at": "2018-07-10T00:47:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "A Chinese translation 😄",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-06T06:55:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "PriorityLevel module no longer being used in Fiber",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-25T04:14:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 22,
+      "title": "Add Lin Clark's awesome talk",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-01-04T11:29:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 21,
+      "title": "added small note regarding rendering example",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-12-20T10:42:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 20,
+      "title": "Replace backticks with code tag",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-09-29T10:49:35Z",
+      "closed_at": "2023-04-24T07:57:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 19,
+      "title": "Best place to find information about customer renderers?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-04-23T16:40:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 18,
+      "title": "When will react-fiber be released officially?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-04-20T07:06:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17,
+      "title": "[created accidentally, sorry]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-04-18T20:29:14Z",
+      "closed_at": "2017-04-19T01:14:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 16,
+      "title": "Why the key and type are copied over directly?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-04-15T02:18:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "Add \"Why, What, and How of React Fiber\" talk",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-01-24T12:04:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "Add \"Where to go next\" section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-01-24T11:15:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13,
+      "title": "Why, What, and How of React Fiber",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-12-16T19:01:38Z",
+      "closed_at": "2017-01-11T17:38:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 12,
+      "title": "Fix outdated disclaimer ;-)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2016-12-05T07:15:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 11,
+      "title": "Fix formatting of host component section in README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-12-05T07:12:30Z",
+      "closed_at": "2025-02-27T12:45:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10,
+      "title": "Remove output field",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-11-29T15:46:43Z",
+      "closed_at": "2017-11-21T15:16:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 9,
+      "title": "Add links to browser APIs docs",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2016-10-30T21:24:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 8,
+      "title": "Why is the numerical value of \"pendingWorkPriority\" inversely proportional to its meaning?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-10-27T15:36:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 7,
+      "title": "Add link to a related video",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-18T12:37:25Z",
+      "closed_at": "2016-10-18T22:37:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 6,
+      "title": "[fix] minor gramatical/syntax error",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-18T16:29:00Z",
+      "closed_at": "2016-08-18T20:26:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 5,
+      "title": "Link to key PRs and meeting notes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-08-07T22:44:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-05T06:44:00Z",
+      "closed_at": "2016-08-06T16:10:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3,
+      "title": "Add link for tail-called function.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-07-22T05:18:35Z",
+      "closed_at": "2016-07-22T05:21:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2,
+      "title": "Fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-07-20T06:40:36Z",
+      "closed_at": "2016-07-20T16:41:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1,
+      "title": "Add missing 'to'",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-07-19T03:11:10Z",
+      "closed_at": "2016-07-19T03:22:35Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "acdlite",
+      "contributions": 8
+    },
+    {
+      "login": "wuct",
+      "contributions": 1
+    },
+    {
+      "login": "lukaswelinder",
+      "contributions": 1
+    },
+    {
+      "login": "maxdeviant",
+      "contributions": 1
+    },
+    {
+      "login": "Nickman87",
+      "contributions": 1
+    },
+    {
+      "login": "git-richard",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-07-06T10:04:18.709495Z"
+}

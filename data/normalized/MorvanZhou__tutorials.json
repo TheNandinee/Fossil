@@ -1,0 +1,1520 @@
+{
+  "full_name": "MorvanZhou/tutorials",
+  "owner": "MorvanZhou",
+  "name": "tutorials",
+  "url": "https://github.com/MorvanZhou/tutorials",
+  "description": "机器学习相关教程",
+  "primary_language": "Python",
+  "topics": [
+    "machine-learning",
+    "multiprocessing",
+    "neural-network",
+    "numpy",
+    "python",
+    "sklearn",
+    "tensorflow",
+    "theano",
+    "threading"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 12967,
+  "forks": 5681,
+  "open_issues": 17,
+  "created_at": "2016-05-29T13:29:44Z",
+  "pushed_at": "2020-12-22T22:02:58Z",
+  "updated_at": "2026-07-06T09:32:47Z",
+  "commits": [
+    {
+      "sha": "c36c8995951bc09890efd329635c2b74bd532610",
+      "author_login": "MorvanZhou",
+      "authored_at": "2020-10-31T03:07:08Z",
+      "message": "up"
+    },
+    {
+      "sha": "6c506565220d1d694d7d948d9b6191e483615b34",
+      "author_login": "MorvanZhou",
+      "authored_at": "2020-10-29T13:15:23Z",
+      "message": "update"
+    },
+    {
+      "sha": "19081c81655c25022044b7a7fdcbf620c01149e9",
+      "author_login": "MorvanZhou",
+      "authored_at": "2020-10-29T13:11:02Z",
+      "message": "up"
+    },
+    {
+      "sha": "37de6e0d0e9291085d0876971baefb7bab00ace2",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-03-09T05:25:07Z",
+      "message": "fix typo"
+    },
+    {
+      "sha": "003611340ac29d561e6547e781ddde6973f8f4a8",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-03-07T13:26:22Z",
+      "message": "fix typo"
+    },
+    {
+      "sha": "0475773beba9b047b441e3ad6c12a35d979e0878",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-12-30T05:50:45Z",
+      "message": "update"
+    },
+    {
+      "sha": "7213be1e5e2d990e0e3fb4e95bc5308c0c67e2de",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-12-29T06:13:12Z",
+      "message": "update"
+    },
+    {
+      "sha": "69215f32868d4391fe755b498f81f40316589aea",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-12-16T00:21:28Z",
+      "message": "update"
+    },
+    {
+      "sha": "38bbda844ca13ae8d96e0cf6a8bc3f22a0123af3",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-11-30T13:18:15Z",
+      "message": "update"
+    },
+    {
+      "sha": "567cc961055f3b661f09600956353dbe1f265c02",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-11-29T23:38:25Z",
+      "message": "update for new plt"
+    },
+    {
+      "sha": "4d6bdaabced6d115b1e073f501f76a9ec271a745",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-11-29T11:52:09Z",
+      "message": "update"
+    },
+    {
+      "sha": "b26c095e7003e7b753fc86ba16990623283a5f6f",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-11-29T10:17:04Z",
+      "message": "update"
+    },
+    {
+      "sha": "621d2890349109053190b7b25759826702583f79",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-11-25T00:26:47Z",
+      "message": "Merge pull request #60 from tidyjiang8/fix"
+    },
+    {
+      "sha": "2d5d28aac4fa5e766b0a4103c1ba6f8c78aef3cd",
+      "author_login": "chunhuajiang",
+      "authored_at": "2017-11-24T15:30:44Z",
+      "message": "clean up old code"
+    },
+    {
+      "sha": "3e018ce7c78bda95ed89f45b7500632bd0ddc8e5",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-11-04T00:43:06Z",
+      "message": "update"
+    },
+    {
+      "sha": "3105772337edcfd267e245fa8044ce5cd56fe9af",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-10-25T08:47:23Z",
+      "message": "fixed mistake"
+    },
+    {
+      "sha": "41a630acc1f356566c7516664a870104a3d5dd8f",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-10-23T10:18:10Z",
+      "message": "fixed mistake"
+    },
+    {
+      "sha": "44bf66436f2f09e876c765d0f5318cbdc8a505f9",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-10-20T03:48:04Z",
+      "message": "Merge pull request #57 from JNingWei/master"
+    },
+    {
+      "sha": "409edaac51d25b0ac41e5f43898343db43ed7064",
+      "author_login": "JNingWei",
+      "authored_at": "2017-10-19T13:42:55Z",
+      "message": "docs : Add Annotations"
+    },
+    {
+      "sha": "577cb2cee9ff843f2059516c8291a801c909da8a",
+      "author_login": "JNingWei",
+      "authored_at": "2017-10-19T13:36:19Z",
+      "message": "Resolve Error: \"AttributeError\""
+    },
+    {
+      "sha": "782322a762f599b9c38bf0729f9272af27888a38",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-10-17T03:22:30Z",
+      "message": "fixed mistake"
+    },
+    {
+      "sha": "1c59f1efb7d74145c6d2c21cbfee85acfd34d9ce",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-10-15T22:15:28Z",
+      "message": "fixed mistake"
+    },
+    {
+      "sha": "50e2352d71ec2db77d864dabd2989d7669e74acd",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-08-31T13:23:33Z",
+      "message": "Merge pull request #55 from xqtbox/master"
+    },
+    {
+      "sha": "bfb23d0f53af803875d7f09b6495f17b3d871dcd",
+      "author_login": "xqtbox",
+      "authored_at": "2017-08-31T12:46:55Z",
+      "message": "解决报错ValueError"
+    },
+    {
+      "sha": "f94533e5060a699680e7ddfc8d2cd3501b05ccc3",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-08-28T09:51:34Z",
+      "message": "update"
+    },
+    {
+      "sha": "d217e982e110bd2ad7359d8cd2eb58524e42d560",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-08-21T10:49:11Z",
+      "message": "fix bug"
+    },
+    {
+      "sha": "2b5c6d81c30f5cf5e62d44ddbd2921fd2be12ce4",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-08-13T04:23:57Z",
+      "message": "reduce test size"
+    },
+    {
+      "sha": "6ca0f21b670eec7a72fdf537c10626cd138ed3f1",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-08-09T05:09:49Z",
+      "message": "reduce test size"
+    },
+    {
+      "sha": "f81d0373fcdb0b551cc7e008df648e467c51dd1e",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-08-07T07:30:01Z",
+      "message": "update"
+    },
+    {
+      "sha": "9c284579e8873fe8626b9fe2608c674b646a23a6",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-06-19T00:58:16Z",
+      "message": "Merge pull request #48 from codemayq/master"
+    },
+    {
+      "sha": "b35d210f630c3bff4a6b48bb6f561a2305e6962f",
+      "author_login": "codemayq",
+      "authored_at": "2017-06-18T03:57:47Z",
+      "message": "修正了参数名不对应的问题"
+    },
+    {
+      "sha": "978457ca8b07dd9ba4fb97854f349b156cc30d99",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-06-10T05:05:24Z",
+      "message": "patreon"
+    },
+    {
+      "sha": "3c23b790d1aafd802a2dd0faa2ba1896ebc6b90f",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-06-05T13:30:43Z",
+      "message": "fix typo"
+    },
+    {
+      "sha": "7269d08a545251250800bf0c5011e66ad8df6eb5",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-13T01:53:19Z",
+      "message": "Merge pull request #45 from EmbraceLife/master"
+    },
+    {
+      "sha": "309b821b321dafd94aeba306a705a9bc1f62bc94",
+      "author_login": null,
+      "authored_at": "2017-05-13T00:46:57Z",
+      "message": "update Dense with units"
+    },
+    {
+      "sha": "73fea488242c6152aa8c8444ec10dad33467c68f",
+      "author_login": null,
+      "authored_at": "2017-05-13T00:27:44Z",
+      "message": "edit on the conflict messages and add and commit"
+    },
+    {
+      "sha": "c2ec968ba36f69612078de5966ca29516f38ce16",
+      "author_login": null,
+      "authored_at": "2017-05-13T00:26:07Z",
+      "message": "back 2 commits"
+    },
+    {
+      "sha": "edccbd2a097b1a8084b3849017fd863a13880568",
+      "author_login": null,
+      "authored_at": "2017-05-12T23:27:06Z",
+      "message": "from new_feature, merge kur_tutorials branch"
+    },
+    {
+      "sha": "1d496f4703564ee1bacdc287fc1ad2dc00d74846",
+      "author_login": null,
+      "authored_at": "2017-05-12T23:25:04Z",
+      "message": "added a line below current line"
+    },
+    {
+      "sha": "ebe77987979016717438ef7fb7e07b96cb40776b",
+      "author_login": null,
+      "authored_at": "2017-05-12T23:19:48Z",
+      "message": "add to the end of current line"
+    },
+    {
+      "sha": "28944a12d0c6c591b893913e84b1c805be7739d5",
+      "author_login": null,
+      "authored_at": "2017-05-12T23:18:17Z",
+      "message": "add a line above"
+    },
+    {
+      "sha": "e87279189c73e8229d3d2435a1eb52289478aa6a",
+      "author_login": null,
+      "authored_at": "2017-05-12T23:12:21Z",
+      "message": "update Dense"
+    },
+    {
+      "sha": "2072e89328a64a63b7763aeec4ce7c5a9156c6f1",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-12T03:05:45Z",
+      "message": "updated"
+    },
+    {
+      "sha": "14fdf375b1f6cdcba763b6178cdc4f48d3d95015",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-11T05:59:20Z",
+      "message": "updated"
+    },
+    {
+      "sha": "1044559145bc5c990928c4cd80a36475f10f6f69",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-10T02:23:58Z",
+      "message": "updated"
+    },
+    {
+      "sha": "3835e7f1fed5d2129f1095ef077618876015e919",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-08T02:34:14Z",
+      "message": "licence"
+    },
+    {
+      "sha": "097941062a7678b16cc986d448835ec6d57d8576",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-06T03:44:29Z",
+      "message": "note this tutorial has been moved to another repo"
+    },
+    {
+      "sha": "7147578ccff952c9afb36d569ed0279a907027ba",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-06T03:43:06Z",
+      "message": "note this tutorial has been moved to another repo"
+    },
+    {
+      "sha": "dccdaf185b6274517384b99b8d1a651f18fb5786",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-06T03:34:45Z",
+      "message": "note this tutorial has been moved to another repo"
+    },
+    {
+      "sha": "605e3a41307a2dd1c564e80b8483c1c5b4c73ad5",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-06T03:32:26Z",
+      "message": "note this tutorial has been moved to another repo"
+    },
+    {
+      "sha": "29d91607844a4609852b562036e86a4c37b16630",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-06T03:31:19Z",
+      "message": "note this tutorial has been moved to another repo"
+    },
+    {
+      "sha": "9ad44e29f3322429dd52aacbd6c0c09f2fcf45ad",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-06T03:28:51Z",
+      "message": "note pytorch move to other repo"
+    },
+    {
+      "sha": "ac8c1089dcda7a965bcf1e494b8651b70fb52d72",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-06T03:26:23Z",
+      "message": "note pytorch move to other repo"
+    },
+    {
+      "sha": "98c7a24350b2d52ae3591ba9731828b9147d6d73",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-06T03:26:07Z",
+      "message": "note pytorch move to other repo"
+    },
+    {
+      "sha": "ebd392cc0c66d84ed918c5ce589d86ed40a4b152",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-06T02:21:58Z",
+      "message": "note pytorch move to other repo"
+    },
+    {
+      "sha": "09c763433d19fe1a2492b2af61583f56d9d73c44",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-05T15:43:04Z",
+      "message": "remove pytorch"
+    },
+    {
+      "sha": "744c9ffa2c1df61fb5245b3983bf3f5095dd9c38",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-05T11:00:01Z",
+      "message": "fixed"
+    },
+    {
+      "sha": "1e21e8221242c13a0abc7111e2e2ae8e1e4f68fb",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-05T07:35:15Z",
+      "message": "fixed"
+    },
+    {
+      "sha": "d6c6571d13f527e5cdf9410425fbce08afcd5604",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-05T00:20:11Z",
+      "message": "edit"
+    },
+    {
+      "sha": "ebc32790232bfae158342028cc45e8d6a7f22514",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-05T00:18:14Z",
+      "message": "edit"
+    },
+    {
+      "sha": "56193304900119829866b1a7fec4e9e7cfd608cb",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-03T11:09:40Z",
+      "message": "edit"
+    },
+    {
+      "sha": "63ea4ae9c4afd9d035e7d3e58a28827a0ca531c3",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-03T07:04:54Z",
+      "message": "edit"
+    },
+    {
+      "sha": "2930a1652a5ab269238238ec72511e69508e9662",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-02T16:44:34Z",
+      "message": "edit"
+    },
+    {
+      "sha": "273a8588e4ff86e829306b502cf1d070bd403c21",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-02T16:43:29Z",
+      "message": "edit"
+    },
+    {
+      "sha": "df9edcecbaf1a5bb5660528cb2eecdab548c9e6f",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-02T11:42:34Z",
+      "message": "edit"
+    },
+    {
+      "sha": "d612cdf9fac64a91db33357b2ac512bcf6b14ac5",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-02T03:25:22Z",
+      "message": "edit"
+    },
+    {
+      "sha": "bc38254fa300f1fe06471a5d251ce6f6d6c73c36",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-02T03:24:52Z",
+      "message": "edit"
+    },
+    {
+      "sha": "f813e5dff854525cc0fdab1a9ed54fff3db54a6e",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-02T03:03:25Z",
+      "message": "edit"
+    },
+    {
+      "sha": "6e9d65e9ca7e2b1f6aeacacf414c6097f84c9b2f",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-02T00:52:34Z",
+      "message": "edit"
+    },
+    {
+      "sha": "fc164583312efb218d0676bab704d8ba6752cc33",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-02T00:41:47Z",
+      "message": "edit"
+    },
+    {
+      "sha": "31cc7cb25cd11cf2ba62839c3746385ae3f9446e",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-02T00:32:12Z",
+      "message": "edit"
+    },
+    {
+      "sha": "b60415109225174d2a230d578d2a6055e828fb54",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-01T12:01:23Z",
+      "message": "edit"
+    },
+    {
+      "sha": "b7de1a8e472211793331c29a68f032be318547b3",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-01T09:58:36Z",
+      "message": "edit"
+    },
+    {
+      "sha": "159132528075daf635a6ac5731fc279dfecc08d7",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-01T09:57:35Z",
+      "message": "edit"
+    },
+    {
+      "sha": "a4861fed0ce4c6fe818fa64eaffc498fafce8a67",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-01T09:51:36Z",
+      "message": "edit"
+    },
+    {
+      "sha": "bccf018356856f7884985f53d04fffed6878004d",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-01T09:50:47Z",
+      "message": "edit"
+    },
+    {
+      "sha": "612ec99bb363f6ade6e799317fb94f5615ab6f28",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-29T05:30:02Z",
+      "message": "edit"
+    },
+    {
+      "sha": "cb1e4ad792172cc712a30aee72b044269c364eda",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-29T03:46:46Z",
+      "message": "edit"
+    },
+    {
+      "sha": "195cff1499b5b142dce208c90d8b3d78d80342c8",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-29T03:35:47Z",
+      "message": "edit"
+    },
+    {
+      "sha": "b4c7e47120bb66871df76490fd55ec4cf2824e48",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-29T03:34:52Z",
+      "message": "edit"
+    },
+    {
+      "sha": "838e4d2f4b8c06baa2cb13eeb4113a61fd39406d",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-29T03:30:40Z",
+      "message": "edit"
+    },
+    {
+      "sha": "945935ff5d45e8ebcd85596dfd5fc3614bc75dc1",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-29T03:20:14Z",
+      "message": "edit"
+    },
+    {
+      "sha": "3e8fe84b6eae1b8b8685b3f09b5fc1bd7e09ea36",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-29T03:17:56Z",
+      "message": "edit"
+    },
+    {
+      "sha": "1b806df7656984b6eb1df37ab6321c68d2709468",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-29T03:15:17Z",
+      "message": "edit"
+    },
+    {
+      "sha": "19187156987fb57c0d4398cb95d42e6aa850ba4c",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-29T03:12:26Z",
+      "message": "edit"
+    },
+    {
+      "sha": "01b96270e6145007df55be93ec0d8c8c5e44fb24",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-29T03:06:02Z",
+      "message": "edit"
+    },
+    {
+      "sha": "734f4bdfffa954739cf13aaeb13a43a87ccacd37",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-29T03:04:47Z",
+      "message": "edit"
+    },
+    {
+      "sha": "8c02c64cef8cdbec045396eeb5fb36dcd7bbe6ef",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-29T02:58:02Z",
+      "message": "edit"
+    },
+    {
+      "sha": "30efa95a78d545a6b650ced8d646075b493bc0cb",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-28T16:05:01Z",
+      "message": "edit"
+    },
+    {
+      "sha": "6a36948d3f33e6d6b25c4ededc5e7add437500d7",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-28T15:57:54Z",
+      "message": "mnist data"
+    },
+    {
+      "sha": "55d74bda9055029e2520aa09d52caeaaad2e7974",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-28T15:56:49Z",
+      "message": "update torch read me"
+    },
+    {
+      "sha": "39cae414c64c6e0225354626c966bfa0fd38233d",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-28T15:55:31Z",
+      "message": "update torch read me"
+    },
+    {
+      "sha": "f2b9240ac48aef09f66f9059ec10b6422ab96b11",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-28T15:42:23Z",
+      "message": "update torch tutorial code"
+    },
+    {
+      "sha": "1879c68debe7420fda2582955156c8cfe4ff8dfe",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-27T00:27:18Z",
+      "message": "update code"
+    },
+    {
+      "sha": "63c21df11aa91a97939499a4d2456e0cd47cebff",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-26T14:39:02Z",
+      "message": "edit"
+    },
+    {
+      "sha": "3b34ef7c05838515002bd504ce710f421ac98295",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-26T14:37:09Z",
+      "message": "edit"
+    },
+    {
+      "sha": "191104a47f26383d5046bd7f86961cc150febeb8",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-26T11:31:32Z",
+      "message": "edit"
+    },
+    {
+      "sha": "6736c929b18f353ac5fc9e83e6697093262d208c",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-25T04:24:54Z",
+      "message": "edit"
+    },
+    {
+      "sha": "3a695a4a86ded1adf4415baf43761f1eba00ebec",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-19T02:16:20Z",
+      "message": "support"
+    },
+    {
+      "sha": "4634da894e9131b0b03f6744fc58b09d7bef684e",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-04-19T01:59:56Z",
+      "message": "support"
+    }
+  ],
+  "issues": [
+    {
+      "number": 97,
+      "title": "Xpath",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-04T20:15:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 96,
+      "title": "莫烦python tkinter",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-26T03:16:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 95,
+      "title": "第一次改",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-11-20T03:30:10Z",
+      "closed_at": "2025-12-12T07:56:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 94,
+      "title": "文档实践优化",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-17T01:22:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 93,
+      "title": "现在还跟新吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-18T06:50:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 91,
+      "title": "docs: fix simple typo, inital -> initial",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-12-22T22:02:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 90,
+      "title": "网站进不去了",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-05T09:20:44Z",
+      "closed_at": "2020-08-05T09:22:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 89,
+      "title": "4 5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-08T02:19:54Z",
+      "closed_at": "2020-07-09T08:29:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 88,
+      "title": "tensorflow 2.1.0 error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-05T03:05:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 87,
+      "title": "tensorflow 还支持另外一种batch normalization 的方法",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-24T03:44:56Z",
+      "closed_at": "2020-04-24T07:56:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 86,
+      "title": "Qw",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-23T04:44:54Z",
+      "closed_at": "2020-04-23T04:47:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "Is this your website? https://www.echenshe.com/class/tensorflow/",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-02-10T01:25:52Z",
+      "closed_at": "2020-02-10T01:45:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "update deprecated package and parameters",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-01-30T10:46:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "请问强化学习是怎么影响神经网络参数的",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-12-02T08:26:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 82,
+      "title": "求助一下  tensorflow是2.0.0的  报错train中没有GradientDescentOptimizer",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-10-04T05:28:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 81,
+      "title": "推荐增加一些简易的新算法",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-09-23T16:17:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "pandas values",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-08-07T03:45:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "激活函数",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-07-04T12:32:45Z",
+      "closed_at": "2019-07-04T12:38:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "建议",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-03-08T03:01:44Z",
+      "closed_at": "2019-03-08T03:03:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "在tensorflow中的dropout中修改建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-07T08:03:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "为什么我的没有画线",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-03-06T03:28:15Z",
+      "closed_at": "2020-11-08T04:57:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "Classification那一课",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-01-22T00:14:02Z",
+      "closed_at": "2019-01-22T00:16:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "您好，sk9_cross_validation2.py中的实例在python3.6.6中运行报错",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-12-25T14:02:34Z",
+      "closed_at": "2020-05-21T11:25:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "有没有读取自己的图像训练集的代码呀",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-10T05:17:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "Update 25_import.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-10T13:37:08Z",
+      "closed_at": "2018-10-11T01:51:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:777)5-classifier_example.py",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-18T05:06:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "tensorflowTUT/tf12_plot_result/full_code.py NameError: name 'time' is not defined",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-07-05T12:04:38Z",
+      "closed_at": "2018-07-05T12:07:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "lstm的batch_size要刚好被数据集整除么",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-12T03:29:59Z",
+      "closed_at": "2018-06-12T07:42:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "visualize cpu history",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-25T00:14:39Z",
+      "closed_at": "2018-05-25T08:31:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "module 'tkinter.messagebox' has no attribute 'asktrycancel'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-03T15:13:36Z",
+      "closed_at": "2018-05-04T02:10:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "LSTM：About data sequence in 7-RNN_Classifier_example.py 关于过程数据序列化问题 7-RNN_Classifier_example.py？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-27T15:31:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 65,
+      "title": "Doubt in the code of autoencoder.py file",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-24T10:48:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "跑RNN2的代码的时候有问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-04-14T16:12:11Z",
+      "closed_at": "2018-04-15T07:31:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": "如何解决 name 'prediction' is not defined",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-19T09:32:50Z",
+      "closed_at": "2018-03-19T09:34:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "10,000 should be X_test's shape, rather than Y's shape?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-08T07:36:41Z",
+      "closed_at": "2018-03-09T05:23:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "tensorflowTUT/tf23_BN/的代码里好像没用到滑动平均",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-07T12:43:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "clean up old code",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-11-24T15:29:24Z",
+      "closed_at": "2017-11-25T00:26:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "condtioal sentence seems unnecessary",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-11-17T07:03:27Z",
+      "closed_at": "2017-11-22T10:05:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "莫烦先生您好，请您帮帮我",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-28T07:56:53Z",
+      "closed_at": "2017-12-04T06:46:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "Fix a bug \"AttributeError\"; Add three annotations.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-19T13:50:50Z",
+      "closed_at": "2017-10-20T03:48:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "CNN example question",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-12T21:20:40Z",
+      "closed_at": "2017-10-12T23:39:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "解决报错ValueError",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-31T12:49:47Z",
+      "closed_at": "2017-08-31T13:23:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 54,
+      "title": "autoencoder ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-28T09:56:23Z",
+      "closed_at": "2017-09-02T07:11:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "unhashable type: 'list' from basic/35_set.py",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-20T07:09:46Z",
+      "closed_at": "2017-08-21T10:49:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 52,
+      "title": "tutorials/tensorflowTUT/tf18_CNN3/full_code.py 进行测试时内存占用过高",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-09T02:53:59Z",
+      "closed_at": "2017-08-09T05:07:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 51,
+      "title": "How to import other kind of data?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-07-27T10:01:45Z",
+      "closed_at": "2017-08-28T11:47:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 50,
+      "title": "modify the spelling mistake and improving format",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-07-17T01:31:17Z",
+      "closed_at": "2017-07-18T05:13:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 49,
+      "title": "How to use a continuous color as the color of a line?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-07-16T06:54:51Z",
+      "closed_at": "2017-07-18T05:15:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 48,
+      "title": "修正了参数名不对应的问题",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-06-18T04:00:07Z",
+      "closed_at": "2017-06-19T00:58:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 47,
+      "title": "拼写错误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-06-04T07:00:13Z",
+      "closed_at": "2017-06-05T13:30:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 46,
+      "title": "Update 16_concat.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-05-15T01:34:59Z",
+      "closed_at": "2017-07-18T05:11:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 45,
+      "title": "update Dense with units",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-05-13T01:33:10Z",
+      "closed_at": "2017-05-13T01:53:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 44,
+      "title": "kerasTUT 6-CNN tutorial needs update",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-05-12T01:03:40Z",
+      "closed_at": "2017-05-12T03:05:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 43,
+      "title": "little typo ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-05-10T02:11:46Z",
+      "closed_at": "2017-05-10T02:25:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 42,
+      "title": "InvalidArgumentError in  tutorials/tensorflowTUT/tf15_tensorboard/full_code.py",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-05-05T04:12:17Z",
+      "closed_at": "2017-05-18T08:55:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 41,
+      "title": "跑你的CNN程序时出现错误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-05-02T08:21:45Z",
+      "closed_at": "2017-05-03T05:44:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 40,
+      "title": "视频代码的相关数据",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-04-26T07:41:54Z",
+      "closed_at": "2017-05-18T08:55:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 39,
+      "title": "PolicyGradient 里面的动作数目 为啥也是离散化的？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-04-11T16:00:36Z",
+      "closed_at": "2017-04-28T16:01:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "保存模型问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-04-10T14:11:37Z",
+      "closed_at": "2017-04-11T11:30:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 37,
+      "title": "maybe wrong in A3C_RNN.py",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-04-05T06:33:10Z",
+      "closed_at": "2017-04-11T11:29:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 36,
+      "title": "A3C_v2 not work",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-03-29T09:48:41Z",
+      "closed_at": "2017-04-11T11:30:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 35,
+      "title": "save and restore",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-03-18T07:48:17Z",
+      "closed_at": "2017-03-20T13:38:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 34,
+      "title": "keras的cnn的demo运行训练结果没有变化",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-03-14T08:29:56Z",
+      "closed_at": "2017-03-20T13:38:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 33,
+      "title": "自编码器不能收敛？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-03-09T06:01:57Z",
+      "closed_at": "2017-03-22T06:25:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "莫烦老师 您好 ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-02-09T13:45:22Z",
+      "closed_at": "2017-04-11T11:31:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 31,
+      "title": "python2.7下怎么运行例程",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-02-05T04:58:23Z",
+      "closed_at": "2017-04-11T11:31:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "能否介绍一下在机器学习，尤其是keras或者TensorFlow 当中，参数的shape具体该如何设置？谢谢啦",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-02-03T10:29:11Z",
+      "closed_at": "2017-02-26T11:02:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "周神我想问个问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-01-13T03:10:40Z",
+      "closed_at": "2017-01-25T01:19:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "pip3 how to install tkinter !",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-01-12T12:06:49Z",
+      "closed_at": "2017-01-12T12:33:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "关于tensorflow 数据可视化 bug 关于  tf.train.SummaryWriter(\"/Users/taw/logs\", sess.graph) 报错 ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-01-04T08:16:17Z",
+      "closed_at": "2017-01-05T02:38:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "does not appear anything in graph tab in tensorboard",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-12-26T06:31:21Z",
+      "closed_at": "2016-12-26T08:10:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "initialize_all_variables is deprecated",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-11-29T12:45:17Z",
+      "closed_at": "2016-11-29T13:11:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "群主大大，那个keras里面第八个实验，如果我想进行一个点的预测怎么办？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-11-29T02:48:07Z",
+      "closed_at": "2016-12-30T04:29:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "Filters",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-11-28T19:16:17Z",
+      "closed_at": "2016-12-04T05:25:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 22,
+      "title": "Requests for additions to TensorFlow tutorials",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-11-24T12:44:27Z",
+      "closed_at": "2017-05-18T08:55:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 21,
+      "title": "keras attention CNNLSTM",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-11-22T02:25:22Z",
+      "closed_at": "2017-05-18T08:55:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 20,
+      "title": "can not get the graph ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-11-05T12:44:03Z",
+      "closed_at": "2016-11-11T16:51:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 19,
+      "title": "Deep undertanding",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-10-28T00:45:51Z",
+      "closed_at": "2016-12-30T04:29:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 18,
+      "title": "Update full_code.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-25T08:18:29Z",
+      "closed_at": "2016-10-25T08:29:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17,
+      "title": "Update full_code.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-25T08:18:27Z",
+      "closed_at": "2016-10-25T08:29:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 16,
+      "title": "Update full_code.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-25T08:18:18Z",
+      "closed_at": "2016-10-25T08:29:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "Update full_code.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-25T08:18:16Z",
+      "closed_at": "2016-10-25T08:29:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "Update full_code.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-25T08:18:13Z",
+      "closed_at": "2016-10-25T08:29:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13,
+      "title": "Update full_code.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-25T08:18:00Z",
+      "closed_at": "2016-10-25T08:29:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 12,
+      "title": "Update full_code.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-25T08:17:58Z",
+      "closed_at": "2016-10-25T08:29:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 11,
+      "title": "Update full_code.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-25T08:17:56Z",
+      "closed_at": "2016-10-25T08:29:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10,
+      "title": "Update full_code.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-25T08:17:45Z",
+      "closed_at": "2016-10-25T08:29:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 9,
+      "title": "Update full_code.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-25T08:17:43Z",
+      "closed_at": "2016-10-25T08:29:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 8,
+      "title": "Update full_code.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-25T08:17:41Z",
+      "closed_at": "2016-10-25T08:29:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 7,
+      "title": "Update tensorflow11_build_network.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-25T08:17:27Z",
+      "closed_at": "2016-10-25T08:29:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 6,
+      "title": "Update tensorflow12_plut_result.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-25T08:16:39Z",
+      "closed_at": "2016-10-25T08:29:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 5,
+      "title": "Update full_code.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-25T07:59:45Z",
+      "closed_at": "2016-10-25T08:24:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4,
+      "title": "CNN那期的google的那个视频的地址？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-10-14T02:26:24Z",
+      "closed_at": "2016-10-14T02:55:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3,
+      "title": "周大大，能录制一期关于分布式TENSORFLOW的搭建教程吗？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-10-10T06:07:36Z",
+      "closed_at": "2016-11-06T10:44:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2,
+      "title": "周大神有一个问题想请教你",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-10-08T13:34:44Z",
+      "closed_at": "2016-10-14T02:55:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1,
+      "title": "Why put train_sizes = 1 ?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-07-13T08:13:22Z",
+      "closed_at": "2016-10-14T02:55:39Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "MorvanZhou",
+      "contributions": 403
+    },
+    {
+      "login": "JNingWei",
+      "contributions": 2
+    },
+    {
+      "login": "chunhuajiang",
+      "contributions": 1
+    },
+    {
+      "login": "codemayq",
+      "contributions": 1
+    },
+    {
+      "login": "xqtbox",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-07-06T10:04:20.684934Z"
+}
