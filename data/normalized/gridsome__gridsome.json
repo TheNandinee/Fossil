@@ -1,0 +1,1933 @@
+{
+  "full_name": "gridsome/gridsome",
+  "owner": "gridsome",
+  "name": "gridsome",
+  "url": "https://github.com/gridsome/gridsome",
+  "description": "⚡️ The Jamstack framework for Vue.js",
+  "primary_language": "JavaScript",
+  "topics": [
+    "graphql",
+    "gridsome",
+    "jamstack",
+    "nodejs",
+    "static-site-generator",
+    "vue"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 8482,
+  "forks": 468,
+  "open_issues": 582,
+  "created_at": "2018-07-31T22:55:06Z",
+  "pushed_at": "2024-04-10T15:56:12Z",
+  "updated_at": "2026-07-05T16:41:26Z",
+  "commits": [
+    {
+      "sha": "e396e60ddb9435813dc56cc2d1f98c91c7d64367",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-09-22T16:11:45Z",
+      "message": "chore(test): exclude data uri in snapshots"
+    },
+    {
+      "sha": "d4a57910c86ae7f6f7e606e5f7aaf68bc4ef3437",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-09-22T15:04:48Z",
+      "message": "chore(deps): upgrade all dependencies"
+    },
+    {
+      "sha": "0413d7ee52cd773887ee4c45feebffdc50bdfb86",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-09-22T14:51:06Z",
+      "message": "chore: add types for runtime apis"
+    },
+    {
+      "sha": "3cdd27154d350130cc590cede71e18440b3ddced",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-09-22T14:51:54Z",
+      "message": "feat: `useStaticQuery`"
+    },
+    {
+      "sha": "c084e0a7a134c2bfb6a4e507968fd82e01a7da99",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-09-22T11:46:19Z",
+      "message": "chore: various refactoring"
+    },
+    {
+      "sha": "e95285ca40776a2963b3e6b04e1f0056bd0e168e",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-08-20T03:01:07Z",
+      "message": "chore(vue-remark): update `vue-loader`"
+    },
+    {
+      "sha": "fc0ccabed55dcf3498f817b85616e54202d9c280",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-08-20T02:39:57Z",
+      "message": "chore: add basic playground project"
+    },
+    {
+      "sha": "82bc7e31980b8574a6d3eb092d43449c4f545302",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-08-20T02:34:27Z",
+      "message": "feat: `useRouter` and `useRoute`"
+    },
+    {
+      "sha": "bc04d02c7c46ee28b728724c49f7992fffa2224c",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-08-20T02:41:23Z",
+      "message": "feat: `useMetaInfo`"
+    },
+    {
+      "sha": "6528b8b4a139fc3e135bce03638c50c2ff6b5ce6",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-08-20T02:29:53Z",
+      "message": "feat: upgrade to vue 2.7"
+    },
+    {
+      "sha": "20eef84b80a91e5171575622be4487866898177a",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-02-09T16:47:49Z",
+      "message": "chore: remove unused images when keeping dist"
+    },
+    {
+      "sha": "c28ce78d5dfa3be86af243029e142b91d0850479",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-02-09T16:37:38Z",
+      "message": "refactor: change info to log and dim infos"
+    },
+    {
+      "sha": "d6e34f4281657b4a4402de7d093aad02170fb420",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-02-09T15:56:19Z",
+      "message": "perf: stream images while processing them"
+    },
+    {
+      "sha": "25ae955e14b25bd56a52a74749d633c203ab97c6",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-01-11T22:03:31Z",
+      "message": "perf(build): improve render queue performance"
+    },
+    {
+      "sha": "3f23199bf8328784ea7b3dcc2e4b13876772757c",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-01-31T13:39:38Z",
+      "message": "refactor: catch links if not disabled"
+    },
+    {
+      "sha": "5bb8f5c965930857769f6c04e469a901cd331d13",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-01-31T12:42:24Z",
+      "message": "chore(deps): upgrade dependencies"
+    },
+    {
+      "sha": "48432448bc70e7febe3279e5874349186968dcd6",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-01-11T22:22:38Z",
+      "message": "chore(deps): bump tapable to 2.2.1"
+    },
+    {
+      "sha": "4120cc45185262deaa0141c5cf17eb9177076380",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-01-11T22:05:17Z",
+      "message": "chore(deps): bump postcss-loader to 6.2.1"
+    },
+    {
+      "sha": "fb44e411c7ce5eefbdf1e7f3e3a14b511c980d8d",
+      "author_login": "hjvedvik",
+      "authored_at": "2022-01-11T22:02:16Z",
+      "message": "chore: update dev server and fix deprecations"
+    },
+    {
+      "sha": "bd8ce909694c6761bce1d8ac1e6f706d30ee47af",
+      "author_login": "jeffpyke",
+      "authored_at": "2022-01-31T12:30:05Z",
+      "message": "fix(remark): fix return value from visitor (#1586)"
+    },
+    {
+      "sha": "9920cc8ba4f81b431e1a3bb7bd1aa47f979b0d36",
+      "author_login": "rafasoares",
+      "authored_at": "2022-01-31T12:03:39Z",
+      "message": "feat: load `.env.local` and `.env.*.local` (#1583)"
+    },
+    {
+      "sha": "149dbff92d8ea612553e7479991f2b43e4a903dd",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-12-07T02:05:19Z",
+      "message": "chore(deps): upgrade to graphql v16"
+    },
+    {
+      "sha": "468694fe1ee9f719b911aa81b58986d861518610",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-12-06T23:31:48Z",
+      "message": "chore(deps): upgrade to graphql-compose v9"
+    },
+    {
+      "sha": "aea2af0eaa645453d22e545f687270085248e298",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-12-06T22:02:19Z",
+      "message": "feat(config): `emptyOutputDir` config"
+    },
+    {
+      "sha": "e59e4e9ee8a7ead8a7db98789008ca07e9f3d316",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-12-06T21:49:09Z",
+      "message": "chore(dev): cache processed images in output folder"
+    },
+    {
+      "sha": "59e92ca94a689357ea36c873b9a05cb61280f73c",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-12-06T21:29:56Z",
+      "message": "chore: add experimental _tmpDir config (#1571)"
+    },
+    {
+      "sha": "d2beec0ca23cd54dc7959aadeb93f370bf822643",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-12-06T16:09:16Z",
+      "message": "chore(deps): upgrade sharp to 0.29"
+    },
+    {
+      "sha": "37c35ff1b7a34286d0a3b59b26d748b3a82554a6",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-12-06T16:06:37Z",
+      "message": "chore: use version berry in pnp test"
+    },
+    {
+      "sha": "dbb55d7c4180ca34c16cb74259721797dc1e83eb",
+      "author_login": "tennox",
+      "authored_at": "2021-12-06T14:23:39Z",
+      "message": "fix(g-image): optional `srcset` and `sizes` (#1574)"
+    },
+    {
+      "sha": "89c6b2f0e0c8a1fdcb49cf1281fbfee83b2d8ee8",
+      "author_login": "kecrily",
+      "authored_at": "2021-09-27T09:30:24Z",
+      "message": "chore: drop support for node 13 and 15 (#1550)"
+    },
+    {
+      "sha": "f2d17357914a60c63f629c4c65b247d5fdcedd85",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2021-09-20T09:23:28Z",
+      "message": "chore(deps): bump remark-html from 8.0.0 to 13.0.2 (#1556)"
+    },
+    {
+      "sha": "ee64443fec47546cd7039c2b0f56bde0f284f2f5",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-09-20T08:39:03Z",
+      "message": "feat(critical): upgrade to critical v4"
+    },
+    {
+      "sha": "29e5e9936de2e5d91a8488c46195f022d22f2cb3",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-09-20T08:36:15Z",
+      "message": "chore(deps): update yarn.lock"
+    },
+    {
+      "sha": "61dc64963449cc009b63c70f18961e536a4c00e0",
+      "author_login": "simonwelsh",
+      "authored_at": "2021-09-20T09:08:02Z",
+      "message": "feat(graphql): `position` argument for images (#1471)"
+    },
+    {
+      "sha": "7412b01654bbb38a88948a476911182bf425fb82",
+      "author_login": "ceynri",
+      "authored_at": "2021-09-20T08:44:33Z",
+      "message": "refactor: fallback to raw value when slug is empty (#1513)"
+    },
+    {
+      "sha": "7a2080ef39621d4e15f97fffa3442404549009ac",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-09-20T08:00:03Z",
+      "message": "fix(g-image): improve edges in blurred placeholders"
+    },
+    {
+      "sha": "7c81f8c0f96b14ed8da8645280af10ac519ec327",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-09-20T07:30:41Z",
+      "message": "fix(g-image): maintain blur placeholder aspect ratio"
+    },
+    {
+      "sha": "b145217e46c10e0acad4e7ac1e69efdb5fa3900f",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-09-20T06:48:41Z",
+      "message": "refactor: make configureServer a sync hook (#1557)"
+    },
+    {
+      "sha": "40d7a9c751a818625d39ad3918483d9b7881771f",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-09-20T06:29:20Z",
+      "message": "chore: update to latest webpack-dev-server"
+    },
+    {
+      "sha": "b61c2fbb58f783454e5ed9552036c84c4b525881",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-18T07:35:23Z",
+      "message": "chore: remove some deprecations"
+    },
+    {
+      "sha": "ea5689e77a3b27c2f6fb5424b9daf7b8c31ddf83",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-18T07:31:57Z",
+      "message": "refactor: remove duplicate compilation hash"
+    },
+    {
+      "sha": "22f47bca55f83cb4b504e5839ca0cfd8494f24e9",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-17T14:39:10Z",
+      "message": "ci(test): disable slow macos tests for now"
+    },
+    {
+      "sha": "10c5ac1eef96e6c7f62f5be86dbf468a21d7d043",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-17T14:28:40Z",
+      "message": "chore: update minimum node version to v12"
+    },
+    {
+      "sha": "d3284e363e7310837e9e8e684b28f8d73df21158",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-17T13:42:47Z",
+      "message": "refactor: move compilation hash to initial state"
+    },
+    {
+      "sha": "c895a54dbbce1e8667a7b238623191983006f170",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-17T09:56:35Z",
+      "message": "refactor: set vue-loader whitespace to condense"
+    },
+    {
+      "sha": "0ddae7868b6d256a5101a94f6e5f1107c7ec736d",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-16T19:54:37Z",
+      "message": "refactor: set correct cache dir for pnp"
+    },
+    {
+      "sha": "b14defbe1afdc87f579d34729cd5496fbfd277d8",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-16T18:51:14Z",
+      "message": "feat: typescript support (#1467)"
+    },
+    {
+      "sha": "cbd280245a2dec9b63b7f3d028a376594ec60f02",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-16T14:43:24Z",
+      "message": "chore: fix typo in image process queue [ci skip]"
+    },
+    {
+      "sha": "6a5d7ddff77740da6932e3fcf85811b8fe59d339",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-15T11:19:37Z",
+      "message": "test(pnp): add script for local pnp test"
+    },
+    {
+      "sha": "4626faf8788b4a32e88f6fcb422d27e993d9be35",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-15T12:59:08Z",
+      "message": "test(e2e): disable webpack cache"
+    },
+    {
+      "sha": "587b862880e886d71b6b987f3ad086f9ce6a20ba",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-15T11:05:01Z",
+      "message": "refactor: resolve correct core-js package"
+    },
+    {
+      "sha": "abc760adb78d6902892e77288954a36cb74689f6",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-15T10:02:50Z",
+      "message": "refactor: remove duplicate dot in asset filenames"
+    },
+    {
+      "sha": "0cb24085f0b0af6ec3bcbd8c3150f2ceea8a3978",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-15T10:02:17Z",
+      "message": "refactor: resolve postcss config in project root folder"
+    },
+    {
+      "sha": "9bcff708d1a430bb9c90d34c102dcf2d7974868b",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-13T13:33:58Z",
+      "message": "chore(deps): update @vue/babel-preset-app"
+    },
+    {
+      "sha": "9b77f76057b9f3d343fb732fae4c9bf0b6b71657",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-13T12:42:24Z",
+      "message": "test: update jest config"
+    },
+    {
+      "sha": "3dc2f9f0e9b877914d9f86eb1170ee0be71eab80",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-13T12:05:53Z",
+      "message": "ci: add yarn.lock to pnp and test workflow paths"
+    },
+    {
+      "sha": "27011c61e1c4c95b2ecd5d5a246aebfc526983e3",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-13T11:59:27Z",
+      "message": "feat(develop): webpack-dev-server for local dev (#1470)"
+    },
+    {
+      "sha": "ae229277df59ef7aa61d335ca771d801a006d910",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-13T10:22:20Z",
+      "message": "chore(ci): use github actions (#1543)"
+    },
+    {
+      "sha": "93344f31416f04cfd54e0d987b24162a5218ba60",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-08-13T07:55:34Z",
+      "message": "feat: webpack 5 (#1523)"
+    },
+    {
+      "sha": "84fd8aafdd16105d1b9dacaaf9a0f1881651d384",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2021-06-02T10:17:29Z",
+      "message": "chore(deps): bump browserslist from 4.14.3 to 4.16.6 (#1509)"
+    },
+    {
+      "sha": "6d86ffaacf0852bbcc5a669d2b4570c7042e4526",
+      "author_login": "superkumario64",
+      "authored_at": "2021-05-12T15:52:15Z",
+      "message": "feat(drupal): handle path attribute in drupal's jsonapi response [ci skip] (#1489)"
+    },
+    {
+      "sha": "7e575648b57308120b3dc35dceaebcf75a1ed0f9",
+      "author_login": "jbampton",
+      "authored_at": "2021-05-12T15:50:30Z",
+      "message": "chore(app): fix error message spelling [ci skip] (#1492)"
+    },
+    {
+      "sha": "9e6f65eaa35a052ae5c13c520adc4f2ba2984f9f",
+      "author_login": "jbampton",
+      "authored_at": "2021-05-12T15:48:48Z",
+      "message": "chore(drupal): fix markdown link (#1493)"
+    },
+    {
+      "sha": "623b980cdea8b29eab90189c68969366c2cf2cd0",
+      "author_login": "jamesgeorge007",
+      "authored_at": "2021-05-11T09:49:21Z",
+      "message": "chore(cli): return with an exit code 1 for a non-empty target directory (#1486)"
+    },
+    {
+      "sha": "14ba45466de20f101060c0bef87f7b9f37b80e0a",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2021-05-11T09:34:20Z",
+      "message": "chore(deps): bump hosted-git-info from 2.8.8 to 2.8.9 (#1499)"
+    },
+    {
+      "sha": "891a99f61ad7c44c719e561b67273aa05f386586",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2021-05-11T09:34:07Z",
+      "message": "chore(deps): bump lodash from 4.17.20 to 4.17.21 (#1498)"
+    },
+    {
+      "sha": "7ee0aa7376978a848b9fbd922e7497825f290e03",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2021-05-11T09:33:50Z",
+      "message": "chore(deps): bump url-parse from 1.4.7 to 1.5.1 (#1496)"
+    },
+    {
+      "sha": "2135036b1f3e148afe90ed13c847bb72973a4266",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2021-05-11T09:33:28Z",
+      "message": "chore(deps): bump ssri from 6.0.1 to 6.0.2 (#1487)"
+    },
+    {
+      "sha": "85ce2b0ccb85a3e46a5ed3bd55a9418efdfed142",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2021-05-11T09:33:05Z",
+      "message": "chore(deps): bump handlebars from 4.7.6 to 4.7.7 (#1495)"
+    },
+    {
+      "sha": "f7bbd1ddb4acee65f7e56fc73a2d70c819132034",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2021-05-07T10:23:07Z",
+      "message": "chore(deps): bump sanitize-html from 1.27.4 to 2.3.2 (#1490)"
+    },
+    {
+      "sha": "c6e1ee0e77ee39d3dbf3890378b8483da40b0020",
+      "author_login": "jamesgeorge007",
+      "authored_at": "2021-04-27T14:57:35Z",
+      "message": "refactor(cli): support gridsome-starter-name syntax (#1483)"
+    },
+    {
+      "sha": "bfdc898e1f7f6c0a443948f3c03274338033a62b",
+      "author_login": "lovell",
+      "authored_at": "2021-04-23T13:24:17Z",
+      "message": "refactor: upgrade sharp for ~2x faster pngquant and mozjpeg (#1482)"
+    },
+    {
+      "sha": "6dd86f0369d2668d97f86cd1305cf934c5f002af",
+      "author_login": "sanscheese",
+      "authored_at": "2021-04-18T17:34:17Z",
+      "message": "feat(page-query): include graphql with src attribute (#806)"
+    },
+    {
+      "sha": "adaa4ff563145e14722f1745192c1e32611805d4",
+      "author_login": "kylewelsby",
+      "authored_at": "2021-04-18T17:27:13Z",
+      "message": "refactor(graphql): expand supported Date formats (#1432)"
+    },
+    {
+      "sha": "6359713db9336b723e33781c935557a248d4837f",
+      "author_login": "adambateman",
+      "authored_at": "2021-04-18T17:19:28Z",
+      "message": "feat(contentful): metadata for graphql nodes (#1477)"
+    },
+    {
+      "sha": "6edd484e887e5e195f6d26847c3bdb6d8ae0241f",
+      "author_login": "iamarpitpatidar",
+      "authored_at": "2021-04-18T15:29:52Z",
+      "message": "chore: update favicon sizes (#1480)"
+    },
+    {
+      "sha": "3c0eff6cfe69b12fc2922aaecc7964d33d75451e",
+      "author_login": "fmakdemir",
+      "authored_at": "2021-03-31T20:25:08Z",
+      "message": "fix(wordpress): paginated users endpoint (#1405)"
+    },
+    {
+      "sha": "9676ae0ce48262888e015984cf227c2ba60ca8bc",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-03-31T16:25:00Z",
+      "message": "refactor: prevent multi-compiler in develop mode"
+    },
+    {
+      "sha": "e21ba7dbc290201a0a6d2288449224c67e3960bb",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2021-03-31T11:50:22Z",
+      "message": "chore(deps): bump y18n from 4.0.0 to 4.0.1 (#1469)"
+    },
+    {
+      "sha": "40904f071951161d57623154e72ac4a944624210",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-03-29T13:30:05Z",
+      "message": "refactor: use client config for compiler resolvers"
+    },
+    {
+      "sha": "85e449b7d5157dfdf49df5a2c20c8e868b889019",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-03-25T11:40:45Z",
+      "message": "refactor(app): make `loadConfig` async"
+    },
+    {
+      "sha": "f5d696501383a1204c36307e917abd48e795f58c",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-03-24T15:59:42Z",
+      "message": "refactor(g-image): adjust placeholder and remove blurhash"
+    },
+    {
+      "sha": "eb7b41fb2bc249d1722666403803c4c139e5d417",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-03-25T14:21:18Z",
+      "message": "refactor: move cache into node_modules"
+    },
+    {
+      "sha": "70bb04073ea87068261ef4ada7125b64d992ec11",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-03-24T13:36:39Z",
+      "message": "chore(deps): update browserslist db"
+    },
+    {
+      "sha": "a67982c80f0f9a43b69a8a4a65f2a4c19338d77b",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-03-24T13:35:44Z",
+      "message": "refactor(webpack): move cache folder to a subfolder"
+    },
+    {
+      "sha": "58292d82ed45eeb79abdbe31c7beac750cb31528",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-03-12T22:00:45Z",
+      "message": "feat(graphql): upgrade to graphql v15"
+    },
+    {
+      "sha": "dad45d4c180d3a2661a9ff5f253fe525bc21e8cb",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-03-12T21:07:16Z",
+      "message": "refactor(g-image): blur placeholder with sharp"
+    },
+    {
+      "sha": "57809a7534d47785d8802c8099cc2853c55227a5",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-03-12T15:52:22Z",
+      "message": "feat(g-image): trace and dominant placeholder types"
+    },
+    {
+      "sha": "8b273fe4809e224bec7022751c60e40804b689ec",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-03-11T12:42:05Z",
+      "message": "refactor(g-image): set correct blurhash mime type"
+    },
+    {
+      "sha": "97006f60751fb2d9fa7b7d6070695cc1c275324f",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-03-11T11:46:06Z",
+      "message": "feat(g-image): generate placeholder with blurhash"
+    },
+    {
+      "sha": "9330b6371cb7dfa0e1fe6c36ad9b8ba2318bbc27",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-03-08T11:57:54Z",
+      "message": "fix(g-image): data uri w3c compliance (#1438)"
+    },
+    {
+      "sha": "859e031559a6da6658ee16210c9c7e0bca947412",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2021-03-09T18:07:55Z",
+      "message": "chore(deps): bump elliptic from 6.5.3 to 6.5.4 (#1458)"
+    },
+    {
+      "sha": "776578d1d540e653ec903a85d593cf75a385c837",
+      "author_login": "jbampton",
+      "authored_at": "2021-03-05T15:21:29Z",
+      "message": "chore: add .editorconfig file [ci skip] (#1443)"
+    },
+    {
+      "sha": "1f44e448229d27c6b374d5dee2ed09e39046b9b1",
+      "author_login": "jbampton",
+      "authored_at": "2021-03-05T15:09:25Z",
+      "message": "refactor: remove unneeded trailing whitespace [ci skip] (#1442)"
+    },
+    {
+      "sha": "da51ae02d874404ef6069490286948f9e1800497",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2021-03-05T15:06:33Z",
+      "message": "chore(deps): bump prismjs from 1.21.0 to 1.23.0 (#1452)"
+    },
+    {
+      "sha": "96e28fd8a0c49636184c64ecde73c5ef15616b4c",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-02-09T11:46:07Z",
+      "message": "feat(sitemap): allow function as staticUrls option"
+    },
+    {
+      "sha": "c2a71f52962477f33988ed7700ee5ddb6b2acb40",
+      "author_login": "AllanChain",
+      "authored_at": "2021-02-09T10:52:31Z",
+      "message": "fix(develop): yarn PnP in develop (#1434)"
+    },
+    {
+      "sha": "d5b78df8ce7428721d82b0946b5ffb093dc6ba74",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-02-09T10:42:15Z",
+      "message": "refactor(cli): show preview url for each starter"
+    },
+    {
+      "sha": "549d487704e1811582d45e435010cb86a2530c75",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-02-09T09:29:35Z",
+      "message": "feat(cli): pick a starter when creating new site"
+    },
+    {
+      "sha": "3fa9efb493fa5dcf7ac1e2eb3313374df90ed313",
+      "author_login": "hjvedvik",
+      "authored_at": "2021-02-09T02:35:34Z",
+      "message": "fix(build): don’t process existing images"
+    }
+  ],
+  "issues": [
+    {
+      "number": 1704,
+      "title": "plz invite me to this project.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-15T18:20:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1702,
+      "title": "Add retina support for g-image",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-13T14:55:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1701,
+      "title": "feat: add markdown TOC and custom containers",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-13T02:54:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1698,
+      "title": "What's the best alternative?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-27T14:01:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1697,
+      "title": "Google Live Test - Inspect truncates <head> to a single script ???",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-20T01:18:53Z",
+      "closed_at": "2025-01-29T14:56:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1696,
+      "title": "Another lib which dies after few years",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-09-01T16:39:27Z",
+      "closed_at": "2024-09-02T11:24:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1694,
+      "title": "Build error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-01-14T14:05:01Z",
+      "closed_at": "2024-10-16T18:56:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1693,
+      "title": "Is there a way to merge grid some into nuxt?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-01-11T06:30:13Z",
+      "closed_at": "2024-02-06T23:02:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1692,
+      "title": "Questions about adding properties to the page-query list",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-12-16T04:56:29Z",
+      "closed_at": "2024-04-24T03:11:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1691,
+      "title": "Gridsome airtable requires update as API key will be depricated from Feb 2024",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-13T22:50:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1690,
+      "title": "Gridsome build error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-08T16:01:15Z",
+      "closed_at": "2023-10-08T16:18:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1689,
+      "title": "[remark-wiki-link] Warning: please upgrade to remark 13 to use this plugin",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-08-08T01:56:26Z",
+      "closed_at": "2023-08-09T23:27:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1688,
+      "title": "Google Tag Manager tag is not firing when viewing the page; we have to reload the page.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-28T09:33:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1687,
+      "title": "Building with dynamically generated pages for tags fails.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-15T19:14:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1686,
+      "title": "adds visibility field to Ghost's posts schema",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-05-05T07:06:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1685,
+      "title": "Gridsome build stucked",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-19T12:38:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1684,
+      "title": "Will Gridsome continue to have support and updates? Or will it become a deprecated technology?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-09T23:58:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1682,
+      "title": "chore(deps): bump webpack from 5.74.0 to 5.76.0",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-03-15T05:36:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1681,
+      "title": "Google Analytics 4?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-05T10:51:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1680,
+      "title": "An error which says \"Failed to process image xxxx\" happened  when run gridsome build ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-28T09:56:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1679,
+      "title": "how to use @gridsome/transformer-remark to marked",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-24T02:09:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1678,
+      "title": "gridsome build stuck",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-24T02:01:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1677,
+      "title": "Create a section that doesnt reload when you switch from page",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-20T01:53:44Z",
+      "closed_at": "2023-02-20T13:01:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1676,
+      "title": "Gridsome is not really static and titles don't work when refreshing",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-17T09:50:41Z",
+      "closed_at": "2023-02-17T10:53:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1675,
+      "title": "Gridsome i18n dynamic router with dot doesnt work",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-17T04:44:28Z",
+      "closed_at": "2023-02-17T06:27:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1674,
+      "title": "Load content within content container",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-15T02:07:48Z",
+      "closed_at": "2023-02-15T21:01:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1673,
+      "title": "error while using gridsome/vue-remark",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-14T09:17:50Z",
+      "closed_at": "2023-10-02T11:45:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1672,
+      "title": "chore(deps): bump cookiejar from 2.1.3 to 2.1.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-24T10:22:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1671,
+      "title": "Dynamic pages using templates",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-23T12:23:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1670,
+      "title": "starter project creation error macbook m1",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-01-21T04:21:22Z",
+      "closed_at": "2023-01-21T14:04:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1669,
+      "title": "Error: Failed to process image ...gif. Input buffer contains unsupported image format",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-13T11:14:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1668,
+      "title": "URL in the address bar changes, but it does not load the page",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-11T06:00:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1667,
+      "title": "Out of memory issue when Rendering HTML for a large site",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-10T15:02:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1666,
+      "title": "chore(deps): bump json5 from 1.0.1 to 1.0.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-08T06:52:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1665,
+      "title": "How to add canonical tag in Gridsome blog?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-04T19:12:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1664,
+      "title": "Check for undefined data in source-drupal",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-20T10:16:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1663,
+      "title": "How to download images on build and serve from dist instead of remote airtable?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-17T11:48:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1662,
+      "title": "chore(deps): bump decode-uri-component from 0.2.0 to 0.2.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-04T10:59:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1661,
+      "title": "page query how to use router param",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-23T13:46:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1660,
+      "title": "chore(deps): bump loader-utils from 2.0.2 to 2.0.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-17T02:45:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1659,
+      "title": "Overriding Vuetify variables doesn't work",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-12T15:47:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1658,
+      "title": "chore(deps): bump loader-utils from 2.0.2 to 2.0.3",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-11-08T23:20:17Z",
+      "closed_at": "2022-11-17T02:45:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1657,
+      "title": "Gridsome an vue cool lightbox image url",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-04T08:49:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1656,
+      "title": "Changing the default image sizes that are generated `<g-image>` component",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-18T10:15:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1655,
+      "title": "Unable to generate tranformer schema when the package is npm link 'ed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-08T21:20:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1654,
+      "title": "add config option to disable the content hash for image processing",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-04T18:20:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1653,
+      "title": "Any Fork Maintaining Gridsome? Gridsome graphql port to Nuxt ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-28T19:21:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1652,
+      "title": "chore(deps): bump parse-url from 6.0.0 to 6.0.5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-09-15T16:55:58Z",
+      "closed_at": "2022-09-22T15:40:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1651,
+      "title": "Gridsome on Mac M1, upgrade sharp please",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-08-26T09:03:30Z",
+      "closed_at": "2022-08-26T16:50:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1650,
+      "title": "Gridsome create failed",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-08-26T08:44:17Z",
+      "closed_at": "2022-08-26T16:53:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1649,
+      "title": "[source-wordpress] Avoiding Error 404 on built-in endpoints",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-23T11:50:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1648,
+      "title": "automatically cache busting the json files based on the hash in meta tag",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-08-19T16:55:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1647,
+      "title": "Can't find a way to use Pinia with gridsome",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-07T20:42:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1646,
+      "title": "Error: Cannot find module './lib/utils'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-07-28T15:28:13Z",
+      "closed_at": "2022-07-29T07:10:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1645,
+      "title": "chore(deps): bump terser from 5.10.0 to 5.14.2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-07-20T19:06:09Z",
+      "closed_at": "2022-09-22T15:40:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1644,
+      "title": "chore(deps): bump moment from 2.29.1 to 2.29.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-07-07T12:04:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1643,
+      "title": "chore(deps): bump parse-url from 6.0.0 to 6.0.2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-07-05T23:10:13Z",
+      "closed_at": "2022-09-15T16:56:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1642,
+      "title": "Hot-reloading is not working",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-07-03T15:55:45Z",
+      "closed_at": "2022-07-04T15:04:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1641,
+      "title": "Gridsome site build failing on netlify with ERR_OSSL_EVP_UNSUPPORTED",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-18T01:43:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1640,
+      "title": "chore(deps): bump jpeg-js from 0.4.3 to 0.4.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-17T03:30:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1639,
+      "title": "Bug on install in M1 Macbook",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-13T11:30:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1638,
+      "title": "Make hash for fetch.js optional",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-10T13:09:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1637,
+      "title": "chore(deps): bump sharp from 0.29.3 to 0.30.5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-01T23:35:35Z",
+      "closed_at": "2022-09-22T15:40:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1636,
+      "title": "chore(deps): bump eventsource from 1.1.0 to 1.1.1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-01T06:00:38Z",
+      "closed_at": "2022-09-22T15:40:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1635,
+      "title": "Cant have g-image with dynamic  route made from query result",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-28T06:02:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1634,
+      "title": "Remove imagemin support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-25T10:04:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1633,
+      "title": "chore(deps): bump async from 2.6.3 to 2.6.4",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-04-29T00:28:27Z",
+      "closed_at": "2022-09-22T15:40:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1632,
+      "title": "Let's get gridsome SPONSORED?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-19T18:01:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1631,
+      "title": "chore(deps): bump moment from 2.29.1 to 2.29.2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-04-09T03:42:20Z",
+      "closed_at": "2022-07-07T12:04:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1630,
+      "title": "Gridsome install failed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-07T22:28:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1629,
+      "title": "Disable JS for Every Page/Template on Every Page",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-07T06:31:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1628,
+      "title": "Netlify Build Fail Do to \"Cannot read property 'image' of undefined\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-30T18:56:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1627,
+      "title": "chore(deps): bump node-forge from 1.2.1 to 1.3.0",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-26T01:44:25Z",
+      "closed_at": "2022-09-22T15:40:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1626,
+      "title": "chore(deps-dev): bump minimist from 1.2.5 to 1.2.6",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-24T15:31:10Z",
+      "closed_at": "2022-09-22T15:40:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1625,
+      "title": "Update utils.js",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-03-24T01:44:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1624,
+      "title": "ERROR gridsome with yarn",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-13T02:13:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1623,
+      "title": "Publish new patched version of transformer-remark",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-08T22:26:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1622,
+      "title": "chore(deps): remove unused dependency auto-bind",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-03-03T21:10:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1621,
+      "title": "Something went wrong installing the \"sharp\" module",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-03T13:42:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1620,
+      "title": "Importing bootstrap.min.js throws an error in production but not in development.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-03-01T16:53:06Z",
+      "closed_at": "2022-03-02T10:34:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1619,
+      "title": "chore(pm): convert yarn to pnpm",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-02-28T13:17:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1618,
+      "title": "chore(deps): bump url-parse from 1.5.4 to 1.5.10",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-28T03:32:54Z",
+      "closed_at": "2022-09-22T15:40:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1617,
+      "title": "chore(deps): bump prismjs from 1.26.0 to 1.27.0",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-26T02:35:39Z",
+      "closed_at": "2022-09-22T15:40:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1616,
+      "title": "chore(deps): bump url-parse from 1.5.4 to 1.5.7",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-19T16:48:46Z",
+      "closed_at": "2022-02-28T03:32:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1615,
+      "title": "chore(deps): bump follow-redirects from 1.14.7 to 1.14.8",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-15T13:07:14Z",
+      "closed_at": "2022-09-22T15:40:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1614,
+      "title": "Include <page-query> and <static-query> queries in Graphql Codegen",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-13T12:24:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1613,
+      "title": "Dynamic routing folder return 404",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-07T06:45:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1612,
+      "title": "New Error (error:0308010C:digital envelope routines::unsupported)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-02-03T19:05:04Z",
+      "closed_at": "2022-02-03T22:21:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1611,
+      "title": "chore(deps): bump simple-get from 4.0.0 to 4.0.1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-28T23:28:16Z",
+      "closed_at": "2022-09-22T15:40:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1610,
+      "title": "Netlify Build Failing on Processing Images",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-24T16:02:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1609,
+      "title": "sockpath and publicPath support for gridsome on code-sever(self hosted cloud IDE))",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-01-24T13:47:43Z",
+      "closed_at": "2023-01-01T05:45:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1608,
+      "title": "re-add circle ci configuration",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-22T20:54:10Z",
+      "closed_at": "2022-01-26T22:40:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1607,
+      "title": "chore(deps): bump nanoid from 3.1.25 to 3.2.0",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-22T10:03:41Z",
+      "closed_at": "2022-02-09T17:18:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1606,
+      "title": "chore(deps): bump node-fetch from 2.6.2 to 3.1.1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-22T09:00:47Z",
+      "closed_at": "2022-02-09T17:18:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1605,
+      "title": "How to insert script just after the <head> tag?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-01-21T08:54:23Z",
+      "closed_at": "2022-01-21T14:25:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1604,
+      "title": "chore(pkg): replace yarn with pnpm",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-20T14:26:52Z",
+      "closed_at": "2022-02-28T10:58:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1603,
+      "title": "postcss-discard: postcss.plugin was deprecated",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-01-18T08:37:05Z",
+      "closed_at": "2022-01-18T08:54:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1602,
+      "title": "feat: source-contentful richText cyclic references (#1601)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-01-18T08:22:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1601,
+      "title": "@gridsome/source-contentful - handle cyclic references when using JSON.stringify() on Rich Text",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-18T08:18:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1600,
+      "title": "chore(deps): bump follow-redirects from 1.14.4 to 1.14.7",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-13T21:57:47Z",
+      "closed_at": "2022-02-15T13:07:18Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "hjvedvik",
+      "contributions": 939
+    },
+    {
+      "login": "tomtev",
+      "contributions": 26
+    },
+    {
+      "login": "dependabot[bot]",
+      "contributions": 21
+    },
+    {
+      "login": "merceyz",
+      "contributions": 17
+    },
+    {
+      "login": "jamesgeorge007",
+      "contributions": 11
+    },
+    {
+      "login": "clarkdo",
+      "contributions": 9
+    },
+    {
+      "login": "jbampton",
+      "contributions": 6
+    },
+    {
+      "login": "sanscheese",
+      "contributions": 5
+    },
+    {
+      "login": "u12206050",
+      "contributions": 5
+    },
+    {
+      "login": "travis-r6s",
+      "contributions": 5
+    },
+    {
+      "login": "fl0cke",
+      "contributions": 3
+    },
+    {
+      "login": "crsten",
+      "contributions": 3
+    },
+    {
+      "login": "ameistad",
+      "contributions": 3
+    },
+    {
+      "login": "tennox",
+      "contributions": 2
+    },
+    {
+      "login": "tyankatsu0105",
+      "contributions": 2
+    },
+    {
+      "login": "oliverpool",
+      "contributions": 2
+    },
+    {
+      "login": "mottox2",
+      "contributions": 2
+    },
+    {
+      "login": "YogliB",
+      "contributions": 2
+    },
+    {
+      "login": "vberlier",
+      "contributions": 2
+    },
+    {
+      "login": "clorichel",
+      "contributions": 2
+    },
+    {
+      "login": "hacknug",
+      "contributions": 2
+    },
+    {
+      "login": "Erbenos",
+      "contributions": 2
+    },
+    {
+      "login": "EldoranDev",
+      "contributions": 2
+    },
+    {
+      "login": "jamacon36",
+      "contributions": 2
+    },
+    {
+      "login": "gilesbutler",
+      "contributions": 2
+    },
+    {
+      "login": "hagata",
+      "contributions": 2
+    },
+    {
+      "login": "emilol",
+      "contributions": 2
+    },
+    {
+      "login": "smokeyfro",
+      "contributions": 2
+    },
+    {
+      "login": "Mini-ghost",
+      "contributions": 2
+    },
+    {
+      "login": "RomainLanz",
+      "contributions": 1
+    },
+    {
+      "login": "weaversam8",
+      "contributions": 1
+    },
+    {
+      "login": "sergeyfilimonov",
+      "contributions": 1
+    },
+    {
+      "login": "sergiocarracedo",
+      "contributions": 1
+    },
+    {
+      "login": "shubhamzanwar",
+      "contributions": 1
+    },
+    {
+      "login": "sprabowo",
+      "contributions": 1
+    },
+    {
+      "login": "simonwelsh",
+      "contributions": 1
+    },
+    {
+      "login": "spencerwooo",
+      "contributions": 1
+    },
+    {
+      "login": "stefanoverna",
+      "contributions": 1
+    },
+    {
+      "login": "susanp",
+      "contributions": 1
+    },
+    {
+      "login": "sebtiz13",
+      "contributions": 1
+    },
+    {
+      "login": "ceynri",
+      "contributions": 1
+    },
+    {
+      "login": "robaxelsen",
+      "contributions": 1
+    },
+    {
+      "login": "rafasoares",
+      "contributions": 1
+    },
+    {
+      "login": "kecrily",
+      "contributions": 1
+    },
+    {
+      "login": "nkoehring",
+      "contributions": 1
+    },
+    {
+      "login": "mouafa",
+      "contributions": 1
+    },
+    {
+      "login": "morphatic",
+      "contributions": 1
+    },
+    {
+      "login": "minho42",
+      "contributions": 1
+    },
+    {
+      "login": "mtlynch",
+      "contributions": 1
+    },
+    {
+      "login": "krmax44",
+      "contributions": 1
+    },
+    {
+      "login": "technoSpino",
+      "contributions": 1
+    },
+    {
+      "login": "eric-hc",
+      "contributions": 1
+    },
+    {
+      "login": "voidst1",
+      "contributions": 1
+    },
+    {
+      "login": "thien-hoang",
+      "contributions": 1
+    },
+    {
+      "login": "superkumario64",
+      "contributions": 1
+    },
+    {
+      "login": "shooontan",
+      "contributions": 1
+    },
+    {
+      "login": "Sergix",
+      "contributions": 1
+    },
+    {
+      "login": "mino89",
+      "contributions": 1
+    },
+    {
+      "login": "pabloveliz",
+      "contributions": 1
+    },
+    {
+      "login": "orblazer",
+      "contributions": 1
+    },
+    {
+      "login": "marcvangend",
+      "contributions": 1
+    },
+    {
+      "login": "lulzneko",
+      "contributions": 1
+    },
+    {
+      "login": "kyoruni",
+      "contributions": 1
+    },
+    {
+      "login": "ka-weihe",
+      "contributions": 1
+    },
+    {
+      "login": "jakedohm",
+      "contributions": 1
+    },
+    {
+      "login": "fmakdemir",
+      "contributions": 1
+    },
+    {
+      "login": "earljman",
+      "contributions": 1
+    },
+    {
+      "login": "dominiquedutra",
+      "contributions": 1
+    },
+    {
+      "login": "atymic",
+      "contributions": 1
+    },
+    {
+      "login": "adambateman",
+      "contributions": 1
+    },
+    {
+      "login": "yann-yinn",
+      "contributions": 1
+    },
+    {
+      "login": "Truemedia",
+      "contributions": 1
+    },
+    {
+      "login": "valentinvieriu",
+      "contributions": 1
+    },
+    {
+      "login": "TerabyteTiger",
+      "contributions": 1
+    },
+    {
+      "login": "timgates42",
+      "contributions": 1
+    },
+    {
+      "login": "ekoeryanto",
+      "contributions": 1
+    },
+    {
+      "login": "onfe",
+      "contributions": 1
+    },
+    {
+      "login": "EdBailey",
+      "contributions": 1
+    },
+    {
+      "login": "Devportobello",
+      "contributions": 1
+    },
+    {
+      "login": "0aveRyan",
+      "contributions": 1
+    },
+    {
+      "login": "daanbeverdam",
+      "contributions": 1
+    },
+    {
+      "login": "muellercornelius",
+      "contributions": 1
+    },
+    {
+      "login": "cco3",
+      "contributions": 1
+    },
+    {
+      "login": "courcelan",
+      "contributions": 1
+    },
+    {
+      "login": "chris-schreyer",
+      "contributions": 1
+    },
+    {
+      "login": "ostwilkens",
+      "contributions": 1
+    },
+    {
+      "login": "netzzwerg",
+      "contributions": 1
+    },
+    {
+      "login": "BernardZhao",
+      "contributions": 1
+    },
+    {
+      "login": "btmash",
+      "contributions": 1
+    },
+    {
+      "login": "iamarpitpatidar",
+      "contributions": 1
+    },
+    {
+      "login": "arjunchib",
+      "contributions": 1
+    },
+    {
+      "login": "andrewhl",
+      "contributions": 1
+    },
+    {
+      "login": "AllanChain",
+      "contributions": 1
+    },
+    {
+      "login": "Al-Rozhkov",
+      "contributions": 1
+    },
+    {
+      "login": "jankal",
+      "contributions": 1
+    },
+    {
+      "login": "acvander",
+      "contributions": 1
+    },
+    {
+      "login": "aburkenpas",
+      "contributions": 1
+    },
+    {
+      "login": "matjack1",
+      "contributions": 1
+    },
+    {
+      "login": "mattbrailsford",
+      "contributions": 1
+    },
+    {
+      "login": "boedlen",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-07-13T08:56:35.001313Z"
+}

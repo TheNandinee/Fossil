@@ -1,0 +1,1503 @@
+{
+  "full_name": "adams549659584/go-proxy-bingai",
+  "owner": "adams549659584",
+  "name": "go-proxy-bingai",
+  "url": "https://github.com/adams549659584/go-proxy-bingai",
+  "description": "用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。",
+  "primary_language": "HTML",
+  "topics": [],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 8485,
+  "forks": 11897,
+  "open_issues": 217,
+  "created_at": "2023-05-03T03:30:19Z",
+  "pushed_at": "2024-03-20T07:24:11Z",
+  "updated_at": "2026-07-12T12:35:09Z",
+  "commits": [
+    {
+      "sha": "76d44c7d0abece36de3069515cd688be71594419",
+      "author_login": "adams549659584",
+      "authored_at": "2023-06-03T06:26:19Z",
+      "message": "fix: fix dependencies"
+    },
+    {
+      "sha": "e6b8dec171c34579b1be32603a1c4c9e85ac76fa",
+      "author_login": "adams549659584",
+      "authored_at": "2023-06-01T15:23:55Z",
+      "message": "fix: :bug: fix auth"
+    },
+    {
+      "sha": "5aaa77f183dde743d8191c3219f9c77e75cf0936",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-31T13:07:39Z",
+      "message": "docs: :memo: update docs"
+    },
+    {
+      "sha": "4c05bc508c0b2b8395b252209a7b4e57942135c0",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-30T16:56:06Z",
+      "message": "chore: pwa"
+    },
+    {
+      "sha": "538d8a47910e5c743dbd2f34a00921d210c765df",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-30T02:37:06Z",
+      "message": "fix: pwa 还是先 autoUpdate 吧"
+    },
+    {
+      "sha": "da334671285016c48ac0ce9c0ab045faeb053be1",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-30T01:09:59Z",
+      "message": "fix: :bug: pwa 立即切换 bug、优化loading、设置等"
+    },
+    {
+      "sha": "d39376c8cc991697c62c08dee128eb388e50e530",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-29T17:30:07Z",
+      "message": "fix: fix cloudflare home"
+    },
+    {
+      "sha": "db188a6da2b51bbf0cc4ae4b62d7617ad9c958ed",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-29T17:21:57Z",
+      "message": "fix: fix cloudflare home"
+    },
+    {
+      "sha": "90df9416f98b56bbe19a10be4d63dbe0274a6413",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-29T17:02:12Z",
+      "message": "fix: cloudflare index"
+    },
+    {
+      "sha": "b6266deae7a60448e2d3ff53c39eee102777dcf1",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-29T16:42:11Z",
+      "message": "feat: :zap: 优化随机IP、未登录回复次数显示、小屏历史记录显示、授权弹窗、pwa等"
+    },
+    {
+      "sha": "681b0caf97831d3f237c12b6525af54969ceb09e",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-26T07:12:41Z",
+      "message": "fix: :bug: fix auth"
+    },
+    {
+      "sha": "d1dab6470b63d6bbcaf405ac0c5a3831b1967f63",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-26T00:47:59Z",
+      "message": "docs: :memo: update docs"
+    },
+    {
+      "sha": "12d6fa811d3eaf27d1c6b601fbe417e6942ab89d",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-26T00:40:58Z",
+      "message": "fix: :bug: fix vercel route"
+    },
+    {
+      "sha": "6f14aa6053e86bad24e47d2666fa99521da6a6b8",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-25T16:30:09Z",
+      "message": "fix: :bug: 撰写的聊天服务器使用主页选择的"
+    },
+    {
+      "sha": "2ac1003b58fd65441928d47e131de6fc6262cebf",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-25T12:26:29Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "15a2b4d52943ed0bb1a29047cf6a2f49d648b78b",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-25T12:11:59Z",
+      "message": "docs: :memo: update docs"
+    },
+    {
+      "sha": "da794faa146ca82acfed40a1ab986a7ff238edbc",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-25T12:08:23Z",
+      "message": "docs: :memo: update docs"
+    },
+    {
+      "sha": "556de49010bbffddc16e680b720d6410bd7a3aca",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-25T11:45:39Z",
+      "message": "docs: :memo: update docs"
+    },
+    {
+      "sha": "bfd58c5a52bb7076427156739a76b9eb4f7a25db",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-25T10:09:32Z",
+      "message": "feat: :zap: 可选聊天服务器、cloudflare 聊天服务器部署"
+    },
+    {
+      "sha": "842e02b9d7ae765942e166779a3bf84ead2b8d12",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-22T04:43:15Z",
+      "message": "feat: :zap: 同步官网最新、新增图像创建功能、优化移动端提示词库展示"
+    },
+    {
+      "sha": "b79de9c81b9e75258d95d55f0c3d915b61fe4f76",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-18T04:06:35Z",
+      "message": "chore: 屏蔽最外层滚动条、未登录屏蔽获取调用获取历史记录接口"
+    },
+    {
+      "sha": "c582f639973967e785571c99216c82c4526e4dcf",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-17T04:47:58Z",
+      "message": "chore: :zap: 优化提示词库描述、内置提示词库数据、避免墙"
+    },
+    {
+      "sha": "128fbb8f57599b8a910a916d24b5bf3d6c814104",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-17T01:29:29Z",
+      "message": "chore: :zap: 未登录不显示聊天历史、屏蔽大多数日志请求、ua 区分手机电脑"
+    },
+    {
+      "sha": "8ca6c9dbe0dba5ce8d45e214b082f4cf8ecb15fc",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-16T07:43:28Z",
+      "message": "chore: 使用固定 UA 、可配置默认用户 Cookie"
+    },
+    {
+      "sha": "62656b74f39a23f25576fdb7de5e224708a7db97",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-16T01:21:35Z",
+      "message": "style: :fire: 移除无用js"
+    },
+    {
+      "sha": "07eb07ede41c9830286fbbf1f2aa5df415346f29",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-15T23:41:30Z",
+      "message": "chore: 加回 loading  、修复聊天 Shift + Enter 换行"
+    },
+    {
+      "sha": "0854a9ce8382efb1aeb3e2c5395399fe04c46491",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-15T16:08:50Z",
+      "message": "chore: 加回统计代码"
+    },
+    {
+      "sha": "6994fad5b720db27b5f1c4b17b9c05cc6f9f2936",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-15T14:14:02Z",
+      "message": "fix: :bug: 修复方向键无法选中提示词最后一个"
+    },
+    {
+      "sha": "9bac8bce3eb4351ac60c16d883d3dc3711331632",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-15T08:55:51Z",
+      "message": "docs: :memo: 完善文档，修复撰写logo"
+    },
+    {
+      "sha": "a9c114481ab4874b63fec938dc9ec0f6843047f9",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-15T07:19:09Z",
+      "message": "feat: :sparkles: vue3 版，新增提示词库，历史记录等"
+    },
+    {
+      "sha": "cf94832ef01072562a7274953ba65f19a104b975",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-09T04:28:30Z",
+      "message": "feat: :sparkles: localhost 开发调试支持"
+    },
+    {
+      "sha": "8ba4b1e33256c8b09b3bf2bf3dbddb48c60f2edf",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-08T23:04:01Z",
+      "message": "feat: :sparkles: 新增 socks 环境变量配置 \\n 移除单次对话次数限制"
+    },
+    {
+      "sha": "319c4750bcfa9e437a4a8d97ed9c2911f3b3a16d",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-08T16:45:12Z",
+      "message": "feat: :zap: 撰写固定下最大最小宽度"
+    },
+    {
+      "sha": "521b65be0c32c788c221e447085654fa30da9020",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-08T05:00:23Z",
+      "message": "fix: :bug: 新版本直接清理缓存"
+    },
+    {
+      "sha": "87ba94beebbd742e2ceeb37ce66a8b3764fbdde5",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-08T04:45:46Z",
+      "message": "docs: :memo: 文档图"
+    },
+    {
+      "sha": "561884594fd97c61185a490967301dd1a64d599e",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-08T04:36:20Z",
+      "message": "docs: :memo: 完善侧边栏文档"
+    },
+    {
+      "sha": "2e69b606f851664b83ab8d3bba178df9b199e0e7",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-08T04:07:55Z",
+      "message": "feat: :sparkles: 简单加个撰写吧"
+    },
+    {
+      "sha": "49fb27e42b58ee7c7f010f773ebd450a70c9bbae",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-07T04:50:29Z",
+      "message": "docs: :memo: 完善 render 部署文档"
+    },
+    {
+      "sha": "32276516dcd3b2d90181ef568e8f5373b240b9d2",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-07T04:31:30Z",
+      "message": "docs: :memo: 新增 Render 一键部署"
+    },
+    {
+      "sha": "f877b2a6b60dd9134db922329aa0e009564e934b",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-06T09:47:45Z",
+      "message": "feat: :zap: 未登录用户更快创建会话"
+    },
+    {
+      "sha": "2f0915f3e2f41190d0889f1e34b9a5ff49ffa235",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-06T07:32:44Z",
+      "message": "fix: :bug: sw version bug"
+    },
+    {
+      "sha": "71f161b58079e23cd906092239e6e010c925a853",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-06T07:17:36Z",
+      "message": "fix: :bug: 新版本才提示"
+    },
+    {
+      "sha": "3209e266567c07b8ebe55ec57762f83f479e59ba",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-06T07:09:41Z",
+      "message": "docs: :memo: 更新文档"
+    },
+    {
+      "sha": "5bdb04e67561f87708dc669f852aacfc2226f04c",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-06T06:34:15Z",
+      "message": "docs: :memo: 更新文档"
+    },
+    {
+      "sha": "92fe8e23f6e419f4b8fe3e528a95ee056bb26671",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-06T06:19:09Z",
+      "message": "docs: :memo: 更新文档"
+    },
+    {
+      "sha": "6046d49ad14b39bae67f4f74e151e065db159c60",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-06T06:05:41Z",
+      "message": "feat: 新增加载中、重置缓存、版本提示等功能"
+    },
+    {
+      "sha": "1f3a65df2d8dc3b493388bc56f2f4bb6d37206c5",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-06T03:29:40Z",
+      "message": "fix: :bug: 一般无 content-length"
+    },
+    {
+      "sha": "6510812ef2fdc7409bafd6e1b325108b509b625e",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-06T03:08:57Z",
+      "message": "fix: :bug: 改用美国ip段随机，避免出现 8.133.190.116 等 ip"
+    },
+    {
+      "sha": "e1eb13826829a7da95630182c5535d39d7208d81",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-06T03:08:13Z",
+      "message": "feat: :zap: 可安装为Web 应用"
+    },
+    {
+      "sha": "5f3ab660b95e92881959f7024629582337a2243a",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-05T12:24:03Z",
+      "message": "chore: update sw"
+    },
+    {
+      "sha": "085251a29b8908822ee2d96f0d6699c1de941550",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-05T12:12:23Z",
+      "message": "fix: :bug: 修复 gzip 压缩响应异常"
+    },
+    {
+      "sha": "484bfda4710e36b751f948cc994f6f8c722c9376",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-05T11:31:52Z",
+      "message": "feat: 新增 windows amd64/arm64 版本打包"
+    },
+    {
+      "sha": "c102fd0b6471c4069fe4098f60214b953ce0e42e",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-05T07:31:05Z",
+      "message": "chore: update sw"
+    },
+    {
+      "sha": "bfc0af4ba456ecbea1967d34cc0df4f15527e7aa",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-05T07:28:43Z",
+      "message": "chore: 换下统计"
+    },
+    {
+      "sha": "47193ea641fac34c75bdd38e79347540189baf07",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-05T06:04:06Z",
+      "message": "feat: 同步官网最新"
+    },
+    {
+      "sha": "28d855b9e7059256d2847d5c74799b378583e735",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-05T04:40:34Z",
+      "message": "docs: :memo: 更新文档说明"
+    },
+    {
+      "sha": "cc8f61630cfb66404011b3f6d3041d48630ec9b8",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-05T04:24:12Z",
+      "message": "docs: 文档 cookie 图修改"
+    },
+    {
+      "sha": "b3a0b96432f66d297e673c5fa81e71092a1a95f8",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-05T04:16:54Z",
+      "message": "fix: :bug: 修复位置信息"
+    },
+    {
+      "sha": "8d9a643358753b582e0d7e71041f60644398d01c",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-05T02:52:04Z",
+      "message": "docs: 更新文档描述"
+    },
+    {
+      "sha": "cfc7123cb6b5e7992d0f2f482c2b0a8a446c8f8f",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-05T02:05:45Z",
+      "message": "feat: :zap: 完整的聊天功能支持，并无需登录即可畅聊"
+    },
+    {
+      "sha": "7ced17398a62e43124e490517704298df6f368d9",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-04T04:00:19Z",
+      "message": "docs: :memo: 优化文档"
+    },
+    {
+      "sha": "e401c02728bbb51cdb70a6c7cd04f08ed23ac378",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-04T03:57:53Z",
+      "message": "docs: :memo: 优化文档显示"
+    },
+    {
+      "sha": "9da897f8c82e749626b9bda2a256c17d8d506ce0",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-04T03:53:07Z",
+      "message": "docs: :memo: 完善 vercel 部署文档"
+    },
+    {
+      "sha": "097f583d51608e67d6d0504fb40d1892f41d2dd5",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-04T03:29:40Z",
+      "message": "feat: :zap: 重构支持 vercel"
+    },
+    {
+      "sha": "91f3f4451726f574cb08f5f51d5444ee74837c5f",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-03T14:20:25Z",
+      "message": "docs: :memo: 更新 Railway 部署文档描述"
+    },
+    {
+      "sha": "508abc7ff717d7d6c04b593582fd7f7afca29f12",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-03T13:54:16Z",
+      "message": "docs: :memo: 新增 Railway 部署文档"
+    },
+    {
+      "sha": "370f0d0ad46e7d2a90cbde2fffdb9247a0273a66",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-03T13:27:04Z",
+      "message": "chore: 加上随机 ip"
+    },
+    {
+      "sha": "d6517672ae1e7625d4588037cad61bc281276d78",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-03T06:22:00Z",
+      "message": "docs: 更新文档描述"
+    },
+    {
+      "sha": "9c68628a7beced5df114341abc0c4e5bc3ee814d",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-03T04:00:46Z",
+      "message": "docs: :memo: 完善部署文档"
+    },
+    {
+      "sha": "b807e7bb11195f5f2a000fa43bbeaaddde214621",
+      "author_login": "adams549659584",
+      "authored_at": "2023-05-03T03:30:10Z",
+      "message": "feat: :sparkles: BingAI Proxy"
+    }
+  ],
+  "issues": [
+    {
+      "number": 415,
+      "title": "close issue",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-01-30T04:31:49Z",
+      "closed_at": "2024-03-08T13:24:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 414,
+      "title": "发送消息报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-24T15:37:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 412,
+      "title": "不断的接力，终于不再脱裤子放屁了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-06T12:02:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 411,
+      "title": "用vercel和本地部署，都出现了：很抱歉，似乎出现错误。 让我们重新开始吧",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-06T08:18:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 410,
+      "title": "Railway: Oh no",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-29T03:39:33Z",
+      "closed_at": "2023-11-29T03:42:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 409,
+      "title": "is:issue is:open 一直转圈！！！！443开着的",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-29T01:13:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 408,
+      "title": "Create new bing",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-11-08T18:43:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 407,
+      "title": "在cf部署work后，自定义服务器还是没办法连接",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-05T09:31:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 406,
+      "title": "https://github.com/adams549659584/go-proxy-bingai",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-28T12:38:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 405,
+      "title": "Expecting value: line 1 column 1 (char 0)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-27T10:09:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 404,
+      "title": "部署在racknerd的vps上，检测服务器可用但是一聊天就断开网络，请问该怎么解决？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-18T03:40:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 403,
+      "title": "[Add] 能否添加导出功能和历史记录",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-15T02:16:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 402,
+      "title": "binggo020",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-09T15:29:45Z",
+      "closed_at": "2023-10-03T07:40:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 401,
+      "title": "i",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-01T11:05:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 400,
+      "title": "希望继续维护网站",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-24T09:13:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 399,
+      "title": "Create main.yml",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-20T16:05:14Z",
+      "closed_at": "2023-09-05T18:14:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 398,
+      "title": "宝塔反向代理，没有云服务器也没有公网ip是不是就实现不了？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-08-10T09:59:51Z",
+      "closed_at": "2023-08-10T10:00:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 397,
+      "title": "cf不能够使用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-10T02:27:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 396,
+      "title": "用docker caddyz安装的bing ai无法用本地和cf自定义进行连接",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-10T01:55:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 395,
+      "title": "[Feature] 🌈 解决 无效域/人机验证",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-07T16:10:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 394,
+      "title": "update version",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-07T00:30:35Z",
+      "closed_at": "2023-10-30T05:01:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 392,
+      "title": "还原",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-03T16:33:44Z",
+      "closed_at": "2023-08-03T16:40:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 391,
+      "title": "先解决重要问题，而不是在乱改。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-02T12:21:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 390,
+      "title": "[feature]添加子路径配置",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-02T03:44:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 389,
+      "title": "找到文件，但存在问题。render.yaml",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-01T11:54:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 388,
+      "title": "2023.7.31海外服务器，利用Docker部署、宝塔面板反代小白教程",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-31T00:23:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 387,
+      "title": "微软的Bug？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-30T14:43:16Z",
+      "closed_at": "2024-09-27T04:10:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 386,
+      "title": "最近突然用不了了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-29T16:00:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 385,
+      "title": "NewBing一直需要验证",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-29T12:34:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 384,
+      "title": "点击网页后会报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-29T10:51:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 383,
+      "title": "初始提交",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-07-28T14:45:38Z",
+      "closed_at": "2023-10-03T07:42:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 382,
+      "title": "Railway免费账户无法部署",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-28T05:27:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 381,
+      "title": "Codespace mumuami vigilant trout vxwgww7p9pjcwv4x",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-07-28T05:02:12Z",
+      "closed_at": "2023-07-28T05:08:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 380,
+      "title": " 无效域。如果此问题仍然存在，请与站点管理员联系。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-28T00:26:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 379,
+      "title": "分享可用反代（接入点），亲测其他站点可用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-27T17:19:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 378,
+      "title": "[Fix] 🐛 修复触发无效域验证",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-27T02:55:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 377,
+      "title": "还是不行啊",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-26T15:26:16Z",
+      "closed_at": "2023-07-26T15:27:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 376,
+      "title": "突然不可用了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-26T01:41:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 375,
+      "title": "[Add] 🍒 侧边栏模块",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-25T06:43:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 374,
+      "title": "bingai方法(可使用测试)：仅需维护workers代码",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-25T02:44:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 373,
+      "title": "[Add] 🚀 NewBing-撰写 联想、多限制词功能",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-25T02:05:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 372,
+      "title": "如何才能绕开微软的域验证，无需上官网进行验证就可以直接使用go-proxy-bingai？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-23T08:39:02Z",
+      "closed_at": "2023-08-02T09:04:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 371,
+      "title": "不科学",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-23T05:46:41Z",
+      "closed_at": "2024-09-27T04:09:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 370,
+      "title": "有没有隐藏聊天记录的办法 挡到内容实在不好看",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-21T16:24:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 369,
+      "title": "如何用vps部署啊，详细流程 小白新手，这个可以用吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-21T11:25:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 368,
+      "title": "Windows部署完后远程访问本站显示不可用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-21T07:20:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 367,
+      "title": "[Add] 🎉 语音输入支持",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-20T03:43:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 366,
+      "title": "UI界面本地化",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-20T03:42:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 365,
+      "title": "https://github.com/Harry-zklcdc/go-proxy-bingai",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-07-19T14:41:50Z",
+      "closed_at": "2023-07-19T14:42:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 364,
+      "title": "为什么这里面这么多百度统计的地址？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-19T14:01:48Z",
+      "closed_at": "2023-07-23T15:04:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 363,
+      "title": "[Fix] 🐛 解决Cloudflare Worker 无法使用的问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-19T09:54:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 362,
+      "title": "手机提问正常，但是电脑端提问报错：Sorry, looks like your network settings are preventing access to this feature.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-19T08:30:46Z",
+      "closed_at": "2023-07-20T01:40:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 361,
+      "title": "[Add] 🌈 新增图像识别功能",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-19T02:53:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 360,
+      "title": "无效域。如果此问题任然存在，请与站点管理员联系",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-19T02:36:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 359,
+      "title": "有没有替代的项目推荐呀",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-19T01:39:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 358,
+      "title": "各位还有没有类似项目，这个项目明显挂了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-19T01:38:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 357,
+      "title": "我现在newbing的账户支持图片上传，但是我用这个项目同样用我微软账户部署的还没有 该怎么处理",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-18T15:55:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 356,
+      "title": "在Vercel上部署应该没有必要设置Go_Proxy_BingAI_SOCKS，这里设置代理是有什么特殊需求吗？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-18T12:37:04Z",
+      "closed_at": "2023-07-18T19:29:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 355,
+      "title": "Merge pull request #1 from adams549659584/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-07-18T11:01:35Z",
+      "closed_at": "2023-10-03T07:42:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 354,
+      "title": "大家散了吧，这个项目再也没用了，作者也停止维护了！再见了go proxy bingai！",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-18T08:11:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 353,
+      "title": "Bing似乎禁止了数据中心访问`/turing/conversation/create`接口，Vercel和Cloudflare Workers似乎都会返回空结果",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-18T05:02:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 352,
+      "title": "演示站点崩溃了！",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-18T03:40:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 351,
+      "title": "完了，又用不了了！",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-17T14:10:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 350,
+      "title": "请问vercel一键部署后，如何配置环境变量才能让请求正常",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-17T04:05:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 349,
+      "title": "腾讯云亚洲（非中国）轻量应用服务器太便宜了，真不是广告！",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-17T03:58:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 348,
+      "title": "bing加了Turnstile人机检测，所以用不了",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-17T03:30:25Z",
+      "closed_at": "2023-07-19T05:13:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 347,
+      "title": "看起来挂了，提示 Sorry, looks like your network settings are preventing access to this feature.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-17T01:58:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 346,
+      "title": "微软应该加强了网络监测，最近不少私有部署聊天服务器无法正常使用，还请大佬看一下了。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-16T16:28:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 345,
+      "title": "如何更新啊",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-16T10:52:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 344,
+      "title": "所有服务器都不行了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-16T08:09:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 343,
+      "title": "真的不行了这次，连重置都不行了",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-16T08:07:34Z",
+      "closed_at": "2023-07-16T17:01:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 342,
+      "title": "聊天服务器不能使用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-16T08:07:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 341,
+      "title": "为什么自己用vercel搭建的本站IP不能用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-16T04:26:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 340,
+      "title": "登录账户后会有24小时限制",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-16T02:05:22Z",
+      "closed_at": "2023-07-16T14:44:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 339,
+      "title": "四个聊天服务器都连不上怎么办？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-16T01:17:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 338,
+      "title": "本站不用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-15T09:25:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 337,
+      "title": "最近老是出现以下错误，换服务器出现部署了好久也不行，请大神解惑",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-15T00:31:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 336,
+      "title": "今天已经彻底不能用了，希望站长能尽快修复，自己搭的节点也没用了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-13T14:15:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 335,
+      "title": "本站不可用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-13T06:00:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 334,
+      "title": "今天突然用不了了，出现人机验证，但是验证的框里面写着“ 无效域。如果此问题仍然存在，请与站点管理员联系。”，自己搭建的节点也没法使用了，不知道为什么？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-13T03:44:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 333,
+      "title": "Sorry, looks like your network settings are preventing access to this feature.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-13T02:22:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 332,
+      "title": "network settings报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-13T02:21:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 331,
+      "title": "正常使用中，今天突然报错，求助！",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-13T01:45:58Z",
+      "closed_at": "2023-07-13T02:06:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 330,
+      "title": "Invalid domain",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-12T13:55:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 329,
+      "title": "##",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-12T12:37:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 328,
+      "title": "怎么默认设置好用户，而不是每次画图都要设置一下，求大佬帮忙",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-12T11:58:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 327,
+      "title": "导致账号异常",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-12T08:10:25Z",
+      "closed_at": "2023-07-12T08:27:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 326,
+      "title": "必须登入微软账号才能使用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-12T03:52:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 325,
+      "title": "可以尝试增加 Deno 的部署方式",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-11T12:14:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 324,
+      "title": "甲骨文小鸡仔的演示，浏览器兼容性特别好，而使用其他渠道创建的都会有部分浏览器无法加载网页的现象。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-10T18:06:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 323,
+      "title": "请问一下各位大佬，如何自动填充并选择自定义聊天服务器",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-10T10:15:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 322,
+      "title": "大佬，能修改一下代码吗？似乎默认选择更有创造力的聊天模式才更接近ChatGPT4，选择其他两个，问他们鲁迅为什么打周树人，回答是错误的。有些新用户不了解这一点，默认选择更有创造的模式的话，可以让更多人体验到真正的ChatGPT4",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-09T15:42:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 321,
+      "title": "11",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-07-09T14:10:07Z",
+      "closed_at": "2023-07-20T15:29:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 320,
+      "title": "能否在yml里设置：Cookie 、登录验证码 、 单位时间提问次数限制、、、",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-09T11:27:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 319,
+      "title": "要如何增加这个使用次数",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-07T12:38:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 318,
+      "title": "设置了用户cookie后生成图像仍提示“请登录以创建图像”",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-07T08:42:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 317,
+      "title": "开发自己的聊天服务器有啥规范",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-07T06:48:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 316,
+      "title": "貌似newbing已经支持图片识别了。作者什么时候能够支持呢？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-06T23:58:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 315,
+      "title": "官网已经可以上传图片给必应分析了，佬什么时候适配？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-05T11:57:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 314,
+      "title": "很抱歉，似乎出现错误。 让我们重新开始吧。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-05T04:30:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "adams549659584",
+      "contributions": 70
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v1.8.7",
+      "published_at": "2023-06-01T15:26:29Z"
+    },
+    {
+      "tag": "v1.8.6",
+      "published_at": "2023-05-30T16:56:56Z"
+    },
+    {
+      "tag": "v1.8.5",
+      "published_at": "2023-05-30T02:37:46Z"
+    },
+    {
+      "tag": "v1.8.4",
+      "published_at": "2023-05-30T01:10:48Z"
+    },
+    {
+      "tag": "v1.8.3",
+      "published_at": "2023-05-29T16:43:27Z"
+    },
+    {
+      "tag": "v1.8.2",
+      "published_at": "2023-05-26T07:13:31Z"
+    },
+    {
+      "tag": "v1.8.1",
+      "published_at": "2023-05-25T16:31:26Z"
+    },
+    {
+      "tag": "v1.8.0",
+      "published_at": "2023-05-25T10:10:21Z"
+    },
+    {
+      "tag": "v1.7.0",
+      "published_at": "2023-05-22T04:46:57Z"
+    },
+    {
+      "tag": "v1.6.8",
+      "published_at": "2023-05-18T04:07:32Z"
+    },
+    {
+      "tag": "v1.6.7",
+      "published_at": "2023-05-17T05:04:33Z"
+    },
+    {
+      "tag": "v1.6.6",
+      "published_at": "2023-05-17T01:30:16Z"
+    },
+    {
+      "tag": "v1.6.5",
+      "published_at": "2023-05-16T07:44:02Z"
+    },
+    {
+      "tag": "v1.6.4",
+      "published_at": "2023-05-15T23:42:13Z"
+    },
+    {
+      "tag": "v1.6.3",
+      "published_at": "2023-05-15T16:10:28Z"
+    },
+    {
+      "tag": "v1.6.2",
+      "published_at": "2023-05-15T14:14:37Z"
+    },
+    {
+      "tag": "v1.6.1",
+      "published_at": "2023-05-15T08:56:31Z"
+    },
+    {
+      "tag": "v1.6.0",
+      "published_at": "2023-05-15T07:19:50Z"
+    },
+    {
+      "tag": "v1.5.0",
+      "published_at": "2023-05-08T23:04:45Z"
+    },
+    {
+      "tag": "v1.4.2",
+      "published_at": "2023-05-08T16:46:05Z"
+    },
+    {
+      "tag": "v1.4.1",
+      "published_at": "2023-05-08T05:03:56Z"
+    },
+    {
+      "tag": "v1.4.0",
+      "published_at": "2023-05-08T04:36:52Z"
+    },
+    {
+      "tag": "v1.3.5",
+      "published_at": "2023-05-06T09:48:53Z"
+    },
+    {
+      "tag": "v1.3.4",
+      "published_at": "2023-05-06T07:33:21Z"
+    },
+    {
+      "tag": "v1.3.3",
+      "published_at": "2023-05-06T07:18:18Z"
+    },
+    {
+      "tag": "v1.3.2",
+      "published_at": "2023-05-06T06:06:31Z"
+    },
+    {
+      "tag": "v1.3.1",
+      "published_at": "2023-05-06T03:30:38Z"
+    },
+    {
+      "tag": "v1.3.0",
+      "published_at": "2023-05-06T03:09:52Z"
+    },
+    {
+      "tag": "v1.2.6",
+      "published_at": "2023-05-05T12:24:38Z"
+    },
+    {
+      "tag": "v1.2.5",
+      "published_at": "2023-05-05T12:13:08Z"
+    },
+    {
+      "tag": "v1.2.4",
+      "published_at": "2023-05-05T11:32:41Z"
+    },
+    {
+      "tag": "v1.2.3",
+      "published_at": "2023-05-05T07:31:37Z"
+    },
+    {
+      "tag": "v1.2.2",
+      "published_at": "2023-05-05T06:04:52Z"
+    },
+    {
+      "tag": "v1.2.1",
+      "published_at": "2023-05-05T04:17:30Z"
+    },
+    {
+      "tag": "v1.2.0",
+      "published_at": "2023-05-05T02:07:37Z"
+    },
+    {
+      "tag": "v1.1.0",
+      "published_at": "2023-05-04T03:53:43Z"
+    },
+    {
+      "tag": "v1.0.1",
+      "published_at": "2023-05-03T13:54:53Z"
+    },
+    {
+      "tag": "v1.0.0",
+      "published_at": "2023-05-03T03:36:14Z"
+    }
+  ],
+  "collected_at": "2026-07-13T08:56:33.026758Z"
+}
