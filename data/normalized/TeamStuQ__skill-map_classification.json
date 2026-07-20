@@ -1,0 +1,124 @@
+{
+  "full_name": "TeamStuQ/skill-map",
+  "cause": "maintainer_abandonment",
+  "confidence": 0.92,
+  "death_score": 0.921,
+  "supporting_evidence": [
+    {
+      "analyzer": "commits",
+      "code": "last_commit_age",
+      "summary": "Last commit was 2558 days ago",
+      "severity": "high",
+      "value": 2558,
+      "unit": "days"
+    },
+    {
+      "analyzer": "issues",
+      "code": "no_responses",
+      "summary": "Issues exist but none received any response",
+      "severity": "high",
+      "value": null,
+      "unit": null
+    },
+    {
+      "analyzer": "releases",
+      "code": "last_release_age",
+      "summary": "Last release was 10.7 years ago",
+      "severity": "high",
+      "value": 3895,
+      "unit": "days"
+    },
+    {
+      "analyzer": "commits",
+      "code": "commit_frequency",
+      "summary": "Averaged 3.5 commits/month over history",
+      "severity": "info",
+      "value": 3.53,
+      "unit": "commits/month"
+    }
+  ],
+  "analyses": [
+    {
+      "analyzer": "commits",
+      "evidence": [
+        {
+          "analyzer": "commits",
+          "code": "last_commit_age",
+          "summary": "Last commit was 2558 days ago",
+          "severity": "high",
+          "value": 2558,
+          "unit": "days"
+        },
+        {
+          "analyzer": "commits",
+          "code": "commit_frequency",
+          "summary": "Averaged 3.5 commits/month over history",
+          "severity": "info",
+          "value": 3.53,
+          "unit": "commits/month"
+        }
+      ],
+      "metrics": {
+        "analyzer": "commits",
+        "metrics": {
+          "commit_count_window": 100.0,
+          "days_since_last_commit": 2558.2,
+          "commits_per_month": 3.53
+        }
+      }
+    },
+    {
+      "analyzer": "contributors",
+      "evidence": [],
+      "metrics": {
+        "analyzer": "contributors",
+        "metrics": {
+          "contributor_count": 31.0,
+          "total_contributions": 371.0,
+          "top_contributor_share": 0.73
+        }
+      }
+    },
+    {
+      "analyzer": "issues",
+      "evidence": [
+        {
+          "analyzer": "issues",
+          "code": "no_responses",
+          "summary": "Issues exist but none received any response",
+          "severity": "high",
+          "value": null,
+          "unit": null
+        }
+      ],
+      "metrics": {
+        "analyzer": "issues",
+        "metrics": {
+          "issue_count": 55.0,
+          "open_issue_count": 39.0
+        }
+      }
+    },
+    {
+      "analyzer": "releases",
+      "evidence": [
+        {
+          "analyzer": "releases",
+          "code": "last_release_age",
+          "summary": "Last release was 10.7 years ago",
+          "severity": "high",
+          "value": 3895,
+          "unit": "days"
+        }
+      ],
+      "metrics": {
+        "analyzer": "releases",
+        "metrics": {
+          "release_count": 2.0,
+          "days_since_last_release": 3895.0
+        }
+      }
+    }
+  ],
+  "narrative": null
+}

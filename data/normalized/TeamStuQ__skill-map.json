@@ -1,0 +1,1663 @@
+{
+  "full_name": "TeamStuQ/skill-map",
+  "owner": "TeamStuQ",
+  "name": "skill-map",
+  "url": "https://github.com/TeamStuQ/skill-map",
+  "description": "程序员技能图谱",
+  "primary_language": "HTML",
+  "topics": [
+    "programmer",
+    "skillmap",
+    "stuq"
+  ],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 21776,
+  "forks": 4408,
+  "open_issues": 80,
+  "created_at": "2015-11-17T11:17:38Z",
+  "pushed_at": "2023-01-20T04:25:02Z",
+  "updated_at": "2026-07-20T06:42:16Z",
+  "commits": [
+    {
+      "sha": "1f90c61af643d96557895b139fa7588be8a57e4d",
+      "author_login": "s32n",
+      "authored_at": "2019-07-19T03:42:57Z",
+      "message": "Merge pull request #136 from linfan/master"
+    },
+    {
+      "sha": "813b47a7dd1288431d76f14e3c28232573cda30a",
+      "author_login": "s32n",
+      "authored_at": "2019-07-19T03:41:48Z",
+      "message": "Merge pull request #125 from resouer/patch-2"
+    },
+    {
+      "sha": "a6edd87c7eb9ea61b595e763f04e82bd09594cee",
+      "author_login": "s32n",
+      "authored_at": "2019-07-19T03:41:33Z",
+      "message": "Merge pull request #123 from DennisMao/patch-1"
+    },
+    {
+      "sha": "b22451b8e9e4b9cfc5a267665e0f9822f65b69fa",
+      "author_login": "linfan",
+      "authored_at": "2019-06-29T16:04:59Z",
+      "message": "update container and devops doc"
+    },
+    {
+      "sha": "c2964f5b4c32e30ae9c1a2c2a3206918be7fac71",
+      "author_login": "linfan",
+      "authored_at": "2019-06-29T13:56:59Z",
+      "message": "add serverless map"
+    },
+    {
+      "sha": "b36377e96266f918592075ea50a1ae4f9b7d85a9",
+      "author_login": "linfan",
+      "authored_at": "2019-06-29T09:47:19Z",
+      "message": "update company and title"
+    },
+    {
+      "sha": "37440aa8ec9c9849095a8c036446216b3e4170be",
+      "author_login": "s32n",
+      "authored_at": "2019-06-11T08:02:38Z",
+      "message": "update email again"
+    },
+    {
+      "sha": "82db64db9d93f92f964d97a1ef1c45e59afa8ca5",
+      "author_login": "s32n",
+      "authored_at": "2019-06-11T08:01:43Z",
+      "message": "update email"
+    },
+    {
+      "sha": "f05125da11ca8ea68634e083b87b1b20e385deac",
+      "author_login": "resouer",
+      "authored_at": "2018-08-31T02:43:55Z",
+      "message": "Update map-Kubernetes.md"
+    },
+    {
+      "sha": "3449aa2276477d22e4c5aab2a7a94c1c384cbdeb",
+      "author_login": "DennisMao",
+      "authored_at": "2018-07-04T06:21:58Z",
+      "message": "优化排版"
+    },
+    {
+      "sha": "93a2120364a345171c2275cccf1449b8d6f1b4d5",
+      "author_login": "lmdeditor",
+      "authored_at": "2018-01-03T07:55:21Z",
+      "message": "Update Apollo.png"
+    },
+    {
+      "sha": "6ce628b31657f19de76803c662d9964311ad89b5",
+      "author_login": "lmdeditor",
+      "authored_at": "2018-01-03T07:53:19Z",
+      "message": "Update Apollo.png"
+    },
+    {
+      "sha": "40527d3ff18a7bf0e6f145bf60a1434fc5802826",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-20T12:31:23Z",
+      "message": "Update Apollo.md"
+    },
+    {
+      "sha": "f69ef5c90b43b6963ee1cf3ce211c9b70202e6a9",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-20T04:06:15Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e8da09bd33f5f632c9370ff17dd117381efe76db",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-20T04:01:37Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "784e976034b8fa227ff492f50762d2708a91c6eb",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-20T03:27:32Z",
+      "message": "Update Apollo"
+    },
+    {
+      "sha": "a7721abef94a4f1b8205fb155bffd4b8cc11d9a0",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-19T12:01:18Z",
+      "message": "Merge pull request #113 from mickeyouyou/master"
+    },
+    {
+      "sha": "4a50fb0c730ef3d654499570f296ae25aa80dc90",
+      "author_login": "mickeyouyou",
+      "authored_at": "2017-12-19T11:49:47Z",
+      "message": "* update"
+    },
+    {
+      "sha": "1bfb6508ac90114d48b85a2b7a5c05922e67610c",
+      "author_login": "mickeyouyou",
+      "authored_at": "2017-12-19T11:44:15Z",
+      "message": "* update version"
+    },
+    {
+      "sha": "1af66e17612aa64b3f38657356e3a91f1fa6b773",
+      "author_login": "mickeyouyou",
+      "authored_at": "2017-12-19T11:35:51Z",
+      "message": "* update yangfan"
+    },
+    {
+      "sha": "bbc3e167f5f679392b588f392dc1bc38143a9a72",
+      "author_login": "mickeyouyou",
+      "authored_at": "2017-12-19T10:20:54Z",
+      "message": "update"
+    },
+    {
+      "sha": "ca2ef80fc353e274618d028dc89915513df9ef67",
+      "author_login": "mickeyouyou",
+      "authored_at": "2017-12-19T08:58:32Z",
+      "message": "* update"
+    },
+    {
+      "sha": "801732bd9ca2ebf4f68d3424b2397a711d39bd55",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-18T01:58:19Z",
+      "message": "Merge pull request #112 from mickeyouyou/master"
+    },
+    {
+      "sha": "1329bfb1347d5c47be7e59f6a5ea22dc4e6e8d68",
+      "author_login": "mickeyouyou",
+      "authored_at": "2017-12-15T11:41:18Z",
+      "message": "* add apollo"
+    },
+    {
+      "sha": "65d18b316bb85550a0ce5e33220236546ebda869",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-11T10:27:28Z",
+      "message": "Preview-source-skillmap-PNG"
+    },
+    {
+      "sha": "778f4cf34d30f95c52d4a11c4cb7dc70218c74ef",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-11T08:32:18Z",
+      "message": "Update png-Architect"
+    },
+    {
+      "sha": "4a9a12f990bcf42e078f8e38ecf988de6868232f",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-11T08:28:38Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ae970c40afc17458243caa1fa4eaa2c8999cc7a8",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-11T03:51:12Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "96addd509d719f0f8bfbffd2ee6c62cab0cbeaa2",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-11T03:22:03Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "9cff6272866931de0d7f856e08a29414d5ea8454",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-11T03:10:42Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "11d6ec0e936d0e817c73ef11e38901c5efa75507",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-11T02:59:32Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ed5e70983af26d65ff821fb320258bca079f0574",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-11T02:52:22Z",
+      "message": "Update GeekTime App QRCode"
+    },
+    {
+      "sha": "f707dd3dc49fa3ef812434a9e67d8c8fa82168ad",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-11T02:48:33Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "4077ebc5830c972d8257409f503d13fe5d7adec2",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-12-11T02:29:33Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d73b025df697ac83c56597183653cf7dd1eb064a",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-11-01T10:09:49Z",
+      "message": "Update  README.md"
+    },
+    {
+      "sha": "be58e7f7fb9494f7172a5d7762fa06648fae394d",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-18T00:58:14Z",
+      "message": "Update  map-DevOps.md"
+    },
+    {
+      "sha": "e3a084d62844013592d2791abc25f7b17d49daa6",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-16T10:21:52Z",
+      "message": "Update  README.md"
+    },
+    {
+      "sha": "e92fdb8bf53fc6d6d5f4bda4978cda3369d08486",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-15T07:23:35Z",
+      "message": "Update  README.md"
+    },
+    {
+      "sha": "e3a5aeba47bdfdc297c9b56901db9c92ee85a18b",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-15T07:18:21Z",
+      "message": "Update  README.md"
+    },
+    {
+      "sha": "307acf219ecda14ed4088112524076857abd1eac",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-13T11:43:16Z",
+      "message": "Update"
+    },
+    {
+      "sha": "e59ec5ec68c4e7d2c905b1aac4179c5e1f4bd0ff",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-13T11:25:35Z",
+      "message": "Update  map-Architect.md"
+    },
+    {
+      "sha": "e0eddc9c6b2a9e23305aef53ea81a73b855fdf6d",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-13T04:26:45Z",
+      "message": "Update  map-Architect.md"
+    },
+    {
+      "sha": "6b91c024a1eb4dac51360cbb56b769a34ba064f0",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-13T03:44:19Z",
+      "message": "Update  map-Architect.md"
+    },
+    {
+      "sha": "25f40f7398958662e57de31868e8cd9d7819a844",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-13T03:41:12Z",
+      "message": "Update  map-Architect.md"
+    },
+    {
+      "sha": "3bc62fb39692ccb06c61d5f0dd17f099c3b5af0f",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T12:21:44Z",
+      "message": "Update  README.md"
+    },
+    {
+      "sha": "a546688771157ef348a4976d092f2556e9544650",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T11:49:18Z",
+      "message": "Update  README.md"
+    },
+    {
+      "sha": "339015c4f845ff33c9a94b85c59d4a0ebbcf46d5",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T11:47:06Z",
+      "message": "Update  README.md"
+    },
+    {
+      "sha": "abf84d9e22596e76eb223e83e12f7c238fd8fcd6",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T11:45:04Z",
+      "message": "Update  README.md"
+    },
+    {
+      "sha": "2283cad5e0c9166d1f86c25f3ba0f46411a77cb2",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T11:35:32Z",
+      "message": "Update source-skillmap-PNG-DesignByStuQ.md"
+    },
+    {
+      "sha": "038a92fac007710871897bed587abbc6cf45fb1d",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T11:26:15Z",
+      "message": "Update  README.md"
+    },
+    {
+      "sha": "de0c80f47b36254c1a8e2c31c81d6fd46536dbef",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T11:23:10Z",
+      "message": "Update source-skillmap-PNG-DesignByStuQ.md"
+    },
+    {
+      "sha": "3174a7a02388a7a728c514c2d70a3cd2741530a6",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T11:20:27Z",
+      "message": "Update source-skillmap-PNG-DesignByStuQ.md"
+    },
+    {
+      "sha": "a0926c6aab43987c7c0e6e1aa169f4a185b0228c",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T11:04:36Z",
+      "message": "Update source-skillmap-PNG-DesignByStuQ.md"
+    },
+    {
+      "sha": "b3faa2f15fe303b0ada7b6883e0d971c9eb4ba6d",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T10:53:17Z",
+      "message": "Update source-skillmap-PNG-DesignByStuQ.md"
+    },
+    {
+      "sha": "96bfbeb5486fa80ae5316e4b8b0bb9856c2d4b70",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T10:17:09Z",
+      "message": "Update source-skillmap-PNG-DesignByStuQ.md"
+    },
+    {
+      "sha": "0cad20700a244166e894b7478e2f945392a82e02",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T10:13:25Z",
+      "message": "Update  README.md"
+    },
+    {
+      "sha": "8af642f3e8db0403f6622e1a3ca8dfd5ccd412b8",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T10:10:52Z",
+      "message": "Update  README.md"
+    },
+    {
+      "sha": "aea34416aac7ad0ec9465d97ac569aa2f3d43a17",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T10:09:44Z",
+      "message": "Update  README.md"
+    },
+    {
+      "sha": "cd82c73d96155f974c606c5bca90687730cd682d",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T10:08:18Z",
+      "message": "Creat source-skillmap-PNG-DesignByStuQ.md"
+    },
+    {
+      "sha": "d34109f539e346aed46136cc54d47205015d6a8f",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T09:38:25Z",
+      "message": "Update  README.md"
+    },
+    {
+      "sha": "b9241af9447ae07cf1cb3dce1589dc382f2cbcc5",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T09:31:48Z",
+      "message": "Update  README.md"
+    },
+    {
+      "sha": "d647338f3f297ae484ccaadbe119bdb1caaee5b1",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T09:28:04Z",
+      "message": "Update  README.md"
+    },
+    {
+      "sha": "430017c007c0acda7e07befc5c7fd98c2ce16051",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T08:32:38Z",
+      "message": "Update  map-Architect.md"
+    },
+    {
+      "sha": "1a8c3cb672fabfbfedd566cc4774bb36055c7148",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T04:06:46Z",
+      "message": "Update  map-Container.md"
+    },
+    {
+      "sha": "37104fc0145b3ea58027ee81703f8ff763fee7a0",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T03:59:11Z",
+      "message": "新增 map-DevOps.md"
+    },
+    {
+      "sha": "65d50c2a2d99f71ac8ce0947316dbb397362de20",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T03:23:15Z",
+      "message": "Update map-MachineLearning.md"
+    },
+    {
+      "sha": "a60b74363010da880b7d29ccb71ee8a782cefb16",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-12T03:07:59Z",
+      "message": "Update map-MachineLearning.md"
+    },
+    {
+      "sha": "472a7bc9aeffcbbfdce46c46aa53e538dd0c77bc",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-10T03:44:04Z",
+      "message": "Update map-MachineLearning.md"
+    },
+    {
+      "sha": "d1e0295dd0824496cc61fb39b0fb40ba9940d633",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-10T03:43:08Z",
+      "message": "Update map-MachineLearning.md"
+    },
+    {
+      "sha": "a3ece8b7ebf6dbf2dc08f6e0cb5b20b92f3a5264",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-10-10T03:41:24Z",
+      "message": "Update map-MachineLearning.md"
+    },
+    {
+      "sha": "862fc4741dda08dad1d0d8b72951b6dc51d6aae1",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-09-29T09:03:12Z",
+      "message": "Merge pull request #106 from moonming/openresty-update"
+    },
+    {
+      "sha": "21137957ea0ff476166f3c5f724116ac905508f3",
+      "author_login": "moonming",
+      "authored_at": "2017-09-29T09:01:01Z",
+      "message": "feature: upgraded skill map of OpenResty."
+    },
+    {
+      "sha": "2bedda6f48dbfadc3771ea7132a51b0b58a53fc5",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-09-28T02:50:02Z",
+      "message": "Update map-MachineLearning.md"
+    },
+    {
+      "sha": "273c8e501e02d99d596f8f9b0f051fed7244f3b6",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-09-27T06:48:18Z",
+      "message": "Update map-MachineLearning.md"
+    },
+    {
+      "sha": "5037570d96e306c83b895a68316fdfb98f0d91ba",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-09-26T06:25:59Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "44d0150f8220e4abb98372002d74cf8e05077197",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-09-10T12:58:16Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "5e4d775ccce83a85d3b01879e9c656bbc88fedef",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-09-10T12:51:41Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "82513f4ebc7c6cb916a12d15cc4c0cf4161c63a7",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-09-10T12:48:53Z",
+      "message": "Update png-Kubernetes-by-StuQ"
+    },
+    {
+      "sha": "06ba993d5c28f666ce696e331a49ad51e5633928",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-08-15T09:30:20Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d51fb734519b4dd2a0a528007fa51b12154a4f8d",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-08-02T06:11:05Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "932de9e50330ecb42a03dea344f3abcdb8d1e96a",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-07-31T10:32:20Z",
+      "message": "Merge pull request #102 from resouer/patch-1"
+    },
+    {
+      "sha": "2c874d36e4328cc2f1635d91a593792a34898640",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-07-31T10:31:59Z",
+      "message": "Merge branch 'master' into patch-1"
+    },
+    {
+      "sha": "ae1d544c36fcbbb6887f976a31df09b08ab65142",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-07-24T08:39:08Z",
+      "message": "Update README.md;"
+    },
+    {
+      "sha": "e0a63e5cd618b0c9174aa62125cdf713c56eff9d",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-07-21T15:40:34Z",
+      "message": "Update K8S.md"
+    },
+    {
+      "sha": "c34140d5fb00e33aea62e41e91f78962c7eac5ca",
+      "author_login": null,
+      "authored_at": "2017-07-21T12:48:11Z",
+      "message": "Update map-Kubernetes.md"
+    },
+    {
+      "sha": "0ecc9db53e9a8ae74a0d82f865769d95887693af",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-07-21T12:33:24Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b9517925928f28a8912c07217120007f1ed28ca2",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-07-15T04:48:20Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "af03dfec1103d0fcae0973cfbdad38fdaf2b81a3",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-07-15T04:42:40Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3d94945cfd676fac6fcc003381e40139f091ca2e",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-07-15T04:38:40Z",
+      "message": "更新 BigerDataEngineer 技能图谱，新增 Kubernetes 技能图谱；"
+    },
+    {
+      "sha": "2d9ba34472694834e75921762ec151e2851001e0",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-07-15T03:43:43Z",
+      "message": "Update map-testing.md"
+    },
+    {
+      "sha": "84650af237fd87ef515fa7de665000db90797246",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-07-15T03:37:15Z",
+      "message": "更新技能图谱、README.md文坚；"
+    },
+    {
+      "sha": "c9706f7b4a899f238e181894f0ac27bc8cacedd8",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-07-06T06:17:29Z",
+      "message": "Merge pull request #101 from seveniruby/testerhome"
+    },
+    {
+      "sha": "4981e54bbbcb46f1cda20c1507d6b2f8c54ed828",
+      "author_login": "seveniruby",
+      "authored_at": "2017-06-27T19:43:59Z",
+      "message": "更新技术树"
+    },
+    {
+      "sha": "82e30ba5324b885340fa2e91297c7542ed959b6f",
+      "author_login": "seveniruby",
+      "authored_at": "2017-06-27T19:29:44Z",
+      "message": "增加测试工程师技能树"
+    },
+    {
+      "sha": "839fe3d597f7eaa2d71370fb26914ae270a2c79b",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-03-22T04:07:47Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1fe2ce9183f6eb9a6b2f208711f4df73042424c9",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-03-22T04:04:15Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1f817cb3a0de2d7f484a9db33abf849563db1a50",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-03-22T04:02:18Z",
+      "message": "Update test.md"
+    },
+    {
+      "sha": "df1582347351c87a62a2bd7a6a4750854bc789c2",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-03-22T03:29:18Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3d0f8846ce200b2c416dd8bea58659f96eab44c0",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-03-22T03:28:32Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "9bee7e49ad085e9e833b62396bbe96390244c823",
+      "author_login": "lmdeditor",
+      "authored_at": "2017-03-22T03:27:32Z",
+      "message": "Update README.md"
+    }
+  ],
+  "issues": [
+    {
+      "number": 159,
+      "title": "程序员必学之科学上网",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-09T07:31:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 158,
+      "title": "还有在更新吗大佬们",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-27T06:36:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 157,
+      "title": "Create aa",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-10-31T08:25:45Z",
+      "closed_at": "2025-10-31T08:26:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 156,
+      "title": "Update map-MachineLearning.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-20T04:25:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 155,
+      "title": "Merge pull request #1 from TeamStuQ/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T13:30:45Z",
+      "closed_at": "2022-12-07T13:32:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 154,
+      "title": "IoT物联网的规划",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-17T01:53:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 152,
+      "title": "Added few resources to this repos",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-09-08T07:16:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 151,
+      "title": "Added one Useful Link",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-07-22T08:58:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 149,
+      "title": "2022求一份前端知识图谱",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-11T07:16:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 148,
+      "title": "2022年求一份PHP的技能图谱",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-09T05:07:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 147,
+      "title": "Update map-DevLang-Nodejs.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-12-30T01:39:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 145,
+      "title": "Merge pull request #1 from TeamStuQ/master",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-06-25T03:34:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 144,
+      "title": "前端图谱中Echarts不配在可视化占一席？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-19T00:53:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 143,
+      "title": "小程序开发技能图谱",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-18T09:35:02Z",
+      "closed_at": "2022-10-01T14:35:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 142,
+      "title": "国人的东西为啥不能放gitee一份呢",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-10T05:08:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 141,
+      "title": "前端图谱",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-01T08:17:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 140,
+      "title": "中间件增加Heisenberg、Oceanus、Vitess、DRDS、maxscale、Cetus、DBLE",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-08-28T07:35:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 138,
+      "title": "关于c#的脑图可以参考下",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-10-12T08:19:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 137,
+      "title": "Update map-EmbeddedEngineer.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-08-01T01:35:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 136,
+      "title": "更新容器和Serverless图谱",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-29T16:07:28Z",
+      "closed_at": "2019-07-19T03:42:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 135,
+      "title": "云计算的脑图里的iptable单词写错了(iptoble)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-24T02:02:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 134,
+      "title": "devops图谱404了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-24T02:00:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 133,
+      "title": "devops图谱404了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-24T02:00:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 132,
+      "title": "我认为把go语言划分到过程语言中是不合理的",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-04-08T08:48:27Z",
+      "closed_at": "2019-04-10T06:33:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 131,
+      "title": "CDN技能图谱的脑图404了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-07T08:28:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 130,
+      "title": "不知是否增加更多xmind的源文件",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-24T07:19:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 129,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-10-18T19:27:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 128,
+      "title": "Add Golang mind map",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-09-13T01:56:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 127,
+      "title": "fix: typo Meber -> Member in README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-01T14:13:49Z",
+      "closed_at": "2019-05-30T08:47:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 126,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-08-31T02:46:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 125,
+      "title": "Update map-Kubernetes.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-31T02:44:19Z",
+      "closed_at": "2019-07-19T03:41:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 124,
+      "title": "移动性能优化的脑图内错别字",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-20T01:04:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 123,
+      "title": "优化排版",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-07-04T06:22:08Z",
+      "closed_at": "2019-07-19T03:41:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 122,
+      "title": "JAVA语言发展了20多年，竟然没有预览图，求更",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-01T10:52:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 121,
+      "title": "iOS 那个还是16年的老图了。。。",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-05T06:41:07Z",
+      "closed_at": "2020-08-13T09:14:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 120,
+      "title": "Merge pull request #1 from TeamStuQ/master",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-04-06T05:55:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 119,
+      "title": "Merge pull request #1 from TeamStuQ/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-03-06T06:13:23Z",
+      "closed_at": "2018-03-06T06:14:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 118,
+      "title": "怎么没有操作系统、编译原理这些底层的东西?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-05T08:01:53Z",
+      "closed_at": "2018-06-30T10:15:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 117,
+      "title": "机器学习图谱问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-02-22T19:43:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 116,
+      "title": "是否可以增加统一通信的skill-map?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-02-22T06:17:28Z",
+      "closed_at": "2021-05-28T00:55:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 115,
+      "title": "windows c++ 安全 内核 相关",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-02-10T02:14:38Z",
+      "closed_at": "2018-03-05T01:45:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 114,
+      "title": "前端的好像已经过时了啊",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-25T21:52:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 113,
+      "title": "Apollo map 1219 version ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-19T11:51:38Z",
+      "closed_at": "2017-12-19T12:01:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 112,
+      "title": " add apollo project ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-15T11:43:32Z",
+      "closed_at": "2017-12-18T01:58:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 110,
+      "title": "云计算工程师必备技能脑图-iptobles应该是iptables吧",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-10-23T03:50:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 109,
+      "title": "『DevOps 技能图谱 』内容建设讨论",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-10-15T04:48:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 108,
+      "title": "前端的图好像过期了啊",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-10-13T00:29:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 107,
+      "title": "『DevOps』学习资源",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-10-12T08:35:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 106,
+      "title": "feature: upgraded skill map of OpenResty.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-09-29T09:02:01Z",
+      "closed_at": "2017-09-29T09:03:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 105,
+      "title": "知乎上有人用这个repo的图片来给自己的公众号吸引粉丝",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-09-21T11:27:37Z",
+      "closed_at": "2022-07-04T05:35:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 104,
+      "title": "本地启动去掉了么？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-08-07T07:30:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 103,
+      "title": "『技术管理』学习资料",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-07-24T08:36:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 102,
+      "title": "Update map-Kubernetes.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-07-21T12:48:44Z",
+      "closed_at": "2017-07-31T10:32:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 101,
+      "title": "增加testerhome测试工程师技能树",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-06-27T20:04:46Z",
+      "closed_at": "2017-07-06T06:17:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 100,
+      "title": "更新内容. 补充更多的测试工具, 去掉过时的工具",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-06-27T02:39:25Z",
+      "closed_at": "2017-06-27T03:49:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 99,
+      "title": "更新testerhome积累的技术图谱",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-06-26T19:03:11Z",
+      "closed_at": "2017-06-27T02:37:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 98,
+      "title": "DBA图谱的一个小错误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-06-15T11:51:09Z",
+      "closed_at": "2017-07-15T03:27:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 97,
+      "title": "是否可以增加区块链的skill-map?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-05-30T09:12:11Z",
+      "closed_at": "2020-09-24T10:15:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 96,
+      "title": "是否可以增加DevOps的skill-map?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-05-17T10:01:12Z",
+      "closed_at": "2019-05-09T01:01:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 95,
+      "title": "希望提供TeamStuQ重新绘制后的Xmind文件",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-04-24T02:59:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 94,
+      "title": "求大神增加游戏开发图谱",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-04-18T03:45:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 93,
+      "title": "增加流媒体图谱",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-03-11T03:06:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 92,
+      "title": "H5脑图纰漏",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-03-06T14:30:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 91,
+      "title": "update readme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-02-28T15:54:31Z",
+      "closed_at": "2017-06-27T03:50:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 90,
+      "title": "iOS的技能图谱较粗略，望细化内容",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-02-26T07:03:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 89,
+      "title": "添加软件测试图",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-02-23T10:00:53Z",
+      "closed_at": "2019-01-01T01:47:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 88,
+      "title": "Angular2脑图像素太低了",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-02-10T08:34:40Z",
+      "closed_at": "2017-04-22T07:02:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 87,
+      "title": "关于Angular2图谱的建议",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-02-10T02:45:27Z",
+      "closed_at": "2017-02-14T09:39:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 86,
+      "title": "Android 架构师 脑图 404 not found",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-01-08T03:57:18Z",
+      "closed_at": "2017-04-22T07:02:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "『 Android 开发』学习资源",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-12-28T10:22:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "能尽快整理出PHP的不",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-12-15T04:02:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "技术栈遍地如麻，感谢StuQ整理的资料！",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-12-14T02:47:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 82,
+      "title": "Fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-12-14T01:29:39Z",
+      "closed_at": "2016-12-15T07:22:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 81,
+      "title": "增加图谱：搜索引擎 技能栈　和　数据可视化　技能栈",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-11-18T03:27:41Z",
+      "closed_at": "2023-07-13T02:51:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "本地启动报错",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-10-12T14:46:48Z",
+      "closed_at": "2019-01-01T01:27:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "对官网的图谱提个小建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-10-09T04:01:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "咋没有scala",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-10-08T12:01:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "『 DBA 』学习资源",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-10-06T04:38:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "『 HTML5 开发 』学习资源",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-10-06T04:15:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-09-29T06:45:37Z",
+      "closed_at": "2016-09-29T06:47:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "DBA skill map",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-09-07T06:21:41Z",
+      "closed_at": "2016-09-14T07:20:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "Skill map",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-09-07T04:25:18Z",
+      "closed_at": "2016-09-07T06:01:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "『 CDN／DNS 技术 』学习资源",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-08-30T11:46:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "架构师的脑图链接无效",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-08-30T09:39:43Z",
+      "closed_at": "2017-10-12T07:09:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "增加单元测试和代码覆盖率常用工具",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-17T01:58:28Z",
+      "closed_at": "2016-08-19T05:31:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "没有PHP，差评",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-08-16T14:45:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "解决了一些排版错误",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-08T10:12:50Z",
+      "closed_at": "2016-08-09T01:28:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "增加Edge浏览器和ECMAScript",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-08T09:54:50Z",
+      "closed_at": "2016-08-26T09:41:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "增加一些常见组件",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-08T09:39:28Z",
+      "closed_at": "2016-08-09T01:27:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 65,
+      "title": "0808做了大量增加",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-08T09:23:13Z",
+      "closed_at": "2016-08-08T09:24:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "增加流媒体协议，直播指标，直播分类",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-06T04:50:08Z",
+      "closed_at": "2016-08-08T09:15:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": "Oprofile=>OProfile",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-05T06:17:42Z",
+      "closed_at": "2016-08-08T09:15:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "动静态分=>动静态分离",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-05T06:11:57Z",
+      "closed_at": "2016-08-08T09:15:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "add Android ROM dev skill map.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-05T04:09:58Z",
+      "closed_at": "2016-08-08T09:19:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "添加PHP工程师技术图谱",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-04T11:15:59Z",
+      "closed_at": "2016-08-09T01:27:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "增加Web音视频标准",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-04T02:14:04Z",
+      "closed_at": "2016-08-04T07:34:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "update0803",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-03T08:36:17Z",
+      "closed_at": "2016-08-04T02:04:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "add android app dev skill map.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-03T02:52:22Z",
+      "closed_at": "2016-08-04T00:14:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "Master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-02T13:43:16Z",
+      "closed_at": "2016-08-08T09:19:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "『 直播技术 』学习资源",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-08-01T10:41:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "lmdeditor",
+      "contributions": 271
+    },
+    {
+      "login": "moonming",
+      "contributions": 18
+    },
+    {
+      "login": "IrisYao",
+      "contributions": 8
+    },
+    {
+      "login": "i5ting",
+      "contributions": 8
+    },
+    {
+      "login": "mickeyouyou",
+      "contributions": 6
+    },
+    {
+      "login": "jixiaod",
+      "contributions": 5
+    },
+    {
+      "login": "mingjunli",
+      "contributions": 5
+    },
+    {
+      "login": "s32n",
+      "contributions": 5
+    },
+    {
+      "login": "MiliOnE",
+      "contributions": 5
+    },
+    {
+      "login": "hzraevets",
+      "contributions": 4
+    },
+    {
+      "login": "izhangzhihao",
+      "contributions": 4
+    },
+    {
+      "login": "zhangwei217245",
+      "contributions": 3
+    },
+    {
+      "login": "bao1zhi",
+      "contributions": 3
+    },
+    {
+      "login": "ZhangHanDong",
+      "contributions": 3
+    },
+    {
+      "login": "linfan",
+      "contributions": 3
+    },
+    {
+      "login": "Stevearzh",
+      "contributions": 2
+    },
+    {
+      "login": "wldandan",
+      "contributions": 2
+    },
+    {
+      "login": "seveniruby",
+      "contributions": 2
+    },
+    {
+      "login": "Echo1368519793",
+      "contributions": 2
+    },
+    {
+      "login": "DennisMao",
+      "contributions": 1
+    },
+    {
+      "login": "resouer",
+      "contributions": 1
+    },
+    {
+      "login": "HaskellZhangSong",
+      "contributions": 1
+    },
+    {
+      "login": "duchengyao",
+      "contributions": 1
+    },
+    {
+      "login": "WenryXu",
+      "contributions": 1
+    },
+    {
+      "login": "membphis",
+      "contributions": 1
+    },
+    {
+      "login": "broccolii",
+      "contributions": 1
+    },
+    {
+      "login": "flingjie",
+      "contributions": 1
+    },
+    {
+      "login": "fnet123",
+      "contributions": 1
+    },
+    {
+      "login": "ipfans",
+      "contributions": 1
+    },
+    {
+      "login": "luoye-fe",
+      "contributions": 1
+    },
+    {
+      "login": "wxj221217",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "0.1.2",
+      "published_at": "2015-11-20T08:13:22Z"
+    },
+    {
+      "tag": "v0.1.1",
+      "published_at": "2015-11-19T06:01:13Z"
+    }
+  ],
+  "collected_at": "2026-07-20T08:46:54.664919Z"
+}

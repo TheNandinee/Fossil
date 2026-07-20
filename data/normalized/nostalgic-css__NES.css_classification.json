@@ -1,0 +1,124 @@
+{
+  "full_name": "nostalgic-css/NES.css",
+  "cause": "maintainer_abandonment",
+  "confidence": 0.83,
+  "death_score": 0.829,
+  "supporting_evidence": [
+    {
+      "analyzer": "commits",
+      "code": "last_commit_age",
+      "summary": "Last commit was 1826 days ago",
+      "severity": "high",
+      "value": 1826,
+      "unit": "days"
+    },
+    {
+      "analyzer": "issues",
+      "code": "no_responses",
+      "summary": "Issues exist but none received any response",
+      "severity": "high",
+      "value": null,
+      "unit": null
+    },
+    {
+      "analyzer": "releases",
+      "code": "last_release_age",
+      "summary": "Last release was 6.6 years ago",
+      "severity": "high",
+      "value": 2406,
+      "unit": "days"
+    },
+    {
+      "analyzer": "commits",
+      "code": "commit_frequency",
+      "summary": "Averaged 4.7 commits/month over history",
+      "severity": "info",
+      "value": 4.66,
+      "unit": "commits/month"
+    }
+  ],
+  "analyses": [
+    {
+      "analyzer": "commits",
+      "evidence": [
+        {
+          "analyzer": "commits",
+          "code": "last_commit_age",
+          "summary": "Last commit was 1826 days ago",
+          "severity": "high",
+          "value": 1826,
+          "unit": "days"
+        },
+        {
+          "analyzer": "commits",
+          "code": "commit_frequency",
+          "summary": "Averaged 4.7 commits/month over history",
+          "severity": "info",
+          "value": 4.66,
+          "unit": "commits/month"
+        }
+      ],
+      "metrics": {
+        "analyzer": "commits",
+        "metrics": {
+          "commit_count_window": 100.0,
+          "days_since_last_commit": 1826.4,
+          "commits_per_month": 4.66
+        }
+      }
+    },
+    {
+      "analyzer": "contributors",
+      "evidence": [],
+      "metrics": {
+        "analyzer": "contributors",
+        "metrics": {
+          "contributor_count": 56.0,
+          "total_contributions": 774.0,
+          "top_contributor_share": 0.419
+        }
+      }
+    },
+    {
+      "analyzer": "issues",
+      "evidence": [
+        {
+          "analyzer": "issues",
+          "code": "no_responses",
+          "summary": "Issues exist but none received any response",
+          "severity": "high",
+          "value": null,
+          "unit": null
+        }
+      ],
+      "metrics": {
+        "analyzer": "issues",
+        "metrics": {
+          "issue_count": 33.0,
+          "open_issue_count": 22.0
+        }
+      }
+    },
+    {
+      "analyzer": "releases",
+      "evidence": [
+        {
+          "analyzer": "releases",
+          "code": "last_release_age",
+          "summary": "Last release was 6.6 years ago",
+          "severity": "high",
+          "value": 2406,
+          "unit": "days"
+        }
+      ],
+      "metrics": {
+        "analyzer": "releases",
+        "metrics": {
+          "release_count": 7.0,
+          "days_since_last_release": 2406.9
+        }
+      }
+    }
+  ],
+  "narrative": null
+}

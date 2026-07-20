@@ -1,0 +1,1785 @@
+{
+  "full_name": "nostalgic-css/NES.css",
+  "owner": "nostalgic-css",
+  "name": "NES.css",
+  "url": "https://github.com/nostalgic-css/NES.css",
+  "description": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+  "primary_language": "SCSS",
+  "topics": [
+    "8bit",
+    "css",
+    "css-framework",
+    "nes",
+    "scss"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 21784,
+  "forks": 1690,
+  "open_issues": 79,
+  "created_at": "2018-09-24T01:49:11Z",
+  "pushed_at": "2024-01-17T20:53:09Z",
+  "updated_at": "2026-07-20T07:48:51Z",
+  "commits": [
+    {
+      "sha": "b1cc9944aae3274461c747d7ad1cab31df45e78c",
+      "author_login": "guastallaigor",
+      "authored_at": "2021-07-19T23:41:46Z",
+      "message": "Merge pull request #466 from diyews/fix-github-readme"
+    },
+    {
+      "sha": "9e7e9c950cb23d09623cb3ee27e47be02331eee8",
+      "author_login": "diyews",
+      "authored_at": "2021-07-17T15:51:33Z",
+      "message": "docs: fix CONTRIBUTING.md path in README-ru.md"
+    },
+    {
+      "sha": "ce24214b2304648e7e84f7eb75dd23208a83c764",
+      "author_login": "diyews",
+      "authored_at": "2021-07-17T15:39:13Z",
+      "message": "docs: .github/ path is unnecessary for inside .md files"
+    },
+    {
+      "sha": "62d6d29ac3555a0492c73c512440660256d42b44",
+      "author_login": "diyews",
+      "authored_at": "2021-07-17T15:30:59Z",
+      "message": "docs: fix links to CODE_OF_CONDUCT.md of all languages"
+    },
+    {
+      "sha": "4e95e26f50a180cc6547f71fd6a779e47a2d6af5",
+      "author_login": "diyews",
+      "authored_at": "2021-07-17T15:46:52Z",
+      "message": "docs: fix CONTRIBUTING.md 404 when navigate from .github/"
+    },
+    {
+      "sha": "f498c3fee1e7fd7a22fb422a6b25a5aa4c670d6c",
+      "author_login": "diyews",
+      "authored_at": "2021-07-17T15:01:25Z",
+      "message": "docs: fix README.md 404 when navigate from .github/"
+    },
+    {
+      "sha": "fcc920ae686a5f2766b7a9832aab867c48942ae5",
+      "author_login": "diyews",
+      "authored_at": "2021-07-17T14:42:44Z",
+      "message": "build: add .idea to .gitignore for JetBrains IDEs"
+    },
+    {
+      "sha": "17fcd56cd9a868d4e6262a4afc831381f89176fd",
+      "author_login": "guastallaigor",
+      "authored_at": "2021-07-13T16:05:05Z",
+      "message": "Merge pull request #465 from tank3a/update-docs"
+    },
+    {
+      "sha": "0abf98e680e5bec4bfa23e730aeb3a5d9eddbb97",
+      "author_login": "tank3a",
+      "authored_at": "2021-07-13T14:08:33Z",
+      "message": "Merge branch 'update-docs' of https://github.com/tank3a/NES.css into update-docs"
+    },
+    {
+      "sha": "1033d669250ef077131b9cc6c126419281eb4205",
+      "author_login": "tank3a",
+      "authored_at": "2021-07-13T14:07:11Z",
+      "message": "docs: fix korean contributing translation file"
+    },
+    {
+      "sha": "ab82b897d8e560fa15073a38a257765887230121",
+      "author_login": "tank3a",
+      "authored_at": "2021-07-12T12:36:08Z",
+      "message": "docs: add korean contributing translation file"
+    },
+    {
+      "sha": "01091afdeaad8abb122c4995b83bd8c77790936a",
+      "author_login": "tank3a",
+      "authored_at": "2021-07-12T12:39:12Z",
+      "message": "Fixed Mistyping"
+    },
+    {
+      "sha": "fb286e2eebce289ace297e70fde7dfa34f0fdb82",
+      "author_login": "tank3a",
+      "authored_at": "2021-07-12T12:36:08Z",
+      "message": "Added Korean translations for CONTRIBUTING.md & Added CONTRIBUTING-ko link to other CONTRIBUTINGS"
+    },
+    {
+      "sha": "258e1a03b7622b599fe62de64f35e759cdb60019",
+      "author_login": "guastallaigor",
+      "authored_at": "2021-05-16T18:12:52Z",
+      "message": "Merge pull request #461 from loo41/features/radio-center"
+    },
+    {
+      "sha": "27817d63ba1cb93fcf3b70e65fe9e47e8e307ccf",
+      "author_login": null,
+      "authored_at": "2021-05-15T12:52:11Z",
+      "message": "fix(radio): fix radio before element center"
+    },
+    {
+      "sha": "c875ffa15194ad11e535a49e94e22eba8134b61f",
+      "author_login": "guastallaigor",
+      "authored_at": "2021-05-14T00:55:04Z",
+      "message": "Merge pull request #458 from loo41/features/form-disabled"
+    },
+    {
+      "sha": "27bbae1101531560d4a42cd92018dde4781170b9",
+      "author_login": null,
+      "authored_at": "2021-05-11T06:21:01Z",
+      "message": "feat(form): add form is-disabled storybook"
+    },
+    {
+      "sha": "c4aec3867486ae6626cbf9a07284ab0c2e1c3f3e",
+      "author_login": null,
+      "authored_at": "2021-05-11T05:20:30Z",
+      "message": "feat(form): add \"is-disabled\" class with form"
+    },
+    {
+      "sha": "444faf05d1427c007e3aab24ba8441c84c6c04ab",
+      "author_login": "guastallaigor",
+      "authored_at": "2021-03-05T00:54:17Z",
+      "message": "Merge pull request #451 from zhuzilin/develop"
+    },
+    {
+      "sha": "5f932287477f59b82b15fca31a74a9e6cd40923e",
+      "author_login": "zhuzilin",
+      "authored_at": "2021-03-02T15:25:57Z",
+      "message": "fix(button): disable hover of disabled button"
+    },
+    {
+      "sha": "8c5895fc459c189d8215ba7b70320882fcd206d5",
+      "author_login": "guastallaigor",
+      "authored_at": "2021-02-25T02:38:40Z",
+      "message": "Merge pull request #446 from besasam/develop"
+    },
+    {
+      "sha": "71974a186c34e98fd4dd1429ec225c6067a70c4d",
+      "author_login": "besasam",
+      "authored_at": "2021-01-25T09:34:23Z",
+      "message": "feat: Add \"is-pixelated\" class for avatars with styles for all browsers"
+    },
+    {
+      "sha": "1e3e7996c5504cf9d907fc08615ed7c433d774d6",
+      "author_login": "trezy",
+      "authored_at": "2020-10-05T13:40:29Z",
+      "message": "Merge pull request #428 from virtuoushub/node-security-fixes-and-circleci-cleanup"
+    },
+    {
+      "sha": "655c9d31fbf5dba02862be3853543e20a3d87deb",
+      "author_login": "guastallaigor",
+      "authored_at": "2020-10-02T17:36:19Z",
+      "message": "Merge branch 'develop' into node-security-fixes-and-circleci-cleanup"
+    },
+    {
+      "sha": "2b1e7db173349c6e65d0b1182bfef6f0b23abd89",
+      "author_login": "guastallaigor",
+      "authored_at": "2020-10-02T15:19:51Z",
+      "message": "Merge pull request #440 from xroll/develop"
+    },
+    {
+      "sha": "afc910b78050341ba8a471c639a3878c00827d38",
+      "author_login": null,
+      "authored_at": "2020-10-02T10:19:10Z",
+      "message": "build(circleci): bump node orb version"
+    },
+    {
+      "sha": "6f8bbc17d8717703fe753269a3d560593fc7f47e",
+      "author_login": null,
+      "authored_at": "2020-10-02T10:11:19Z",
+      "message": "build(circleci): remove end of lifed node version"
+    },
+    {
+      "sha": "cad24d03f25b7a749c29fdffcf4adf3a08b43e08",
+      "author_login": null,
+      "authored_at": "2020-10-02T10:09:01Z",
+      "message": "build(circleci): bump supported node versions"
+    },
+    {
+      "sha": "74dc822fb1ddce8865456bff032dd273b99ba63c",
+      "author_login": null,
+      "authored_at": "2020-06-07T22:24:36Z",
+      "message": "build(circleci): bump node orb version"
+    },
+    {
+      "sha": "84d6a95711fe0b5ecfa24ddfd3e69e983f3fce51",
+      "author_login": null,
+      "authored_at": "2020-06-03T18:03:30Z",
+      "message": "build(circleci): store build artifacts"
+    },
+    {
+      "sha": "713bfc731b345a46e480ce851cd56c952dd65ddc",
+      "author_login": null,
+      "authored_at": "2020-06-03T13:07:46Z",
+      "message": "build(circleci): clean up config"
+    },
+    {
+      "sha": "25410ea0ef0af6baf011f7042992959b764f25ae",
+      "author_login": "xroll",
+      "authored_at": "2020-10-01T12:34:49Z",
+      "message": "feat: update readme.md file"
+    },
+    {
+      "sha": "dcd7430f6d8d0699af48c10590604fb31b9ffdbd",
+      "author_login": "xroll",
+      "authored_at": "2020-10-01T12:33:51Z",
+      "message": "feat: create readme-fr.md file"
+    },
+    {
+      "sha": "ebcb62a80547caca4cf126d3a27f4a6761c979ae",
+      "author_login": "trezy",
+      "authored_at": "2020-08-14T16:34:44Z",
+      "message": "Merge pull request #433 from nilesh-n/patch-1"
+    },
+    {
+      "sha": "5c452d7b6b4f5d76c70e2265e2b382e355dff479",
+      "author_login": "nilesh-n",
+      "authored_at": "2020-07-24T17:36:42Z",
+      "message": "fix: update typos in website copy"
+    },
+    {
+      "sha": "afe1ea030927c55d2b0ad8117379123025e8933f",
+      "author_login": "guastallaigor",
+      "authored_at": "2020-06-03T13:30:05Z",
+      "message": "Merge pull request #422 from ldd/develop"
+    },
+    {
+      "sha": "dbf032c36339615380ad2beec017c24ed68cde52",
+      "author_login": "ldd",
+      "authored_at": "2020-06-02T21:02:47Z",
+      "message": "fix(badge): deprecate is-splited instead of removing it"
+    },
+    {
+      "sha": "c0b925ee4ac4428a06b41258d9666a6dd0da2152",
+      "author_login": "ldd",
+      "authored_at": "2020-05-27T13:42:13Z",
+      "message": "fix(badge): rename is-splited to is-split"
+    },
+    {
+      "sha": "7cb4a1dda8397a62df6d2eeb594a5e336fbd2e40",
+      "author_login": "guastallaigor",
+      "authored_at": "2020-06-02T18:52:21Z",
+      "message": "Merge pull request #421 from SecretBase/develop"
+    },
+    {
+      "sha": "ba5b1c5232f86feb384cb7198c3cbf4ec5842192",
+      "author_login": "guastallaigor",
+      "authored_at": "2020-06-02T17:49:18Z",
+      "message": "Merge branch 'develop' into develop"
+    },
+    {
+      "sha": "58e1da85e3a3634354e97ff6379e8e92a2544e37",
+      "author_login": "guastallaigor",
+      "authored_at": "2020-06-02T17:32:36Z",
+      "message": "Merge pull request #418 from virtuoushub/node-sass-circle-ci"
+    },
+    {
+      "sha": "f623f8d5bce5d096badee2cd28bd533f1b3e03f7",
+      "author_login": null,
+      "authored_at": "2020-06-02T14:23:02Z",
+      "message": "build(circleci): add node build matrix"
+    },
+    {
+      "sha": "cefe57ba6f1e652e5cc6d37789c01e1c3d0a785d",
+      "author_login": null,
+      "authored_at": "2020-05-10T02:56:40Z",
+      "message": "build(npm): remove node engine check for <13"
+    },
+    {
+      "sha": "dfc15660e21bea43bd3addd73a6362d1e3b27782",
+      "author_login": "SecretBase",
+      "authored_at": "2020-05-19T14:49:51Z",
+      "message": "fix: dark mode table blocking interaction psesudo element"
+    },
+    {
+      "sha": "5c8c349178b789c0179d4af86d01b6d60c8369f9",
+      "author_login": null,
+      "authored_at": "2020-05-10T02:57:49Z",
+      "message": "build(npm): upgrade to latest node-sass"
+    },
+    {
+      "sha": "1b91ecfa2ea96d24ed3f66803896f46a268ad0ad",
+      "author_login": "BcRikko",
+      "authored_at": "2020-03-17T12:58:58Z",
+      "message": "Merge pull request #408 from nostalgic-css/feature/how-to-install"
+    },
+    {
+      "sha": "5270b84349b4088e1779494c3256bd7271de6620",
+      "author_login": "BcRikko",
+      "authored_at": "2020-03-16T06:48:23Z",
+      "message": "docs(package.json): change the required node version"
+    },
+    {
+      "sha": "33b65380726a7aac0ca253a5ce1965755ab858e5",
+      "author_login": "BcRikko",
+      "authored_at": "2020-03-16T06:42:56Z",
+      "message": "docs(readme): add about how to install"
+    },
+    {
+      "sha": "e13d062735fc963914b5cb67b932a9e5ad6d4a4f",
+      "author_login": "guastallaigor",
+      "authored_at": "2020-03-15T12:20:23Z",
+      "message": "Merge pull request #407 from littlecxm/update-readme"
+    },
+    {
+      "sha": "df949a63e56810026f76c2643ea4d2451dddf080",
+      "author_login": null,
+      "authored_at": "2020-03-15T04:20:47Z",
+      "message": "Merge branch 'update-readme' of github.com:littlecxm/NES.css into update-readme"
+    },
+    {
+      "sha": "44a19726b7a18d536ad470b5bfbc62c0cbb2d5a5",
+      "author_login": null,
+      "authored_at": "2020-03-15T04:18:16Z",
+      "message": "docs: fixed pt-BR README.md and default README.md"
+    },
+    {
+      "sha": "ec0869596acbdb46cfc7cac607b2833f766ef2db",
+      "author_login": null,
+      "authored_at": "2020-03-15T04:18:16Z",
+      "message": "fixed pt-BR README.md and default README.md"
+    },
+    {
+      "sha": "c67e1d8ed743ea0e4fff7e4b02cffbeab728047e",
+      "author_login": null,
+      "authored_at": "2020-03-14T12:12:50Z",
+      "message": "docs: add chinese font recommend to other lang readme & fix readme link"
+    },
+    {
+      "sha": "0c53b9070b49149d9adc74f179b034260f04bb82",
+      "author_login": "guastallaigor",
+      "authored_at": "2020-03-14T11:52:31Z",
+      "message": "Merge pull request #406 from littlecxm/update-readme"
+    },
+    {
+      "sha": "e706cc8ca0042d172b1d38fb0e794661cdcad3df",
+      "author_login": null,
+      "authored_at": "2020-03-11T04:25:44Z",
+      "message": "docs: add chinese font recommend & update chinese readme"
+    },
+    {
+      "sha": "9af943e77a09e4b4e1332f15e245ef79bb20369c",
+      "author_login": "BcRikko",
+      "authored_at": "2020-01-28T23:58:18Z",
+      "message": "Merge pull request #396 from nostalgic-css/add-list-is-dark"
+    },
+    {
+      "sha": "a357881a2e56160e43b7b1e7db0e09b520d8b463",
+      "author_login": "guastallaigor",
+      "authored_at": "2020-01-28T10:38:51Z",
+      "message": "docs: add list is-dark to index doc example"
+    },
+    {
+      "sha": "2316c07c3a99c6075e0c32c57e04982c2ddd53d1",
+      "author_login": "guastallaigor",
+      "authored_at": "2020-01-28T10:34:35Z",
+      "message": "feat(list): add list is-dark storybook and classes"
+    },
+    {
+      "sha": "775027138ae1ce69afe5fee8c72b1e9009926e48",
+      "author_login": "BcRikko",
+      "authored_at": "2020-01-05T23:20:28Z",
+      "message": "Merge pull request #394 from OswaldoPineda/patch-1"
+    },
+    {
+      "sha": "e1416333b51a448b0c20c71280c4d94d70e6e53c",
+      "author_login": "OswaldoPineda",
+      "authored_at": "2020-01-05T07:17:26Z",
+      "message": "docs: update the readme-es file"
+    },
+    {
+      "sha": "83195ea658828eb4f5a66aa323fa2f2c084474f0",
+      "author_login": "guastallaigor",
+      "authored_at": "2019-12-27T16:24:53Z",
+      "message": "Merge pull request #393 from HiKaylum/select_comp"
+    },
+    {
+      "sha": "f85b17d22f8ce6ae28ee6188675c8abdec2aea9f",
+      "author_login": "HiKaylum",
+      "authored_at": "2019-12-27T15:49:21Z",
+      "message": "Merge branch 'develop' into select_comp"
+    },
+    {
+      "sha": "6b6f68ee8ce464addb76a0b6f513bacf6a5205e2",
+      "author_login": "HiKaylum",
+      "authored_at": "2019-12-22T15:41:33Z",
+      "message": "fix(select): fixed select state styling"
+    },
+    {
+      "sha": "02ac0d18b81b640f669064e2eb6a56acaac87588",
+      "author_login": "BcRikko",
+      "authored_at": "2019-12-17T12:34:52Z",
+      "message": "docs(readme.md): update version of nes.css"
+    },
+    {
+      "sha": "2790eabed8a1c0c52973a2ba253dde75d404b95d",
+      "author_login": "BcRikko",
+      "authored_at": "2019-12-17T12:16:53Z",
+      "message": "Merge pull request #390 from nostalgic-css/release-docs"
+    },
+    {
+      "sha": "fb5fac6b674e5ba4a7164dd9a2eaba51a3cf8a90",
+      "author_login": "BcRikko",
+      "authored_at": "2019-12-17T12:14:28Z",
+      "message": "docs: release update"
+    },
+    {
+      "sha": "d2235f9c047d2c154d08187dd2ac36c2e79b4cf4",
+      "author_login": "guastallaigor",
+      "authored_at": "2019-12-17T00:41:38Z",
+      "message": "Merge pull request #389 from HiKaylum/heart_reaction"
+    },
+    {
+      "sha": "fbe2e5c4d321cf71426411bd4f4ba1ab3bb1c43c",
+      "author_login": "HiKaylum",
+      "authored_at": "2019-12-16T21:52:26Z",
+      "message": "feat(heart): added new heart reaction state"
+    },
+    {
+      "sha": "2dcec7b40a958b217f1629bf75d36c1cdceb5977",
+      "author_login": "BcRikko",
+      "authored_at": "2019-12-16T00:17:13Z",
+      "message": "Merge pull request #385 from HiKaylum/storybook_enhancement_1"
+    },
+    {
+      "sha": "2e06165882aa32f780b10da493ca9cb539333ea8",
+      "author_login": "HiKaylum",
+      "authored_at": "2019-12-14T15:21:15Z",
+      "message": "refactor(storybook): storybook enhancement and cleanup"
+    },
+    {
+      "sha": "08cbd6e51e68f5c3a4a9e5af57c5e93b8ea3d2cd",
+      "author_login": "BcRikko",
+      "authored_at": "2019-12-04T17:55:38Z",
+      "message": "Merge branch 'master' into develop"
+    },
+    {
+      "sha": "81427f80514a0ec02bf603a00512d9730ffb95cd",
+      "author_login": "BcRikko",
+      "authored_at": "2019-12-04T17:53:18Z",
+      "message": "Merge pull request #383 from nostalgic-css/update-contributors-array"
+    },
+    {
+      "sha": "41c1e14e83e79b84106f5af5e849ff3585b6f45c",
+      "author_login": "guastallaigor",
+      "authored_at": "2019-12-03T22:30:23Z",
+      "message": "Merge pull request #382 from HiKaylum/baloons_dark_mode_docs"
+    },
+    {
+      "sha": "5d2078846018f82c87571ce769d3818d67e07be3",
+      "author_login": "guastallaigor",
+      "authored_at": "2019-12-03T19:34:17Z",
+      "message": "docs: update contributors array"
+    },
+    {
+      "sha": "216b8a935102255af63014871039576785b3acab",
+      "author_login": "HiKaylum",
+      "authored_at": "2019-12-03T17:59:08Z",
+      "message": "docs(baloons): added `is-dark` baloons to the docs"
+    },
+    {
+      "sha": "f830e95830f1c96c8d166268bca1723a8cd1ceb3",
+      "author_login": "guastallaigor",
+      "authored_at": "2019-11-03T11:04:10Z",
+      "message": "Merge pull request #376 from nostalgic-css/feature/funding"
+    },
+    {
+      "sha": "de19e298544047510f94ac40cb5d23905d7d19fc",
+      "author_login": "BcRikko",
+      "authored_at": "2019-11-03T03:24:11Z",
+      "message": "chore(funding.yml): add funding file"
+    },
+    {
+      "sha": "e42e5e73c70a990fe7ef0f7ad45fa79f047042fe",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-18T14:52:42Z",
+      "message": "Merge pull request #371 from nostalgic-css/fix-gaps"
+    },
+    {
+      "sha": "d393199e863de648ac0eae641bbcb1f4d1b02b8e",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-18T14:50:18Z",
+      "message": "Merge branch 'develop' into fix-gaps"
+    },
+    {
+      "sha": "95f0384e44caaf4052bcfca27c11fb669dbf0a0e",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-17T13:44:47Z",
+      "message": "Merge pull request #373 from nostalgic-css/add-type-file-story"
+    },
+    {
+      "sha": "8d0879156933c3b122b1818c031b9327a4106737",
+      "author_login": "guastallaigor",
+      "authored_at": "2019-10-17T11:32:50Z",
+      "message": "Merge branch 'develop' into fix-gaps"
+    },
+    {
+      "sha": "eef46996de1b9950633bf473ee2d8bbed59d111a",
+      "author_login": "guastallaigor",
+      "authored_at": "2019-10-17T11:24:30Z",
+      "message": "Merge pull request #372 from nostalgic-css/input-file"
+    },
+    {
+      "sha": "2f58b5e81f148c5deb92ef687d33be9a69ee2e58",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-17T08:41:21Z",
+      "message": "feat(buttons.scss): add input-file feature"
+    },
+    {
+      "sha": "09e538bf00a6c071f859a8178ad3e66b449a1c53",
+      "author_login": "guastallaigor",
+      "authored_at": "2019-10-17T08:29:46Z",
+      "message": "feat(buttons): add storybook for input type file"
+    },
+    {
+      "sha": "287d52aa63b8a86245b3dd7a1b769f11bcf8ffb3",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-17T07:56:49Z",
+      "message": "refactor: add fill-gaps utility"
+    },
+    {
+      "sha": "e323e22ee6b61abe876da45d0c0f5dbafac2721b",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-17T07:34:45Z",
+      "message": "Merge pull request #370 from brendansparrow/patch-1"
+    },
+    {
+      "sha": "96721c2e79cf6a84be138c06d0c25927dab659f2",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-17T07:31:14Z",
+      "message": "Merge branch 'develop' into patch-1"
+    },
+    {
+      "sha": "341cfbd3fe8b8533518c678a84537828f07e91a1",
+      "author_login": "brendansparrow",
+      "authored_at": "2019-10-16T18:46:10Z",
+      "message": "fix: update icon-mixin.scss"
+    },
+    {
+      "sha": "9bd7af1a8dd6564b4945794176a0f3472079a8b4",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-17T05:10:43Z",
+      "message": "Merge pull request #369 from nostalgic-css/feature/update-contributing"
+    },
+    {
+      "sha": "5311da785d07dbad80aa72bd5f8e91dd67f0089a",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-17T05:07:30Z",
+      "message": "Merge branch 'develop' into feature/update-contributing"
+    },
+    {
+      "sha": "3124a3d71072fb85696e060bd7ad6aaf237c529c",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-17T05:06:28Z",
+      "message": "Merge pull request #368 from nostalgic-css/fix-stylelint-errors"
+    },
+    {
+      "sha": "c3f07d93d2748000d1160dcd419ae66eb905fcc6",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-17T05:03:38Z",
+      "message": "Merge branch 'develop' into fix-stylelint-errors"
+    },
+    {
+      "sha": "a69eb8fe0394680ce1d4eebdc4d26abee14b6fb3",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-17T04:55:00Z",
+      "message": "style(package.json): fix lint-staged"
+    },
+    {
+      "sha": "9ec8f0928098ec6bfe26090c4b1abc63bbd0cfe6",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-16T05:19:45Z",
+      "message": "docs(contributing.md): move message about storybook"
+    },
+    {
+      "sha": "b969073d7e35db54bef5668a68d7bcde13e7a077",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-16T05:10:05Z",
+      "message": "Merge pull request #363 from KalobTaulien/storybook_instructions"
+    },
+    {
+      "sha": "5c959aae2c5d32bf60ee96005d555a3167b81218",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-16T05:05:46Z",
+      "message": "Merge branch 'develop' into storybook_instructions"
+    },
+    {
+      "sha": "e007c408807ac258584686e6d8ed388e65bd6be2",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-15T12:34:42Z",
+      "message": "Merge pull request #367 from AlphaWong/patch-1"
+    },
+    {
+      "sha": "f377f11cac50030acd3d7769714a9916d2065a50",
+      "author_login": "BcRikko",
+      "authored_at": "2019-10-15T12:32:45Z",
+      "message": "Merge branch 'develop' into patch-1"
+    },
+    {
+      "sha": "eb714fb81235b6d3e94913f0eb0521912c4b5d25",
+      "author_login": "guastallaigor",
+      "authored_at": "2019-10-15T12:26:12Z",
+      "message": "Merge pull request #366 from HiKaylum/balloons_dark_mode"
+    },
+    {
+      "sha": "66fff4493a35b1ef777bd12e863f89e9197639c6",
+      "author_login": "guastallaigor",
+      "authored_at": "2019-10-15T12:10:24Z",
+      "message": "Merge branch 'develop' into storybook_instructions"
+    }
+  ],
+  "issues": [
+    {
+      "number": 517,
+      "title": "SVG border rendering showing up pixelated on mobile",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-06T00:20:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 516,
+      "title": "Feature/add comprehensive testing suite",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-02T06:16:08Z",
+      "closed_at": "2025-07-02T06:17:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 515,
+      "title": "a NES.css vue component library with more components",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-05-13T15:06:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 514,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-02-10T15:30:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 513,
+      "title": "Broken graphics on Blink browsers",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-03T06:03:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 512,
+      "title": "What license are docs under?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-23T21:03:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 511,
+      "title": "G",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-08-02T21:37:33Z",
+      "closed_at": "2024-08-02T23:10:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 510,
+      "title": "I",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-07-28T12:37:41Z",
+      "closed_at": "2024-08-02T23:10:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 509,
+      "title": "Buttons and containers look .. weird on Firefox and Chrome",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-19T21:24:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 505,
+      "title": "Bump handlebars from 4.1.2 to 4.7.8 to resolve CVE-2021-23369",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-17T20:53:09Z",
+      "closed_at": "2024-01-21T06:08:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 504,
+      "title": "Bump fsevents from 1.2.7 to 1.2.13 to resolve CVE-2023-45311",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-17T20:35:44Z",
+      "closed_at": "2024-01-21T06:08:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 503,
+      "title": "Bumps handlebars from 4.1.2 to 4.7.8 to resolve CVE-2021-23369",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-10T04:40:39Z",
+      "closed_at": "2024-01-17T20:37:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 502,
+      "title": "docs: fix contributors usernames",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-11-07T13:40:19Z",
+      "closed_at": "2025-06-18T17:51:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 501,
+      "title": "Feat: Update Twitter icon ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-07T17:24:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 500,
+      "title": "feat: add discord icon",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-07-28T01:03:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 499,
+      "title": "NES.css@next",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-01T04:30:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 498,
+      "title": "Change icon",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-03-06T10:29:17Z",
+      "closed_at": "2023-03-06T10:33:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 497,
+      "title": "remove node version requirement",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-28T11:15:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 496,
+      "title": "Adding font for Arabic",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-01-26T01:14:10Z",
+      "closed_at": "2023-01-26T11:44:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 495,
+      "title": "build(deps): bump json5 and svg-url-loader",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-03T15:18:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 494,
+      "title": "[#490] Add discord icon",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-22T20:42:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 493,
+      "title": "build(deps): bump express from 4.16.4 to 4.18.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-10T13:02:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 492,
+      "title": "build(deps): bump qs and express",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T14:35:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 491,
+      "title": "build(deps): bump decode-uri-component from 0.2.0 to 0.2.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-02T12:19:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 490,
+      "title": "Adding Discord Icon",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-22T17:21:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 489,
+      "title": "Fix incompatibilities when using package",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-21T10:41:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 488,
+      "title": "build(deps-dev): bump file-type from 11.1.0 to 16.5.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-07-23T04:12:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 487,
+      "title": "updated 简体中文 ReadME with Firefox alternate name",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-20T19:15:19Z",
+      "closed_at": "2022-07-01T20:24:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 486,
+      "title": "build(deps): bump eventsource from 1.0.7 to 1.1.1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-01T22:28:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 485,
+      "title": "build(deps): bump trim-off-newlines from 1.0.1 to 1.0.3",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-05-16T18:29:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 484,
+      "title": "build(deps): bump postcss from 7.0.14 to 7.0.39",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-05-16T18:28:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 483,
+      "title": "It's look like different between chrome and debug tools.What happened?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-16T15:30:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 482,
+      "title": "fix: use border-image-repeat: stretch on chrome",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-05-08T11:29:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 481,
+      "title": "build(deps): bump lodash-es from 4.17.11 to 4.17.21",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-03-15T20:53:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 480,
+      "title": "docs: add korean contributing translation readme file",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-11T03:57:47Z",
+      "closed_at": "2022-05-04T14:52:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 479,
+      "title": "build(deps): bump url-parse from 1.4.4 to 1.5.10",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-02-28T01:48:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 478,
+      "title": "build(deps): bump url-parse from 1.4.4 to 1.5.7",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-19T15:00:07Z",
+      "closed_at": "2022-02-28T01:48:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 477,
+      "title": "build(deps): bump handlebars from 4.1.2 to 4.7.7",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-02-11T11:17:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 476,
+      "title": "build(deps): bump ua-parser-js from 0.7.19 to 0.7.31",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-02-10T20:15:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 475,
+      "title": "build(deps-dev): bump node-sass from 4.14.1 to 7.0.0",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-02-10T17:57:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 474,
+      "title": "Fix issue #462",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-11-29T04:29:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 473,
+      "title": "Buttons on index.html aren't clickable",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-23T12:52:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 472,
+      "title": "fix(button): No extra space for input type=\"file\"",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-11-10T14:06:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 471,
+      "title": "fix(button): Remove extra space caused by input type=\"file\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-11-10T07:10:51Z",
+      "closed_at": "2021-11-10T14:04:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 470,
+      "title": "feat(icon): add OpenSea icon 16x16",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-11-09T10:10:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 469,
+      "title": "`package.json`'s `engines` field having `\"Node >= 10.0.0\"` prevents installation with Node 16.9.1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-12T13:42:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 468,
+      "title": "build(deps): bump path-parse from 1.0.6 to 1.0.7",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-08-10T19:51:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 467,
+      "title": "build(deps): bump tar from 2.2.1 to 2.2.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-08-04T01:16:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 466,
+      "title": "docs: fix paths of  some localization markdown files",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-17T16:10:19Z",
+      "closed_at": "2021-07-19T23:41:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 465,
+      "title": "Added Korean translation of CONTRIBUTING.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-13T02:37:53Z",
+      "closed_at": "2021-07-13T16:05:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 464,
+      "title": "Adding Korean translation of CONTRIBUTING.md",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-07-12T11:51:10Z",
+      "closed_at": "2021-07-13T17:08:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 463,
+      "title": "build(deps): bump postcss from 7.0.14 to 7.0.36",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-15T16:35:46Z",
+      "closed_at": "2022-05-16T18:28:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 462,
+      "title": "NES.css react component library",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-23T05:40:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 461,
+      "title": "fix(radio): fix radio before element center",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-15T12:54:59Z",
+      "closed_at": "2021-05-16T18:12:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 460,
+      "title": "radio",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-15T09:21:13Z",
+      "closed_at": "2021-05-17T01:38:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 459,
+      "title": "Custom theme",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-12T15:44:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 458,
+      "title": "feat(form): add \"is-disabled\" class",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-11T06:29:01Z",
+      "closed_at": "2021-05-14T00:55:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 457,
+      "title": "build(deps): bump hosted-git-info from 2.7.1 to 2.8.9",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-09T17:27:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 456,
+      "title": "Form component disable style",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-08T08:56:58Z",
+      "closed_at": "2021-05-14T01:45:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 455,
+      "title": "Visual glitch in non-rounded dark dialog",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-04-03T08:15:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 454,
+      "title": "build(deps): bump y18n from 3.2.1 to 3.2.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-03-30T15:05:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 453,
+      "title": "Simple cool improvements for the project!",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-11T17:22:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 452,
+      "title": "Package engine \"Node >= 10.0.0\" causing installation problem in Node 15.4.0",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-03T14:13:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 451,
+      "title": "fix(button): disable hover of disabled button",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-02T15:34:08Z",
+      "closed_at": "2021-03-05T00:54:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 450,
+      "title": "about polyfill",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-15T03:59:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 449,
+      "title": "Update Readme-ru.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-02-08T22:50:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 448,
+      "title": "favicon etc are SNES not NES controllers?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-31T23:24:11Z",
+      "closed_at": "2021-01-31T23:27:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 447,
+      "title": "Pixelated image rendering doesn't work on Firefox",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-31T23:19:07Z",
+      "closed_at": "2021-04-30T01:46:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 446,
+      "title": "feat(avatar): Add \"is-pixelated\" class for avatars with styles for all browsers",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-25T09:38:54Z",
+      "closed_at": "2021-02-25T02:38:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 445,
+      "title": "SECURITY.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-21T11:24:13Z",
+      "closed_at": "2021-01-23T20:51:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 444,
+      "title": "soph-iest Picture Missing",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-16T23:36:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 443,
+      "title": "Glitch on non rounded-areas",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-14T04:12:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 442,
+      "title": "build(deps-dev): bump semantic-release from 15.13.14 to 17.2.3",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-11-18T21:52:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 441,
+      "title": "Update documentation about adding new icons",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-05T15:18:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 440,
+      "title": "Add french translation README file",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-01T12:40:47Z",
+      "closed_at": "2020-10-02T15:19:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 439,
+      "title": "Create README-fr.md file",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-01T00:44:50Z",
+      "closed_at": "2020-10-02T15:17:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 438,
+      "title": "fix(rounded-corners): fix chrome border image repeat",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-30T10:02:03Z",
+      "closed_at": "2020-10-09T07:12:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 437,
+      "title": "build(deps): bump lodash.mergewith from 4.6.1 to 4.6.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-09-04T06:38:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 436,
+      "title": "Compressed .png files",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-08-05T15:56:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 435,
+      "title": "Fixed spacing in pixels for message bubbles",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-08-01T04:01:23Z",
+      "closed_at": "2020-10-05T14:45:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 434,
+      "title": "No longer needed in chrome and causes actual pixel to be spaced apart ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-01T03:57:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 433,
+      "title": "fix: update typos in website copy",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-24T17:41:07Z",
+      "closed_at": "2020-08-14T16:34:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 432,
+      "title": "The use of SNES controller for NES.css ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-09T05:34:02Z",
+      "closed_at": "2020-07-09T06:57:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 431,
+      "title": "Update the docs to mention both builds",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-07-02T15:54:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 430,
+      "title": "Remove Google Analytics",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-29T18:47:07Z",
+      "closed_at": "2020-07-12T18:55:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 429,
+      "title": "feat(icon): add soundcloud icon 16x16",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-06-24T10:19:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 428,
+      "title": "Node security fixes and circleci cleanup",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-03T18:19:44Z",
+      "closed_at": "2020-10-05T13:40:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 427,
+      "title": "Icons render wrong when you zoom in and out on Chrome",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-02T21:16:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 426,
+      "title": "ci: change base image to fix commitlint error",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-01T17:38:08Z",
+      "closed_at": "2020-06-02T14:39:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 425,
+      "title": "ci: change base image to fix commitlint error",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-01T17:14:38Z",
+      "closed_at": "2020-06-01T17:33:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 424,
+      "title": "fix(build): comment out the commitlint CI job",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-30T17:35:58Z",
+      "closed_at": "2020-06-02T14:18:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 423,
+      "title": "test: test fix ci",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-27T14:03:38Z",
+      "closed_at": "2020-05-27T14:24:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 422,
+      "title": "fix(badge): rename is-splited to is-split",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-27T13:46:30Z",
+      "closed_at": "2020-06-03T13:30:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 421,
+      "title": "fix: dark mode table blocking interaction psesudo element",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-19T15:17:16Z",
+      "closed_at": "2020-06-02T18:52:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 420,
+      "title": "fix: [#419] dark mode table blocking interaction psesudo element",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-19T15:12:54Z",
+      "closed_at": "2020-05-19T15:15:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 419,
+      "title": "Table dark mode pseudo element blocking users interaction",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-19T15:10:16Z",
+      "closed_at": "2020-06-02T18:52:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 418,
+      "title": "node / node-sass / CircleCI updates & fixes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-10T03:03:46Z",
+      "closed_at": "2020-06-02T17:32:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 417,
+      "title": "feat(icon): Add about.me icon",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-05-01T18:12:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 416,
+      "title": "ci: test circle ci commitlint",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-27T18:01:41Z",
+      "closed_at": "2020-04-27T18:10:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 415,
+      "title": "fix: update node-sass to support node 13",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-16T12:30:50Z",
+      "closed_at": "2020-06-02T17:32:40Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "BcRikko",
+      "contributions": 324
+    },
+    {
+      "login": "guastallaigor",
+      "contributions": 193
+    },
+    {
+      "login": "trezy",
+      "contributions": 98
+    },
+    {
+      "login": "abdallahalsamman",
+      "contributions": 41
+    },
+    {
+      "login": "4k1k0",
+      "contributions": 9
+    },
+    {
+      "login": "sombreroEnPuntas",
+      "contributions": 8
+    },
+    {
+      "login": "HiKaylum",
+      "contributions": 6
+    },
+    {
+      "login": "diyews",
+      "contributions": 6
+    },
+    {
+      "login": "sazzadsazib",
+      "contributions": 5
+    },
+    {
+      "login": "montezume",
+      "contributions": 5
+    },
+    {
+      "login": "tank3a",
+      "contributions": 5
+    },
+    {
+      "login": "amity",
+      "contributions": 5
+    },
+    {
+      "login": "Divoolej",
+      "contributions": 5
+    },
+    {
+      "login": "jdvivar",
+      "contributions": 3
+    },
+    {
+      "login": "davidcralph",
+      "contributions": 3
+    },
+    {
+      "login": "kyu-suke",
+      "contributions": 3
+    },
+    {
+      "login": "jjspace",
+      "contributions": 3
+    },
+    {
+      "login": "TCY-ong",
+      "contributions": 2
+    },
+    {
+      "login": "xroll",
+      "contributions": 2
+    },
+    {
+      "login": "Takumi0901",
+      "contributions": 2
+    },
+    {
+      "login": "youngkaneda",
+      "contributions": 2
+    },
+    {
+      "login": "ldd",
+      "contributions": 2
+    },
+    {
+      "login": "kenshinji",
+      "contributions": 2
+    },
+    {
+      "login": "stewartrule",
+      "contributions": 2
+    },
+    {
+      "login": "rrj-dev",
+      "contributions": 2
+    },
+    {
+      "login": "Kartones",
+      "contributions": 2
+    },
+    {
+      "login": "Ilyeo",
+      "contributions": 2
+    },
+    {
+      "login": "ernestomancebo",
+      "contributions": 2
+    },
+    {
+      "login": "DanSnow",
+      "contributions": 2
+    },
+    {
+      "login": "Baldomo",
+      "contributions": 2
+    },
+    {
+      "login": "OswaldoPineda",
+      "contributions": 1
+    },
+    {
+      "login": "evaporei",
+      "contributions": 1
+    },
+    {
+      "login": "Pedro-Souza",
+      "contributions": 1
+    },
+    {
+      "login": "iamrafaelmelo",
+      "contributions": 1
+    },
+    {
+      "login": "scottaohara",
+      "contributions": 1
+    },
+    {
+      "login": "SecretBase",
+      "contributions": 1
+    },
+    {
+      "login": "zhuzilin",
+      "contributions": 1
+    },
+    {
+      "login": "besasam",
+      "contributions": 1
+    },
+    {
+      "login": "d0p1s4m4",
+      "contributions": 1
+    },
+    {
+      "login": "musavvirahmed",
+      "contributions": 1
+    },
+    {
+      "login": "sinofp",
+      "contributions": 1
+    },
+    {
+      "login": "thisisabhinay",
+      "contributions": 1
+    },
+    {
+      "login": "tnantoka",
+      "contributions": 1
+    },
+    {
+      "login": "nilesh-n",
+      "contributions": 1
+    },
+    {
+      "login": "lukbukkit",
+      "contributions": 1
+    },
+    {
+      "login": "KalobTaulien",
+      "contributions": 1
+    },
+    {
+      "login": "KOREAN139",
+      "contributions": 1
+    },
+    {
+      "login": "jsoref",
+      "contributions": 1
+    },
+    {
+      "login": "JamesIves",
+      "contributions": 1
+    },
+    {
+      "login": "fleeting",
+      "contributions": 1
+    },
+    {
+      "login": "Ermakoy",
+      "contributions": 1
+    },
+    {
+      "login": "brendansparrow",
+      "contributions": 1
+    },
+    {
+      "login": "AlphaWong",
+      "contributions": 1
+    },
+    {
+      "login": "agarzola",
+      "contributions": 1
+    },
+    {
+      "login": "alexgleason",
+      "contributions": 1
+    },
+    {
+      "login": "alexd99",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v2.3.0",
+      "published_at": "2019-12-17T12:07:55Z"
+    },
+    {
+      "tag": "v2.2.1",
+      "published_at": "2019-09-30T12:37:53Z"
+    },
+    {
+      "tag": "v2.2.0",
+      "published_at": "2019-06-07T02:06:53Z"
+    },
+    {
+      "tag": "v2.1.1",
+      "published_at": "2019-03-26T09:52:26Z"
+    },
+    {
+      "tag": "v2.1.0",
+      "published_at": "2019-02-27T11:20:41Z"
+    },
+    {
+      "tag": "v2.0.0",
+      "published_at": "2019-02-16T11:14:29Z"
+    },
+    {
+      "tag": "v1.0.0",
+      "published_at": "2018-12-18T15:43:47Z"
+    }
+  ],
+  "collected_at": "2026-07-20T08:46:52.714246Z"
+}

@@ -1,0 +1,1815 @@
+{
+  "full_name": "chenglou/react-motion",
+  "owner": "chenglou",
+  "name": "react-motion",
+  "url": "https://github.com/chenglou/react-motion",
+  "description": "A spring that solves your animation problems.",
+  "primary_language": "JavaScript",
+  "topics": [],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 21917,
+  "forks": 1149,
+  "open_issues": 193,
+  "created_at": "2015-06-11T07:38:23Z",
+  "pushed_at": "2024-01-05T12:11:49Z",
+  "updated_at": "2026-07-20T08:00:02Z",
+  "commits": [
+    {
+      "sha": "9e3ce95bacaa9a1b259f969870a21c727232cc68",
+      "author_login": "nkbt",
+      "authored_at": "2019-11-17T23:49:58Z",
+      "message": "Merge pull request #578 from nkbt/Need-to-maintain-same-build-file-locations-577"
+    },
+    {
+      "sha": "6f886eaa7aabe3ec48ab0711ee1a217fd90aa83b",
+      "author_login": "nkbt",
+      "authored_at": "2019-11-15T10:04:28Z",
+      "message": "Update babel build to transform modeules to commonjs"
+    },
+    {
+      "sha": "a45d160b04498fc27ce37ed984c54d13c3ea3fe7",
+      "author_login": "nkbt",
+      "authored_at": "2019-11-15T08:25:19Z",
+      "message": "Maintain the same build file paths"
+    },
+    {
+      "sha": "5d643047762a1c809f4b5317eeb5b9efe9239856",
+      "author_login": "nkbt",
+      "authored_at": "2019-11-12T03:44:37Z",
+      "message": "Merge pull request #575 from theopak/theopak/2019-11-08-rename-unsafe-lifecycle-methods"
+    },
+    {
+      "sha": "fe8aae31bd3bc629221ebac58a67dd34f9ed74e4",
+      "author_login": "theopak",
+      "authored_at": "2019-11-08T21:46:58Z",
+      "message": "build output after `yarn install`"
+    },
+    {
+      "sha": "a72357295a8043a592d586a6ce5bbb64e36b3db9",
+      "author_login": "theopak",
+      "authored_at": "2019-11-08T21:38:17Z",
+      "message": "configure eslint for the \"UNSAFE_\" lifecycle prefix"
+    },
+    {
+      "sha": "7d020c8c94334c576f4c51ae8fddf0013d562ebd",
+      "author_login": "theopak",
+      "authored_at": "2019-11-08T21:38:02Z",
+      "message": "upgrade devDep eslint 5.0.1 -> 5.x"
+    },
+    {
+      "sha": "bf0b3dd9d9e64bf981fccd864dc052f8a21f9b67",
+      "author_login": "theopak",
+      "authored_at": "2019-11-08T20:59:51Z",
+      "message": "rename react lifecycle methods to prefix \"UNSAFE_\""
+    },
+    {
+      "sha": "3305ecdcbc81630595b117a379536277ea8cbeda",
+      "author_login": "nkbt",
+      "authored_at": "2018-10-09T10:32:31Z",
+      "message": "Merge pull request #555 from ossdev07/react__motion"
+    },
+    {
+      "sha": "0a18feb0e60a96e72fc303576753a164955580e6",
+      "author_login": "ossdev07",
+      "authored_at": "2018-10-09T09:42:54Z",
+      "message": "React-motion: Removed phantomjs dependency"
+    },
+    {
+      "sha": "1b78cdd8504c4427ebce63a19b4e78c377c421f7",
+      "author_login": "nkbt",
+      "authored_at": "2018-08-13T18:30:02Z",
+      "message": "Merge pull request #550 from TrySound/improve-babel"
+    },
+    {
+      "sha": "4ccdd4dfe288554da6c5590ec2ca46c1e99065a4",
+      "author_login": "TrySound",
+      "authored_at": "2018-08-12T09:16:44Z",
+      "message": "Remove propTypes in production"
+    },
+    {
+      "sha": "dc40c5294d9f25e3ece53e362d05832b201a5a52",
+      "author_login": "TrySound",
+      "authored_at": "2018-08-11T07:57:37Z",
+      "message": "Remove babel cli"
+    },
+    {
+      "sha": "1a7783835930560e02a60563edbe65d4b8c2a88c",
+      "author_login": "TrySound",
+      "authored_at": "2018-08-09T13:02:51Z",
+      "message": "Improve babel config"
+    },
+    {
+      "sha": "c0897fe77e9725f837a44f08b59d1bf515a978b5",
+      "author_login": "TrySound",
+      "authored_at": "2018-08-11T07:40:45Z",
+      "message": "Add prettier (#549)"
+    },
+    {
+      "sha": "10d3005069e19033973c4e12319b3c51e7a554f2",
+      "author_login": "nkbt",
+      "authored_at": "2018-08-09T09:21:59Z",
+      "message": "Merge pull request #548 from TrySound/flat-bundles"
+    },
+    {
+      "sha": "407b98ea7ea90dd832dac126af097e6d3b3e00e3",
+      "author_login": "TrySound",
+      "authored_at": "2018-08-06T07:02:34Z",
+      "message": "Upgrade babel and build esm and cjs bundles"
+    },
+    {
+      "sha": "ed00b957d6284bf9503ee9933bbc93f51864231b",
+      "author_login": "TrySound",
+      "authored_at": "2018-07-06T06:11:26Z",
+      "message": "Bundle umd with rollup (#546)"
+    },
+    {
+      "sha": "d74daba666e9b9ee4bb2f42f1818b481c2d2518d",
+      "author_login": "TrySound",
+      "authored_at": "2018-07-05T22:16:48Z",
+      "message": "Upgrade stack (#545)"
+    },
+    {
+      "sha": "8a094afe1dca51b09958798f95333c3d6aae6b27",
+      "author_login": null,
+      "authored_at": "2018-07-03T04:03:15Z",
+      "message": "Fix link (#536)"
+    },
+    {
+      "sha": "4222c5c61ad4d4e0d8abc71c49bfc4fe1d1efb74",
+      "author_login": "penx",
+      "authored_at": "2018-07-03T04:02:46Z",
+      "message": "chenglou/react-motion#507 performance-now update (#509)"
+    },
+    {
+      "sha": "f0e51f72cf425731f2c47f50d403c5195b227c97",
+      "author_login": "stryju",
+      "authored_at": "2018-07-03T04:02:14Z",
+      "message": "Fixed memory leak (#518)"
+    },
+    {
+      "sha": "7544df9c1eb8ececd077bca67ac2440497a5240b",
+      "author_login": "TrySound",
+      "authored_at": "2018-07-03T04:01:06Z",
+      "message": "Reexport flow types from src (#533)"
+    },
+    {
+      "sha": "8bd4f7223a8d79535586220f7173f078d4604e07",
+      "author_login": "nkbt",
+      "authored_at": "2017-10-02T23:18:11Z",
+      "message": "0.5.2"
+    },
+    {
+      "sha": "e414dab4af7b247956915268ceb0e986d88a005f",
+      "author_login": "roderickhsiao",
+      "authored_at": "2017-09-26T20:32:40Z",
+      "message": "Support React 16 (#496)"
+    },
+    {
+      "sha": "b1cde24f27ef6f7d76685dceb0a951ebfaa10f85",
+      "author_login": "chenglou",
+      "authored_at": "2017-08-30T10:05:20Z",
+      "message": "Revert \"Upgrade typings to flow 0.53.1 (#485)\" (#487)"
+    },
+    {
+      "sha": "25230a49a43442b958ba95d07eb2995f66fac73e",
+      "author_login": "AugustinLF",
+      "authored_at": "2017-08-30T10:01:21Z",
+      "message": "Upgrade typings to flow 0.53.1 (#485)"
+    },
+    {
+      "sha": "d4d4e3e98687151a050a43901e5d61b43dba8af9",
+      "author_login": "chenglou",
+      "authored_at": "2017-08-28T19:22:46Z",
+      "message": "Update integration test rm version"
+    },
+    {
+      "sha": "cee4eb5ee1c1b91115c9e98d45a593f482395cdf",
+      "author_login": "chenglou",
+      "authored_at": "2017-08-28T19:21:22Z",
+      "message": "0.5.1"
+    },
+    {
+      "sha": "6be11504ab94d0073bf2ae92fd85cfb812a1817f",
+      "author_login": "chenglou",
+      "authored_at": "2017-08-28T19:15:43Z",
+      "message": "Prepare for new release"
+    },
+    {
+      "sha": "2bbe02497573d5ef577670cfb88a0b521d2fda90",
+      "author_login": "threepointone",
+      "authored_at": "2017-08-28T18:54:44Z",
+      "message": "update flow, fix component annotations (#486)"
+    },
+    {
+      "sha": "b3d3901a4ab39d8e9ad30649c3266009c3cc6705",
+      "author_login": "nkbt",
+      "authored_at": "2017-04-26T14:16:06Z",
+      "message": "0.5.0"
+    },
+    {
+      "sha": "143e5e50122cfe67340322afa8f385d85cedf72f",
+      "author_login": "nkbt",
+      "authored_at": "2017-04-25T13:50:05Z",
+      "message": "Merge pull request #463 from MichaelDeBoey/react-dom/test-utils"
+    },
+    {
+      "sha": "cd5f472a5075aa27d2c0b8db4610fd40b38aa89c",
+      "author_login": "MichaelDeBoey",
+      "authored_at": "2017-04-25T13:43:49Z",
+      "message": "Fix React dependencies for production"
+    },
+    {
+      "sha": "c1c72ba4267ef034050b542216590bc2bf9bca42",
+      "author_login": "MichaelDeBoey",
+      "authored_at": "2017-04-25T13:38:01Z",
+      "message": "Use 'react-dom/test-utils' package instead of 'react-addons-test-utils'"
+    },
+    {
+      "sha": "e3587ed9d6e43d80e75138819975ab13dd2f8eb4",
+      "author_login": "nkbt",
+      "authored_at": "2017-04-25T13:33:56Z",
+      "message": "Merge pull request #460 from chenglou/split-tests-in-travis-and-use-Node-6"
+    },
+    {
+      "sha": "e9866d6932863b4df4a8390738916a7b923702e9",
+      "author_login": "nkbt",
+      "authored_at": "2017-04-25T12:28:19Z",
+      "message": "Remove caching of node_modules"
+    },
+    {
+      "sha": "734105e33e7e5435427364fc175156d864dda4a7",
+      "author_login": "nkbt",
+      "authored_at": "2017-04-25T12:17:46Z",
+      "message": "Split tests in travis and use Node 6"
+    },
+    {
+      "sha": "e8dace0d219cda478894b5b9f110b2e18cb156a1",
+      "author_login": "nkbt",
+      "authored_at": "2017-04-25T13:24:57Z",
+      "message": "Merge pull request #462 from MichaelDeBoey/ES6"
+    },
+    {
+      "sha": "076f2f14157d46a16edc4486049e2642f1a04457",
+      "author_login": "MichaelDeBoey",
+      "authored_at": "2017-04-25T13:13:17Z",
+      "message": "Update React dependency for Bower to be compatible with 'prop-types' package"
+    },
+    {
+      "sha": "c304b16138a55028086cd2ba0a62fd3a812f263e",
+      "author_login": "MichaelDeBoey",
+      "authored_at": "2017-04-25T13:12:04Z",
+      "message": "Fix linting errors"
+    },
+    {
+      "sha": "030cbcb728df8df66fbac6ab59c1df3608119557",
+      "author_login": "MichaelDeBoey",
+      "authored_at": "2017-04-25T12:52:09Z",
+      "message": "Update deprecated 'create-react-class' dependencies in tests to ES6 classes"
+    },
+    {
+      "sha": "b0a7882370302745259133eb54f814a842fcf6df",
+      "author_login": "nkbt",
+      "authored_at": "2017-04-25T12:04:38Z",
+      "message": "Merge pull request #457 from ifndefdeadmau5/es6-class-migration"
+    },
+    {
+      "sha": "2b19e2047745650f32c8b02ad14df7a24653f080",
+      "author_login": "ifndefdeadmau5",
+      "authored_at": "2017-04-25T11:59:48Z",
+      "message": "Set default animationID: 0 -> null"
+    },
+    {
+      "sha": "02a88d1c9f12021f534a55c95a8fd8b11c7d30ff",
+      "author_login": "ifndefdeadmau5",
+      "authored_at": "2017-04-25T11:56:54Z",
+      "message": "Finally made it I guess..."
+    },
+    {
+      "sha": "320bb9d46700f384508cb8bf5aa71f7c470890e7",
+      "author_login": "ifndefdeadmau5",
+      "authored_at": "2017-04-25T11:53:30Z",
+      "message": "Fix wrong type definition"
+    },
+    {
+      "sha": "072e6a458b5696c1dd914173600ee5f69d63228d",
+      "author_login": "ifndefdeadmau5",
+      "authored_at": "2017-04-25T11:38:55Z",
+      "message": "Move all properties to constructor"
+    },
+    {
+      "sha": "2fcf72d1bc76c729c1a7c78a37593ce7d134699a",
+      "author_login": "ifndefdeadmau5",
+      "authored_at": "2017-04-25T11:24:56Z",
+      "message": "Move prototype properties to constructor"
+    },
+    {
+      "sha": "ad403a046cd2a687a6424b7a77d0dd1908184106",
+      "author_login": "nkbt",
+      "authored_at": "2017-04-25T10:03:44Z",
+      "message": "Merge pull request #458 from MichaelDeBoey/peerDependencies"
+    },
+    {
+      "sha": "bc0819a903e70f4a2815a9fe983346aeb0973d45",
+      "author_login": "ifndefdeadmau5",
+      "authored_at": "2017-04-25T09:42:44Z",
+      "message": "Revise #457"
+    },
+    {
+      "sha": "aabe3ecbea6ec1fd67520ff107d3978fa9a5fa98",
+      "author_login": "MichaelDeBoey",
+      "authored_at": "2017-04-25T09:40:26Z",
+      "message": "Update devDependencies to be compatible with 'prop-types' package"
+    },
+    {
+      "sha": "d28db01c4a5c4f35b3965b9bfeac910e9933a1f9",
+      "author_login": "MichaelDeBoey",
+      "authored_at": "2017-04-25T09:32:52Z",
+      "message": "Update peerDependencies to be compatible with 'prop-types' package"
+    },
+    {
+      "sha": "40df6d33101808092b2b6b3f16ebd93441fb6e74",
+      "author_login": "ifndefdeadmau5",
+      "authored_at": "2017-04-25T07:19:12Z",
+      "message": "Fix flow error"
+    },
+    {
+      "sha": "97f354f2b8adab8ca8de85f3bc58f666cfeba416",
+      "author_login": "ifndefdeadmau5",
+      "authored_at": "2017-04-25T07:15:52Z",
+      "message": "Fix travis error"
+    },
+    {
+      "sha": "08da4f3e4e7ab8e15db5bb0b3a1c647fbe7c0216",
+      "author_login": "ifndefdeadmau5",
+      "authored_at": "2017-04-25T05:48:55Z",
+      "message": "Use ES6 classes in ‘Motion.js’"
+    },
+    {
+      "sha": "b494d24f977e0b3263b2c4607705eec28bbce9a6",
+      "author_login": "nkbt",
+      "authored_at": "2017-04-25T01:58:25Z",
+      "message": "Merge pull request #455 from Holi0317/es6-class"
+    },
+    {
+      "sha": "f4c1f3cae22e7ba2339c5dc84a77059d41d67533",
+      "author_login": "Holi0317",
+      "authored_at": "2017-04-23T11:58:20Z",
+      "message": "Revert \"Add Idea/Webstorm directory to ignore list\""
+    },
+    {
+      "sha": "caa99de6e89bf6be0da3c544c37a3033db6f3576",
+      "author_login": "Holi0317",
+      "authored_at": "2017-04-18T14:40:49Z",
+      "message": "Use ES6 classes for react components in Demos"
+    },
+    {
+      "sha": "2bd26f683b505c4b0d5d5a357827e342533b6934",
+      "author_login": "Holi0317",
+      "authored_at": "2017-04-18T14:11:15Z",
+      "message": "Use ES6 classes for react components"
+    },
+    {
+      "sha": "36260a2b1ef5bbb2324975f4329953a1226454db",
+      "author_login": "Holi0317",
+      "authored_at": "2017-04-18T13:20:01Z",
+      "message": "Add Idea/Webstorm directory to ignore list"
+    },
+    {
+      "sha": "b4859146a19adba5d3fbc8bc7020aa1ca2073c22",
+      "author_login": "nkbt",
+      "authored_at": "2017-04-18T03:59:37Z",
+      "message": "0.4.8"
+    },
+    {
+      "sha": "95f735c84ee412e175e862acfb79789c03675860",
+      "author_login": "bearcott",
+      "authored_at": "2017-04-13T03:47:16Z",
+      "message": "externalize stripStyle"
+    },
+    {
+      "sha": "7adcf52d8476db24ceb50c8f275d5e9b52d64bea",
+      "author_login": "nkbt",
+      "authored_at": "2017-04-18T03:49:55Z",
+      "message": "Merge pull request #446 from Andarist/master"
+    },
+    {
+      "sha": "6b230645aef2b064042900ade83aba0bc6117962",
+      "author_login": "Andarist",
+      "authored_at": "2017-04-08T11:48:26Z",
+      "message": "Migrated deprecated React.PropTypes and React.createClass"
+    },
+    {
+      "sha": "e013f93059591b58f83cc1fe5494146e5aa6b756",
+      "author_login": "pshrmn",
+      "authored_at": "2017-04-14T23:26:36Z",
+      "message": "Fix link to TypeScript types (#443)"
+    },
+    {
+      "sha": "f9a05d74ca7dab228da3ccd3a3de33c526ddfb6b",
+      "author_login": "chenglou",
+      "authored_at": "2017-03-01T20:02:58Z",
+      "message": "Add comment to #420"
+    },
+    {
+      "sha": "064190f70931f13ce6a35e46b5be2c5760c0469d",
+      "author_login": "alexeuler",
+      "authored_at": "2017-03-01T20:00:46Z",
+      "message": "Unmounted component setState fix (#420)"
+    },
+    {
+      "sha": "309d295828dde1aa5425d73f4a9d30bc2b13e70f",
+      "author_login": "chenglou",
+      "authored_at": "2017-02-28T08:07:11Z",
+      "message": "Fix bad fix of 2373eaf36fc4df774acc8bccf5dcda4391687f67"
+    },
+    {
+      "sha": "0f6637bb612691b8459a50ddd8543a33a89ee033",
+      "author_login": "therewillbecode",
+      "authored_at": "2017-02-28T06:31:29Z",
+      "message": "Refactored demo and fixed flow check errors (#435)"
+    },
+    {
+      "sha": "d5be778328243ac6b938fb7550ed04984f615566",
+      "author_login": "codler",
+      "authored_at": "2017-02-28T06:28:28Z",
+      "message": "Fix broken link (#430)"
+    },
+    {
+      "sha": "b2cb3c226e2834b33c97ad5e9aaf06e0066ac421",
+      "author_login": "chenglou",
+      "authored_at": "2016-12-16T00:18:17Z",
+      "message": "0.4.7"
+    },
+    {
+      "sha": "4c0103ba8ad40497b884be3b61d1a44ceff38e88",
+      "author_login": "chenglou",
+      "authored_at": "2016-12-16T00:15:09Z",
+      "message": "Better publishing process (change `prerelease` to `prepublish`)"
+    },
+    {
+      "sha": "e4ef48e6121cbea42a8b47a67e748fc35bf158da",
+      "author_login": "chenglou",
+      "authored_at": "2016-12-12T22:52:31Z",
+      "message": "Bump bower and package.json"
+    },
+    {
+      "sha": "632b3248f222b2387e6295c902ac16fcf8e25268",
+      "author_login": "chenglou",
+      "authored_at": "2016-12-12T22:50:21Z",
+      "message": "Upgrade karma-phantomjs-churn-launcher"
+    },
+    {
+      "sha": "bdfef4e11697cc252334ba3c2e37e9eeb061c5e4",
+      "author_login": "hkjorgensen",
+      "authored_at": "2016-12-07T09:32:59Z",
+      "message": "Add didLeave method to TransitionMotion (#399)"
+    },
+    {
+      "sha": "a70c66d74d9038de752346ee4fa12b68a1791176",
+      "author_login": "therewillbecode",
+      "authored_at": "2016-12-06T08:57:49Z",
+      "message": "Performance optimisation for draggable list demo (#401)"
+    },
+    {
+      "sha": "c2e003992f6d7bb2f1ddb1058118a56e35b78408",
+      "author_login": "nkbt",
+      "authored_at": "2016-11-29T07:15:13Z",
+      "message": "Merge pull request #400 from therewillbecode/draggable-list-demo-variable-names"
+    },
+    {
+      "sha": "a2b8712e14e4cf92a211cf25ac6562cbb4d2ff33",
+      "author_login": "therewillbecode",
+      "authored_at": "2016-11-26T17:41:42Z",
+      "message": "Turned extraneous eslint rule off"
+    },
+    {
+      "sha": "99975441be23f8eecf5846da58de886592e87816",
+      "author_login": "therewillbecode",
+      "authored_at": "2016-11-26T14:02:29Z",
+      "message": "Made row variable name more descriptive"
+    },
+    {
+      "sha": "1bbac8f9dfb52db83759f1c64f3ecfeb81a643a3",
+      "author_login": "therewillbecode",
+      "authored_at": "2016-11-26T14:01:04Z",
+      "message": "Made mouse variable name more descriptive"
+    },
+    {
+      "sha": "78cd196c8b936913e0dd8d612860531e637eced0",
+      "author_login": "therewillbecode",
+      "authored_at": "2016-11-26T12:50:02Z",
+      "message": "Made lastPressed variable name more descriptive"
+    },
+    {
+      "sha": "ce769250737d246cb69f2e8243ef4b478f637870",
+      "author_login": "therewillbecode",
+      "authored_at": "2016-11-26T12:39:54Z",
+      "message": "Made delta variable name more descriptive"
+    },
+    {
+      "sha": "446a8d0130072c4a59fec1ab788bfc2cc5c5b788",
+      "author_login": "chenglou",
+      "authored_at": "2016-09-26T17:33:49Z",
+      "message": "Bump version"
+    },
+    {
+      "sha": "adbf1de2be796b70cf5ae1817d403fecf768e116",
+      "author_login": "Macil",
+      "authored_at": "2016-09-25T08:17:30Z",
+      "message": "Fix merge errors. (#373)"
+    },
+    {
+      "sha": "167c1d19c02c47af64c8c07aeee760d9b3c7559a",
+      "author_login": "Macil",
+      "authored_at": "2016-09-25T07:20:18Z",
+      "message": "Fix flow react element errors, upgrade eslint, expose Flow type info (#371)"
+    },
+    {
+      "sha": "ee4a06369664f86df3159b5410192f8f952fef3b",
+      "author_login": "bgeihsgt",
+      "authored_at": "2016-09-25T07:17:40Z",
+      "message": "Fix Flow ReactElement errors (#361)"
+    },
+    {
+      "sha": "a303b4ddf3de0e778fbf7a055b530bac8f948563",
+      "author_login": "npmcdn-to-unpkg-bot",
+      "authored_at": "2016-09-12T06:22:46Z",
+      "message": "Replace npmcdn.com with unpkg.com (#366)"
+    },
+    {
+      "sha": "99b9d36c9724a10f43aed16fe250e44852004733",
+      "author_login": "nkbt",
+      "authored_at": "2016-08-28T01:21:44Z",
+      "message": "Merge pull request #362 from amilajack/patch-1"
+    },
+    {
+      "sha": "598c16a6142680c1e479e1bf12c746afff8c3c5e",
+      "author_login": "amilajack",
+      "authored_at": "2016-08-27T17:57:53Z",
+      "message": "Added syntax highlighting to first readme example"
+    },
+    {
+      "sha": "c57b3c15cf08ba204a2d36ebc5e65df04d90a206",
+      "author_login": "yuheiy",
+      "authored_at": "2016-08-13T08:00:27Z",
+      "message": "clean imports in demos (#353)"
+    },
+    {
+      "sha": "e48fdad6d82fda32f2d4e5b3d2f295e82f6c580b",
+      "author_login": "salzhrani",
+      "authored_at": "2016-06-13T23:53:52Z",
+      "message": "Use RAF timestamp argument if available (#340)"
+    },
+    {
+      "sha": "2e4a81fa2d20e9747f2a1519ce3011f71f2b79ff",
+      "author_login": "marcelbeumer",
+      "authored_at": "2016-06-13T23:51:01Z",
+      "message": "Fix flow for TransitionMotion.unmounting (#335)"
+    },
+    {
+      "sha": "0660a724cfac7452c8aadb65b258dd999908974e",
+      "author_login": "chenglou",
+      "authored_at": "2016-06-04T11:43:41Z",
+      "message": "Bump to 0.4.4; for 49ea396041b0031b95f4941cc7efce200fcca454"
+    },
+    {
+      "sha": "11ea5df5c31db196175082f006021e6932d9ec72",
+      "author_login": "stepancar",
+      "authored_at": "2016-06-04T03:36:25Z",
+      "message": "fixed link to d.ts (#333)"
+    },
+    {
+      "sha": "49ea396041b0031b95f4941cc7efce200fcca454",
+      "author_login": null,
+      "authored_at": "2016-05-11T18:32:49Z",
+      "message": "Try fixing souporserious/react-motion-ui-pack#41 by checking if unmounting is in progress."
+    },
+    {
+      "sha": "0d708c1cda4b7340eb0ef6c39508cf97ebf848bf",
+      "author_login": "chenglou",
+      "authored_at": "2016-04-20T06:37:02Z",
+      "message": "Update readme links; bump version"
+    },
+    {
+      "sha": "9cb90eca20ecf56e77feb816d101a4a9110c7d70",
+      "author_login": "chenglou",
+      "authored_at": "2016-04-20T03:30:46Z",
+      "message": "Document & add type info for `onRest` for `Motion`"
+    },
+    {
+      "sha": "3ea9e2ec47ce83f8a216d76f97d9fc9eff8df3ad",
+      "author_login": "chenglou",
+      "authored_at": "2016-04-20T00:29:31Z",
+      "message": "TransitionMotion: pass defaultStyles to styles function"
+    },
+    {
+      "sha": "8beb22362b70e283f7c7dfabcf79e4a47162f1e9",
+      "author_login": "chenglou",
+      "authored_at": "2016-04-20T00:26:45Z",
+      "message": "Update flowconfig to ignore more files"
+    },
+    {
+      "sha": "891501261d3e1275d8685eaea935b22d0a0e4c4c",
+      "author_login": "chenglou",
+      "authored_at": "2016-04-20T00:26:29Z",
+      "message": "Add TypeScript definition url to readme"
+    }
+  ],
+  "issues": [
+    {
+      "number": 635,
+      "title": "create battaer",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-04-01T11:27:25Z",
+      "closed_at": "2026-04-01T11:27:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 634,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-05T12:11:49Z",
+      "closed_at": "2024-03-09T05:24:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 633,
+      "title": "Content is jumping on click",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-06T13:31:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 631,
+      "title": "Add support for prefers-reduced-motion",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-26T05:53:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 630,
+      "title": "Listing an array of authors in package.json breaks some tools that parse it",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-16T23:00:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 629,
+      "title": "Bump express from 4.16.3 to 4.18.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-08T17:31:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 628,
+      "title": "Bump qs from 6.2.3 to 6.2.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T01:04:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 627,
+      "title": "Bump decode-uri-component from 0.2.0 to 0.2.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-03T06:00:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 626,
+      "title": "Bump loader-utils from 1.1.0 to 1.4.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-16T23:48:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 625,
+      "title": "Bump loader-utils from 1.1.0 to 1.4.1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-11-10T01:34:51Z",
+      "closed_at": "2022-11-16T23:49:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 624,
+      "title": "doesn't appear to cleanly install at the moment",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-05T19:38:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 623,
+      "title": "Bump karma from 2.0.4 to 6.3.16",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-03-02T03:46:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 622,
+      "title": "Bump karma from 2.0.4 to 6.3.14",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-11T05:56:54Z",
+      "closed_at": "2022-03-02T03:46:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 621,
+      "title": "Bump chownr from 1.0.1 to 1.1.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-02-11T05:15:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 620,
+      "title": "is react-motion dependent on using jsx?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-19T02:24:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 619,
+      "title": "Chore: add src to npmignore",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-10-06T10:25:36Z",
+      "closed_at": "2021-10-06T10:25:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 618,
+      "title": "Migrate to react 17",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-27T09:39:11Z",
+      "closed_at": "2021-09-27T09:41:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 617,
+      "title": "Bump tar from 4.4.4 to 4.4.19",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-09-01T03:43:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 616,
+      "title": "Bump path-parse from 1.0.5 to 1.0.7",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-08-10T23:34:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 615,
+      "title": "Bump tar from 4.4.4 to 4.4.15",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-03T23:08:03Z",
+      "closed_at": "2021-09-01T03:43:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 614,
+      "title": "Bump dns-packet from 1.3.1 to 1.3.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-27T10:00:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 613,
+      "title": "Bump codemirror from 5.39.0 to 5.58.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-12T00:32:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 612,
+      "title": "Bump hosted-git-info from 2.6.1 to 2.8.9",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-10T06:27:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 611,
+      "title": "Bump lodash from 4.17.10 to 4.17.21",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-08T14:01:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 610,
+      "title": "Bump handlebars from 4.0.11 to 4.7.7",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-07T11:32:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 609,
+      "title": "Bump ua-parser-js from 0.7.18 to 0.7.28",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-06T22:56:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 608,
+      "title": "Continously rotating without jumps between tours",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-04T09:03:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 607,
+      "title": "Bump y18n from 3.2.1 to 3.2.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-03-30T15:35:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 606,
+      "title": "Bump elliptic from 6.4.0 to 6.5.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-03-09T02:39:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 605,
+      "title": "Release support for React 17",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-02-25T02:21:07Z",
+      "closed_at": "2021-02-25T03:10:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 604,
+      "title": "Is this project still active?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-17T11:43:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 603,
+      "title": "customize the build for KA",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-12T18:10:38Z",
+      "closed_at": "2021-01-12T18:11:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 602,
+      "title": "Error on Rome toolchain init (package.json invalid author)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-08T11:38:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 601,
+      "title": "With class and hook Demo in a project ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-22T02:55:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 600,
+      "title": "Bump ini from 1.3.5 to 1.3.7",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-12-11T04:37:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 599,
+      "title": "how to know animation end ( position absolute change to relative)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-11-03T06:59:23Z",
+      "closed_at": "2020-11-03T06:59:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 598,
+      "title": "Bump http-proxy from 1.17.0 to 1.18.1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-09-08T00:19:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 597,
+      "title": "Bump handlebars from 4.0.11 to 4.7.6",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-04T19:47:31Z",
+      "closed_at": "2021-05-07T11:32:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 596,
+      "title": "Bump elliptic from 6.4.0 to 6.5.3",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-30T14:06:35Z",
+      "closed_at": "2021-03-09T02:39:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 595,
+      "title": "Functionality check (I'd just like some clarification)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-07-22T03:03:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 594,
+      "title": "Bump lodash from 4.17.10 to 4.17.19",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-16T22:45:17Z",
+      "closed_at": "2021-05-08T14:01:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 593,
+      "title": "Bump websocket-extensions from 0.1.3 to 0.1.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-06-06T14:50:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 592,
+      "title": "Bump https-proxy-agent from 2.2.1 to 2.2.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-04-16T13:08:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 591,
+      "title": "Bump acorn from 5.7.1 to 5.7.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-03-14T11:35:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 590,
+      "title": "Bump Flow and use explicitly exact&inexact syntax for object types",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-03-01T23:26:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 583,
+      "title": "Duplicated elements when using Motion component",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-12-30T19:39:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 582,
+      "title": "Bump handlebars from 4.0.11 to 4.5.3",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-12-28T06:38:40Z",
+      "closed_at": "2020-09-04T19:47:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 581,
+      "title": "Merge pull request #1 from chenglou/master",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-12-17T22:23:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 580,
+      "title": "Merge pull request #1 from chenglou/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-12-17T22:19:40Z",
+      "closed_at": "2019-12-17T22:20:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 579,
+      "title": "Bump version to v0.6.0",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-12-06T23:44:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 578,
+      "title": "Maintain the same build file paths",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-11-15T08:50:07Z",
+      "closed_at": "2019-11-17T23:49:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 577,
+      "title": "Need to maintain same build file locations",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-11-12T04:46:20Z",
+      "closed_at": "2019-11-17T23:49:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 576,
+      "title": "Bump url-parse from 1.4.1 to 1.4.7",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-11-12T03:45:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 575,
+      "title": "rename react lifecycle methods to prefix \"UNSAFE_\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-11-08T21:13:36Z",
+      "closed_at": "2019-11-12T03:44:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 574,
+      "title": "Animating an element with a varying width ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-10-31T17:19:03Z",
+      "closed_at": "2019-11-08T05:40:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 573,
+      "title": "Update demo on README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-10-14T05:41:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 572,
+      "title": "how to use react-motion library with modals",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-09-24T08:02:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 571,
+      "title": "on first call initate the prevTime with currenttime",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-09-03T09:18:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 570,
+      "title": "can a release be tagged?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-08-29T18:20:05Z",
+      "closed_at": "2021-02-25T03:45:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 569,
+      "title": "componentWillReceiveProps warning with React 16.9",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-08-12T15:55:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 568,
+      "title": "How to reset automatically styles on animation end",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-08-07T19:25:21Z",
+      "closed_at": "2019-08-13T19:53:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 567,
+      "title": "Code in npm is different than github repo",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-04-04T10:36:14Z",
+      "closed_at": "2021-02-25T03:39:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 566,
+      "title": "how to test animations",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-02T01:09:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 565,
+      "title": "setState(...): Can only update a mounted or mounting component.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-19T07:01:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 564,
+      "title": "Single Element Enter & Leaving Animation on Prop Change (working, need improvement)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-02-14T12:16:59Z",
+      "closed_at": "2019-02-22T12:12:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 563,
+      "title": "Motion width 0 to auto",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-08T07:23:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 562,
+      "title": "Chrome scroll bar invalid after I use { Motion, spring } for sidebar slider switching",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-19T07:47:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 561,
+      "title": "How may I use rem solution with  function spring()",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-12-11T08:26:03Z",
+      "closed_at": "2018-12-18T08:08:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 560,
+      "title": "Two-way animations",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-21T22:20:46Z",
+      "closed_at": "2018-11-22T22:15:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 559,
+      "title": "Warning in React.StrictMode",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-15T03:28:15Z",
+      "closed_at": "2021-02-25T03:40:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 558,
+      "title": "Animating in queue",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-04T21:26:10Z",
+      "closed_at": "2018-11-15T20:20:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 557,
+      "title": "Using <Motion/> with css calc()",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-24T22:52:47Z",
+      "closed_at": "2018-10-28T04:56:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 556,
+      "title": "Add live demo to README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-10-18T14:08:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 555,
+      "title": "React-motion: Removed phantomjs dependency",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-09T09:54:04Z",
+      "closed_at": "2018-10-09T10:32:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 554,
+      "title": "Possible to add a linear animation?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-09-18T08:52:41Z",
+      "closed_at": "2018-09-18T21:26:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 553,
+      "title": "Fix scale style in demo7",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-08-28T13:43:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 552,
+      "title": "Add onRest to TransitionMotion",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-08-27T19:24:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 551,
+      "title": "Export SpringHelperConfig type",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-12T09:51:50Z",
+      "closed_at": "2019-07-11T08:40:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 550,
+      "title": "Improve babel config",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-10T14:34:20Z",
+      "closed_at": "2018-08-13T18:30:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 549,
+      "title": "Add prettier",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-09T12:52:13Z",
+      "closed_at": "2018-08-11T07:40:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 548,
+      "title": "Upgrade babel and build esm and cjs bundles",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-06T07:07:52Z",
+      "closed_at": "2018-08-09T09:22:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 547,
+      "title": "upgrade babel's  configuration file so that remove babel…",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-08-02T03:12:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 546,
+      "title": "Bundle umd with rollup",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-07-05T22:46:20Z",
+      "closed_at": "2018-07-06T06:11:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 545,
+      "title": "Upgrade stack",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-07-04T09:01:54Z",
+      "closed_at": "2018-07-05T22:16:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 544,
+      "title": "Further development and maintainment",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-26T10:27:51Z",
+      "closed_at": "2020-09-12T21:58:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 543,
+      "title": "How do you translate duration and velocity  values using damping and stiffness?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-06-14T19:11:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 542,
+      "title": "Missing Modules when starting the repo locally",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-06-12T18:00:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 541,
+      "title": "React Motion for SVG draggable list",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-05-27T22:55:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 540,
+      "title": "How to avoid re-rendering N times the whole page ?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-25T02:59:23Z",
+      "closed_at": "2018-08-24T06:52:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 539,
+      "title": "Fix setting props in onRest won't re-render",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-04-18T16:42:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 538,
+      "title": "The word \"style\" in API is confusing",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-15T12:04:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 537,
+      "title": "<Motion> renders twice for every single unanimated style change",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-14T02:38:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 536,
+      "title": "Fix link",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-13T19:53:49Z",
+      "closed_at": "2018-07-03T04:03:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 535,
+      "title": "TransitionMotion react-router leave not animating",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-07T21:08:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 534,
+      "title": "Replace deprecated componentWillReceiveProps with componentDidUpdate",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-03-31T02:48:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 532,
+      "title": "TransitionMotion animates leave for elements which persist",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-28T18:17:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 531,
+      "title": "Cannot build demos on react v16",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-24T08:03:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 530,
+      "title": "Convert TransitionMotion types to generic types",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-03-23T02:01:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 529,
+      "title": "Get component styles before animation? ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-20T04:05:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 528,
+      "title": "Should production build remove/wrap the propTypes with a well known babel-plugin?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-19T04:41:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "chenglou",
+      "contributions": 516
+    },
+    {
+      "login": "nkbt",
+      "contributions": 86
+    },
+    {
+      "login": "bsansouci",
+      "contributions": 50
+    },
+    {
+      "login": "iclanzan",
+      "contributions": 18
+    },
+    {
+      "login": "threepointone",
+      "contributions": 10
+    },
+    {
+      "login": "ifndefdeadmau5",
+      "contributions": 9
+    },
+    {
+      "login": "TrySound",
+      "contributions": 8
+    },
+    {
+      "login": "ludofischer",
+      "contributions": 7
+    },
+    {
+      "login": "MichaelDeBoey",
+      "contributions": 7
+    },
+    {
+      "login": "therewillbecode",
+      "contributions": 7
+    },
+    {
+      "login": "dey-dey",
+      "contributions": 4
+    },
+    {
+      "login": "Holi0317",
+      "contributions": 4
+    },
+    {
+      "login": "souporserious",
+      "contributions": 4
+    },
+    {
+      "login": "theopak",
+      "contributions": 4
+    },
+    {
+      "login": "appsforartists",
+      "contributions": 3
+    },
+    {
+      "login": "iamdustan",
+      "contributions": 3
+    },
+    {
+      "login": "lencioni",
+      "contributions": 3
+    },
+    {
+      "login": "mirkodrummer",
+      "contributions": 3
+    },
+    {
+      "login": "heyjohnford",
+      "contributions": 2
+    },
+    {
+      "login": "istarkov",
+      "contributions": 2
+    },
+    {
+      "login": "nikhilbaradwaj",
+      "contributions": 2
+    },
+    {
+      "login": "martijnrusschen",
+      "contributions": 2
+    },
+    {
+      "login": "peterssonjesper",
+      "contributions": 2
+    },
+    {
+      "login": "hzoo",
+      "contributions": 2
+    },
+    {
+      "login": "gre",
+      "contributions": 2
+    },
+    {
+      "login": "gaearon",
+      "contributions": 2
+    },
+    {
+      "login": "Macil",
+      "contributions": 2
+    },
+    {
+      "login": "adrianleb",
+      "contributions": 1
+    },
+    {
+      "login": "maximalism2",
+      "contributions": 1
+    },
+    {
+      "login": "wyze",
+      "contributions": 1
+    },
+    {
+      "login": "oliviertassinari",
+      "contributions": 1
+    },
+    {
+      "login": "moretti",
+      "contributions": 1
+    },
+    {
+      "login": "pshrmn",
+      "contributions": 1
+    },
+    {
+      "login": "razh",
+      "contributions": 1
+    },
+    {
+      "login": "robhrt7",
+      "contributions": 1
+    },
+    {
+      "login": "roderickhsiao",
+      "contributions": 1
+    },
+    {
+      "login": "samarpanda",
+      "contributions": 1
+    },
+    {
+      "login": "salzhrani",
+      "contributions": 1
+    },
+    {
+      "login": "waldreiter",
+      "contributions": 1
+    },
+    {
+      "login": "stepancar",
+      "contributions": 1
+    },
+    {
+      "login": "balanceiskey",
+      "contributions": 1
+    },
+    {
+      "login": "wilfreddenton",
+      "contributions": 1
+    },
+    {
+      "login": "yuheiy",
+      "contributions": 1
+    },
+    {
+      "login": "bishopZ",
+      "contributions": 1
+    },
+    {
+      "login": "npmcdn-to-unpkg-bot",
+      "contributions": 1
+    },
+    {
+      "login": "ossdev07",
+      "contributions": 1
+    },
+    {
+      "login": "stevoland",
+      "contributions": 1
+    },
+    {
+      "login": "stryju",
+      "contributions": 1
+    },
+    {
+      "login": "penx",
+      "contributions": 1
+    },
+    {
+      "login": "alexeuler",
+      "contributions": 1
+    },
+    {
+      "login": "amilajack",
+      "contributions": 1
+    },
+    {
+      "login": "AugustinLF",
+      "contributions": 1
+    },
+    {
+      "login": "bearcott",
+      "contributions": 1
+    },
+    {
+      "login": "bgeihsgt",
+      "contributions": 1
+    },
+    {
+      "login": "cesarandreu",
+      "contributions": 1
+    },
+    {
+      "login": "cdebotton",
+      "contributions": 1
+    },
+    {
+      "login": "danieldunderfelt",
+      "contributions": 1
+    },
+    {
+      "login": "frederickfogerty",
+      "contributions": 1
+    },
+    {
+      "login": "codler",
+      "contributions": 1
+    },
+    {
+      "login": "hkjorgensen",
+      "contributions": 1
+    },
+    {
+      "login": "dozoisch",
+      "contributions": 1
+    },
+    {
+      "login": "jvanaert",
+      "contributions": 1
+    },
+    {
+      "login": "jevgenig",
+      "contributions": 1
+    },
+    {
+      "login": "jlebensold",
+      "contributions": 1
+    },
+    {
+      "login": "plasticine",
+      "contributions": 1
+    },
+    {
+      "login": "KyleAMathews",
+      "contributions": 1
+    },
+    {
+      "login": "marcelbeumer",
+      "contributions": 1
+    },
+    {
+      "login": "Andarist",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v0.5.2",
+      "published_at": "2017-10-02T23:21:45Z"
+    },
+    {
+      "tag": "v0.5.1",
+      "published_at": "2017-08-28T19:24:04Z"
+    },
+    {
+      "tag": "v0.5.0",
+      "published_at": "2017-04-26T14:16:57Z"
+    },
+    {
+      "tag": "v0.4.8",
+      "published_at": "2017-04-18T04:09:14Z"
+    }
+  ],
+  "collected_at": "2026-07-20T08:46:50.799162Z"
+}
