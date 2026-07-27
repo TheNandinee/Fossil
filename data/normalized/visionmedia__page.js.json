@@ -1,0 +1,1947 @@
+{
+  "full_name": "visionmedia/page.js",
+  "owner": "visionmedia",
+  "name": "page.js",
+  "url": "https://github.com/visionmedia/page.js",
+  "description": "Micro client-side router inspired by the Express router",
+  "primary_language": "JavaScript",
+  "topics": [],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 7679,
+  "forks": 682,
+  "open_issues": 126,
+  "created_at": "2012-04-12T23:33:30Z",
+  "pushed_at": "2023-06-27T15:47:06Z",
+  "updated_at": "2026-07-25T03:16:57Z",
+  "commits": [
+    {
+      "sha": "4f9991658f9b9e3de9b6059bade93693af24d6bd",
+      "author_login": "matthewpblog",
+      "authored_at": "2020-04-21T11:13:02Z",
+      "message": "1.11.6"
+    },
+    {
+      "sha": "a65a1335de0a6f7f6eebd9316b95e57325d6184a",
+      "author_login": "matthewpblog",
+      "authored_at": "2020-04-21T11:12:59Z",
+      "message": "Rebuild"
+    },
+    {
+      "sha": "0f3adc5e2e47362d2a053b94d96ffc3270e49138",
+      "author_login": "matthewp",
+      "authored_at": "2020-04-21T11:12:05Z",
+      "message": "Merge pull request #560 from nathancahill/master"
+    },
+    {
+      "sha": "bcc4e64516cbdeb28450273076df89549a6794fb",
+      "author_login": "matthewp",
+      "authored_at": "2020-04-21T11:11:21Z",
+      "message": "Merge pull request #562 from prabakaranfresh/master"
+    },
+    {
+      "sha": "7e5fdb61ac5828d022ac291b3ba40d59a60961cc",
+      "author_login": "prabakaranfresh",
+      "authored_at": "2020-04-21T09:46:46Z",
+      "message": "Test for routePath added"
+    },
+    {
+      "sha": "d46ea60e335aa5cab76e9c9883ce102b75ee6d15",
+      "author_login": "nathancahill",
+      "authored_at": "2020-04-21T07:39:06Z",
+      "message": "add test for route"
+    },
+    {
+      "sha": "43131978ac964bad0a4cf61bce9e5c5848627359",
+      "author_login": "prabakaranfresh",
+      "authored_at": "2020-04-20T20:38:28Z",
+      "message": "Original path passed in context"
+    },
+    {
+      "sha": "341976458888349888fb48f95332477a2869d86a",
+      "author_login": "nathancahill",
+      "authored_at": "2020-04-15T07:38:45Z",
+      "message": "fix typo in Route constructor"
+    },
+    {
+      "sha": "94138d1f3105f9fdb3424f9c0870c1fb90adcd1a",
+      "author_login": "matthewp",
+      "authored_at": "2019-12-30T13:42:53Z",
+      "message": "Merge pull request #548 from relay-delivery/sync-src-dest"
+    },
+    {
+      "sha": "26496b0e3ea30f9e7ab1fec02b3d1445844c0f88",
+      "author_login": "chevett",
+      "authored_at": "2019-12-30T13:38:02Z",
+      "message": "Merge remote-tracking branch 'vision/master' into sync-src-dest"
+    },
+    {
+      "sha": "248fb75932d845d128be6026563718456c1bf988",
+      "author_login": "matthewp",
+      "authored_at": "2019-12-30T12:25:52Z",
+      "message": "Merge pull request #549 from relay-delivery/fix-browser-tests"
+    },
+    {
+      "sha": "95ee43158954ec554414a502cfa1ea6565c43583",
+      "author_login": "matthewp",
+      "authored_at": "2019-12-30T12:25:29Z",
+      "message": "Merge pull request #547 from S2-/fix-ie11"
+    },
+    {
+      "sha": "78c3cb7d3ecc96dab9b1bb9b6fcd579c7f724c5d",
+      "author_login": "5im-0n",
+      "authored_at": "2019-12-30T08:11:02Z",
+      "message": "fix ie11 sameOrigin check on https"
+    },
+    {
+      "sha": "8b17f67ebf0a9ef6433a58da41f02042b4dd6696",
+      "author_login": "chevett",
+      "authored_at": "2019-12-29T21:16:45Z",
+      "message": "make the in browsers tests pass"
+    },
+    {
+      "sha": "b9b457cc121d90b8c4e79a68b0a8dae31c992eec",
+      "author_login": "chevett",
+      "authored_at": "2019-12-29T20:41:25Z",
+      "message": "remake visionmedia#535 but to the src file instead of the dest"
+    },
+    {
+      "sha": "22fb34672988a7fd229488002c69e750164d7e9a",
+      "author_login": "chevett",
+      "authored_at": "2019-12-29T20:32:59Z",
+      "message": "remake #539 but to the src file instead of the dest"
+    },
+    {
+      "sha": "0d7e127037abd021fa299e2d8d0a4b727476712f",
+      "author_login": "matthewpblog",
+      "authored_at": "2019-09-27T11:16:55Z",
+      "message": "1.11.5"
+    },
+    {
+      "sha": "7f8e01d9fd6791a0910a2341ee27217c77bde407",
+      "author_login": "matthewp",
+      "authored_at": "2019-05-29T12:27:07Z",
+      "message": "Merge pull request #539 from mclotworthy/master"
+    },
+    {
+      "sha": "f2ce7424c7a76ce4c03afa00793ad6cdd15bea2b",
+      "author_login": "mclotworthy",
+      "authored_at": "2019-05-29T01:21:35Z",
+      "message": "add semicolon"
+    },
+    {
+      "sha": "7edfa7b5067a253f7ad1d303c1a954c2a84dc2b5",
+      "author_login": "mclotworthy",
+      "authored_at": "2019-05-29T01:18:17Z",
+      "message": "Add test for optional first param"
+    },
+    {
+      "sha": "60f764b0ca9ad55133bc373914e97a8927a8f2d5",
+      "author_login": "mclotworthy",
+      "authored_at": "2019-05-27T03:22:34Z",
+      "message": "Remove Regex \"matched text\""
+    },
+    {
+      "sha": "aee9de80a891f42b78c8605f139438e726d21f60",
+      "author_login": "matthewp",
+      "authored_at": "2019-04-22T11:08:26Z",
+      "message": "Merge pull request #536 from yoDon/remove-unmaintained-pagify-it-from-readme"
+    },
+    {
+      "sha": "18d85a9550563aee3f6ce91a01c51ef5df14d09c",
+      "author_login": "yoDon",
+      "authored_at": "2019-04-21T21:54:12Z",
+      "message": "Remove pagify-it from readme as discussed"
+    },
+    {
+      "sha": "bdc0fafc96be4fab37ec87fc621ba0bcc6cef174",
+      "author_login": "matthewp",
+      "authored_at": "2019-03-29T14:14:52Z",
+      "message": "Merge pull request #535 from S2-/ie11-sameOrigin"
+    },
+    {
+      "sha": "ee6422a2e4bde4475e7e12303518c8e806974fbe",
+      "author_login": null,
+      "authored_at": "2019-03-29T13:07:48Z",
+      "message": "add comments for default http port comparision"
+    },
+    {
+      "sha": "1e60b5234678ad2cafbbce19a7fdcf981eb080ec",
+      "author_login": null,
+      "authored_at": "2019-03-28T15:16:52Z",
+      "message": "ie11 sameOrigin detection fix"
+    },
+    {
+      "sha": "19f60bc22a6495e041dae8e466443fd2e11c3132",
+      "author_login": "matthewpblog",
+      "authored_at": "2019-01-29T11:57:15Z",
+      "message": "1.11.4"
+    },
+    {
+      "sha": "cc3fe5d5bb58754b19661edac554eb62940dc77e",
+      "author_login": "matthewpblog",
+      "authored_at": "2019-01-29T11:57:03Z",
+      "message": "Build for release"
+    },
+    {
+      "sha": "3229c2217ce7e466ccc428c697a9bf8ee8bea7b6",
+      "author_login": "matthewp",
+      "authored_at": "2019-01-29T11:54:46Z",
+      "message": "Merge pull request #527 from onury/fix-path"
+    },
+    {
+      "sha": "af6696a05f443337df1ce16e33916ccc09771616",
+      "author_login": "matthewp",
+      "authored_at": "2019-01-29T11:53:01Z",
+      "message": "Merge pull request #531 from PaulMaly/patch-2"
+    },
+    {
+      "sha": "338d669087b40bc431ff2888f0d9fe97e8b81c39",
+      "author_login": "matthewp",
+      "authored_at": "2019-01-29T11:52:49Z",
+      "message": "Merge pull request #530 from PaulMaly/patch-1"
+    },
+    {
+      "sha": "c662a7b4d087ee9469eadd372683ae833c453a83",
+      "author_login": "PaulMaly",
+      "authored_at": "2019-01-23T17:07:38Z",
+      "message": "Using replaceState with file:// protocol"
+    },
+    {
+      "sha": "eda98044dfcee2481151caf8c391ede7992f445a",
+      "author_login": "PaulMaly",
+      "authored_at": "2019-01-23T17:06:14Z",
+      "message": "Using replaceState with file:// protocol"
+    },
+    {
+      "sha": "2c546014c24f55224dba7853172d7e8821a76015",
+      "author_login": "onury",
+      "authored_at": "2018-12-02T21:35:09Z",
+      "message": "fix #526"
+    },
+    {
+      "sha": "bb44f10cb2e006b67645f2f37b4f889d7e2adffe",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-11-09T12:15:40Z",
+      "message": "Fix opts passed into start()"
+    },
+    {
+      "sha": "14a9fbd3509485a2714df6010501acc369abd980",
+      "author_login": "matthewp",
+      "authored_at": "2018-11-09T12:11:40Z",
+      "message": "Merge pull request #523 from WesleyDRobinson/wdr/bug/initialize-without-options"
+    },
+    {
+      "sha": "1a0b2259808659617485949458152750b3f6ab66",
+      "author_login": "WesleyDRobinson",
+      "authored_at": "2018-11-07T04:12:34Z",
+      "message": "1.11.3"
+    },
+    {
+      "sha": "c2ff6883f572d289edb64e1174a2969f6cdf4ad3",
+      "author_login": "WesleyDRobinson",
+      "authored_at": "2018-11-07T03:59:33Z",
+      "message": "initializes opts as options or empty object, closes #522"
+    },
+    {
+      "sha": "e527677d3bc18b02b3b8e909655163b7140760db",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-11-05T11:51:22Z",
+      "message": "1.11.2"
+    },
+    {
+      "sha": "9adb1a926f9bdc98f10950690364fb637ca9c02d",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-11-05T11:50:52Z",
+      "message": "Updating page.mjs"
+    },
+    {
+      "sha": "ca14414fd5d2937f407fffd463b721c372d4953b",
+      "author_login": "matthewp",
+      "authored_at": "2018-11-05T11:50:05Z",
+      "message": "Merge pull request #516 from rcroote/fix-typescript-default"
+    },
+    {
+      "sha": "8a4ed073e7c6d4383ca37bbf3d7e35027cb89f9e",
+      "author_login": "ryancroote",
+      "authored_at": "2018-11-01T12:40:09Z",
+      "message": "Re-ran make after rebase"
+    },
+    {
+      "sha": "49e92971fec40189d8d76f5a3fa7ba548b78076f",
+      "author_login": "ryancroote",
+      "authored_at": "2018-10-17T19:17:38Z",
+      "message": "Fix for page_1.default is not defined error using TypeScript"
+    },
+    {
+      "sha": "08af410edbafe60a4c118ceea51608e68243fda5",
+      "author_login": "matthewp",
+      "authored_at": "2018-11-01T11:03:38Z",
+      "message": "Merge pull request #520 from andyburke/fix_dispatching"
+    },
+    {
+      "sha": "6ad51c8515583f263165166154368bca3c845d00",
+      "author_login": "andyburke",
+      "authored_at": "2018-11-01T10:28:48Z",
+      "message": "run make"
+    },
+    {
+      "sha": "d8dcdcba65b3ba121418a9b80f8761ce39222f65",
+      "author_login": "andyburke",
+      "authored_at": "2018-11-01T10:27:20Z",
+      "message": "fix dispatching bug introducted in page.create refactor"
+    },
+    {
+      "sha": "dabcde7d0013f8223aa178b89082ab6f77f4cc12",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-10-31T22:33:19Z",
+      "message": "1.11.1"
+    },
+    {
+      "sha": "b67389f25269b3c36b7030e08bbc5c129dda0d68",
+      "author_login": "matthewp",
+      "authored_at": "2018-10-31T22:31:23Z",
+      "message": "Merge pull request #519 from jsnajdr/fix/duplicate-handler-registration"
+    },
+    {
+      "sha": "c4f7264c3ecae23af51762fe85b355327deffe91",
+      "author_login": "jsnajdr",
+      "authored_at": "2018-10-31T13:46:56Z",
+      "message": "Prevent duplicate event handler registration by configuring the router only once"
+    },
+    {
+      "sha": "57a9c31eb7995e3e449240c43c89710758cf086c",
+      "author_login": "matthewp",
+      "authored_at": "2018-10-31T11:45:59Z",
+      "message": "Merge pull request #518 from kaisermann/fix-base-file-protocol"
+    },
+    {
+      "sha": "bc4b8f8fd3ef63b72e99242168a870b49d860aa3",
+      "author_login": null,
+      "authored_at": "2018-10-30T20:24:01Z",
+      "message": "Fix wrong base for hashbang:true and protocol file:"
+    },
+    {
+      "sha": "572790c41bcfa29d0dd9b4d5f07efeba8cdb1209",
+      "author_login": "matthewp",
+      "authored_at": "2018-10-25T13:23:21Z",
+      "message": "Merge pull request #517 from jsnajdr/fix-remove-click-listener"
+    },
+    {
+      "sha": "e8354bccf4a46f212698c0a5d29214eb4b8f00bd",
+      "author_login": "jsnajdr",
+      "authored_at": "2018-10-25T12:04:42Z",
+      "message": "page.stop should unregister clickHandler only if page.start previously registered it"
+    },
+    {
+      "sha": "df926c20425a984afafe1cbe1a2a22b33b368a0a",
+      "author_login": "matthewp",
+      "authored_at": "2018-10-24T21:10:38Z",
+      "message": "Merge pull request #513 from visionmedia/click"
+    },
+    {
+      "sha": "72dee894f433242f34f308fc3364517e7c7c874e",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-10-04T22:25:19Z",
+      "message": "Add coverage for non-URL supporting browsers"
+    },
+    {
+      "sha": "cd121e218a62635641b92b17ce19182fb48684e9",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-10-04T22:14:40Z",
+      "message": "Export and document clickHandler"
+    },
+    {
+      "sha": "549018bba8db654f99124abe6c6af8a8342eb007",
+      "author_login": "matthewp",
+      "authored_at": "2018-10-24T20:45:12Z",
+      "message": "Merge pull request #514 from kaisermann/fix-hashbang-file"
+    },
+    {
+      "sha": "1546f06101ba9ec0aae1e3cc0dd692dd92893f5e",
+      "author_login": "kaisermann",
+      "authored_at": "2018-10-24T16:26:02Z",
+      "message": "Remove last test"
+    },
+    {
+      "sha": "71a30df2722081566568fd1355265b25411ad257",
+      "author_login": "kaisermann",
+      "authored_at": "2018-10-24T14:09:00Z",
+      "message": "Merge branch 'master' into fix-hashbang-file"
+    },
+    {
+      "sha": "ec2bba421178f1b269dc09e75fb540cc8893df95",
+      "author_login": "matthewp",
+      "authored_at": "2018-10-24T12:12:48Z",
+      "message": "Merge pull request #507 from flootr/fix/onpopstate"
+    },
+    {
+      "sha": "5aa314b0ce9041c84bd1a5b874cfe386aeb43dac",
+      "author_login": "kaisermann",
+      "authored_at": "2018-10-18T21:44:19Z",
+      "message": "Remove Node 0.1 from travis tests"
+    },
+    {
+      "sha": "3eaf6f8886205272f2b0835c25caa4ca09ff68b1",
+      "author_login": "kaisermann",
+      "authored_at": "2018-10-17T18:46:38Z",
+      "message": "Replace regex with substring"
+    },
+    {
+      "sha": "a033a2ef635399dd3e14c1497380ca0657350a2c",
+      "author_login": "kaisermann",
+      "authored_at": "2018-10-09T20:12:03Z",
+      "message": "Add some comments for clarity"
+    },
+    {
+      "sha": "3a75d238d8d486876bbbdc26275ccee021a89d6d",
+      "author_login": "kaisermann",
+      "authored_at": "2018-10-09T20:06:49Z",
+      "message": "Use the \"dirname\", not full path, as the base when protocol is file"
+    },
+    {
+      "sha": "b3b15445d42601539ae8598b804f68b6d1a3c59f",
+      "author_login": "kaisermann",
+      "authored_at": "2018-10-09T19:40:57Z",
+      "message": "Add test for file protocol hashbang click navigation"
+    },
+    {
+      "sha": "1a64b7d6ed70c035e9a2dc34ecd7af7d4d7bbf7b",
+      "author_login": "kaisermann",
+      "authored_at": "2018-10-05T17:36:15Z",
+      "message": "Prevent default link behaviour when hashbang: true and protocol is file:"
+    },
+    {
+      "sha": "db2b615252898d2a32edf507c05e0b3c5ca8426a",
+      "author_login": "flootr",
+      "authored_at": "2018-09-25T17:24:57Z",
+      "message": "make sure _onpopstate is defined in non-browser envs"
+    },
+    {
+      "sha": "02c026ca82f9d3f5018038d822592e77c040cfb7",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-09-24T20:51:25Z",
+      "message": "1.10.2"
+    },
+    {
+      "sha": "07edef89264f779c06f95121f7b0fe7d716b2dca",
+      "author_login": "matthewp",
+      "authored_at": "2018-09-22T16:25:31Z",
+      "message": "Merge pull request #506 from christianalfoni/patch-1"
+    },
+    {
+      "sha": "a6eb0cd40a4b898330bbf6c1f7019521039f43a6",
+      "author_login": "matthewp",
+      "authored_at": "2018-09-22T16:25:15Z",
+      "message": "Merge pull request #505 from kaisermann/patch-2"
+    },
+    {
+      "sha": "3c33c5628459df12c8ac222a1e4b6cbb996a9e20",
+      "author_login": "christianalfoni",
+      "authored_at": "2018-09-18T07:58:58Z",
+      "message": "Update named wildcard"
+    },
+    {
+      "sha": "b978be35dd15ec1758f53ac1327662f053fa5178",
+      "author_login": "kaisermann",
+      "authored_at": "2018-09-14T19:24:23Z",
+      "message": "Replace undefined 'hashbang' with '_hashbang'"
+    },
+    {
+      "sha": "85e06e6fa65bc5c4e127bb71a91f1108302fe940",
+      "author_login": "matthewp",
+      "authored_at": "2018-09-12T13:40:43Z",
+      "message": "Merge pull request #503 from flootr/patch-1"
+    },
+    {
+      "sha": "05a41c944eb71233723ebe94a224c3c44e23f8e5",
+      "author_login": "flootr",
+      "authored_at": "2018-09-12T06:26:38Z",
+      "message": "make sure _onpopstate is defined in non-browser envs"
+    },
+    {
+      "sha": "f48d3f1ca10edc6847fca48c1ccfa74df86b9ef2",
+      "author_login": "matthewp",
+      "authored_at": "2018-09-08T13:00:29Z",
+      "message": "Merge pull request #502 from visionmedia/same-link"
+    },
+    {
+      "sha": "0d643111a292c777ae607e0252464ec7af1a2d88",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-09-07T21:45:03Z",
+      "message": "Fix querystring in context when navigating to the same page"
+    },
+    {
+      "sha": "6a3528338110e779725ce60de79de32a183e2687",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-09-07T11:05:53Z",
+      "message": "1.10.0"
+    },
+    {
+      "sha": "1002924bf27f0ee817fd710de5f23203f46f6447",
+      "author_login": "matthewp",
+      "authored_at": "2018-09-07T11:04:36Z",
+      "message": "Merge pull request #461 from visionmedia/mult2"
+    },
+    {
+      "sha": "263f93859808e47d16e3cfe8f8a7bd2809d499d1",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-09-07T11:00:45Z",
+      "message": "Add tests for event paths"
+    },
+    {
+      "sha": "34d97357c61f67a0fe9423f0374783e392d47aa4",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-09-06T11:48:14Z",
+      "message": "Test some configuration options"
+    },
+    {
+      "sha": "64a6c48a550bd6ac7b403e7411a92488a8a8936e",
+      "author_login": "matthewp",
+      "authored_at": "2018-02-10T17:21:07Z",
+      "message": "Fix typo in the _getBase function"
+    },
+    {
+      "sha": "aa17855909edfdfdde94ec51ddf2894f651f487f",
+      "author_login": "matthewp",
+      "authored_at": "2018-01-23T12:42:20Z",
+      "message": "Use bound functions or event handlers"
+    },
+    {
+      "sha": "a4c395dc5609ab4ac146e8aaa017cd86de890c98",
+      "author_login": "matthewp",
+      "authored_at": "2018-01-23T12:23:11Z",
+      "message": "Add documentation for page.create()"
+    },
+    {
+      "sha": "2447b2313887c95ab2aeea56433192677b174a3a",
+      "author_login": "matthewp",
+      "authored_at": "2018-01-23T12:13:05Z",
+      "message": "Add page.create() to allow multiple pages"
+    },
+    {
+      "sha": "cc40bc4c8b7986f1f8013efaf81c87138ca84718",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-09-06T10:47:22Z",
+      "message": "1.9.0"
+    },
+    {
+      "sha": "c0f3cf6dc8632f4facf5e9ae5d51d92cc688eb52",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-09-06T10:46:30Z",
+      "message": "Add an example of using the ES module to the readme"
+    },
+    {
+      "sha": "d4fe9c13a5f651ecfb9674db38a003b6837aa035",
+      "author_login": "matthewp",
+      "authored_at": "2018-09-06T10:44:54Z",
+      "message": "Merge pull request #500 from visionmedia/es"
+    },
+    {
+      "sha": "baa83223497c65b1e7784631ad5111fb02b8fe5b",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-09-06T02:49:48Z",
+      "message": "Include page.mjs in the npm bundle"
+    },
+    {
+      "sha": "dfc9997c26ae803213d0267fe981d6cde45d644e",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-09-06T02:46:00Z",
+      "message": "Adds an ES module"
+    },
+    {
+      "sha": "71bb2d8771159985065819fcebd8e6b5c62e3b26",
+      "author_login": "matthewp",
+      "authored_at": "2018-07-17T20:30:35Z",
+      "message": "Merge pull request #490 from sgomes/add-async-tests"
+    },
+    {
+      "sha": "a2139ca8f6a3d3d0c06b3b633465942a06ca70c1",
+      "author_login": "sgomes",
+      "authored_at": "2018-07-17T20:17:41Z",
+      "message": "Add tests for validating asynchronous callbacks."
+    },
+    {
+      "sha": "20aa29b790a506967d734366ed0323d70f3fca52",
+      "author_login": "matthewp",
+      "authored_at": "2018-07-17T18:35:16Z",
+      "message": "Merge pull request #489 from visionmedia/vers"
+    },
+    {
+      "sha": "4b1fd71b0a3f8318a727fcdf6cb1f9522507219b",
+      "author_login": "matthewpblog",
+      "authored_at": "2018-07-17T18:31:40Z",
+      "message": "Upgrade the engine-dependencies version"
+    },
+    {
+      "sha": "043e68cfdea0c8adec24c4e719c4af2c956b96e0",
+      "author_login": "matthewp",
+      "authored_at": "2018-03-27T11:02:06Z",
+      "message": "1.8.6"
+    },
+    {
+      "sha": "8549455966fddd8fb75a8403164aa3bc07d5d6a7",
+      "author_login": "matthewp",
+      "authored_at": "2018-03-27T11:00:31Z",
+      "message": "Merge pull request #477 from nick-woodward/master"
+    },
+    {
+      "sha": "6a16a68735879482b3ebe335940e088be6f1d290",
+      "author_login": "matthewp",
+      "authored_at": "2018-03-27T10:59:10Z",
+      "message": "Merge pull request #475 from mgibas/master"
+    },
+    {
+      "sha": "d7418b7e57bea4c9c0b58c93411c0723fce8a95e",
+      "author_login": null,
+      "authored_at": "2018-03-26T00:22:42Z",
+      "message": "chore: update unpkg url to point at the correct version"
+    },
+    {
+      "sha": "5648ef91a076d4caf20c54287082c2507ca5ff6a",
+      "author_login": "mgibas",
+      "authored_at": "2018-03-23T15:26:38Z",
+      "message": "Fix for anchors in shadow dom"
+    },
+    {
+      "sha": "73fefebc3ad425f16c42ed642de5312a5bc8d115",
+      "author_login": "matthewp",
+      "authored_at": "2018-03-21T20:57:19Z",
+      "message": "1.8.5"
+    },
+    {
+      "sha": "d5b7bdf5143dafed8deafb38fd11b3fa3e41a301",
+      "author_login": "matthewp",
+      "authored_at": "2018-03-07T15:10:28Z",
+      "message": "Merge pull request #469 from dthorne/master"
+    }
+  ],
+  "issues": [
+    {
+      "number": 618,
+      "title": "fix: e.button is 0-indexed in _which fallback",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-31T06:18:57Z",
+      "closed_at": "2026-05-31T16:39:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 616,
+      "title": "page.js >=1.4.0 depends on vulnerable versions of path-to-regexp",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-06T11:32:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 615,
+      "title": "Worth forking?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-10T12:06:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 614,
+      "title": "fixed filename being lost on routing to root",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-06-27T15:47:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 613,
+      "title": "fixed filename being lost on routing to root",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-06-27T14:40:40Z",
+      "closed_at": "2023-06-27T15:46:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 612,
+      "title": "fixed the return issue",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-06-24T11:21:47Z",
+      "closed_at": "2023-08-11T19:26:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 611,
+      "title": "is this project still active?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-21T21:08:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 610,
+      "title": "history.state is cleared on initial page load",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-25T04:00:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 609,
+      "title": "Browser back/Forward button with saved warning message ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-06T09:35:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 608,
+      "title": "doc link 404",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-13T08:03:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 591,
+      "title": "fix redirect if one dot enterd",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-12-18T18:02:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 590,
+      "title": "fix:Omit query and hash part if both apears in path",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-12-15T09:20:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 589,
+      "title": "Whether pathname includes base depends on whether there is an anchor (#foo)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-21T22:55:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 588,
+      "title": "Change route url without refreshing",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-04-08T22:40:41Z",
+      "closed_at": "2021-04-11T21:27:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 587,
+      "title": "It would be nice to have a minified version available",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-24T22:31:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 586,
+      "title": "Handling onpage hash links",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-20T11:26:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 585,
+      "title": "Page base not used for history state (breaks reloading in electron)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-02-05T20:37:53Z",
+      "closed_at": "2023-02-23T04:35:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 584,
+      "title": "Fix duplicate query string params when hashbang is enabled",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-01-24T01:37:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 583,
+      "title": "What NPM Package should I use? \"page\" or \"page.js\"",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-21T11:45:41Z",
+      "closed_at": "2021-01-22T11:14:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 582,
+      "title": "  page('/about', about);",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-21T01:17:45Z",
+      "closed_at": "2020-12-21T01:44:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 581,
+      "title": "very simple page, but got 404",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-21T00:27:48Z",
+      "closed_at": "2020-12-21T02:30:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 580,
+      "title": "can't access ctx.page.preContext, ctx === ctx.page.preContext returns true",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-16T11:14:43Z",
+      "closed_at": "2020-12-16T13:11:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 579,
+      "title": "Relative link when current location has #hash triggers a reload while it doesn't with no #hash or empty # ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-06T15:55:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 578,
+      "title": "page.len does not decrease after click browser's back button",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-19T06:56:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 577,
+      "title": "Doesn't work with Github Pages?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-10T05:03:02Z",
+      "closed_at": "2020-10-10T20:28:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 576,
+      "title": "Page reload on redirect page(\"./pageToRedirect\")",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-06T18:02:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 575,
+      "title": "bug for omitting query and hash from pathname",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-23T14:52:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 574,
+      "title": "'prevContext' on hash change not set properly",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-07T05:01:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 573,
+      "title": "lit-element page.js and parameters not working?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-06T17:04:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 572,
+      "title": "Modular routing with page.js",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-02T08:06:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 571,
+      "title": "docs: Fix simple typo, comparition -> comparison",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-08-31T20:13:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 570,
+      "title": "Remove bower from readme since it's deprecated",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-08-10T02:11:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 569,
+      "title": "PageJS and WebComponents",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-08T12:57:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 568,
+      "title": "Don’t prevent the browser’s default behavior corresponding to the Alt key",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-08-08T09:15:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 567,
+      "title": "Stopping and starting page.js has some odd results.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-06T23:27:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 566,
+      "title": "How to exclude certain path in page.js?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-07-23T08:56:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 565,
+      "title": "Fix Context constructor references when a page instance is omitted",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-07-10T18:49:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 564,
+      "title": "hash change = 404",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-01T16:12:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 563,
+      "title": "How to use dynamic import in page.js?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-22T13:52:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 562,
+      "title": "Original path passed in the callback context",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-20T20:44:35Z",
+      "closed_at": "2020-04-21T11:11:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 561,
+      "title": "How to use Page.js with Preact components",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-19T15:51:41Z",
+      "closed_at": "2020-12-04T18:42:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 560,
+      "title": "Fix _page typo in Route constructor",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-15T07:41:26Z",
+      "closed_at": "2020-04-21T11:12:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 559,
+      "title": "Router does not match absolute URLs correctly",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-26T02:15:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 558,
+      "title": "Fix the errors in the case that e.g. an external code calls .pushState without path.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-03-23T09:42:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 557,
+      "title": "Fix documentation of named wildcards",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-03-18T18:26:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 556,
+      "title": "fix github pages exit code snippet",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-02-21T20:19:42Z",
+      "closed_at": "2020-02-26T13:28:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 555,
+      "title": "Apache Settings.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-02-07T04:56:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 554,
+      "title": "Okay to run code after a next() call in a route handler?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-25T00:06:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 553,
+      "title": "How to detect page change and prompt user (like window.onbeforeunload)?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-23T15:42:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 552,
+      "title": "Internationalisation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-20T06:50:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 551,
+      "title": "Make query string parameters work when using hashbang routing",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-01-04T16:47:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 550,
+      "title": "Make query string parameters work when using hashbang routing",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-01-03T20:45:39Z",
+      "closed_at": "2020-01-04T13:55:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 549,
+      "title": "make the in browsers tests pass",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-12-29T21:24:15Z",
+      "closed_at": "2019-12-30T12:25:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 548,
+      "title": "Sync and src dest files.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-12-29T20:48:12Z",
+      "closed_at": "2019-12-30T13:42:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 547,
+      "title": "fix ie11 sameOrigin check on https",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-12-28T16:15:34Z",
+      "closed_at": "2019-12-30T12:25:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 546,
+      "title": "fix: don't fail on routes that begin with the page base setting",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-11-14T23:38:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 545,
+      "title": "Incorrect fallback from event.which to event.button",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-10-11T19:34:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 544,
+      "title": "npm doesn't install the current version (1.11.4)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-09-26T09:41:23Z",
+      "closed_at": "2019-09-27T11:17:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 543,
+      "title": "IE11 support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-09-12T16:34:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 542,
+      "title": "Listen `hashchange` if popstate = false",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-06-19T13:06:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 541,
+      "title": "link to '/' does not route to base",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-07T08:35:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 540,
+      "title": "Does not respond to manually changing the URL bar in hashbang mode",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-01T23:14:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 539,
+      "title": "Remove Regex \"matched text\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-27T03:24:57Z",
+      "closed_at": "2019-05-29T12:27:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 538,
+      "title": "Regex capture groups not reflected in context parameters",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-27T01:49:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 537,
+      "title": "window is undefined",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-06T21:46:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 536,
+      "title": "Remove pagify-it from readme as discussed",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-21T21:55:58Z",
+      "closed_at": "2019-04-22T11:08:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 535,
+      "title": "ie11 sameOrigin detection fix",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-28T15:19:27Z",
+      "closed_at": "2019-03-29T14:14:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 534,
+      "title": "React pagify-it has been archived",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-25T00:34:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 533,
+      "title": "Fix IE11 breakage with URL building for same-origin comparison",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-06T19:56:50Z",
+      "closed_at": "2019-03-06T19:57:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 532,
+      "title": "Hashbang links in SVG (via xlink:href) add an additional hashbang in URL",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-04T14:43:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 531,
+      "title": "Using replaceState with file:// protocol",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-01-23T17:10:50Z",
+      "closed_at": "2019-01-29T11:53:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 530,
+      "title": "Using replaceState with file:// protocol",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-01-23T17:10:02Z",
+      "closed_at": "2019-01-29T11:52:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 529,
+      "title": "Save state for file:// protocol",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-12-26T00:52:19Z",
+      "closed_at": "2019-01-29T11:53:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 528,
+      "title": "correct 404-settings for subfolders",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-05T12:48:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 527,
+      "title": "fix #526",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-12-02T21:38:08Z",
+      "closed_at": "2019-01-29T11:54:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 526,
+      "title": "path is broken in Context constructor",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-12-02T21:00:48Z",
+      "closed_at": "2019-01-29T11:54:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 525,
+      "title": "if (hashbang:true).and href has search.This search content is repeated every time it is refreshed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-28T03:21:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 524,
+      "title": "Context `path` and `state.path` not equal",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-27T07:10:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 523,
+      "title": "initializes opts as options or empty object, closes #522",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-07T04:08:25Z",
+      "closed_at": "2018-11-09T12:11:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 522,
+      "title": "`options` is undefined - accessing `dispatch` from `options`",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-05T19:10:26Z",
+      "closed_at": "2018-11-09T12:11:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 521,
+      "title": "CommonJS \"require()\"  in page.js file loaded from browser",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-02T13:47:31Z",
+      "closed_at": "2018-11-05T11:52:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 520,
+      "title": "fix dispatching bug introducted in page.create refactor",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-01T10:28:27Z",
+      "closed_at": "2018-11-01T11:03:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 518,
+      "title": "Fix wrong base for hashbang:true and protocol file:",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-30T20:26:30Z",
+      "closed_at": "2018-10-31T11:46:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 517,
+      "title": "page.stop should unregister clickHandler only if page.start previously registered it",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-25T12:08:49Z",
+      "closed_at": "2018-10-25T13:23:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 516,
+      "title": "TypeScript: Missing default export",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-17T19:26:40Z",
+      "closed_at": "2018-11-05T11:50:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 515,
+      "title": "Uncaught TypeError: Cannot set property 'href' of null",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-09T00:27:06Z",
+      "closed_at": "2023-04-17T17:21:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 514,
+      "title": "Prevent default link behaviour when hashbang: true and protocol is file:",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-05T17:37:29Z",
+      "closed_at": "2018-10-24T20:45:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 513,
+      "title": "Export and document clickHandler",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-04T22:15:34Z",
+      "closed_at": "2018-10-24T21:10:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 512,
+      "title": "Made the sameOrigin call work consistently in IE11.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-10-04T14:24:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 511,
+      "title": "Export onclick handler",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-03T18:14:45Z",
+      "closed_at": "2018-10-24T21:10:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 510,
+      "title": "Clearer build process",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-01T21:03:52Z",
+      "closed_at": "2022-02-15T16:05:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 509,
+      "title": "[WIP] Prevent duplicated event bindings for page instances",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-01T13:41:58Z",
+      "closed_at": "2018-10-31T22:32:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 508,
+      "title": "Default global Page event bindings prevent other Page instances events from working correctly",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-01T13:41:46Z",
+      "closed_at": "2018-10-31T22:31:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 507,
+      "title": "make sure _onpopstate is defined in non-browser envs",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-25T17:26:15Z",
+      "closed_at": "2018-10-24T12:12:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 506,
+      "title": "Update named wildcard",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-18T07:59:06Z",
+      "closed_at": "2018-09-22T16:25:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 505,
+      "title": "Replace undefined 'hashbang' with '_hashbang'",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-14T19:24:31Z",
+      "closed_at": "2018-09-22T16:25:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 504,
+      "title": "Contexts no longer work with hashbang enabled",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-09-14T12:09:38Z",
+      "closed_at": "2018-09-22T16:25:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 503,
+      "title": "make sure _onpopstate is defined in non-browser environments",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-12T06:29:11Z",
+      "closed_at": "2018-09-12T13:40:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 502,
+      "title": "Fix querystring prop in context when navigating to the same page",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-07T21:46:08Z",
+      "closed_at": "2018-09-08T13:00:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 501,
+      "title": "Cannot read property 'bind' of undefined",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-09-07T13:38:27Z",
+      "closed_at": "2018-10-24T12:12:49Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "tj",
+      "contributions": 149
+    },
+    {
+      "login": "A",
+      "contributions": 141
+    },
+    {
+      "login": "matthewp",
+      "contributions": 103
+    },
+    {
+      "login": "matthewpblog",
+      "contributions": 21
+    },
+    {
+      "login": "rstacruz",
+      "contributions": 20
+    },
+    {
+      "login": "kethinov",
+      "contributions": 16
+    },
+    {
+      "login": "andyburke",
+      "contributions": 16
+    },
+    {
+      "login": "GianlucaGuarini",
+      "contributions": 15
+    },
+    {
+      "login": "jonathanong",
+      "contributions": 15
+    },
+    {
+      "login": "devote",
+      "contributions": 13
+    },
+    {
+      "login": "kaisermann",
+      "contributions": 9
+    },
+    {
+      "login": "hugomrdias",
+      "contributions": 9
+    },
+    {
+      "login": "hheiskanen",
+      "contributions": 7
+    },
+    {
+      "login": "woodlandhunter",
+      "contributions": 5
+    },
+    {
+      "login": "paulocoghi",
+      "contributions": 4
+    },
+    {
+      "login": "chevett",
+      "contributions": 4
+    },
+    {
+      "login": "BorePlusPlus",
+      "contributions": 3
+    },
+    {
+      "login": "nwmcsween",
+      "contributions": 3
+    },
+    {
+      "login": "PaulMaly",
+      "contributions": 3
+    },
+    {
+      "login": "fisch42",
+      "contributions": 3
+    },
+    {
+      "login": "mclotworthy",
+      "contributions": 3
+    },
+    {
+      "login": "5im-0n",
+      "contributions": 3
+    },
+    {
+      "login": "pahans",
+      "contributions": 3
+    },
+    {
+      "login": "flootr",
+      "contributions": 2
+    },
+    {
+      "login": "christianalfoni",
+      "contributions": 2
+    },
+    {
+      "login": "WesleyDRobinson",
+      "contributions": 2
+    },
+    {
+      "login": "seminice",
+      "contributions": 2
+    },
+    {
+      "login": "ZoomZhao",
+      "contributions": 2
+    },
+    {
+      "login": "victorb",
+      "contributions": 2
+    },
+    {
+      "login": "samccone",
+      "contributions": 2
+    },
+    {
+      "login": "ForbesLindesay",
+      "contributions": 2
+    },
+    {
+      "login": "aaronshaf",
+      "contributions": 2
+    },
+    {
+      "login": "gcorne",
+      "contributions": 2
+    },
+    {
+      "login": "hughsk",
+      "contributions": 2
+    },
+    {
+      "login": "zinigor",
+      "contributions": 2
+    },
+    {
+      "login": "jsnajdr",
+      "contributions": 2
+    },
+    {
+      "login": "nathancahill",
+      "contributions": 2
+    },
+    {
+      "login": "prabakaranfresh",
+      "contributions": 2
+    },
+    {
+      "login": "ryancroote",
+      "contributions": 2
+    },
+    {
+      "login": "LitoMore",
+      "contributions": 1
+    },
+    {
+      "login": "mgibas",
+      "contributions": 1
+    },
+    {
+      "login": "MWalid",
+      "contributions": 1
+    },
+    {
+      "login": "TechNickAI",
+      "contributions": 1
+    },
+    {
+      "login": "analog-nico",
+      "contributions": 1
+    },
+    {
+      "login": "onury",
+      "contributions": 1
+    },
+    {
+      "login": "philcockfield",
+      "contributions": 1
+    },
+    {
+      "login": "prayagverma",
+      "contributions": 1
+    },
+    {
+      "login": "mousavian",
+      "contributions": 1
+    },
+    {
+      "login": "defunctzombie",
+      "contributions": 1
+    },
+    {
+      "login": "samholmes",
+      "contributions": 1
+    },
+    {
+      "login": "stephenmathieson",
+      "contributions": 1
+    },
+    {
+      "login": "codeuniquely",
+      "contributions": 1
+    },
+    {
+      "login": "sunesimonsen",
+      "contributions": 1
+    },
+    {
+      "login": "sgomes",
+      "contributions": 1
+    },
+    {
+      "login": "timoxley",
+      "contributions": 1
+    },
+    {
+      "login": "tmeasday",
+      "contributions": 1
+    },
+    {
+      "login": "charypar",
+      "contributions": 1
+    },
+    {
+      "login": "simov",
+      "contributions": 1
+    },
+    {
+      "login": "sonaye",
+      "contributions": 1
+    },
+    {
+      "login": "tomeraz",
+      "contributions": 1
+    },
+    {
+      "login": "acornejo",
+      "contributions": 1
+    },
+    {
+      "login": "bkw",
+      "contributions": 1
+    },
+    {
+      "login": "tunnckoCore",
+      "contributions": 1
+    },
+    {
+      "login": "meowgorithm",
+      "contributions": 1
+    },
+    {
+      "login": "tellnes",
+      "contributions": 1
+    },
+    {
+      "login": "conraddecker",
+      "contributions": 1
+    },
+    {
+      "login": "allspiritseve",
+      "contributions": 1
+    },
+    {
+      "login": "retrofox",
+      "contributions": 1
+    },
+    {
+      "login": "davidtheclark",
+      "contributions": 1
+    },
+    {
+      "login": "yoDon",
+      "contributions": 1
+    },
+    {
+      "login": "em",
+      "contributions": 1
+    },
+    {
+      "login": "Gerhut",
+      "contributions": 1
+    },
+    {
+      "login": "dumbmatter",
+      "contributions": 1
+    },
+    {
+      "login": "compiledpanda",
+      "contributions": 1
+    },
+    {
+      "login": "kudos",
+      "contributions": 1
+    },
+    {
+      "login": "joonas-lahtinen",
+      "contributions": 1
+    },
+    {
+      "login": "jorgecasar",
+      "contributions": 1
+    },
+    {
+      "login": "jcoffland",
+      "contributions": 1
+    },
+    {
+      "login": "Joshua-Fredrickson",
+      "contributions": 1
+    },
+    {
+      "login": "karlbohlmark",
+      "contributions": 1
+    },
+    {
+      "login": "kkirsche",
+      "contributions": 1
+    },
+    {
+      "login": "limonte",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v1.11.5",
+      "published_at": "2019-09-27T11:17:29Z"
+    },
+    {
+      "tag": "v1.11.4",
+      "published_at": "2019-01-29T11:58:15Z"
+    },
+    {
+      "tag": "1.11.3",
+      "published_at": "2018-11-09T12:17:05Z"
+    },
+    {
+      "tag": "1.11.2",
+      "published_at": "2018-11-05T11:52:11Z"
+    },
+    {
+      "tag": "1.11.1",
+      "published_at": "2018-10-31T22:35:00Z"
+    },
+    {
+      "tag": "1.11.0",
+      "published_at": "2018-10-24T21:16:44Z"
+    },
+    {
+      "tag": "1.10.2",
+      "published_at": "2018-09-24T21:01:10Z"
+    },
+    {
+      "tag": "v1.10.1",
+      "published_at": "2018-09-08T13:03:48Z"
+    },
+    {
+      "tag": "v1.10.0",
+      "published_at": "2018-09-07T11:07:34Z"
+    },
+    {
+      "tag": "v1.9.0",
+      "published_at": "2018-09-06T10:51:46Z"
+    },
+    {
+      "tag": "1.8.3",
+      "published_at": "2018-01-22T22:43:08Z"
+    },
+    {
+      "tag": "1.8.2",
+      "published_at": "2018-01-22T14:29:35Z"
+    },
+    {
+      "tag": "1.8.1",
+      "published_at": "2018-01-22T12:16:05Z"
+    },
+    {
+      "tag": "1.8.0",
+      "published_at": "2018-01-17T12:27:17Z"
+    },
+    {
+      "tag": "1.7.3",
+      "published_at": "2018-01-15T19:26:47Z"
+    },
+    {
+      "tag": "1.7.2",
+      "published_at": "2018-01-15T13:31:12Z"
+    },
+    {
+      "tag": "1.6.4",
+      "published_at": "2015-10-14T22:26:18Z"
+    },
+    {
+      "tag": "1.6.3",
+      "published_at": "2015-04-19T17:01:58Z"
+    },
+    {
+      "tag": "1.6.1",
+      "published_at": "2015-02-16T11:57:59Z"
+    },
+    {
+      "tag": "1.6.0",
+      "published_at": "2015-01-27T12:04:33Z"
+    },
+    {
+      "tag": "1.5.0",
+      "published_at": "2014-11-28T22:14:12Z"
+    },
+    {
+      "tag": "1.4.1",
+      "published_at": "2014-11-13T22:31:42Z"
+    },
+    {
+      "tag": "1.4.0",
+      "published_at": "2014-11-11T23:24:36Z"
+    }
+  ],
+  "collected_at": "2026-07-27T09:38:01.278754Z"
+}

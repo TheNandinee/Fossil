@@ -1,0 +1,1679 @@
+{
+  "full_name": "evilstreak/markdown-js",
+  "owner": "evilstreak",
+  "name": "markdown-js",
+  "url": "https://github.com/evilstreak/markdown-js",
+  "description": "A Markdown parser for javascript",
+  "primary_language": "JavaScript",
+  "topics": [],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 7675,
+  "forks": 836,
+  "open_issues": 107,
+  "created_at": "2009-12-18T15:31:48Z",
+  "pushed_at": "2020-03-27T01:02:30Z",
+  "updated_at": "2026-07-27T08:50:59Z",
+  "commits": [
+    {
+      "sha": "14344a8f0eb1ca5d6ff99eb3fa54c1fd821bf484",
+      "author_login": "ashb",
+      "authored_at": "2019-03-05T17:34:24Z",
+      "message": "Merge pull request #312 from ben-turner/patch-1"
+    },
+    {
+      "sha": "c4672f7e30de9d3f683832abe74a520ca81b9e05",
+      "author_login": "ben-turner",
+      "authored_at": "2019-02-26T18:08:24Z",
+      "message": "Add unmaintained notice to README"
+    },
+    {
+      "sha": "6f690f489b166aa4601737a4a7fdae39cd8d800c",
+      "author_login": "ashb",
+      "authored_at": "2017-10-18T11:47:53Z",
+      "message": "Merge pull request #300 from briankung/patch-1"
+    },
+    {
+      "sha": "69da86ac705ef05559147c05ad856abc30cf7b75",
+      "author_login": "briankung",
+      "authored_at": "2017-10-18T11:25:09Z",
+      "message": "Replace hangul characters with spaces"
+    },
+    {
+      "sha": "aa1d03c725ec035d0342c25049ff5eef6e28a980",
+      "author_login": "ashb",
+      "authored_at": "2017-08-18T13:41:38Z",
+      "message": "Merge pull request #297 from HarrySarson/readme-fix"
+    },
+    {
+      "sha": "16cb09085aed98398841e9569c2e923ddbaccef3",
+      "author_login": "harrysarson",
+      "authored_at": "2017-08-18T13:12:32Z",
+      "message": "Fixes formatting in readme."
+    },
+    {
+      "sha": "4adf15c4557a1d82181bf8315103a9d30abde166",
+      "author_login": "ashb",
+      "authored_at": "2017-06-20T13:36:45Z",
+      "message": "Merge pull request #294 from EmrysMyrddin/patch-1"
+    },
+    {
+      "sha": "38afbf105b58dee117996b9c36a7d2f1316795ca",
+      "author_login": "EmrysMyrddin",
+      "authored_at": "2017-06-20T13:32:58Z",
+      "message": "Fixed subtitle formating"
+    },
+    {
+      "sha": "2909dc551e22c96c85fd6678644b8d11f40ebf55",
+      "author_login": "ashb",
+      "authored_at": "2017-02-17T09:47:15Z",
+      "message": "Merge pull request #289 from imgss/master"
+    },
+    {
+      "sha": "9f60a6d5683a5853576440a67d73579baa9d3c81",
+      "author_login": "imgss",
+      "authored_at": "2017-02-17T09:28:42Z",
+      "message": "add ES6 import"
+    },
+    {
+      "sha": "9b8aa6598fcc8104ce4819f1190b2e2967bc7d2a",
+      "author_login": "ashb",
+      "authored_at": "2015-05-22T14:05:28Z",
+      "message": "Merge pull request #243 from pgilad/patch-1"
+    },
+    {
+      "sha": "5a3fde3d395c1f66d71dd87e92cecbd2e0e52655",
+      "author_login": "pgilad",
+      "authored_at": "2015-05-19T10:24:44Z",
+      "message": "update license attribute"
+    },
+    {
+      "sha": "452ac261c45d1948ec76bca57c08a9d1a488f9e3",
+      "author_login": "ashb",
+      "authored_at": "2015-01-19T10:35:00Z",
+      "message": "Merge pull request #233 from mustmodify/patch-1"
+    },
+    {
+      "sha": "016f359bc74c1b6db9b5c3b0fb4b3b65291796fd",
+      "author_login": "mustmodify",
+      "authored_at": "2015-01-15T20:21:07Z",
+      "message": "#232 - README shows the basic syntax, dialect options"
+    },
+    {
+      "sha": "7e2760daab40262215711f78a78dec5bf56f5097",
+      "author_login": "ashb",
+      "authored_at": "2014-12-27T14:39:05Z",
+      "message": "Drop support for node 0.8"
+    },
+    {
+      "sha": "48b4ad111eb61e049c191e9256359c80d2d8547f",
+      "author_login": "ashb",
+      "authored_at": "2014-12-23T18:05:36Z",
+      "message": "Merge pull request #184 from ethanhann/master"
+    },
+    {
+      "sha": "8cfcfbdb8ff2c144e8355930b9c80eccef9e7833",
+      "author_login": "ashb",
+      "authored_at": "2014-09-29T09:04:05Z",
+      "message": "Merge pull request #217 from eviltrout/url-loop-fix"
+    },
+    {
+      "sha": "228718d545b88b7877cfef1794e82619c755a56c",
+      "author_login": "eviltrout",
+      "authored_at": "2014-09-26T17:40:19Z",
+      "message": "FIX: Update URL regular expression"
+    },
+    {
+      "sha": "84579a01d9af4b63d7f897dd542ccf1fb596be82",
+      "author_login": "ashb",
+      "authored_at": "2014-09-21T22:14:12Z",
+      "message": "Merge pull request #216 from Sneakertack/dont-mutate-intermediates"
+    },
+    {
+      "sha": "459c86bff5862701387e2bf6c8ed2d3938d699b7",
+      "author_login": "sneakertack",
+      "authored_at": "2014-09-19T13:55:27Z",
+      "message": "FIX: renderJsonML mutates its argument"
+    },
+    {
+      "sha": "7fb0fbadd9a704d72e98bb86aa44db3236d789a6",
+      "author_login": "sneakertack",
+      "authored_at": "2014-09-16T11:41:20Z",
+      "message": "Write a mutation check for toHTMLTree and renderJsonML (renderJsonML fails)"
+    },
+    {
+      "sha": "97827142d314a3ecfcda1bec7f4123efd7a2fa44",
+      "author_login": "ashb",
+      "authored_at": "2014-09-16T10:59:51Z",
+      "message": "Merge pull request #209 from Elberet/fix-bbcode-refs"
+    },
+    {
+      "sha": "528c80ffa33b01a7f574446721c9ba0f884653b0",
+      "author_login": "Elberet",
+      "authored_at": "2014-09-02T18:29:10Z",
+      "message": "FIX: edge cases with bbcodes looking like reference definitions and empty links"
+    },
+    {
+      "sha": "48d435efb3a452e706eadc60494c1c7f94898ca4",
+      "author_login": "evilstreak",
+      "authored_at": "2014-08-25T17:56:10Z",
+      "message": "Note addition of tables support in changelog"
+    },
+    {
+      "sha": "d5f507a3add90a069722d463e61c8db9e15bfaf7",
+      "author_login": "evilstreak",
+      "authored_at": "2014-07-04T14:32:12Z",
+      "message": "Merge pull request #201 from eviltrout/undefined_attr"
+    },
+    {
+      "sha": "74d6989638b2120a107c987271fa837964c01322",
+      "author_login": "eviltrout",
+      "authored_at": "2014-06-16T23:00:02Z",
+      "message": "FIX: If an attribute was undefined as the result of processing,"
+    },
+    {
+      "sha": "6b4917e192d981407f8e8087c315f777257fa587",
+      "author_login": "evilstreak",
+      "authored_at": "2014-05-19T09:44:55Z",
+      "message": "Merge pull request #169 from yorkie/patch-1"
+    },
+    {
+      "sha": "d87a35e38b5323d5f8f6df80970565ebab670dd8",
+      "author_login": "evilstreak",
+      "authored_at": "2014-05-19T09:44:39Z",
+      "message": "Merge pull request #195 from eviltrout/broken_brackets"
+    },
+    {
+      "sha": "b6d50d2e86f6cadc368920fb69e6b16d8f9e3ba0",
+      "author_login": "ashb",
+      "authored_at": "2014-05-08T21:01:37Z",
+      "message": "Merge pull request #196 from eviltrout/no_closing_fix"
+    },
+    {
+      "sha": "098acff1e97b40038a0e5527b6447142b6627d0a",
+      "author_login": "eviltrout",
+      "authored_at": "2014-05-08T20:03:05Z",
+      "message": "FIX: Invalid output when missing the closing paren."
+    },
+    {
+      "sha": "c0a7de19c7ec27976b79d325353a63056a304c22",
+      "author_login": "eviltrout",
+      "authored_at": "2014-04-23T20:52:35Z",
+      "message": "FIX: Having a series of empty brackets would have markdown-js output"
+    },
+    {
+      "sha": "6e9c2eb6d58c5a5887132c04a8b83cc3c59689e9",
+      "author_login": "ashb",
+      "authored_at": "2014-04-15T21:16:42Z",
+      "message": "Merge pull request #192 from josephturnerjr/horizrule"
+    },
+    {
+      "sha": "8da9dc823e1dfa6b60167b536bfe9cc9e56a5a29",
+      "author_login": null,
+      "authored_at": "2014-04-15T19:09:38Z",
+      "message": "Minimal test to expose scoping bug."
+    },
+    {
+      "sha": "d22dfe3cb7e78a4c10f72afb51623aeaaf205509",
+      "author_login": null,
+      "authored_at": "2014-04-15T14:17:45Z",
+      "message": "FIX: Uncaught TypeError: Object #<Object> has no method 'toTree'"
+    },
+    {
+      "sha": "263b9bd69f33d130daa547a17b07c0eeca7a7528",
+      "author_login": "ashb",
+      "authored_at": "2014-04-11T08:12:25Z",
+      "message": "Merge pull request #190 from eviltrout/shift_error"
+    },
+    {
+      "sha": "8e3e65b7e294edf80e6e3def005a36a547ddfd5e",
+      "author_login": "eviltrout",
+      "authored_at": "2014-04-09T14:51:12Z",
+      "message": "FIX: Uncaught TypeError: Cannot call method 'shift' of undefined"
+    },
+    {
+      "sha": "3acdf70f133c8221906e25669e538b626b94342e",
+      "author_login": "evilstreak",
+      "authored_at": "2014-04-08T14:38:41Z",
+      "message": "Merge pull request #189 from samelawrence/master"
+    },
+    {
+      "sha": "0d0e129f076e2cc62438271a733b6744687bfc7e",
+      "author_login": "samelawrence",
+      "authored_at": "2014-04-04T21:40:49Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "9f01738f4034b720b0c19abe5570568f939f5dd0",
+      "author_login": "ethanhann",
+      "authored_at": "2014-03-16T16:53:47Z",
+      "message": "Create bower.json"
+    },
+    {
+      "sha": "f050b08ca4232da0cee494b6cd9ba2682271c91f",
+      "author_login": "evilstreak",
+      "authored_at": "2014-02-14T16:11:05Z",
+      "message": "Merge pull request #176 from jherdman/fix-more-spelling-mistakes"
+    },
+    {
+      "sha": "86aa3011ef05dddf2e90acc1eee7e819f13b69b9",
+      "author_login": null,
+      "authored_at": "2014-02-14T15:50:20Z",
+      "message": "Fix More Spelling Mistakes"
+    },
+    {
+      "sha": "2ddc5a12c596aac8d45d55dee2f87bbd02dbda48",
+      "author_login": "evilstreak",
+      "authored_at": "2014-02-14T10:59:37Z",
+      "message": "Lock grunt-node-tap to 0.1.46"
+    },
+    {
+      "sha": "19679d459a3fb7cb8599d419ce2d285cc6ad0275",
+      "author_login": "evilstreak",
+      "authored_at": "2014-02-13T19:33:07Z",
+      "message": "Merge pull request #175 from jherdman/fix-spelling-error"
+    },
+    {
+      "sha": "aed08ccc011af40a828c999a458dfb900bf4a366",
+      "author_login": null,
+      "authored_at": "2014-02-13T19:11:30Z",
+      "message": "Fix a Spelling Error"
+    },
+    {
+      "sha": "2a3870865295a19b38a553c3cb2a8f30b29d3635",
+      "author_login": "evilstreak",
+      "authored_at": "2014-02-13T13:38:01Z",
+      "message": "Merge pull request #164 from eviltrout/apostrophe"
+    },
+    {
+      "sha": "701071a3379efcc16cb02e664216e4eed496332b",
+      "author_login": "yorkie",
+      "authored_at": "2014-02-05T05:13:43Z",
+      "message": "`md2html` should print usage."
+    },
+    {
+      "sha": "9b24007994dc76f8e4ae074ba6c9cac4cd67d7d8",
+      "author_login": "evilstreak",
+      "authored_at": "2014-02-04T14:58:56Z",
+      "message": "Merge pull request #140 from eviltrout/strings_okay"
+    },
+    {
+      "sha": "c08d7c1509f48497da47b9fe08c85c71c9dce3f2",
+      "author_login": "evilstreak",
+      "authored_at": "2014-02-04T14:55:21Z",
+      "message": "Merge pull request #165 from eviltrout/quote_in_list"
+    },
+    {
+      "sha": "7051ac69414fd6cf839c17d4a1a9e9c9aac3ed05",
+      "author_login": "evilstreak",
+      "authored_at": "2014-01-28T07:44:41Z",
+      "message": "Add links to Gruber & Maruku docs in README"
+    },
+    {
+      "sha": "d4fde44b65a893c13e1e908d789c77665117af06",
+      "author_login": "eviltrout",
+      "authored_at": "2014-01-21T19:30:02Z",
+      "message": "FIX: Support for quotes inside lists"
+    },
+    {
+      "sha": "527f2c680f987fc434817922636789022f58de61",
+      "author_login": "eviltrout",
+      "authored_at": "2014-01-21T15:58:49Z",
+      "message": "FIX: Handle URLs with apostrophes in them."
+    },
+    {
+      "sha": "f718936a39250015005ebe7e052e11212e08b0b2",
+      "author_login": "evilstreak",
+      "authored_at": "2014-01-15T13:29:23Z",
+      "message": "Merge pull request #163 from eviltrout/v8regexp"
+    },
+    {
+      "sha": "d7f44231a25cfb6838fa08a4ad1c13b2fd73df31",
+      "author_login": "eviltrout",
+      "authored_at": "2014-01-10T17:59:11Z",
+      "message": "FIX: On v8, a regular expression was crashing if an image had no ending"
+    },
+    {
+      "sha": "53e53d610ebdd4bc3c2d0cacaf9eccfa34f98360",
+      "author_login": "ashb",
+      "authored_at": "2013-12-09T20:28:49Z",
+      "message": "Merge pull request #160 from eviltrout/dialect_helpers"
+    },
+    {
+      "sha": "35eb9ec7dd34ebe5070721bcf60d9a40b941b518",
+      "author_login": "ashb",
+      "authored_at": "2013-12-09T20:28:30Z",
+      "message": "Merge pull request #159 from eviltrout/escaped-bracket"
+    },
+    {
+      "sha": "2dbb83783683a3c249a8608b4cd4375bcd03517c",
+      "author_login": "eviltrout",
+      "authored_at": "2013-12-09T20:16:03Z",
+      "message": "Expose `DialectHelpers` so people can include markdown-js and then add their own dialects."
+    },
+    {
+      "sha": "38ca277b9375368807e22710a2342f638f245856",
+      "author_login": "eviltrout",
+      "authored_at": "2013-12-09T17:51:31Z",
+      "message": "FIX: Performance issue with escaped brackets `\\]`"
+    },
+    {
+      "sha": "09b5a6ebc7c628807b0251094b97372c28d55f3d",
+      "author_login": "evilstreak",
+      "authored_at": "2013-12-09T07:45:47Z",
+      "message": "Merge pull request #158 from eviltrout/bracket_fix"
+    },
+    {
+      "sha": "cca7d772b31fc971b1e54aef94445daa65bccb36",
+      "author_login": "eviltrout",
+      "authored_at": "2013-12-09T01:14:43Z",
+      "message": "FIX: Performance black hole on sequential  characters"
+    },
+    {
+      "sha": "b9149f6004f7f03d3322391664b07c341d39d35e",
+      "author_login": "evilstreak",
+      "authored_at": "2013-12-04T20:50:09Z",
+      "message": "Merge pull request #157 from cannona/patch-1"
+    },
+    {
+      "sha": "dc84004eb0fee7c93afba377affb05e1488af480",
+      "author_login": "cannona",
+      "authored_at": "2013-12-04T18:03:35Z",
+      "message": "Make linebreak normalization a bit more efficient."
+    },
+    {
+      "sha": "acc2943ec799637bf015bf10fa45c2b9dd937560",
+      "author_login": "ashb",
+      "authored_at": "2013-11-28T10:08:25Z",
+      "message": "Merge pull request #154 from kasperpeulen/patch-1"
+    },
+    {
+      "sha": "c3c9be0f26d232f18a4061828dfb5f4ce479ae92",
+      "author_login": "kasperpeulen",
+      "authored_at": "2013-11-27T22:33:10Z",
+      "message": "Allow dollar($) and caret(^) for inline patterns"
+    },
+    {
+      "sha": "e5a3222570723df57d24503f1b6f690846617de6",
+      "author_login": "ashb",
+      "authored_at": "2013-10-28T21:32:53Z",
+      "message": "Fix broken link in readme (Closes #130)"
+    },
+    {
+      "sha": "09470344a18f0996acf44a01fe4dbb0dc3c8f815",
+      "author_login": "ashb",
+      "authored_at": "2013-10-21T20:48:30Z",
+      "message": "Merge pull request #146 from eviltrout/count_lines"
+    },
+    {
+      "sha": "4798727a9a087381520d5744ae53a8d2d1dd919f",
+      "author_login": "eviltrout",
+      "authored_at": "2013-10-21T20:18:45Z",
+      "message": "Replace `count_lines` with faster implementation"
+    },
+    {
+      "sha": "3b8fe73f7b1ea8ad31cf87a28b7096219c8a55a3",
+      "author_login": "ashb",
+      "authored_at": "2013-10-17T09:44:41Z",
+      "message": "Merge pull request #142 from eviltrout/heading-styles"
+    },
+    {
+      "sha": "4187a7f3fee2f6d25f495753dc180b0f038dda9c",
+      "author_login": "eviltrout",
+      "authored_at": "2013-10-16T16:58:28Z",
+      "message": "FIX: Support inline header formatting"
+    },
+    {
+      "sha": "e0b16cbd5f0760e0af4b5dd1e067e7b6eea6b200",
+      "author_login": "eviltrout",
+      "authored_at": "2013-10-09T15:52:01Z",
+      "message": "A block helper can return a string. It needn't be logged as a problem."
+    },
+    {
+      "sha": "503cb54167820fbdd811d6367cf8eca24108e017",
+      "author_login": "evilstreak",
+      "authored_at": "2013-10-09T06:58:39Z",
+      "message": "Merge pull request #138 from eviltrout/nested_para"
+    },
+    {
+      "sha": "d54d80bc7a84aacd462c2cad8de44507910f4340",
+      "author_login": "eviltrout",
+      "authored_at": "2013-10-08T20:29:41Z",
+      "message": "FIX: Paragraphs in nested lists"
+    },
+    {
+      "sha": "5a06fcb211fa87c65f6ba1b70163de26e38a603b",
+      "author_login": "evilstreak",
+      "authored_at": "2013-10-06T20:03:38Z",
+      "message": "Merge pull request #133 from eviltrout/spaced_blockquotes"
+    },
+    {
+      "sha": "a048ee813ad03b7764579f6fbb4fc28b513b6aa5",
+      "author_login": "eviltrout",
+      "authored_at": "2013-10-01T21:00:29Z",
+      "message": "Supports blockquotes prefixed by spaces"
+    },
+    {
+      "sha": "4bc5058dcb40771b570262d9eeb8d296fb991b58",
+      "author_login": "evilstreak",
+      "authored_at": "2013-10-05T20:44:12Z",
+      "message": "In image tags, put the  attribute first."
+    },
+    {
+      "sha": "696b06a57b0d5d9233e5cb40b912d832d4d8d3b6",
+      "author_login": "eviltrout",
+      "authored_at": "2013-09-17T21:25:26Z",
+      "message": "In image tags, put the `src` attribute first."
+    },
+    {
+      "sha": "7d02edf5615b39ba428f74c85584eb35e7a7a8a5",
+      "author_login": "evilstreak",
+      "authored_at": "2013-10-05T20:08:35Z",
+      "message": "Merge pull request #124 from eviltrout/fix_concat"
+    },
+    {
+      "sha": "fb9f4e921c52904a1feb69f795d134e853ec5bd1",
+      "author_login": "ashb",
+      "authored_at": "2013-10-05T10:52:51Z",
+      "message": "Merge pull request #119 from XhmikosR/version"
+    },
+    {
+      "sha": "1ee1517bf7249421ebd1c4dfae7c2d45bc882ae9",
+      "author_login": "ashb",
+      "authored_at": "2013-10-05T10:51:57Z",
+      "message": "Merge pull request #118 from XhmikosR/master"
+    },
+    {
+      "sha": "a7c85cc18357d41ed71ce95486a387fce588b299",
+      "author_login": "XhmikosR",
+      "authored_at": "2013-09-16T13:22:42Z",
+      "message": "Update Changes.md."
+    },
+    {
+      "sha": "0ba72954e009565dc4ccc8ed7d3ef4e9961e53f2",
+      "author_login": "XhmikosR",
+      "authored_at": "2013-09-16T13:20:07Z",
+      "message": "Update README.md."
+    },
+    {
+      "sha": "ab0351784c2501b5ba677c749a2aae11fbee106b",
+      "author_login": "XhmikosR",
+      "authored_at": "2013-09-15T16:38:14Z",
+      "message": "Add a license header in the generated files."
+    },
+    {
+      "sha": "cec3e05b0df9b6406f34fbd22345a546007bfb95",
+      "author_login": "XhmikosR",
+      "authored_at": "2013-09-16T02:54:44Z",
+      "message": "Rename *.markdown docs to *.md."
+    },
+    {
+      "sha": "11ae089bc4974a753b0c2d86d6ba8bf69e256e55",
+      "author_login": "XhmikosR",
+      "authored_at": "2013-09-15T16:48:24Z",
+      "message": "src/markdown.js: fix typo in comment."
+    },
+    {
+      "sha": "c75ab0b86fb3be60e702cf32065801717a4bbf79",
+      "author_login": "XhmikosR",
+      "authored_at": "2013-09-15T16:32:59Z",
+      "message": "Remove .npmignore."
+    },
+    {
+      "sha": "d19314868a5fcd00441547e85921ff38146faa3c",
+      "author_login": "evilstreak",
+      "authored_at": "2013-10-05T08:50:37Z",
+      "message": "Merge pull request #127 from eviltrout/link_spaces"
+    },
+    {
+      "sha": "b4a65a3d9d7cd85959c094f98ac17e32dacf0328",
+      "author_login": "evilstreak",
+      "authored_at": "2013-10-05T08:48:28Z",
+      "message": "Merge pull request #131 from eviltrout/img_parens"
+    },
+    {
+      "sha": "e0134986d7df6a326b13fdbc1636254e6951d780",
+      "author_login": "evilstreak",
+      "authored_at": "2013-10-05T08:42:18Z",
+      "message": "Merge pull request #134 from eviltrout/ref_spaces"
+    },
+    {
+      "sha": "167da9bb2762f41dcc5ec327f03ca91546d70006",
+      "author_login": "evilstreak",
+      "authored_at": "2013-10-05T08:40:30Z",
+      "message": "Merge pull request #136 from eviltrout/ref_quotes"
+    },
+    {
+      "sha": "a6ca754e30df6e23f04aa6d1b0d841cfa4bbae77",
+      "author_login": "evilstreak",
+      "authored_at": "2013-10-05T08:39:39Z",
+      "message": "Merge pull request #135 from eviltrout/list_references"
+    },
+    {
+      "sha": "66fcd04ef43b3d05c06e8dc0888e3a2b682d4ee9",
+      "author_login": "eviltrout",
+      "authored_at": "2013-10-04T21:43:30Z",
+      "message": "FIX: Allow reference definitions with quotes"
+    },
+    {
+      "sha": "e02ada14119b6284f681becb338caafccf6878a4",
+      "author_login": "eviltrout",
+      "authored_at": "2013-10-04T20:43:42Z",
+      "message": "FIX: Allow link references following a list"
+    },
+    {
+      "sha": "2681dd4fc83b40ace61c69f581f02871533d974a",
+      "author_login": "eviltrout",
+      "authored_at": "2013-10-02T16:52:44Z",
+      "message": "Support references that span lines"
+    },
+    {
+      "sha": "c099b4e6cd9a7205a7e5e153490d84b07941f3a8",
+      "author_login": "eviltrout",
+      "authored_at": "2013-10-01T18:46:56Z",
+      "message": "FIX: Support for IMG URLs with parentheses in them."
+    },
+    {
+      "sha": "fe07751b01a6379a10ca7815f1257e18fa12cfcc",
+      "author_login": "eviltrout",
+      "authored_at": "2013-09-17T21:51:38Z",
+      "message": "Support Markdown links with multiple spaces or tabs in front"
+    },
+    {
+      "sha": "445d60c0df0aea935bc93eec7cbcb2318f8372ac",
+      "author_login": "ashb",
+      "authored_at": "2013-09-17T21:33:13Z",
+      "message": "Merge pull request #125 from eviltrout/escaping"
+    },
+    {
+      "sha": "4a1567b69cbe2b05073590a8020c4b03d4d32d99",
+      "author_login": "eviltrout",
+      "authored_at": "2013-09-17T20:59:18Z",
+      "message": "Support for escaping `>`"
+    },
+    {
+      "sha": "afdeefeb29d4c4a7c54ad05a88b351008b509518",
+      "author_login": "eviltrout",
+      "authored_at": "2013-09-16T17:43:03Z",
+      "message": "FIX: When concatenating the files, don't trim unnecessary returns"
+    },
+    {
+      "sha": "08999912a3e2012d0cb16dabfc650d7e731d5f27",
+      "author_login": "ashb",
+      "authored_at": "2013-09-15T16:15:51Z",
+      "message": "v0.6.0-beta1"
+    },
+    {
+      "sha": "558d7c960b63529942f413b1b27adad5655cf385",
+      "author_login": "ashb",
+      "authored_at": "2013-09-15T16:03:44Z",
+      "message": "Split up markdown-js into multiple files, build system assembles from them for web use."
+    },
+    {
+      "sha": "5d6efbc2e390a9e859d82fc1cdd696f0b6ac9e6c",
+      "author_login": "ashb",
+      "authored_at": "2013-09-15T15:58:19Z",
+      "message": "Change log entry for grunt build/split files"
+    }
+  ],
+  "issues": [
+    {
+      "number": 326,
+      "title": "Update package repository URL and homepage metadata",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-25T22:23:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 325,
+      "title": "fix: use https repository URL and add homepage",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-25T07:54:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 323,
+      "title": "I found a bug",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-13T09:38:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 322,
+      "title": "how to  convert .md file into .html",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-17T13:16:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 321,
+      "title": "the \"table\" cannot use",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-31T14:06:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 320,
+      "title": "(wrong repository)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-12-21T12:26:05Z",
+      "closed_at": "2021-12-21T12:29:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 319,
+      "title": "Images not getting converted properly in certain cases",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-29T13:39:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 318,
+      "title": "Trying to get in touch regarding a security issue",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-09-07T17:20:55Z",
+      "closed_at": "2021-10-01T11:47:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 317,
+      "title": "🚨 Potential Security Vulnerability",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-30T14:53:38Z",
+      "closed_at": "2021-07-09T11:13:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 316,
+      "title": "Vulnerability issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-03T12:45:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 314,
+      "title": "Inline HTML is escaped?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-18T04:45:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 313,
+      "title": "Load external Markdown File in html.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-14T20:54:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 312,
+      "title": "Add unmaintained notice to README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-02-26T18:08:37Z",
+      "closed_at": "2019-03-05T17:34:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 311,
+      "title": "The speed of the Markdown-js is too bad.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-01-28T09:30:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 310,
+      "title": "Add note to README that this repo is not maintained",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-01-22T23:07:43Z",
+      "closed_at": "2019-11-25T21:41:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 309,
+      "title": "Two links following one another",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-30T21:11:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 308,
+      "title": "*** Text *** parse was strong , but Italic not effective",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-01T01:48:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 307,
+      "title": "[BUG] href not correctly parsed when text and its url both contains underscore.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-11T07:42:39Z",
+      "closed_at": "2021-06-02T09:52:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 306,
+      "title": "support parase \"[TOC]\"?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-30T07:25:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 305,
+      "title": "Can't distinguish code language",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-08-29T09:21:49Z",
+      "closed_at": "2018-08-29T09:26:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 304,
+      "title": "Unable to resolve module `../../constants/index` from `D:\\GitHub\\medred\\app\\src\\ stories\\screens\\Specialty\\index.js`: could not resolve `D:\\GitHub\\medred\\app\\src \\stories\\constants\\index' as a folder:",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-12T11:44:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 303,
+      "title": "Code Syntax Highlight",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-06T10:21:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 302,
+      "title": "Strikethrough component doesn't work.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-01-06T08:12:05Z",
+      "closed_at": "2018-01-06T15:39:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 301,
+      "title": "Link to `lib/markdown.js` not working in readme",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-12-18T17:17:05Z",
+      "closed_at": "2019-05-29T19:42:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 300,
+      "title": "Replace hangul characters with spaces",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-18T11:25:28Z",
+      "closed_at": "2017-10-18T11:47:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 299,
+      "title": "code to html",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-09-18T07:30:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 298,
+      "title": "<pre><code class=\"language-css\">p { color: red }</code></pre>",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-21T16:15:23Z",
+      "closed_at": "2017-08-21T16:23:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 297,
+      "title": "Fixes formatting in readme.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-18T13:17:20Z",
+      "closed_at": "2017-08-18T13:41:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 296,
+      "title": "Unable to resolve module `util`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-08-15T04:04:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 295,
+      "title": "Does not support normal HTML",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-07-13T14:15:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 294,
+      "title": "Fixed subtitle formating in README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-06-20T13:33:07Z",
+      "closed_at": "2017-06-20T13:36:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 293,
+      "title": "underline symbol as part of a word",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-06-09T12:13:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 292,
+      "title": "two blank lines break the code block",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-05-21T19:56:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 291,
+      "title": "How can I insert a table? And a video?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-05-02T13:21:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 290,
+      "title": "版本：0.5.0",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-04-21T08:35:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 289,
+      "title": "add ES6 import",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-02-17T09:31:25Z",
+      "closed_at": "2017-02-17T09:47:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 288,
+      "title": "preserve HTML code",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-02-13T21:56:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 287,
+      "title": "``` to <pre><code>?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-02-12T13:09:00Z",
+      "closed_at": "2017-04-05T08:37:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 286,
+      "title": "Toc helper not working on Maruku",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-02-05T13:46:01Z",
+      "closed_at": "2017-10-01T07:59:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 285,
+      "title": "lib/markdown.js not working in browser - saying undefined exports is not defined",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-01-13T11:14:25Z",
+      "closed_at": "2017-01-17T13:44:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 284,
+      "title": "can't support ```test```",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-12-29T08:02:00Z",
+      "closed_at": "2017-01-09T14:52:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 283,
+      "title": "New Line problem",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-12-19T07:48:21Z",
+      "closed_at": "2017-01-09T14:48:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 282,
+      "title": "toHtml has wrong behavior with specific text",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-11-29T13:06:11Z",
+      "closed_at": "2017-01-09T14:51:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 281,
+      "title": "Support for <sup></sup>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-11-22T16:12:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 280,
+      "title": "gruber: characters are lost",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2016-11-12T15:30:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 279,
+      "title": "Inline HTML",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-10-17T11:01:27Z",
+      "closed_at": "2017-01-09T14:41:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 278,
+      "title": "multiple linebreaks",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-10-12T10:41:33Z",
+      "closed_at": "2017-03-01T08:57:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 276,
+      "title": "Restrict only certain formatting only",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-06-08T06:32:43Z",
+      "closed_at": "2016-07-13T07:34:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 275,
+      "title": "Add watch option -w and run md2html whenever the watched source file changes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-06-04T14:36:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 274,
+      "title": "TypeError: tree.slice is not a function",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-05-21T01:44:35Z",
+      "closed_at": "2016-05-21T05:13:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 273,
+      "title": "' incompatible with links",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-05-08T13:24:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 272,
+      "title": "Long description incompatible with links",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-05-06T12:19:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 271,
+      "title": "Fix for #258 \"Mixing italic and Link Markdown destroyes the link.\"",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2016-04-27T18:49:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 270,
+      "title": "Create typings, or a workaround to import to typescript?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-04-21T03:30:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 269,
+      "title": "Unable to handle # in links",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-04-18T13:42:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 268,
+      "title": "Don't automatically wrap certain tags with p",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-04-12T02:15:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 267,
+      "title": "how to set image size?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-03-02T06:37:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 266,
+      "title": "Maintainer(s) wanted.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-02-25T00:54:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 265,
+      "title": "QML compatible version",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-02-10T07:10:31Z",
+      "closed_at": "2024-01-03T07:02:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 264,
+      "title": "In the same page I can only render one textarea 0.0 ...",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-02-01T18:15:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 263,
+      "title": "Example in READEME for how to use markdown.js in browser is wrong",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2015-12-10T07:57:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 262,
+      "title": "Example in READEME for how to use markdown.js in browser is wrong",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-12-10T07:49:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 261,
+      "title": "Should npm install markdown out of this file",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-12-10T06:39:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 260,
+      "title": "Definition list block content.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-12-08T14:44:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 259,
+      "title": "Code blocks behind list do not work?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-11-29T12:31:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 258,
+      "title": "Mixing italic and Link Markdown destroyes the link.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-10-21T19:03:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 257,
+      "title": "Multi-line code?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-10-02T08:38:17Z",
+      "closed_at": "2015-10-19T10:05:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 256,
+      "title": "\"ERROR: No README data found!\" npmjs can't detect readme",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-09-30T11:42:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 255,
+      "title": "Is this project dead?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-09-21T12:34:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 254,
+      "title": "There is no builded lib/markdown.js in git, could you add?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-09-17T14:12:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 253,
+      "title": "Maruku dialect TypeError: Cannot read property 'splice' of undefined",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-09-11T10:56:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 252,
+      "title": "blockquoted paragraphs render &gt",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-09-07T14:19:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 251,
+      "title": "feature: documents search ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-09-06T14:05:01Z",
+      "closed_at": "2015-09-06T14:05:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 250,
+      "title": "Support component.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-08-11T16:07:07Z",
+      "closed_at": "2015-08-11T16:16:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 249,
+      "title": "document how to create a dialect",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-07-26T06:56:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 248,
+      "title": "parentheses in links cannot be parsed by regex",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-07-23T17:50:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 247,
+      "title": "deeply nested lists stop to nest at fourth level",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-07-21T10:28:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 246,
+      "title": "Add option that html-code is standalone with a utf8-hint",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-07-13T13:39:29Z",
+      "closed_at": "2017-06-19T15:14:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 245,
+      "title": "md2html could accept an encoding parameter",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-07-11T10:48:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 244,
+      "title": "Remove moot `version` property from bower.json",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2015-06-10T23:46:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 243,
+      "title": "update license attribute",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-05-19T10:24:49Z",
+      "closed_at": "2015-05-22T14:05:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 242,
+      "title": "toMarkdown() method",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-05-11T14:59:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 241,
+      "title": "Shouldn't <code> be wrapped with <pre>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-04-08T20:55:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 240,
+      "title": "npmjs.com page says \"no readme found\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-03-13T06:08:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 239,
+      "title": "Code type shows up in the html",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-15T07:15:37Z",
+      "closed_at": "2018-06-18T02:51:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 238,
+      "title": "Add a demo page to demonstrate how it works in the browsers without the need of downloading it",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-02-07T02:20:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 237,
+      "title": "Uncaught SyntaxError: Unexpected token )",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-02-06T06:22:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 236,
+      "title": "Update releases",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-02-03T15:48:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 235,
+      "title": "XSS vulnerability",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-01-25T20:40:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 234,
+      "title": "make buildInlinePattern support for '/'",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2015-01-17T23:08:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 233,
+      "title": "README should show the basic syntax and dialect options",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-01-15T20:23:00Z",
+      "closed_at": "2015-01-19T10:35:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 232,
+      "title": "at least mention the standard options instead of pointing people at the source",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-12-30T07:02:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 231,
+      "title": "Suggestion for filters helpers",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-12-27T06:42:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 230,
+      "title": "Support for Tables",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-12-22T20:18:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 229,
+      "title": "How to create a numbered list?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-12-18T03:12:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 228,
+      "title": "Whether to support the code?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-12-16T16:08:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 227,
+      "title": "Don't convert ampersands when they form part of an HTML entity",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2014-12-02T00:34:36Z",
+      "closed_at": "2015-03-20T01:32:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 226,
+      "title": "YouTube video markdown",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-10-31T15:00:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 225,
+      "title": "[Question] How do I prevent HTML / script injection?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2014-10-27T13:28:48Z",
+      "closed_at": "2014-12-23T18:13:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 224,
+      "title": "a file content below don't work",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-10-23T01:36:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "ashb",
+      "contributions": 171
+    },
+    {
+      "login": "evilstreak",
+      "contributions": 164
+    },
+    {
+      "login": "eviltrout",
+      "contributions": 28
+    },
+    {
+      "login": "XhmikosR",
+      "contributions": 27
+    },
+    {
+      "login": "redsun82",
+      "contributions": 6
+    },
+    {
+      "login": "cadorn",
+      "contributions": 5
+    },
+    {
+      "login": "akzhan",
+      "contributions": 3
+    },
+    {
+      "login": "rlidwka",
+      "contributions": 3
+    },
+    {
+      "login": "clement",
+      "contributions": 2
+    },
+    {
+      "login": "sneakertack",
+      "contributions": 2
+    },
+    {
+      "login": "xavi-",
+      "contributions": 2
+    },
+    {
+      "login": "isaacs",
+      "contributions": 2
+    },
+    {
+      "login": "cannona",
+      "contributions": 1
+    },
+    {
+      "login": "ben-turner",
+      "contributions": 1
+    },
+    {
+      "login": "briankung",
+      "contributions": 1
+    },
+    {
+      "login": "ethanhann",
+      "contributions": 1
+    },
+    {
+      "login": "geraintluff",
+      "contributions": 1
+    },
+    {
+      "login": "pgilad",
+      "contributions": 1
+    },
+    {
+      "login": "harrysarson",
+      "contributions": 1
+    },
+    {
+      "login": "imgss",
+      "contributions": 1
+    },
+    {
+      "login": "Elberet",
+      "contributions": 1
+    },
+    {
+      "login": "somebox",
+      "contributions": 1
+    },
+    {
+      "login": "mustmodify",
+      "contributions": 1
+    },
+    {
+      "login": "jiggak",
+      "contributions": 1
+    },
+    {
+      "login": "kasperpeulen",
+      "contributions": 1
+    },
+    {
+      "login": "novemberborn",
+      "contributions": 1
+    },
+    {
+      "login": "matthewkastor",
+      "contributions": 1
+    },
+    {
+      "login": "mishoo",
+      "contributions": 1
+    },
+    {
+      "login": "PallasKatze",
+      "contributions": 1
+    },
+    {
+      "login": "richardharrington",
+      "contributions": 1
+    },
+    {
+      "login": "kizu",
+      "contributions": 1
+    },
+    {
+      "login": "soggie",
+      "contributions": 1
+    },
+    {
+      "login": "samelawrence",
+      "contributions": 1
+    },
+    {
+      "login": "tatsuhiro-t",
+      "contributions": 1
+    },
+    {
+      "login": "EmrysMyrddin",
+      "contributions": 1
+    },
+    {
+      "login": "yorkie",
+      "contributions": 1
+    },
+    {
+      "login": "tj",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v0.6.0-beta1",
+      "published_at": "2013-09-15T16:13:33Z"
+    }
+  ],
+  "collected_at": "2026-07-27T09:38:05.283784Z"
+}

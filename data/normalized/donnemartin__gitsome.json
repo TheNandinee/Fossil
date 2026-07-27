@@ -1,0 +1,1676 @@
+{
+  "full_name": "donnemartin/gitsome",
+  "owner": "donnemartin",
+  "name": "gitsome",
+  "url": "https://github.com/donnemartin/gitsome",
+  "description": "A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools",
+  "primary_language": "Python",
+  "topics": [
+    "cli",
+    "cli-app",
+    "client",
+    "command-line",
+    "developer-tools",
+    "development",
+    "git",
+    "github",
+    "github-api",
+    "github-client",
+    "github-enterprise",
+    "linux",
+    "macos",
+    "programming",
+    "python",
+    "shell",
+    "terminal",
+    "utilities",
+    "utility",
+    "windows"
+  ],
+  "license_spdx": "NOASSERTION",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 7678,
+  "forks": 442,
+  "open_issues": 66,
+  "created_at": "2016-04-23T03:08:21Z",
+  "pushed_at": "2024-02-08T10:27:14Z",
+  "updated_at": "2026-07-27T07:12:11Z",
+  "commits": [
+    {
+      "sha": "d7c57abc7cb66e9c910a844f15d4536866da3310",
+      "author_login": "kBite",
+      "authored_at": "2019-05-18T02:29:41Z",
+      "message": "Resolves #149: Add option to disable avatar (#150)"
+    },
+    {
+      "sha": "75e4abe4637d59af09364a88779257c9c43699ee",
+      "author_login": "ltworf",
+      "authored_at": "2019-05-07T10:06:26Z",
+      "message": "Remove unused numpydoc dependency (#163)"
+    },
+    {
+      "sha": "fbd7c69430e7f839eeaa48b91fdb4df689f6bfe7",
+      "author_login": "donnemartin",
+      "authored_at": "2019-04-15T00:29:18Z",
+      "message": "Update version (#162)"
+    },
+    {
+      "sha": "d98a91bcee2f7ca8914646e62785cffc1d9fb9c4",
+      "author_login": "cclauss",
+      "authored_at": "2019-04-10T00:38:38Z",
+      "message": "Add Travis CI tests on Python 3.5, 3.6, and 3.7 (#155)"
+    },
+    {
+      "sha": "cbd79a00af5b0538aefa6ae2f2f3fcafce2c6fed",
+      "author_login": "donnemartin",
+      "authored_at": "2019-04-07T19:12:35Z",
+      "message": "Update supported Python versions in README (#161)"
+    },
+    {
+      "sha": "a6c4fa13de916aeaa86fae4021dedabc7f97ead0",
+      "author_login": "donnemartin",
+      "authored_at": "2019-04-07T17:41:52Z",
+      "message": "Merge branch 'release/0.8.0'"
+    },
+    {
+      "sha": "2d791c8fd4cbe26dcd2c257e62cd36fd47d3f1cc",
+      "author_login": "donnemartin",
+      "authored_at": "2019-04-07T17:41:22Z",
+      "message": "Update CHANGELOG with 0.8.0"
+    },
+    {
+      "sha": "4dacfd148fd87459f86964f7eb98c743a900e406",
+      "author_login": "donnemartin",
+      "authored_at": "2019-04-07T16:31:45Z",
+      "message": "Update version to 0.8.0"
+    },
+    {
+      "sha": "f7518f12d132de8b2d7b83a8aab95920f38b464f",
+      "author_login": "donnemartin",
+      "authored_at": "2019-04-06T19:00:21Z",
+      "message": "Merge pull request #160 from donnemartin/develop"
+    },
+    {
+      "sha": "7935f7e64196e3d27b8befcc2858ce7e98d0a6e8",
+      "author_login": "donnemartin",
+      "authored_at": "2019-04-06T16:34:19Z",
+      "message": "Fix unit tests for compatibility with ptk2"
+    },
+    {
+      "sha": "4b39fcfe3354a3b6a128db88566cbaf2e51f4ca8",
+      "author_login": "donnemartin",
+      "authored_at": "2019-04-06T15:52:05Z",
+      "message": "Fix ImportError: No module named xonsh.ply"
+    },
+    {
+      "sha": "8b17e45f0c5127d3223bf3a803fa35f145c3661e",
+      "author_login": "donnemartin",
+      "authored_at": "2019-03-30T17:02:27Z",
+      "message": "Set xonsh branch colors"
+    },
+    {
+      "sha": "322004033622aae288ee1d0b22db1975b94fe054",
+      "author_login": "donnemartin",
+      "authored_at": "2019-03-30T17:02:05Z",
+      "message": "Set xonsh default prompt"
+    },
+    {
+      "sha": "6b7716e549d2f868d23b3a668e8e3074899284f6",
+      "author_login": "donnemartin",
+      "authored_at": "2019-03-30T16:48:05Z",
+      "message": "Set xonsh ptk2 completer to gitsome"
+    },
+    {
+      "sha": "ddaced0c3e333edd2107db66b8290babd7ab1b0a",
+      "author_login": "donnemartin",
+      "authored_at": "2019-03-19T01:33:35Z",
+      "message": "Disable xonsh COLOR_RESULTS"
+    },
+    {
+      "sha": "e2ca26ed0d87f41a8cad5fcfacac50828114da64",
+      "author_login": "donnemartin",
+      "authored_at": "2019-03-19T01:33:07Z",
+      "message": "Set xonsh COMPLETIONS_DISPLAY to single"
+    },
+    {
+      "sha": "4bc9475b24304c77fb3f20a1c331dff67f387242",
+      "author_login": "donnemartin",
+      "authored_at": "2019-03-19T01:32:36Z",
+      "message": "Enable xonsh UPDATE_COMPLETIONS_ON_KEYPRESS"
+    },
+    {
+      "sha": "1b68f2e0c770d32e4f9d54ddd2735e30574722ee",
+      "author_login": "donnemartin",
+      "authored_at": "2019-03-17T17:06:58Z",
+      "message": "Add to default xonsh completions on darwin"
+    },
+    {
+      "sha": "075c8b1f8eed635376b834145e4e2d480f9a7ff3",
+      "author_login": "donnemartin",
+      "authored_at": "2019-03-17T17:05:53Z",
+      "message": "Print gitsome version on startup"
+    },
+    {
+      "sha": "7e8ff547916629636a440c4ac831f6d2e51ae5b7",
+      "author_login": "donnemartin",
+      "authored_at": "2019-03-17T17:04:44Z",
+      "message": "Set xonsh window title"
+    },
+    {
+      "sha": "345364e6a3c74734265d04c5dbe53e8d5e11fd8f",
+      "author_login": "donnemartin",
+      "authored_at": "2019-03-17T17:01:33Z",
+      "message": "Set xonsh default prompt"
+    },
+    {
+      "sha": "ac9c25754838381d42711899ed80242b307a9909",
+      "author_login": "donnemartin",
+      "authored_at": "2019-03-16T13:38:15Z",
+      "message": "Set xonsh ptk2 reserved menu space"
+    },
+    {
+      "sha": "8e7e431b78103c5d92f000755e23cb477710e27f",
+      "author_login": "donnemartin",
+      "authored_at": "2019-03-16T13:37:44Z",
+      "message": "Set xonsh ptk2 color style to pygments default"
+    },
+    {
+      "sha": "9acc873bea687d8425910b79d97c8e21936b01c8",
+      "author_login": "donnemartin",
+      "authored_at": "2019-03-16T13:33:46Z",
+      "message": "Set xonsh default menu style"
+    },
+    {
+      "sha": "0e7cbf0495c96c4958e60198b39878328df1ea3a",
+      "author_login": "donnemartin",
+      "authored_at": "2019-03-16T13:31:16Z",
+      "message": "Update prompt_toolkit to 2.0.x"
+    },
+    {
+      "sha": "262b3558ae1e191366457a26293d9661e615e443",
+      "author_login": "donnemartin",
+      "authored_at": "2019-03-16T13:30:45Z",
+      "message": "Merge xonsh 0.8.11"
+    },
+    {
+      "sha": "7c5e25c613e0a28ca87a311c093740c8d893b9d1",
+      "author_login": "donnemartin",
+      "authored_at": "2019-02-23T01:04:34Z",
+      "message": "Add Python 3.6 and 3.7 to tox"
+    },
+    {
+      "sha": "14e0d2f73552fbd97754c537481498cef05daacd",
+      "author_login": "donnemartin",
+      "authored_at": "2019-02-23T01:04:15Z",
+      "message": "Add Python 3.6 and 3.7 to setup"
+    },
+    {
+      "sha": "77f599ef8b84336afc0a3d6525365da18cd510d8",
+      "author_login": "kBite",
+      "authored_at": "2019-02-12T11:11:03Z",
+      "message": "Fix #147: Gracefully ignore missing avatar image (#148)"
+    },
+    {
+      "sha": "6c3b86e41126e3e92cba8ef5480b5dc383485885",
+      "author_login": "cyblue9",
+      "authored_at": "2019-02-11T11:04:37Z",
+      "message": "Fix gh command typos in docs (#151)"
+    },
+    {
+      "sha": "5751a31b018e3eae1f7d2cba104e5b3c68e236e9",
+      "author_login": "donnemartin",
+      "authored_at": "2018-01-30T00:31:04Z",
+      "message": "Update release checklist (#142)"
+    },
+    {
+      "sha": "b395eea17287d748c28842ed325ade8afb51e604",
+      "author_login": "kamontat",
+      "authored_at": "2017-11-10T01:51:27Z",
+      "message": "Fix Running as a Docker Container anchor (#137)"
+    },
+    {
+      "sha": "7e08108b6ab9d8b44a071779fa2a2a4316bf0e93",
+      "author_login": "donnemartin",
+      "authored_at": "2017-10-10T12:19:16Z",
+      "message": "Update GitHub integrations link (#134)"
+    },
+    {
+      "sha": "7359a0c82453bf8d5f9cfeb4655a7fe6378eec7f",
+      "author_login": "emres",
+      "authored_at": "2017-09-03T09:42:31Z",
+      "message": "Fix trending command to handle empty summaries (#129)"
+    },
+    {
+      "sha": "92b69ca76529b267f1b35159f8b372f8e5acb8ea",
+      "author_login": "donnemartin",
+      "authored_at": "2017-05-17T03:26:35Z",
+      "message": "Remove buggy codecov badge (#123)"
+    },
+    {
+      "sha": "b476382c1b99fe36bddace0a7185f56650d5c958",
+      "author_login": "donnemartin",
+      "authored_at": "2017-05-13T01:29:45Z",
+      "message": "Add license disclaimer (#120)"
+    },
+    {
+      "sha": "98469a5837fa26220bff377add65e0d38a9db7f3",
+      "author_login": "dbaio",
+      "authored_at": "2017-03-26T22:24:51Z",
+      "message": "Fix changelog date (#117)"
+    },
+    {
+      "sha": "0f8196332ab1bd5f3f10de251b6b112594594185",
+      "author_login": "donnemartin",
+      "authored_at": "2017-03-26T21:56:02Z",
+      "message": "Merge branch 'release/0.7.0'"
+    },
+    {
+      "sha": "fbc82c59d785520e1a93c0b3a684ad0151f9fd30",
+      "author_login": "donnemartin",
+      "authored_at": "2017-03-26T21:54:46Z",
+      "message": "Bump version to 0.7.0"
+    },
+    {
+      "sha": "f30c65cc644f9d85cc865ece13894915119e7de6",
+      "author_login": "donnemartin",
+      "authored_at": "2017-03-26T21:54:25Z",
+      "message": "Update 0.7.0 CHANGELOG"
+    },
+    {
+      "sha": "407528f152f3dc2dffdee213d2e7395f3c8af40d",
+      "author_login": "donnemartin",
+      "authored_at": "2017-03-26T21:41:39Z",
+      "message": "Fix #107: gh trending command results in error (#116)"
+    },
+    {
+      "sha": "e80e99738b587d47cb8d48ec98852cbe166c6a17",
+      "author_login": "donnemartin",
+      "authored_at": "2017-03-25T21:24:17Z",
+      "message": "Set Python support to 3.4 and 3.5, see #105 (#115)"
+    },
+    {
+      "sha": "faf719c64eb08a5352303b3a8ef3ab8f39828417",
+      "author_login": "blrsn",
+      "authored_at": "2017-03-25T02:30:31Z",
+      "message": "Revert docker base image to python 3.5 (#113)"
+    },
+    {
+      "sha": "31a46f7e4278fe46741eb04e013b5eedb32fe352",
+      "author_login": "donnemartin",
+      "authored_at": "2017-03-13T11:15:40Z",
+      "message": "Add note about current Python 3.6 incompatibility (#111)"
+    },
+    {
+      "sha": "a030ab942110a976b955b47ac58fb454d8ab9273",
+      "author_login": "donnemartin",
+      "authored_at": "2017-01-15T14:19:48Z",
+      "message": "Update install instructions to use pip3 (#104)"
+    },
+    {
+      "sha": "28a5c8638ba4853d4a0c2e11028e182e7c13de12",
+      "author_login": "andriisoldatenko",
+      "authored_at": "2017-01-03T10:08:33Z",
+      "message": "Add python 3.6 (#103)"
+    },
+    {
+      "sha": "769966ae55aa8df528cf2fdf47e3b7d506a4055e",
+      "author_login": "donnemartin",
+      "authored_at": "2016-12-26T11:37:30Z",
+      "message": "Tweak Docker header and links in README (#102)"
+    },
+    {
+      "sha": "7ef23249c54c199a8ebb59177662ce19179eb2a3",
+      "author_login": "l0rd",
+      "authored_at": "2016-12-26T11:28:28Z",
+      "message": "Add a Dockerfile to run gitsome in a Docker container (#99)"
+    },
+    {
+      "sha": "99ea251e9a3ba497369aa9c245e65515548c34e3",
+      "author_login": "donnemartin",
+      "authored_at": "2016-12-14T11:37:44Z",
+      "message": "Fix typo in cli method's docstring (#101)"
+    },
+    {
+      "sha": "3867629a8f0de12447222eac957ac7a4de34590c",
+      "author_login": "jashgala",
+      "authored_at": "2016-12-07T10:29:30Z",
+      "message": "Refactor conversion of None to empty introduced in #49 and #40 (#100)"
+    },
+    {
+      "sha": "d59948b9bf3b8791975a858dba6cf031c73e4442",
+      "author_login": "donnemartin",
+      "authored_at": "2016-11-25T12:43:44Z",
+      "message": "Check Enterprise token login before password (#98)"
+    },
+    {
+      "sha": "1d9b6b320fec204f6cdd4b2b2a305e2453727b08",
+      "author_login": "zYeoman",
+      "authored_at": "2016-11-19T13:55:18Z",
+      "message": "Update error hint from gh gitignores to gh gitignore-templates (#97)"
+    },
+    {
+      "sha": "d46dc468ddce87c70fe3b6295105be1b24a45470",
+      "author_login": "donnemartin",
+      "authored_at": "2016-11-12T16:47:30Z",
+      "message": "Exclude .tox/ and .eggs/ from linter (#95)"
+    },
+    {
+      "sha": "5cf1f93d9d626d051a0a4fa3efd4ada51ea7faed",
+      "author_login": "donnemartin",
+      "authored_at": "2016-11-12T16:35:46Z",
+      "message": "Merge branch 'dongweiming-url'"
+    },
+    {
+      "sha": "b4bae409a03de750ff610a697ae9e57401b4a394",
+      "author_login": "donnemartin",
+      "authored_at": "2016-11-12T16:35:20Z",
+      "message": "Followup changes in #92"
+    },
+    {
+      "sha": "e156d086178d40479d6a27b07a1b1471e7e9e53f",
+      "author_login": "nttibbetts",
+      "authored_at": "2016-11-06T03:49:47Z",
+      "message": "Only store password in config for GitHub Enterprise (due to Enterprise limitations) (#79)"
+    },
+    {
+      "sha": "4661f563b70af42a6aab31d042a6be6a1b7b4fcf",
+      "author_login": "dongweiming",
+      "authored_at": "2016-11-05T14:09:14Z",
+      "message": "Fix viewing HTML contents in the terminal for Enterprise"
+    },
+    {
+      "sha": "5a24a9b7eb731723d908cb01450738648cd77dc9",
+      "author_login": "nttibbetts",
+      "authored_at": "2016-11-06T03:49:47Z",
+      "message": "Only store password in config for GitHub Enterprise (due to Enterprise limitations) (#79)"
+    },
+    {
+      "sha": "7a0cff56caad86128a6228d49f201d5632e3a841",
+      "author_login": "donnemartin",
+      "authored_at": "2016-11-02T09:12:46Z",
+      "message": "Merge branch 'SanketDG-fix-description'"
+    },
+    {
+      "sha": "94f05b3302f3cc48bd875d58bb277f034c6bbd1c",
+      "author_login": "donnemartin",
+      "authored_at": "2016-11-02T09:11:53Z",
+      "message": "Update tests for #69: Empty CreateEvent description"
+    },
+    {
+      "sha": "9a0d16fc458860139e0cb143eaec7ff05d6c41c7",
+      "author_login": "SanketDG",
+      "authored_at": "2016-10-31T13:09:14Z",
+      "message": "Check for None in CreateEvent description"
+    },
+    {
+      "sha": "eebb2cf6b457934aa98cd15751edd3685d95358b",
+      "author_login": "donnemartin",
+      "authored_at": "2016-10-27T11:55:20Z",
+      "message": "Update deps for uritemplate.py (#86)"
+    },
+    {
+      "sha": "9aaccabae16f720d9d584ee0eb23d85a92e03172",
+      "author_login": "frdmn",
+      "authored_at": "2016-10-19T23:46:33Z",
+      "message": "Fix path for auto completions (#80)"
+    },
+    {
+      "sha": "699e6a9b2807298120e940a59a4de6b85e41b492",
+      "author_login": "donnemartin",
+      "authored_at": "2016-10-17T11:27:58Z",
+      "message": "Fix link to autocompleter with interactive help (#78)"
+    },
+    {
+      "sha": "0396c0856d835448a8aca5ec4b4e33c817761df2",
+      "author_login": "donnemartin",
+      "authored_at": "2016-09-17T11:05:45Z",
+      "message": "Update trending repos image"
+    },
+    {
+      "sha": "a93e4f874d6784494aa0092a4f2606dfc01c85ca",
+      "author_login": "donnemartin",
+      "authored_at": "2016-08-27T12:50:03Z",
+      "message": "Move GH integration page link (#76)"
+    },
+    {
+      "sha": "7a5990f29be3d66ed0f1bd66839644a3ab61cb22",
+      "author_login": "donnemartin",
+      "authored_at": "2016-08-19T11:12:14Z",
+      "message": "Add link to official GH integration page for gitsome (#74)"
+    },
+    {
+      "sha": "00a9b1d5e6ff74aaac2cb2702fd1a92d9a950124",
+      "author_login": "donnemartin",
+      "authored_at": "2016-07-04T00:11:39Z",
+      "message": "Update default config (#71)"
+    },
+    {
+      "sha": "71855559c7856da5b160d05a6f328fc93a3cce22",
+      "author_login": "donnemartin",
+      "authored_at": "2016-06-22T10:59:02Z",
+      "message": "Merge pull request #69 from donnemartin/develop"
+    },
+    {
+      "sha": "b30664d2121a8651a030aa032166416870d50c4b",
+      "author_login": "donnemartin",
+      "authored_at": "2016-06-22T10:54:20Z",
+      "message": "Fix --issue_filter typo for gh_issues command in COMMANDS.md"
+    },
+    {
+      "sha": "eafad0077bbfdfc682569232bd05a351fb0779e9",
+      "author_login": "donnemartin",
+      "authored_at": "2016-06-18T15:49:10Z",
+      "message": "Merge pull request #67 from srisankethu/master"
+    },
+    {
+      "sha": "1e27fcc1efc2767c56d947b2c3bab6b78d3b4c86",
+      "author_login": null,
+      "authored_at": "2016-06-16T12:37:45Z",
+      "message": "README: Fix minor typo"
+    },
+    {
+      "sha": "3a914a9cc3aa82fb885bbc6f4e8eef0c9e8b393c",
+      "author_login": "donnemartin",
+      "authored_at": "2016-06-10T11:30:16Z",
+      "message": "Merge pull request #63 from donnemartin/develop"
+    },
+    {
+      "sha": "0a56b6daf01d5bca6817d8862ea8bea362214697",
+      "author_login": "donnemartin",
+      "authored_at": "2016-06-10T11:29:43Z",
+      "message": "Merge pull request #64 from donnemartin/ssl-error-test"
+    },
+    {
+      "sha": "02b4e092af4fda5ee9415cc9ca2d4d8a82f30e25",
+      "author_login": "donnemartin",
+      "authored_at": "2016-06-10T11:27:34Z",
+      "message": "Temp skip ssl error test"
+    },
+    {
+      "sha": "3a2212a47f5eb2b4914d40d67ad5b1c5a7816d28",
+      "author_login": "donnemartin",
+      "authored_at": "2016-06-10T10:47:19Z",
+      "message": "Update gitsome icon"
+    },
+    {
+      "sha": "46060cf5100f2fcb80e0cf08f7d27fd7f2ff3035",
+      "author_login": "donnemartin",
+      "authored_at": "2016-06-04T12:40:45Z",
+      "message": "Merge pull request #58 from donnemartin/develop"
+    },
+    {
+      "sha": "c2e23e01bed0e676fb44962f1ffdaf4f5a7ff905",
+      "author_login": "donnemartin",
+      "authored_at": "2016-06-04T12:38:34Z",
+      "message": "Update README intro"
+    },
+    {
+      "sha": "6177ddb5ad37477321a885513e045e8d687be2cb",
+      "author_login": "donnemartin",
+      "authored_at": "2016-06-04T12:26:07Z",
+      "message": "Add gitsome logo"
+    },
+    {
+      "sha": "35bf1ad15138056668b0d69c1a10697b7f254be7",
+      "author_login": "donnemartin",
+      "authored_at": "2016-06-03T03:41:34Z",
+      "message": "Merge pull request #57 from donnemartin/develop"
+    },
+    {
+      "sha": "47ae4d88f3b6351ddace74ee2cc687607af5dd8c",
+      "author_login": "donnemartin",
+      "authored_at": "2016-06-03T03:38:19Z",
+      "message": "Update README intro"
+    },
+    {
+      "sha": "b2f08ea1c877bf7d19b4602d5ce32dfbbc96a128",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-29T19:46:57Z",
+      "message": "Merge branch 'release/0.6.0'"
+    },
+    {
+      "sha": "c24071b3b621cd1e596ceea882ab338800f5e20a",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-29T19:46:14Z",
+      "message": "Prep 0.6.0 release"
+    },
+    {
+      "sha": "52d30e2aca21f2b845c3ceb4e66259fcd2416426",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-29T19:38:18Z",
+      "message": "Merge pull request #56 from donnemartin/develop"
+    },
+    {
+      "sha": "11d8c96d04460866a604a65a98a2c7bc445a968a",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-29T19:36:29Z",
+      "message": "Fix double source code encoding declaration"
+    },
+    {
+      "sha": "0ad4dffbfccf1f83426cb561a376ec2ffb75ae01",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-29T19:34:05Z",
+      "message": "Merge pull request #54 from donnemartin/develop"
+    },
+    {
+      "sha": "203c8048fedf66339dda0e8f41c6548c6851505c",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-29T19:17:33Z",
+      "message": "Update to latest prompt-toolkit v1.0.0"
+    },
+    {
+      "sha": "46d0870eab2d15f86f76a8ae25ee24bee57ba41d",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-29T19:13:55Z",
+      "message": "Merge pull request #53 from donnemartin/develop"
+    },
+    {
+      "sha": "4670671ba4261555dc5a77dbdc2afbc7e1aff79c",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-29T19:09:03Z",
+      "message": "Update click dep upper bound to include the latest version"
+    },
+    {
+      "sha": "188b4b52debcd514e6a6b0fe400ef81cbb339971",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-29T18:26:05Z",
+      "message": "Merge pull request #51 from donnemartin/develop"
+    },
+    {
+      "sha": "e1d2269f33e1063d881f65d986b7963e27da27d8",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-29T18:23:12Z",
+      "message": "Update tests based on fixes for #40 and #48"
+    },
+    {
+      "sha": "ade5cbda11dfaedd36a469ec2d9e342f1d4ee615",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-29T18:17:16Z",
+      "message": "Merge branch 'Manu343726-master'"
+    },
+    {
+      "sha": "2b590420d8348cb8c716e6c1614db396d7ebeea6",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-29T18:14:30Z",
+      "message": "Update prev commit style to 80 char line length"
+    },
+    {
+      "sha": "287a1d3ad37d9bc870bdd00d71ef70a403eef7a4",
+      "author_login": "Manu343726",
+      "authored_at": "2016-05-28T21:26:10Z",
+      "message": "Fix #49: create-repo error if no description specified"
+    },
+    {
+      "sha": "64d3d33cd33496f2b7d65a730bf999d845845d4f",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-28T08:45:30Z",
+      "message": "Merge pull request #48 from donnemartin/develop"
+    },
+    {
+      "sha": "a4283618765417429d5088a85543ca7f5fbcfcb9",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-28T08:40:19Z",
+      "message": "Update expected user feed test results"
+    },
+    {
+      "sha": "a0036740a12affe0c13848383bbdcd6ab307f2f8",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-28T08:40:04Z",
+      "message": "Update expected events test results"
+    },
+    {
+      "sha": "b13702becee9c25c69edb1e5c6a3167b298a2a05",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-28T08:39:45Z",
+      "message": "Add mock release tag event"
+    },
+    {
+      "sha": "c59fc0be2b62329d14bf3ee23b8244e6563a7fc8",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-28T08:39:00Z",
+      "message": "Rework format_feed_entry to use the new _format_indented_message"
+    },
+    {
+      "sha": "2a291a9401d7f61afb261d796614cbf41a57442d",
+      "author_login": "donnemartin",
+      "authored_at": "2016-05-28T08:38:13Z",
+      "message": "Rework _format_push_event to use the new _format_indented_message"
+    }
+  ],
+  "issues": [
+    {
+      "number": 216,
+      "title": "[Security] Unsafe pickle.load() deserialization in man.py:36",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-07-11T11:07:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 215,
+      "title": "[Security] Hardcoded encryption key in formatter.py:259",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-07-11T11:07:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 214,
+      "title": "[Security] Hardcoded password in config.py:301",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-07-11T11:07:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 213,
+      "title": "[Security] CVE-2026-56413: Command injection in readline_shell.py:655",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-07-11T11:07:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 212,
+      "title": "fix: handle AttributeError in trending command when running in Docker (fixes #138)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-12T18:43:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 211,
+      "title": "Fix feedparser build",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-23T23:29:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 209,
+      "title": "Issue : Inconsistent use of f-strings",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-22T09:37:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 207,
+      "title": "Demo ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-08T10:27:13Z",
+      "closed_at": "2024-02-17T10:11:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 206,
+      "title": "Eliminate warning on Python 3.8 or later",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-22T07:57:17Z",
+      "closed_at": "2024-01-22T08:03:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 205,
+      "title": "Removed feedparser upperlimit version",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-05-03T05:45:13Z",
+      "closed_at": "2026-05-29T03:29:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 204,
+      "title": "Herkunft ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-16T18:36:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 203,
+      "title": "`feedparser=5.2.1` does not support the latest version of `setuptools`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-18T00:22:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 202,
+      "title": "Unable to install opencv-python at ubuntu 18.04 using dockerfile",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-13T09:36:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 201,
+      "title": "# [Codecov](https://codecov.io/gh/donnemartin/gitsome/pull/131?src=pr&el=h1) Report",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-11-21T23:53:22Z",
+      "closed_at": "2022-11-21T23:53:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 199,
+      "title": "Configuring gitsome with an ssh-key",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-17T12:11:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 198,
+      "title": "md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-08-31T08:41:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 196,
+      "title": "Fix Python 3.8+ Literal Syntax warning",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-08-20T17:19:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 195,
+      "title": "installation of gitsome throws spurious warning",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-25T23:15:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 194,
+      "title": "Missing `f` prefix on f-strings fix",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-04-23T23:04:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 193,
+      "title": "Missing `f` prefix on f-strings",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-23T22:11:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 192,
+      "title": "Update version",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-22T04:29:06Z",
+      "closed_at": "2022-02-22T04:29:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 191,
+      "title": "Add support for python 3.10",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-01-28T13:37:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 190,
+      "title": "Mark as archived",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-06T00:18:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 189,
+      "title": "bad interpreter: /usr/local/opt/python/bin/python3.7: no such file or directory",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-10T02:36:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 188,
+      "title": "error: pip3 install gitsome --upgrade",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-19T12:57:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 187,
+      "title": "Fix: allow feedparser 6.0.2 to solve issues in Python 3.9",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-01-28T17:32:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 186,
+      "title": "Feedparser AttributeError in Python 3.9",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-28T17:30:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 185,
+      "title": "prompt-toolkit",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-26T10:10:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 184,
+      "title": "docs: fix simple typo, recurssion -> recursion",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-12-22T10:58:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 183,
+      "title": "Fix Python 3.8 SyntaxWarning: \"is not\" with a literal",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-07T20:36:46Z",
+      "closed_at": "2020-12-15T14:55:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 182,
+      "title": "Fix Python 3.8 SyntaxWarning: \"is not\" with a literal",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-12-07T20:28:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 181,
+      "title": "I am unable to install hdbscan for a project",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-04T09:32:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 180,
+      "title": "should  pyzmq be listed in setup.py or requirements,txt?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-18T07:04:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 179,
+      "title": "Kali Linux - Problem",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-10T20:00:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 178,
+      "title": " python setup.py egg_info Check the logs for full command output.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-01T13:17:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 177,
+      "title": "conflict between `gh` command name between gitsome and official GitHub client",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-11T06:57:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 176,
+      "title": "Fix some code quality issues",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-04-11T06:23:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 175,
+      "title": "Fix some code quality issues",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-10T14:01:42Z",
+      "closed_at": "2020-04-10T19:27:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 174,
+      "title": "Error when Running pip install :  python setup.py egg_info",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-03T16:50:21Z",
+      "closed_at": "2021-05-03T11:18:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 173,
+      "title": "No module named 'prompt_toolkit.key_binding.manager'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-02-19T09:54:38Z",
+      "closed_at": "2020-02-19T10:12:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 172,
+      "title": "command errored out with exit status 1: python setup.py egg_info check the logs for full command output",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-12-29T12:37:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 171,
+      "title": "EEL issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-19T05:27:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 170,
+      "title": "Error installing",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-08T19:02:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 169,
+      "title": "ERROR: Command errored out with exit status 1: python setup.py egg_info Check the logs for full command output.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-10-15T12:26:43Z",
+      "closed_at": "2019-10-24T18:19:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 168,
+      "title": "System Integrations of different operating platforms ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-11T21:19:03Z",
+      "closed_at": "2022-02-22T04:16:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 167,
+      "title": "Merging System integration",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-08-22T09:26:06Z",
+      "closed_at": "2019-09-04T20:18:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 166,
+      "title": "Restrict mode of configuration file",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-07-09T22:42:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 165,
+      "title": "~/.gitsomeconfig world readable",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-07-08T22:16:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 164,
+      "title": "ValueError: Could not translate ANSI color code '01;05;37;41' into a known color in the palette",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-04-27T10:25:37Z",
+      "closed_at": "2019-04-28T04:18:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 163,
+      "title": "Remove unused numpydoc dependency",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-26T14:32:02Z",
+      "closed_at": "2019-05-07T10:06:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 162,
+      "title": "Update version",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-13T15:28:22Z",
+      "closed_at": "2019-04-15T00:29:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 161,
+      "title": "Update supported Python versions",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-07T19:09:22Z",
+      "closed_at": "2019-04-07T19:12:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 160,
+      "title": "Add Python 3.7 support",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-06T17:05:55Z",
+      "closed_at": "2019-04-06T19:00:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 159,
+      "title": "Add Python 3.7 support",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-31T00:51:33Z",
+      "closed_at": "2019-04-06T16:54:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 158,
+      "title": "`git reset --hard HEAD@{4]` not working",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-05T23:32:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 157,
+      "title": "`git log --author=\"string\" ` has no output.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-05T23:02:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 156,
+      "title": "SyntaxError when git blame with -L <start>,<end> filename",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-03-05T22:45:45Z",
+      "closed_at": "2019-05-16T14:24:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 155,
+      "title": "Add Travis CI tests on Python 3.5, 3.6, and 3.7",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-02-17T13:18:05Z",
+      "closed_at": "2019-04-10T00:38:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 154,
+      "title": "Notifications are failing",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-13T10:11:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 153,
+      "title": "Command \"python setup.py egg_info\" failed with error code 1 in /tmp/pip-install-YK4pz0/eth-account/",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-12-20T12:13:40Z",
+      "closed_at": "2018-12-27T11:09:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 152,
+      "title": "Support for python3.7",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-31T13:11:49Z",
+      "closed_at": "2019-04-07T18:30:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 151,
+      "title": "Fix gh command typos in docs",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-24T03:48:52Z",
+      "closed_at": "2019-02-11T11:04:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 150,
+      "title": "Resolves #149: Add option to disable avatar",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-11T03:50:10Z",
+      "closed_at": "2019-05-18T02:29:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 149,
+      "title": "Add option to disable avatar image requests",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-08-11T03:35:52Z",
+      "closed_at": "2019-05-18T02:29:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 148,
+      "title": "Fix #147: Gracefully ignore missing avatar image",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-10T12:32:38Z",
+      "closed_at": "2019-02-12T11:11:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 147,
+      "title": "Gracefully ignore missing avatar image",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-08-09T14:19:35Z",
+      "closed_at": "2019-02-12T11:11:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 146,
+      "title": "Recommend usage of `--user` instead of `sudo` for pip installation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-05-23T09:22:34Z",
+      "closed_at": "2021-04-15T10:32:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 145,
+      "title": "flask-mysqldb install in mac-Unable to insatll ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-27T11:10:10Z",
+      "closed_at": "2019-05-11T15:44:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 144,
+      "title": "Command \"python setup.py egg_info\" failed with error code 1 in C:\\Users\\Bilal\\AppData\\Local\\Temp\\pip-build-0way1c0h\\tweet-preprocessor\\",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-02-24T14:15:15Z",
+      "closed_at": "2019-04-07T18:31:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 143,
+      "title": "[WIP] Upgrade to prompt_toolkit 2.0.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-02-15T19:50:37Z",
+      "closed_at": "2019-04-07T18:22:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 142,
+      "title": "Update release checklist",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-01-29T02:19:05Z",
+      "closed_at": "2018-01-30T00:31:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 141,
+      "title": "django error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-12-18T16:54:38Z",
+      "closed_at": "2018-01-21T17:00:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 140,
+      "title": "Command \"python setup.py egg_info\" failed with error code 1 in \\pip-build\\lwajo_46\\pyproj",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-11-13T17:23:39Z",
+      "closed_at": "2018-01-21T17:04:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 139,
+      "title": "No man page in Docker",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-11-09T15:53:21Z",
+      "closed_at": "2018-01-21T17:04:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 138,
+      "title": "gh trending AttributeError running in Docker",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-09T15:45:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 137,
+      "title": "Fix Running as a Docker Container anchor",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-11-09T15:14:00Z",
+      "closed_at": "2017-11-10T01:51:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 136,
+      "title": "Homebrew package on macOS",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-02T02:57:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 135,
+      "title": "Reactive python 3.6 in gitsome",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-11-01T04:04:35Z",
+      "closed_at": "2019-04-07T18:21:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 134,
+      "title": "Update GitHub integrations link",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-09T00:57:00Z",
+      "closed_at": "2017-10-10T12:19:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 133,
+      "title": "p4python",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-06T09:18:38Z",
+      "closed_at": "2019-05-11T15:44:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 132,
+      "title": "Support generating issue_template and pull_request_template",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-09-07T14:54:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 131,
+      "title": "Configurable prompt",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-09-02T08:01:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 130,
+      "title": "Refactor user input and add system exit if user interrupts input",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-11T22:10:42Z",
+      "closed_at": "2019-06-08T02:43:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 129,
+      "title": "Fix trending command to handle empty summaries",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-07T13:49:33Z",
+      "closed_at": "2017-09-03T09:42:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 128,
+      "title": "AttributeError: object has no attribute 'summary' (trying to get weekly trending repos)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-07T09:39:18Z",
+      "closed_at": "2017-09-03T09:42:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 127,
+      "title": "Issues in organization not found",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-06-07T15:40:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 126,
+      "title": "Command \"python setup.py egg_info\" failed with error code 1 in /private/var/folders/5f/2cz5l0fd4rvgvtjq0wbqskc00000gp/T/pip-build-QAUTM1/lxml/",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-06-05T08:51:33Z",
+      "closed_at": "2019-04-07T18:32:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 125,
+      "title": "Progress Bar to indiacte user about loading the information",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-06-03T10:21:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 124,
+      "title": "Where is xontrib?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-05-22T17:17:20Z",
+      "closed_at": "2017-05-23T20:38:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 123,
+      "title": "Remove buggy codecov badge",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-05-17T03:26:07Z",
+      "closed_at": "2017-05-17T03:26:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 122,
+      "title": "Where is the binary installed in mac?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-05-14T07:25:13Z",
+      "closed_at": "2017-05-14T07:32:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 121,
+      "title": "gitsome currently requires Python 3.4 or 3.5",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-05-13T05:49:52Z",
+      "closed_at": "2017-05-14T07:32:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 120,
+      "title": "Add license disclaimer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-05-13T01:28:24Z",
+      "closed_at": "2017-05-13T01:29:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 119,
+      "title": "Notice: Maintainer Temporarily Unavailable",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-04-17T03:18:00Z",
+      "closed_at": "2017-05-16T03:33:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 118,
+      "title": "Command \"python setup.py egg_info\" failed with error code 1 in /private/var/folders/d8/hygf80412tdgb82jxw5b_bdw0000gp/T/pip-build-qn7mlwkt/PyYAML/\" ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-03-31T21:18:14Z",
+      "closed_at": "2017-04-01T02:01:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 117,
+      "title": "Fix changelog date",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-03-26T22:08:55Z",
+      "closed_at": "2017-03-26T22:24:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 116,
+      "title": "Fix #107: gh trending command results in error",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-03-26T21:34:22Z",
+      "closed_at": "2017-03-26T21:41:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 115,
+      "title": "Set Python support to 3.4 and 3.5, see #105",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-03-25T11:48:47Z",
+      "closed_at": "2017-03-25T21:24:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 114,
+      "title": "Error when installing in windows using pip3",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-03-24T12:31:00Z",
+      "closed_at": "2017-03-25T02:31:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 113,
+      "title": "Revert docker base image to python 3.5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-03-23T12:49:44Z",
+      "closed_at": "2017-03-25T02:30:32Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "donnemartin",
+      "contributions": 983
+    },
+    {
+      "login": "jashgala",
+      "contributions": 3
+    },
+    {
+      "login": "nttibbetts",
+      "contributions": 2
+    },
+    {
+      "login": "ReadmeCritic",
+      "contributions": 2
+    },
+    {
+      "login": "kBite",
+      "contributions": 2
+    },
+    {
+      "login": "radarhere",
+      "contributions": 1
+    },
+    {
+      "login": "andriisoldatenko",
+      "contributions": 1
+    },
+    {
+      "login": "blrsn",
+      "contributions": 1
+    },
+    {
+      "login": "joy2fun",
+      "contributions": 1
+    },
+    {
+      "login": "dbaio",
+      "contributions": 1
+    },
+    {
+      "login": "emres",
+      "contributions": 1
+    },
+    {
+      "login": "frdmn",
+      "contributions": 1
+    },
+    {
+      "login": "kamontat",
+      "contributions": 1
+    },
+    {
+      "login": "notatestuser",
+      "contributions": 1
+    },
+    {
+      "login": "Manu343726",
+      "contributions": 1
+    },
+    {
+      "login": "l0rd",
+      "contributions": 1
+    },
+    {
+      "login": "Carreau",
+      "contributions": 1
+    },
+    {
+      "login": "Karunamon",
+      "contributions": 1
+    },
+    {
+      "login": "pravj",
+      "contributions": 1
+    },
+    {
+      "login": "ltworf",
+      "contributions": 1
+    },
+    {
+      "login": "SanketDG",
+      "contributions": 1
+    },
+    {
+      "login": "zYeoman",
+      "contributions": 1
+    },
+    {
+      "login": "cyblue9",
+      "contributions": 1
+    },
+    {
+      "login": "cclauss",
+      "contributions": 1
+    },
+    {
+      "login": "dongweiming",
+      "contributions": 1
+    },
+    {
+      "login": "fmarco",
+      "contributions": 1
+    },
+    {
+      "login": "muescha",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "0.8.0",
+      "published_at": "2019-04-07T17:46:38Z"
+    },
+    {
+      "tag": "0.7.0",
+      "published_at": "2017-03-26T21:58:31Z"
+    },
+    {
+      "tag": "0.6.0",
+      "published_at": "2016-05-29T19:49:20Z"
+    },
+    {
+      "tag": "0.5.0",
+      "published_at": "2016-05-15T20:57:54Z"
+    },
+    {
+      "tag": "0.4.0",
+      "published_at": "2016-05-09T09:07:26Z"
+    }
+  ],
+  "collected_at": "2026-07-27T09:38:03.324001Z"
+}
