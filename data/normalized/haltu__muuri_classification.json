@@ -1,0 +1,141 @@
+{
+  "full_name": "haltu/muuri",
+  "cause": "bus_factor_collapse",
+  "confidence": 0.99,
+  "death_score": 0.991,
+  "supporting_evidence": [
+    {
+      "analyzer": "commits",
+      "code": "last_commit_age",
+      "summary": "Last commit was 1418 days ago",
+      "severity": "high",
+      "value": 1418,
+      "unit": "days"
+    },
+    {
+      "analyzer": "issues",
+      "code": "no_responses",
+      "summary": "Issues exist but none received any response",
+      "severity": "high",
+      "value": null,
+      "unit": null
+    },
+    {
+      "analyzer": "releases",
+      "code": "last_release_age",
+      "summary": "Last release was 5.1 years ago",
+      "severity": "high",
+      "value": 1850,
+      "unit": "days"
+    },
+    {
+      "analyzer": "contributors",
+      "code": "high_concentration",
+      "summary": "Top contributor authored 97% of work",
+      "severity": "medium",
+      "value": 0.969,
+      "unit": "share"
+    },
+    {
+      "analyzer": "commits",
+      "code": "commit_frequency",
+      "summary": "Averaged 2.8 commits/month over history",
+      "severity": "info",
+      "value": 2.77,
+      "unit": "commits/month"
+    }
+  ],
+  "analyses": [
+    {
+      "analyzer": "commits",
+      "evidence": [
+        {
+          "analyzer": "commits",
+          "code": "last_commit_age",
+          "summary": "Last commit was 1418 days ago",
+          "severity": "high",
+          "value": 1418,
+          "unit": "days"
+        },
+        {
+          "analyzer": "commits",
+          "code": "commit_frequency",
+          "summary": "Averaged 2.8 commits/month over history",
+          "severity": "info",
+          "value": 2.77,
+          "unit": "commits/month"
+        }
+      ],
+      "metrics": {
+        "analyzer": "commits",
+        "metrics": {
+          "commit_count_window": 100.0,
+          "days_since_last_commit": 1418.5,
+          "commits_per_month": 2.77
+        }
+      }
+    },
+    {
+      "analyzer": "contributors",
+      "evidence": [
+        {
+          "analyzer": "contributors",
+          "code": "high_concentration",
+          "summary": "Top contributor authored 97% of work",
+          "severity": "medium",
+          "value": 0.969,
+          "unit": "share"
+        }
+      ],
+      "metrics": {
+        "analyzer": "contributors",
+        "metrics": {
+          "contributor_count": 9.0,
+          "total_contributions": 353.0,
+          "top_contributor_share": 0.969
+        }
+      }
+    },
+    {
+      "analyzer": "issues",
+      "evidence": [
+        {
+          "analyzer": "issues",
+          "code": "no_responses",
+          "summary": "Issues exist but none received any response",
+          "severity": "high",
+          "value": null,
+          "unit": null
+        }
+      ],
+      "metrics": {
+        "analyzer": "issues",
+        "metrics": {
+          "issue_count": 75.0,
+          "open_issue_count": 42.0
+        }
+      }
+    },
+    {
+      "analyzer": "releases",
+      "evidence": [
+        {
+          "analyzer": "releases",
+          "code": "last_release_age",
+          "summary": "Last release was 5.1 years ago",
+          "severity": "high",
+          "value": 1850,
+          "unit": "days"
+        }
+      ],
+      "metrics": {
+        "analyzer": "releases",
+        "metrics": {
+          "release_count": 21.0,
+          "days_since_last_release": 1850.6
+        }
+      }
+    }
+  ],
+  "narrative": null
+}

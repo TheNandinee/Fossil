@@ -1,0 +1,1657 @@
+{
+  "full_name": "haltu/muuri",
+  "owner": "haltu",
+  "name": "muuri",
+  "url": "https://github.com/haltu/muuri",
+  "description": "Infinite responsive, sortable, filterable and draggable layouts",
+  "primary_language": "JavaScript",
+  "topics": [
+    "bin-packing",
+    "dnd",
+    "drag-and-drop",
+    "draggable",
+    "filter",
+    "grid",
+    "layout",
+    "muuri",
+    "sort"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 10943,
+  "forks": 651,
+  "open_issues": 117,
+  "created_at": "2015-12-21T07:00:44Z",
+  "pushed_at": "2024-05-25T12:11:39Z",
+  "updated_at": "2026-08-02T05:23:36Z",
+  "commits": [
+    {
+      "sha": "219e00893327dc22cf241103bef0ca63ee6fde2e",
+      "author_login": "niklasramo",
+      "authored_at": "2022-09-14T21:25:26Z",
+      "message": "Update docs."
+    },
+    {
+      "sha": "9551104a8e519ea4d8d9df3121252edc8432d2d2",
+      "author_login": "niklasramo",
+      "authored_at": "2022-09-09T20:20:51Z",
+      "message": "Merge pull request #526 from Tragio/master"
+    },
+    {
+      "sha": "57a51daad3fa8c696b17bcfc0e940a1e0f9b3277",
+      "author_login": null,
+      "authored_at": "2022-09-09T20:11:41Z",
+      "message": "fix: removed yarn and added package-lock.json"
+    },
+    {
+      "sha": "376ce34a9ad5503582d13fbf67d947308197a30f",
+      "author_login": null,
+      "authored_at": "2022-09-09T12:15:52Z",
+      "message": "feat: disable index page and use docs as default"
+    },
+    {
+      "sha": "371152e9e1024bcf3f16069d6b827ea8454ea3dc",
+      "author_login": null,
+      "authored_at": "2022-09-09T12:10:55Z",
+      "message": "fix: fixed 404 when reload page"
+    },
+    {
+      "sha": "effe2e97c0c35fd70bea79c73c7a39de91ab2811",
+      "author_login": null,
+      "authored_at": "2022-09-02T07:18:07Z",
+      "message": "Added initial docs website"
+    },
+    {
+      "sha": "191155294da9d5da4bfde58ce802a02b0ce7e7df",
+      "author_login": "niklasramo",
+      "authored_at": "2021-07-09T19:05:04Z",
+      "message": "Merge pull request #487 from haltu/r0.9.5"
+    },
+    {
+      "sha": "87481bacd52fed72230f8131a9efee3bb5e34068",
+      "author_login": "niklasramo",
+      "authored_at": "2021-07-09T19:03:53Z",
+      "message": "Update dependencies."
+    },
+    {
+      "sha": "042fb7540f9be33877b4ff06853517f9bbacc7b1",
+      "author_login": "niklasramo",
+      "authored_at": "2021-07-09T18:52:15Z",
+      "message": "Clear packer rect store after each layout + simplify styles caching system."
+    },
+    {
+      "sha": "4e44c27f231a2343762690009857d63bd35a669f",
+      "author_login": "niklasramo",
+      "authored_at": "2021-07-08T07:56:10Z",
+      "message": "Merge pull request #486 from haltu/fix-layout-memory-leak"
+    },
+    {
+      "sha": "3a85574a8487ab2c5dca504332c5eaa8975eae04",
+      "author_login": "niklasramo",
+      "authored_at": "2021-07-07T19:21:44Z",
+      "message": "Delete packer layout from temporary cache when it returns from the worker."
+    },
+    {
+      "sha": "fca8e5019a5eebf91c45ab05b1f842bd11087534",
+      "author_login": "niklasramo",
+      "authored_at": "2021-07-08T07:51:19Z",
+      "message": "Merge pull request #488 from haltu/fix-autoscroll-drag-syncing"
+    },
+    {
+      "sha": "97be4db09712d636cf3bf4123b7dbee3e47696ac",
+      "author_login": "niklasramo",
+      "authored_at": "2021-07-08T07:46:59Z",
+      "message": "Fix scroll syncing during autoscroll."
+    },
+    {
+      "sha": "5951cefe4a0ff9f6e73b1689d45d479ce54f9155",
+      "author_login": "niklasramo",
+      "authored_at": "2021-07-08T07:23:09Z",
+      "message": "Update deps + bump version -> 0.9.5"
+    },
+    {
+      "sha": "586b590022a233dfc42b6dcece8bb682811bdebf",
+      "author_login": "niklasramo",
+      "authored_at": "2021-05-11T19:18:39Z",
+      "message": "v0.9.4"
+    },
+    {
+      "sha": "760690057802e1e497159a513ce4c1e969d175fa",
+      "author_login": "niklasramo",
+      "authored_at": "2021-05-11T19:16:29Z",
+      "message": "Update deps + fix broken arg parsing in gulpfile.js."
+    },
+    {
+      "sha": "c16602edeccc50525abd13a9dc721cd5c547ed1a",
+      "author_login": "niklasramo",
+      "authored_at": "2021-05-11T18:54:57Z",
+      "message": "Fix bug: item variable missing in ItemDrag."
+    },
+    {
+      "sha": "20535eb9fe4f9abb345c572757aa427152ea4cd5",
+      "author_login": "niklasramo",
+      "authored_at": "2020-08-18T19:53:22Z",
+      "message": "Merge pull request #415 from syfgkjasdkn/patch-1"
+    },
+    {
+      "sha": "540043d8a57331ce26fc83a29d9bf09d3f0b3cfe",
+      "author_login": null,
+      "authored_at": "2020-08-17T21:07:37Z",
+      "message": "Add default safeZone value to the docs"
+    },
+    {
+      "sha": "49f562c7fd17f1c8177636b62e557624c5f2b81b",
+      "author_login": "niklasramo",
+      "authored_at": "2020-08-14T14:36:25Z",
+      "message": "Fix layoutEnd event bug."
+    },
+    {
+      "sha": "8ae344540bbcef392970e6051491b9a1b83c8894",
+      "author_login": "niklasramo",
+      "authored_at": "2020-08-12T06:39:36Z",
+      "message": "Fix iOS sniffing to include iPadOS 13+."
+    },
+    {
+      "sha": "a3d9e06704b7668034eb5b3fd9dfecaabc333ec0",
+      "author_login": "niklasramo",
+      "authored_at": "2020-08-02T21:47:26Z",
+      "message": "Fix iOS dnd bug, autoscroll bug and layout bug."
+    },
+    {
+      "sha": "41caf01c6c69b8f77f727342a54a7421de1c6ccc",
+      "author_login": "niklasramo",
+      "authored_at": "2020-07-02T16:52:37Z",
+      "message": "v0.9.1"
+    },
+    {
+      "sha": "0b463ed5ff4c61d727b447e54b61abbfffaf029d",
+      "author_login": "niklasramo",
+      "authored_at": "2020-07-02T16:44:48Z",
+      "message": "Do not use default function parameters as it does not work in older (ES5) browsers."
+    },
+    {
+      "sha": "2547d05d2c9cc6ab2b14e2fb37b261cfc52ef4a3",
+      "author_login": "niklasramo",
+      "authored_at": "2020-06-14T21:05:57Z",
+      "message": "Fix refreshItems/refreshSortData docs."
+    },
+    {
+      "sha": "ebe6eb014e81cde4aa897c6b22a76457e4205499",
+      "author_login": "niklasramo",
+      "authored_at": "2020-06-14T19:06:07Z",
+      "message": "Merge branch 'dev'"
+    },
+    {
+      "sha": "0c2de2685dcffbe8ac5e54f6b5a6ab79a5998262",
+      "author_login": "niklasramo",
+      "authored_at": "2020-06-14T18:59:39Z",
+      "message": "Remove demos from the repo."
+    },
+    {
+      "sha": "91a310ed4d1e0f30960a98efa3ab8aaea237ff58",
+      "author_login": "niklasramo",
+      "authored_at": "2020-06-14T18:56:35Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "76a0100b79a99fab1ad87ecbfd5164a372f6b6ab",
+      "author_login": "niklasramo",
+      "authored_at": "2020-06-09T05:42:02Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "8fa953fefdb48ba6d1a4c856bdd9c343f8daf49c",
+      "author_login": "niklasramo",
+      "authored_at": "2020-06-09T05:32:12Z",
+      "message": "Update package.json"
+    },
+    {
+      "sha": "8e951a0336b03cf1f64fc85cf26368ce801ad59c",
+      "author_login": "niklasramo",
+      "authored_at": "2020-06-08T20:31:14Z",
+      "message": "Simplify README intro."
+    },
+    {
+      "sha": "349cfdaa688ce54be590ebd06ec5c1d60a9d3166",
+      "author_login": "niklasramo",
+      "authored_at": "2020-06-08T19:56:43Z",
+      "message": "Add logo to README."
+    },
+    {
+      "sha": "79c1fdd489c051cb80a67b8a8818c59ccb24b9f0",
+      "author_login": "niklasramo",
+      "authored_at": "2020-06-08T18:42:12Z",
+      "message": "Remove todo comments"
+    },
+    {
+      "sha": "4320ece280e44fc39a612953ccf4cee6768ce39b",
+      "author_login": "niklasramo",
+      "authored_at": "2020-06-07T18:13:14Z",
+      "message": "A bit of Animator refactoring."
+    },
+    {
+      "sha": "bd3d1e379184de77f93b022665fef177db670e72",
+      "author_login": "niklasramo",
+      "authored_at": "2020-06-03T18:53:44Z",
+      "message": "Internal refactoring of animations and translate value caching."
+    },
+    {
+      "sha": "00a74f24a5617b3e943a203b1c707d9cfbc321b3",
+      "author_login": "niklasramo",
+      "authored_at": "2020-05-28T18:43:11Z",
+      "message": "Fix WebWorker bug."
+    },
+    {
+      "sha": "ecd772ff190796de8066b365927c52fc543671c9",
+      "author_login": "niklasramo",
+      "authored_at": "2020-05-25T18:27:05Z",
+      "message": "Remove dragAutoScroll.syncAfterScroll option and refactor AutoScroller a bit."
+    },
+    {
+      "sha": "41c3c0dbf710d9cac543a3bf6830c7cc2b0f3a7f",
+      "author_login": "niklasramo",
+      "authored_at": "2020-05-21T13:36:12Z",
+      "message": "Set AutoScroller smoothStop option to  by default."
+    },
+    {
+      "sha": "373c878c5ab58ecc5021d1fe4b31838494027b96",
+      "author_login": "niklasramo",
+      "authored_at": "2020-05-20T20:06:56Z",
+      "message": "Update README."
+    },
+    {
+      "sha": "0eb8d9b791e1e666f9cc3dedf646dc96a296e033",
+      "author_login": "niklasramo",
+      "authored_at": "2020-05-13T10:00:54Z",
+      "message": "Fix class removal issue after reparenting."
+    },
+    {
+      "sha": "4c605e24f8035a46656504fbcb52e9b789c2a993",
+      "author_login": "niklasramo",
+      "authored_at": "2020-05-06T21:31:36Z",
+      "message": "Fix bug: make drag scroll handler respect axis dragAxis."
+    },
+    {
+      "sha": "b37076112bc548d4e05f69a5a60a8f37a1ee96e3",
+      "author_login": "niklasramo",
+      "authored_at": "2020-05-06T05:18:08Z",
+      "message": "Do not enforce display:block CSS rule."
+    },
+    {
+      "sha": "624492761b153f3841d11cf393cb69f974377a68",
+      "author_login": "niklasramo",
+      "authored_at": "2020-04-24T21:24:02Z",
+      "message": "Remove Muuri Queue mention from banner (merge into Muuri Emitter)."
+    },
+    {
+      "sha": "6da63df6c7a4e0fb56416d2af39ee0aba719a0c7",
+      "author_login": "niklasramo",
+      "authored_at": "2020-04-24T19:50:14Z",
+      "message": "Improve getStyle utility cache mechanism."
+    },
+    {
+      "sha": "97d113e23a82ecad490b6a0d0308ce177369a3db",
+      "author_login": "niklasramo",
+      "authored_at": "2020-04-22T09:39:44Z",
+      "message": "Update dependencies & clean up AutoScroller."
+    },
+    {
+      "sha": "ee4507599f3e4bceb027cf3a073a816162892ba2",
+      "author_login": "niklasramo",
+      "authored_at": "2020-04-11T08:17:14Z",
+      "message": "Update dragAutoScroll documentation in README."
+    },
+    {
+      "sha": "2d1928afbfe767cdc272456799c3d12198975a64",
+      "author_login": "niklasramo",
+      "authored_at": "2020-04-11T05:31:40Z",
+      "message": "Update dependencies."
+    },
+    {
+      "sha": "c3899f3864b5a73c0f9c70ba4a5e36ae58a41269",
+      "author_login": "niklasramo",
+      "authored_at": "2020-04-10T12:18:23Z",
+      "message": "Update dragStartPredicate docs."
+    },
+    {
+      "sha": "0c9a76ddc41e4ae4694524664bbd5ef946a571fe",
+      "author_login": "niklasramo",
+      "authored_at": "2020-04-10T07:19:13Z",
+      "message": "Add 'Motivation' section to README."
+    },
+    {
+      "sha": "32ebe6aa28fcfaa4250bbeac7970c66a2effa20c",
+      "author_login": "niklasramo",
+      "authored_at": "2020-04-09T19:53:44Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "c8d3706cbb6f4ad3a15d11c5f8c47a6e3ce79742",
+      "author_login": "niklasramo",
+      "authored_at": "2020-04-09T12:41:09Z",
+      "message": "Rename slot -> rect in PackerProcessor splitRect method."
+    },
+    {
+      "sha": "99019bf89be2b9b50cc93d2c3a9824775d31516f",
+      "author_login": "niklasramo",
+      "authored_at": "2020-04-09T12:31:57Z",
+      "message": "Fix type declarations."
+    },
+    {
+      "sha": "17b24ea0c649f77261f3a6b4b9097dd568f3e328",
+      "author_login": "niklasramo",
+      "authored_at": "2020-04-08T20:56:43Z",
+      "message": "Update README + Make dragAxis option more strict."
+    },
+    {
+      "sha": "5ada595f18c4d1518dcc2ae53f3bf3ee087daf88",
+      "author_login": "niklasramo",
+      "authored_at": "2020-04-06T20:42:37Z",
+      "message": "Packer cleanup."
+    },
+    {
+      "sha": "80c5073804459ce8285f39d50aa24494370739f1",
+      "author_login": "niklasramo",
+      "authored_at": "2020-04-05T20:21:32Z",
+      "message": "Fix and refactor Packer calculations."
+    },
+    {
+      "sha": "10e866574d19bb702eb438ded1206b90b2da3ac1",
+      "author_login": "niklasramo",
+      "authored_at": "2020-04-02T09:50:11Z",
+      "message": "Deprecate layout.rounding option."
+    },
+    {
+      "sha": "4e9cca22298c4d6d6db8dac8caf792c843f1850d",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-30T21:20:11Z",
+      "message": "Rename emitter.flush -> emitter.burst"
+    },
+    {
+      "sha": "093ae81102fabc9978e35b75952108c3aa68a47b",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-29T17:01:26Z",
+      "message": "Layout system refactoring."
+    },
+    {
+      "sha": "20cc82891c7d96897e0bd60d323edb2eb4be9fe3",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-28T13:28:12Z",
+      "message": "Format tests."
+    },
+    {
+      "sha": "37860742b04052ffec1684f26cbe2c1c36c27da9",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-28T13:26:09Z",
+      "message": "Add ES Module build, Refactor AutoScroller a bit and update dependencies and reformat src files (Prettier's style changed a bit)."
+    },
+    {
+      "sha": "ab1b9d9393fb5480e8a6f2e23ae5db1f9d36435e",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-25T19:52:59Z",
+      "message": "Initial TypeScript type definitions and internal API refactoring."
+    },
+    {
+      "sha": "f59c216710b917519ae9ff8b724d058a3b4f4aa6",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-22T13:02:24Z",
+      "message": "A bit of refactoring and fixing an edge-case with migration."
+    },
+    {
+      "sha": "7427bbfbb17bad9f4e16226c3bd3fbcebe51a240",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-21T16:11:04Z",
+      "message": "Optimize worker initialization."
+    },
+    {
+      "sha": "3fb9a159e3beb66bf08d9e84ed4847e1050c458f",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-21T15:40:54Z",
+      "message": "Refactor worker code to get bundle size down."
+    },
+    {
+      "sha": "56fba13f7fbb864f055061deee3ed42c022f1d20",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-21T11:39:23Z",
+      "message": "Remove yargs dep and use custom arg checker instead."
+    },
+    {
+      "sha": "2d160b684487e5ce491610367b8ed440e05d9824",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-21T11:01:12Z",
+      "message": "Update some dependencies."
+    },
+    {
+      "sha": "8f8a1fadfb886747c034cfbb07d4e6b3d7de1161",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-21T10:48:59Z",
+      "message": "Fix/refactor tests and make necessary adjustments to code based on the issues found."
+    },
+    {
+      "sha": "f530a55ab7735044389041f6ea50f10c2382d7f0",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-20T06:37:15Z",
+      "message": "Document grid.refreshItems() method's 'force' argument."
+    },
+    {
+      "sha": "22ff9fdd88b230d0657549747287896bcb2cd809",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-20T06:27:32Z",
+      "message": "Expose default Packer instance so it can be modified/removed."
+    },
+    {
+      "sha": "25778b90c3ae3974ba0adeb3d187a48220032e9c",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-19T22:13:39Z",
+      "message": "Update Ticker description."
+    },
+    {
+      "sha": "b36c953f49437be2206f990b244a8932d29bd5db",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-19T22:07:00Z",
+      "message": "Remove redundant @memberof JSDoc notations."
+    },
+    {
+      "sha": "aabe7c7aec40c5ce1eb70f0f1aff2552280d9178",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-19T21:50:54Z",
+      "message": "Too much refactoring (sorry). Faster item lookups by element. Faster sorting (in some cases). Deprecate the possibility to define layout.widht/height unit as string (only allow pixel values as numbers"
+    },
+    {
+      "sha": "f243454bf2a6b92cf914d1a7d758dffd67c205c2",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-04T22:01:55Z",
+      "message": "Make grid.add() faster, a lot faster."
+    },
+    {
+      "sha": "37008ceba76c22838040d8b1bba927dfb57f2365",
+      "author_login": "niklasramo",
+      "authored_at": "2020-03-02T21:45:44Z",
+      "message": "Async layout & other layout performance optimizations."
+    },
+    {
+      "sha": "19c856f46b90428c47f3f60657d0fdded855b697",
+      "author_login": "niklasramo",
+      "authored_at": "2020-02-25T17:43:57Z",
+      "message": "grid.layout() performance improvements."
+    },
+    {
+      "sha": "faea09794ace90267f6ebcfeeef229a52410daf1",
+      "author_login": "niklasramo",
+      "authored_at": "2020-02-24T22:36:19Z",
+      "message": "Ticker performance optimization."
+    },
+    {
+      "sha": "8199b0d55579588825b6ccd04711483e57f54a69",
+      "author_login": "niklasramo",
+      "authored_at": "2020-02-24T16:57:38Z",
+      "message": "dragRelease option refactoring and documentation."
+    },
+    {
+      "sha": "0271614aabaac1d37f3eb06faebb2bf117930d14",
+      "author_login": "niklasramo",
+      "authored_at": "2020-02-23T19:36:28Z",
+      "message": "Add first (simple) dragAutoScroll tests."
+    },
+    {
+      "sha": "6298ed8518d0a19864f07d22d37127d8d81b8827",
+      "author_login": "niklasramo",
+      "authored_at": "2020-02-23T11:45:06Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "7c21b46992579c2b77a2606a1ae3b9a29653cf19",
+      "author_login": "niklasramo",
+      "authored_at": "2020-02-22T22:37:04Z",
+      "message": "AutoScroller documentation + logic for handling large items."
+    },
+    {
+      "sha": "6d7a008f0a7941b6b0e7b96374386557c218ba74",
+      "author_login": "niklasramo",
+      "authored_at": "2020-02-14T20:45:07Z",
+      "message": "dragAutoScroll.pointerSize -> dragAutoScroll.handle"
+    },
+    {
+      "sha": "49795ab33e85ae3434e6450d26558bde3acef8b8",
+      "author_login": "niklasramo",
+      "authored_at": "2020-02-14T19:33:59Z",
+      "message": "Add support for using pointer as the drag auto scroll handle."
+    },
+    {
+      "sha": "250c2fe96e1ec96423958328984f0379135cbb8b",
+      "author_login": "niklasramo",
+      "authored_at": "2020-02-14T16:19:46Z",
+      "message": "Only allow autoscrolling towards the drag direction."
+    },
+    {
+      "sha": "5a0cdc0ff055931f8c1103d31f6aa6f3d4753281",
+      "author_login": "niklasramo",
+      "authored_at": "2020-02-11T22:19:40Z",
+      "message": "Improve drag autoscroll & sort interplay, throttle autoscroll start checks."
+    },
+    {
+      "sha": "4a7b0831896d6975e65f8714dc483dd6bba14cbd",
+      "author_login": "niklasramo",
+      "authored_at": "2020-02-09T19:13:58Z",
+      "message": "Add acceleration/decelaration to AutoSctoller.smoothSpeed + AutoScroller performance tweaks."
+    },
+    {
+      "sha": "1b61682cdf1a69e81694bee359e863ddec57b24b",
+      "author_login": "niklasramo",
+      "authored_at": "2020-01-31T17:05:27Z",
+      "message": "Autoscroll performance update + avoid interrupting ongoing scroll."
+    },
+    {
+      "sha": "e394c8328c904572b7d05ddcdfb5b9935c5fcecc",
+      "author_login": "niklasramo",
+      "authored_at": "2020-01-29T20:22:02Z",
+      "message": "Fix bug with scrolling non-overlapping element."
+    },
+    {
+      "sha": "2ca3d83e5f898937b867fa7aa3b81550e200dc84",
+      "author_login": "niklasramo",
+      "authored_at": "2020-01-29T19:52:32Z",
+      "message": "Update deps and rebuild."
+    },
+    {
+      "sha": "9856e5956a3298d9e4375d67b9981c7eaded7046",
+      "author_login": "niklasramo",
+      "authored_at": "2020-01-29T19:31:41Z",
+      "message": "Initial working drag scroll (still needs more fine-tuning) + some refactoring to support the changes."
+    },
+    {
+      "sha": "0f4f2e614df356435edcd5406dbc5d41c42cc093",
+      "author_login": "niklasramo",
+      "authored_at": "2019-11-14T12:03:52Z",
+      "message": "Create FUNDING.yml"
+    },
+    {
+      "sha": "914799512d8f3fcc3cf5ec0a0596e855be6f588c",
+      "author_login": "niklasramo",
+      "authored_at": "2019-10-01T19:53:45Z",
+      "message": "Add layoutAbort tests."
+    },
+    {
+      "sha": "9af09b6bedb23f82e327da5d6cf3a38f2d0a4a71",
+      "author_login": "niklasramo",
+      "authored_at": "2019-10-01T19:30:01Z",
+      "message": "Refactor layoutAbort event and switch the argument order of layout's onFinish callback to make it more in line with the rest of the API."
+    },
+    {
+      "sha": "00f18be2a7f46f34b4af8896410b48b7f58da4f3",
+      "author_login": "niklasramo",
+      "authored_at": "2019-09-30T20:57:27Z",
+      "message": "Add layoutAbort event."
+    },
+    {
+      "sha": "c3ca7642b7e703a5ca188f09a39414e4ec18b0ca",
+      "author_login": "niklasramo",
+      "authored_at": "2019-09-30T20:34:14Z",
+      "message": "Cancel animation if duration/easing changes."
+    },
+    {
+      "sha": "7df880dfcf541355226bdca0757d4de847de2903",
+      "author_login": "niklasramo",
+      "authored_at": "2019-09-29T18:55:01Z",
+      "message": "Refactor ItemLayout."
+    },
+    {
+      "sha": "c7e6d3dd2d7bfd83fc905cd9127a72915fe1ae4e",
+      "author_login": "niklasramo",
+      "authored_at": "2019-09-29T11:27:55Z",
+      "message": "ItemLayout refactoring."
+    },
+    {
+      "sha": "7a62e344cf16d9a2306a13c5e50fe409f8d08adb",
+      "author_login": "niklasramo",
+      "authored_at": "2019-09-28T18:40:05Z",
+      "message": "Remove grid.updateOptions() method, for now."
+    },
+    {
+      "sha": "cb663596879f1df6227b47e54bce88e3bb965cb7",
+      "author_login": "niklasramo",
+      "authored_at": "2019-09-28T18:27:36Z",
+      "message": "build"
+    },
+    {
+      "sha": "fe698de94d74c90133bff8b4024cc04ee459d4ba",
+      "author_login": "niklasramo",
+      "authored_at": "2019-09-28T18:26:27Z",
+      "message": "Remove styles without value from visible/hiddenStyles."
+    },
+    {
+      "sha": "d2a0ba3f026602ed1875768758ac7de2aae12438",
+      "author_login": "niklasramo",
+      "authored_at": "2019-09-28T18:22:33Z",
+      "message": "shared.js -> constants.js"
+    }
+  ],
+  "issues": [
+    {
+      "number": 578,
+      "title": "Drag over same element and append more text",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-16T11:18:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 577,
+      "title": "Feat - itemAnchorClick",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-06-23T18:47:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 576,
+      "title": "dragStart event is fired a second time just before the dragEnd event",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-09T13:55:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 574,
+      "title": "HTML link (<a> tag) in muuri grid, opening tab/window while drag and drop items",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-22T08:07:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 573,
+      "title": "How to center items in board?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-16T10:40:39Z",
+      "closed_at": "2024-12-23T09:34:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 572,
+      "title": "Resizing an item also drags/moves the item. (Tested and works up until 0.8.0, broke during and after 0.9.0)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-30T10:44:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 571,
+      "title": "Display a grid item in full screen",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-01T08:58:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 570,
+      "title": "Adding and removing grids for drag and drop (not items)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-07T20:25:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 568,
+      "title": "How to initiate a grid.move() based on the dragged item's position, even when the item is outside the grid?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-03-23T14:17:48Z",
+      "closed_at": "2024-03-26T00:14:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 567,
+      "title": "How to keep a specific item of a grid frozen in the same position while the grid is being sorted from a dragSort? ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-03-17T22:40:12Z",
+      "closed_at": "2024-03-21T05:42:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 566,
+      "title": "Chrome app on iOS. Element glitching when placed in sortable container",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-03-13T05:09:16Z",
+      "closed_at": "2024-03-16T15:51:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 565,
+      "title": "Bump Package Dependency versions to the latest",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-23T08:49:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 564,
+      "title": "Incompatible with zoom",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-08T19:49:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 563,
+      "title": "grid.show() doesn't toggle items on, but grid.hide() toggles off.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-01-24T02:32:30Z",
+      "closed_at": "2024-01-26T02:11:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 562,
+      "title": "Muuri Doesn't Work on Tailwindcss Classe",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-05T01:42:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 561,
+      "title": "throws an error \"window is not defined\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-14T15:36:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 560,
+      "title": "Drag Start Delay On Touch",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-14T13:32:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 559,
+      "title": "Add a new Item and snap to grid",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-05T17:19:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 558,
+      "title": "vue\n",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-08-30T17:21:18Z",
+      "closed_at": "2023-08-30T17:21:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 557,
+      "title": " Scaling Effects during dragging",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-17T08:28:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 556,
+      "title": "Is this maintained ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-10T11:12:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 555,
+      "title": "Retrieve the position of hidden grid items in custom layout function",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-28T21:49:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 554,
+      "title": "question: drag/sort behaviour without the drag & sort",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-06-13T13:05:00Z",
+      "closed_at": "2023-06-14T21:44:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 553,
+      "title": "dragSortPredicate does not seem to work properly",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-05T18:38:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 552,
+      "title": "Reset grid layout? (draggable grid)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-30T17:29:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 551,
+      "title": "fillGaps property does not seem to work",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-26T12:29:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 550,
+      "title": "Bump yaml and husky",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-24T23:27:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 549,
+      "title": "TypeError: Cannot read properties of undefined (reading 'eventController')",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-15T05:36:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 548,
+      "title": "Issue with horizontal alignment of items",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-28T07:59:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 546,
+      "title": "卡片",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-03-17T02:41:05Z",
+      "closed_at": "2023-03-17T02:41:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 545,
+      "title": "Bump minimist and mkdirp",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-03-01T09:52:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 544,
+      "title": "Docs: Be more explicit on the dragStartPredicate return",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-23T01:04:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 543,
+      "title": "Bump ua-parser-js from 0.7.28 to 0.7.33",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-27T04:43:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 542,
+      "title": "[Question] Best way to synchronize to the DOM's updated data?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-01-25T22:07:08Z",
+      "closed_at": "2023-02-15T19:46:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 541,
+      "title": "Pagination",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-15T10:33:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 540,
+      "title": "Unexplainable Drag Bug",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-01-09T13:10:29Z",
+      "closed_at": "2023-01-13T10:08:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 539,
+      "title": "When I use the layout horizontal option with the dragAutoScroll property, infinite scrolling occurs horizontally when attempting to drag.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-12-21T09:36:42Z",
+      "closed_at": "2022-12-21T13:38:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 538,
+      "title": "fix(sec): upgrade karma to 6.3.16",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T01:21:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 537,
+      "title": "Bump qs and body-parser",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T14:34:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 536,
+      "title": "Bump decode-uri-component from 0.2.0 to 0.2.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-01T23:16:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 535,
+      "title": "Bump socket.io-parser from 4.0.4 to 4.0.5",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-09T21:59:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 534,
+      "title": "Incompatible with transform:scale",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-03T16:15:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 530,
+      "title": "Guidance with styling the \"drop zone\" – e.g. where the item will end up",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-10-15T11:30:42Z",
+      "closed_at": "2022-10-16T10:10:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 529,
+      "title": "Shuffling or rearrangement of 'Dashboard' cards is not accessible with keyboard.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-09-26T09:26:51Z",
+      "closed_at": "2022-10-08T16:57:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 528,
+      "title": "Bump ini and ini",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-09-09T20:23:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 527,
+      "title": "Bump minimist from 1.2.0 to 1.2.6",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-09-09T20:22:09Z",
+      "closed_at": "2023-03-01T09:52:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 526,
+      "title": "Added docs website",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-09-02T07:26:41Z",
+      "closed_at": "2022-09-09T20:20:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 525,
+      "title": "Docs website",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-09-02T05:45:06Z",
+      "closed_at": "2022-09-16T14:03:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 524,
+      "title": "[Question] is it possible to lock an item in place while other items drag?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-07-30T16:48:03Z",
+      "closed_at": "2022-10-08T17:00:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 523,
+      "title": "TypeError in wkhtmltopdf (QtWebKit), which doesn't have Function.prototype.bind",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-07-20T19:22:10Z",
+      "closed_at": "2022-10-08T16:59:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 522,
+      "title": "Bump terser from 5.7.1 to 5.14.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-07-20T01:22:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 521,
+      "title": "Drag an item past the end of a list",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-07T18:33:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 520,
+      "title": "Bump copy-props from 2.0.4 to 2.0.5",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-27T19:59:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 519,
+      "title": "Bump node-fetch from 2.6.1 to 2.6.7",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-26T06:02:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 518,
+      "title": "Bump async from 3.2.0 to 3.2.3",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-04-13T00:06:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 517,
+      "title": "Bump karma from 6.3.4 to 6.3.16",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-03-01T23:55:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 516,
+      "title": "Bump follow-redirects from 1.12.1 to 1.14.8",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-02-12T02:43:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 515,
+      "title": "Bump karma from 6.3.4 to 6.3.14",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-11T04:58:01Z",
+      "closed_at": "2022-03-01T23:55:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 514,
+      "title": "Bump ajv from 6.12.2 to 6.12.6",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-02-11T04:38:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 513,
+      "title": "[Question] Offset Item On Drag Start / Grid Receive Events",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-03T20:48:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 512,
+      "title": "vue demo",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-02-02T11:56:15Z",
+      "closed_at": "2022-10-08T17:06:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 511,
+      "title": "Can't we have a placeholder size that fits the area to be positioned during dragging between two different areas?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-01-26T03:09:27Z",
+      "closed_at": "2022-01-26T06:30:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 510,
+      "title": "Your docs would need this important update",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-01-23T21:57:08Z",
+      "closed_at": "2022-01-28T05:25:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 509,
+      "title": "Is it possible to have different layout only during dragging?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-03T07:40:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 508,
+      "title": "How to make a layout so that the height of the grid container is variable",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-12-22T01:14:02Z",
+      "closed_at": "2022-01-26T06:30:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 507,
+      "title": "GetItems() in some cases returns items in incorrect order",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-12-14T19:19:58Z",
+      "closed_at": "2021-12-16T23:56:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 506,
+      "title": "创建npm-gulp.yml",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-12-11T05:10:49Z",
+      "closed_at": "2022-07-24T14:56:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 505,
+      "title": "how stop drag when target grid equal example ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-05T09:51:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 504,
+      "title": "On iPad, switching to Safari from another app causes the page to zoom in",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-11-05T02:20:14Z",
+      "closed_at": "2022-10-08T17:01:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 503,
+      "title": "Kanban demo code",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-03T17:54:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 502,
+      "title": "How do I swap positions and sizes?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-03T12:33:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 501,
+      "title": "Fix typos in JSDoc tags (fixes #500)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-10-31T19:27:54Z",
+      "closed_at": "2023-03-17T04:22:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 500,
+      "title": "[bug, minor] Found a couple typos in the JSDoc markup",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-31T19:23:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 499,
+      "title": "setTimeout required to scroll item into view for onFinish of show",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-20T21:22:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 498,
+      "title": "Multiple grids: Replace some items, insert others",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-10-14T12:20:32Z",
+      "closed_at": "2021-10-17T08:16:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 497,
+      "title": "how to fetch data from api and display in grid kanban design ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-11T06:33:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 496,
+      "title": "Where's the website, where are the demos?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-09-13T11:56:20Z",
+      "closed_at": "2021-09-15T16:50:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 495,
+      "title": "Dragging not working in new windows",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-08T04:41:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 494,
+      "title": "Bootstrap 5 Accordion -> Collapse",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-31T19:44:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 493,
+      "title": "Deep nested list",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-27T15:08:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 492,
+      "title": "Group items by color, randomize groups on load",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-16T12:39:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 491,
+      "title": "Use globalThis for exporting variables that are used in web worker",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-23T04:33:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 490,
+      "title": "[Help wanted] Changing item size based on position / creating a layout with predefined positions",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-16T11:09:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 489,
+      "title": "A Drag and Drop Tip for Muuri and Databases",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-15T21:28:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 488,
+      "title": "Fix scroll syncing during drag.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-08T07:50:11Z",
+      "closed_at": "2021-07-08T07:51:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 487,
+      "title": "r0.9.5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-08T07:27:34Z",
+      "closed_at": "2021-07-09T19:05:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 486,
+      "title": "Fix Packer memory leak.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-07T19:23:58Z",
+      "closed_at": "2021-07-08T07:56:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 485,
+      "title": "Memory Leak? defaultPacker retaining layouts",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-07-07T17:42:57Z",
+      "closed_at": "2021-07-09T19:15:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 484,
+      "title": "Not working with @angular/animations",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-07-03T13:02:25Z",
+      "closed_at": "2026-01-02T22:13:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 483,
+      "title": "Auto scroll does not work",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-07-01T07:04:46Z",
+      "closed_at": "2021-07-07T14:25:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 482,
+      "title": "Can not implement with Ionic 5",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-22T12:17:09Z",
+      "closed_at": "2021-07-09T19:26:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 481,
+      "title": "New item to the grid from input and save",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-17T18:38:56Z",
+      "closed_at": "2021-08-14T07:16:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 480,
+      "title": "Idle Muuri Board crashing browser?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-10T20:00:14Z",
+      "closed_at": "2021-07-09T19:16:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 479,
+      "title": "multi dropdown for filterin?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-09T15:46:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 478,
+      "title": "Keeping Sort Order's in Sync with DB",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-09T02:10:09Z",
+      "closed_at": "2021-07-09T19:17:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 477,
+      "title": "Kanban Item Horizontal Scrolling?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-02T16:06:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 476,
+      "title": "How can i add new items to the grid in Vue?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-01T20:19:17Z",
+      "closed_at": "2021-06-03T09:02:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 475,
+      "title": "Patch suggestion: give more visibility to some internal stuff (angular usecase)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-01T15:36:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 474,
+      "title": "Flickering effect when dragging",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-26T05:14:44Z",
+      "closed_at": "2023-02-15T06:24:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 473,
+      "title": "Set item height on fluid layout via custom layout() function",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-23T10:24:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "niklasramo",
+      "contributions": 342
+    },
+    {
+      "login": "aslakhellesoy",
+      "contributions": 3
+    },
+    {
+      "login": "Alexays",
+      "contributions": 2
+    },
+    {
+      "login": "esaruoho",
+      "contributions": 1
+    },
+    {
+      "login": "derega",
+      "contributions": 1
+    },
+    {
+      "login": "jholland918",
+      "contributions": 1
+    },
+    {
+      "login": "happier2",
+      "contributions": 1
+    },
+    {
+      "login": "indigane",
+      "contributions": 1
+    },
+    {
+      "login": "kaocy",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "0.9.5",
+      "published_at": "2021-07-09T19:11:01Z"
+    },
+    {
+      "tag": "0.9.4",
+      "published_at": "2021-05-11T19:21:51Z"
+    },
+    {
+      "tag": "0.9.3",
+      "published_at": "2020-08-14T14:42:05Z"
+    },
+    {
+      "tag": "0.9.2",
+      "published_at": "2020-08-12T20:42:52Z"
+    },
+    {
+      "tag": "0.9.1",
+      "published_at": "2020-07-02T16:55:19Z"
+    },
+    {
+      "tag": "0.9.0",
+      "published_at": "2020-06-14T21:01:03Z"
+    },
+    {
+      "tag": "0.8.0",
+      "published_at": "2019-07-15T09:44:52Z"
+    },
+    {
+      "tag": "0.7.1",
+      "published_at": "2018-09-29T21:23:16Z"
+    },
+    {
+      "tag": "0.7.0",
+      "published_at": "2018-09-20T19:32:24Z"
+    },
+    {
+      "tag": "0.6.3",
+      "published_at": "2018-08-07T08:56:43Z"
+    },
+    {
+      "tag": "0.6.2",
+      "published_at": "2018-07-19T20:44:41Z"
+    },
+    {
+      "tag": "0.6.1",
+      "published_at": "2018-07-17T21:10:34Z"
+    },
+    {
+      "tag": "0.6.0",
+      "published_at": "2018-07-11T19:05:58Z"
+    },
+    {
+      "tag": "0.5.4",
+      "published_at": "2018-02-25T19:24:21Z"
+    },
+    {
+      "tag": "0.5.3",
+      "published_at": "2017-12-11T15:07:24Z"
+    },
+    {
+      "tag": "0.5.2",
+      "published_at": "2017-12-09T22:36:12Z"
+    },
+    {
+      "tag": "0.5.1",
+      "published_at": "2017-10-28T20:04:31Z"
+    },
+    {
+      "tag": "0.5.0",
+      "published_at": "2017-10-27T20:25:43Z"
+    },
+    {
+      "tag": "0.4.1",
+      "published_at": "2017-09-03T09:15:36Z"
+    },
+    {
+      "tag": "0.4.0",
+      "published_at": "2017-07-27T19:18:04Z"
+    },
+    {
+      "tag": "0.3.0",
+      "published_at": "2017-05-09T18:55:58Z"
+    }
+  ],
+  "collected_at": "2026-08-03T09:31:34.936492Z"
+}

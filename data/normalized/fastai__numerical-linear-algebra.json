@@ -1,0 +1,744 @@
+{
+  "full_name": "fastai/numerical-linear-algebra",
+  "owner": "fastai",
+  "name": "numerical-linear-algebra",
+  "url": "https://github.com/fastai/numerical-linear-algebra",
+  "description": "Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course",
+  "primary_language": "Jupyter Notebook",
+  "topics": [
+    "algorithms",
+    "data-science",
+    "deep-learning",
+    "linear-algebra",
+    "machine-learning",
+    "numpy",
+    "python"
+  ],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 10951,
+  "forks": 2680,
+  "open_issues": 21,
+  "created_at": "2017-05-16T17:28:12Z",
+  "pushed_at": "2024-04-16T14:44:18Z",
+  "updated_at": "2026-08-03T08:45:31Z",
+  "commits": [
+    {
+      "sha": "694453e105b2a8f96b62b62d44d234c561eba268",
+      "author_login": "racheltho",
+      "authored_at": "2017-07-28T16:23:19Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "01f7bfb7f5fd006cde506646e4da9663962acc88",
+      "author_login": "racheltho",
+      "authored_at": "2017-07-28T16:17:25Z",
+      "message": "update readme with new links for renamed lesson 1"
+    },
+    {
+      "sha": "974381f7343e82e7491a5a55f61397de4b10a82c",
+      "author_login": "racheltho",
+      "authored_at": "2017-07-27T23:32:02Z",
+      "message": "remove question mark from notebook title bc it causes an error"
+    },
+    {
+      "sha": "c24d07af9f3f05ccb65e4baaf1ac8da04aa01a80",
+      "author_login": "racheltho",
+      "authored_at": "2017-07-26T22:37:41Z",
+      "message": "fixed date error"
+    },
+    {
+      "sha": "72b2d44e7879e5e44d32b0427053b88e3e65c782",
+      "author_login": "racheltho",
+      "authored_at": "2017-07-26T21:56:46Z",
+      "message": "Merge pull request #4 from thomasif98/patch1"
+    },
+    {
+      "sha": "52b527bcb702fab0cc9fe8cda71bf3ce99277cf4",
+      "author_login": "thomasif98",
+      "authored_at": "2017-07-26T12:14:25Z",
+      "message": "Fixed typo in sequence"
+    },
+    {
+      "sha": "ee8fe3259983db4409f462fe857c5e0b5dfba912",
+      "author_login": "racheltho",
+      "authored_at": "2017-07-24T21:58:54Z",
+      "message": "adding links to MSAN and forums"
+    },
+    {
+      "sha": "9d2dfc30b325977711bd20d469e5913f75437f48",
+      "author_login": "racheltho",
+      "authored_at": "2017-07-21T17:20:27Z",
+      "message": "Merge pull request #3 from killthekitten/patch-1"
+    },
+    {
+      "sha": "e86efa8a639b74dfdcdab2ef43635d2697b81aa0",
+      "author_login": "killthekitten",
+      "authored_at": "2017-07-21T16:37:45Z",
+      "message": "Fix the links to Video 1"
+    },
+    {
+      "sha": "8089822de7573bc89056573920d5eb866ec79655",
+      "author_login": "racheltho",
+      "authored_at": "2017-07-18T18:18:25Z",
+      "message": "Merge pull request #2 from anshbansal/patch-1"
+    },
+    {
+      "sha": "80e70fb7b7751a05969164983cb9c82ce664e4c9",
+      "author_login": "anshbansal",
+      "authored_at": "2017-07-18T16:12:39Z",
+      "message": "Fix category name"
+    },
+    {
+      "sha": "7e3e02658177ff615f88cebb67db755347c56c73",
+      "author_login": "racheltho",
+      "authored_at": "2017-07-04T01:27:38Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "bef98ccfec8e07bdf03791cc10c6b9185507e79e",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-22T00:45:06Z",
+      "message": "updates to lessons 7 and 8"
+    },
+    {
+      "sha": "bfc6e888b95d66485e011a581713e9ea2a2b114d",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-19T20:15:45Z",
+      "message": "adding HW 3"
+    },
+    {
+      "sha": "9bfd73daa84c6f48728ed980b0b6756e9c1ef80d",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-18T18:58:02Z",
+      "message": "updating lesson 7"
+    },
+    {
+      "sha": "c9fbf626a8008cc5a1cfff42d2a92d57173a2881",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-18T18:55:43Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "774b5ba0e1c5d27c7493cf8cf2439fbd0cfa900a",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-18T18:54:54Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ab1f5e4258a663bc8e2fcc520888836984c5bbea",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-18T18:40:59Z",
+      "message": "update lesson 6, add lessons 7 and 8"
+    },
+    {
+      "sha": "0990532c86c092fd8bca933c8f53a3ce8dc60d98",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-14T22:34:51Z",
+      "message": "update readme"
+    },
+    {
+      "sha": "eda3a458d6c15d35cb8957b7bed97fd179668553",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-14T21:38:43Z",
+      "message": "updates to 4, 5, 6"
+    },
+    {
+      "sha": "3f362efd1de7d7a4edeb6d096d0545dfc46e41c8",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-13T17:37:51Z",
+      "message": "adding notebook 6"
+    },
+    {
+      "sha": "5f6000a03348a52c50cafb67d36d74460c62d46b",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-08T17:21:33Z",
+      "message": "minor fixes"
+    },
+    {
+      "sha": "8dc39dd2b8b92934daaef95754fe41472c806d83",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-07T23:09:41Z",
+      "message": "homework 2"
+    },
+    {
+      "sha": "ef3d857485e5173d2d27f94a2fc845282a7ebd87",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-07T21:26:54Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "450038df54529f0837a16b4aae2c322e58d4da3f",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-07T21:24:55Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1398435eaca5538ba03084a2613c761f1500e739",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-07T21:21:03Z",
+      "message": "updated lesson 5"
+    },
+    {
+      "sha": "33d182f33ba0f4782a8366a1bd714a44b22573e5",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-07T21:09:11Z",
+      "message": "adding lesson 5, updates to lesson 3"
+    },
+    {
+      "sha": "ec45e877fabd3463f91c4371468861a03fa6dd12",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-05T19:59:08Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "53e729ecf1896c9a311f4f660762b513e0b04c0c",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-05T19:58:46Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e8f627166383e98980a5a805bd981f1ef0807d4b",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-05T19:58:03Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1169632827faf32ec31cd38dccd58fc73aa3bba2",
+      "author_login": "racheltho",
+      "authored_at": "2017-06-05T19:51:59Z",
+      "message": "updates to lesson 3, added lesson 4"
+    },
+    {
+      "sha": "6214f466e2a732ba9fd448a6ed22fec6cfa8a2ca",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-31T21:14:09Z",
+      "message": "updates"
+    },
+    {
+      "sha": "fe5da9b8529c0074acfe3a4931bdc142135747b6",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-29T22:33:42Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "9eaa622e2e50faae3c40ca621b44e05149aa84f2",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-29T22:19:26Z",
+      "message": "adding lesson 3"
+    },
+    {
+      "sha": "6fedcbdf1dba314771d6d52593066547de1337da",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-24T17:08:15Z",
+      "message": "minor change to 0"
+    },
+    {
+      "sha": "f68e83822de56d76e8ff0d5bd4253de6f18c2d25",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-24T17:05:29Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d49e90930eb6a733ae736326dc91fa289d114427",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-23T22:47:34Z",
+      "message": "added HW 1"
+    },
+    {
+      "sha": "b84b42b600ed41954356d33228673da4674963cb",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-21T23:52:55Z",
+      "message": "Merge branch 'master' of github.com:fastai/numerical-linear-algebra"
+    },
+    {
+      "sha": "0ca2712c7f0810a08b181e721e175c73623c84d0",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-21T23:52:24Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a5f1acf76e76e3b7e40cfb512baffbbf1ac8fdf5",
+      "author_login": "jph00",
+      "authored_at": "2017-05-21T23:14:07Z",
+      "message": "Update Project_ideas.txt"
+    },
+    {
+      "sha": "0741f11c490b9d15e629b158adf7d068bddff376",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-21T22:35:30Z",
+      "message": "fixed broken link"
+    },
+    {
+      "sha": "d14c6f3e3afcfd62f758c751c50b6ffa834fae2f",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-21T22:23:25Z",
+      "message": "updated nbs 0 and 1"
+    },
+    {
+      "sha": "c8a8dbd0e757e39c367021aaa19253a15af5887a",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-19T18:35:50Z",
+      "message": "updated nbs 0-2"
+    },
+    {
+      "sha": "ad15dc82a1a4594b80161829547f827bb40ecd89",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-18T01:22:04Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "55d414e2aa23d246691ae6e957d3631fc6095e66",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-18T01:20:10Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ff7c90264975e9d3d6c926cd8ab54f03854121bc",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-18T01:18:41Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "9112862be5715acf67f9efa3b17e97b8b5c4240b",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-18T01:05:11Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a273ecb3f28e4adf2c4436928ca5195bd04f3242",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-17T19:17:00Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7c8f12df6fbca716fa6ca10d25e3d492b54f0aa3",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-17T19:07:32Z",
+      "message": "added more files"
+    },
+    {
+      "sha": "aa5f8d6481cb4f6e831442941235aec4c94efd07",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-16T21:12:15Z",
+      "message": "removed broken nb"
+    },
+    {
+      "sha": "2e9d352640baf352db130fb19cf12adb253fa063",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-16T21:11:20Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "0392417a3fdd1d48a34554b28fbc81cbd36ab771",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-16T21:09:45Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e0cec72c9daf583c4f3d2ba170d7766e083ddf15",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-16T21:03:26Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "5178493e3a60ff2c33a0bfcd84063b6f13cd49cb",
+      "author_login": "racheltho",
+      "authored_at": "2017-05-16T20:32:19Z",
+      "message": "Create README.md"
+    },
+    {
+      "sha": "9215ff291be56b29a82ccc2e9f01adeb0da1c364",
+      "author_login": "jph00",
+      "authored_at": "2017-05-16T20:25:45Z",
+      "message": "first commit"
+    }
+  ],
+  "issues": [
+    {
+      "number": 40,
+      "title": "Fix a small issue in numerical-linear-algebra (#12)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-07-12T19:10:31Z",
+      "closed_at": "2026-07-13T12:53:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 39,
+      "title": "Create SECURITY.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-02T15:36:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "Ь",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-16T21:07:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 37,
+      "title": "Update get_feature_names methods to get_feature_names_out",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-07-26T00:59:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 36,
+      "title": "AI study",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-10T03:28:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 35,
+      "title": "Linear Algebra",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-10-03T20:02:40Z",
+      "closed_at": "2024-10-03T20:03:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 34,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-04-16T14:44:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 33,
+      "title": "Fix broken links in Topic Modeling notebook",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-04-08T02:58:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-17T22:31:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 31,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-02T20:23:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-01-23T19:21:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-01-21T08:46:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "#23 Fix typo",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-03-25T12:56:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "Keep-Alive-Actions",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-04T21:58:36Z",
+      "closed_at": "2021-05-04T21:58:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "Keep-Alive-Actions",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-04T21:42:11Z",
+      "closed_at": "2021-05-04T21:42:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "Keep-Alive-Actions",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-04T21:36:18Z",
+      "closed_at": "2021-05-04T21:36:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "Stale link for Text Analysis with Topic Models for the Humanities and Social Sciences",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-07-25T00:02:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "A mistake in Video 3 on Topic Modeling + in Readme.MD",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-03T17:03:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 22,
+      "title": "missing /data folder in notebooks",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-15T22:51:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 21,
+      "title": "I don't have any problem running this on master or v.1.0.57.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-12T10:11:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 20,
+      "title": "Hw 1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-27T06:23:31Z",
+      "closed_at": "2019-09-27T06:24:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 19,
+      "title": "Lesson 1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-11T22:04:06Z",
+      "closed_at": "2019-09-11T22:04:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 18,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-01T15:09:13Z",
+      "closed_at": "2019-05-01T15:09:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17,
+      "title": "enhancement: add title, xlabel and ylabel to the plot.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-02-21T05:47:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 16,
+      "title": "Link 403 Forbidden",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-19T21:38:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "missing requirements.txt file",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-18T06:41:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "Banner",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-01-30T14:47:38Z",
+      "closed_at": "2019-01-30T14:48:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13,
+      "title": "Fix the issue with examples in pcp function",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-01-26T08:04:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 12,
+      "title": "error with examples in primary component pursuit (PCP function)[NB 3]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-01-26T07:20:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 11,
+      "title": "Test ReviewNB with new viz",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-01-18T13:14:15Z",
+      "closed_at": "2019-01-18T13:14:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10,
+      "title": "Video 1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-26T14:20:28Z",
+      "closed_at": "2018-11-26T14:21:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 9,
+      "title": "Background model videos used in notebook 3 don't seem to be available any longer",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-29T11:47:40Z",
+      "closed_at": "2019-07-13T10:27:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 8,
+      "title": "[NB-3] Empty figure and S not defined",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-11T02:29:58Z",
+      "closed_at": "2018-05-11T04:39:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 7,
+      "title": "where is `pool8`?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-10T07:04:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 6,
+      "title": "Add launch in Azure Notebooks button",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-20T19:50:40Z",
+      "closed_at": "2018-05-07T22:01:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 5,
+      "title": "Question mark in notebook name causing issues on Windows.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-07-27T16:59:05Z",
+      "closed_at": "2017-07-27T23:34:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4,
+      "title": "Fixed typo in sequence",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-07-26T12:26:56Z",
+      "closed_at": "2017-07-26T21:56:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3,
+      "title": "Fix the links to Video 1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-07-21T16:38:02Z",
+      "closed_at": "2017-07-21T17:20:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2,
+      "title": "Fix category name",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-07-18T16:12:53Z",
+      "closed_at": "2017-07-18T18:18:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1,
+      "title": "Client used for viewing Jupyternotebook?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-07-18T02:23:58Z",
+      "closed_at": "2017-07-18T02:54:49Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "racheltho",
+      "contributions": 50
+    },
+    {
+      "login": "jph00",
+      "contributions": 2
+    },
+    {
+      "login": "anshbansal",
+      "contributions": 1
+    },
+    {
+      "login": "killthekitten",
+      "contributions": 1
+    },
+    {
+      "login": "thomasif98",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-08-03T09:31:31.121478Z"
+}

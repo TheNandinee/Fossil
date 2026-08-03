@@ -1,0 +1,1907 @@
+{
+  "full_name": "getumbrel/llama-gpt",
+  "owner": "getumbrel",
+  "name": "llama-gpt",
+  "url": "https://github.com/getumbrel/llama-gpt",
+  "description": "A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!",
+  "primary_language": "TypeScript",
+  "topics": [
+    "ai",
+    "chatgpt",
+    "code-llama",
+    "codellama",
+    "gpt",
+    "gpt-4",
+    "gpt4all",
+    "llama",
+    "llama-2",
+    "llama-cpp",
+    "llama2",
+    "llamacpp",
+    "llm",
+    "localai",
+    "openai",
+    "self-hosted"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 10945,
+  "forks": 703,
+  "open_issues": 96,
+  "created_at": "2023-07-22T20:12:54Z",
+  "pushed_at": "2024-04-23T18:56:06Z",
+  "updated_at": "2026-08-03T08:07:35Z",
+  "commits": [
+    {
+      "sha": "43994a365ffb067d58fc36cd363b2114a9037a48",
+      "author_login": "cooljimy84",
+      "authored_at": "2023-10-09T09:50:17Z",
+      "message": "Update README.md with benchmark for 5700G (#87)"
+    },
+    {
+      "sha": "ab4daab90870659e59423c968d96a4394f3574c9",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-27T12:44:38Z",
+      "message": "Add CUDA support for Nvidia GPUs (#72)"
+    },
+    {
+      "sha": "e15e51135863438dc5dfeba3b8e377210f782e95",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-27T11:39:14Z",
+      "message": "Updated default model message in run-mac.sh script to include a list of supported models."
+    },
+    {
+      "sha": "99444f57fad7fa9c85d898be0c6e66dd6e8329c2",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-27T11:37:46Z",
+      "message": "Fix run commands in README.md"
+    },
+    {
+      "sha": "4b66ea3f209278635d5341a7482bb80dbd11dda4",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-27T11:31:18Z",
+      "message": "Add support for Code Llama models (#71)"
+    },
+    {
+      "sha": "8152c85bfa515d3e2b63562e73a78f75fc0b0397",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-26T12:13:29Z",
+      "message": "Add Code Llama to immediate roadmap README.md"
+    },
+    {
+      "sha": "1dbb54937c8d6372e890ba8d42ca4872ecb60002",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-25T03:49:15Z",
+      "message": "Update 70B model with Nous Hermes Llama 2 Chat 70B"
+    },
+    {
+      "sha": "a1fabbe369d7b40a8e6eb39f366330ec35b5a78f",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-23T12:14:36Z",
+      "message": "Re-add GCP c2-standard-16 (70B) benchmark"
+    },
+    {
+      "sha": "90ddc93f90c0f31b9f8b65210c78e3e2d1804f35",
+      "author_login": "gallardorafael",
+      "authored_at": "2023-08-23T12:11:36Z",
+      "message": "Add benchmarks for more GCP c2 instances (#54)"
+    },
+    {
+      "sha": "76b04db75e13dd62b68f18b157054176faffb570",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T21:44:02Z",
+      "message": "Add memlock to 7b docker-compose.yml"
+    },
+    {
+      "sha": "87dfbe265cf88e3da24f404bda9153cf344b4014",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T20:45:56Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7687c5209460ee18903cd2d6e7fb3df72627b4b1",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T20:29:00Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b51037fc22321ec9e0d7974d6b1cb34b80e9f77f",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T20:15:35Z",
+      "message": "Update formatting in README.md"
+    },
+    {
+      "sha": "ee8c4a559d6fab9aa3ea276d9d9e3209656df3cc",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T20:13:55Z",
+      "message": "Fix link in README.md"
+    },
+    {
+      "sha": "7f9c0bb1c0e4562522fd0337922c62ab2fdf64f7",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T20:10:51Z",
+      "message": "Fix link in README.md"
+    },
+    {
+      "sha": "877847fcb3f8bf51f59103ed460f8c6a7498785d",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T20:07:45Z",
+      "message": "Update README.md with banner"
+    },
+    {
+      "sha": "5453f63d34680ab93d439a739be1efc0d1d5f5f4",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T19:18:04Z",
+      "message": "Bugfix: llama-cpp-python check on macOS"
+    },
+    {
+      "sha": "3a4d09b94f62d0ca0090c1e5365e5f74bfb4fd38",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T14:48:11Z",
+      "message": "Update README.md with Table of Contents"
+    },
+    {
+      "sha": "37f046a70dafd5fd621be1714e5957ee275e924a",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T14:39:32Z",
+      "message": "Add Metal (GPU) support for M1/M2 Macs (#45)"
+    },
+    {
+      "sha": "29199836c455d051a78a6fd574729f8631633ac4",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T11:49:22Z",
+      "message": "Expose OpenAI-compatible API server"
+    },
+    {
+      "sha": "5ef7c9ab011b3607b546130a6cac298ac5ee70b2",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T11:47:45Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "632e720a7056c6a5395d54ad4592251890cae09e",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T11:28:55Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "52affdc80b3699b4868001ceac3c6e8362320f4e",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T11:28:14Z",
+      "message": "Update roadmap in README.md"
+    },
+    {
+      "sha": "aaef05b05caa200d9b1ba96be0b062e7d16442ff",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T11:23:03Z",
+      "message": "Retry curl with TLS 1.2"
+    },
+    {
+      "sha": "e06587386d6a9b8edeba6c061c70f6a0e8f396b2",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T11:15:20Z",
+      "message": "Install curl only if we need to download the model"
+    },
+    {
+      "sha": "9c0e62e10ef1a79114afe1e4454f073a4e2cca6a",
+      "author_login": "MaikTech",
+      "authored_at": "2023-08-21T11:11:06Z",
+      "message": "Annotate and logically arrange run.sh (#37)"
+    },
+    {
+      "sha": "07a9fe0f3a19da41dedbfe973eb93fb70c3fa789",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T11:08:36Z",
+      "message": "Increase UI container timeouts considering model download"
+    },
+    {
+      "sha": "8c232743764f67e168b53595792790ca6ca9c273",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T10:50:14Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7324a62fe59e44ae334f584573dc284cf1affb70",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-21T10:46:13Z",
+      "message": "Commit models dir"
+    },
+    {
+      "sha": "4dc2369fcf945c6ac39395d7c5e9d950854ba6d8",
+      "author_login": "edgar971",
+      "authored_at": "2023-08-21T10:43:06Z",
+      "message": "Move models out of the Docker image to a volume (#19)"
+    },
+    {
+      "sha": "aa8b266466306050d74588b1044803abc30407e9",
+      "author_login": "jasperblues",
+      "authored_at": "2023-08-21T10:33:49Z",
+      "message": "Add 70B GCP e2-standard-16 benchmark to README (#36)"
+    },
+    {
+      "sha": "cf8f22455da759fbb52c9924aeceb4c710ab8ebd",
+      "author_login": "mgenov",
+      "authored_at": "2023-08-21T10:31:28Z",
+      "message": "Add benchmark for 70B model on M2 Max 96GB in README (#30)"
+    },
+    {
+      "sha": "297e81d0dfde9ff6c881e15e1ae987df05cea334",
+      "author_login": "eltociear",
+      "authored_at": "2023-08-21T10:29:56Z",
+      "message": "Update \"Save & Submit\" japanese translation (#31)"
+    },
+    {
+      "sha": "3553e20a3d4f8605040e4edab76f8094cb545da3",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-18T16:56:43Z",
+      "message": "Add Kubernetes deployment instructions to README.md"
+    },
+    {
+      "sha": "ca6ec9b37069f2d3f76b67116f3bf3e586b7e60a",
+      "author_login": "todaywasawesome",
+      "authored_at": "2023-08-18T16:48:24Z",
+      "message": "Add Kubernetes support (#18)"
+    },
+    {
+      "sha": "bd50076aae417af9d557eca448e688c8d736712c",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-18T15:51:46Z",
+      "message": "Update README.md with careers CTA"
+    },
+    {
+      "sha": "31005ca99234fb04da2480704b06b0b204c50ba2",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-18T15:36:34Z",
+      "message": "Update roadmap with WIP in README.md"
+    },
+    {
+      "sha": "9d086c2e28f6580b8229081569e94bbae26a83d3",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-17T20:11:42Z",
+      "message": "Lock 13B and 70B models in memory for faster interference"
+    },
+    {
+      "sha": "339cf66be6264b5bbfdd846a48dca82ca901f9c7",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-17T17:41:04Z",
+      "message": "Add .gitattributes to enforce consistent line endings"
+    },
+    {
+      "sha": "2a24cb9e600ead49e2ef616d7f785eaf0613dc0b",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-17T17:18:19Z",
+      "message": "Set 70B's GQA to 8"
+    },
+    {
+      "sha": "bc1300fba5fa242db9a60c465154d02bec6165f4",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-17T16:28:55Z",
+      "message": "Update docker service names for different model APIs"
+    },
+    {
+      "sha": "c9cfd24234a0ecd058dfc3cee0ff4f39ad192030",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-16T22:56:59Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "131ef302f1d9bab9c8c21b48bc1e3959321a6fa7",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-16T22:44:13Z",
+      "message": "Update README.md with benchmarks and contribution guide"
+    },
+    {
+      "sha": "bb8e5fccaa7146ead7d0c7f657046e7af25ed4b5",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-16T21:17:47Z",
+      "message": "Add restart on-failure policy"
+    },
+    {
+      "sha": "70eb9e01768194bd162c143692a31aa4fb47028e",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-16T21:14:13Z",
+      "message": "Build 7B model api instead of pulling"
+    },
+    {
+      "sha": "c76225a6fc26a000fc07b074223a69b0d65b7bcf",
+      "author_login": "lukechilds",
+      "authored_at": "2023-08-16T16:58:20Z",
+      "message": "Fix images"
+    },
+    {
+      "sha": "007119b067169e6bd123f0a1243a9a03e97434e2",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-16T14:49:02Z",
+      "message": "Update video in README.md"
+    },
+    {
+      "sha": "f8211b4305142499ef2d3bfd716fbf3eb9af1164",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-16T14:46:53Z",
+      "message": "Update app store badge in README.md"
+    },
+    {
+      "sha": "b7a58fa6b47e4c8e950d223e654c0ed701aa5815",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-16T14:17:03Z",
+      "message": "Update demo video in README.md"
+    },
+    {
+      "sha": "e145cf024922955f1be78ad6b8a85c55fe1c3a14",
+      "author_login": "lukechilds",
+      "authored_at": "2023-08-16T11:32:43Z",
+      "message": "Build images on tag"
+    },
+    {
+      "sha": "59f51d7881e3ba6cd203f3dbf23bb84363cce83c",
+      "author_login": "lukechilds",
+      "authored_at": "2023-08-16T08:52:52Z",
+      "message": "Fix signal handling"
+    },
+    {
+      "sha": "067c68b7d1679a30d138be76d82879f792bfef09",
+      "author_login": "nmfretz",
+      "authored_at": "2023-08-16T04:40:21Z",
+      "message": "credit ggerganov in README"
+    },
+    {
+      "sha": "89160665415ee423057a3efb09c65d062f70d30e",
+      "author_login": "nmfretz",
+      "authored_at": "2023-08-15T22:42:26Z",
+      "message": "add fallback for copying to clipboard over http (#1)"
+    },
+    {
+      "sha": "b45347173e46078e889c00adeb2c2313c74802d3",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-15T21:59:40Z",
+      "message": "Disable 13B docker builds, add images to docker-compose.yml"
+    },
+    {
+      "sha": "86ab744cfbeab2288746a0cead6d1bfdefa5a5f4",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-15T21:44:58Z",
+      "message": "Comment out docker images"
+    },
+    {
+      "sha": "9e87d8cc8463e2171a393165640beea18a82e4e5",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-15T21:38:23Z",
+      "message": "Fix GitHub action"
+    },
+    {
+      "sha": "680ff5144f64c202f884127c82fdfaf9e497834c",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-15T18:27:51Z",
+      "message": "Increase api ping timeout to 10 min"
+    },
+    {
+      "sha": "8907e13a3e1e13eb59fe4a14e626f3ee9637e30d",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-15T17:32:08Z",
+      "message": "Comment out 70B image builds"
+    },
+    {
+      "sha": "4d3479e480c10089ad0915a6b89604de2650737f",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-15T16:54:33Z",
+      "message": "Update icon"
+    },
+    {
+      "sha": "b0b059a05a6cf14b6dbee540ea7cd0401d817dcf",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-15T16:42:08Z",
+      "message": "Wait for api to be available before starting UI"
+    },
+    {
+      "sha": "55a5fbf3b0971e293cfb64c0535f392079cd7508",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-15T16:16:27Z",
+      "message": "Fix docker image names"
+    },
+    {
+      "sha": "ee97955bb7650cd4a1d85f93e0adadb032598366",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-15T16:11:39Z",
+      "message": "Add support for 13B and 70B models, workflow, readme"
+    },
+    {
+      "sha": "75cd9d075f1dc527ed29de8dfe115cd4bbcf0d3d",
+      "author_login": "mayankchhabra",
+      "authored_at": "2023-08-15T13:53:37Z",
+      "message": "Initialize the project to use self-hosted Llama model"
+    },
+    {
+      "sha": "fa3f6e93bbe0d1ff9f208ddefae6fc7dfb738dc7",
+      "author_login": "anthonypuppo",
+      "authored_at": "2023-04-20T14:33:28Z",
+      "message": "Add blinking typing cursing (#619)"
+    },
+    {
+      "sha": "f849a2e9242351ce3833d2e8d14767be5d15a2c1",
+      "author_login": "kyyhkynen",
+      "authored_at": "2023-04-20T14:28:29Z",
+      "message": "add Finnish translations (#618)"
+    },
+    {
+      "sha": "063ce50319964bfe5dbd25c077e4d5faef20d459",
+      "author_login": "mckaywrigley",
+      "authored_at": "2023-04-19T21:00:11Z",
+      "message": "force update"
+    },
+    {
+      "sha": "718dc6432a1cc1049cea090226766a33bf695ba1",
+      "author_login": "mckaywrigley",
+      "authored_at": "2023-04-19T20:51:35Z",
+      "message": "FIX IMPORT"
+    },
+    {
+      "sha": "ab9f108a57415e8d2a66e979a3af71cd66259b6a",
+      "author_login": "mckaywrigley",
+      "authored_at": "2023-04-19T20:37:18Z",
+      "message": "fix prompt selection"
+    },
+    {
+      "sha": "c7be45587febb524f69ac331ca16947772b3f07c",
+      "author_login": "mckaywrigley",
+      "authored_at": "2023-04-19T14:45:50Z",
+      "message": "readme update"
+    },
+    {
+      "sha": "c959264f9387400e4b6b31ac818e012335ab7e50",
+      "author_login": "anthonypuppo",
+      "authored_at": "2023-04-19T14:39:19Z",
+      "message": "Performance (#602)"
+    },
+    {
+      "sha": "24068ea5aa16af04fff1d0b6b53679d60562aedb",
+      "author_login": "bigsk1",
+      "authored_at": "2023-04-19T14:35:18Z",
+      "message": "Create Security.md (#607)"
+    },
+    {
+      "sha": "dcb2810d4692d14d7995672f42f7673d4e0abb66",
+      "author_login": "shemarlindie",
+      "authored_at": "2023-04-19T14:34:27Z",
+      "message": "fix: optimize mobile layout (#606)"
+    },
+    {
+      "sha": "2208e4dfc754bcd799a42bfddb51e54a4fc28d16",
+      "author_login": "ryanhex53",
+      "authored_at": "2023-04-19T14:32:29Z",
+      "message": "more chinese translation. (#609)"
+    },
+    {
+      "sha": "3685378ab82c0730c75c2d6c249347f73f455e90",
+      "author_login": "mckaywrigley",
+      "authored_at": "2023-04-19T14:31:12Z",
+      "message": "change empty msg"
+    },
+    {
+      "sha": "971cde5310836084332552a7e4fec1fc2ad1465b",
+      "author_login": "mckaywrigley",
+      "authored_at": "2023-04-18T22:05:44Z",
+      "message": "sort folders alphabetically"
+    },
+    {
+      "sha": "5725024d807da0a71dded041e0d2e5784266ad57",
+      "author_login": "mckaywrigley",
+      "authored_at": "2023-04-18T22:00:20Z",
+      "message": "import/export add instead of replace (#601)"
+    },
+    {
+      "sha": "b964188d0b641c39539aac7ec69efede3e65b4aa",
+      "author_login": "borborborja",
+      "authored_at": "2023-04-18T15:10:47Z",
+      "message": "add catalan language (#598)"
+    },
+    {
+      "sha": "236b6561483cd1a4cad76ca0049e40dd777296c8",
+      "author_login": "mckaywrigley",
+      "authored_at": "2023-04-18T14:37:45Z",
+      "message": "Made the Model Name Bar Sticky at the top of the Chat Window (#597)"
+    },
+    {
+      "sha": "fda784028d912acee11eaf833b6cc88b97f70c48",
+      "author_login": "mckaywrigley",
+      "authored_at": "2023-04-18T14:35:31Z",
+      "message": "Add temp display (#596)"
+    },
+    {
+      "sha": "2aaebfec3fd1eee8b008f56dee8641564d089805",
+      "author_login": "dotneet",
+      "authored_at": "2023-04-18T14:32:04Z",
+      "message": "chore: improve Japanese language locales (#554)"
+    },
+    {
+      "sha": "1a9a7dcad03d178f6119a44cf8b6aa40ac5326df",
+      "author_login": "mckaywrigley",
+      "authored_at": "2023-04-18T14:29:30Z",
+      "message": "Merge branch 'main' of https://github.com/mckaywrigley/chatbot-ui-pro"
+    },
+    {
+      "sha": "856ba12f19725edbaeab5c924fa62f85e71e00d2",
+      "author_login": "mckaywrigley",
+      "authored_at": "2023-04-18T14:29:29Z",
+      "message": "readme update"
+    },
+    {
+      "sha": "00f6189a42a7878d8b6aa7ae35e70d173ac180a5",
+      "author_login": "santi4o",
+      "authored_at": "2023-04-18T14:28:19Z",
+      "message": "fix: sroll down button overlaping chat input (#564)"
+    },
+    {
+      "sha": "51fa461965cede28788569a9310cd38254d9db7d",
+      "author_login": "dotneet",
+      "authored_at": "2023-04-18T14:25:28Z",
+      "message": "fix: temperature font color (#556)"
+    },
+    {
+      "sha": "03afa007324fbafc35e0e766643d7b66e39d26eb",
+      "author_login": "dotneet",
+      "authored_at": "2023-04-18T14:24:47Z",
+      "message": "chore: use last conversation temperature (#568)"
+    },
+    {
+      "sha": "ba1dacb89927eff232a0f8901d34612ad2495886",
+      "author_login": "dotneet",
+      "authored_at": "2023-04-18T14:23:42Z",
+      "message": "feat: settings dialog and moved theme settings to dialog from sidebar (#570)"
+    },
+    {
+      "sha": "836c24680b10e3014ca30c49f5105f796e830864",
+      "author_login": "shemarlindie",
+      "authored_at": "2023-04-18T14:21:43Z",
+      "message": "fix: chat messages disappear on edit (#575)"
+    },
+    {
+      "sha": "5f0d1cb7caaf15b51c420c083ffc31c5b385d92b",
+      "author_login": "mirkan1",
+      "authored_at": "2023-04-18T14:18:24Z",
+      "message": "Turkish language implementation for i18n (#576)"
+    },
+    {
+      "sha": "9e4c5ca4ff9b1c6b8eab24a1c7624cd9624f5d83",
+      "author_login": "KhanKudo",
+      "authored_at": "2023-04-18T14:18:08Z",
+      "message": "Fixed: site cannot open if imported json invalid (#579)"
+    },
+    {
+      "sha": "1146f9a86ecfc7fb75ca705ce86ccba8b1a597cd",
+      "author_login": "borborborja",
+      "authored_at": "2023-04-18T14:11:39Z",
+      "message": "New language, catalan (#587)"
+    },
+    {
+      "sha": "862f74a33246046a44c091aa1ebe3a11a02cbce3",
+      "author_login": "liby",
+      "authored_at": "2023-04-18T14:11:13Z",
+      "message": "Fix message input not updating on chat list switch (#590)"
+    },
+    {
+      "sha": "cb922d9dc6d3d51bad0d6af34a9773e9b6a87cf9",
+      "author_login": "MalTarDesigns",
+      "authored_at": "2023-04-18T14:10:12Z",
+      "message": "Fix search box disappearing in Sidebar component (#592)"
+    },
+    {
+      "sha": "4f672b926ac3ab862ca2959c8f28c7f2ba66f9a0",
+      "author_login": "mckaywrigley",
+      "authored_at": "2023-04-18T14:06:40Z",
+      "message": "update readme"
+    },
+    {
+      "sha": "7c259b98cbad3624ca75895fddbf50c674d06ab1",
+      "author_login": "adiestel",
+      "authored_at": "2023-04-14T07:13:52Z",
+      "message": "Fix: Promptbar initializes in open state for Mobile (#542)"
+    },
+    {
+      "sha": "f01d0c51d6ad937539b2223f4997efd497778155",
+      "author_login": "clevermiraz",
+      "authored_at": "2023-04-14T07:12:49Z",
+      "message": "Update Bangla Translation (#546)"
+    },
+    {
+      "sha": "7ec68caff0d0e53cea9d56721d38e659d206c755",
+      "author_login": "chrisociepa",
+      "authored_at": "2023-04-13T14:08:09Z",
+      "message": "Add Polish translation (#532)"
+    },
+    {
+      "sha": "183a74d7f7acd4a50de1c795baf54824acb84535",
+      "author_login": "adiestel",
+      "authored_at": "2023-04-13T11:09:53Z",
+      "message": "Fix for DEFAULT_SYSTEM_PROMPT (#510)"
+    },
+    {
+      "sha": "ea1d09244acc3c94a87a3658b1ee271542c6fecf",
+      "author_login": "ivanfioravanti",
+      "authored_at": "2023-04-13T11:09:03Z",
+      "message": "Feature request: Adding temperature as parameter (#513)"
+    },
+    {
+      "sha": "d1eb6ee29bf89f6f0e15c22be71e7c44ac0bd7cf",
+      "author_login": "mckaywrigley",
+      "authored_at": "2023-04-13T11:01:27Z",
+      "message": "delete message (#531)"
+    },
+    {
+      "sha": "f61e91d07f240c227aaff642ffb4127b64fa460f",
+      "author_login": "SyedMuzamilM",
+      "authored_at": "2023-04-13T10:58:13Z",
+      "message": "fix: modal scrolling on small devices (#527)"
+    }
+  ],
+  "issues": [
+    {
+      "number": 169,
+      "title": "Update run and read",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-03T22:51:16Z",
+      "closed_at": "2025-07-03T22:51:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 168,
+      "title": "Cant start run.sh \"unknown shorthand flag: 'f' in -f\"",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-02-18T08:24:05Z",
+      "closed_at": "2025-03-06T21:46:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 167,
+      "title": "Remove erroneous make command from cuda run.sh",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-01-29T15:39:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 166,
+      "title": "Update run.sh",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-11-02T13:29:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 165,
+      "title": "Add docker-compose check",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-10-13T23:40:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 164,
+      "title": "Podman support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-07T07:28:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 163,
+      "title": "cude issue : cant get  this to work ./run.sh --model 7b --with-cuda",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-15T23:44:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 162,
+      "title": "Some Python related errors resulting in \"Host [llama-gpt-api:8000] not yet available...\" and exit code of 1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-23T11:48:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 161,
+      "title": "Intel CPU support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-04T16:01:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 160,
+      "title": "models download",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-05-11T17:22:30Z",
+      "closed_at": "2024-05-11T19:16:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 159,
+      "title": "coroutine error StopIteration if the AI response is empty",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-07T17:21:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 158,
+      "title": "Unable to increase max token size ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-07T15:53:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 157,
+      "title": "[FEATURE REQUEST] Support for NPU hardware acceleration",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-03T21:12:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 156,
+      "title": "Added Llama 3 8B support",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-04-23T18:56:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 155,
+      "title": "llama 3 support",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-04-19T11:54:09Z",
+      "closed_at": "2024-08-03T17:45:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 154,
+      "title": "Add API Key restriction so the API is not always OPEN",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-18T14:33:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 153,
+      "title": "Error when deploying in Kubernetes: Model path does not exist",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-24T16:01:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 152,
+      "title": "Way to change model on UmbrelOS",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-03T22:41:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 151,
+      "title": "Can't run on Linux",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-24T15:03:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 150,
+      "title": "Can't use GPU: could not select device driver \"nvidia\" with capabilities: [[gpu]]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-24T14:44:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 149,
+      "title": "Llama GPT extremely slow on Umbrel Home",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-23T06:07:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 148,
+      "title": "Is there the ability to swap the language to answer?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-20T11:19:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 147,
+      "title": "Support Multi-part .bin files?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-17T02:43:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 146,
+      "title": "Not enough space",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-15T09:21:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 145,
+      "title": "IPv6 support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-11T22:45:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 144,
+      "title": "Errors thrown when trying to start llama-gpt api using docker-compose-gguf.yml ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-30T18:07:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 143,
+      "title": "CUDA Support for Kubernetes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-22T14:49:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 142,
+      "title": "docker compose: Permission denied running /api/run.sh",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-12-21T13:49:30Z",
+      "closed_at": "2023-12-21T14:01:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 141,
+      "title": "Installation on windows - please elaborate more",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-20T06:37:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 140,
+      "title": "Update README.md to include OCP instructions",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-12-18T11:46:56Z",
+      "closed_at": "2025-12-09T17:37:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 139,
+      "title": "Brackets in run.sh",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-16T04:42:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 138,
+      "title": "Only works with cuda the 7b model",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-16T04:39:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 137,
+      "title": "airgapped npm issues in ui container",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-15T20:09:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 136,
+      "title": "Are there any plans for load custom models?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-15T01:33:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 135,
+      "title": "Infinite loop \"No such file run.sh\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-12T21:22:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 134,
+      "title": "Fresh Install - API Never Starts",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-10T12:41:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 133,
+      "title": "\tFixed issue where code-7b and other parameter sets were failing to load. Temp fix please review.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-12-07T20:22:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 132,
+      "title": "nvidia-container-cli error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-17T15:16:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 131,
+      "title": "Update llama_cpp_python to fix issues in mac",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-11-16T16:44:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 130,
+      "title": "Running does not work on MacOS with homebrew conda",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-13T10:08:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 129,
+      "title": "Unable to build CUDA-enabled image, missing Makefile",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-10T21:17:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 128,
+      "title": "patch shebang to support more platforms",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-11-05T16:24:05Z",
+      "closed_at": "2026-02-08T22:49:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 127,
+      "title": "Docker compose yields `http: invalid host header`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-04T23:02:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 126,
+      "title": "[Question] Is it possible to add long term memory",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-04T16:27:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 125,
+      "title": "Import documents",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-11-04T15:21:58Z",
+      "closed_at": "2023-11-04T16:29:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 124,
+      "title": "fixed issues with dockerfile, updated cpp python to latest, included …",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-10-24T13:11:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 123,
+      "title": "Too heavy for pi 4B",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-24T09:07:32Z",
+      "closed_at": "2023-11-20T01:05:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 122,
+      "title": "Please add instructions on how to connect to this AI from FlowiseAI",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-23T18:55:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 121,
+      "title": "Error when running model other than 7b",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-21T17:40:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 120,
+      "title": "Fix source function in the macOS install script",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-18T18:33:22Z",
+      "closed_at": "2023-12-23T10:15:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 119,
+      "title": "Error at win11+wsl2: gguf_init_from_file: invalid magic number 67676a74; error loading model",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-18T00:02:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 118,
+      "title": "Add support for starting & changing models through UI",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-10-16T14:01:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 117,
+      "title": "Error when running 7B model on WSL2 & Win11",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-14T19:50:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 116,
+      "title": "Please add Intel A770 support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-12T14:58:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 115,
+      "title": "GPU Usage",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-09T20:59:25Z",
+      "closed_at": "2023-10-16T00:26:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 114,
+      "title": "feat: add amd support",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-10-09T12:05:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 113,
+      "title": "/v1/chat/completions max_token should accept null",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-08T08:47:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 112,
+      "title": "Unable to build Docker due to network timeout",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-07T13:23:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 111,
+      "title": "docker containers exit codes 0 and 139",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-05T06:23:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 110,
+      "title": "Trap invalid opcode",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-02T08:15:21Z",
+      "closed_at": "2023-10-06T16:52:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 109,
+      "title": "Unable to run code-34b ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-26T06:22:49Z",
+      "closed_at": "2023-10-15T16:00:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 108,
+      "title": "🐞 Bug Fixes: docker-compose cmd mistake",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-25T11:27:52Z",
+      "closed_at": "2023-10-09T09:48:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 107,
+      "title": "Performance Tweaking - Docker & WSL2",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-24T01:57:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 106,
+      "title": "./run.sh not working.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-19T05:30:40Z",
+      "closed_at": "2023-09-26T06:56:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 105,
+      "title": "Only parts of model use GPU acceleration",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-16T21:23:27Z",
+      "closed_at": "2023-09-17T00:11:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 104,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-09-16T00:28:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 103,
+      "title": "Port 3000 taken",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-12T20:43:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 102,
+      "title": "Question about hardware requirements",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-11T18:17:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 101,
+      "title": "Question: Can Llama GPT (docker) use multiple GPUs?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-11T17:25:36Z",
+      "closed_at": "2023-09-27T19:32:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 100,
+      "title": "Date and time is wrong",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-10T15:51:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 99,
+      "title": "Cant limit cpu usage",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-09T11:13:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 98,
+      "title": "Unable to run code-7b",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-08T10:59:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 97,
+      "title": "Updated README.md for Docker + Linux users",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-07T11:04:24Z",
+      "closed_at": "2025-05-24T11:50:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 96,
+      "title": "Please support cuda 12.0",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-06T14:49:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 95,
+      "title": "Code Llama 7b does not work on MacBook M1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-06T05:16:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 94,
+      "title": "Add mechanism to detect incomplete model download",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-05T19:24:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 93,
+      "title": "Multiuser support",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-02T17:13:44Z",
+      "closed_at": "2023-09-15T11:19:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 92,
+      "title": "Assertion Error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-02T16:30:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 91,
+      "title": "persistent mlock erro",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-02T14:48:34Z",
+      "closed_at": "2023-09-02T14:49:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 90,
+      "title": "AI超元域多AI集合软件",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-01T08:00:55Z",
+      "closed_at": "2023-09-01T14:56:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 89,
+      "title": "Support file upload ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-01T05:47:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 88,
+      "title": "code-13b ggml-metal issue - macOS M1 Pro",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-08-31T17:01:48Z",
+      "closed_at": "2023-09-04T13:37:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 87,
+      "title": "Update README.md for benchmark for 5700G",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-31T15:55:11Z",
+      "closed_at": "2023-10-09T09:50:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 86,
+      "title": "Stuck on '[Host [llama-gpt-api-cuda-ggml:8000] not yet available...'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-08-31T15:42:51Z",
+      "closed_at": "2023-10-05T20:10:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "70b and 13b do not work (kubernetes install)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-31T01:25:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "Mine",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-30T21:23:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "Error running with CUDA",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-30T08:38:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 82,
+      "title": "win11 + WSL2",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-30T07:46:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 81,
+      "title": "Automatically choose docker compose run method",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-29T14:53:17Z",
+      "closed_at": "2023-08-31T04:58:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "High CPU usage and low GPU usage",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-08-29T05:16:01Z",
+      "closed_at": "2023-10-16T03:51:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "[Feature Request] Add AMD ROCm Support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-29T01:13:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "feature request - WizardCoder-Python-34B-V1.0",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-28T16:18:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "[Feature Request] Support InternLM",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-28T13:11:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "Step RUN npm ci - error ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-28T10:02:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "Why is it so slow?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-28T07:49:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "./run.sh --model 7b",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-28T00:02:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "M2 macbook air  Internal Error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-27T19:01:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "Add CUDA support for Nvidia GPUs",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-27T12:32:48Z",
+      "closed_at": "2023-08-27T12:44:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "Add Code Llama support",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-27T11:29:36Z",
+      "closed_at": "2023-08-27T11:31:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "Helm Setup",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-08-27T07:07:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "mckaywrigley",
+      "contributions": 130
+    },
+    {
+      "login": "mayankchhabra",
+      "contributions": 50
+    },
+    {
+      "login": "thomasleveil",
+      "contributions": 15
+    },
+    {
+      "login": "nauxliu",
+      "contributions": 9
+    },
+    {
+      "login": "bcullman",
+      "contributions": 8
+    },
+    {
+      "login": "SyedMuzamilM",
+      "contributions": 7
+    },
+    {
+      "login": "Chanzhaoyu",
+      "contributions": 5
+    },
+    {
+      "login": "dotneet",
+      "contributions": 5
+    },
+    {
+      "login": "lukechilds",
+      "contributions": 3
+    },
+    {
+      "login": "dasunNimantha",
+      "contributions": 3
+    },
+    {
+      "login": "liby",
+      "contributions": 3
+    },
+    {
+      "login": "alanpog",
+      "contributions": 3
+    },
+    {
+      "login": "riande",
+      "contributions": 2
+    },
+    {
+      "login": "nmfretz",
+      "contributions": 2
+    },
+    {
+      "login": "spctechdev",
+      "contributions": 2
+    },
+    {
+      "login": "ryanhex53",
+      "contributions": 2
+    },
+    {
+      "login": "oznav2",
+      "contributions": 2
+    },
+    {
+      "login": "itbm",
+      "contributions": 2
+    },
+    {
+      "login": "hyena459",
+      "contributions": 2
+    },
+    {
+      "login": "borborborja",
+      "contributions": 2
+    },
+    {
+      "login": "srsholmes",
+      "contributions": 2
+    },
+    {
+      "login": "shemarlindie",
+      "contributions": 2
+    },
+    {
+      "login": "Jdban",
+      "contributions": 2
+    },
+    {
+      "login": "ernestobarrera",
+      "contributions": 2
+    },
+    {
+      "login": "CH4R4F",
+      "contributions": 2
+    },
+    {
+      "login": "aweshchoudhary",
+      "contributions": 2
+    },
+    {
+      "login": "adiestel",
+      "contributions": 2
+    },
+    {
+      "login": "anthonypuppo",
+      "contributions": 2
+    },
+    {
+      "login": "jony4",
+      "contributions": 1
+    },
+    {
+      "login": "gallardorafael",
+      "contributions": 1
+    },
+    {
+      "login": "chinleez",
+      "contributions": 1
+    },
+    {
+      "login": "SeiyaTakahashi-R",
+      "contributions": 1
+    },
+    {
+      "login": "MKTHINGS",
+      "contributions": 1
+    },
+    {
+      "login": "DjTer3a",
+      "contributions": 1
+    },
+    {
+      "login": "thecrazybob",
+      "contributions": 1
+    },
+    {
+      "login": "mgenov",
+      "contributions": 1
+    },
+    {
+      "login": "clevermiraz",
+      "contributions": 1
+    },
+    {
+      "login": "MatriQ",
+      "contributions": 1
+    },
+    {
+      "login": "matias-casal",
+      "contributions": 1
+    },
+    {
+      "login": "MaikTech",
+      "contributions": 1
+    },
+    {
+      "login": "KhanKudo",
+      "contributions": 1
+    },
+    {
+      "login": "k11q",
+      "contributions": 1
+    },
+    {
+      "login": "Jungley8",
+      "contributions": 1
+    },
+    {
+      "login": "umarhadi",
+      "contributions": 1
+    },
+    {
+      "login": "p-toni",
+      "contributions": 1
+    },
+    {
+      "login": "tatsuiman",
+      "contributions": 1
+    },
+    {
+      "login": "patanjalikr13",
+      "contributions": 1
+    },
+    {
+      "login": "mirkan1",
+      "contributions": 1
+    },
+    {
+      "login": "kyyhkynen",
+      "contributions": 1
+    },
+    {
+      "login": "logycon",
+      "contributions": 1
+    },
+    {
+      "login": "asolpshinning",
+      "contributions": 1
+    },
+    {
+      "login": "angular-moon",
+      "contributions": 1
+    },
+    {
+      "login": "jean-jacket",
+      "contributions": 1
+    },
+    {
+      "login": "tulaseerao",
+      "contributions": 1
+    },
+    {
+      "login": "bigsk1",
+      "contributions": 1
+    },
+    {
+      "login": "superman66",
+      "contributions": 1
+    },
+    {
+      "login": "sonnylazuardi",
+      "contributions": 1
+    },
+    {
+      "login": "regisrex",
+      "contributions": 1
+    },
+    {
+      "login": "rudolfolah",
+      "contributions": 1
+    },
+    {
+      "login": "todaywasawesome",
+      "contributions": 1
+    },
+    {
+      "login": "colindotfun",
+      "contributions": 1
+    },
+    {
+      "login": "Klaudioz",
+      "contributions": 1
+    },
+    {
+      "login": "chrisociepa",
+      "contributions": 1
+    },
+    {
+      "login": "burke",
+      "contributions": 1
+    },
+    {
+      "login": "bruce-shi",
+      "contributions": 1
+    },
+    {
+      "login": "brijeshb42",
+      "contributions": 1
+    },
+    {
+      "login": "brianjckim",
+      "contributions": 1
+    },
+    {
+      "login": "aekeus",
+      "contributions": 1
+    },
+    {
+      "login": "Anerco",
+      "contributions": 1
+    },
+    {
+      "login": "fox91",
+      "contributions": 1
+    },
+    {
+      "login": "santi4o",
+      "contributions": 1
+    },
+    {
+      "login": "aesadde",
+      "contributions": 1
+    },
+    {
+      "login": "akashkriplani",
+      "contributions": 1
+    },
+    {
+      "login": "aaliboyev",
+      "contributions": 1
+    },
+    {
+      "login": "nahid18",
+      "contributions": 1
+    },
+    {
+      "login": "pujux",
+      "contributions": 1
+    },
+    {
+      "login": "jiayao",
+      "contributions": 1
+    },
+    {
+      "login": "jpzhangvincent",
+      "contributions": 1
+    },
+    {
+      "login": "MalTarDesigns",
+      "contributions": 1
+    },
+    {
+      "login": "jasperblues",
+      "contributions": 1
+    },
+    {
+      "login": "cooljimy84",
+      "contributions": 1
+    },
+    {
+      "login": "thejackwu",
+      "contributions": 1
+    },
+    {
+      "login": "ivanfioravanti",
+      "contributions": 1
+    },
+    {
+      "login": "eltociear",
+      "contributions": 1
+    },
+    {
+      "login": "HaithamLeo",
+      "contributions": 1
+    },
+    {
+      "login": "ethereumdegen",
+      "contributions": 1
+    },
+    {
+      "login": "edgar971",
+      "contributions": 1
+    },
+    {
+      "login": "dornfeld-capital",
+      "contributions": 1
+    },
+    {
+      "login": "dominiksipowicz",
+      "contributions": 1
+    },
+    {
+      "login": "DannyAziz",
+      "contributions": 1
+    },
+    {
+      "login": "danielkhoo",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-08-03T09:31:33.066421Z"
+}
