@@ -1,0 +1,696 @@
+{
+  "full_name": "jamiebuilds/itsy-bitsy-data-structures",
+  "owner": "jamiebuilds",
+  "name": "itsy-bitsy-data-structures",
+  "url": "https://github.com/jamiebuilds/itsy-bitsy-data-structures",
+  "description": ":european_castle: All the things you didn't know you wanted to know about data structures",
+  "primary_language": "JavaScript",
+  "topics": [],
+  "license_spdx": "CC-BY-4.0",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 8575,
+  "forks": 597,
+  "open_issues": 14,
+  "created_at": "2016-07-22T01:07:28Z",
+  "pushed_at": "2021-02-13T08:05:44Z",
+  "updated_at": "2026-07-27T04:42:52Z",
+  "commits": [
+    {
+      "sha": "954e7d2faf2dbd5c8710aa03812f10f4bf0e3abf",
+      "author_login": "utkarshbhatt12",
+      "authored_at": "2018-04-08T11:17:25Z",
+      "message": "fix grammar and spelling in some places"
+    },
+    {
+      "sha": "213cfabdcce556654ace586d0ebcfea9371560a2",
+      "author_login": "JuStTheDev",
+      "authored_at": "2018-04-05T11:32:58Z",
+      "message": "Update itsy-bitsy-data-structures.js"
+    },
+    {
+      "sha": "da44bf5f4863b81d35c64c88ebe276ed8ccf8081",
+      "author_login": "BarkinMad",
+      "authored_at": "2017-07-20T12:48:45Z",
+      "message": "Fixed typo. (#47)"
+    },
+    {
+      "sha": "f1d6faa5c6982cd59c33fa623ce19828393c3d0e",
+      "author_login": "man-shar",
+      "authored_at": "2017-05-05T22:39:01Z",
+      "message": "Minor comment change in LinkedList section to ease understanding (#45)"
+    },
+    {
+      "sha": "d0ca769074e01af818833c5634d33235d89fbef7",
+      "author_login": "jamiebuilds",
+      "authored_at": "2016-12-31T21:23:13Z",
+      "message": "Update Image"
+    },
+    {
+      "sha": "6d5c19d7437b6590c263f91ef50823a51966fc58",
+      "author_login": "jamiebuilds",
+      "authored_at": "2016-12-31T20:40:05Z",
+      "message": "1.0.0"
+    },
+    {
+      "sha": "5f4cbef8cbbd6b29b09f5f4d87ff67e81ee40a6e",
+      "author_login": "jamiebuilds",
+      "authored_at": "2016-12-31T20:39:42Z",
+      "message": "Prepare for greatness"
+    },
+    {
+      "sha": "e04ce8546955b47cbc8b1d386afd0f8a2150ef3a",
+      "author_login": "jamiebuilds",
+      "authored_at": "2016-11-25T03:23:30Z",
+      "message": "Update itsy-bitsy-data-structures.js"
+    },
+    {
+      "sha": "69955608de230c51d1dfe467cc433d04c7da5d58",
+      "author_login": null,
+      "authored_at": "2016-10-12T11:02:09Z",
+      "message": "LL should error out on empty list remove (#42)"
+    },
+    {
+      "sha": "6f9c571bcca9e2d4cab642a98fbb7122269091e8",
+      "author_login": "jamiebuilds",
+      "authored_at": "2016-09-19T23:45:33Z",
+      "message": "Update itsy-bitsy-data-structures.js"
+    },
+    {
+      "sha": "17fc6357ccab6ee30b8e647bf1992625bc5927d7",
+      "author_login": "johanneslumpe",
+      "authored_at": "2016-09-04T07:06:42Z",
+      "message": "throw when trying to get item out of list's range (#29)"
+    },
+    {
+      "sha": "9a50d1885711618a83d0cde3f736c7c7cb88b787",
+      "author_login": "sjfkai",
+      "authored_at": "2016-09-04T04:38:05Z",
+      "message": "Typo fixes (#30)"
+    },
+    {
+      "sha": "e458e575d48e8e850037351f5e8f2df6ddcc60bf",
+      "author_login": "AndrewHenderson",
+      "authored_at": "2016-09-02T06:53:55Z",
+      "message": "Typo fixes. (#26)"
+    },
+    {
+      "sha": "1b54cf954084724594d1d80cc5075f91400d4939",
+      "author_login": "mazdeh",
+      "authored_at": "2016-09-02T06:53:36Z",
+      "message": "O(log N) calculations fixed (#24)"
+    },
+    {
+      "sha": "669a33a5826e63f4523305350cf3842726d94be7",
+      "author_login": "chengsieuly",
+      "authored_at": "2016-09-01T05:30:37Z",
+      "message": "Fix typo and grammatical mistakes (#21)"
+    },
+    {
+      "sha": "a18016186e4fa2c40afca574ffb288c328ff6748",
+      "author_login": null,
+      "authored_at": "2016-09-01T05:30:02Z",
+      "message": "Fix typo in hashtable explanation (#23)"
+    },
+    {
+      "sha": "1775de32aeb0d8f6ad6cde200fadb7f6605a3d34",
+      "author_login": "josephwoodward",
+      "authored_at": "2016-09-01T05:29:54Z",
+      "message": "Minor grammatical fix (#22)"
+    },
+    {
+      "sha": "9b63c28a72599ab6d3e42f24762063def7cbfd42",
+      "author_login": "tatablack",
+      "authored_at": "2016-08-29T07:29:24Z",
+      "message": "Fix typo and grammatical mistakes (#17)"
+    },
+    {
+      "sha": "8eb7ebf7d884aa5ce49d7e3770f03fd5ac5963f2",
+      "author_login": "ayushoriginal",
+      "authored_at": "2016-08-29T07:28:14Z",
+      "message": "Remove grammatical mistakes (#13)"
+    },
+    {
+      "sha": "8b480e4482cddc188efc96ce16b6882fb22e0ae1",
+      "author_login": null,
+      "authored_at": "2016-08-27T16:43:31Z",
+      "message": "Fix typo (#12)"
+    },
+    {
+      "sha": "64370db7f715d0009713b1aed55894e0f2065021",
+      "author_login": "Haroenv",
+      "authored_at": "2016-08-27T16:41:44Z",
+      "message": "fix typo (#15)"
+    },
+    {
+      "sha": "31fcd76258b57232609eaebb4076a70b43ac7c82",
+      "author_login": null,
+      "authored_at": "2016-08-27T16:40:50Z",
+      "message": "Fix typo (#11)"
+    },
+    {
+      "sha": "4f8d7af25e23601802c3a77b88a2886c7a6f106a",
+      "author_login": "dawsbot",
+      "authored_at": "2016-08-27T06:49:00Z",
+      "message": "plural vs singular grammar fix (#9)"
+    },
+    {
+      "sha": "9771f0f2cfac57f42e6c6efbbda982ac25424c1c",
+      "author_login": "qw3rtman",
+      "authored_at": "2016-08-27T06:48:47Z",
+      "message": "Add exponential growth Big-O (#8)"
+    },
+    {
+      "sha": "65dad2ce72e3fa47f2aa7fa4b8b74de56261a3fd",
+      "author_login": "jhaglund",
+      "authored_at": "2016-08-27T06:48:03Z",
+      "message": "this.length instead of this.memory.length (#7)"
+    },
+    {
+      "sha": "9910bcffe6a39588230385c75914fdb4c8de33a3",
+      "author_login": "camwiegert",
+      "authored_at": "2016-08-27T06:47:52Z",
+      "message": "Fix typo in binary search tree section (#6)"
+    },
+    {
+      "sha": "eadcb4898ba6e038fe93bcc04a0dfb685bd02d07",
+      "author_login": "benjaminkitt",
+      "authored_at": "2016-08-27T06:47:22Z",
+      "message": "Fix for typo in comment (#4)"
+    },
+    {
+      "sha": "9f48f98e40207fc3cd1612509b47ee9864d3889b",
+      "author_login": "brianfryer",
+      "authored_at": "2016-08-27T06:47:13Z",
+      "message": "Fix typos (#3)"
+    },
+    {
+      "sha": "b6b9a45de48ad8c2560cf922e904f115cafdb26b",
+      "author_login": "austinlyons",
+      "authored_at": "2016-08-26T21:02:45Z",
+      "message": "Fix typos (#2)"
+    },
+    {
+      "sha": "25adea5b097f860fc2aa8225342600285a5d25d5",
+      "author_login": "geoffreyhale",
+      "authored_at": "2016-08-26T20:30:35Z",
+      "message": "Fix spelling (#1)"
+    },
+    {
+      "sha": "c43eef6346e40e571d9d25b2dc3f01ce6d6d3e46",
+      "author_login": "jamiebuilds",
+      "authored_at": "2016-08-25T01:52:37Z",
+      "message": "Init commit"
+    }
+  ],
+  "issues": [
+    {
+      "number": 57,
+      "title": "👻",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-02-13T08:05:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "fix: Cannot read property 'next' of null",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-01-28T12:15:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "Check if the the tree is empty in `Tree#traverse`",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-01-14T10:43:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 54,
+      "title": "extended time complexity at line 191",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-04T06:01:02Z",
+      "closed_at": "2020-10-05T17:47:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "Update Object with latest syntax",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-03-17T14:30:00Z",
+      "closed_at": "2023-03-13T07:33:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 52,
+      "title": "Added axis labels to big-O graph",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-02-03T10:36:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 51,
+      "title": "Remove a redundant line of code",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-01-24T06:03:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 50,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-15T11:27:33Z",
+      "closed_at": "2018-10-15T17:29:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 49,
+      "title": "fix grammar and spelling in some places",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-08T11:23:09Z",
+      "closed_at": "2018-04-12T21:28:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 48,
+      "title": "Update itsy-bitsy-data-structures.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-05T11:34:19Z",
+      "closed_at": "2018-04-06T20:21:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 47,
+      "title": "Fixed typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-07-20T02:26:28Z",
+      "closed_at": "2017-07-20T12:48:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 46,
+      "title": "Illustrate shape of btree with example code",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-05-23T08:40:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 45,
+      "title": "Minor comment change in LinkedList section to ease understanding",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-05-05T19:01:21Z",
+      "closed_at": "2017-05-05T22:39:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 44,
+      "title": "Update list reference",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2016-12-14T00:07:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 42,
+      "title": "LinkedList should error out on empty list remove",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-09T21:00:20Z",
+      "closed_at": "2016-10-12T11:02:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "Clean up a few things",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-09-23T19:14:26Z",
+      "closed_at": "2016-09-28T18:13:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 37,
+      "title": "Translate to Russian",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2016-09-23T13:34:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 33,
+      "title": "Fix mapping between 1 - AWESOME!! in example table.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-09-12T17:43:17Z",
+      "closed_at": "2016-09-13T06:35:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "Replace delete splice array method",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-09-11T12:04:39Z",
+      "closed_at": "2016-09-12T11:12:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 31,
+      "title": "Translate to Simplified Chinese",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2016-09-08T09:57:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "Typo fixes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-09-03T08:23:22Z",
+      "closed_at": "2016-09-04T04:38:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "throw when trying to get item out of list's range",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-09-03T01:50:09Z",
+      "closed_at": "2016-09-04T07:06:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "Typo fixes.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-09-01T23:51:37Z",
+      "closed_at": "2016-09-02T06:53:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "O(log N) calculations fixed",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-09-01T17:12:03Z",
+      "closed_at": "2016-09-02T06:53:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "Fix typo in hashtable explanation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-30T09:33:37Z",
+      "closed_at": "2016-09-01T05:30:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 22,
+      "title": "Minor grammatical fix",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-30T08:44:42Z",
+      "closed_at": "2016-09-01T05:29:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 21,
+      "title": "Fix typo and grammatical mistakes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-30T04:49:38Z",
+      "closed_at": "2016-09-01T05:30:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17,
+      "title": "Fix typo and grammatical mistakes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-27T18:44:50Z",
+      "closed_at": "2016-08-29T07:29:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 16,
+      "title": "Improve readability of BST's add method",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-27T15:25:22Z",
+      "closed_at": "2023-10-07T09:49:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-27T14:35:04Z",
+      "closed_at": "2016-08-27T16:41:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "Grammar: Hash table",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-27T14:23:58Z",
+      "closed_at": "2016-08-27T16:41:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13,
+      "title": "Remove grammatical mistakes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-27T13:59:31Z",
+      "closed_at": "2016-08-29T07:28:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 12,
+      "title": "Fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-27T11:48:35Z",
+      "closed_at": "2016-08-27T16:43:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 11,
+      "title": "Fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-27T09:34:06Z",
+      "closed_at": "2016-08-27T16:40:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10,
+      "title": "wording",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-27T08:27:25Z",
+      "closed_at": "2016-08-27T16:39:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 9,
+      "title": "plural vs singular grammar fix",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-27T05:58:33Z",
+      "closed_at": "2016-08-27T06:49:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 8,
+      "title": "Add exponential growth Big-O",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-27T02:38:20Z",
+      "closed_at": "2016-08-27T06:48:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 7,
+      "title": "this.length instead of this.memory.length",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-27T01:35:25Z",
+      "closed_at": "2016-08-27T06:48:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 6,
+      "title": "Fix typo in binary search tree section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-27T00:20:41Z",
+      "closed_at": "2016-08-27T06:47:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 5,
+      "title": "Add simple Skip List implementation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-27T00:08:39Z",
+      "closed_at": "2016-09-25T18:34:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4,
+      "title": "Fix for typo in comment",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-26T21:20:19Z",
+      "closed_at": "2016-08-27T06:47:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3,
+      "title": "Fix for typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-26T21:15:26Z",
+      "closed_at": "2016-08-27T06:47:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2,
+      "title": "fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-26T20:51:59Z",
+      "closed_at": "2016-08-26T21:02:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1,
+      "title": "fix spelling",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-08-26T20:28:22Z",
+      "closed_at": "2016-08-26T20:30:35Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "jamiebuilds",
+      "contributions": 6
+    },
+    {
+      "login": "AndrewHenderson",
+      "contributions": 1
+    },
+    {
+      "login": "tatablack",
+      "contributions": 1
+    },
+    {
+      "login": "austinlyons",
+      "contributions": 1
+    },
+    {
+      "login": "ayushoriginal",
+      "contributions": 1
+    },
+    {
+      "login": "benjaminkitt",
+      "contributions": 1
+    },
+    {
+      "login": "brianfryer",
+      "contributions": 1
+    },
+    {
+      "login": "camwiegert",
+      "contributions": 1
+    },
+    {
+      "login": "chengsieuly",
+      "contributions": 1
+    },
+    {
+      "login": "dawsbot",
+      "contributions": 1
+    },
+    {
+      "login": "Haroenv",
+      "contributions": 1
+    },
+    {
+      "login": "johanneslumpe",
+      "contributions": 1
+    },
+    {
+      "login": "josephwoodward",
+      "contributions": 1
+    },
+    {
+      "login": "jhaglund",
+      "contributions": 1
+    },
+    {
+      "login": "JuStTheDev",
+      "contributions": 1
+    },
+    {
+      "login": "man-shar",
+      "contributions": 1
+    },
+    {
+      "login": "BarkinMad",
+      "contributions": 1
+    },
+    {
+      "login": "qw3rtman",
+      "contributions": 1
+    },
+    {
+      "login": "utkarshbhatt12",
+      "contributions": 1
+    },
+    {
+      "login": "mazdeh",
+      "contributions": 1
+    },
+    {
+      "login": "geoffreyhale",
+      "contributions": 1
+    },
+    {
+      "login": "sjfkai",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-08-10T07:17:44.546171Z"
+}

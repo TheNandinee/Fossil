@@ -1,0 +1,639 @@
+{
+  "full_name": "fengdu78/Data-Science-Notes",
+  "owner": "fengdu78",
+  "name": "Data-Science-Notes",
+  "url": "https://github.com/fengdu78/Data-Science-Notes",
+  "description": "数据科学的笔记以及资料搜集",
+  "primary_language": "Jupyter Notebook",
+  "topics": [],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 8581,
+  "forks": 3113,
+  "open_issues": 14,
+  "created_at": "2019-07-29T03:55:15Z",
+  "pushed_at": "2021-08-16T11:18:41Z",
+  "updated_at": "2026-08-10T07:10:55Z",
+  "commits": [
+    {
+      "sha": "ad7356537d9bd6c2e661ac0032842266dca37a2e",
+      "author_login": "fengdu78",
+      "authored_at": "2021-02-16T16:57:40Z",
+      "message": "更新60分钟入门pytorch"
+    },
+    {
+      "sha": "931f533bcc16ac3ce5db24f956bacb61b8a827f5",
+      "author_login": "fengdu78",
+      "authored_at": "2020-11-23T16:13:02Z",
+      "message": "增加练习题"
+    },
+    {
+      "sha": "0891e2dabc89abcb7ffbf389da0254b59073a4c8",
+      "author_login": "fengdu78",
+      "authored_at": "2020-11-23T16:09:54Z",
+      "message": "增加练习题"
+    },
+    {
+      "sha": "302b3041f256192347795fc615a21b100c912bf8",
+      "author_login": "fengdu78",
+      "authored_at": "2020-09-21T07:39:12Z",
+      "message": "更新qq群号"
+    },
+    {
+      "sha": "f363bb6995a6bd57baeed411cf128f14ba81c119",
+      "author_login": "fengdu78",
+      "authored_at": "2020-07-07T11:19:49Z",
+      "message": "修改一个例子"
+    },
+    {
+      "sha": "a2fe39486037fffa42d70dcc280a808b7f74f560",
+      "author_login": "fengdu78",
+      "authored_at": "2020-07-05T00:04:35Z",
+      "message": "增加python100题"
+    },
+    {
+      "sha": "ba647f9e8744783cedc84fe5d7170b7c139e34c4",
+      "author_login": "fengdu78",
+      "authored_at": "2020-04-24T08:21:35Z",
+      "message": "修改一个小错误"
+    },
+    {
+      "sha": "4f57e83630a8357343ed234ae72366755c0fb194",
+      "author_login": "fengdu78",
+      "authored_at": "2020-02-29T12:10:42Z",
+      "message": "更新qq群"
+    },
+    {
+      "sha": "4d93d2ae0dd5f5d59488a81c71502185e68cc107",
+      "author_login": "fengdu78",
+      "authored_at": "2020-01-29T12:17:14Z",
+      "message": "更新特征工程文件"
+    },
+    {
+      "sha": "14baf071e9e097e43016f83abdc2f5c8f7b134cb",
+      "author_login": "fengdu78",
+      "authored_at": "2020-01-29T11:57:08Z",
+      "message": "特征选择器"
+    },
+    {
+      "sha": "468a41b46cdb4a16cafeba281c9832818bdcff0f",
+      "author_login": "fengdu78",
+      "authored_at": "2020-01-13T14:59:36Z",
+      "message": "matplotlib50题"
+    },
+    {
+      "sha": "50e14c249660ae7493a47b81931ee6c318d467d9",
+      "author_login": "fengdu78",
+      "authored_at": "2020-01-10T15:49:38Z",
+      "message": "Pandas50题"
+    },
+    {
+      "sha": "1521de8daa4daa7edda98cd7132d461089a1b7ca",
+      "author_login": "fengdu78",
+      "authored_at": "2020-01-06T12:14:01Z",
+      "message": "分布绘图说明"
+    },
+    {
+      "sha": "1a1b6860ed2a88401fa5ada50babce29055104c7",
+      "author_login": "fengdu78",
+      "authored_at": "2020-01-06T12:11:39Z",
+      "message": "分布绘图"
+    },
+    {
+      "sha": "225bf9c7f3ca0da8ad523aab1227c14ba75ff883",
+      "author_login": "fengdu78",
+      "authored_at": "2019-12-24T05:53:19Z",
+      "message": "线性代数两个小错误修改"
+    },
+    {
+      "sha": "e79bd545309ece8f2186d34ac19ef6ff99056c05",
+      "author_login": "fengdu78",
+      "authored_at": "2019-12-23T02:12:08Z",
+      "message": "更新百度云"
+    },
+    {
+      "sha": "2a3f6f4d8257f3017e4cf9d706a65da607cd0730",
+      "author_login": "fengdu78",
+      "authored_at": "2019-12-22T16:28:36Z",
+      "message": "深度学习路线"
+    },
+    {
+      "sha": "7458ba1dde15349cdbd5b57770a6533a523b0713",
+      "author_login": "fengdu78",
+      "authored_at": "2019-12-01T15:23:52Z",
+      "message": "更新公众号二维码"
+    },
+    {
+      "sha": "008425df8adb3aa8d1524d8e2e87376a57950e83",
+      "author_login": "fengdu78",
+      "authored_at": "2019-11-28T14:34:41Z",
+      "message": "增加python基础"
+    },
+    {
+      "sha": "d4148bf82616cfd06ef926c785cf987692fd54a5",
+      "author_login": "fengdu78",
+      "authored_at": "2019-11-28T03:15:49Z",
+      "message": "修改稀疏矩阵部分"
+    },
+    {
+      "sha": "b24ff6103d4fe261cff2b03d93ebb55cdcfb84f4",
+      "author_login": "fengdu78",
+      "authored_at": "2019-11-22T06:38:00Z",
+      "message": "目录调整"
+    },
+    {
+      "sha": "fd79c8c4e25d8dd223af5836e2db65d2799661c6",
+      "author_login": "fengdu78",
+      "authored_at": "2019-11-22T06:22:04Z",
+      "message": "增加numpy入门教程"
+    },
+    {
+      "sha": "a9c2c99ac148bf21384143507c7744d4e38afe5e",
+      "author_login": "fengdu78",
+      "authored_at": "2019-10-31T00:00:37Z",
+      "message": "修改两个小错误"
+    },
+    {
+      "sha": "3ac63e75d72c3ff22a4f8be46515bdc30667b41d",
+      "author_login": "fengdu78",
+      "authored_at": "2019-10-15T10:45:11Z",
+      "message": "更改镜像"
+    },
+    {
+      "sha": "f83f99ce8e0447dd5e24e0841ac5e1d2bfbc861c",
+      "author_login": "fengdu78",
+      "authored_at": "2019-10-13T11:47:57Z",
+      "message": "增加pytorch60分钟入门"
+    },
+    {
+      "sha": "65c103c7c2bd89222e4359fe0c2fc48ebe3b0f83",
+      "author_login": "fengdu78",
+      "authored_at": "2019-10-13T11:45:15Z",
+      "message": "更新60分钟入门PyTorch"
+    },
+    {
+      "sha": "26963b5a99d6f0e30616723770625e7a2e7c2d14",
+      "author_login": "fengdu78",
+      "authored_at": "2019-09-24T07:25:44Z",
+      "message": "增加仓库的镜像下载"
+    },
+    {
+      "sha": "e6879b238ea74f2705e7f6b1b280e0af73393254",
+      "author_login": "fengdu78",
+      "authored_at": "2019-09-24T02:29:29Z",
+      "message": "修改几个符号错误"
+    },
+    {
+      "sha": "9e0170ba39cbd93db1f7999186c113838f1e8665",
+      "author_login": "fengdu78",
+      "authored_at": "2019-09-24T01:22:43Z",
+      "message": "修改几个符号错误"
+    },
+    {
+      "sha": "1f5984bb11228c3be5ea28d433f0ccdb74c30e10",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-20T09:27:41Z",
+      "message": "CS229概率论翻译完毕"
+    },
+    {
+      "sha": "3f0449da1c5286e6f6210c93662abfb68371b530",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-19T02:05:49Z",
+      "message": "修改两个小错误"
+    },
+    {
+      "sha": "bb5cb49c5496ad26a19e9a71ee31ea7e80d26b93",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-09T02:52:45Z",
+      "message": "更新3.11的小错误"
+    },
+    {
+      "sha": "8b8bd6ae8a5127671c85752b7e0380df1079e9c8",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-09T02:39:31Z",
+      "message": "更新完线性代数"
+    },
+    {
+      "sha": "fe8b4d3f60b930b294de17486e224f6cb0d65d5c",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-08T17:26:11Z",
+      "message": "线性代数更新完毕"
+    },
+    {
+      "sha": "ed23cac19de5b530fc67f0567e6b60cb2680a3fe",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-08T17:21:51Z",
+      "message": "线性代数翻译完毕"
+    },
+    {
+      "sha": "6982035378bc9999190a4dafc67dc763d59ab956",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-08T06:15:49Z",
+      "message": "更新4.2"
+    },
+    {
+      "sha": "30a5fb55f25d30e9e8a177190f5a0a1602fc0193",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-08T04:33:27Z",
+      "message": "更新4.1"
+    },
+    {
+      "sha": "1cfd16867e42989fcda94a0a7898683a1334ae8b",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-08T03:05:22Z",
+      "message": "完成第三章"
+    },
+    {
+      "sha": "63f971f699ee60e57ac6b58c2b0bef4ad11e5d17",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-07T15:17:11Z",
+      "message": "更新到3.13"
+    },
+    {
+      "sha": "9c6bae8b4bf5ce742953519f770c3178904cc679",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-07T03:27:06Z",
+      "message": "更新cs229-3.11"
+    },
+    {
+      "sha": "df4922555d03eed2096b1e961a4a2e28be79810d",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-06T09:52:24Z",
+      "message": "更新到3.9"
+    },
+    {
+      "sha": "f8feb100c1f70e7e482f2eed0dba812c99296aeb",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-05T16:39:01Z",
+      "message": "更新cs229-3.7"
+    },
+    {
+      "sha": "edbccd342b14df12915d9facbce30559de3d3fc0",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-05T09:59:40Z",
+      "message": "更新完3.6"
+    },
+    {
+      "sha": "0698ce74f64a275c6e4cf17697bfc57e12ef79ed",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-05T09:12:08Z",
+      "message": "更新cs229线性代数到3.5"
+    },
+    {
+      "sha": "612471e842f09174605ef3074bbc3e4032cf8bf6",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-05T05:27:39Z",
+      "message": "增加cs229数学基础"
+    },
+    {
+      "sha": "c0b4606d61634e180a6f93ab8e880d52b9ea5dcd",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-04T11:05:23Z",
+      "message": "更新第九章"
+    },
+    {
+      "sha": "34c42e16e1ffc9c52849e2cebf12594a81c45dfd",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-04T02:28:35Z",
+      "message": "更新部分翻译"
+    },
+    {
+      "sha": "01cc67c180c4d581cc581fc8d883676ba510332a",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-03T16:19:11Z",
+      "message": "更新第九章"
+    },
+    {
+      "sha": "25797d115ef4e8c62d2b0a7171bac8de3608bf3b",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-03T10:30:20Z",
+      "message": "更新首页"
+    },
+    {
+      "sha": "dd8f9e86280762adb9570354972c5d88b4e47b08",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-03T04:44:46Z",
+      "message": "增加第九章"
+    },
+    {
+      "sha": "f9ba5f58c1f5e15ccfe04db941c49ee420dd6b3d",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-03T03:18:46Z",
+      "message": "更新数据下载地址"
+    },
+    {
+      "sha": "f4b8a0719787b13ea3d3eb8af4dfcfb70ae40adc",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-02T17:05:21Z",
+      "message": "增加特征工程部分"
+    },
+    {
+      "sha": "fb0dc881ceb1190d02fdeb40cad38696425fba44",
+      "author_login": "fengdu78",
+      "authored_at": "2019-08-02T16:34:55Z",
+      "message": "增加特征工程"
+    },
+    {
+      "sha": "519d9a9b646db9010bca28da28e3e7c9800d1ef2",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-31T07:25:13Z",
+      "message": "更新数据可视化目录"
+    },
+    {
+      "sha": "0ab019695e4d7f5977976f0e92460c166623e763",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-31T07:20:50Z",
+      "message": "更新scipy说明"
+    },
+    {
+      "sha": "8b4bf95669918002990ccfb6b642f31188bbfc8c",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-31T06:55:07Z",
+      "message": "numpy说明更新"
+    },
+    {
+      "sha": "48574932309c9461cd31b77a90c75ee8b209ab16",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-31T06:47:25Z",
+      "message": "增加pandas练习题"
+    },
+    {
+      "sha": "8af6463524d4973f84df2758a5f6821dda7b253d",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-31T06:26:09Z",
+      "message": "更新numpy说明"
+    },
+    {
+      "sha": "d2b457d4fe8b10b0fd9791c09b78772ca0a343c0",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-31T06:22:47Z",
+      "message": "更新numpy说明"
+    },
+    {
+      "sha": "afb0910661631aae0abbe522e729542c1708c19e",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-31T06:15:29Z",
+      "message": "增加numpy练习题"
+    },
+    {
+      "sha": "983f8a261e1d3f605ec530ec7da354312947d077",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-31T01:22:08Z",
+      "message": "更新插值代码"
+    },
+    {
+      "sha": "05d00e6829bf193b1206c3fbc8cb77c89194dd07",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-31T01:11:29Z",
+      "message": "更新参考文献"
+    },
+    {
+      "sha": "81bea49e0cedd1d247187cc513aa188a6fcc3aaf",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-30T03:02:02Z",
+      "message": "增加数学基础"
+    },
+    {
+      "sha": "897306916e0f399d040fc55b682e93d3e86c5cbe",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-30T02:14:31Z",
+      "message": "增加南瓜书"
+    },
+    {
+      "sha": "b490296872247282e7c932101b578ebf1f64bfcf",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-30T02:05:16Z",
+      "message": "增加林轩田机器学习"
+    },
+    {
+      "sha": "3a1e9d633284d7f2a102cc120da8ec8e2a1a7c47",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-29T16:45:48Z",
+      "message": "更新插值"
+    },
+    {
+      "sha": "72b821c40f854a8245e34a4366787ff091ce3107",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-29T16:31:56Z",
+      "message": "更新scipy教程"
+    },
+    {
+      "sha": "7b7ce38b523a3874e7fd44791ae7e83bc3e5da1e",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-29T09:13:12Z",
+      "message": "更新首页说明"
+    },
+    {
+      "sha": "2a8a2962d0d9aaf20cf233d1596d64a5710c8b98",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-29T09:08:39Z",
+      "message": "初步更新"
+    },
+    {
+      "sha": "df5b0d4024fa6d163f7706ad08862b7680acb1e7",
+      "author_login": "fengdu78",
+      "authored_at": "2019-07-29T03:55:16Z",
+      "message": "Initial commit"
+    }
+  ],
+  "issues": [
+    {
+      "number": 21,
+      "title": ".",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-06T15:27:21Z",
+      "closed_at": "2026-06-30T11:37:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 20,
+      "title": "SQL Notes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-04T06:04:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 19,
+      "title": "精通特征工程中代码问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-19T07:55:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 18,
+      "title": "8.deep-learning/PyTorch_beginner/2.Autograd自动求导.ipynb 勘误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-12T07:09:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17,
+      "title": "fix 取极值的第二充分条件,二阶导数为零时方法失效的描述",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-08-16T11:18:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 16,
+      "title": "你好 数学基础里面的翻译地址失效了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-23T06:35:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "关于特征重要度计算时的问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-06T13:58:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-04T04:55:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13,
+      "title": "Update 1.CS229-LinearAlgebra.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-09-16T01:30:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 12,
+      "title": "python 100 的练习题，有些许题有问题，且原作者的仓库有些题目和答案有变化，希望能更新一下",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-17T10:52:55Z",
+      "closed_at": "2020-08-17T11:13:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 11,
+      "title": "100_Numpy_exercises第49题答案无法运行问题及解决方法",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-08T05:38:57Z",
+      "closed_at": "2020-08-17T10:49:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10,
+      "title": "add test.txt",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-07-22T06:00:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 9,
+      "title": "python",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-07-05T11:33:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 8,
+      "title": "data science notes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-30T03:57:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 7,
+      "title": "这是我在学习PyTorch过程中跟着敲代码并注释的文件，也许对和我一样的初学者有帮助。",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-03-04T09:04:55Z",
+      "closed_at": "2022-05-01T09:43:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 6,
+      "title": "1.numpy-beginner.ipynb 勘误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-27T09:06:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 5,
+      "title": "python_basic 两天入门python-第一天.ipynb",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-09T12:46:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4,
+      "title": "CS229-Prob 勘误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-09-04T04:32:53Z",
+      "closed_at": "2021-01-10T07:47:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3,
+      "title": "CS229-LinearAlgebra 勘误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-09-03T02:53:04Z",
+      "closed_at": "2021-01-10T07:48:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2,
+      "title": "CS229-LinearAlgebra",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-08-26T03:24:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1,
+      "title": "数学公式显示问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-07-30T06:47:47Z",
+      "closed_at": "2019-07-31T07:17:41Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "fengdu78",
+      "contributions": 70
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-08-10T07:17:42.467493Z"
+}

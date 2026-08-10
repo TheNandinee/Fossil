@@ -1,0 +1,933 @@
+{
+  "full_name": "vahidk/EffectiveTensorflow",
+  "owner": "vahidk",
+  "name": "EffectiveTensorflow",
+  "url": "https://github.com/vahidk/EffectiveTensorflow",
+  "description": "TensorFlow tutorials and best practices.",
+  "primary_language": null,
+  "topics": [
+    "deep-learning",
+    "ebook",
+    "machine-learning",
+    "neural-network",
+    "tensorflow"
+  ],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 8587,
+  "forks": 877,
+  "open_issues": 0,
+  "created_at": "2017-08-01T06:00:56Z",
+  "pushed_at": "2020-10-22T05:26:17Z",
+  "updated_at": "2026-08-05T06:38:29Z",
+  "commits": [
+    {
+      "sha": "370d0e1a8e96aac1ff74d72bd71a2ef769105008",
+      "author_login": "vahidk",
+      "authored_at": "2020-10-22T05:25:22Z",
+      "message": "Merge branch 'master' into v2"
+    },
+    {
+      "sha": "4f7ac847a81930e93015f9b7fcfb8e11dd0ebdb7",
+      "author_login": "vahidk",
+      "authored_at": "2020-10-22T05:23:20Z",
+      "message": "Update framework."
+    },
+    {
+      "sha": "43107ba3383e6836e5d83da645c0e8c53ee2576f",
+      "author_login": "vahidk",
+      "authored_at": "2019-04-23T06:02:36Z",
+      "message": "Merge pull request #33 from Windaway/v2"
+    },
+    {
+      "sha": "6db561a5d7297061558589178a9b02945aed6f35",
+      "author_login": "Windaway",
+      "authored_at": "2019-04-22T14:59:23Z",
+      "message": "Update README(chs).md"
+    },
+    {
+      "sha": "0c2b285e8686b20cb940927fd4d87427a9bbcd07",
+      "author_login": "Windaway",
+      "authored_at": "2019-04-22T14:31:42Z",
+      "message": "Create Readme(chs).md"
+    },
+    {
+      "sha": "d998bef4512a28b22e42477b6d9bfdeacab6b0e6",
+      "author_login": "vahidk",
+      "authored_at": "2019-03-17T00:41:51Z",
+      "message": "Remove reference to depreacted API."
+    },
+    {
+      "sha": "2d6aeb262cf055bee80143da2d7ab3a44bd1240d",
+      "author_login": "vahidk",
+      "authored_at": "2019-03-16T23:56:15Z",
+      "message": "Bug fix."
+    },
+    {
+      "sha": "933a7dd04133f45c63baedb3c6ba1455d5d749bc",
+      "author_login": "vahidk",
+      "authored_at": "2019-03-16T23:47:45Z",
+      "message": "Added note for TensorFlow 2.0 version."
+    },
+    {
+      "sha": "5b35bbe7ba417544c55ea18828dfdbee181d4ab9",
+      "author_login": "vahidk",
+      "authored_at": "2019-03-16T23:43:30Z",
+      "message": "Enable syntax highlighting."
+    },
+    {
+      "sha": "178b0146917f5e1e101638f78346162567d406d7",
+      "author_login": "vahidk",
+      "authored_at": "2019-03-16T23:42:24Z",
+      "message": "Bug fix."
+    },
+    {
+      "sha": "5230a4fc42a63596d0694dc5f8c2ab589a40bd1e",
+      "author_login": "vahidk",
+      "authored_at": "2019-03-16T23:39:08Z",
+      "message": "First v2 draft."
+    },
+    {
+      "sha": "964ca0c872a8855e52225568c2d2520fccdfcb6f",
+      "author_login": "vahidk",
+      "authored_at": "2019-03-16T18:29:01Z",
+      "message": "Update framework."
+    },
+    {
+      "sha": "37b0acafbe5443377b55942df723cf7a2e81747b",
+      "author_login": "vahidk",
+      "authored_at": "2019-02-20T05:50:08Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1f1c0a2d66d335550af8caf3ffdca64a1bc62a6c",
+      "author_login": "vahidk",
+      "authored_at": "2019-02-20T05:34:25Z",
+      "message": "Merge pull request #31 from mahmoudakl/master"
+    },
+    {
+      "sha": "67b688e8dda2633b96964d8cfadb2e239ac06429",
+      "author_login": "mahmoudakl",
+      "authored_at": "2019-02-14T11:32:37Z",
+      "message": "Replaced tf.prod with tf.reduce_prod"
+    },
+    {
+      "sha": "ba567d3ddaaba40ab7a041ad0a16c3a26978de46",
+      "author_login": "vahidk",
+      "authored_at": "2018-09-28T23:23:14Z",
+      "message": "Updated the code."
+    },
+    {
+      "sha": "ca551331a013fbf07e950c68c8e3007cefe5a69d",
+      "author_login": "vahidk",
+      "authored_at": "2018-09-28T07:26:50Z",
+      "message": "Updated code."
+    },
+    {
+      "sha": "b5c1939a931f1a8393e939bb4df8e0a34d69a66c",
+      "author_login": "vahidk",
+      "authored_at": "2018-07-11T20:58:08Z",
+      "message": "Updated format."
+    },
+    {
+      "sha": "a504a54b73a5098049f17f70cc767f1ceabe3d29",
+      "author_login": "vahidk",
+      "authored_at": "2018-07-11T05:10:54Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ed14d64015f4762dad1ea343829c0a2bf20d844a",
+      "author_login": "vahidk",
+      "authored_at": "2018-07-11T04:05:13Z",
+      "message": "Fixed the autoreuse code snippet."
+    },
+    {
+      "sha": "65d87c259897981076ae6ca08d48c9ff7be9a9b8",
+      "author_login": "vahidk",
+      "authored_at": "2018-03-05T08:31:48Z",
+      "message": "Update code."
+    },
+    {
+      "sha": "b94b50384d67e160798c0e11b31022ad9a97032a",
+      "author_login": "vahidk",
+      "authored_at": "2018-03-03T07:21:15Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "8cef99ecda3cd1a0f7e219b43ac68ffe5fc12201",
+      "author_login": "vahidk",
+      "authored_at": "2018-01-20T21:23:33Z",
+      "message": "Merge pull request #24 from gloriouskilka/master"
+    },
+    {
+      "sha": "bd9a8dd7b71f3b3f1918e54a2e0992c245fdcb14",
+      "author_login": null,
+      "authored_at": "2018-01-20T19:13:13Z",
+      "message": "Typo fix"
+    },
+    {
+      "sha": "bbb49b721255f31d07fa8c4ae451829ebc0f6a60",
+      "author_login": "vahidk",
+      "authored_at": "2017-10-26T23:18:31Z",
+      "message": "Update readme."
+    },
+    {
+      "sha": "f1201715c0ce86dac8950cad6075c9174517e0ea",
+      "author_login": "vahidk",
+      "authored_at": "2017-09-17T04:46:14Z",
+      "message": "Fix typo."
+    },
+    {
+      "sha": "c085b700ee505db3f2ef8da7b5f2e9e26fd993aa",
+      "author_login": "vahidk",
+      "authored_at": "2017-09-16T10:13:57Z",
+      "message": "Added var scope."
+    },
+    {
+      "sha": "6156404da53c2502b2c155aa5d225e9957e61fa4",
+      "author_login": "vahidk",
+      "authored_at": "2017-09-16T10:08:31Z",
+      "message": "Updated refs."
+    },
+    {
+      "sha": "d6becaf2324e99326ccf73f9748ef69b9bad2311",
+      "author_login": "vahidk",
+      "authored_at": "2017-09-16T10:02:00Z",
+      "message": "Added Sqeeuze/Excite and BatchNorm recipes."
+    },
+    {
+      "sha": "e6ac9f307b2b24bc29d89a70e45d4cdb0e102cde",
+      "author_login": "vahidk",
+      "authored_at": "2017-09-13T08:24:13Z",
+      "message": "Updated framework."
+    },
+    {
+      "sha": "0a799189957ed89d5848c4306951d9730a8584d2",
+      "author_login": "vahidk",
+      "authored_at": "2017-09-06T09:23:56Z",
+      "message": "Update cookbook."
+    },
+    {
+      "sha": "c8fbf35341cf9a99e67979f6a79a5bca55af5b37",
+      "author_login": "vahidk",
+      "authored_at": "2017-09-06T09:17:39Z",
+      "message": "Fix typo."
+    },
+    {
+      "sha": "ec2a44eccc6032279b51a430a6bef936b8de8344",
+      "author_login": "vahidk",
+      "authored_at": "2017-09-06T09:15:17Z",
+      "message": "Simplify entropy function."
+    },
+    {
+      "sha": "51eb429997586bc33de917fd79347c9b2a6c66a6",
+      "author_login": "vahidk",
+      "authored_at": "2017-09-05T16:28:11Z",
+      "message": "Update entropy recipe."
+    },
+    {
+      "sha": "866ca9c1bb30b24c124dabb15ddcc620c33dc703",
+      "author_login": "vahidk",
+      "authored_at": "2017-09-05T01:59:57Z",
+      "message": "Merge pull request #17 from tomtung/patch-1"
+    },
+    {
+      "sha": "1ee9c25edceaa9189c46c59d816ad5ef7d2bcb01",
+      "author_login": "tomtung",
+      "authored_at": "2017-09-05T01:53:10Z",
+      "message": "Correct typo"
+    },
+    {
+      "sha": "208ac5f3ed34403833c21277ff548b57bef09c29",
+      "author_login": "vahidk",
+      "authored_at": "2017-09-01T07:15:40Z",
+      "message": "Updated framework section."
+    },
+    {
+      "sha": "67b0117e1b8e15b52188556a1519f98f4e5d4a33",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-31T17:27:54Z",
+      "message": "Update beam_search recipe."
+    },
+    {
+      "sha": "36e9303d75cf30694af7eda702ceccc479d07d9b",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-30T06:01:26Z",
+      "message": "Updated readme."
+    },
+    {
+      "sha": "1a669bb8fc9689ba4caf8235f8b941ed926ae327",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-30T00:03:39Z",
+      "message": "Added leaky relu recipe."
+    },
+    {
+      "sha": "d377c4f8c97714abd8973d82fbbc336ac47e4b8c",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-28T15:39:00Z",
+      "message": "Fix typo."
+    },
+    {
+      "sha": "8799d046c79a044ff80b2a94d9e61a6ba9549074",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-28T09:50:19Z",
+      "message": "Fix typos."
+    },
+    {
+      "sha": "731e8ae44a05f02a5972134e54c9dcb8e9fc8c9a",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-28T09:40:11Z",
+      "message": "Reading data."
+    },
+    {
+      "sha": "bf9cbcc1349c308aaca6c71b7255cb59edce636d",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-27T05:35:43Z",
+      "message": "Added KL-Divergence recipe."
+    },
+    {
+      "sha": "c166e0c88fc83a26963125bb7e8448a4c07cfbbf",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-26T17:46:22Z",
+      "message": "Merge pull request #15 from lzhbrian/master"
+    },
+    {
+      "sha": "c0c7f8b8f86b9b74a1f784d8ab5591a22b587348",
+      "author_login": "lzhbrian",
+      "authored_at": "2017-08-26T13:05:22Z",
+      "message": "Add some links to TensorFlow docs which are mentioned"
+    },
+    {
+      "sha": "3af3b03b39f84085bbc2edc66ee1a5f93a8fe21f",
+      "author_login": "lzhbrian",
+      "authored_at": "2017-08-26T12:43:56Z",
+      "message": "Fix some typos"
+    },
+    {
+      "sha": "1d650e21cc43f218f75fed4567b8f8ce48e73105",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-22T05:31:46Z",
+      "message": "Added note about snippets."
+    },
+    {
+      "sha": "e0db0521e983cf04a358f16aa2721bbfea6226f2",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-22T04:04:04Z",
+      "message": "Better explanation of scopes."
+    },
+    {
+      "sha": "a2c1fa63efc09fc4cb1f871854142c64dc45398c",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-21T00:00:32Z",
+      "message": "Reorder items."
+    },
+    {
+      "sha": "91fa976962239a9e22b08a350af15950f4977121",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-20T21:12:39Z",
+      "message": "Added note on tf.equal."
+    },
+    {
+      "sha": "956865086665e2f6c0b84b2b5a7f2320c27aeaba",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-20T21:08:27Z",
+      "message": "Fixed typo."
+    },
+    {
+      "sha": "7044f5f324d93096f8d3592678d37c23ac9c261a",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-20T21:01:30Z",
+      "message": "Fixed typo."
+    },
+    {
+      "sha": "7143e942e9bdced836bac6fec61305819547d809",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-20T20:46:18Z",
+      "message": "Added Item 2: Take advantage of the overloaded operators."
+    },
+    {
+      "sha": "c311549dd95415250a53c3d181237ae9065e4215",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-19T16:44:44Z",
+      "message": "Fixed typo."
+    },
+    {
+      "sha": "981fa17a363a281e6470fe9d77b73eeea3e3cdff",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-19T16:39:03Z",
+      "message": "Update intro."
+    },
+    {
+      "sha": "f1c7de192966d5907e9bdc09aa5eb9af64cd6c87",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-19T06:02:42Z",
+      "message": "Fixed typo."
+    },
+    {
+      "sha": "9c96cdc6e445aeff3956ff06407fd095eb614b3d",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-19T04:44:51Z",
+      "message": "Fix broken links."
+    },
+    {
+      "sha": "7b940f7bd33c3406644333411c452ab8251bf473",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-19T04:40:39Z",
+      "message": "Moved framework."
+    },
+    {
+      "sha": "38706191333b8db00b6349d7a9fd83ccc9bb7226",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-18T05:08:18Z",
+      "message": "Fixed broken link."
+    },
+    {
+      "sha": "df02f32b48c5c3fcc54ea05c93183b4f0619867a",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-18T04:53:49Z",
+      "message": "Switch to dataset API."
+    },
+    {
+      "sha": "2b9ecc6b0d85ec405b38e1156946d8c3f522b14e",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-17T03:40:39Z",
+      "message": "Numerical stability."
+    },
+    {
+      "sha": "83022cad0d6de2f93eef06c8cdac82ee7909b211",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-16T03:43:31Z",
+      "message": "Fixed typo."
+    },
+    {
+      "sha": "a160a6174c07585f99d83cc4c192bdceac30964e",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-16T03:41:18Z",
+      "message": "Preface note."
+    },
+    {
+      "sha": "30c4b29001caaa4c8b26f619ef5de6490878f3b0",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-16T01:57:41Z",
+      "message": "Added scopes item."
+    },
+    {
+      "sha": "1878e4fe0e1463ac2e2a25f1ba3207be3d5f46d6",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-15T15:22:59Z",
+      "message": "Merge pull request #10 from remram44/patch-reshape"
+    },
+    {
+      "sha": "32620bd2284daa1e9639bd14f6871570480b6534",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-15T15:22:34Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "cdceb2d02996dba4cc36a874c3bced2ddcc7b47d",
+      "author_login": "remram44",
+      "authored_at": "2017-08-15T15:15:45Z",
+      "message": "tf.reshape() only need the same number of elements"
+    },
+    {
+      "sha": "de17922664318b675b572b8cf335f227650ef4f5",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-15T14:38:51Z",
+      "message": "Merge pull request #8 from yanjon/patch-1"
+    },
+    {
+      "sha": "79034b416073eced805d6a78db23dc4c09a25891",
+      "author_login": "yanjon",
+      "authored_at": "2017-08-15T11:55:40Z",
+      "message": "Fix another typo"
+    },
+    {
+      "sha": "2b9553696ecaf612d45ce4823d3ea151452c9b8f",
+      "author_login": "yanjon",
+      "authored_at": "2017-08-15T11:37:57Z",
+      "message": "Fix typo in \"Understanding static and dynamic shapes\""
+    },
+    {
+      "sha": "1bcb06f30a1fdb61d14314975b834f68ac637dec",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-15T05:53:56Z",
+      "message": "Fix comments."
+    },
+    {
+      "sha": "7f77e3f8d33a1a3a48febc7b82691bd193b4a531",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-15T05:52:11Z",
+      "message": "Added cifar10 and cifar100 datasets."
+    },
+    {
+      "sha": "1f1de774dec159568e87c16242f6fe88ddb230a8",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-15T03:28:48Z",
+      "message": "Consistent spacing."
+    },
+    {
+      "sha": "247b0b515c47c2ff845323b597127456438537bb",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-15T03:15:54Z",
+      "message": "Fixed typo in debugging."
+    },
+    {
+      "sha": "5cb1da042f99743c399647bdc07064564fcedb8e",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-15T02:47:35Z",
+      "message": "Added comments."
+    },
+    {
+      "sha": "c5a702ad01399a49bdaba3425e7200be29c44638",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-15T02:16:54Z",
+      "message": "Remove unused param."
+    },
+    {
+      "sha": "d00d3faf03b09e81de78d81c53ae3f6eef17c9e5",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-14T16:46:14Z",
+      "message": "Fix comment in broadcasting."
+    },
+    {
+      "sha": "43aa13ee5dc698cd2043a46e2a25f742e915ada3",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-14T16:45:10Z",
+      "message": "Merge pull request #6 from cocowalla/patch-1"
+    },
+    {
+      "sha": "b0ef7209569f98dbd3c92c417c6653b175cb24f7",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-14T16:45:00Z",
+      "message": "Merge branch 'master' into patch-1"
+    },
+    {
+      "sha": "7518852b662df2e282d1967d41676847ac0ae0ab",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-14T16:35:38Z",
+      "message": "Merge pull request #7 from piperchester/patch-1"
+    },
+    {
+      "sha": "cb4d13ed7687c020c9d242e547cdba7d2bb1daae",
+      "author_login": "piperchester",
+      "authored_at": "2017-08-14T12:31:39Z",
+      "message": "README: fix `Tensorflow` casing"
+    },
+    {
+      "sha": "d7167e88057a4414607c6aa8a0b1a5a62013fe73",
+      "author_login": "cocowalla",
+      "authored_at": "2017-08-14T12:23:58Z",
+      "message": "Nitpicking grammar changes in readme"
+    },
+    {
+      "sha": "b55f34dd3d3ebaf5e2b45196cdaf13dec86bc54f",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-14T07:44:49Z",
+      "message": "Merged."
+    },
+    {
+      "sha": "ba40bdc6bc7deb8ee5d40db1149a459dd136eaa3",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-14T07:44:23Z",
+      "message": "Clarifications."
+    },
+    {
+      "sha": "ea2b61acf9732b9cc38a7e39ba3f38bf9238dac2",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-14T06:38:05Z",
+      "message": "Merge pull request #4 from davejm/patch-1"
+    },
+    {
+      "sha": "77965d8f0711faf1dda5d532f70db00bbfe33800",
+      "author_login": "davejm",
+      "authored_at": "2017-08-14T06:29:19Z",
+      "message": "Fix typo"
+    },
+    {
+      "sha": "b17d16a0009e35a1f2e10eada2fb2b92e6fd5d78",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-14T05:19:17Z",
+      "message": "Fixed typos."
+    },
+    {
+      "sha": "f83574f8095322102c4842c9921f5368d6e5f1af",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-13T23:28:44Z",
+      "message": "Debugging Tensorflow code."
+    },
+    {
+      "sha": "bcd8ec9475e73df659fa0560cedda8016d4d3d17",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-13T19:04:07Z",
+      "message": "Added make_parallel to cookbook."
+    },
+    {
+      "sha": "e3680e9975fcc17e1f08d8cd56b2aa75e686cfc0",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-13T15:41:11Z",
+      "message": "Send split tensors to make_parallel."
+    },
+    {
+      "sha": "fbe7f78c8ce90efc5b4eba44f17a82ff84cacd52",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-13T09:11:18Z",
+      "message": "Visualize predictions. Compress images."
+    },
+    {
+      "sha": "6dd33acbb57f231d5cffd7b82864a3a63dbad279",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-13T06:03:26Z",
+      "message": "Add links to cookbook."
+    },
+    {
+      "sha": "cab0f5e2c408a3f4db37e94cc8c00f1000341c47",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-13T05:52:01Z",
+      "message": "Clarify eval metrics."
+    },
+    {
+      "sha": "9600ff261512c998ea3c2c2ac9655be7f637ca00",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-13T00:58:31Z",
+      "message": "Fix comment."
+    },
+    {
+      "sha": "b4f37b05dfd8eb39e9bc31ad79176b59a1619f64",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-13T00:55:15Z",
+      "message": "Replace np with tf."
+    },
+    {
+      "sha": "2f8dc3b51f3fb4d4cfac67ee29d3d058a543c1ba",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-13T00:53:29Z",
+      "message": "Simplify merge code."
+    },
+    {
+      "sha": "f46db7d6ef087a74f98f4d5c06cda91307f01d6b",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-12T18:45:38Z",
+      "message": "Better op name."
+    },
+    {
+      "sha": "f35989a10a42a0aab959afa00433517c18627e3f",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-12T18:39:05Z",
+      "message": "Fix typos."
+    },
+    {
+      "sha": "590ba7186771718fa375532d69341be17303c432",
+      "author_login": "vahidk",
+      "authored_at": "2017-08-12T18:32:35Z",
+      "message": "Replace get_shape with shape everywhere. Remove trailing white spaces."
+    }
+  ],
+  "issues": [
+    {
+      "number": 36,
+      "title": "Mistake in \"broadcasting good and ugly\"",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-02-24T03:20:53Z",
+      "closed_at": "2020-02-24T03:22:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 33,
+      "title": "Create Readme(chs).md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-22T14:32:11Z",
+      "closed_at": "2019-04-23T06:02:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "Please add a license to this repo",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-03-20T16:03:59Z",
+      "closed_at": "2019-07-12T06:51:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 31,
+      "title": "Replaced tf.prod with tf.reduce_prod",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-02-14T11:35:43Z",
+      "closed_at": "2019-02-20T05:34:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "Where are the trainable variables placed in the \"Multi-GPU processing with data parallelism \" ?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-07-18T02:13:41Z",
+      "closed_at": "2018-07-18T19:02:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "tf.AUTO_REUSE work with tf.layers.conv2d",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-20T01:50:20Z",
+      "closed_at": "2018-07-11T04:07:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "Detailed comments.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-03T15:20:22Z",
+      "closed_at": "2018-03-05T08:32:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "Mistake in \"Scopes and when to use them\"",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-01T06:49:05Z",
+      "closed_at": "2018-03-03T07:25:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "how does the `get_shape` function work with placeholders?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-02-09T02:15:35Z",
+      "closed_at": "2018-02-09T04:59:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "Typo fix",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-01-20T19:14:11Z",
+      "closed_at": "2018-01-20T21:23:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-11-24T01:41:09Z",
+      "closed_at": "2018-01-15T04:07:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 22,
+      "title": "typo?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-11-24T01:30:09Z",
+      "closed_at": "2017-11-24T05:52:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 21,
+      "title": "Fix import of TFRecordDataset",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-26T19:43:30Z",
+      "closed_at": "2017-10-26T23:18:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 20,
+      "title": "Why use static shapes while converting the Tensor of rank 3 to rank 2?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-09-22T12:09:23Z",
+      "closed_at": "2017-09-23T02:32:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 19,
+      "title": "Avoiding blocking of processes due to lack of data",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-09-21T16:32:11Z",
+      "closed_at": "2017-09-23T22:37:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 18,
+      "title": "why multi gpu is slower than single gpu",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-09-21T08:21:50Z",
+      "closed_at": "2017-09-21T09:48:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "Add some links and Fix some typos",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-26T13:24:24Z",
+      "closed_at": "2017-08-26T17:46:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "TensorFlow data input",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-23T15:08:21Z",
+      "closed_at": "2017-08-24T03:45:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13,
+      "title": "Explain why tf.nn.softmax isn't used for entropy",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-23T07:26:22Z",
+      "closed_at": "2017-08-23T15:06:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 12,
+      "title": "tf.name_scope & variables",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-21T14:48:23Z",
+      "closed_at": "2017-08-22T04:05:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10,
+      "title": "tf.reshape() only need the same number of elements",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-15T15:17:36Z",
+      "closed_at": "2017-08-15T15:22:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 9,
+      "title": "Check your gradients with tf.compute_gradient_error - softmax applied twice.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-15T11:52:36Z",
+      "closed_at": "2017-08-15T11:56:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 7,
+      "title": "README: fix `Tensorflow` casing",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-14T12:32:12Z",
+      "closed_at": "2017-08-14T16:35:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 6,
+      "title": "Nitpicking grammar changes in readme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-14T12:25:04Z",
+      "closed_at": "2017-08-14T16:45:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 5,
+      "title": "Mistake in “Broadcasting the good and the ugly”",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-14T08:59:37Z",
+      "closed_at": "2017-08-14T16:47:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4,
+      "title": "Fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-14T06:29:38Z",
+      "closed_at": "2017-08-14T06:38:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3,
+      "title": "Multi-GPU code",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-13T11:24:53Z",
+      "closed_at": "2017-08-13T15:44:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2,
+      "title": "Small clarifications on the shape section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-12T17:55:09Z",
+      "closed_at": "2017-08-12T18:12:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1,
+      "title": "Remove unused import",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-11T21:32:32Z",
+      "closed_at": "2017-08-11T23:18:25Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "vahidk",
+      "contributions": 111
+    },
+    {
+      "login": "yanjon",
+      "contributions": 2
+    },
+    {
+      "login": "Windaway",
+      "contributions": 2
+    },
+    {
+      "login": "lzhbrian",
+      "contributions": 2
+    },
+    {
+      "login": "davejm",
+      "contributions": 1
+    },
+    {
+      "login": "mahmoudakl",
+      "contributions": 1
+    },
+    {
+      "login": "piperchester",
+      "contributions": 1
+    },
+    {
+      "login": "remram44",
+      "contributions": 1
+    },
+    {
+      "login": "tomtung",
+      "contributions": 1
+    },
+    {
+      "login": "cocowalla",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-08-10T07:17:40.645470Z"
+}
