@@ -1,0 +1,1612 @@
+{
+  "full_name": "jwagner/smartcrop.js",
+  "owner": "jwagner",
+  "name": "smartcrop.js",
+  "url": "https://github.com/jwagner/smartcrop.js",
+  "description": "Content aware image cropping",
+  "primary_language": "JavaScript",
+  "topics": [
+    "image-processing",
+    "javascript",
+    "nodejs",
+    "smartcrop"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 12957,
+  "forks": 572,
+  "open_issues": 23,
+  "created_at": "2014-04-03T14:21:19Z",
+  "pushed_at": "2024-03-16T23:45:27Z",
+  "updated_at": "2026-08-16T15:25:46Z",
+  "commits": [
+    {
+      "sha": "0e207ed910625f91b07d35865c71a9621a63ebdb",
+      "author_login": "jwagner",
+      "authored_at": "2024-03-16T12:45:28Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "c519ee3f6781d78d5399ba6d8d55046a4710af51",
+      "author_login": "jwagner",
+      "authored_at": "2024-01-23T20:07:34Z",
+      "message": "Update badge in README.md"
+    },
+    {
+      "sha": "a6d41a3fb918b11c1eec7dd742567ce7400475ef",
+      "author_login": "jwagner",
+      "authored_at": "2024-01-23T19:47:06Z",
+      "message": "Update deps, reduce face detection examples (#133)"
+    },
+    {
+      "sha": "de2d1438b1f46490452f8e8b196974b19b0b0dcf",
+      "author_login": "jwagner",
+      "authored_at": "2022-07-10T19:53:54Z",
+      "message": "Added a minimal example, removed GA"
+    },
+    {
+      "sha": "621b4d6f68bf8017632f0408543ea5f731c61351",
+      "author_login": "jwagner",
+      "authored_at": "2022-05-31T16:50:07Z",
+      "message": "Add note asking for a cropping dataset"
+    },
+    {
+      "sha": "06321afc6646f1387d39aa4301882d85f0ad25dc",
+      "author_login": "jwagner",
+      "authored_at": "2021-09-30T22:49:55Z",
+      "message": "Dependency update"
+    },
+    {
+      "sha": "027c207e58b969f741e845d24ad888ba3279bb8e",
+      "author_login": "jwagner",
+      "authored_at": "2021-09-01T18:01:37Z",
+      "message": "Fix #110 Type Definition Error (#111)"
+    },
+    {
+      "sha": "1f404863b16e7c7b976f34188a0c93a59a680ebb",
+      "author_login": "jwagner",
+      "authored_at": "2021-07-24T17:34:34Z",
+      "message": "upodate vendored dependencies"
+    },
+    {
+      "sha": "0e5383989e4e81887a08287e9c13c99a1eca5b22",
+      "author_login": "jwagner",
+      "authored_at": "2021-07-24T17:26:45Z",
+      "message": "added dev container"
+    },
+    {
+      "sha": "cd0f9374bb132d78b5d9206be041bc1e32c90ed6",
+      "author_login": "jwagner",
+      "authored_at": "2021-07-24T17:12:45Z",
+      "message": "Release preparations"
+    },
+    {
+      "sha": "28a014462b4b1694028adf9c2d25b4ccf5616191",
+      "author_login": "jwagner",
+      "authored_at": "2021-07-04T14:57:16Z",
+      "message": "update dev dependencies"
+    },
+    {
+      "sha": "5cf06491abdc6384059bdd246fcd6c01033255c0",
+      "author_login": "jwagner",
+      "authored_at": "2021-07-04T14:44:15Z",
+      "message": "s/travis/github actions/ (#108)"
+    },
+    {
+      "sha": "9933f97217b1107ab0ddbac0481aeefd80b6519f",
+      "author_login": "kripod",
+      "authored_at": "2021-04-26T21:40:08Z",
+      "message": "Remove invalid named export from typedefs (#105)"
+    },
+    {
+      "sha": "de0b1773d5f80df0cb06911b4a8e197284333f5a",
+      "author_login": "curtisgibby",
+      "authored_at": "2020-11-17T17:12:17Z",
+      "message": "Fix bad apostrophe (#104)"
+    },
+    {
+      "sha": "7e8408c743aa0b512c0c52b998eb09c9ef369bf1",
+      "author_login": "goooseman",
+      "authored_at": "2020-09-24T16:31:11Z",
+      "message": "Adds Typescript definitions (#100)"
+    },
+    {
+      "sha": "6cfeb4036aaf15a69761613001dedc2d31707bf6",
+      "author_login": "TheDSCPL",
+      "authored_at": "2020-09-19T00:06:22Z",
+      "message": "Fix typo in README.md (#102)"
+    },
+    {
+      "sha": "6c8ffbdc007350081bf1f543149caced6c237501",
+      "author_login": "jwagner",
+      "authored_at": "2019-10-23T17:29:59Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d098a836e2c424db650c5fe3c8138253db56ee48",
+      "author_login": "jwagner",
+      "authored_at": "2019-05-25T21:44:17Z",
+      "message": "Add face-api.js to testbed (#92)"
+    },
+    {
+      "sha": "a5024ac168f47a608d48c47b448b9554ff664e42",
+      "author_login": "jwagner",
+      "authored_at": "2019-05-11T10:41:51Z",
+      "message": "Update dependencies"
+    },
+    {
+      "sha": "fd2853532d6430c69837373c3d326ebc4d6585d7",
+      "author_login": "jwagner",
+      "authored_at": "2019-04-09T22:32:27Z",
+      "message": "Update dependencies"
+    },
+    {
+      "sha": "056b54fb5182ffa80046184759b39d10cca1d764",
+      "author_login": "jwagner",
+      "authored_at": "2019-01-02T11:28:35Z",
+      "message": "Add smartcrop.net to ports in the readme."
+    },
+    {
+      "sha": "f4368029f5a2d7117f6b3aa6b87406387e49d527",
+      "author_login": "jwagner",
+      "authored_at": "2018-12-29T15:30:40Z",
+      "message": "Merge pull request #88 from zdanowiczkonrad/master"
+    },
+    {
+      "sha": "395a93e268502a59736ebe8e11be2437577a631a",
+      "author_login": "zdanowiczkonrad",
+      "authored_at": "2018-12-18T14:16:06Z",
+      "message": "Typo fix in saturation processiong"
+    },
+    {
+      "sha": "11614e14d55d365476bffb5980797d3a76e224cc",
+      "author_login": "jwagner",
+      "authored_at": "2018-05-24T22:06:05Z",
+      "message": "anonymizeIp in all the examples"
+    },
+    {
+      "sha": "d69396a9efb8a1d0d4abd93de971804963d3fa17",
+      "author_login": "jwagner",
+      "authored_at": "2018-04-25T21:12:51Z",
+      "message": "2.0.3"
+    },
+    {
+      "sha": "6d921f2dd85c39f88fde7d1e6f43aa2a6c24de72",
+      "author_login": "jwagner",
+      "authored_at": "2018-04-25T21:09:17Z",
+      "message": "Merge pull request #76 from muratcorlu/master"
+    },
+    {
+      "sha": "f2d874d2ac30ebb5612ddc46167d8fe273e29c82",
+      "author_login": "muratcorlu",
+      "authored_at": "2018-04-23T22:38:16Z",
+      "message": "prettier-eslint should be a devDependency"
+    },
+    {
+      "sha": "3db3408f7d2a34e060de42ba32330bd3a82682d8",
+      "author_login": "jwagner",
+      "authored_at": "2018-02-10T19:54:12Z",
+      "message": "Add viewport headers"
+    },
+    {
+      "sha": "fbba656ea442f7d06d8e0809503b473ea9054437",
+      "author_login": "jwagner",
+      "authored_at": "2018-02-10T15:34:33Z",
+      "message": "bump version to 2.0.2"
+    },
+    {
+      "sha": "bfa1a9644adf8673e74844660754a0e54e7fffe7",
+      "author_login": "jwagner",
+      "authored_at": "2018-02-10T15:38:18Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "34ba81f8c72c2a692c6d1cbe0cc2b0360c356fe4",
+      "author_login": "jwagner",
+      "authored_at": "2018-02-10T15:22:47Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "20e62f6e6085605a1f8a1adf47cd9c943494dc6a",
+      "author_login": "jwagner",
+      "authored_at": "2018-02-10T15:17:10Z",
+      "message": "Merge pull request #60 from jwagner/beta"
+    },
+    {
+      "sha": "c0033d99d595b1fb4dbb227bcff55fcd3e12cee4",
+      "author_login": "jwagner",
+      "authored_at": "2018-02-10T15:02:35Z",
+      "message": "typo in test task"
+    },
+    {
+      "sha": "05416eea2062befcf7ac20413984c7232b7ddd11",
+      "author_login": "jwagner",
+      "authored_at": "2018-02-10T14:55:14Z",
+      "message": "Make things prettier"
+    },
+    {
+      "sha": "eb9a4cf2fe503bc1342334041d4c05627f2f5a32",
+      "author_login": "jwagner",
+      "authored_at": "2018-02-10T13:46:18Z",
+      "message": "Use eslint"
+    },
+    {
+      "sha": "b90229ed0b45c9358d93cebb1e6d6a685150413b",
+      "author_login": "jwagner",
+      "authored_at": "2018-01-28T10:36:51Z",
+      "message": "README small improvements, resolves #72"
+    },
+    {
+      "sha": "b51b3186f5418d0d0db963082164c4795e9b28a1",
+      "author_login": "jwagner",
+      "authored_at": "2018-01-27T11:24:12Z",
+      "message": "add opencv.js to testbed, resolves #71"
+    },
+    {
+      "sha": "9e92140f26c736b40162e113d076709af3386d9f",
+      "author_login": "jwagner",
+      "authored_at": "2018-01-22T22:56:39Z",
+      "message": "Improve test coverage a bit more (now at ~97%)"
+    },
+    {
+      "sha": "0445c6a5aab87421aa885e129a48efa227814a1f",
+      "author_login": "jwagner",
+      "authored_at": "2018-01-22T22:47:24Z",
+      "message": "Add test for rule of thirds"
+    },
+    {
+      "sha": "8fa1278b63923086409a3aa12884f0cf2c40cfb4",
+      "author_login": "jwagner",
+      "authored_at": "2018-01-22T21:08:53Z",
+      "message": "Slight improvements to tests"
+    },
+    {
+      "sha": "4ff09196ccb64d0f6d0d59e583d76c9f4937a43a",
+      "author_login": "jwagner",
+      "authored_at": "2018-01-22T20:54:52Z",
+      "message": "Fix a typo"
+    },
+    {
+      "sha": "4c3d86e8b830563697aef3d615a30b407b0619ba",
+      "author_login": "jwagner",
+      "authored_at": "2018-01-22T17:58:20Z",
+      "message": "Fix path to promise polyfill, reenable test"
+    },
+    {
+      "sha": "efbc93faa6dd9d8d65904dcb00328ed795bf5eee",
+      "author_login": "jwagner",
+      "authored_at": "2018-01-22T17:43:44Z",
+      "message": "Update dependencies, fix tests"
+    },
+    {
+      "sha": "d145da013e12f081cafa6d676b98abd2b942d1aa",
+      "author_login": "jwagner",
+      "authored_at": "2018-01-22T15:56:35Z",
+      "message": "Specify node_js for travis"
+    },
+    {
+      "sha": "3fefbd7dea6b7f7a3a25be52c56138908a08de4d",
+      "author_login": "jwagner",
+      "authored_at": "2018-01-22T15:51:25Z",
+      "message": "Remove canvas from dev dependencies, it's only used for the benchmark"
+    },
+    {
+      "sha": "81bd489d117b9eb94e18bd3a3ac129e395a1f470",
+      "author_login": "jwagner",
+      "authored_at": "2018-01-22T15:43:05Z",
+      "message": "Merge branch 'master' into beta"
+    },
+    {
+      "sha": "9dbc1779b8f7e590e749e4da9663f90c70536561",
+      "author_login": "jwagner",
+      "authored_at": "2018-01-22T15:41:24Z",
+      "message": "More release preparation."
+    },
+    {
+      "sha": "3151b281ea5f51a4f137e63157976c81db65007a",
+      "author_login": "jwagner",
+      "authored_at": "2018-01-02T01:29:05Z",
+      "message": "remove console.log from test"
+    },
+    {
+      "sha": "8a4fbcb89906daf95a51322b6ade9bf9d6f4ed14",
+      "author_login": "jwagner",
+      "authored_at": "2016-09-23T22:39:45Z",
+      "message": "faster crops - 2.0.0 (beta)"
+    },
+    {
+      "sha": "142764acac7d55f79c9c92e07957fcc842872b67",
+      "author_login": "jwagner",
+      "authored_at": "2016-09-16T19:37:50Z",
+      "message": "1.1.1"
+    },
+    {
+      "sha": "623d271ad8faf24d78f9364fcc86b5132a368576",
+      "author_login": "jwagner",
+      "authored_at": "2017-02-19T16:20:48Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a23ac67167c4334e13994825225c51eb18eb629b",
+      "author_login": "jwagner",
+      "authored_at": "2016-09-23T22:39:45Z",
+      "message": "faster crops - 2.0.0 (beta)"
+    },
+    {
+      "sha": "50e3352eedbf97c123a703bccf93764cb5d82dd6",
+      "author_login": "jwagner",
+      "authored_at": "2016-09-17T08:49:00Z",
+      "message": "Merge pull request #49 from bfred-it/patch-1"
+    },
+    {
+      "sha": "3e62f61e4798f2ec5caccce2f14c949d795c439e",
+      "author_login": "bfred-it",
+      "authored_at": "2016-09-17T04:47:56Z",
+      "message": "Add files field to package.json"
+    },
+    {
+      "sha": "84a1dbe49c273040d77f795f42bac7b810c3e669",
+      "author_login": "bfred-it",
+      "authored_at": "2016-09-17T04:44:59Z",
+      "message": "Delete .npmignore"
+    },
+    {
+      "sha": "0c631a57f2544305da49b32d4142ca1130cba13a",
+      "author_login": "jwagner",
+      "authored_at": "2016-09-16T19:37:50Z",
+      "message": "1.1.1"
+    },
+    {
+      "sha": "1e8dc22b7114b67f6355b1ca64de59a8e55afe9b",
+      "author_login": "jwagner",
+      "authored_at": "2016-09-16T19:33:55Z",
+      "message": "Radical .npmignore"
+    },
+    {
+      "sha": "07f03edf373dcd5ae18a127912df17f7cc4c0642",
+      "author_login": "jwagner",
+      "authored_at": "2016-08-21T11:07:04Z",
+      "message": "typo in error message"
+    },
+    {
+      "sha": "c379d982c1727ebdfe8a99f893d00cef431b4def",
+      "author_login": "jwagner",
+      "authored_at": "2016-07-11T20:56:42Z",
+      "message": "Remove bower version"
+    },
+    {
+      "sha": "cd11dce5b6a668520def74197975b832eb9ef4e6",
+      "author_login": "jwagner",
+      "authored_at": "2016-07-11T20:53:43Z",
+      "message": "Release script"
+    },
+    {
+      "sha": "1e56ca62a70dc58039d6b027fbd98d807a415f20",
+      "author_login": "jwagner",
+      "authored_at": "2016-07-11T20:52:05Z",
+      "message": "1.1.0"
+    },
+    {
+      "sha": "2b90cab794d61be3e2a08f3c0573de0df01d5bcd",
+      "author_login": "jwagner",
+      "authored_at": "2016-07-11T20:46:59Z",
+      "message": "ignore more files"
+    },
+    {
+      "sha": "94e5cc3f17111e855fb956c577d047fc0c8bf64a",
+      "author_login": "jwagner",
+      "authored_at": "2016-07-11T20:34:21Z",
+      "message": "Added .gitattributes for release script"
+    },
+    {
+      "sha": "1376a54b3262188020b44359a5ff4b78b262281e",
+      "author_login": "jwagner",
+      "authored_at": "2016-07-07T20:52:36Z",
+      "message": "Pass options.input to iop.open"
+    },
+    {
+      "sha": "7faea8b8423b51b09367b1b54e7bae721336f19d",
+      "author_login": "jwagner",
+      "authored_at": "2016-06-27T17:31:09Z",
+      "message": "Added travis badge"
+    },
+    {
+      "sha": "1d7df124bbb522230bae10b0a17421c3badca3e6",
+      "author_login": "jwagner",
+      "authored_at": "2016-06-27T17:26:36Z",
+      "message": "Run tests in more browsers"
+    },
+    {
+      "sha": "9cc9e628c15a8884e1f4512de721805d092c2692",
+      "author_login": "jwagner",
+      "authored_at": "2016-06-27T17:13:17Z",
+      "message": "ci experiment"
+    },
+    {
+      "sha": "7b894244ec93dee6d03acec2a50eb7ff7679cb36",
+      "author_login": "jwagner",
+      "authored_at": "2016-06-25T14:56:29Z",
+      "message": "Merge pull request #40 from jwagner/1.0"
+    },
+    {
+      "sha": "d9bb043b7311ff14e65191cfb1bed4df0fc8745c",
+      "author_login": "jwagner",
+      "authored_at": "2016-06-25T14:56:02Z",
+      "message": "Testbed fixes"
+    },
+    {
+      "sha": "c13e616d99e011337327f23a8944068e45b648f6",
+      "author_login": "jwagner",
+      "authored_at": "2016-06-25T11:18:24Z",
+      "message": "testsuite tweaks"
+    },
+    {
+      "sha": "afc15fd5831a890ce7c97fd7a21f4a5df71cfadb",
+      "author_login": "jwagner",
+      "authored_at": "2016-06-25T10:26:17Z",
+      "message": "Added facedetection support/examples"
+    },
+    {
+      "sha": "513ddf098e94ef1334bbecbb107a093ae9230262",
+      "author_login": "jwagner",
+      "authored_at": "2016-06-17T22:49:06Z",
+      "message": "Merge remote-tracking branch 'origin/master' into 1.0"
+    },
+    {
+      "sha": "4e753bb107d877f7159fba88380b6503d943ffbd",
+      "author_login": "jwagner",
+      "authored_at": "2016-06-17T22:44:50Z",
+      "message": "Update version"
+    },
+    {
+      "sha": "d461a63485e5e427090a939eebdb924c3ec86389",
+      "author_login": "jwagner",
+      "authored_at": "2016-06-17T22:44:08Z",
+      "message": "Unbreak resample iop, expose ImgData"
+    },
+    {
+      "sha": "483becb2f9c1d00319c33ef794764604912dac7d",
+      "author_login": "jwagner",
+      "authored_at": "2016-06-03T12:53:23Z",
+      "message": "update readme"
+    },
+    {
+      "sha": "cd6364f2d1b5adcbb88f6e90d698563d4595e85e",
+      "author_login": "jwagner",
+      "authored_at": "2016-05-03T18:00:37Z",
+      "message": "Merge pull request #38 from DisruptiveAngels/master"
+    },
+    {
+      "sha": "c7cc5e4d57f2e6f6725c344401b0cc34a37bce78",
+      "author_login": "acrogenesis",
+      "authored_at": "2016-05-02T18:42:06Z",
+      "message": "analyze on range input"
+    },
+    {
+      "sha": "8803098164a0a161f568c5f97265917413abd3db",
+      "author_login": "jwagner",
+      "authored_at": "2016-02-27T13:06:56Z",
+      "message": "Cleaning up for 1.0."
+    },
+    {
+      "sha": "0f23d7b1b9ad2d83538c42fc1000c0b7ce3a263c",
+      "author_login": "jwagner",
+      "authored_at": "2016-02-27T10:29:31Z",
+      "message": "Merge remote-tracking branch 'origin/master' into jscs"
+    },
+    {
+      "sha": "9a987986f267e9bb91281b10504f65c238fc26dc",
+      "author_login": "jwagner",
+      "authored_at": "2016-02-27T02:06:01Z",
+      "message": "experiments with jscs & atom"
+    },
+    {
+      "sha": "f981d163b325e331a9a0aaf67cda4113d5cb6252",
+      "author_login": "jwagner",
+      "authored_at": "2016-02-27T00:11:52Z",
+      "message": "consistent naming"
+    },
+    {
+      "sha": "d1cf4b8330ca1a04ffc823523d09277280c2c7a8",
+      "author_login": "jwagner",
+      "authored_at": "2015-11-13T19:26:50Z",
+      "message": "Merge pull request #24 from curtisgibby/patch-1"
+    },
+    {
+      "sha": "a40e5c7bfff454588d4d7331af391e4f1194bce6",
+      "author_login": "curtisgibby",
+      "authored_at": "2015-11-11T22:13:23Z",
+      "message": "remove Bad Apostrophe"
+    },
+    {
+      "sha": "ee36ea37a74329d261c910190bf62fef95a3e1ce",
+      "author_login": "jwagner",
+      "authored_at": "2015-11-10T21:18:43Z",
+      "message": "Merge pull request #21 from dimitrovskif/master"
+    },
+    {
+      "sha": "90f2ff57c5a767cb0a86ec47893f7f9c246732dc",
+      "author_login": "jwagner",
+      "authored_at": "2015-11-10T21:16:12Z",
+      "message": "Added smartcrop-rails to readme"
+    },
+    {
+      "sha": "917ab8236ab5e11274fa57a47bef4536fb7425c8",
+      "author_login": "fikisipi",
+      "authored_at": "2015-10-31T12:01:06Z",
+      "message": "Clarify that cross-origin disallows external images"
+    },
+    {
+      "sha": "6340ee55e47db971b358a1db460687d29c3f961b",
+      "author_login": "jwagner",
+      "authored_at": "2015-10-30T21:38:30Z",
+      "message": "Fixed/improved the downSampling"
+    },
+    {
+      "sha": "dd50a628a59eafab2caaef65bdcb40d5063ebf11",
+      "author_login": "jwagner",
+      "authored_at": "2015-10-30T19:56:19Z",
+      "message": "STILL VERY WIP, better but still fucked"
+    },
+    {
+      "sha": "ac6a0ea1af430544e61fe19b9e749d24f7f361dc",
+      "author_login": "jwagner",
+      "authored_at": "2015-10-30T18:35:25Z",
+      "message": "WIP: make smartCrop independent of canvas"
+    },
+    {
+      "sha": "29a94671679b2c51c02140c16cbf8cb6e9a04eae",
+      "author_login": "jwagner",
+      "authored_at": "2015-10-30T13:22:15Z",
+      "message": "cleanup/refactor"
+    },
+    {
+      "sha": "c83145b55478fba4f465fe47505077eae5e513f8",
+      "author_login": "jwagner",
+      "authored_at": "2015-10-20T17:36:26Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "67ab591538d7ba02bca054db1d66d7664929c780",
+      "author_login": "jwagner",
+      "authored_at": "2015-10-20T17:35:23Z",
+      "message": "Added connect-thumbs"
+    },
+    {
+      "sha": "38161f32a77a80dbd829b11cb92721e973ac5fc8",
+      "author_login": "jwagner",
+      "authored_at": "2015-10-20T17:28:18Z",
+      "message": "Merge pull request #16 from IonicaBizauKitchen/patch-1"
+    },
+    {
+      "sha": "cefc43a62dc0b0b61f5557689a54323ca3b12a1c",
+      "author_login": "IonicaBizau",
+      "authored_at": "2015-10-20T11:01:20Z",
+      "message": "Fixed a minor typo in the README.md file"
+    },
+    {
+      "sha": "7c1ba66561339aacb970d015e08aea87e4407701",
+      "author_login": "jwagner",
+      "authored_at": "2015-10-15T07:50:23Z",
+      "message": "Merge pull request #8 from adambarber/patch-1"
+    },
+    {
+      "sha": "651996765b8579b6267771e4a8499f4bf22d570f",
+      "author_login": "adambarber",
+      "authored_at": "2015-10-14T18:18:13Z",
+      "message": "Fixed small typo in README"
+    },
+    {
+      "sha": "2ca503e62336cf1cc29db61518f40560ae45393e",
+      "author_login": "jwagner",
+      "authored_at": "2015-10-04T19:00:30Z",
+      "message": "remove warning from readme"
+    },
+    {
+      "sha": "1be7ace211f105c5d8c84711966e109d9fb9abd0",
+      "author_login": "jwagner",
+      "authored_at": "2014-12-22T12:49:07Z",
+      "message": "Merge pull request #6 from pjackowski/master"
+    },
+    {
+      "sha": "8c9aa2a2087a61d0fc771a66da6ae5c496aaac36",
+      "author_login": "pjackowski",
+      "authored_at": "2014-10-31T13:32:50Z",
+      "message": "Simplified two if statements."
+    },
+    {
+      "sha": "08a577a338e57873818c03585df3855057096c4a",
+      "author_login": "jwagner",
+      "authored_at": "2014-09-29T22:15:55Z",
+      "message": "Update README.md"
+    }
+  ],
+  "issues": [
+    {
+      "number": 142,
+      "title": "fix: correct luminance coefficients in cie() function",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-01T12:03:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 141,
+      "title": "Running smartcrop.js on product images gives a non centered image",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-16T13:12:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 139,
+      "title": "Smartcrop is failing in latest ImageMagick",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-17T20:03:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 138,
+      "title": "Is it possible to use this with react-native for IOS",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-04T14:40:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 137,
+      "title": "Error during pip install ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-04-25T16:29:14Z",
+      "closed_at": "2024-04-25T16:31:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 136,
+      "title": "Bump the npm_and_yarn group across 1 directory with 2 updates",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-03-16T23:45:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 135,
+      "title": "Bump the npm_and_yarn group across 1 directories with 1 update",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-21T03:23:39Z",
+      "closed_at": "2024-03-16T23:45:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 134,
+      "title": "Bump the npm_and_yarn group group with 1 update",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-23T19:48:10Z",
+      "closed_at": "2024-01-23T19:52:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 133,
+      "title": "Update deps, reduce number of face detection examples",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-23T19:45:25Z",
+      "closed_at": "2024-01-23T19:47:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 132,
+      "title": "Bump follow-redirects from 1.14.4 to 1.15.5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-23T17:57:44Z",
+      "closed_at": "2024-01-23T19:52:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 131,
+      "title": "Bump minimist from 1.2.5 to 1.2.8",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-23T17:57:42Z",
+      "closed_at": "2024-01-23T19:47:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 130,
+      "title": "Bump nanoid and mocha",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-23T17:57:37Z",
+      "closed_at": "2024-01-23T19:48:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 129,
+      "title": "Bump decode-uri-component from 0.2.0 to 0.2.2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-23T17:57:04Z",
+      "closed_at": "2024-01-23T19:52:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 128,
+      "title": "Bump async from 2.6.3 to 2.6.4",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-23T17:56:57Z",
+      "closed_at": "2024-01-23T19:53:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 127,
+      "title": "Bump qs and body-parser",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-23T17:56:47Z",
+      "closed_at": "2024-01-23T19:53:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 126,
+      "title": "Bump ansi-regex from 3.0.0 to 3.0.1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-23T17:56:43Z",
+      "closed_at": "2024-01-23T19:47:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 125,
+      "title": "Codespace symmetrical giggle jj5gwg7g7q79fxrq",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-27T06:16:09Z",
+      "closed_at": "2023-10-27T06:16:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 124,
+      "title": "Is width/height ratio respected for cropping?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-11T04:02:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 123,
+      "title": "Cropped images are sometimes 1 pixel too small",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-20T03:49:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 122,
+      "title": "consider using defocus detection algorithm",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-20T23:04:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 121,
+      "title": "Consider using face-api fork",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-15T20:33:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 120,
+      "title": "Example using faceapi with smartcrop-sharp on nodejs?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-15T14:39:54Z",
+      "closed_at": "2023-02-15T20:22:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 119,
+      "title": "smartcrop takes a callback function as third arg",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-02-07T08:42:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 118,
+      "title": "is it possible to input raw data & get raw data as output?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-19T15:21:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 117,
+      "title": "Add CDN Example",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-07-07T15:50:11Z",
+      "closed_at": "2022-07-09T12:51:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 116,
+      "title": "How to use for iOS?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-10T02:53:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 115,
+      "title": "Import api-face",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-04-26T08:49:38Z",
+      "closed_at": "2022-05-31T16:23:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 114,
+      "title": "Smartcrop for Swift",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-04-11T11:26:11Z",
+      "closed_at": "2022-05-31T16:24:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 113,
+      "title": "Type Definition Error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-12-20T22:53:04Z",
+      "closed_at": "2022-07-16T11:46:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 112,
+      "title": "Test blazeface face detector",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-03T09:59:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 111,
+      "title": "Fix #110 Type Definition Error",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-01T17:55:01Z",
+      "closed_at": "2021-09-01T18:01:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 110,
+      "title": "Type Definition Error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-09-01T13:45:40Z",
+      "closed_at": "2021-09-01T18:01:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 109,
+      "title": "Update dependencies",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-04T14:57:57Z",
+      "closed_at": "2021-07-04T15:00:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 108,
+      "title": "s/travis/github actions/",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-04T14:27:06Z",
+      "closed_at": "2021-07-04T14:44:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 107,
+      "title": "Ability to remove background behind detected object",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-02T12:16:27Z",
+      "closed_at": "2021-06-03T23:51:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 106,
+      "title": "Cropped image dimensions by 30% is like 5% less size on memory",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-15T22:06:46Z",
+      "closed_at": "2021-05-19T22:29:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 105,
+      "title": "Remove invalid named export from typedefs",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-04-24T13:47:27Z",
+      "closed_at": "2021-04-26T21:40:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 104,
+      "title": "Fix bad apostrophe",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-11-17T16:46:02Z",
+      "closed_at": "2020-11-17T17:12:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 103,
+      "title": "Option for multiple base skin colours",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-21T13:26:27Z",
+      "closed_at": "2020-09-24T17:30:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 102,
+      "title": "Fix typo in README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-18T09:56:16Z",
+      "closed_at": "2020-09-19T00:06:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 101,
+      "title": "[Feature Request] Typescript declaration file",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-03T06:22:09Z",
+      "closed_at": "2020-11-16T23:40:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 100,
+      "title": "Adds Typescript definitions",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-15T22:37:35Z",
+      "closed_at": "2020-09-24T16:31:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 99,
+      "title": "Ft Request - Object-Position: var% var%;",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-03-19T16:03:10Z",
+      "closed_at": "2021-06-03T23:51:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 94,
+      "title": "Smartcrop removing JPEG metadata",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-02-25T12:42:34Z",
+      "closed_at": "2021-06-03T23:52:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 93,
+      "title": "Boost not working",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-10-14T19:44:07Z",
+      "closed_at": "2019-12-28T18:54:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 92,
+      "title": "face-api",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-22T20:59:29Z",
+      "closed_at": "2019-05-25T21:44:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 91,
+      "title": "cropping not remove empty zones and just minimize my image",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-20T03:49:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 90,
+      "title": "Can't find best crop",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-02-11T11:02:10Z",
+      "closed_at": "2019-04-09T22:35:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 89,
+      "title": "Base64",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-02-04T18:05:54Z",
+      "closed_at": "2019-02-19T22:53:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 88,
+      "title": "Typo fix in saturation processing",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-12-18T14:20:38Z",
+      "closed_at": "2018-12-29T15:30:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 87,
+      "title": "any guides for setup face detection?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-12-17T20:27:22Z",
+      "closed_at": "2019-02-19T22:53:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 86,
+      "title": "CIE Transformation: Why are custom values used",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-09-02T17:31:13Z",
+      "closed_at": "2018-09-02T17:34:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "Aspect ratio instead of pixel amount",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-08-17T10:36:21Z",
+      "closed_at": "2018-08-22T15:51:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "Crop white space from images",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-07-25T08:10:19Z",
+      "closed_at": "2018-08-05T22:23:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "examples for picture tags",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-07-10T07:00:57Z",
+      "closed_at": "2020-09-12T17:23:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 82,
+      "title": "Is it possible to force centering?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-07T15:08:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 81,
+      "title": "Is is possible to generate a percentage center point instead of absolute boundary?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-28T03:00:12Z",
+      "closed_at": "2024-10-05T12:03:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "Confused about the input width and height",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-25T03:18:59Z",
+      "closed_at": "2018-06-02T20:10:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "The algorithm of skin detect",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-01T07:30:44Z",
+      "closed_at": "2018-05-01T20:28:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "Solution to this image?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-01T00:27:36Z",
+      "closed_at": "2018-05-26T07:47:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "Typoed coefficients in luminance calculation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-27T15:20:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "prettier-eslint should be a devDependency (fixes #75)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-23T22:46:31Z",
+      "closed_at": "2018-04-25T21:09:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "prettier-eslint should be a devDependency",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-04-23T22:37:05Z",
+      "closed_at": "2018-04-25T21:09:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "Any way to crop the image into a circle, instead of a square?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-04-16T19:12:17Z",
+      "closed_at": "2018-05-26T07:48:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "would it make sense to put skinDetection optional?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-02-19T16:37:27Z",
+      "closed_at": "2018-02-21T01:00:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "Document face detection in README",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-01-27T11:27:32Z",
+      "closed_at": "2018-02-10T15:17:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "Add OpenCV.js face detection example",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-01-27T09:12:55Z",
+      "closed_at": "2018-02-10T15:17:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "Investigate multiscale approaches again",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-22T17:24:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "Create a short beginner friendly tutorial on using smartcrop.js and how it works",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-22T17:19:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "If I want to do image by image?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-01-17T10:58:45Z",
+      "closed_at": "2018-02-03T08:20:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "Investigate adding a center bias",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-02T01:28:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "Check acceptableSaturation in saturationDetect",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-14T00:10:33Z",
+      "closed_at": "2018-01-27T11:30:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 65,
+      "title": "saturationDetect doesn't check saturationThreshold",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-12-13T23:56:00Z",
+      "closed_at": "2018-02-10T15:56:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "React",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-16T17:34:30Z",
+      "closed_at": "2017-12-28T11:29:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": "add support for page detection",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-09-24T22:31:11Z",
+      "closed_at": "2017-10-05T19:25:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "Content Security Policy",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-19T16:32:08Z",
+      "closed_at": "2017-08-22T13:49:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "Can add size option in cropOptions?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-16T09:39:17Z",
+      "closed_at": "2017-08-22T03:42:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "Merge 2.0",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-07-28T19:14:30Z",
+      "closed_at": "2018-02-10T15:17:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "Inconsistency while cropping images",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-07-26T18:58:02Z",
+      "closed_at": "2018-02-10T15:55:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "Error using smartcrop with FileReader()",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-07-19T13:55:18Z",
+      "closed_at": "2017-09-09T13:04:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "Symmetry",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-05-29T14:17:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "Support for images through standard input",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-04-12T22:08:08Z",
+      "closed_at": "2017-04-14T11:53:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "Experiment with a hog/svm based face / object detector.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-03-09T12:55:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 54,
+      "title": "Java and Android port",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-01-24T14:30:09Z",
+      "closed_at": "2017-02-19T16:21:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "PHP Port",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-12-23T23:33:21Z",
+      "closed_at": "2017-03-19T21:19:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 52,
+      "title": "how is it possible to record the picture",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-11-08T09:01:45Z",
+      "closed_at": "2016-11-11T21:42:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 51,
+      "title": "Clarify in documentation how input width/height and output width/height correlate",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-10-24T00:13:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 50,
+      "title": "Is there any solution for .net framework?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-10-10T15:45:56Z",
+      "closed_at": "2016-11-11T21:46:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 49,
+      "title": "Use files field instead of npmignore",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-09-17T04:48:48Z",
+      "closed_at": "2016-09-17T08:49:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 48,
+      "title": "NPM tarball contains non-essential files",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-09-16T17:20:19Z",
+      "closed_at": "2016-09-16T19:49:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 47,
+      "title": "Add canvas peer dependency",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-08-23T04:49:57Z",
+      "closed_at": "2016-08-23T15:02:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 46,
+      "title": "When decreasing minScale, generating crop size takes astronomically longer",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-08-20T21:49:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 45,
+      "title": "Return just focal point",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-08-14T22:44:17Z",
+      "closed_at": "2016-08-20T21:43:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 44,
+      "title": "smartcrop.js as Common.js Module",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-07-19T08:08:02Z",
+      "closed_at": "2016-07-30T14:35:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 43,
+      "title": "Release",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-07-08T15:40:26Z",
+      "closed_at": "2016-07-12T08:20:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 42,
+      "title": "Add options object to iop.open call",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-07-04T09:21:41Z",
+      "closed_at": "2016-07-08T08:39:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 41,
+      "title": "document is not defined",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-06-28T02:55:48Z",
+      "closed_at": "2016-06-28T09:44:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 40,
+      "title": "1.0",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-06-03T12:53:59Z",
+      "closed_at": "2016-06-25T14:56:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 39,
+      "title": "Mobile camera capture issue",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-06-02T05:30:37Z",
+      "closed_at": "2016-06-03T11:08:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "analyze on range input",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-05-02T18:55:51Z",
+      "closed_at": "2016-05-03T18:00:37Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "jwagner",
+      "contributions": 116
+    },
+    {
+      "login": "muesli",
+      "contributions": 3
+    },
+    {
+      "login": "curtisgibby",
+      "contributions": 2
+    },
+    {
+      "login": "bfred-it",
+      "contributions": 2
+    },
+    {
+      "login": "adambarber",
+      "contributions": 1
+    },
+    {
+      "login": "acrogenesis",
+      "contributions": 1
+    },
+    {
+      "login": "goooseman",
+      "contributions": 1
+    },
+    {
+      "login": "IonicaBizau",
+      "contributions": 1
+    },
+    {
+      "login": "zdanowiczkonrad",
+      "contributions": 1
+    },
+    {
+      "login": "kripod",
+      "contributions": 1
+    },
+    {
+      "login": "TheDSCPL",
+      "contributions": 1
+    },
+    {
+      "login": "muratcorlu",
+      "contributions": 1
+    },
+    {
+      "login": "fikisipi",
+      "contributions": 1
+    },
+    {
+      "login": "pjackowski",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v2.0.5",
+      "published_at": "2021-09-01T18:04:39Z"
+    },
+    {
+      "tag": "v2.0.4",
+      "published_at": "2021-07-24T17:39:09Z"
+    },
+    {
+      "tag": "v2.0.3",
+      "published_at": "2018-04-25T21:13:10Z"
+    },
+    {
+      "tag": "2.0.2",
+      "published_at": "2018-02-10T15:37:46Z"
+    },
+    {
+      "tag": "v1.1.1",
+      "published_at": "2016-09-16T19:38:19Z"
+    },
+    {
+      "tag": "v1.1.0",
+      "published_at": "2016-07-11T20:53:01Z"
+    }
+  ],
+  "collected_at": "2026-08-17T06:39:26.325212Z"
+}

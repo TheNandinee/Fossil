@@ -1,0 +1,1840 @@
+{
+  "full_name": "gnab/remark",
+  "owner": "gnab",
+  "name": "remark",
+  "url": "https://github.com/gnab/remark",
+  "description": "A simple, in-browser, markdown-driven slideshow tool.",
+  "primary_language": "JavaScript",
+  "topics": [
+    "html",
+    "javascript",
+    "markdown",
+    "slideshow"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 13001,
+  "forks": 859,
+  "open_issues": 181,
+  "created_at": "2011-10-11T08:15:16Z",
+  "pushed_at": "2024-06-19T09:27:31Z",
+  "updated_at": "2026-08-14T16:47:15Z",
+  "commits": [
+    {
+      "sha": "be58d65d59faca35f6ea3f55aeb8f65ef76305a3",
+      "author_login": "tripu",
+      "authored_at": "2023-06-27T07:58:08Z",
+      "message": "Merge pull request #693 from ryanrolds/highlight_update"
+    },
+    {
+      "sha": "1d0575998150092a0f05313b4553249844621f3a",
+      "author_login": "ryanrolds",
+      "authored_at": "2023-06-24T20:32:50Z",
+      "message": "Updated highlighter"
+    },
+    {
+      "sha": "c526fb836246040a6f58d42b4f019e64f44e33bc",
+      "author_login": "tripu",
+      "authored_at": "2023-06-01T09:36:13Z",
+      "message": "Merge pull request #690 from wolterhv/patch-1"
+    },
+    {
+      "sha": "8ce67b14a685ce339b630710009899b8cde981af",
+      "author_login": "wolterhv",
+      "authored_at": "2023-05-31T11:54:22Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1bbce13f65c25990c4f140cd6fbd88cfb768cf25",
+      "author_login": "tripu",
+      "authored_at": "2022-05-24T16:15:00Z",
+      "message": "Merge pull request #675 from adamkusmirek/Fix(#674)"
+    },
+    {
+      "sha": "6af4fd316c928d4e54e8e393b30eb123d2e23598",
+      "author_login": "adamkusmirek",
+      "authored_at": "2022-05-24T11:05:49Z",
+      "message": "Fix for Issue #674: broken gh pages links"
+    },
+    {
+      "sha": "f32c421e7695632fe56ff57064f46cd51bb36524",
+      "author_login": "peterj",
+      "authored_at": "2022-01-04T23:42:53Z",
+      "message": "Merge pull request #666 from gnab/fix/665"
+    },
+    {
+      "sha": "c16c76a22f42370c053d0e9f380ec1313099dc4f",
+      "author_login": "tripu",
+      "authored_at": "2021-12-02T16:38:21Z",
+      "message": "Fix #665 (broken link in README)"
+    },
+    {
+      "sha": "49f47c82b333ebf6656c54125f8ca58f00b6eb34",
+      "author_login": "gnab",
+      "authored_at": "2021-05-23T08:53:49Z",
+      "message": "Revert \"Merge pull request #490 from joel-porquet/font_size\""
+    },
+    {
+      "sha": "b7e94837a38615bda89c7e1a659fc389bb9be0b8",
+      "author_login": "gnab",
+      "authored_at": "2021-05-23T08:49:05Z",
+      "message": "Merge branch 'develop' of https://github.com/gnab/remark into develop"
+    },
+    {
+      "sha": "eac4afc10f38774c065de825bbc116d640c5dc64",
+      "author_login": "gnab",
+      "authored_at": "2021-05-23T08:45:54Z",
+      "message": "Merge pull request #523 from studiozeffa/feature/silent-separator"
+    },
+    {
+      "sha": "70708a25c82d78e43be6ac2d41c5e774d6feeeb5",
+      "author_login": "gnab",
+      "authored_at": "2021-05-23T08:43:36Z",
+      "message": "Update lexer.js"
+    },
+    {
+      "sha": "32899222d0a19c4b49776fb4e6facc973ca4c220",
+      "author_login": "gnab",
+      "authored_at": "2021-05-23T08:34:51Z",
+      "message": "Merge branch 'pr-523' into develop"
+    },
+    {
+      "sha": "39e41f06313e0071480930f326d18bd200a5347c",
+      "author_login": "tripu",
+      "authored_at": "2021-05-03T10:02:13Z",
+      "message": "fix(documentation): fix link in “readme” (#651)"
+    },
+    {
+      "sha": "c69c25fa94c45ac8bfa668bee1d878e86517f93a",
+      "author_login": "peterj",
+      "authored_at": "2021-01-07T22:27:23Z",
+      "message": "Merge pull request #632 from kud/patch-1"
+    },
+    {
+      "sha": "e25b9196e911ffaf2c6b01db406795d9798cbd4c",
+      "author_login": "peterj",
+      "authored_at": "2021-01-07T22:26:43Z",
+      "message": "Merge pull request #640 from harmtemolder/develop"
+    },
+    {
+      "sha": "d40ee1c521c6c5f973272bb55f8fda695e99d62b",
+      "author_login": "harmtemolder",
+      "authored_at": "2020-12-12T16:18:38Z",
+      "message": "Add favicon"
+    },
+    {
+      "sha": "f535686a3822a894e7482fc5fdd69161f2a46b1c",
+      "author_login": null,
+      "authored_at": "2020-06-11T09:33:18Z",
+      "message": "typo(README): on my first name 😬"
+    },
+    {
+      "sha": "6384a3e18c20be437cdaf61bfbbf38fd12733caf",
+      "author_login": "gnab",
+      "authored_at": "2020-06-09T21:31:45Z",
+      "message": "Comment on local boilerplate requiring build (#553)"
+    },
+    {
+      "sha": "fb3b26f9223db0be5e4b6f0cc476ce62802e11cc",
+      "author_login": "gnab",
+      "authored_at": "2020-06-09T21:22:36Z",
+      "message": "Fix test description"
+    },
+    {
+      "sha": "cb65efe6df468cfa85640d8f3b8be4c9bbab5cdc",
+      "author_login": "gnab",
+      "authored_at": "2020-06-09T21:16:24Z",
+      "message": "Merge branch 'develop' of https://github.com/gnab/remark into develop"
+    },
+    {
+      "sha": "92ed68d5e3884c948780b60eeff3ded9c6d11f36",
+      "author_login": "gnab",
+      "authored_at": "2020-06-09T21:16:11Z",
+      "message": "Do not inherit presenter notes by default (#574)"
+    },
+    {
+      "sha": "5f7d3f33d62a56b53409370518ea46416e196423",
+      "author_login": "gnab",
+      "authored_at": "2020-06-09T20:25:13Z",
+      "message": "Add xs:code badge"
+    },
+    {
+      "sha": "10b75158983d61cc07384e09713137c4f823d3c0",
+      "author_login": "peterj",
+      "authored_at": "2020-01-28T17:43:15Z",
+      "message": "Merge pull request #619 from gnab/peterj/fix-for-count"
+    },
+    {
+      "sha": "b3b05ff2a45c81204c9e2203ae2c8122bb51f731",
+      "author_login": "peterj",
+      "authored_at": "2020-01-27T20:52:00Z",
+      "message": "Fixing the issue where byNumber[slideNumber] was undefined, yet we were still calling .push on it"
+    },
+    {
+      "sha": "637be99062b12c342024716ec40cd893f2b1f67b",
+      "author_login": "peterj",
+      "authored_at": "2020-01-18T23:13:13Z",
+      "message": "Merge pull request #611 from gnab/peterj/update-boilerplate-single"
+    },
+    {
+      "sha": "7e98407f1b10d776b75c12e61b8e359fdd400a7d",
+      "author_login": "peterj",
+      "authored_at": "2020-01-18T23:12:02Z",
+      "message": "Update boilerplate-single.html"
+    },
+    {
+      "sha": "6831806c518424309753da90dea9ef1db33881fa",
+      "author_login": "peterj",
+      "authored_at": "2020-01-18T23:08:06Z",
+      "message": "Merge pull request #610 from gnab/master"
+    },
+    {
+      "sha": "44301c87da08bb2c3e10ed62f254359edbfd8b11",
+      "author_login": "peterj",
+      "authored_at": "2020-01-18T23:07:35Z",
+      "message": "Version update to 0.15.0"
+    },
+    {
+      "sha": "9ce1e2d12ad5aca4a4d8104409207a036df7faba",
+      "author_login": "peterj",
+      "authored_at": "2020-01-18T22:59:29Z",
+      "message": "Merge branch 'master' into develop"
+    },
+    {
+      "sha": "0c2ee860e25dc1a53f8e6323c965da0c0ae34986",
+      "author_login": "peterj",
+      "authored_at": "2020-01-13T17:40:02Z",
+      "message": "Merge pull request #609 from gnab/peterj/update-history"
+    },
+    {
+      "sha": "7fca0ccd5e83c694cdf3b1f594b4a7050f894d85",
+      "author_login": "peterj",
+      "authored_at": "2020-01-11T20:10:23Z",
+      "message": "Update HISTORY with PRs and bump the version in package.json to 0.15.0"
+    },
+    {
+      "sha": "c26df9764d84a39eb005615e63584a043b2b7cb6",
+      "author_login": "peterj",
+      "authored_at": "2020-01-11T19:21:58Z",
+      "message": "Merge pull request #605 from gnab/peterj/add-contributors"
+    },
+    {
+      "sha": "49fc5bbd3bbf0bad9d7b50a7bc6b4328d7a6abfd",
+      "author_login": "peterj",
+      "authored_at": "2020-01-11T00:14:06Z",
+      "message": "Update the list of contributors (wiki + repo)"
+    },
+    {
+      "sha": "fef2226f1310d51ed6d0dbd06c2d5e4e17f10dff",
+      "author_login": "peterj",
+      "authored_at": "2020-01-10T23:42:53Z",
+      "message": "Merge pull request #607 from mschilli87/develop"
+    },
+    {
+      "sha": "b3d7038ebeeb43d57a8dbbbcc1577f9f99af0178",
+      "author_login": "gnab",
+      "authored_at": "2020-01-10T22:47:28Z",
+      "message": "Merge pull request #606 from jonathanlilly/develop"
+    },
+    {
+      "sha": "43cfbb6cc96c844f1553037585a56d72e39c8643",
+      "author_login": "mschilli87",
+      "authored_at": "2020-01-09T10:11:36Z",
+      "message": "Add missing final newline to Travis YAML"
+    },
+    {
+      "sha": "3fcd0ec9de593af9e0531bb8a0767c578ab87e5a",
+      "author_login": "jonathanlilly",
+      "authored_at": "2020-01-09T06:29:21Z",
+      "message": "Updated readme"
+    },
+    {
+      "sha": "24cb46c929ea08c56d65b76de95e4c08367da2a7",
+      "author_login": "jonathanlilly",
+      "authored_at": "2020-01-09T06:23:40Z",
+      "message": "Updated readme to include links to 2 new projects"
+    },
+    {
+      "sha": "b7f52f6c53d71760b38b32b8b8d27b9b6388f8f8",
+      "author_login": "peterj",
+      "authored_at": "2020-01-08T19:19:09Z",
+      "message": "Update the list of contributors"
+    },
+    {
+      "sha": "48397a18ba107f3bd8b39b18782de864be9e3128",
+      "author_login": "peterj",
+      "authored_at": "2020-01-06T20:04:45Z",
+      "message": "Merge pull request #596 from fifth-postulate/issue-195"
+    },
+    {
+      "sha": "dbf8433f12b60aa24367afc4115bf7a4dfcab666",
+      "author_login": "peterj",
+      "authored_at": "2020-01-03T20:42:18Z",
+      "message": "Merge pull request #590 from peterj/develop"
+    },
+    {
+      "sha": "d6f861b3b8d1f93382225c527a9f24705c5e695d",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-28T10:46:37Z",
+      "message": "Describe the s option in the keyboard shortcuts"
+    },
+    {
+      "sha": "c43d8b650ad5d6189f2a0dfc3deb06609709341e",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-28T10:19:28Z",
+      "message": "Do not display timer when disabled"
+    },
+    {
+      "sha": "ecce56a6d04c84b0d4c4f68a47cce502a8a6eb08",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-28T10:14:42Z",
+      "message": "time should be backwards compatible"
+    },
+    {
+      "sha": "13e1b081ccda52b74b6e22bb78eb07362eb6d0e8",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-28T09:43:24Z",
+      "message": "Wire Timer into application"
+    },
+    {
+      "sha": "86a33b402a5215c5d6bfa09a5185278b3e7b2fd2",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-28T08:32:14Z",
+      "message": "allow to disable timer"
+    },
+    {
+      "sha": "752deb374014dc43502ed2afbbdec211ef07802e",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-28T08:27:58Z",
+      "message": "Make sure that options are always present"
+    },
+    {
+      "sha": "70efbac8c132d9788d7611834fd69afdba048e38",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-26T16:45:49Z",
+      "message": "Introduce a custom formatter"
+    },
+    {
+      "sha": "44cd012f8f1c728af672a88ec8c0150dec0a60a6",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-26T15:07:48Z",
+      "message": "Introduce a toggleTimer event"
+    },
+    {
+      "sha": "097f18bbe19cfc9b86cc2dcbdefb7ce8c53bf4b4",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-26T14:59:31Z",
+      "message": "Refactor timer to adhere to the same style"
+    },
+    {
+      "sha": "4e169b334ed3f2b3af26741f9f21395cb450543e",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-26T07:44:59Z",
+      "message": "Format the time"
+    },
+    {
+      "sha": "f746c3c122dda355da23f0de3a4b3b2ce1d37e28",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-25T06:39:54Z",
+      "message": "Create a reset function"
+    },
+    {
+      "sha": "dd660aee691449d53c9f30e91be021310fbe97bc",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-21T13:25:12Z",
+      "message": "Make Chronos into a constructor"
+    },
+    {
+      "sha": "58ac84bd4e606f1b695bbf39e720849e6a930d65",
+      "author_login": "peterj",
+      "authored_at": "2019-12-23T16:57:22Z",
+      "message": "Merge pull request #594 from gnab/feature/move-to-mocha-chrome"
+    },
+    {
+      "sha": "c0e802c6e3b77b59a3f4b43e01e77f504d31be60",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-21T11:25:42Z",
+      "message": "Introduce a chronos structure"
+    },
+    {
+      "sha": "23658f3dd9eb3e7093179c5d4e24a6c0f9cd5f73",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-20T19:57:59Z",
+      "message": "Timer should is in correct state after receiving events"
+    },
+    {
+      "sha": "bcee23387eb1c95d8ee0834eec7e04eff5bc03d0",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-20T09:58:15Z",
+      "message": "Pass SlideshowView entire options instead of options.container"
+    },
+    {
+      "sha": "70578d2317f1319adb5a9c43cd46f64bd285f53a",
+      "author_login": "peterj",
+      "authored_at": "2019-12-19T18:03:58Z",
+      "message": "Remove Node 6 from travis.yml"
+    },
+    {
+      "sha": "ea655c9c021c347b895ac77447fd99c5c34abf2d",
+      "author_login": "peterj",
+      "authored_at": "2019-12-19T18:01:09Z",
+      "message": "Merge pull request #588 from hairyhenderson/update-highlightjs"
+    },
+    {
+      "sha": "b75d2e17d1efe52a7df900ddad136294ff1723a4",
+      "author_login": "dvberkel",
+      "authored_at": "2019-12-19T07:56:57Z",
+      "message": "Add a .remove"
+    },
+    {
+      "sha": "130e10b404d41c1c8f5870e8abecb07abb9d2166",
+      "author_login": "peterj",
+      "authored_at": "2019-12-18T16:30:03Z",
+      "message": "Merge pull request #595 from hartwork/issue-549-readme-drop-link-that-lost-its-value"
+    },
+    {
+      "sha": "4056c7623b73729afb41e0627a080a3222988988",
+      "author_login": "hartwork",
+      "authored_at": "2019-12-18T15:47:13Z",
+      "message": "README.md: Drop link that lost its value (#549)"
+    },
+    {
+      "sha": "d13a311c7f52e7d4c771e610b8ebd6eb18166f32",
+      "author_login": "peterj",
+      "authored_at": "2019-12-17T20:12:17Z",
+      "message": "Move from mocha-phantomjs to mocha-chrome for tests"
+    },
+    {
+      "sha": "066bb267774b7ee949957531b3f3b91aa2716890",
+      "author_login": "peterj",
+      "authored_at": "2019-12-17T19:24:05Z",
+      "message": "Merge pull request #577 from lyrixx/patch-1"
+    },
+    {
+      "sha": "8edb82ce8aca5f98b3a8193fbd392d034b4dc84e",
+      "author_login": "peterj",
+      "authored_at": "2019-10-30T05:36:17Z",
+      "message": "Add an option to exclude presenter notes"
+    },
+    {
+      "sha": "1292ecdf8bc4fb41c298783359e96e7345eb7969",
+      "author_login": "hairyhenderson",
+      "authored_at": "2019-09-29T20:30:25Z",
+      "message": "Update highlight.js to latest release"
+    },
+    {
+      "sha": "a5a3c67d675fcd5b638c3644251899aef457fefc",
+      "author_login": "gnab",
+      "authored_at": "2019-08-03T05:38:15Z",
+      "message": "Merge pull request #569 from mschilli87/patch-1"
+    },
+    {
+      "sha": "119ea865ed1fb527c371d19d041bd794fa948361",
+      "author_login": "gnab",
+      "authored_at": "2019-08-03T05:36:51Z",
+      "message": "Merge pull request #575 from nclsHart/patch-1"
+    },
+    {
+      "sha": "3a60309b32b09d1a07671a013bce53f3b24afe64",
+      "author_login": "lyrixx",
+      "authored_at": "2019-06-24T16:04:57Z",
+      "message": "Removed \"Other systems integrating with remark\" that does not work anymore"
+    },
+    {
+      "sha": "4cf11b9daca0c503eacebffdf4298add31585686",
+      "author_login": "nclsHart",
+      "authored_at": "2019-06-12T19:06:35Z",
+      "message": "Remove dead links in real world examples"
+    },
+    {
+      "sha": "739363d6bd06eaf8fcbf885f96db8354e57ab32a",
+      "author_login": "mschilli87",
+      "authored_at": "2019-05-16T08:25:39Z",
+      "message": "Fix typo in README"
+    },
+    {
+      "sha": "d83c3ab04cd31d5ff23d24672d3177016257aba5",
+      "author_login": "gnab",
+      "authored_at": "2019-05-16T07:52:56Z",
+      "message": "Merge pull request #566 from hydroid7/patch-1"
+    },
+    {
+      "sha": "0203e583f1b43195c0673825609e767413540766",
+      "author_login": "hydroid7",
+      "authored_at": "2019-05-01T19:57:29Z",
+      "message": "Add shortcut documentation for help menu."
+    },
+    {
+      "sha": "4432b423e38ca7537bf834880b3fa1cdaea5f8a7",
+      "author_login": "gnab",
+      "authored_at": "2019-02-06T07:19:31Z",
+      "message": "Merge pull request #552 from Binney/update-deps"
+    },
+    {
+      "sha": "90cb653c3625c667cce87c00a29b1f2372b2da24",
+      "author_login": "gnab",
+      "authored_at": "2019-02-06T07:18:57Z",
+      "message": "Merge pull request #550 from bast/readme-mention-cicero"
+    },
+    {
+      "sha": "513921a094177e376ed1ca4e5528f5095920c4f3",
+      "author_login": "gnab",
+      "authored_at": "2019-02-06T07:18:39Z",
+      "message": "Merge pull request #536 from julienw/upgrade-highlighter"
+    },
+    {
+      "sha": "c69c1ea04f84645c75bb7936c7435c0edc1de1ec",
+      "author_login": "gnab",
+      "authored_at": "2019-02-06T07:18:17Z",
+      "message": "Merge pull request #535 from pataruco/document-to-window"
+    },
+    {
+      "sha": "74bbc61a2eefd7c72854e174f5b872720382d628",
+      "author_login": "Binney",
+      "authored_at": "2018-12-17T16:38:35Z",
+      "message": "Fix vulnerabilities by updating dependencies"
+    },
+    {
+      "sha": "4d4dfd3e10c89eea12795e54c9d8d35d74fd330c",
+      "author_login": "bast",
+      "authored_at": "2018-12-11T20:08:40Z",
+      "message": "mention cicero as tool integrating with remark"
+    },
+    {
+      "sha": "478a39d660957b56b99a0fb7720a67706e1075df",
+      "author_login": "julienw",
+      "authored_at": "2018-09-02T15:37:59Z",
+      "message": "Upgrade highlight.js to version 9.12.0"
+    },
+    {
+      "sha": "05c61dd93e3bd538d287a9c71de94d46c9ca37f2",
+      "author_login": "pataruco",
+      "authored_at": "2018-08-22T08:46:20Z",
+      "message": "Change document.origin to window.origin on DOM JS"
+    },
+    {
+      "sha": "a2c3276de74da02e77a2158a60d2d3b99ab0e2d0",
+      "author_login": "fiznool",
+      "authored_at": "2018-05-31T21:08:21Z",
+      "message": "Added silent separator support"
+    },
+    {
+      "sha": "b658a0c61434e4fe1ccec75ef254f4a78a13ebef",
+      "author_login": "tripu",
+      "authored_at": "2018-05-07T12:09:51Z",
+      "message": "Merge pull request #519 from bfagundez/tests_fix_code_regex"
+    },
+    {
+      "sha": "90d8c654b170b11774c7ba6a64707a714d04d0ec",
+      "author_login": "bfagundez",
+      "authored_at": "2018-05-07T03:18:10Z",
+      "message": "Escaped backticks to match code correctly"
+    },
+    {
+      "sha": "7ac03f2955d949128f3bf5be23f1aea1fc497f04",
+      "author_login": "gnab",
+      "authored_at": "2018-01-11T08:03:38Z",
+      "message": "Merge pull request #454 from Coksnuss/develop"
+    },
+    {
+      "sha": "d96b872f399f47e0b94fadaaddd64ea0bc1bd740",
+      "author_login": "gnab",
+      "authored_at": "2018-01-11T08:03:26Z",
+      "message": "Merge branch 'develop' into develop"
+    },
+    {
+      "sha": "6350506494ac19b43158b3be6ed1d3cca23dd8e4",
+      "author_login": "gnab",
+      "authored_at": "2018-01-11T08:01:45Z",
+      "message": "Merge branch 'develop' into develop"
+    },
+    {
+      "sha": "67f599387716b08fd848e72f47c6efd1371dddc9",
+      "author_login": "gnab",
+      "authored_at": "2018-01-11T07:51:45Z",
+      "message": "Merge pull request #499 from tripu/travis"
+    },
+    {
+      "sha": "14f8630220516565292b14f3642ec869b0554d94",
+      "author_login": "gnab",
+      "authored_at": "2018-01-11T07:51:16Z",
+      "message": "Merge pull request #497 from tripu/develop"
+    },
+    {
+      "sha": "a7b3493b0a2739135d1c48fa7aff9d99657984b9",
+      "author_login": "gnab",
+      "authored_at": "2018-01-11T07:50:29Z",
+      "message": "Merge pull request #496 from languitar/fix-494"
+    },
+    {
+      "sha": "123b2c0d5b2040f421702109aaced3f813f13f19",
+      "author_login": "gnab",
+      "authored_at": "2018-01-11T07:48:31Z",
+      "message": "Merge pull request #491 from joel-porquet/inc_slides"
+    },
+    {
+      "sha": "bc5e541d0c7e55df53375748f000a082b162bc9c",
+      "author_login": "gnab",
+      "authored_at": "2018-01-11T07:44:45Z",
+      "message": "Merge pull request #490 from joel-porquet/font_size"
+    },
+    {
+      "sha": "4748b03fa27dc8702a9ab228c8ec95b5a6b07d51",
+      "author_login": "gnab",
+      "authored_at": "2018-01-11T07:43:11Z",
+      "message": "Merge pull request #485 from kt3k/feature/update-marked"
+    },
+    {
+      "sha": "ddeba5801d74a165945458b080b5d4f4bc6f0187",
+      "author_login": "gnab",
+      "authored_at": "2018-01-11T07:42:43Z",
+      "message": "Merge pull request #477 from bobappleyard/develop"
+    },
+    {
+      "sha": "2dd8e1bf6a5302b5e55d8e7bbb8ddf7162abfddb",
+      "author_login": "gnab",
+      "authored_at": "2018-01-11T07:41:38Z",
+      "message": "Merge pull request #476 from mikemol/normalize"
+    },
+    {
+      "sha": "ab1bd86347a85c7f68d99e5e6ddf6e19c8365883",
+      "author_login": "tripu",
+      "authored_at": "2018-01-09T12:00:44Z",
+      "message": "Bring Travis testing to the 21st century"
+    },
+    {
+      "sha": "a803b453fcd43d9b6f9175340b99d16f418e16c3",
+      "author_login": "tripu",
+      "authored_at": "2018-01-09T10:43:33Z",
+      "message": "Skip preventDefault when testing with dummy events"
+    },
+    {
+      "sha": "dea10ef01c926edcaa1500ffe08e5391cc845775",
+      "author_login": "languitar",
+      "authored_at": "2018-01-06T13:38:14Z",
+      "message": "Make keyboard navigation respect non-countable slides"
+    },
+    {
+      "sha": "25ba99dd553f283dc08b411309c8f1a6df285296",
+      "author_login": "kt3k",
+      "authored_at": "2017-11-25T10:26:00Z",
+      "message": "chore: update marked"
+    }
+  ],
+  "issues": [
+    {
+      "number": 712,
+      "title": "Doc mermaid: mermaid.min.css is not needed any more",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-08-10T14:01:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 711,
+      "title": "Recover editable PPTX from remark slide screenshots or exported pages",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-19T01:11:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 710,
+      "title": "mdeck — a modernized TypeScript fork of remark (vibe-coded with GitHub Copilot)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-16T08:51:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 709,
+      "title": "Update remarkise.html",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-23T13:22:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 708,
+      "title": "Create tcc",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-15T22:31:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 707,
+      "title": "Source of https://remarkjs.com/ slides?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-10-22T09:25:34Z",
+      "closed_at": "2025-10-22T09:52:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 706,
+      "title": "Bullet list with 3 levels not working",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-10T11:44:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 705,
+      "title": "fixes Issue #704 : Added CONTRIBUTION.md to guide contributors",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-11-15T17:34:02Z",
+      "closed_at": "2025-01-01T05:30:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 704,
+      "title": "Missing CONTRIBUTION.md File",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-15T16:41:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 703,
+      "title": "highlightspans: allow matching when span is first on the line",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-10-10T18:48:49Z",
+      "closed_at": "2026-08-16T09:53:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 702,
+      "title": "Inconsistent html tags for unordered list items on incremental slide",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-10-06T17:16:10Z",
+      "closed_at": "2024-10-10T20:23:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 701,
+      "title": "Add codespell support (config, workflow to detect/not fix) and make it fix few typos",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-09-19T20:44:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 700,
+      "title": "Add referenceWidth and referenceHeight to the configuration options",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-17T14:39:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 699,
+      "title": "remarkjs.com answers with 403",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-12-13T10:50:33Z",
+      "closed_at": "2023-12-13T12:38:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 698,
+      "title": "Weird content in the footer of the wiki",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-21T23:26:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 697,
+      "title": "Broken link for remark template",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-21T23:01:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 696,
+      "title": "Presentation",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-23T15:02:14Z",
+      "closed_at": "2023-09-23T15:15:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 695,
+      "title": "Extra space on top of columns",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-28T12:22:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 694,
+      "title": "General overhaul, remark 0.16.0",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-06-27T14:03:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 693,
+      "title": "Updated Highlight.js to 9.18.1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-06-24T20:33:48Z",
+      "closed_at": "2023-06-27T07:58:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 692,
+      "title": "Syncing presentation on separate devices",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-16T07:46:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 691,
+      "title": "I love Remark, so nice",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-06-14T13:32:19Z",
+      "closed_at": "2023-06-15T07:17:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 690,
+      "title": "Update 'README.md' to include link to sinedied's backslide tool.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-05-31T11:55:33Z",
+      "closed_at": "2023-06-01T09:36:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 689,
+      "title": "Auto-advance slides",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-05-11T06:55:09Z",
+      "closed_at": "2023-05-11T11:01:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 688,
+      "title": "First line disappears when starting with single word and colon",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-18T12:07:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 687,
+      "title": "Shift-space to go to previous slide?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-18T23:32:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 686,
+      "title": "link to scientific template",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-01T16:37:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 685,
+      "title": "Using macro for font size",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-31T09:25:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 684,
+      "title": "Is it possible to add or change shortcuts?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-20T17:32:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 683,
+      "title": "Code highlighting like in the WordPress",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-09-10T08:52:55Z",
+      "closed_at": "2022-09-11T15:19:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 682,
+      "title": "Jump to slide with incremental slides",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-30T10:29:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 681,
+      "title": "How to convert selected contents of markdown file to slides/ppt?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-12T19:53:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 680,
+      "title": "Specifying the first number in a list",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-10T07:02:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 679,
+      "title": "YAML document separator in indented triple-quote blocks gets misinterpreted",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-23T04:49:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 678,
+      "title": "Use highlight.js styles other than those listed in the highlightStyle configuration option",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-18T21:53:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 677,
+      "title": "Multi-language",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-02T16:13:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 676,
+      "title": "Cannot run mocha-chrome tests",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-24T20:20:37Z",
+      "closed_at": "2022-05-27T14:46:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 675,
+      "title": "Fix for Issue #674: broken gh pages links",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-05-24T11:06:49Z",
+      "closed_at": "2022-05-24T16:15:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 674,
+      "title": "Readme: \"other interesting stuff\" links don't work anymore",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-24T10:59:11Z",
+      "closed_at": "2022-05-24T16:30:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 673,
+      "title": "Could not install remark in Rstudio",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-04-13T09:51:24Z",
+      "closed_at": "2022-04-13T13:47:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 672,
+      "title": "Hook on \"next slide\" event to add custom animations",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-29T14:30:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 671,
+      "title": "Space after ??? breaks the speaker notes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-17T08:40:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 670,
+      "title": "How to use MathJax 3?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-28T16:23:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 669,
+      "title": "VS Code Extension with preview, a la marp and reveal.js",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-08T23:00:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 668,
+      "title": "Help with CSS and smokescreen fogscreen classes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-03T16:58:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 667,
+      "title": "Slide width / Responsiveness :question: ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-08T05:40:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 666,
+      "title": "Fix #665 (broken link in README)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-12-02T16:40:30Z",
+      "closed_at": "2022-01-04T23:42:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 665,
+      "title": "Broken link to Coloured Terminal Listings slides",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-12-02T13:33:59Z",
+      "closed_at": "2022-01-04T23:42:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 664,
+      "title": "Latest distribution...?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-27T07:52:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 663,
+      "title": "Took me a while to fix this simple typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-10-20T15:06:29Z",
+      "closed_at": "2023-04-25T20:23:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 662,
+      "title": "Logging/tracing possibility",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-10-09T13:36:29Z",
+      "closed_at": "2021-10-15T06:42:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 661,
+      "title": "Markdown that contains LaTeX with >=2 occurrences of multiple subscripts cannot be displayed.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-26T09:53:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 660,
+      "title": "Using jekyll's \"includes\" with remark",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-25T22:11:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 659,
+      "title": "reuse template with slide specific highlighting?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-22T20:18:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 658,
+      "title": "highlightSpans only works with specific languages?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-22T08:38:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 657,
+      "title": "Reconcile “master” with what happened lately in “develop”",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-21T13:58:07Z",
+      "closed_at": "2021-08-30T08:59:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 656,
+      "title": "remark with typescript",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-08-19T16:02:17Z",
+      "closed_at": "2021-08-20T20:40:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 655,
+      "title": "Navigation bar and table of content",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-12T16:48:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 654,
+      "title": "Add aria-live-tag to slides",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-07-03T21:04:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 653,
+      "title": "Keyboard Events not shared between Presenter and Viewer Window",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-31T11:09:14Z",
+      "closed_at": "2021-06-14T14:11:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 652,
+      "title": "fix(documentation): update broken link in “readme” (#651)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-03T10:03:16Z",
+      "closed_at": "2021-05-04T06:53:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 651,
+      "title": "Bad link",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-02T07:36:47Z",
+      "closed_at": "2021-05-04T06:53:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 650,
+      "title": "Bug with Doubly-Subscript Equations between Remark/KaTeX",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-04-29T21:47:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 649,
+      "title": "Slide sets not being created sometimes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-04-07T04:51:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 648,
+      "title": "Remarkise \"Error! (probably a violation of the same-origin policy)\" for GitHub-hosted markdown",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-24T22:00:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 647,
+      "title": "Multiples mermaid diagrams are crashing",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-04T09:59:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 646,
+      "title": "Animate.css 4 support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-20T14:46:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 645,
+      "title": "Math rendering problem",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-05T05:36:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 644,
+      "title": "Separate the \"markdown\" from the \"slideshow\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-26T20:56:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 643,
+      "title": "Relative anchor links in a markdown file should jump to the matching slide",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-08T10:29:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 642,
+      "title": "Mermaid tags using << >> as delimiter get interpreted as html",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-06T11:03:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 641,
+      "title": "Inconsistent font size scaling",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-05T10:39:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 640,
+      "title": "Add favicon",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-12T16:24:35Z",
+      "closed_at": "2021-01-07T22:26:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 639,
+      "title": "Can't find `slide.getSlideNumber`.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-05T11:45:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 638,
+      "title": "Slideshow_html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-29T18:12:11Z",
+      "closed_at": "2021-05-23T08:08:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 637,
+      "title": "Embedding various interactive content in the slide works very sporadically",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-28T08:49:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 636,
+      "title": "global search across the whole presentation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-22T11:17:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 635,
+      "title": "Pinch-to-zoom on touch screen triggers slides change",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-19T01:04:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 634,
+      "title": "remarkise fails to separate the slides",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-23T11:07:23Z",
+      "closed_at": "2020-09-25T16:39:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 633,
+      "title": "Markdown parser",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-08T06:04:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 632,
+      "title": "Typo on my first name 😬",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-11T09:33:28Z",
+      "closed_at": "2021-01-07T22:27:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 631,
+      "title": "Why this project name?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-11T09:32:08Z",
+      "closed_at": "2021-01-08T10:27:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 630,
+      "title": "prettier ignore directive not compatible with class",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-26T16:59:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 629,
+      "title": "Small screen font size inflation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-19T02:02:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 628,
+      "title": "Start slide numbering from 0",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-14T17:08:58Z",
+      "closed_at": "2020-05-14T17:13:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 627,
+      "title": "New options: Custom clone function & disable presentation shortcuts",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-13T20:56:07Z",
+      "closed_at": "2022-03-31T20:20:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 626,
+      "title": "How to highlight text?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-10T06:09:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 620,
+      "title": "Global scale size % for all slides",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-27T22:06:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 619,
+      "title": "Fixing the issue with `count: false` on the first slide",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-01-27T20:55:52Z",
+      "closed_at": "2020-01-28T17:43:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 618,
+      "title": "latest release is twice as big",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-25T13:28:48Z",
+      "closed_at": "2020-01-27T18:55:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 617,
+      "title": "Two unwanted lines at the end of each code block",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-24T14:05:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 616,
+      "title": "highlightSpans behaves incorrectly in the presence of (",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-22T20:56:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 615,
+      "title": "highlightSpans behaves incorrectly with backticks as the first character of a line",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-22T20:46:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 614,
+      "title": "GFM tasklist support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-20T16:26:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 613,
+      "title": "The new 0.15.0 release has broken all our sites on GitHub Pages",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-19T16:29:50Z",
+      "closed_at": "2020-01-28T17:43:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 612,
+      "title": "Add release 0.15.0",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-01-18T23:21:28Z",
+      "closed_at": "2020-01-18T23:21:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 611,
+      "title": "Update boilerplate-single.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-01-18T23:12:37Z",
+      "closed_at": "2020-01-18T23:13:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 610,
+      "title": "Version update to 0.15.0",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-01-18T23:07:59Z",
+      "closed_at": "2020-01-18T23:08:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 609,
+      "title": "Update HISTORY with PRs and bump the version in package.json to 0.15.0",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-01-11T20:11:24Z",
+      "closed_at": "2020-01-13T17:40:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 608,
+      "title": "Add Github repos to contributors list and automate the process (if possible)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-11T19:21:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "gnab",
+      "contributions": 595
+    },
+    {
+      "login": "peterj",
+      "contributions": 25
+    },
+    {
+      "login": "kimjoar",
+      "contributions": 20
+    },
+    {
+      "login": "dvberkel",
+      "contributions": 16
+    },
+    {
+      "login": "DanTup",
+      "contributions": 9
+    },
+    {
+      "login": "freakboy3742",
+      "contributions": 8
+    },
+    {
+      "login": "tripu",
+      "contributions": 8
+    },
+    {
+      "login": "pospi",
+      "contributions": 6
+    },
+    {
+      "login": "joel-porquet",
+      "contributions": 5
+    },
+    {
+      "login": "nanoant",
+      "contributions": 3
+    },
+    {
+      "login": "schnz",
+      "contributions": 3
+    },
+    {
+      "login": "kt3k",
+      "contributions": 2
+    },
+    {
+      "login": "torgeir",
+      "contributions": 2
+    },
+    {
+      "login": "gureckis",
+      "contributions": 2
+    },
+    {
+      "login": "mschilli87",
+      "contributions": 2
+    },
+    {
+      "login": "jonathanlilly",
+      "contributions": 2
+    },
+    {
+      "login": "gurjeet",
+      "contributions": 2
+    },
+    {
+      "login": "gcapes",
+      "contributions": 2
+    },
+    {
+      "login": "tbrannam",
+      "contributions": 1
+    },
+    {
+      "login": "tobloef",
+      "contributions": 1
+    },
+    {
+      "login": "tchajed",
+      "contributions": 1
+    },
+    {
+      "login": "sol",
+      "contributions": 1
+    },
+    {
+      "login": "ShaneCurcuru",
+      "contributions": 1
+    },
+    {
+      "login": "Sequoia",
+      "contributions": 1
+    },
+    {
+      "login": "hartwork",
+      "contributions": 1
+    },
+    {
+      "login": "Binney",
+      "contributions": 1
+    },
+    {
+      "login": "ryanrolds",
+      "contributions": 1
+    },
+    {
+      "login": "darobin",
+      "contributions": 1
+    },
+    {
+      "login": "roberto",
+      "contributions": 1
+    },
+    {
+      "login": "bast",
+      "contributions": 1
+    },
+    {
+      "login": "peter50216",
+      "contributions": 1
+    },
+    {
+      "login": "pataruco",
+      "contributions": 1
+    },
+    {
+      "login": "ozank",
+      "contributions": 1
+    },
+    {
+      "login": "tkraak",
+      "contributions": 1
+    },
+    {
+      "login": "fiznool",
+      "contributions": 1
+    },
+    {
+      "login": "toenuff",
+      "contributions": 1
+    },
+    {
+      "login": "trumbitta",
+      "contributions": 1
+    },
+    {
+      "login": "WouterSioen",
+      "contributions": 1
+    },
+    {
+      "login": "sinedied",
+      "contributions": 1
+    },
+    {
+      "login": "adamkusmirek",
+      "contributions": 1
+    },
+    {
+      "login": "bobappleyard",
+      "contributions": 1
+    },
+    {
+      "login": "hydroid7",
+      "contributions": 1
+    },
+    {
+      "login": "mhor",
+      "contributions": 1
+    },
+    {
+      "login": "petitviolet",
+      "contributions": 1
+    },
+    {
+      "login": "pille1842",
+      "contributions": 1
+    },
+    {
+      "login": "rasmusvhansen",
+      "contributions": 1
+    },
+    {
+      "login": "wolterhv",
+      "contributions": 1
+    },
+    {
+      "login": "alexander-brett",
+      "contributions": 1
+    },
+    {
+      "login": "gaul",
+      "contributions": 1
+    },
+    {
+      "login": "astefanutti",
+      "contributions": 1
+    },
+    {
+      "login": "venthur",
+      "contributions": 1
+    },
+    {
+      "login": "bkeepers",
+      "contributions": 1
+    },
+    {
+      "login": "brenopolanski",
+      "contributions": 1
+    },
+    {
+      "login": "bfagundez",
+      "contributions": 1
+    },
+    {
+      "login": "camerond",
+      "contributions": 1
+    },
+    {
+      "login": "c3er",
+      "contributions": 1
+    },
+    {
+      "login": "avdv",
+      "contributions": 1
+    },
+    {
+      "login": "danielstankiewicz",
+      "contributions": 1
+    },
+    {
+      "login": "pvnr0082t",
+      "contributions": 1
+    },
+    {
+      "login": "hairyhenderson",
+      "contributions": 1
+    },
+    {
+      "login": "kud",
+      "contributions": 1
+    },
+    {
+      "login": "obfusk",
+      "contributions": 1
+    },
+    {
+      "login": "lyrixx",
+      "contributions": 1
+    },
+    {
+      "login": "chadrien",
+      "contributions": 1
+    },
+    {
+      "login": "harmtemolder",
+      "contributions": 1
+    },
+    {
+      "login": "hfukada",
+      "contributions": 1
+    },
+    {
+      "login": "jbeda",
+      "contributions": 1
+    },
+    {
+      "login": "languitar",
+      "contributions": 1
+    },
+    {
+      "login": "julienw",
+      "contributions": 1
+    },
+    {
+      "login": "jpetazzo",
+      "contributions": 1
+    },
+    {
+      "login": "mathiasbynens",
+      "contributions": 1
+    },
+    {
+      "login": "mikemol",
+      "contributions": 1
+    },
+    {
+      "login": "michaelsanford",
+      "contributions": 1
+    },
+    {
+      "login": "jugglinmike",
+      "contributions": 1
+    },
+    {
+      "login": "mortonfox",
+      "contributions": 1
+    },
+    {
+      "login": "nclsHart",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v0.15.0",
+      "published_at": "2020-01-18T23:01:35Z"
+    }
+  ],
+  "collected_at": "2026-08-17T06:39:24.148460Z"
+}
