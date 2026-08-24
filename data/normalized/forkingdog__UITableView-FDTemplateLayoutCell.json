@@ -1,0 +1,1516 @@
+{
+  "full_name": "forkingdog/UITableView-FDTemplateLayoutCell",
+  "owner": "forkingdog",
+  "name": "UITableView-FDTemplateLayoutCell",
+  "url": "https://github.com/forkingdog/UITableView-FDTemplateLayoutCell",
+  "description": "Template auto layout cell for automatically UITableViewCell height calculating",
+  "primary_language": "Objective-C",
+  "topics": [],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 9866,
+  "forks": 1987,
+  "open_issues": 129,
+  "created_at": "2015-04-16T13:14:19Z",
+  "pushed_at": "2022-03-07T10:01:30Z",
+  "updated_at": "2026-07-24T18:17:17Z",
+  "commits": [
+    {
+      "sha": "c624e4db4c6bc3723ba971218aa5454dd59c7415",
+      "author_login": "wangyutao0424",
+      "authored_at": "2017-11-19T03:08:53Z",
+      "message": "Merge pull request #358 from forkingdog/1.7-Dev"
+    },
+    {
+      "sha": "c1435eb5117a89a08a510484dd9f1ddc4d7b5991",
+      "author_login": null,
+      "authored_at": "2017-11-19T03:01:16Z",
+      "message": "fixed problem of iPhoneX accessory width"
+    },
+    {
+      "sha": "cc9ff244b145476e6d5e49620846f2364e7004c4",
+      "author_login": null,
+      "authored_at": "2017-05-15T10:26:21Z",
+      "message": "fix accessory width for plus and section index"
+    },
+    {
+      "sha": "912b3ce4a61198c0b79a3d85b977f8fdacd153ea",
+      "author_login": "sunnyxx",
+      "authored_at": "2017-05-10T06:23:45Z",
+      "message": "Merge pull request #314 from wangyutao0424/master"
+    },
+    {
+      "sha": "f6371b266b10e315dbaee325404a51cf39776d82",
+      "author_login": null,
+      "authored_at": "2017-05-09T17:46:55Z",
+      "message": "fix bug"
+    },
+    {
+      "sha": "d7db6e4c1622b9af2925a38adbbab689c7317a6e",
+      "author_login": null,
+      "authored_at": "2017-05-09T07:13:32Z",
+      "message": "tag 1.6"
+    },
+    {
+      "sha": "8a8598ff8c487ddcf49524d47c661c68ea430aa0",
+      "author_login": "weekwood",
+      "authored_at": "2017-05-03T12:44:28Z",
+      "message": "fixed #294"
+    },
+    {
+      "sha": "bfe6111f1e75b2fc12c645d6952d949efee43d67",
+      "author_login": "weekwood",
+      "authored_at": "2017-05-03T12:42:09Z",
+      "message": "fixed #294"
+    },
+    {
+      "sha": "faa4596d4c510ce87d22592f8f07f919cdab30bb",
+      "author_login": null,
+      "authored_at": "2017-04-27T07:02:23Z",
+      "message": "remove mystery code"
+    },
+    {
+      "sha": "b72413483348270952f2b3f5fc378efa292fee85",
+      "author_login": null,
+      "authored_at": "2017-04-23T04:58:38Z",
+      "message": "update podspec 1.6.beta"
+    },
+    {
+      "sha": "198f6a295a358cbb2e3792c0b2033221bbbc1283",
+      "author_login": null,
+      "authored_at": "2017-04-23T02:53:32Z",
+      "message": "update podspec 1.6.beta"
+    },
+    {
+      "sha": "9b18d463b61d28d5fc9d28fae011a83e89541294",
+      "author_login": null,
+      "authored_at": "2017-04-22T14:13:20Z",
+      "message": "fix iOS 10.3 bug"
+    },
+    {
+      "sha": "e3ee86ce419d18d3ff735056f1474f2863e43003",
+      "author_login": "sunnyxx",
+      "authored_at": "2016-03-16T06:04:12Z",
+      "message": "1.5.beta prepare to release"
+    },
+    {
+      "sha": "2bead7b80e40e8689201e7c1d6f034e952c9a155",
+      "author_login": "sunnyxx",
+      "authored_at": "2016-03-16T03:43:39Z",
+      "message": "Merge pull request #185 from forkingdog/1.5-dev"
+    },
+    {
+      "sha": "66ea4a4ccdb7329e1936e368c87171dce46564a2",
+      "author_login": "sunnyxx",
+      "authored_at": "2016-03-16T03:43:13Z",
+      "message": "Merge branch 'master' into 1.5-dev"
+    },
+    {
+      "sha": "8724a0610fad0b60358d4dc2f16ec20a4a4bb49d",
+      "author_login": "sunnyxx",
+      "authored_at": "2016-03-16T03:35:34Z",
+      "message": "Add template layout header footer view"
+    },
+    {
+      "sha": "99d768253c3a36376860204cbb73935b69e6dbcb",
+      "author_login": "sunnyxx",
+      "authored_at": "2016-01-09T02:33:12Z",
+      "message": "\"_separatorHeight\" not available in iOS7.0, rollback."
+    },
+    {
+      "sha": "f0e37b159c9f0740052ce4e6fbbc85cdc5a130d6",
+      "author_login": "sunnyxx",
+      "authored_at": "2016-01-05T04:22:51Z",
+      "message": "typo; framework"
+    },
+    {
+      "sha": "2cae77d1301030519ec80b2ecdb4bb86e652ee48",
+      "author_login": "sunnyxx",
+      "authored_at": "2016-01-05T04:20:15Z",
+      "message": "Prepare for 1.4 stable release"
+    },
+    {
+      "sha": "a445ddc541c41f9d26d812384c3c5a16a355fbba",
+      "author_login": "sunnyxx",
+      "authored_at": "2016-01-04T10:56:19Z",
+      "message": "Merge pull request #153 from forkingdog/pr/92"
+    },
+    {
+      "sha": "14cd1676ab1b1ccd1982f57a8ae16585c90b1f1b",
+      "author_login": "sunnyxx",
+      "authored_at": "2016-01-04T10:55:26Z",
+      "message": "Add"
+    },
+    {
+      "sha": "db10757f0e58a30d13e89ae0a45bfe8a86ecd0de",
+      "author_login": "sunnyxx",
+      "authored_at": "2016-01-04T10:55:20Z",
+      "message": "Merge branch 'master' into pr/92"
+    },
+    {
+      "sha": "d70263379a136f988abd39547937b3414c657389",
+      "author_login": "sunnyxx",
+      "authored_at": "2016-01-04T10:49:13Z",
+      "message": "Merge pull request #152 from forkingdog/pr/104"
+    },
+    {
+      "sha": "9977d0131462c5aa6a897a320e63bef1ec8cb944",
+      "author_login": "sunnyxx",
+      "authored_at": "2016-01-04T10:46:57Z",
+      "message": "Merge branch 'master' into pr/104"
+    },
+    {
+      "sha": "d35e7ac3c430931756711da5c8d06ddf9318f0ed",
+      "author_login": "sunnyxx",
+      "authored_at": "2016-01-04T10:45:53Z",
+      "message": "0 != contentViewWidth -> contentViewWidth > 0"
+    },
+    {
+      "sha": "a854a30af7d50be6a6b5c3fb463da443373247e7",
+      "author_login": "sunnyxx",
+      "authored_at": "2016-01-04T10:35:59Z",
+      "message": "Container class generic syntax; separatorHeight;  FDPrimaryCall"
+    },
+    {
+      "sha": "126bb7bb2185753fab4909a8698cb90f0b9195e3",
+      "author_login": null,
+      "authored_at": "2015-10-10T02:56:14Z",
+      "message": "修复1.3版本存在的一个bug:给contentView添加宽度为0的约束,会与已有子视图约束冲突."
+    },
+    {
+      "sha": "d6a20df62b43fa9070df2fb3b06d02dea176af6a",
+      "author_login": null,
+      "authored_at": "2015-10-01T04:28:27Z",
+      "message": "set IPHONEOS_DEPLOYMENT_TARGET = 8.0"
+    },
+    {
+      "sha": "3de6a0c16e634ede0d260f9a33105ea1142ec195",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-09-23T23:57:41Z",
+      "message": "Fix a crash in demo"
+    },
+    {
+      "sha": "fdf26dcc092d65d47a5985617a7b1d07ff10dd4f",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-09-23T03:35:41Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "6367f610b4f55cab9958e7d83b37966f55bcc797",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-09-23T03:33:17Z",
+      "message": "Prepare for release"
+    },
+    {
+      "sha": "ea6c939fef805806e0b64cf0b0b51f88dbdb4a16",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-09-23T02:14:21Z",
+      "message": "Merge pull request #94 from forkingdog/1.4-dev"
+    },
+    {
+      "sha": "aaa92529f191d7af7cf6f56f163b700578207606",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-09-23T02:13:00Z",
+      "message": "Merge branch 'master' into 1.4-dev"
+    },
+    {
+      "sha": "bbb29cc9e1e89c190032b00463c219358151c5f3",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-09-23T02:08:28Z",
+      "message": "Extra return"
+    },
+    {
+      "sha": "b3dc1259a34516ef05b21ce3afbeac34ff492997",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-09-22T10:11:53Z",
+      "message": "Update"
+    },
+    {
+      "sha": "9ffd1db4f2bb9d476325416339ebd6ca0a63be2d",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-09-22T09:20:04Z",
+      "message": "Major refactor for v1.4"
+    },
+    {
+      "sha": "2c4fe6b70501e2759c5a80b480e82c97e8c9d8a4",
+      "author_login": null,
+      "authored_at": "2015-09-21T08:53:00Z",
+      "message": "1.change framework project path"
+    },
+    {
+      "sha": "4fd3edc7f2687711f04dab8d10ac05228599fb06",
+      "author_login": null,
+      "authored_at": "2015-09-17T09:44:05Z",
+      "message": "Support Carthage"
+    },
+    {
+      "sha": "001aa3460fd6e5657b61571d40647ae2d86fc1d3",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-09-16T01:51:40Z",
+      "message": "Orientation support"
+    },
+    {
+      "sha": "767ecbea23f6904c50bb6d5a84c7808e6be93a1e",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-09-16T01:14:47Z",
+      "message": "Code style, comments, remove nullable"
+    },
+    {
+      "sha": "65f96422c35befd2fa0b9c2525f1f1eb5ab06186",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-08-25T03:36:48Z",
+      "message": "Merge pull request #61 from nickqiao/master"
+    },
+    {
+      "sha": "80825140008eca7fa61bb9c72eca22c748cba2b9",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-08-12T04:14:52Z",
+      "message": "Refactor, Nullability"
+    },
+    {
+      "sha": "78a3db4481c7d93f31c63ba9f7a9eba32abb6f91",
+      "author_login": "nickqiao",
+      "authored_at": "2015-07-20T16:32:09Z",
+      "message": "load方法中"
+    },
+    {
+      "sha": "cb38555b9e88a98fc686cf3e7045a6b003e3e441",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-07-08T06:27:13Z",
+      "message": "Fix a bug when delete multiple cells by calling -deleteRowsAtIndexPaths:withRowAnimation:"
+    },
+    {
+      "sha": "a71e1f75edde5f54fcaecf226f5e9dcf0f1ad4db",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-28T03:28:54Z",
+      "message": "1.3 release"
+    },
+    {
+      "sha": "21e0b2b4c7eaf997cbd8feb7392ccf1b746dfd33",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-28T02:11:07Z",
+      "message": "Code review"
+    },
+    {
+      "sha": "f3952e14544146b7557fee978f2009defd3d1388",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-28T02:06:23Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "bec9cb8e4b9a8ea9d5c79be12ab60b3c62e221a7",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-28T01:05:07Z",
+      "message": "Handle cell's accessory view or type."
+    },
+    {
+      "sha": "daec6a80dc380e48cbdf0badd5a0065a8aa79307",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-27T13:15:03Z",
+      "message": "fix memory leak"
+    },
+    {
+      "sha": "39f6744b7757b17b267c99314005529bb25c6688",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-27T11:50:13Z",
+      "message": "Merge pull request #34 from forkingdog/1.2-bugfix"
+    },
+    {
+      "sha": "285d266bd360688a25fba78efe5bd198d4dc1050",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-27T11:49:32Z",
+      "message": "Force frame layout support"
+    },
+    {
+      "sha": "7128c2b89a8ec476acc0aedda41b9fe2e03311bf",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-26T15:10:48Z",
+      "message": "Merge pull request #31 from forkingdog/1.2-bugfix"
+    },
+    {
+      "sha": "abd39c267576615bfa96f0a19055736dce345c43",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-26T08:49:01Z",
+      "message": "explicit NSMutableArray type"
+    },
+    {
+      "sha": "69061b5590a8ffbfa688649ca7de6c6023cb59d8",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-22T01:36:04Z",
+      "message": "prevent some \"index out of bounds\" exceptions."
+    },
+    {
+      "sha": "957dcc05bfbdc13ec09661c3018cb5e1402dcd3f",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-21T07:40:39Z",
+      "message": "Add frame layout support."
+    },
+    {
+      "sha": "d1cd8f0a2ad149c840a692405b7d26f44e9d8438",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-21T00:00:40Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7dcd7be9c06ba16d8a40530be4f2f104fd37cd26",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-20T23:55:10Z",
+      "message": "Merge pull request #18 from forkingdog/1.2-bugfix"
+    },
+    {
+      "sha": "7a2a6e0f390583f57798d90e81c4a985ddf1a1c3",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-20T23:52:40Z",
+      "message": "Fix major bugs"
+    },
+    {
+      "sha": "e1a33dbd1eb67c49c284f415d3cac9654e3d23fe",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-19T07:32:01Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ef4796b58634f64b13cdcab1f195f974c534a756",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-18T01:22:26Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e585d4fa1c4d7fcf94ff17434ebff04972745c0d",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-17T11:12:05Z",
+      "message": "\"CF\" api from \"NS\" api"
+    },
+    {
+      "sha": "b9d6595c6ad9d3b77e00dfb4dc415ca8571a7bc1",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-17T02:54:19Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ee8b584ef52b034f8c67e9d5d21066361e2b9311",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-17T02:50:18Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "678e969a312e6e052d743d4f7380655e7f98fa79",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-17T02:47:57Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7729237cba72a7938d4d5bcdcce019493cac2303",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-17T02:46:16Z",
+      "message": "Hide precache API from public,  auto enable when use \"cacheByIndexPath\" API."
+    },
+    {
+      "sha": "e1b50254aa02c1ea92c8cba8b1ed4a386defe1db",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-16T15:32:56Z",
+      "message": "Refactor some precache logic about RunLoop tasks"
+    },
+    {
+      "sha": "f099e8c1d4b0a3cfbcbcdc82af3fd7f4456c8312",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-16T02:29:19Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f85aa420dac6a0898ebe04fa7d9311585b0b572c",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-16T02:20:11Z",
+      "message": "update pod version to 1.2"
+    },
+    {
+      "sha": "8bab229123f955a7630fd6552b882afe6b08c18e",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-16T01:54:55Z",
+      "message": "Add \"fd_isTemplateLayoutCell\" API; Change implementation structure"
+    },
+    {
+      "sha": "f835eeef12b2a6bf31153c375b6e3e5a82842eee",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-14T06:04:01Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e1acd8b495b129f4905292584c0bfbce05d6d7b3",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-05-13T12:19:45Z",
+      "message": "major upgrade - \"precache\", debug log and refactor"
+    },
+    {
+      "sha": "544f28320270b8ea29640d957d783a6aa5aa7ef7",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-28T00:41:46Z",
+      "message": "update pod version to 1.1-beta"
+    },
+    {
+      "sha": "43eaf7b69eb39fd2949c2d8dfd1e009feb2e1fbc",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-28T00:38:49Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "5ff47f63ff51630a8abee765cd6e5c60e4b53b7d",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-28T00:36:06Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "cb756ef25e86cd5a48b356d2bfc6705dc11c6b95",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-28T00:19:51Z",
+      "message": "Add \"height cache\" function, update demo."
+    },
+    {
+      "sha": "f1049280659e6ad845e91dc4f72188d343c293b8",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-27T00:20:22Z",
+      "message": "Update png images"
+    },
+    {
+      "sha": "4af3a3dfe00117e5c8b685a3fa6683ff6d9904be",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-22T13:49:53Z",
+      "message": "Merge branch 'pr/8'"
+    },
+    {
+      "sha": "d4cd0b9ea787b9b2ce537abbb7a3fed3702fc8a0",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-22T13:48:36Z",
+      "message": "Fix iOS7 constraint warnings"
+    },
+    {
+      "sha": "ab28cd9e9e016387fd044839765a541aefb52b75",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-21T03:49:36Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7817cc6c500d8bc7d4da76cbc2cc83ce6a680498",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-21T02:34:46Z",
+      "message": "Copyright -> 2016"
+    },
+    {
+      "sha": "4e07406913939b56c8486277b225f583b86c0861",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-21T02:34:28Z",
+      "message": "Copyright -> 2016"
+    },
+    {
+      "sha": "c666992ce1ccabfe1cd30ca2c81e962908dc7d4a",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-19T13:42:58Z",
+      "message": "podspec description"
+    },
+    {
+      "sha": "7b7920cce0e9fe631fabae69e05966bb8e594e4d",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-19T13:37:17Z",
+      "message": "podsepc name repo"
+    },
+    {
+      "sha": "5d90a19064da533181df8b5fcf098901f37804c3",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-19T12:30:53Z",
+      "message": "repo name typo"
+    },
+    {
+      "sha": "505621b8ee2f485297536a7e93ccfd3dbc089675",
+      "author_login": "philcn",
+      "authored_at": "2015-04-18T09:39:18Z",
+      "message": "Tidy up code & UI."
+    },
+    {
+      "sha": "7d802a9011b0f936750aed27e8a1f40e8346c821",
+      "author_login": "philcn",
+      "authored_at": "2015-04-18T09:27:35Z",
+      "message": "Added comments."
+    },
+    {
+      "sha": "c0c39c439cdc09faabd5422ed7fbd71404f14801",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-17T09:49:04Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b7912249837f60d73ef155e6256aa1c078964fe3",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-17T09:39:08Z",
+      "message": "sceenshot"
+    },
+    {
+      "sha": "7a0b2cf3053a3c232632a084d7b672361915aeb5",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-17T09:38:16Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "dbd4af049a2fd00d37cd3d42902449322bd313b6",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-17T09:30:14Z",
+      "message": "screenshots in README"
+    },
+    {
+      "sha": "2039b16d149ee732681c7ddef30310cf91d71adc",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-17T09:28:00Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f015c88576d7220f688c5775a93b00eecd84110b",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-17T07:19:29Z",
+      "message": "initial podsepc"
+    },
+    {
+      "sha": "5d2b4ac561da5678e22716a7bd1b811f856442e2",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-17T03:51:49Z",
+      "message": "Initial"
+    },
+    {
+      "sha": "05ea157f38caae75ef6f7a5ddb86d74b326445a1",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-17T03:49:46Z",
+      "message": "Initial demo project"
+    },
+    {
+      "sha": "f2b68271386054fbf7fb9498bbff316f1ffbfe55",
+      "author_login": "sunnyxx",
+      "authored_at": "2015-04-16T13:14:20Z",
+      "message": "Initial commit"
+    }
+  ],
+  "issues": [
+    {
+      "number": 420,
+      "title": "Jb",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-05T11:34:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 419,
+      "title": "修复tableview顶部、底部高度不适配的bug",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-07T10:01:29Z",
+      "closed_at": "2022-03-07T10:02:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 418,
+      "title": "fd_systemFittingHeightForConfiguratedCell  UITableView.contentInset != .zero，设置cell宽度有问题吧",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-19T10:40:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 417,
+      "title": "Feature request - add a possibility to customize template cell creatation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-14T07:02:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 416,
+      "title": "各位注意了deleteSections一次删除多个会导致缓存错乱",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-25T08:31:30Z",
+      "closed_at": "2024-04-24T02:44:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 415,
+      "title": "解决xibCell计算高度不准确问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-15T03:48:12Z",
+      "closed_at": "2020-09-15T03:52:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 414,
+      "title": "😆大佬的框架好像没怎么维护了，我自己实现了一个类似的自动计算及缓存框架，逃~~，喜欢的小伙伴可以一起交流交流。",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-25T17:00:00Z",
+      "closed_at": "2022-07-12T15:43:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 413,
+      "title": "-fd_heightForHeaderFooterViewWithIdentifier: configuration: 方法没有执行回调,导致Header高度计算为0",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-11T02:19:33Z",
+      "closed_at": "2020-09-15T03:52:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 412,
+      "title": "使用缓存计算的方式页面上未显示的cell上的图片不就是提前加载了吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-13T09:41:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 410,
+      "title": "使用autolayout, 加载本地数据, fd_systemFittingHeightForConfiguratedCell 方法中的contentViewWidth宽度 为0 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-21T01:14:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 409,
+      "title": "针对RunLoop这块的处理，如果能封装到统一的工具类就好了，方便工程其他地方使用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-11T02:41:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 408,
+      "title": "Archive",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-10-12T03:33:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 407,
+      "title": "FD库能异步计算高度吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-08-27T07:12:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 406,
+      "title": "高度计算问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-08-23T12:25:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 405,
+      "title": "特别注意事项，该方法可解决你们超大难题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-07-29T05:02:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 404,
+      "title": "iphone6 plus 文字高度计算不精确",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-07-26T02:07:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 403,
+      "title": "- (CGFloat)fd_heightForHeaderFooterViewWithIdentifier:(NSString *)identifier configuration:(void (^)(id))configuration; ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-06-23T15:16:57Z",
+      "closed_at": "2019-12-04T08:04:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 402,
+      "title": "遇到一个问题，tableviewell做不定数量回复时出现bug",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-04-24T01:02:03Z",
+      "closed_at": "2019-05-14T06:52:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 401,
+      "title": "URL图片错乱问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-12T09:45:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 400,
+      "title": "优化高度计算fd_systemFittingHeightForConfiguratedCell",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-04T08:37:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 399,
+      "title": "讨论下preferredMaxLayoutWidth",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-11T12:47:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 398,
+      "title": "新手请教下关于xib使用",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-03-07T06:56:10Z",
+      "closed_at": "2019-04-27T02:21:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 397,
+      "title": "关于使用问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-22T09:30:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 396,
+      "title": "translatesAutoresizingMaskIntoConstraints warning!",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-18T09:26:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 395,
+      "title": "多个lable  某个lable高度计算过高，",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-13T06:37:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 394,
+      "title": "RunLoop",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-01-21T05:55:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 393,
+      "title": "怎么搜不到RunLoop相关的代码呢",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-01-21T05:54:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 392,
+      "title": "横竖屏切换缓存有bug",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-01-16T11:55:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 391,
+      "title": "Masonry布局；subCell继承superCell的问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-07T04:17:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 390,
+      "title": "类似微博的UIlabel查看更多",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-28T14:24:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 389,
+      "title": "怎么用pod安装OC版本",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-23T06:07:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 388,
+      "title": "runloop",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-21T12:08:19Z",
+      "closed_at": "2018-11-21T12:10:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 387,
+      "title": "iPhone 6s plus iOS9.3.2 设置cell.fd_enforceFrameLayout = YES;不走- (CGSize)sizeThatFits:(CGSize)size方法",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-13T02:49:08Z",
+      "closed_at": "2018-11-13T03:28:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 386,
+      "title": "用MVVM,支持ViewModel的数据自适应高度吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-05T03:35:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 385,
+      "title": "你好，请问用了这个框架之后",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-01T05:51:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 384,
+      "title": "cell label高度计算过高",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-26T03:57:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 383,
+      "title": "富文本设置行间距后，高度计算出错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-17T08:27:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 382,
+      "title": "Optimized height calculation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-10-04T10:27:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 381,
+      "title": "富文本设置行间距后，高度计算出错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-09-30T07:39:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 380,
+      "title": "fix crash on ios10.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-09-28T05:02:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 379,
+      "title": "ios12 Xcode10",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-09-21T09:15:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 378,
+      "title": "能否支持动态计算header高度",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-09-20T18:56:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 377,
+      "title": "close issue 348",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-09-20T07:05:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 376,
+      "title": "ios 11 contentView.translatesAutoresizingMaskIntoConstraints not compare",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-20T12:51:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 375,
+      "title": "你文档写的runloop 好像是在主线程执行的runloop",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-01T01:25:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 374,
+      "title": "iOS 9.3 奔溃 Terminating app due to uncaught exception 'NSInternalInconsistencyException', reason: 'Cell must be registered to table view for identifier ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-18T05:54:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 373,
+      "title": "富文本高度计算不准确",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-02T09:20:24Z",
+      "closed_at": "2018-06-02T10:01:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 372,
+      "title": "多行Label，cell的高度计算不正确",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-05-02T11:09:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 371,
+      "title": "试了好多小伙伴方法，控制台一直爆这个",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-05-02T02:41:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 370,
+      "title": "在模拟器上运行，出现这个问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-18T11:50:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 369,
+      "title": "使用Masonry 多种Cell，计算的高度都是45.333333333...",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-10T10:57:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 368,
+      "title": "ios10 以上 cell宽度警告 UITableViewCellContentView:0x7fa19ec34030.width == 375",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-26T02:16:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 367,
+      "title": "建议出一个cell使用masnory纯代码布局的版本，好多issues跟这个库有关系",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-22T05:53:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 366,
+      "title": "iOS11.2当调用   [self.tableView reloadRowsAtIndexPaths:@[indexPath] withRowAnimation:UITableViewRowAnimationNone];时会报错attempt to delete row 2 from section 1 which only contains 2 rows before the update",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-02-06T08:39:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 365,
+      "title": "结合Masonry使用的时候, 会出现约束冲突, 以前版本没有, 最近突然工程多了好多冲突",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-30T07:28:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 364,
+      "title": "UITableView+FDIndexPathHeightCache,UITableView+FDKeyedHeightCache 能结合AsyncDisplayKit使用吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-28T16:48:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 363,
+      "title": "crash",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-27T02:48:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 362,
+      "title": "carthage集成 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-11T09:21:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 361,
+      "title": "不生效",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-02T06:36:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 360,
+      "title": "大佬  iOS 10.3.3 会崩溃啊 啊啊啊啊   1.6 的",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-12-15T07:34:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 359,
+      "title": "merge",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-05T09:54:11Z",
+      "closed_at": "2017-12-05T10:03:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 358,
+      "title": "accessory and index title width problem",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-11-19T03:08:12Z",
+      "closed_at": "2017-11-19T03:08:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 357,
+      "title": "能发布个新版本吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-16T10:22:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 356,
+      "title": "为什么我在源码中没搜到runloop",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-11-09T10:19:42Z",
+      "closed_at": "2017-11-15T08:04:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 355,
+      "title": "ios 10.2.1 奔溃",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-06T11:40:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 354,
+      "title": "Demo运行内存暴涨",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-02T07:15:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 353,
+      "title": "明明已经注册了reuse identifier还报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-10-15T09:15:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 352,
+      "title": "如何同一个tableview加载不同类型的cell id 计算高度，domo只是同一个tableview加载的同一种类型的cell",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-09-28T10:15:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 351,
+      "title": "如果说通过sdwebimage加载网络图片，最终达到自适应高度，该怎么做呢 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-09-24T06:44:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 350,
+      "title": "fd_heightForHeaderFooterViewWithIdentifier中，configuration未调用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-09-23T06:47:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 349,
+      "title": "updateConstraints 约束后，tableview的高度没有变化？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-09-22T10:19:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 348,
+      "title": "在iOS 11控制台输出这样的log，确实高度计算也有问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-09-22T01:21:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 347,
+      "title": "请问支持Swift3.0 和4.0吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-09-21T02:52:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 346,
+      "title": "UITableViewHeaderFooterView使用UITableView-FDTemplateLayoutCell警告的问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-08-21T10:57:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 345,
+      "title": "您好，库在10.3.2上会导致崩溃，有好的处理方案嘛？同时我使用了类似的方法实现了相同的功能求指教下是否有其他问题。",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-15T15:41:06Z",
+      "closed_at": "2017-08-29T08:24:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 344,
+      "title": "fd_isTemplateLayoutCell",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-08-10T10:22:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 343,
+      "title": "从重用的池子里拿出的cell，计算所有高度，也会显示到界面吧？怎么解决这个问题的呢？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-08-10T03:05:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 342,
+      "title": "cell里面的label有的自动计算高度后不掉文字，有的自动计算高度后掉文字，详情见图",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-08-07T01:36:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 341,
+      "title": "在cell里面有的lable",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-07T01:29:38Z",
+      "closed_at": "2017-08-07T01:33:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 340,
+      "title": "cell 高度计算不准确 iPhone6 iOS10.3 模拟器",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-07-27T03:09:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 339,
+      "title": "cell.contentView systemLayoutSizeFittingSize 计算非常慢",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-07-16T03:31:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 338,
+      "title": "fixed ios11 bugs",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-07-14T14:05:02Z",
+      "closed_at": "2017-07-17T07:42:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 337,
+      "title": "ios11 crash ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-07-14T13:45:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 336,
+      "title": "注册cell后，取重用cell不为nil，无法动态创建cell",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-07-13T05:26:54Z",
+      "closed_at": "2017-08-15T01:13:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 335,
+      "title": "作者想法很好, 但是aotolayout 在复杂的Cell 上面性能太差了,当UILabel 内容很多的时候卡顿很严重",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-07-06T08:53:27Z",
+      "closed_at": "2017-07-06T09:16:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 334,
+      "title": "预缓存为什么没有了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-06-27T01:56:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 333,
+      "title": "revert some code for iOS 10.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-06-26T01:34:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 332,
+      "title": "iOS10.3 AutoLayout 高度问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-06-22T05:57:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 331,
+      "title": "fd_heightForHeaderFooterViewWithIdentifier",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-06-22T03:06:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 330,
+      "title": "reloadData卡顿",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-06-21T10:13:44Z",
+      "closed_at": "2017-06-22T03:13:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 329,
+      "title": "不支持Group的吗",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-06-19T08:20:58Z",
+      "closed_at": "2017-06-19T08:54:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 328,
+      "title": "Xcode 8.3 iOS10.3 cell高度计算不正确并且有log",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-06-15T03:48:06Z",
+      "closed_at": "2017-06-16T01:52:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 327,
+      "title": "iOS10.2崩溃啊，坑~，Demo都是崩溃的。。。，内存暴涨到1G多",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-06-13T03:53:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 326,
+      "title": " Unable to simultaneously satisfy constraints",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-06-10T03:41:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 325,
+      "title": "一些开发上的实际问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-06-01T10:24:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 324,
+      "title": "cell中如果只有一个YYLable时，计算行高出错，但是使用UILable时不会出现问题。求教解决办法，谢谢！",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-06-01T07:36:20Z",
+      "closed_at": "2017-06-01T07:51:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 323,
+      "title": "你好 我改变cell里面的约束 会有问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-05-31T11:06:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 322,
+      "title": "fix condition bug about debugging log.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-05-29T09:33:49Z",
+      "closed_at": "2026-06-30T08:36:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 321,
+      "title": "fix fd_heightForHeaderFooterViewWithIdentifier bug",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2017-05-20T06:05:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 320,
+      "title": "1.6崩溃啊",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-05-19T09:40:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "sunnyxx",
+      "contributions": 77
+    },
+    {
+      "login": "weekwood",
+      "contributions": 2
+    },
+    {
+      "login": "philcn",
+      "contributions": 2
+    },
+    {
+      "login": "nickqiao",
+      "contributions": 1
+    },
+    {
+      "login": "wangyutao0424",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-08-24T06:42:08.616500Z"
+}

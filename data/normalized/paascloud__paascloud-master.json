@@ -1,0 +1,1220 @@
+{
+  "full_name": "paascloud/paascloud-master",
+  "owner": "paascloud",
+  "name": "paascloud-master",
+  "url": "https://github.com/paascloud/paascloud-master",
+  "description": "spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。",
+  "primary_language": "Java",
+  "topics": [
+    "oauth2",
+    "rocketmq",
+    "spring-cloud",
+    "springcloud",
+    "vuejs2"
+  ],
+  "license_spdx": "Apache-2.0",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 9863,
+  "forks": 4218,
+  "open_issues": 105,
+  "created_at": "2018-03-17T05:40:43Z",
+  "pushed_at": "2023-10-09T02:24:04Z",
+  "updated_at": "2026-08-23T05:32:29Z",
+  "commits": [
+    {
+      "sha": "781281a9503332ed3cef44ea618349d14230a127",
+      "author_login": null,
+      "authored_at": "2018-12-26T09:43:39Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "933adf4b3ce36c76cf3a4a784cbe507160e1be1c",
+      "author_login": null,
+      "authored_at": "2018-10-17T02:30:22Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "96fd856153af91d3f6c6a7bfd18609325e024c9e",
+      "author_login": null,
+      "authored_at": "2018-09-19T01:37:59Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "943d033355e130a0608481bf8ed3bb671fbe686f",
+      "author_login": null,
+      "authored_at": "2018-09-19T01:37:37Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1aa0fc8e4ad142afc308a6ba5c43867ae9174e78",
+      "author_login": null,
+      "authored_at": "2018-09-02T13:17:29Z",
+      "message": "增加二群qq群号"
+    },
+    {
+      "sha": "f1f7439587c06330de0c6a98345ff0c90775619b",
+      "author_login": "paascloud",
+      "authored_at": "2018-06-22T14:47:49Z",
+      "message": "增加授权头信息"
+    },
+    {
+      "sha": "3b3a0efdce8e2cb6f634d0ffb035e70c6c1d784e",
+      "author_login": "paascloud",
+      "authored_at": "2018-06-18T01:02:54Z",
+      "message": "为了大家少趟坑,快速跑起来,优化一下配置"
+    },
+    {
+      "sha": "d7bdd28b585d838e0dbd44f4da0c07ff22fe55c5",
+      "author_login": "paascloud",
+      "authored_at": "2018-06-17T14:09:18Z",
+      "message": "为了大家少趟坑,快速跑起来,优化一下配置"
+    },
+    {
+      "sha": "50bce30ea91f7f167c91fec1cd01a3e270a92fff",
+      "author_login": "paascloud",
+      "authored_at": "2018-06-17T13:46:22Z",
+      "message": "为了大家少趟坑,快速跑起来,优化一下配置"
+    },
+    {
+      "sha": "526ef9cf0d6c1d0a2ac5bbb35c05dad5786399b0",
+      "author_login": "paascloud",
+      "authored_at": "2018-06-14T14:49:19Z",
+      "message": "Merge pull request #23 from kzy77/master"
+    },
+    {
+      "sha": "05df9844c483da09d27191b8d742f8575038067f",
+      "author_login": "kzy77",
+      "authored_at": "2018-06-14T02:29:54Z",
+      "message": "1.修复hystrix监控"
+    },
+    {
+      "sha": "a231522350c4ff41ebcbf3f7e28ea89dec21b822",
+      "author_login": "kzy77",
+      "authored_at": "2018-06-13T17:51:37Z",
+      "message": "修复服务间调用（feign）鉴权问题"
+    },
+    {
+      "sha": "ba6dfeb584066cf784386248eae9e21182140ee6",
+      "author_login": "kzy77",
+      "authored_at": "2018-06-13T16:49:34Z",
+      "message": "启动报错配置修复"
+    },
+    {
+      "sha": "64848772b8e639fb70a324fd93dd30b1608ac6fc",
+      "author_login": "paascloud",
+      "authored_at": "2018-06-10T08:33:22Z",
+      "message": "Merge branch 'develop'"
+    },
+    {
+      "sha": "9df72adeabc66d27421bea18a62893a06a174789",
+      "author_login": "paascloud",
+      "authored_at": "2018-06-10T08:32:23Z",
+      "message": "优化登录异常的提示"
+    },
+    {
+      "sha": "9ba279b48ba82a5cce0f71b524ca097188ba3641",
+      "author_login": "paascloud",
+      "authored_at": "2018-06-10T08:27:22Z",
+      "message": "改变操作手册目录"
+    },
+    {
+      "sha": "a5ae4e35e243e2e856ed07d22317c6410a686834",
+      "author_login": "paascloud",
+      "authored_at": "2018-06-03T05:39:08Z",
+      "message": "1.升级spring cloud版本为最稳定版（Edgware.SR3）"
+    },
+    {
+      "sha": "d740bd99726caadcb13de63ded417070bdcd54ff",
+      "author_login": "paascloud",
+      "authored_at": "2018-06-02T09:17:51Z",
+      "message": "增加paascloud快速搭建企业级分布式微服务平台操作手册"
+    },
+    {
+      "sha": "ee33df457e1e26f119233d9a9ebc91b97ad86d4b",
+      "author_login": null,
+      "authored_at": "2018-05-23T03:22:19Z",
+      "message": "Remove Questionnaire Link"
+    },
+    {
+      "sha": "7b341fe96f9568581d8cc8b8ffeeb346f9a161f5",
+      "author_login": "paascloud",
+      "authored_at": "2018-04-13T02:05:38Z",
+      "message": "增加@EnableRetry注解"
+    },
+    {
+      "sha": "06ab3de4b84dc80f3052e27eb666a276e3744cdd",
+      "author_login": "paascloud",
+      "authored_at": "2018-04-12T09:03:54Z",
+      "message": "异步确认并发送"
+    },
+    {
+      "sha": "93677c5ebed0b152c25fee96571ed9c76403125d",
+      "author_login": "paascloud",
+      "authored_at": "2018-04-09T07:42:31Z",
+      "message": "感谢金宝宝同学捐赠的服务器"
+    },
+    {
+      "sha": "ed78ff20fd80db9ae95b00cf5c277c6fb6b863b8",
+      "author_login": "paascloud",
+      "authored_at": "2018-03-27T08:00:29Z",
+      "message": "Merge pull request #12 from wzyhi/feature_add_pr"
+    },
+    {
+      "sha": "30e1403f951f74c6ba93c45263aeaaa99ef551cd",
+      "author_login": null,
+      "authored_at": "2018-03-27T07:44:33Z",
+      "message": "修改配置"
+    },
+    {
+      "sha": "6cfb44cf525dcc723caa2e01822ced37c6de7bb9",
+      "author_login": "paascloud",
+      "authored_at": "2018-03-27T05:23:23Z",
+      "message": "Merge pull request #11 from 1647917675/master"
+    },
+    {
+      "sha": "22d9f8cd1075ab0347665db8c4753d1152c7d0f1",
+      "author_login": "1647917675",
+      "authored_at": "2018-03-27T05:18:15Z",
+      "message": "Delete Project_Default.xml"
+    },
+    {
+      "sha": "dcceccd3414420095c03b7ff60237a62fa9af1b8",
+      "author_login": "1647917675",
+      "authored_at": "2018-03-27T05:18:01Z",
+      "message": "Delete Maven__com_liuzm_mybatis_mybatis_generator_1_0.xml"
+    },
+    {
+      "sha": "ec9c8f799714844a28a4ed0011c3379de79b9c1d",
+      "author_login": "1647917675",
+      "authored_at": "2018-03-27T05:17:49Z",
+      "message": "Delete vcs.xml"
+    },
+    {
+      "sha": "58ee77221b4d28bbe2a52384f76b92a21b5b6da1",
+      "author_login": "1647917675",
+      "authored_at": "2018-03-27T05:17:40Z",
+      "message": "Delete misc.xml"
+    },
+    {
+      "sha": "f54a7394f8df43f283865627f0ba343f511c52ce",
+      "author_login": "1647917675",
+      "authored_at": "2018-03-27T05:13:07Z",
+      "message": "调整注释"
+    },
+    {
+      "sha": "bd74a839fdd353ac7f7b3319b97aaea93b05a890",
+      "author_login": "1647917675",
+      "authored_at": "2018-03-27T05:00:16Z",
+      "message": "调整注释"
+    },
+    {
+      "sha": "cfae61c07ebb5d213705c83c1b63f2a1e027d93e",
+      "author_login": "1647917675",
+      "authored_at": "2018-03-27T04:44:08Z",
+      "message": "调整注释"
+    },
+    {
+      "sha": "b6bb2d9c60a82a7a212e0f393ade74c4257b2e9a",
+      "author_login": "paascloud",
+      "authored_at": "2018-03-26T12:34:33Z",
+      "message": "Merge remote-tracking branch 'origin/master'"
+    },
+    {
+      "sha": "10ca12f8a001b4af0b7885d6a4d1cd4830772189",
+      "author_login": "paascloud",
+      "authored_at": "2018-03-26T12:33:04Z",
+      "message": "应群里呼声，提供一个月免费私服"
+    },
+    {
+      "sha": "74f3a8673d058b7cbe6636a567055aaffee323db",
+      "author_login": null,
+      "authored_at": "2018-03-25T07:29:13Z",
+      "message": "增加调查问卷"
+    },
+    {
+      "sha": "818e72dce38560cf764f947aa99e57e8532c570e",
+      "author_login": "paascloud",
+      "authored_at": "2018-03-24T12:48:39Z",
+      "message": "调整可靠消息"
+    },
+    {
+      "sha": "b256b044f51118f689c231338af230a9e603b958",
+      "author_login": "paascloud",
+      "authored_at": "2018-03-23T02:25:17Z",
+      "message": "请自行更换钉钉机器人token"
+    },
+    {
+      "sha": "d81cad649ef78dcd2c980c37b2d00a92048e514f",
+      "author_login": "paascloud",
+      "authored_at": "2018-03-23T01:58:36Z",
+      "message": "更换rocketmq版本"
+    },
+    {
+      "sha": "aa821f2daf675baba57d78210202c44196e2c0d4",
+      "author_login": "paascloud",
+      "authored_at": "2018-03-22T13:23:41Z",
+      "message": "更换码云地址"
+    },
+    {
+      "sha": "1bec08c98c0440ba814bc9df67d3a80b568a5d9d",
+      "author_login": "paascloud",
+      "authored_at": "2018-03-21T09:02:38Z",
+      "message": "更新博客地址"
+    },
+    {
+      "sha": "550f5644414dc6006e2bf1fcb4aa7aac42ad3280",
+      "author_login": "paascloud",
+      "authored_at": "2018-03-21T07:21:57Z",
+      "message": "更新博客地址"
+    },
+    {
+      "sha": "492b37e095509a21eb82877b97510e9102f10a1b",
+      "author_login": "paascloud",
+      "authored_at": "2018-03-19T14:36:04Z",
+      "message": "更新QQ群"
+    },
+    {
+      "sha": "61bb4c8f76eee450ec4e8ed839c6acb5976b950b",
+      "author_login": "paascloud",
+      "authored_at": "2018-03-19T13:52:22Z",
+      "message": "不允许未激活用户登录系统"
+    },
+    {
+      "sha": "5c4f568cfb99550bc386e4cb5b6f1e06a8a02e44",
+      "author_login": "paascloud",
+      "authored_at": "2018-03-17T15:16:40Z",
+      "message": "初始化项目"
+    },
+    {
+      "sha": "752288034b4a8fd16487074bd15a95215d7ecf56",
+      "author_login": "paascloud",
+      "authored_at": "2018-03-17T12:32:53Z",
+      "message": "初始化项目"
+    },
+    {
+      "sha": "1aa229761de19bbfff001afbcb431ef8d75978dd",
+      "author_login": "paascloud",
+      "authored_at": "2018-03-17T05:53:17Z",
+      "message": "初始化项目"
+    }
+  ],
+  "issues": [
+    {
+      "number": 178,
+      "title": "[security vulnerability] SQL injection",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-03T02:27:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 175,
+      "title": "fix(sec): upgrade org.liquibase:liquibase-core to 4.8.0",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-10-09T02:24:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 174,
+      "title": "fix(sec): upgrade com.alibaba:druid to 1.2.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-10-09T02:20:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 173,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-29T01:25:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 172,
+      "title": "在应用中发现了问题，希望联系到您一起做改善",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-27T09:50:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 171,
+      "title": "Bump spring-web from 4.3.8.RELEASE to 6.0.0",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-10T04:31:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 170,
+      "title": "Bump jackson-databind from 2.8.7 to 2.12.7.1 in /paascloud-common/paascloud-common-util",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-16T07:49:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 169,
+      "title": "Bump jackson-databind from 2.8.4 to 2.12.7.1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-16T07:22:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 168,
+      "title": "Add SECURITY.md",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-14T03:28:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 167,
+      "title": "fix(sec): upgrade com.fasterxml.jackson.core:jackson-databind to 2.14.0-rc1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-21T06:19:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 166,
+      "title": "fix(sec): upgrade com.github.pagehelper:pagehelper to 5.3.1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-19T02:42:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 165,
+      "title": "fix(sec): upgrade tk.mybatis:mapper to 4.2.1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-19T02:42:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 164,
+      "title": "fix(sec): upgrade com.github.pagehelper:pagehelper to 5.3.1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-19T02:41:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 163,
+      "title": "fix(sec): upgrade tk.mybatis:mapper to 4.2.1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-19T02:41:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 162,
+      "title": "Bump jackson-databind from 2.8.7 to 2.13.4.1 in /paascloud-common/paascloud-common-util",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-10-18T18:18:00Z",
+      "closed_at": "2022-11-16T07:49:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 161,
+      "title": "Bump jackson-databind from 2.8.4 to 2.13.4.1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-10-18T18:17:49Z",
+      "closed_at": "2022-11-16T07:22:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 160,
+      "title": "Bump jackson-databind from 2.8.4 to 2.12.6.1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-07-15T19:47:26Z",
+      "closed_at": "2022-10-18T18:17:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 159,
+      "title": "Bump mysql-connector-java from 5.1.39 to 8.0.28 in /paascloud-generator",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-20T23:06:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 158,
+      "title": "Bump mysql-connector-java from 5.1.39 to 8.0.28",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-20T23:06:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 157,
+      "title": "Bump fastjson from 1.2.29 to 1.2.83",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-17T01:43:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 156,
+      "title": "Bump gson from 2.3.1 to 2.8.9 in /paascloud-provider/paascloud-provider-omc",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-05-20T20:46:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 155,
+      "title": "Bump jackson-databind from 2.8.7 to 2.12.6.1 in /paascloud-common/paascloud-common-util",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-05-16T18:04:35Z",
+      "closed_at": "2022-10-18T18:18:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 154,
+      "title": "Bump liquibase-core from 3.5.3 to 4.8.0 in /paascloud-provider",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-03-08T21:14:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 152,
+      "title": "Bump jackson-databind from 2.8.4 to 2.9.10.8",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-12-09T19:48:30Z",
+      "closed_at": "2022-07-15T19:47:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 151,
+      "title": "Bump jackson-databind from 2.8.7 to 2.9.10.8 in /paascloud-common/paascloud-common-util",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-12-09T19:48:29Z",
+      "closed_at": "2022-05-16T18:04:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 150,
+      "title": "QQ群不能加",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-15T03:23:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 149,
+      "title": "文档和项目演示地址都失效了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-24T10:37:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 148,
+      "title": "各个微服务之间有PRC调用的例子吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-11T09:35:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 147,
+      "title": "Bump mybatis from 3.2.8 to 3.5.6 in /paascloud-generator",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-04-22T16:45:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 146,
+      "title": "Bump mybatis from 3.4.2 to 3.5.6 in /paascloud-common/paascloud-common-core",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-04-22T16:45:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 145,
+      "title": "Bump mybatis from 3.4.2 to 3.5.6 in /paascloud-common/paascloud-common-zk",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-04-22T16:44:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 144,
+      "title": "Bump mybatis from 3.4.2 to 3.5.6",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-04-22T16:44:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 143,
+      "title": "jar包无法下载",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-04-22T05:47:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 142,
+      "title": "gateway中添加了core核心包，其中包含mybatis依赖报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-06T02:18:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 141,
+      "title": "Bump jackson-databind from 2.8.4 to 2.9.10.7",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-20T22:03:32Z",
+      "closed_at": "2021-12-09T19:48:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 140,
+      "title": "Bump jackson-databind from 2.8.7 to 2.9.10.7 in /paascloud-common/paascloud-common-util",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-20T22:03:16Z",
+      "closed_at": "2021-12-09T19:48:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 139,
+      "title": "rocketmq可靠一致性的mysql落地实现 - PaasCloud",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-11T02:39:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 138,
+      "title": "Spring MVC自定义消息转换器(可解决Long类型数据传入前端精度丢失的问题) - PaasCloud",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-10T14:47:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 137,
+      "title": "从零开始搭建vue.js项目(一) - PaasCloud",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-10T14:39:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 136,
+      "title": "idea2017.3卡死的坑 - PaasCloud",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-10T14:39:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 135,
+      "title": "获取高德地图的四级地址 - PaasCloud",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-10T14:39:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 134,
+      "title": "nginx做反向负载均衡，后端服务器获取真实客户端ip - PaasCloud",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-10T14:36:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 133,
+      "title": "演示地址访问不了，加不了群",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-06T13:14:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 132,
+      "title": "加不了群",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-07-29T06:22:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 131,
+      "title": "Bump mysql-connector-java from 5.1.39 to 8.0.16 in /paascloud-generator",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-01T17:59:40Z",
+      "closed_at": "2022-06-20T23:06:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 130,
+      "title": "Bump mysql-connector-java from 5.1.39 to 8.0.16",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-01T17:58:29Z",
+      "closed_at": "2022-06-20T23:06:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 129,
+      "title": "Bump jackson-databind from 2.8.4 to 2.9.10.5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-30T20:55:19Z",
+      "closed_at": "2021-01-20T22:03:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 128,
+      "title": "maven 依赖的包导不下来啊",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-19T03:30:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 127,
+      "title": "无法访问",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-18T11:38:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 126,
+      "title": "Could not resolve dependencies for project com.liuzm.paascloud.provider:paascloud-provider-omc:jar:1.0: The following artifacts could not be resolved: com.alipay:alipay-sdk-java:jar:20170725114550, co",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-01T08:56:57Z",
+      "closed_at": "2020-06-12T06:53:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 125,
+      "title": "Bump jackson-databind from 2.8.4 to 2.9.10.4",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-15T19:28:10Z",
+      "closed_at": "2020-06-30T20:55:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 124,
+      "title": "Bump jackson-databind from 2.8.7 to 2.9.10.4 in /paascloud-common/paascloud-common-util",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-15T19:28:01Z",
+      "closed_at": "2021-01-20T22:03:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 123,
+      "title": "大佬，群一个也加不了啊",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-14T02:23:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 122,
+      "title": "大佬，群一个也加不了啊",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-14T02:23:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 121,
+      "title": "还有实例网站，可以给一个么，现在的打不开了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-08T18:31:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 120,
+      "title": "jar包本地仓库安装",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-13T08:14:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 119,
+      "title": "mybatis-generator-1.0.jar哪里可以找到？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-12T08:13:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 117,
+      "title": "error:Could not find artifact com.liuzm.mybatis:mybatis-generator:jar:1.0 in alimaven",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-08T01:50:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 116,
+      "title": "Bump jackson-databind from 2.8.7 to 2.9.10.3 in /paascloud-common/paascloud-common-util",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-03-04T21:43:44Z",
+      "closed_at": "2020-05-15T19:28:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 115,
+      "title": "文档域名打不开了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-10T07:33:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 114,
+      "title": "java.lang.IllegalStateException: No instances found of configserver (localhost)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-07T20:25:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 113,
+      "title": "数据库表脚本有吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-12-05T08:21:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 112,
+      "title": "启动discovery报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-21T00:56:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 111,
+      "title": "关于本项目oauth2登录设计的安全问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-14T03:07:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 110,
+      "title": "Bump jackson-databind from 2.8.4 to 2.9.10.1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-11-13T01:51:57Z",
+      "closed_at": "2020-05-15T19:28:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 109,
+      "title": "Bump jackson-databind from 2.8.7 to 2.9.10.1 in /paascloud-common/paascloud-common-util",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-11-13T01:48:43Z",
+      "closed_at": "2020-03-04T21:43:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 108,
+      "title": "请问作者，项目是否需要商业授权",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-02T01:59:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 107,
+      "title": "群加不了啊",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-10-06T05:55:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 106,
+      "title": "请问作者，是怎样做到同一个服务的接口，分散写在多个接口中的",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-09-21T15:01:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 105,
+      "title": "有个jar包无法下载",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-09-10T09:29:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 104,
+      "title": "项目确实比较难跑， 望作者出一个README.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-09-02T03:31:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 103,
+      "title": "模块多余及缺少依赖包",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-08-27T12:04:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 102,
+      "title": "此项目文档严重缺失，有时间折腾，不如自己重新写个项目",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-08-27T07:32:47Z",
+      "closed_at": "2019-08-28T08:10:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 101,
+      "title": "请教一下，微信用户和自有用户体系做了绑定关系么",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-08-13T15:16:56Z",
+      "closed_at": "2023-10-12T22:56:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 100,
+      "title": "现在演示网站好像报错，页面内容不显示 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-07-28T12:15:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 99,
+      "title": "你可以加下群，群共享文件有。不要加一群，一群已满。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-07-09T03:08:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 97,
+      "title": "有关可靠消息的设计问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-28T01:33:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 96,
+      "title": "jwt存储的问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-25T09:46:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 95,
+      "title": "压根就跑不起来的项目（估计是被作者把某些重要的部分给阉割了）",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-06-19T02:21:37Z",
+      "closed_at": "2019-06-19T16:03:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 94,
+      "title": "请问为什么在用户注册插入数据库成功后还要再调MQ,最终通过MQ的状态判断用户注册成功？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-06-12T11:02:08Z",
+      "closed_at": "2019-06-18T04:06:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 93,
+      "title": "可靠消息weit_send没有保证发送成功问题？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-05-30T07:33:09Z",
+      "closed_at": "2019-06-19T16:04:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 92,
+      "title": "readme 中的群联系方式无效",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-05-29T06:24:00Z",
+      "closed_at": "2019-05-29T06:32:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 91,
+      "title": "妈的 配置了几天 一直找到不库，给的私有库用不了，最后火爆脾气把电脑给砸了，屌毛，别让我现实中看见你，否则打断你的狗腿",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-05-24T16:49:09Z",
+      "closed_at": "2019-05-25T04:27:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 90,
+      "title": "妈的  这屌毛屁眼的垃圾项目害得我把电脑给砸了",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-05-24T16:27:25Z",
+      "closed_at": "2019-05-25T04:28:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 89,
+      "title": "什么烂项目  maven依赖不全 根本跑不了 垃圾垃圾垃圾  ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-05-24T04:12:06Z",
+      "closed_at": "2019-06-19T16:06:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 88,
+      "title": "什么烂项目  各种依赖错误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-05-24T02:24:15Z",
+      "closed_at": "2019-05-24T04:10:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 87,
+      "title": "你他妈的什么maven setting.xml私有库   你坑人  我想打人",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-05-22T16:18:44Z",
+      "closed_at": "2019-05-23T14:46:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 86,
+      "title": "redis配置在哪儿",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-18T07:18:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "能不能提供一下项目的启动流程",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-04-23T08:08:51Z",
+      "closed_at": "2019-06-19T16:11:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "pull new",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-04T13:58:26Z",
+      "closed_at": "2019-04-27T15:19:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "在服务之间，如何获取当前登录用户信息？？？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-04-01T15:17:06Z",
+      "closed_at": "2019-04-23T04:47:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 82,
+      "title": "为什么HandleWaitingConfirmMessageJob只处理UAC数据",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-01T01:41:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 81,
+      "title": "Update pom.xml",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-23T11:02:42Z",
+      "closed_at": "2019-04-27T15:19:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "paascloud-admin-web啥时候开源呀。大神",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-03-18T09:25:16Z",
+      "closed_at": "2019-06-19T16:13:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "第三方jar包能不能不要放在csdn呐，csdn太坑了。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-14T08:23:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "事物",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-03-01T16:56:22Z",
+      "closed_at": "2019-06-19T16:15:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "可靠消息WAIT_SEND向上游服务查询状态问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-26T17:37:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "这里zookeeper的作用是什么",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-25T19:19:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "在数据表同一字段上面建了2个索引",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-02-25T02:03:18Z",
+      "closed_at": "2019-06-19T16:16:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "后端入口登录",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-02-20T01:14:44Z",
+      "closed_at": "2019-06-19T16:13:51Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "paascloud",
+      "contributions": 28
+    },
+    {
+      "login": "1647917675",
+      "contributions": 7
+    },
+    {
+      "login": "kzy77",
+      "contributions": 3
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-08-24T06:42:11.893685Z"
+}

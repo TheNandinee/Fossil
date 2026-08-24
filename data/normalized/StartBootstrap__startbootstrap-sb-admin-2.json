@@ -1,0 +1,1623 @@
+{
+  "full_name": "StartBootstrap/startbootstrap-sb-admin-2",
+  "owner": "StartBootstrap",
+  "name": "startbootstrap-sb-admin-2",
+  "url": "https://github.com/StartBootstrap/startbootstrap-sb-admin-2",
+  "description": "A free, open source, Bootstrap admin theme created by Start Bootstrap",
+  "primary_language": "HTML",
+  "topics": [
+    "bootstrap",
+    "bootstrap-4",
+    "bootstrap-template",
+    "bootstrap-theme",
+    "bootstrap4",
+    "free",
+    "html",
+    "open-source"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 9865,
+  "forks": 5678,
+  "open_issues": 123,
+  "created_at": "2014-10-25T00:36:48Z",
+  "pushed_at": "2024-07-02T22:16:03Z",
+  "updated_at": "2026-08-23T00:00:16Z",
+  "commits": [
+    {
+      "sha": "f0309881ef82794a1bd6257cd321801bc38a0f3d",
+      "author_login": "davidtmiller",
+      "authored_at": "2021-04-29T01:31:52Z",
+      "message": "run build and version bump"
+    },
+    {
+      "sha": "32c4bb5b8a9a1e50edfa979248c955d2cf58798f",
+      "author_login": "davidtmiller",
+      "authored_at": "2021-04-29T01:20:00Z",
+      "message": "Bootstrap 4.6.0 and dependencies update (final BS4 update)"
+    },
+    {
+      "sha": "7101b1ba1b307a9eac638f59a0f5f15fcd9b78a9",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-11-06T22:29:24Z",
+      "message": "rebuild with version bump"
+    },
+    {
+      "sha": "9c5ab9faccfdfdb8be3ac261f1a53dc45633ff1a",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-11-06T22:27:25Z",
+      "message": "formatting and add pro upgrade info"
+    },
+    {
+      "sha": "be598357d6ffc78f6b1dfbb31c0d4f52de915243",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-11-03T19:53:16Z",
+      "message": "Bootstrap 4.5.3 and dependencies update"
+    },
+    {
+      "sha": "e9f9c181420ac5b0b08978761eddf2c3c5fc680e",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-06-19T18:37:38Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e068c5ec5e8c55e11631e70052c807311a09411b",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-06-19T18:36:15Z",
+      "message": "run build after dependecy update"
+    },
+    {
+      "sha": "d65df79aae3de842d22ddc0654b1c8239a89545e",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-06-19T18:35:34Z",
+      "message": "Merge branch 'master' of https://github.com/StartBootstrap/startbootstrap-sb-admin-2"
+    },
+    {
+      "sha": "f3d4cb9d9d238b723de1c9415e4579fe00741ab1",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-06-19T18:35:32Z",
+      "message": "initial dependencies update"
+    },
+    {
+      "sha": "6ab55f79c045333a8c17a9d859d9eea33a412795",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-06-19T18:32:03Z",
+      "message": "Merge pull request #331 from irineos1995/master"
+    },
+    {
+      "sha": "5e63066744440a69010f2eb233dbe6edba959bb0",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-06-19T18:31:37Z",
+      "message": "Merge pull request #343 from JackCrispy/patch-1"
+    },
+    {
+      "sha": "8adb53f9859bb12ac4a4c395896ff30a7baa03c9",
+      "author_login": "crispyaus",
+      "authored_at": "2020-05-14T05:55:10Z",
+      "message": "Fixed comment titles"
+    },
+    {
+      "sha": "3b656206e507c4a5545fe052a08cbb9994cd11f1",
+      "author_login": "irineos1995",
+      "authored_at": "2020-03-17T09:25:59Z",
+      "message": "following Bootstrap 4 guidelines"
+    },
+    {
+      "sha": "cfc7db04e7a39e27cf83f2fcf2bed34e3820b581",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-01-14T23:24:29Z",
+      "message": "update dependencies and push version"
+    },
+    {
+      "sha": "08c6a3104279512bf052ed1c9d67ad30c8cf367d",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-01-14T23:16:14Z",
+      "message": "Merge pull request #299 from onesneakymofo/patch-1"
+    },
+    {
+      "sha": "192fcb9da6a0e86415269ee2116a8b2bd0bf8330",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-01-14T23:15:51Z",
+      "message": "Merge pull request #262 from sbagdaulet/patch-1"
+    },
+    {
+      "sha": "29f20aacc264034cc3998264fbb52b3a8477cbfb",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-01-14T23:15:09Z",
+      "message": "Merge pull request #255 from weiserhei/master"
+    },
+    {
+      "sha": "d02f059e535b72d19cdeae1c99748d9a62789e51",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-01-14T23:14:29Z",
+      "message": "Merge pull request #277 from imtiazShakil/master"
+    },
+    {
+      "sha": "b387a4e220e873a3ed10f9fe0bb207bee84a4a43",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-01-14T23:10:52Z",
+      "message": "Merge pull request #321 from dpordomingo/defaults"
+    },
+    {
+      "sha": "f1652cc9c37ac85337b96df5e1a29473155cec81",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-01-14T23:10:44Z",
+      "message": "Merge branch 'master' into defaults"
+    },
+    {
+      "sha": "e1025bfb86b71100fa0f674c97141b14becf8223",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-01-14T23:05:29Z",
+      "message": "Merge pull request #243 from goat-code-cgn/master"
+    },
+    {
+      "sha": "71243130478a3b24fabdc0b9e267e302ba8244b8",
+      "author_login": "davidtmiller",
+      "authored_at": "2020-01-14T23:01:07Z",
+      "message": "Merge branch 'master' into master"
+    },
+    {
+      "sha": "cbbbcbdb9faa853077d597b9144dfaf634870b01",
+      "author_login": "dpordomingo",
+      "authored_at": "2020-01-09T16:14:24Z",
+      "message": "Add generated code with 'npm start'"
+    },
+    {
+      "sha": "3fd822f902a579bf4730f34f8e3aca1dff3fb96b",
+      "author_login": "goat-code-cgn",
+      "authored_at": "2019-05-02T09:20:19Z",
+      "message": "Bump SB Admin 2 to v4.0.8 in package.json"
+    },
+    {
+      "sha": "0d2fd353c0315697630bbb7c27a80dd09ab26a0e",
+      "author_login": "goat-code-cgn",
+      "authored_at": "2019-05-02T09:12:20Z",
+      "message": "Make the login image fully configurable"
+    },
+    {
+      "sha": "65a433ebf878a67dd64133c2c2476fd9b5ec16db",
+      "author_login": "goat-code-cgn",
+      "authored_at": "2019-05-01T14:51:25Z",
+      "message": "Make SB Admin 2 variables fully configurable"
+    },
+    {
+      "sha": "9c753eff527122cecc9660c1197d41cf7cb9d2fa",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-12-31T17:25:09Z",
+      "message": "Update _topbar.scss"
+    },
+    {
+      "sha": "294ae50bddfb0ec267dbcd9031672b96c3c46862",
+      "author_login": "onesneakymofo",
+      "authored_at": "2019-10-18T07:27:36Z",
+      "message": "Fix wording on buttons (Primary should be Light)"
+    },
+    {
+      "sha": "60d24312ca1c3d75738d2b40e552a0495e53dda6",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-09-16T21:56:35Z",
+      "message": "update dependencies, autoprefixer config, navbar search input height adjustment"
+    },
+    {
+      "sha": "e50ac540f6ecbe85fcceb6560dcd919a6c5a0179",
+      "author_login": "imtiazShakil",
+      "authored_at": "2019-07-03T16:41:42Z",
+      "message": "Issue#276 fixed!"
+    },
+    {
+      "sha": "afd772d4c003b48424c8f59881d6eb5b9ddffaac",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-06-13T17:14:16Z",
+      "message": "update dependencies, run npm start script from local install"
+    },
+    {
+      "sha": "178256973104fbc7fab847d3ea6683a2fcfa6e3b",
+      "author_login": "sbagdaulet",
+      "authored_at": "2019-05-31T08:31:33Z",
+      "message": "Hide navigation menu in mobile"
+    },
+    {
+      "sha": "a749325221fb30fa61d51f0a266d6a259f6fd323",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-05-29T18:48:37Z",
+      "message": "gulp task fix and update dependencies"
+    },
+    {
+      "sha": "bf4f37544441e349ca6eebfbf092650b7079cb9f",
+      "author_login": "weiserhei",
+      "authored_at": "2019-05-27T13:03:52Z",
+      "message": "add light & dark colors to palette"
+    },
+    {
+      "sha": "045039d8fc2ded45f656ab5b8505d91e95caa6e3",
+      "author_login": "weiserhei",
+      "authored_at": "2019-05-27T08:35:03Z",
+      "message": "add missing border color to example"
+    },
+    {
+      "sha": "6c03cfcebeddc92d163ad522820c779b04ed4b0c",
+      "author_login": "weiserhei",
+      "authored_at": "2019-05-27T08:31:33Z",
+      "message": "add gradient colors to example"
+    },
+    {
+      "sha": "b812173c32f67ef6febd7f739b1669715862decc",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-05-17T03:04:56Z",
+      "message": "update version and build"
+    },
+    {
+      "sha": "64ca81c327bddb8448923f2fc5800ce1edd26436",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-05-17T03:01:57Z",
+      "message": "run npm install"
+    },
+    {
+      "sha": "19ced5fa0d9f7278be1c002535629721f4ad14e9",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-05-17T02:59:13Z",
+      "message": "Update package-lock.json"
+    },
+    {
+      "sha": "a372e9afc837c75f5b2eb9a1143e4ef902276703",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-05-17T02:56:52Z",
+      "message": "Merge pull request #242 from JohanLopes/master"
+    },
+    {
+      "sha": "5ad6666a418fc2f8797a6b6192dfcc104b53ae7a",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-05-17T02:54:09Z",
+      "message": "Update package-lock.json"
+    },
+    {
+      "sha": "9324925358599459f1636d1b3e7fbcb52e7d51aa",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-05-17T02:53:07Z",
+      "message": "Update package-lock.json"
+    },
+    {
+      "sha": "14d3962ab6e39a824fdc4dd3f86c5c7f9917b4b8",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-05-16T22:13:11Z",
+      "message": "fix gulp-sass vulnerabilities and update dependencies"
+    },
+    {
+      "sha": "77c35fe8b3d5494d954214409791a61f563f363b",
+      "author_login": "goat-code-cgn",
+      "authored_at": "2019-05-02T09:54:29Z",
+      "message": "Update _variables.scss"
+    },
+    {
+      "sha": "5b0989eaa9bc8784cfde4d50abe88f78c4fe029a",
+      "author_login": "goat-code-cgn",
+      "authored_at": "2019-05-02T09:20:19Z",
+      "message": "Update package.json"
+    },
+    {
+      "sha": "872d85d7586d44a3362c635b902addf56f0ce8a1",
+      "author_login": "goat-code-cgn",
+      "authored_at": "2019-05-02T09:13:22Z",
+      "message": "Update _variables.scss"
+    },
+    {
+      "sha": "e6a626a4491c66507f97d02685a3e3800a1f6e62",
+      "author_login": "goat-code-cgn",
+      "authored_at": "2019-05-02T09:12:20Z",
+      "message": "Update _login.scss"
+    },
+    {
+      "sha": "b2cc438310247b7ca8404d996cd5dad12dc93a3e",
+      "author_login": "goat-code-cgn",
+      "authored_at": "2019-05-01T14:51:25Z",
+      "message": "Add !default to sb-admin-2 SCSS variables"
+    },
+    {
+      "sha": "b6fcd9f6dad6640cf8dd56c83e4b72c29666ea8b",
+      "author_login": "JohanLopes",
+      "authored_at": "2019-04-24T15:08:12Z",
+      "message": "Use bootstrap variables in borders and backgrounds utilities classes"
+    },
+    {
+      "sha": "ddfaceb4a8e65a41f163e2fdc4eab49384b810a1",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-03-26T06:08:18Z",
+      "message": "update dependencies"
+    },
+    {
+      "sha": "b77570a56ed5fb482986069b55368fb79a8ff906",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-02-17T08:28:24Z",
+      "message": "Merge pull request #222 from BlackrockDigital/dev"
+    },
+    {
+      "sha": "51c94464544bf209de91275e260e8dd122393bf6",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-02-17T08:06:45Z",
+      "message": "update bootstrap 4.3.1, update gulpfile, npm start script added, change SCSS file names for proper compiling"
+    },
+    {
+      "sha": "f6bcc2ba5d854fe7b51ca36aa022dca75708ba80",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-02-13T19:48:08Z",
+      "message": "add back closing tag"
+    },
+    {
+      "sha": "b0c111684d55985dabde67b23c0b453ecc813079",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-02-13T19:44:49Z",
+      "message": "Merge pull request #217 from BlackrockDigital/dev"
+    },
+    {
+      "sha": "2dfeec30d18dd3e02502b6eca5a3dfd0224d3f41",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-02-13T19:43:54Z",
+      "message": "fix superscript tag in sidebar brand text"
+    },
+    {
+      "sha": "ba5b31ff98e735628ebf7d9b09ca07ce431e3b75",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-02-13T19:41:41Z",
+      "message": "Merge pull request #216 from BlackrockDigital/dev"
+    },
+    {
+      "sha": "36196b9b93e87a970c5062c24db8d8da23857725",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-02-13T19:41:08Z",
+      "message": "update Bootstrap 4.3.1 and font awesome"
+    },
+    {
+      "sha": "6e7d2e592adc2ee18ab9f6b6b82233a6471eb69a",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-01-29T19:51:55Z",
+      "message": "add Bootstrap 3 version to readme"
+    },
+    {
+      "sha": "7ef57a9999cc8fd3a6ed2f6075687902c0d644e3",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-01-29T19:15:29Z",
+      "message": "version 4.0 udpate"
+    },
+    {
+      "sha": "86d352e36b649b569256a44836e24f757d9f0186",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-01-03T19:13:42Z",
+      "message": "update readme"
+    },
+    {
+      "sha": "af58467db446b94123351d0b5b0e6a96aedd7109",
+      "author_login": "davidtmiller",
+      "authored_at": "2019-01-03T19:10:55Z",
+      "message": "updating to 4.0"
+    },
+    {
+      "sha": "059edaa9b471ff81a8f5314dcb28910b546c1e53",
+      "author_login": "davidtmiller",
+      "authored_at": "2018-01-30T01:04:08Z",
+      "message": "update copyright year on license and readme"
+    },
+    {
+      "sha": "cd161a6edf29ac6859421c75febc8fdd1c6dd6cb",
+      "author_login": "davidtmiller",
+      "authored_at": "2017-04-04T17:44:22Z",
+      "message": "MIT License"
+    },
+    {
+      "sha": "7a3621e124fa717217bd17e3b5b5fc22bb5ab594",
+      "author_login": "davidtmiller",
+      "authored_at": "2017-03-06T19:56:33Z",
+      "message": "update package.json"
+    },
+    {
+      "sha": "76a5ba0edefec839a337809699bed5794d4dac41",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-11-29T06:22:59Z",
+      "message": "Merge pull request #155 from PeterDaveHello/patch-1"
+    },
+    {
+      "sha": "d43e38f22129397561b1974a5618a798763afde3",
+      "author_login": "PeterDaveHello",
+      "authored_at": "2016-10-16T12:16:47Z",
+      "message": "Add CDNJS version badge in readme"
+    },
+    {
+      "sha": "20f6ac3081a0b35adbb216c20a8117fd2f179f13",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-09-07T01:32:16Z",
+      "message": "Merge pull request #142 from ParanormalCoder/master"
+    },
+    {
+      "sha": "d6d36059a884c19c28b70b11aa15cf462c380fb8",
+      "author_login": null,
+      "authored_at": "2016-08-25T08:28:32Z",
+      "message": "issue: repository url value in package.json file was incorrect"
+    },
+    {
+      "sha": "e85ee3814ba12b7095024d31424cc9d19d791d05",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-08-19T22:46:51Z",
+      "message": "nested panels won't be messed with now"
+    },
+    {
+      "sha": "3e0ff87103dbb76115a8c1cc4c27fa1574dc58bf",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-08-19T22:40:54Z",
+      "message": "removed an unused class and prettify html"
+    },
+    {
+      "sha": "1e9297523a6c459d61a6c9bf85b5d434be842799",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-08-19T22:26:06Z",
+      "message": "update font awesome"
+    },
+    {
+      "sha": "437cb763140d08c8b38897192a7f0115a041281f",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-08-19T22:05:46Z",
+      "message": "remove bower_components directory since it's now being ignored"
+    },
+    {
+      "sha": "6b5d5953b67dbe830fee993de3693dc437078a8d",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-08-19T22:04:09Z",
+      "message": "added vendor directory and gulp support for better dependency organization and compiling less and js files"
+    },
+    {
+      "sha": "2424e20060e53032c0bfe51bafc1703f503e791f",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-08-13T21:13:51Z",
+      "message": "update bower and composer"
+    },
+    {
+      "sha": "fce92d6caae6bf233f206adffd54e7dad872f3b2",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-08-13T21:12:17Z",
+      "message": "Merge pull request #131 from nelson6e65/patch-1"
+    },
+    {
+      "sha": "c1f52e8c132af7207ec090f0d060f676b7f310c5",
+      "author_login": "nelson6e65",
+      "authored_at": "2016-08-13T20:54:21Z",
+      "message": ":fire: Remove explicit version from bower.json."
+    },
+    {
+      "sha": "4eb66ac3b5d9ed6702b2f7c2f4083870d499cb8c",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-07-25T20:48:58Z",
+      "message": "update to bootstrap 3.3.7"
+    },
+    {
+      "sha": "8eee15719fc17b7a73a7f721b6ade868ffc1ba74",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-06-30T21:14:30Z",
+      "message": "Merge pull request #109 from kingdomh2007/gh-pages"
+    },
+    {
+      "sha": "868591986072c2e7791f108c8eadcf2e9cbbd098",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-06-30T21:13:38Z",
+      "message": "Merge pull request #121 from odurgeau/gh-pages"
+    },
+    {
+      "sha": "15dade60d0a34822549c81e9e3f25286975b2b59",
+      "author_login": null,
+      "authored_at": "2016-06-07T12:56:44Z",
+      "message": "#120 - Not spread background color for panel heading"
+    },
+    {
+      "sha": "7acc1a0540e351fcdf280b360c9b1d5be98b8e1a",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-05-28T18:55:11Z",
+      "message": "update CSS to MIT"
+    },
+    {
+      "sha": "06d87021039613eff99b18eee46c3aca11dcc2a0",
+      "author_login": "kingdomh2007",
+      "authored_at": "2016-03-24T10:21:19Z",
+      "message": "multi-drop down's display isn't correct"
+    },
+    {
+      "sha": "39805790df48fdf12bf0cd8dbcb9c0f9f5264c37",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-02-04T20:53:16Z",
+      "message": "update to MIT license"
+    },
+    {
+      "sha": "bc69b30bbe25f4edf48b87c0422f8b89cc633198",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-02-02T20:17:24Z",
+      "message": "remove line example to make homepage menu correct"
+    },
+    {
+      "sha": "0c64b68b30a79458c9c99f88374bbad20fcf3f7c",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-01-29T21:52:28Z",
+      "message": "Merge pull request #66 from nymanjens/gh-pages"
+    },
+    {
+      "sha": "76ef6da0fb2667b4c777d4fee42748c300f52184",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-01-29T21:46:13Z",
+      "message": "Merge pull request #80 from pmichna/gh-pages"
+    },
+    {
+      "sha": "b9b4738f4f03e482b3397990b7e08d2773871937",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-01-29T21:42:28Z",
+      "message": "Merge pull request #100 from foxou33/gh-pages"
+    },
+    {
+      "sha": "7d435025654f7d412d4d9e39aa4bcfa1a0385805",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-01-29T21:42:10Z",
+      "message": "Merge pull request #96 from krzysiekpiasecki/gh-pages"
+    },
+    {
+      "sha": "f64e47d361a7c4ba65221855d29f39229753a869",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-01-29T21:38:49Z",
+      "message": "Merge pull request #97 from krzysiekpiasecki/patch-6"
+    },
+    {
+      "sha": "9c094e9eaa483e7223d901765217d1506248f3fc",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-01-29T21:36:58Z",
+      "message": "Merge pull request #92 from krzysiekpiasecki/patch-2"
+    },
+    {
+      "sha": "90fc3d77a310a6656cb194742f54d65a3d161a2e",
+      "author_login": "davidtmiller",
+      "authored_at": "2016-01-29T21:36:38Z",
+      "message": "Merge pull request #52 from zerkms/patch-1"
+    },
+    {
+      "sha": "578afca14a5581ebad732411164002415f83b3f1",
+      "author_login": "foxou33",
+      "authored_at": "2016-01-13T23:16:39Z",
+      "message": "Create composer.json"
+    },
+    {
+      "sha": "6192b94721b3ea515bf3d1b38116ca100a3518e5",
+      "author_login": "krzysiekpiasecki",
+      "authored_at": "2016-01-06T22:38:12Z",
+      "message": "Remove unnecessary console output"
+    },
+    {
+      "sha": "9da00b7d4a170ddaeb86382b081bdc07030e01c1",
+      "author_login": "krzysiekpiasecki",
+      "authored_at": "2016-01-06T22:09:41Z",
+      "message": "Freeze datatable-responsive dependency"
+    },
+    {
+      "sha": "8c064ad0a90a07fbd072578d697c7642d9252481",
+      "author_login": "krzysiekpiasecki",
+      "authored_at": "2016-01-06T22:02:26Z",
+      "message": "Fix invalid responsive data table example"
+    },
+    {
+      "sha": "1847b90c83d23a4408d4500fa0c5b9dcb9ae4136",
+      "author_login": "krzysiekpiasecki",
+      "authored_at": "2016-01-06T14:23:49Z",
+      "message": "Add missing morris-line-chart example"
+    },
+    {
+      "sha": "61131dfe622da68630bf56d20eca23bc39566e65",
+      "author_login": null,
+      "authored_at": "2015-12-06T17:18:09Z",
+      "message": "update version in bower.json"
+    },
+    {
+      "sha": "afb82ee156913a9bc2274e578e94d4998ead5420",
+      "author_login": null,
+      "authored_at": "2015-11-28T18:17:10Z",
+      "message": "Bootstrap v3.3.6 Update"
+    },
+    {
+      "sha": "f509833df1dacb09df41b9f178ea005d9e3418a2",
+      "author_login": null,
+      "authored_at": "2015-09-30T10:32:39Z",
+      "message": "remove wrong checking of active link in sidebar"
+    },
+    {
+      "sha": "0b77a7484f966d2336f621a2f32da5323c4e644e",
+      "author_login": null,
+      "authored_at": "2015-06-22T17:25:30Z",
+      "message": "Bootstrap 3.3.5 Update (and other dependencies)"
+    }
+  ],
+  "issues": [
+    {
+      "number": 503,
+      "title": "Updated homepage with custom title and welcome message",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-07-31T11:46:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 502,
+      "title": "Kimi",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-16T15:05:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 501,
+      "title": "GLM 5.0模型测试修改提交",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-16T14:58:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 500,
+      "title": "Doubao-Seed-Code-Dogfood-2.1.2模型测试修改提交",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-16T14:35:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 499,
+      "title": "Free wifi",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-11T14:55:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 498,
+      "title": "Change resize event handler to use 'on' method",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-19T23:45:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 497,
+      "title": "Fix minified version",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-19T23:44:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 496,
+      "title": "Update index.html",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-28T09:45:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 495,
+      "title": "Update index.html",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-28T09:42:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 494,
+      "title": "Implement weather data fetch for city display",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-28T09:39:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 493,
+      "title": "Update index.html2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-28T09:24:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 492,
+      "title": "T",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-28T08:22:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 491,
+      "title": "Update index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-11-28T07:47:15Z",
+      "closed_at": "2025-11-28T07:47:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 490,
+      "title": "Feature/upgrade bootstrap 5 version",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-11-17T07:04:48Z",
+      "closed_at": "2025-11-17T07:05:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 489,
+      "title": "HTTP ERROR 500",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-09-23T08:48:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 488,
+      "title": "improve table styling",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-08-05T18:09:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 487,
+      "title": "Migrating Bootstrap to Version 5",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-05-09T18:53:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 486,
+      "title": "Bootstrap 5 Migration",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-05-09T17:43:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 485,
+      "title": "Final update ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-03-21T04:44:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 484,
+      "title": "Some design improvements by enhance UI/UX design",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-03-20T04:53:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 483,
+      "title": "Fixed Button toggle method",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-03-19T04:33:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 482,
+      "title": "basic forms",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-02-09T20:37:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 481,
+      "title": "Comment Typo Fix",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-01-07T07:42:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 480,
+      "title": "Update login.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-10-04T13:42:45Z",
+      "closed_at": "2024-10-06T18:10:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 479,
+      "title": "Migrate to Bootstrap 4.6 to 5.x",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-16T00:04:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 478,
+      "title": "Main",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-07-02T22:16:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 476,
+      "title": "Touch up",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-05-10T15:20:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 475,
+      "title": "Counselor",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-05-10T13:36:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 474,
+      "title": "Feature04 add register page",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-05-09T09:25:28Z",
+      "closed_at": "2024-05-09T09:26:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 473,
+      "title": "Feature03.2 add edit app",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-05-05T14:14:19Z",
+      "closed_at": "2024-05-05T14:15:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 472,
+      "title": "Feature03 patient features",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-05-05T00:05:16Z",
+      "closed_at": "2024-05-05T00:05:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 471,
+      "title": "Error 404 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-27T13:51:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 470,
+      "title": "Cannot run npm install",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-08T21:22:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 469,
+      "title": "home1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-12-03T11:23:41Z",
+      "closed_at": "2023-12-04T01:45:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 467,
+      "title": "Cannot run the code",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-16T02:44:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 466,
+      "title": "Change the url ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-12T21:55:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 465,
+      "title": "Error: UNABLE_TO_GET_ISSUER_CERT_LOCALLY",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-09T22:10:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 464,
+      "title": "Add a new theme and I aligned it to the right",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-05-06T08:15:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 463,
+      "title": "Add a new theme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-05-06T08:11:59Z",
+      "closed_at": "2023-05-06T08:14:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 462,
+      "title": "\"sidebarToggle\" is not clickable",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-27T06:40:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 461,
+      "title": "Bump qs and browser-sync",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-15T23:28:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 460,
+      "title": "Bump json-schema and jsprim",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-15T23:28:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 459,
+      "title": "Bump axios and localtunnel",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-15T23:27:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 458,
+      "title": "Bump postcss from 7.0.35 to 7.0.39",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-15T23:27:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 457,
+      "title": "Bump ws from 7.4.5 to 7.4.6",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-15T23:27:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 456,
+      "title": "Need to update the datatables version ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-13T18:09:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 455,
+      "title": "Update index.html",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-13T11:22:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 454,
+      "title": "Update index.html",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-13T11:17:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 453,
+      "title": "Update index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-04-13T10:34:15Z",
+      "closed_at": "2023-04-13T10:58:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 452,
+      "title": "r",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-04-13T10:32:32Z",
+      "closed_at": "2023-04-13T10:56:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 451,
+      "title": "new",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-04-13T10:26:09Z",
+      "closed_at": "2023-04-13T10:29:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 450,
+      "title": "masterdemo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-04-13T10:01:37Z",
+      "closed_at": "2023-04-13T10:58:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 449,
+      "title": "Update index.html",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-13T09:56:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 448,
+      "title": "Update index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-04-13T09:47:14Z",
+      "closed_at": "2023-04-13T09:47:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 447,
+      "title": "Update index.html",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-13T09:42:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 446,
+      "title": "update index.html",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-13T09:38:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 445,
+      "title": "Update index.html",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-13T08:10:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 444,
+      "title": "Bootstrap",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-04-06T23:41:30Z",
+      "closed_at": "2023-04-06T23:51:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 443,
+      "title": "\n.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-13T01:48:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 442,
+      "title": "Bump minimist from 1.2.5 to 1.2.8",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-03-04T03:03:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 441,
+      "title": "Bootstrap version issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-24T11:00:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 439,
+      "title": "Bump ua-parser-js from 0.7.28 to 0.7.33",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-27T01:29:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 438,
+      "title": "Bump decode-uri-component from 0.2.0 to 0.2.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-02T20:02:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 437,
+      "title": "Bump engine.io and browser-sync",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-22T20:11:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 436,
+      "title": "Bump socket.io-parser from 3.3.2 to 3.3.3",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-12T09:54:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 435,
+      "title": "BsNestedSortable plugin",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-22T15:47:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 434,
+      "title": "Font-awesome pseudo elements usage is causing massive slowdowns",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-07T11:47:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 433,
+      "title": "Problem with S font in tables",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-27T15:58:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 432,
+      "title": "Update blank.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-08-26T13:06:19Z",
+      "closed_at": "2024-09-08T12:04:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 431,
+      "title": "Update buttons.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-08-26T13:05:36Z",
+      "closed_at": "2024-09-08T12:04:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 430,
+      "title": "Update cards.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-08-26T12:28:28Z",
+      "closed_at": "2024-09-08T12:04:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 429,
+      "title": "Update 404.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-08-26T12:25:55Z",
+      "closed_at": "2024-09-08T12:04:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 428,
+      "title": "changing of colors",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-22T10:15:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 427,
+      "title": "Bump moment from 2.29.1 to 2.29.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-07-07T01:42:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 426,
+      "title": "montando site",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-07T14:15:06Z",
+      "closed_at": "2022-06-07T14:15:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 425,
+      "title": "Main",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-04-15T14:26:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 424,
+      "title": "Bump minimist from 1.2.5 to 1.2.6",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-04-09T23:25:31Z",
+      "closed_at": "2023-03-04T03:03:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 423,
+      "title": "Bump moment from 2.29.1 to 2.29.2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-04-09T00:49:04Z",
+      "closed_at": "2022-07-07T01:42:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 422,
+      "title": "Angular Template with layoutSidenav working?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-07T21:30:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 421,
+      "title": "Bootstrap dashboard",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-04T23:53:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 419,
+      "title": "The support for SB 2 is hopeless",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-21T13:04:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 418,
+      "title": "Update to Bootstrap 5",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-02-20T15:36:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 417,
+      "title": "Bump follow-redirects from 1.14.0 to 1.14.8",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-02-12T05:25:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 416,
+      "title": "Headache with styles used the template and the documentation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-08T22:25:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 415,
+      "title": "dropdown-toggle nav-link not responsive",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-12T08:24:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 414,
+      "title": "Menu scroll on Android not working",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-08T17:46:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 413,
+      "title": "Wrong PR",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-12-31T08:33:34Z",
+      "closed_at": "2021-12-31T08:35:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 412,
+      "title": "Using sass to compile throws a \"Using / for division is deprecated\" error",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-11-12T18:09:59Z",
+      "closed_at": "2022-12-04T00:29:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 411,
+      "title": "nextjs init",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-11-08T12:55:21Z",
+      "closed_at": "2021-11-08T12:56:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 410,
+      "title": "any django template?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-01T10:42:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 409,
+      "title": "Modal close button didn't work",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-10-19T10:27:33Z",
+      "closed_at": "2021-10-19T12:44:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 408,
+      "title": "Cross site scripting in datatables.net",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-16T18:45:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 407,
+      "title": "Sidebar toggle issue on mobile",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-15T06:08:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 406,
+      "title": "Bs 5 upgrade?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-14T08:44:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 405,
+      "title": "Why do not use iframe?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-26T01:34:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 404,
+      "title": "Please Read me",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-14T15:44:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 403,
+      "title": "Components not working on Heroku",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-03T16:37:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 402,
+      "title": "(version 2.0.2) - Wrong days are displayed for August 2021 so far (wrong offset in DateRange Picker - Litepicker lib)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-14T18:18:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 401,
+      "title": "Sub sub menu element",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-26T06:42:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 399,
+      "title": "Searchbar suggestions not showing up",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-19T09:02:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "davidtmiller",
+      "contributions": 68
+    },
+    {
+      "login": "challgren",
+      "contributions": 19
+    },
+    {
+      "login": "goat-code-cgn",
+      "contributions": 8
+    },
+    {
+      "login": "krzysiekpiasecki",
+      "contributions": 4
+    },
+    {
+      "login": "weiserhei",
+      "contributions": 3
+    },
+    {
+      "login": "marcelod",
+      "contributions": 2
+    },
+    {
+      "login": "onesneakymofo",
+      "contributions": 1
+    },
+    {
+      "login": "dpordomingo",
+      "contributions": 1
+    },
+    {
+      "login": "irineos1995",
+      "contributions": 1
+    },
+    {
+      "login": "zerkms",
+      "contributions": 1
+    },
+    {
+      "login": "crispyaus",
+      "contributions": 1
+    },
+    {
+      "login": "jensmotum",
+      "contributions": 1
+    },
+    {
+      "login": "JohanLopes",
+      "contributions": 1
+    },
+    {
+      "login": "nelson6e65",
+      "contributions": 1
+    },
+    {
+      "login": "PeterDaveHello",
+      "contributions": 1
+    },
+    {
+      "login": "tnir",
+      "contributions": 1
+    },
+    {
+      "login": "kumpelblase2",
+      "contributions": 1
+    },
+    {
+      "login": "dgelvin",
+      "contributions": 1
+    },
+    {
+      "login": "foxou33",
+      "contributions": 1
+    },
+    {
+      "login": "imtiazShakil",
+      "contributions": 1
+    },
+    {
+      "login": "sbagdaulet",
+      "contributions": 1
+    },
+    {
+      "login": "kingdomh2007",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-08-24T06:42:10.206680Z"
+}
