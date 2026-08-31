@@ -1,0 +1,942 @@
+{
+  "full_name": "Tencent/secguide",
+  "owner": "Tencent",
+  "name": "secguide",
+  "url": "https://github.com/Tencent/secguide",
+  "description": "面向开发人员梳理的代码安全指南",
+  "primary_language": null,
+  "topics": [
+    "guide",
+    "security"
+  ],
+  "license_spdx": "NOASSERTION",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 13477,
+  "forks": 1946,
+  "open_issues": 40,
+  "created_at": "2021-05-18T12:42:49Z",
+  "pushed_at": "2023-03-20T09:57:37Z",
+  "updated_at": "2026-08-31T00:24:17Z",
+  "commits": [
+    {
+      "sha": "bfda087142e3bb3f5840cbc6af82c1982d1d14e4",
+      "author_login": "T4erg",
+      "authored_at": "2021-12-17T02:22:57Z",
+      "message": "Merge pull request #67 from T4erg/main"
+    },
+    {
+      "sha": "9eec010968a478b5b163f6a09148f3f7d2936e45",
+      "author_login": "T4erg",
+      "authored_at": "2021-12-16T10:36:05Z",
+      "message": "style: beauty table of contents."
+    },
+    {
+      "sha": "3d136eb0fcdd00dae6cc528b811304db3b0ab438",
+      "author_login": "T4erg",
+      "authored_at": "2021-12-16T09:29:51Z",
+      "message": "add: 1. Prohibit the use of unsafe serialization functions."
+    },
+    {
+      "sha": "6fc9f02cd5752356d8fe27a8584b6f8a57905f64",
+      "author_login": "T4erg",
+      "authored_at": "2021-12-16T09:20:59Z",
+      "message": "add: New entry \"Prohibit the use of eval function\""
+    },
+    {
+      "sha": "1b6620378d384e2a5fdea25bc6a8ba1a23719b8d",
+      "author_login": "baijinping",
+      "authored_at": "2021-10-05T01:34:05Z",
+      "message": "Update Java安全指南.md (#61)"
+    },
+    {
+      "sha": "107608ae3508deaccc509eead791b0a5355140d3",
+      "author_login": "martinzhou2015",
+      "authored_at": "2021-09-23T02:53:41Z",
+      "message": "fix: 修正1.1.9描述"
+    },
+    {
+      "sha": "785ffcde50f58fd9a397cd4965ad00e19d857543",
+      "author_login": "baosj0",
+      "authored_at": "2021-09-23T02:22:58Z",
+      "message": "fix: 修正代码示例"
+    },
+    {
+      "sha": "6e697bda3ce1868bc43efafc9440c452834b52e4",
+      "author_login": "zheeeng",
+      "authored_at": "2021-09-22T07:26:00Z",
+      "message": "fix: 修正JavaScript代码示例"
+    },
+    {
+      "sha": "51a6c7a94e487150c5a2dc19a45e6670a3ebc1f6",
+      "author_login": "YanhuiJessica",
+      "authored_at": "2021-08-05T07:06:23Z",
+      "message": "fix(python/1.1.1)：修订条目内容 (#44)"
+    },
+    {
+      "sha": "52b0235e20cc3c2f5110dda0fa855fa477592210",
+      "author_login": "martinzhou2015",
+      "authored_at": "2021-08-03T02:29:36Z",
+      "message": "fix:整数除以零异常 (#55)"
+    },
+    {
+      "sha": "401f36164764207fdee37beb9497d0a042ccfd69",
+      "author_login": "martinzhou2015",
+      "authored_at": "2021-08-02T07:43:28Z",
+      "message": "Merge pull request #53 from ArdxWe/main"
+    },
+    {
+      "sha": "901341d285866c6552d79e2e961bb346480b493e",
+      "author_login": "ArdxWe",
+      "authored_at": "2021-07-18T11:04:48Z",
+      "message": "fix(C,C++): 修订条目及代码示例"
+    },
+    {
+      "sha": "78075339dd8398fb047744b134bef91c52d4c23b",
+      "author_login": "martinzhou2015",
+      "authored_at": "2021-06-28T08:20:05Z",
+      "message": "Merge pull request #51 from 4blacktea/patch-1"
+    },
+    {
+      "sha": "fb9db54c1ea70de0699b344d883b51f086f067f5",
+      "author_login": "4blacktea",
+      "authored_at": "2021-06-24T16:52:41Z",
+      "message": "fix(java后台类/1.1.2): 修复错别字"
+    },
+    {
+      "sha": "980fd61a662b4d025bfd3f3fcc0e119fe32d6840",
+      "author_login": "sagexueqi",
+      "authored_at": "2021-06-20T16:39:42Z",
+      "message": "fix(java): 修订1.5.3条内容"
+    },
+    {
+      "sha": "c798aabcd6045946764a1158b925a98bd4f66d2b",
+      "author_login": "martinzhou2015",
+      "authored_at": "2021-06-20T16:34:30Z",
+      "message": "Merge pull request #49 from Albertchamberlain/patch-1"
+    },
+    {
+      "sha": "769504b6981a945251679d2fb5f22a48661a65f4",
+      "author_login": "Albertchamberlain",
+      "authored_at": "2021-06-19T11:06:07Z",
+      "message": "Update Go安全指南.md"
+    },
+    {
+      "sha": "9febcbea394a9e135a2057ead51af82f09a1ea1c",
+      "author_login": "ArdxWe",
+      "authored_at": "2021-05-28T07:59:10Z",
+      "message": "修复打字错误 (#33)"
+    },
+    {
+      "sha": "9bb5d70363c7d22687e6f45673fd6d685c117271",
+      "author_login": "martinzhou2015",
+      "authored_at": "2021-05-28T07:25:07Z",
+      "message": "Merge pull request #37 from martinzhou2015/main"
+    },
+    {
+      "sha": "66bfd4da5895716a65d509c7eda63d06d3c36035",
+      "author_login": null,
+      "authored_at": "2021-05-28T07:22:20Z",
+      "message": "chore: 修订项目介绍与贡献指引"
+    },
+    {
+      "sha": "2ba104c4c51974e598e2d496480dd2bcad8e7b15",
+      "author_login": "martinzhou2015",
+      "authored_at": "2021-05-28T07:14:14Z",
+      "message": "Merge pull request #23 from donngchao/main"
+    },
+    {
+      "sha": "05516d495bea35de6cd4f9262ab760642890b884",
+      "author_login": "NongGuangXin",
+      "authored_at": "2021-05-27T03:24:55Z",
+      "message": "Update C,C++安全指南.md (#31)"
+    },
+    {
+      "sha": "be0cf6b29b17ddfbfb035eb9dca3da9db3556918",
+      "author_login": "Xbalien",
+      "authored_at": "2021-05-27T02:38:15Z",
+      "message": "fix: 修正Go指南1.2.1 (#29)"
+    },
+    {
+      "sha": "7fe1d1cd85d5e2bec1909ec6613e553699f5d340",
+      "author_login": "code4happylifego",
+      "authored_at": "2021-05-25T02:13:58Z",
+      "message": "update flask security website"
+    },
+    {
+      "sha": "92b087e8e070d2d6697f49632d22663dadefa5ea",
+      "author_login": "martinzhou2015",
+      "authored_at": "2021-05-24T09:50:47Z",
+      "message": "fix: 修正Python指南内容描述"
+    },
+    {
+      "sha": "1e98347bbd44a40bf6947ec0f2f315090ce17d39",
+      "author_login": "martinzhou2015",
+      "authored_at": "2021-05-24T09:50:09Z",
+      "message": "fix: 修正Java指南内容描述"
+    },
+    {
+      "sha": "e198b9d497d5622a9d8b18fc852f935fcc4d12c7",
+      "author_login": "martinzhou2015",
+      "authored_at": "2021-05-24T03:59:01Z",
+      "message": "fix: 更新LICENSE"
+    },
+    {
+      "sha": "1e64d9d497b44915d6b3e9e4b23abdfc89c23399",
+      "author_login": "martinzhou2015",
+      "authored_at": "2021-05-18T12:43:13Z",
+      "message": "add: 添加指南"
+    }
+  ],
+  "issues": [
+    {
+      "number": 79,
+      "title": "Suggest a powerful free and open source WAF - UUSEC WAF",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-14T00:57:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "没有PHP的安全指南是什么意思",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-22T04:14:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "Update Go安全指南.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-03-20T09:57:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "fix:修改文档中数组引用错误",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-03-16T04:26:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "C/C++ guide log_m_essage",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-14T05:50:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "add(c,c++/3.4): 添加不可重入函数",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-13T03:51:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "C/C++安全指南建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-12T06:50:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "update java安全指南.md, logcat输出字符串判断问题",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-04-01T11:47:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "[C/C++] fix TYPO",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-03-22T06:50:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "Request - English version",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-28T03:32:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "\"CONTRIBUTING.md\"文件中“提交请求”链接失效",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-01-26T01:54:43Z",
+      "closed_at": "2022-01-26T06:44:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "补充Python代码安全规范",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-12-16T10:39:12Z",
+      "closed_at": "2021-12-17T02:22:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "Go安全编码1.3.1 通过黑名单校验命令注入不可靠",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-22T15:50:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 65,
+      "title": "#C,C++# 指南4.3条修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-22T03:50:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "NET安全指南??",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-11-05T08:17:52Z",
+      "closed_at": "2021-11-05T08:50:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": "C ++安全指南.md 修改建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-29T06:21:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "Update Java安全指南.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-29T04:00:26Z",
+      "closed_at": "2021-10-05T01:34:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "PHP安全指南",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-24T10:29:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "c# 指南",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-09-24T07:39:55Z",
+      "closed_at": "2021-10-09T06:39:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "Update JavaScript安全指南.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-22T06:42:30Z",
+      "closed_at": "2021-09-22T07:26:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "#go# 规范 1.1.9 条 “slice是引用类型，在作为函数入参时采用的是地址传递” 勘误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-09-06T05:45:23Z",
+      "closed_at": "2021-09-23T02:53:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "Update C,C++安全指南.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-11T02:10:26Z",
+      "closed_at": "2021-09-23T02:22:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "fix(C,C++): 修订7.4条目及代码示例",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-03T02:29:19Z",
+      "closed_at": "2021-08-03T02:29:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 54,
+      "title": "#go 规范# 1.2.1 语病",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-07-27T02:21:52Z",
+      "closed_at": "2021-08-31T02:34:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "fix(C,C++): 修订条目及代码示例",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-18T11:09:05Z",
+      "closed_at": "2021-08-02T07:43:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 52,
+      "title": "#Python# 规范 通用类 1.9.3条 描述不清晰",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-29T06:07:27Z",
+      "closed_at": "2023-06-02T09:29:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 51,
+      "title": "fix(java后台类/1.1.2): 修复错别字",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-24T16:53:33Z",
+      "closed_at": "2021-06-28T08:20:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 50,
+      "title": "想问一下后续有考虑做PHP的安全开发指南的想法吗",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-22T02:04:34Z",
+      "closed_at": "2021-06-22T02:04:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 49,
+      "title": "Update Go安全指南.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-19T11:06:46Z",
+      "closed_at": "2021-06-20T16:34:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 48,
+      "title": "#C,C++# rand() 类函数应正确初始化 修改建议",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-07T02:01:54Z",
+      "closed_at": "2021-06-07T02:05:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 47,
+      "title": "C,C++安全指南.md 修改建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-03T11:49:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 46,
+      "title": "修复拼写错误",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-02T14:30:27Z",
+      "closed_at": "2021-06-20T16:39:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 45,
+      "title": "希望增加一份iOS的代码安全指南",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-02T02:22:01Z",
+      "closed_at": "2021-07-27T03:08:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 44,
+      "title": "fix(python/通用类 1.1.1)：修订条目内容",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-31T08:09:32Z",
+      "closed_at": "2021-08-05T07:06:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 43,
+      "title": "#java# 规范 1.6 OS命令执行  修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-31T04:40:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 42,
+      "title": "专家建议增加一份C#的",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-31T04:27:14Z",
+      "closed_at": "2021-07-05T08:29:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 41,
+      "title": "add：追加JavaScript指南内容条例",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-29T16:27:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 40,
+      "title": "#java# 规范 1.8.4 条修订建议 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-29T04:27:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 39,
+      "title": "#java# 规范 1.8.3 条修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-29T02:38:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "#Python# 规范 通用类 1.1.1条 修订建议",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-28T07:29:58Z",
+      "closed_at": "2021-05-28T07:41:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 37,
+      "title": "chore: 修订项目介绍与贡献指引",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-28T07:24:41Z",
+      "closed_at": "2021-05-28T07:25:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 36,
+      "title": "add：追加Python指南内容条例",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-28T02:41:15Z",
+      "closed_at": "2021-12-22T16:03:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 35,
+      "title": "Future Translations / i18n?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-27T06:56:43Z",
+      "closed_at": "2021-07-03T20:47:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 34,
+      "title": "代码片段丢失类型",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-27T04:20:59Z",
+      "closed_at": "2021-05-28T07:59:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 33,
+      "title": "修复打字错误",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-27T04:11:26Z",
+      "closed_at": "2021-05-28T07:59:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "#Java# 规范1.10.1条修订建议",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-27T03:54:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 31,
+      "title": "Update C,C++安全指南.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-27T03:06:13Z",
+      "closed_at": "2021-05-27T03:24:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "#java# 规范 1.2.1 条修订建议",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-26T11:46:41Z",
+      "closed_at": "2021-07-27T03:01:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "fix: 修正Go指南1.2.1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-26T11:12:00Z",
+      "closed_at": "2021-05-27T02:38:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "#Go# 示例代码的缩进能不能规范下？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-26T09:23:58Z",
+      "closed_at": "2021-05-27T02:45:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "#Go# 规范1.1.2条修订建议",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-26T06:28:01Z",
+      "closed_at": "2021-05-26T06:30:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "是否可以提供 C# 安全指南",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-25T05:34:03Z",
+      "closed_at": "2021-05-27T08:49:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "#Go# 规范1.2.1条修订建议",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-25T04:31:06Z",
+      "closed_at": "2021-09-27T08:07:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "#Node# 规范 1.5 数据输出 修改意见",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-25T02:59:21Z",
+      "closed_at": "2021-05-28T09:14:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "update flask security website",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-25T02:16:36Z",
+      "closed_at": "2021-05-28T07:14:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 22,
+      "title": "#Python# 规范1.2.1条修订建议",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-25T01:40:56Z",
+      "closed_at": "2021-06-01T11:04:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 21,
+      "title": "工具使用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-25T01:02:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 20,
+      "title": "#java# 规范 不安全的对象绑定 增补修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T17:31:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 19,
+      "title": "#java# 规范 HTTP参数污染 增补修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T17:29:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 18,
+      "title": "#java# 规范 配置全局反序列化白名单 增补修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T17:25:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17,
+      "title": "#java# 规范 正则表达式DOS 增补修订建议 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T17:20:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 16,
+      "title": "#java# 规范 错误的十六进制串联 增补修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T17:18:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "#java# 规范 可预测的伪随机数生成器  增补修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T17:17:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "#java# 规范 针对js脚本引擎的代码注入 增补修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T17:15:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13,
+      "title": "#java# 规范 XPath注入 增补修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T16:51:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 12,
+      "title": "#java# 规范 fastjson 编码示例 增补修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T16:48:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 11,
+      "title": "#java# 规范   jackson编码示例   增补修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T16:46:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 10,
+      "title": "#java# 规范 日志伪造 增补修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T16:25:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 9,
+      "title": "#java# 规范 不安全的 Swagger 暴露   增补修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T16:16:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 8,
+      "title": "#java# 规范 不安全的 SpringBoot Actuator 暴露  增补修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T16:14:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 7,
+      "title": "#java# 规范 1.5.4 条修订建议 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T16:12:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 6,
+      "title": "#java# 规范 1.10.3 条修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T15:54:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 5,
+      "title": "#java# 规范 1.9.1 条修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T15:45:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4,
+      "title": "#java# 规范 1.8.1 条修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T15:37:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3,
+      "title": "#java# 规范 1.2.4修订建议",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T15:31:55Z",
+      "closed_at": "2021-07-27T02:55:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2,
+      "title": "#java# 规范 1.1.1 条修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T13:58:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1,
+      "title": "#java# 规范 1.4 条修订建议",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T13:53:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "martinzhou2015",
+      "contributions": 11
+    },
+    {
+      "login": "T4erg",
+      "contributions": 4
+    },
+    {
+      "login": "ArdxWe",
+      "contributions": 2
+    },
+    {
+      "login": "4blacktea",
+      "contributions": 1
+    },
+    {
+      "login": "Albertchamberlain",
+      "contributions": 1
+    },
+    {
+      "login": "NongGuangXin",
+      "contributions": 1
+    },
+    {
+      "login": "Xbalien",
+      "contributions": 1
+    },
+    {
+      "login": "YanhuiJessica",
+      "contributions": 1
+    },
+    {
+      "login": "zheeeng",
+      "contributions": 1
+    },
+    {
+      "login": "baijinping",
+      "contributions": 1
+    },
+    {
+      "login": "baosj0",
+      "contributions": 1
+    },
+    {
+      "login": "code4happylifego",
+      "contributions": 1
+    },
+    {
+      "login": "sagexueqi",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-08-31T12:22:55.653384Z"
+}

@@ -1,0 +1,1601 @@
+{
+  "full_name": "Bigkoo/Android-PickerView",
+  "owner": "Bigkoo",
+  "name": "Android-PickerView",
+  "url": "https://github.com/Bigkoo/Android-PickerView",
+  "description": "This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）",
+  "primary_language": "Java",
+  "topics": [
+    "android-pickerview",
+    "datepicker",
+    "optionspicker",
+    "pickerview",
+    "timepicker",
+    "wheelview"
+  ],
+  "license_spdx": "Apache-2.0",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 13434,
+  "forks": 3444,
+  "open_issues": 436,
+  "created_at": "2014-12-28T01:46:38Z",
+  "pushed_at": "2022-12-30T03:36:03Z",
+  "updated_at": "2026-08-24T15:30:06Z",
+  "commits": [
+    {
+      "sha": "e200d8c063aa2568d728854c048340ad2e4e0c0b",
+      "author_login": "xiaosong520",
+      "authored_at": "2022-07-07T08:46:47Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "dd43726414eaed6f6e42532d80ca79f325a61d36",
+      "author_login": "xiaosong520",
+      "authored_at": "2022-07-07T08:44:11Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e7de78b12a6b41e07b6020deb88a90d8f628513e",
+      "author_login": "xiaosong520",
+      "authored_at": "2022-07-07T08:42:43Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "48bb91d54a564ff8a983c6f811701cebd1155c90",
+      "author_login": "xiaosong520",
+      "authored_at": "2019-10-21T11:16:40Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a47017fea989e9ac349a9c991e91f8604b07b6f3",
+      "author_login": "xiaosong520",
+      "authored_at": "2019-10-21T11:15:03Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "9345964d40fb9c28cacedfa3d78ba75bde2b8fe1",
+      "author_login": null,
+      "authored_at": "2019-10-20T03:53:23Z",
+      "message": "update version"
+    },
+    {
+      "sha": "ead0472174b1cdbd90e07a214f73bbea43bee819",
+      "author_login": null,
+      "authored_at": "2019-10-20T03:50:08Z",
+      "message": "Merge remote-tracking branch 'origin/master'"
+    },
+    {
+      "sha": "1562e05a825c7b21f537ef0c2475bc374e043f85",
+      "author_login": null,
+      "authored_at": "2019-10-20T03:49:42Z",
+      "message": "optimization code"
+    },
+    {
+      "sha": "8c1eda70710691d9f26e5298bce4e2306aac4a3c",
+      "author_login": null,
+      "authored_at": "2019-10-20T03:45:55Z",
+      "message": "update README.md"
+    },
+    {
+      "sha": "c66bd05bfd04e3ae18ccc86a6017ec712e13f5ca",
+      "author_login": "xiaosong520",
+      "authored_at": "2019-10-20T03:26:37Z",
+      "message": "Merge pull request #824 from Bigkoo/dev4.x"
+    },
+    {
+      "sha": "ba6ab9471eb8c8c29b85acf11a0c0d1af6d993d4",
+      "author_login": null,
+      "authored_at": "2019-10-20T03:00:13Z",
+      "message": "update sample code"
+    },
+    {
+      "sha": "be03f45e17f259d365a6dd2385b8dc6282762e99",
+      "author_login": null,
+      "authored_at": "2019-10-17T06:52:52Z",
+      "message": "optimization code"
+    },
+    {
+      "sha": "bd3029027c8f5019da84b0998a82bca806083f5c",
+      "author_login": null,
+      "authored_at": "2019-10-17T06:51:45Z",
+      "message": "optimization code"
+    },
+    {
+      "sha": "1b64905cd80b4e29a45dff8944dd96c34d2a4813",
+      "author_login": null,
+      "authored_at": "2019-10-17T06:47:17Z",
+      "message": "update desc"
+    },
+    {
+      "sha": "1ecd67a71730482ec276cb2d7b07e587fd2167b2",
+      "author_login": null,
+      "authored_at": "2019-10-17T06:46:59Z",
+      "message": "optimization top bar"
+    },
+    {
+      "sha": "494fa40c690a9e6a10f61ec7cd8cf3f79fe32101",
+      "author_login": null,
+      "authored_at": "2019-10-17T06:44:17Z",
+      "message": "update sample"
+    },
+    {
+      "sha": "c270b3d8dc1002c082677e3d0fd29175d2c5c427",
+      "author_login": null,
+      "authored_at": "2019-10-16T09:52:23Z",
+      "message": "Merge remote-tracking branch 'origin/dev4.x' into dev4.x"
+    },
+    {
+      "sha": "1951e105934fa90deb0292c0fdd983cf890cabef",
+      "author_login": null,
+      "authored_at": "2019-10-14T10:38:36Z",
+      "message": "update gradle version"
+    },
+    {
+      "sha": "81277327df8a93c48c170d5f5bcae68e4aba1bc5",
+      "author_login": null,
+      "authored_at": "2019-10-14T10:38:11Z",
+      "message": "provide api to set the itemVisible count and AlphaGradient"
+    },
+    {
+      "sha": "0b61e05550a0af8e3d50a65e6e3b9a60c7e6ff8d",
+      "author_login": "xiaosong520",
+      "authored_at": "2019-08-02T06:54:22Z",
+      "message": "Merge pull request #795 from lxt1994/dev4.x"
+    },
+    {
+      "sha": "7f3220da051919f028440534d18ff4966fe2d36b",
+      "author_login": "lxt1994",
+      "authored_at": "2019-07-30T08:41:03Z",
+      "message": "增加分割线为圆圈"
+    },
+    {
+      "sha": "528f540e766352ed4b611a0a96f33c538077cdf0",
+      "author_login": null,
+      "authored_at": "2019-05-25T13:27:29Z",
+      "message": "Merge remote-tracking branch 'origin/master'"
+    },
+    {
+      "sha": "4e38e3d45807924c2350329aedcdadb2834d6239",
+      "author_login": null,
+      "authored_at": "2019-05-25T13:27:14Z",
+      "message": "Modify cancel clickListener name."
+    },
+    {
+      "sha": "884e20fa8e43f0e59146d4a92ace43c0a8d9d72d",
+      "author_login": "xiaosong520",
+      "authored_at": "2019-04-28T12:01:06Z",
+      "message": "Merge pull request #755 from MankinChung/fix"
+    },
+    {
+      "sha": "7b9e6c890a7cc0fd93c947ca5561b452481d6c06",
+      "author_login": "MankinChung",
+      "authored_at": "2019-04-28T07:32:06Z",
+      "message": "修复 农历‘日’越界的bug"
+    },
+    {
+      "sha": "cad6d79de0f547a5ec1f1ddb9d71771c38bf97d3",
+      "author_login": "xiaosong520",
+      "authored_at": "2019-04-24T14:10:04Z",
+      "message": "Update README-en.md"
+    },
+    {
+      "sha": "86922f29d34eafa27dda5e8ed01156ba4c004485",
+      "author_login": "xiaosong520",
+      "authored_at": "2019-04-24T14:09:31Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "441a72f83b8b35c0263a31d8bc13e924b60631cf",
+      "author_login": null,
+      "authored_at": "2019-04-24T14:01:58Z",
+      "message": "release version 4.1.8"
+    },
+    {
+      "sha": "bd54541e88d8dab768ffc84b54c2c117f62914fc",
+      "author_login": null,
+      "authored_at": "2019-04-24T11:44:28Z",
+      "message": "remove TestImport.java"
+    },
+    {
+      "sha": "9c44300f690388b62fdb0bac56b730065acc6fdb",
+      "author_login": null,
+      "authored_at": "2019-04-24T11:43:10Z",
+      "message": "Merge remote-tracking branch 'origin/dev4.x'"
+    },
+    {
+      "sha": "755dcd98e1044fce74058d2053b015008fd2421f",
+      "author_login": "xiaosong520",
+      "authored_at": "2019-04-24T06:14:52Z",
+      "message": "Merge pull request #748 from Muyangmin/bugfix/gradle-5.x-incompatible"
+    },
+    {
+      "sha": "16c957f4235a7e300931859ec42f4892bb2224eb",
+      "author_login": "Muyangmin",
+      "authored_at": "2019-04-20T05:14:20Z",
+      "message": "Fix gradle incompatible issue #735."
+    },
+    {
+      "sha": "61c72393349a5bd85f4882d2035c435ddc7c1685",
+      "author_login": null,
+      "authored_at": "2019-03-07T03:48:26Z",
+      "message": "fix bug #724"
+    },
+    {
+      "sha": "da6424a9b7d0495ec600ed1b2b076eb58044a7be",
+      "author_login": "xiaosong520",
+      "authored_at": "2019-01-10T10:18:09Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f22899e0797235f5250bb08824a6563170740a88",
+      "author_login": "xiaosong520",
+      "authored_at": "2019-01-10T10:14:34Z",
+      "message": "Merge pull request #709 from Bigkoo/dev4.x"
+    },
+    {
+      "sha": "5702146f84d2a37d63d8086822bb22286d99b106",
+      "author_login": null,
+      "authored_at": "2019-01-10T10:11:31Z",
+      "message": "Add support annotation and update version"
+    },
+    {
+      "sha": "5ee6966c7b8a8aa98fb2b8f580b86d421bcebb21",
+      "author_login": null,
+      "authored_at": "2019-01-10T07:37:54Z",
+      "message": "Fix WheelView cannot be displayed when adapter data is empty"
+    },
+    {
+      "sha": "541cf26dd15f7ea08f17f587fda04efaed44d893",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-12-19T12:42:34Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "6f203c5851e071eb85c1ed0beee1fd342b60fa17",
+      "author_login": null,
+      "authored_at": "2018-12-03T13:47:12Z",
+      "message": "Updated cancel click listener"
+    },
+    {
+      "sha": "36d552260f00d5839d1ffad8ef5148c830e9b565",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-11-19T07:45:33Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a6da6e49cf60179d91be192243b065596f1d1f54",
+      "author_login": null,
+      "authored_at": "2018-10-24T02:48:30Z",
+      "message": "Update sample code"
+    },
+    {
+      "sha": "f1c9e74a5140f123e22d9ba9f8eda8f0a0ed7248",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-09-18T03:06:47Z",
+      "message": "update WheelView"
+    },
+    {
+      "sha": "0a46fcb8c189a156f0884c9aeab3f8a8928bb40d",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-08-07T03:10:24Z",
+      "message": "Merge pull request #626 from Bigkoo/master"
+    },
+    {
+      "sha": "9c05725aaf2391874c13cfec0267e99b936b77e1",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-08-07T03:06:38Z",
+      "message": "Upload sample code"
+    },
+    {
+      "sha": "2310b1f03dd003227b4da9e898602ee61e0bc454",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-08-07T03:04:34Z",
+      "message": "Merge remote-tracking branch 'origin/master'"
+    },
+    {
+      "sha": "0926e0363e3f38fb14daca189f7ca81f6451f96e",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-08-07T03:04:15Z",
+      "message": "Update version 4.1.6"
+    },
+    {
+      "sha": "807fbad03ce573c7f3f8cdb315a167ad15aaa0a2",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-07-24T02:59:35Z",
+      "message": "Update README-en.md"
+    },
+    {
+      "sha": "400affbc60e1a7392617032483616b9fe8b5b3e2",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-07-24T02:58:49Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b3d9285d5cdb0c4ed5705cd018ede462d39ca7a5",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-07-12T02:20:16Z",
+      "message": "Update version"
+    },
+    {
+      "sha": "ff13fe9384ad4aeaa72a6bb7d5af1314a52db3ff",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-07-11T03:41:33Z",
+      "message": "Merge pull request #608 from aaasss112/master"
+    },
+    {
+      "sha": "b3b86cb17118eb64db4c6621e51294daf68c0a17",
+      "author_login": null,
+      "authored_at": "2018-07-11T03:35:20Z",
+      "message": "1.无限循环滚轮，获取itemCount边界计算。"
+    },
+    {
+      "sha": "53c2316d69dd8fb9b6a6aa69dcf848fa46859879",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-07-02T03:50:00Z",
+      "message": "Merge pull request #593 from mickyliu945/mk_branch"
+    },
+    {
+      "sha": "82cc78fb43ad797caf663b7eceb2ab3db809a4fd",
+      "author_login": "mickyliu945",
+      "authored_at": "2018-06-12T14:55:02Z",
+      "message": "bug fix"
+    },
+    {
+      "sha": "ba53b06c678577c0336d17fb98f6185d8b74cebe",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-06-07T13:19:49Z",
+      "message": "Update ChinaDate.java"
+    },
+    {
+      "sha": "a79b35e269dc0c751cdd13e3c62853724d90aef8",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-06-05T13:28:46Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "6a2461401aa439715347b60c8dee75550454ed08",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-06-05T13:15:40Z",
+      "message": "update version"
+    },
+    {
+      "sha": "08ce1110e05e6d2596c35a549b0546a80ba6b79c",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-06-05T13:14:52Z",
+      "message": "fix bug for ArrayIndexOutOfBoundsException"
+    },
+    {
+      "sha": "c7578450da5a843d65fe78af8516e3b028bd8d79",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-04-14T10:13:22Z",
+      "message": "v4.1.3"
+    },
+    {
+      "sha": "d7d29d9a1f74e92edc88333845880a63dac7e1e3",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-04-10T07:06:33Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "25c631dd39e63a9cbf3ea9239748cadaa4cb9a5a",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-04-10T06:41:32Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f367fec2ee7fc0103b5fc7a7ff78fff6bd81cbbe",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-04-02T05:16:50Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "cb7a68d98e49909b2b386be69f34b99b472897b8",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-04-02T05:15:14Z",
+      "message": "fix bug."
+    },
+    {
+      "sha": "ddfba54cc2f98afd26c398d35bc39e381a0a44f2",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-04-02T01:21:40Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "2f43d460a43328472a87b26db65be4646ca65730",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-04-02T01:19:41Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f8d803b9778f1b7e0c5de24d2b4499811706c8fd",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-04-02T01:19:03Z",
+      "message": "Update README-en.md"
+    },
+    {
+      "sha": "de10e006b7f7fee51a45e7e129719dc8125aede0",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-31T09:15:20Z",
+      "message": "fix bug."
+    },
+    {
+      "sha": "d6884097a29598e41d20ad8a052f77121e65d0f6",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-31T09:14:37Z",
+      "message": "fix bug."
+    },
+    {
+      "sha": "58862713f78572859f6a0944f670ba17c8da6485",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-31T03:58:24Z",
+      "message": "优化WheelView代码."
+    },
+    {
+      "sha": "8798c80f895539518352727e0e4b8dfbe7e046d6",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-30T06:28:44Z",
+      "message": "fix bug."
+    },
+    {
+      "sha": "5c244b0003e559c8076e702fe34f502c2bb1fcee",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-27T03:45:24Z",
+      "message": "update version"
+    },
+    {
+      "sha": "c61aa916fc856e6f4e40247690ddb01be27024e9",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-26T10:36:34Z",
+      "message": "update"
+    },
+    {
+      "sha": "25e23dfb5b97160e01935569e15c7d771f4da6a9",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-26T10:28:31Z",
+      "message": "v4.0.2"
+    },
+    {
+      "sha": "f662aced98bae1133bfc521133c60a471e6c9557",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-26T03:38:15Z",
+      "message": "fix bug."
+    },
+    {
+      "sha": "8859349fcd3fa3c36565c090d386d54a361a03a6",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-21T07:55:15Z",
+      "message": "新增 setTitleText() 方法."
+    },
+    {
+      "sha": "f8abe9828140a218cbf58886d74446f39e34fe54",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-21T07:40:00Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "334ea96c63623a01714f1b1089a3287998174b8d",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-21T07:12:15Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1de0b808c87f1d02da73b6e95e5c38d5d9eddbe6",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-21T07:08:56Z",
+      "message": "Merge pull request #520 from Bigkoo/dev4.x"
+    },
+    {
+      "sha": "c84090a7be3e6496aad7bf7028c0116d472cfc6b",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-21T06:33:32Z",
+      "message": "update README.md"
+    },
+    {
+      "sha": "bfc50ea2137cd6951c122f2433c8a899ca886d85",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-21T06:20:19Z",
+      "message": "update README.md"
+    },
+    {
+      "sha": "709e3ac30fd264a0bf43e6573fa4299602424e1f",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-21T04:27:37Z",
+      "message": "滚动切换，实时回调item选中项监听"
+    },
+    {
+      "sha": "b25bf34a2f13a3d4ac70b35bcb290c16220179d5",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-21T03:17:45Z",
+      "message": "滚动切换，实时回调item选中项监听"
+    },
+    {
+      "sha": "df333d2286bb51c3a3d6a74afc74c66b0f5acc18",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-21T01:49:54Z",
+      "message": "update."
+    },
+    {
+      "sha": "1ad118c2cc87eb6b435c16348d766f1713110711",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-20T05:32:37Z",
+      "message": "code format."
+    },
+    {
+      "sha": "067e01291db7e421a21e28839652f8fde5035eec",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-20T03:52:48Z",
+      "message": "builder restructure."
+    },
+    {
+      "sha": "105a2c5ef7c61131c08f6320392cd804b28e22b9",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-15T03:13:03Z",
+      "message": "wheelView 代码优化"
+    },
+    {
+      "sha": "8d40f7a15aef04fdb60b4614317211c1cd274cf3",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-14T10:05:40Z",
+      "message": "update lunar description."
+    },
+    {
+      "sha": "adcfc8cfe084cd95a767b798b2d4b030e1174a72",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-14T09:16:57Z",
+      "message": "update lunar."
+    },
+    {
+      "sha": "efefc58d4e41d88e959dd20a315238d548421bbe",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-14T05:59:58Z",
+      "message": "update."
+    },
+    {
+      "sha": "260443cb86b3e5943f815f1c8f15ffab188a6154",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-14T05:47:21Z",
+      "message": "update."
+    },
+    {
+      "sha": "d008e10eb66167480030f817fdc73eff49742fb1",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-14T03:55:26Z",
+      "message": "options 配置类优化"
+    },
+    {
+      "sha": "d897c794b6d92ac01e6b8cc6700ea9167213b5fb",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-12T10:12:53Z",
+      "message": "options 配置类优化"
+    },
+    {
+      "sha": "c955053757eed97346b52448377d9add2c1c819c",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-12T09:35:16Z",
+      "message": "options 配置类优化"
+    },
+    {
+      "sha": "5a2a4f24f17dbd1aae19eae47600cca03fe50c5c",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-08T10:29:25Z",
+      "message": "options 配置类"
+    },
+    {
+      "sha": "f99661046e2480403d59738537705ed7e77067e0",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-08T08:35:16Z",
+      "message": "抽取公用字段"
+    },
+    {
+      "sha": "a35e639bb3ac64663966f81b8f95db73aa4a8c6e",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-08T07:20:52Z",
+      "message": "修改字段名"
+    },
+    {
+      "sha": "f989adec747dcdf85dfd888b111ff2eeb23e9058",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-03-06T03:37:01Z",
+      "message": "fix bug."
+    },
+    {
+      "sha": "78b63154caacd0bb4cca34991a546f99a6f3ef9c",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-01-26T09:48:45Z",
+      "message": "fix bug."
+    },
+    {
+      "sha": "04e0c3660faa1ff158cf496923cd462d85551ed7",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-01-17T08:00:21Z",
+      "message": "refactor the code."
+    },
+    {
+      "sha": "6e486d0fb8492c15822b15fea6181184ea0cdf3e",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-01-17T07:23:52Z",
+      "message": "refactor the code."
+    },
+    {
+      "sha": "f0056955f451d086521b98b97bad3b672e0bc399",
+      "author_login": "xiaosong520",
+      "authored_at": "2018-01-17T03:57:02Z",
+      "message": "1. update gradle version;"
+    }
+  ],
+  "issues": [
+    {
+      "number": 1037,
+      "title": "怎么弄成这种样式，求教？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-02-13T06:07:24Z",
+      "closed_at": "2025-02-19T02:36:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1036,
+      "title": "能不能设置的HOUR只显示当天小时之后的时间，隔天小时的全天小时",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-14T03:48:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1035,
+      "title": "pickerview 和animation冲突",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-04T07:35:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1034,
+      "title": "如何解决弹出的时间选择器背景无法覆盖状态栏",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-28T07:33:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1033,
+      "title": "getContentText private ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-18T04:47:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1032,
+      "title": "大佬，请问如何禁用滑动事件？ ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-15T06:42:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1031,
+      "title": "怎么用Appium来控制这个控件",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-21T02:33:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1030,
+      "title": "更新 province.json 的操作方法，获取到最新版的省市区数据",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-03T06:15:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1029,
+      "title": "更新 province.json 的操作方法，获取到最新版的省市区数据",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-02-03T05:45:31Z",
+      "closed_at": "2023-02-03T05:46:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1027,
+      "title": "WheelView如何监听滚动结束？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-08T10:23:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1026,
+      "title": "TimePickerView中间选中的一整条圆角背景",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-12-05T09:27:17Z",
+      "closed_at": "2025-03-14T08:07:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1025,
+      "title": "fix the bug that PickView disappears",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-13T07:49:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1024,
+      "title": "布局与底部导航栏重叠的问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-23T09:41:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1023,
+      "title": "自用 AndroidX 版本",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-15T08:11:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1022,
+      "title": "AS无法找到TimePickerView类",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-08T06:30:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1021,
+      "title": "WheelView滚轮控件高度在代码与xml中设置match_parent无效，只有setLineSpacingMultiplier方法设置间距倍数吗？没有提供设置高度的外部方法吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-06T06:03:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1020,
+      "title": "条件选择器如何自定义选项1和选项2的关联规则",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-05T03:15:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1019,
+      "title": "有最新的省市区json数据文件吗？跟demo中格式一样的",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-02T03:13:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1018,
+      "title": "增加起始终止时间时分秒控制",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-14T10:29:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1017,
+      "title": "文字大小计算有误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-05T10:34:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1016,
+      "title": "文字大小计算有误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-07-05T10:32:14Z",
+      "closed_at": "2022-07-05T10:32:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1015,
+      "title": "关于时间选择器起始时间和结束时间",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-09T11:16:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1014,
+      "title": "setNPicker不支持传两个List",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-06-07T06:50:26Z",
+      "closed_at": "2022-06-07T06:53:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1013,
+      "title": "Can labels be placed before numbers?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-27T04:09:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1012,
+      "title": "中间选中项的文字可否单独设置size和加粗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-18T02:07:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1011,
+      "title": "请问何时能从jcenter迁移出去？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-16T02:07:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1010,
+      "title": "自定义View时 年、月的WheelView 滑动监听不到，日、小时、分钟监听没问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-14T02:17:23Z",
+      "closed_at": "2022-05-14T03:41:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1009,
+      "title": "时间格式年月日、月日年顺序修改；语言国际化（英文、繁体...）",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-09T09:06:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1008,
+      "title": "jcenter如果关闭了，咋办",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-28T07:52:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1007,
+      "title": "TimePicker自定义布局，出现空指针异常",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-03-28T09:15:38Z",
+      "closed_at": "2022-03-28T09:31:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1006,
+      "title": "无法设置背景色",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-27T02:46:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1005,
+      "title": "demo下来以后用不啊",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-04T10:05:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1004,
+      "title": "设置时间范围有错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-07T06:34:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1003,
+      "title": "androidx 迁移",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-01-27T06:34:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1002,
+      "title": "androidx 迁移",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-27T06:30:02Z",
+      "closed_at": "2022-01-27T06:30:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1001,
+      "title": "TimePickerView底部导航键重叠",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-25T08:45:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1000,
+      "title": "好难用啊，省市区三级联动的数据怎么填充呢？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-30T07:59:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 999,
+      "title": "TimePickerView宽度问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-30T05:13:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 998,
+      "title": "迁移一下 mavenCentral()",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-28T02:58:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 997,
+      "title": "城市选择器OptionsPickerView，圆角背景（或背景图片）如何设置吗",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-12-20T10:42:27Z",
+      "closed_at": "2022-08-01T03:09:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 996,
+      "title": "如果设置开始和结束时间的话,选当天的日期返回的时间戳没问题,但是选其他日期返回的时间戳与选择的时间相差19小时",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-02T09:53:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 995,
+      "title": "Release to jitpack or mavenCentral",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-29T11:34:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 994,
+      "title": "滚动项显示异常",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-09-07T03:48:08Z",
+      "closed_at": "2021-09-07T07:49:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 993,
+      "title": "最多只能三级联动么?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-03T07:51:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 992,
+      "title": "01月01日可以显示为1月1日吗，怎么能让小于10的月日不自动补0呢",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-12T10:14:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 991,
+      "title": "BasePickerView",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-05T08:46:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 990,
+      "title": "能不能加个像iOS一样的滚动的音效",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-27T04:46:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 989,
+      "title": "只能添加String类型的数据源吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-13T11:46:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 988,
+      "title": "快速点击弹出重复",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-08T08:08:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 987,
+      "title": "[fix] 修复在数据非常少的时候的滑动卡顿",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-06-28T03:53:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 986,
+      "title": "几个错误的农历数据",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-23T05:58:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 985,
+      "title": "四级城市选择",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-22T08:27:36Z",
+      "closed_at": "2021-06-23T05:38:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 984,
+      "title": "农历支持setRangDate",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-22T07:59:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 983,
+      "title": "WheelView长字符串显示不全",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-06-02T07:37:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 982,
+      "title": "Dialog 使用WheelView",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-02T01:12:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 981,
+      "title": "如何设置item显示的弯曲弧度？或者去掉弯曲弧度？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-28T04:14:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 980,
+      "title": "时间选择器内部格式定的太死了，没有提供api快速二次开发修改",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-26T06:19:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 979,
+      "title": "被你蠢哭",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-17T10:24:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 978,
+      "title": "时间选择器滚动时，native内存飙涨大概几十兆，也没看到释放内存",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-12T02:49:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 977,
+      "title": "可以设置label的字体大小嘛",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-10T08:20:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 976,
+      "title": "关于自定义布局器中的title问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-10T03:43:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 975,
+      "title": "您好，我想使用OptionsPickerBuilder这个控件进行二级联动，如何动态加载第二级",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-04-29T02:46:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 974,
+      "title": "时间选择器这种上午下午如何定义?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-04-09T03:15:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 973,
+      "title": "jcenter服务停止的对应",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-25T09:11:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 972,
+      "title": "onItemSelected 回调的都是同一个Index不论我怎么滚动",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-23T11:00:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 971,
+      "title": "时间选择器设置时间范围时分秒无效问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-15T03:39:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 970,
+      "title": "可不可只显示一部分月份，比如我只要今年10月份到来年三月份这中间几个月的显示",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-03T09:34:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 969,
+      "title": "设置setRangDate，startDate 2009-1-23 endData 2099-12-31",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-24T06:57:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 968,
+      "title": "如果同时设置了日期和范围 二月份显示和数据会出BUG 需要手动切换一次月份才正常",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-05T02:35:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 967,
+      "title": "1. 日期可以不显示“年月日”的单位？   2.可以设置整个dialog的背景吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-04T10:25:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 966,
+      "title": "java.lang.OutOfMemoryError: pthread_create (1040KB stack) failed: Try again",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-01T11:29:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 965,
+      "title": "如果横屏太宽 可以这样",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-26T02:26:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 964,
+      "title": "Update WheelTime.java",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-01-25T14:06:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 963,
+      "title": "WheelView不能单独设置center的字体为加粗",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-19T10:58:46Z",
+      "closed_at": "2021-01-20T07:12:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 962,
+      "title": "对话框被挡住了一部分。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-19T03:46:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 961,
+      "title": "时分秒之前不可选",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-08T11:34:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 960,
+      "title": "年份能支持倒序吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-08T08:14:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 959,
+      "title": "请问我在自定义layoutRes里面设置WheelAdapter但是却没有生效是为什么",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-29T01:57:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 958,
+      "title": "请问optionPicker有没有方法再次打开时能够获取已经选择的选项位置",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-14T09:14:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 957,
+      "title": "请问可以设置年份label在年份数字前面显示吗？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-11T02:15:41Z",
+      "closed_at": "2020-12-29T01:58:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 956,
+      "title": "可以设置年份label在年份数字前面现实吗",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-11T02:14:33Z",
+      "closed_at": "2020-12-11T02:14:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 955,
+      "title": "wv_selectedItemTextColor 无效",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-07T16:15:47Z",
+      "closed_at": "2020-12-07T16:21:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 954,
+      "title": "可以设置年份上面大下面小吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-04T09:53:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 953,
+      "title": "关于月滑动 大小月份切换 日显示和获取不一致得问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-02T09:11:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 952,
+      "title": "滚轮控件计算文字最大宽度效率太低",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-13T06:28:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 951,
+      "title": "请问时间选择器怎么把起始项自定义如图这样。",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-11-10T05:50:52Z",
+      "closed_at": "2020-11-10T05:58:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 950,
+      "title": "WheelView设置焦点监听无效",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-09T02:36:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 949,
+      "title": "Why work do",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-08T19:12:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 948,
+      "title": "选择过时间后如何再限制选择范围？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-06T04:18:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 947,
+      "title": "如何设置 \"确认\" 和 \"取消\" 和 标题  的Layout高度  文字太大的话 显示不全",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-05T07:47:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 946,
+      "title": "时间选择器，怎么setRange(startDate,endDate)精确到时、分",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-02T13:31:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 945,
+      "title": "MyOptionsPickerView not showing above on dialog  ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-02T10:43:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 944,
+      "title": "日期选择器",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-29T06:47:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 943,
+      "title": "修复 WheelView 的一个NPE",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-23T08:33:38Z",
+      "closed_at": "2024-04-30T02:45:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 942,
+      "title": "地区选择，省地区为什么全是英文，市，区没问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-12T06:29:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 941,
+      "title": "时间选择器对话框样式",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-09T06:27:01Z",
+      "closed_at": "2020-10-09T06:54:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 940,
+      "title": "农历切换越界、少一年的问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-29T02:06:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 939,
+      "title": "修复设置选择时间不能设置小时、分钟的问题",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-16T09:32:38Z",
+      "closed_at": "2020-09-16T09:35:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 938,
+      "title": "How to show this sequence on date picker wheels \"Month Day Year\" instead of \"Year Month Day\" ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-15T19:17:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 937,
+      "title": "设置为isDialog(false)，怎样让背景蒙版透明？组件弹出的方向怎样控制？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-14T08:56:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "xiaosong520",
+      "contributions": 321
+    },
+    {
+      "login": "saiwu-bigkoo",
+      "contributions": 54
+    },
+    {
+      "login": "totcw",
+      "contributions": 22
+    },
+    {
+      "login": "ZS-James2026",
+      "contributions": 19
+    },
+    {
+      "login": "xiandanin",
+      "contributions": 8
+    },
+    {
+      "login": "GreatGarlic",
+      "contributions": 8
+    },
+    {
+      "login": "MankinChung",
+      "contributions": 3
+    },
+    {
+      "login": "keluokeda",
+      "contributions": 1
+    },
+    {
+      "login": "alamops",
+      "contributions": 1
+    },
+    {
+      "login": "danielbenedykt",
+      "contributions": 1
+    },
+    {
+      "login": "GL-GIT-HUB",
+      "contributions": 1
+    },
+    {
+      "login": "kyuyi",
+      "contributions": 1
+    },
+    {
+      "login": "Muyangmin",
+      "contributions": 1
+    },
+    {
+      "login": "lxt1994",
+      "contributions": 1
+    },
+    {
+      "login": "mickyliu945",
+      "contributions": 1
+    },
+    {
+      "login": "xuwab",
+      "contributions": 1
+    },
+    {
+      "login": "xxjy",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-08-31T12:22:59.414879Z"
+}

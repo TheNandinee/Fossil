@@ -1,0 +1,1981 @@
+{
+  "full_name": "zalmoxisus/redux-devtools-extension",
+  "owner": "zalmoxisus",
+  "name": "redux-devtools-extension",
+  "url": "https://github.com/zalmoxisus/redux-devtools-extension",
+  "description": "Redux DevTools extension.",
+  "primary_language": "JavaScript",
+  "topics": [
+    "debug",
+    "devtools",
+    "extension",
+    "javascript",
+    "redux"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 13453,
+  "forks": 1010,
+  "open_issues": 265,
+  "created_at": "2015-10-24T14:10:38Z",
+  "pushed_at": "2023-11-07T11:04:59Z",
+  "updated_at": "2026-08-30T11:41:25Z",
+  "commits": [
+    {
+      "sha": "955cfc4f9c2ed7b4212ad8ff50883ad322051678",
+      "author_login": "Methuselah96",
+      "authored_at": "2022-01-18T22:33:00Z",
+      "message": "Add notice for new repository"
+    },
+    {
+      "sha": "c220fd18d6fb4b0790a501ec4df0de52b5bee460",
+      "author_login": "pranjal0819",
+      "authored_at": "2020-02-19T21:22:04Z",
+      "message": "Update createStore URL in README.md (#715)"
+    },
+    {
+      "sha": "94f7e53800f4665bddc9b7438c5cc75cfb4547cc",
+      "author_login": "nik72619c",
+      "authored_at": "2019-10-09T18:26:23Z",
+      "message": "Updated documentation: SSR and typescript support (#692)"
+    },
+    {
+      "sha": "879c1152c6200f80e5638e6cf910d3320af3738b",
+      "author_login": "dimadk24",
+      "authored_at": "2019-10-04T20:43:53Z",
+      "message": "[docs] Suggest to install lib as prod dependency (#689)"
+    },
+    {
+      "sha": "48219fe7399ecd6065a052d7d44a7d7d604bb97c",
+      "author_login": "douglasnaphas",
+      "authored_at": "2019-10-04T20:41:51Z",
+      "message": "Correct possessive of \"Redux\" (#674)"
+    },
+    {
+      "sha": "672c742a2a89d70f35c2b19914003dcea7879608",
+      "author_login": null,
+      "authored_at": "2019-10-04T20:40:56Z",
+      "message": "Remove repetition in Trace docs (#671)"
+    },
+    {
+      "sha": "2c7d5c2ada464ee2cfb94e8e5584e2166b979964",
+      "author_login": "gonaumov",
+      "authored_at": "2019-10-04T20:40:07Z",
+      "message": "Add an example how to avoid any without using of redux-devtools-extension npm package (#660)"
+    },
+    {
+      "sha": "1ea856663943c82b7804fcdb40738da5fe9000c1",
+      "author_login": "Jason-Cooke",
+      "authored_at": "2019-10-04T20:38:52Z",
+      "message": "docs: fix typo (#659)"
+    },
+    {
+      "sha": "b3fed33edb58d6ca6bbea69785f36be69531f402",
+      "author_login": "johnstonmatt",
+      "authored_at": "2019-05-21T19:13:05Z",
+      "message": "instructions no longer imply installation with webstore requires a 2nd step (#652)"
+    },
+    {
+      "sha": "497b73910f6a4d0d756f6f9c9ed080f0af1eb239",
+      "author_login": "kris-luminar",
+      "authored_at": "2019-05-21T19:12:37Z",
+      "message": "[docs] Fix typos and improve grammar (#651)"
+    },
+    {
+      "sha": "efaf19da943b1a0a452eedca676ce1f752e36228",
+      "author_login": "zewa666",
+      "authored_at": "2019-05-21T19:11:54Z",
+      "message": "docs(integrations): list aurelia as integration (#650)"
+    },
+    {
+      "sha": "d127175196388c9b1f874b04b2792cf487c5d5e0",
+      "author_login": "zalmoxisus",
+      "authored_at": "2019-02-02T22:14:31Z",
+      "message": "Bump npm package"
+    },
+    {
+      "sha": "6672a500c18613e9564eaac129074f819abc09c4",
+      "author_login": "zalmoxisus",
+      "authored_at": "2019-01-25T22:19:44Z",
+      "message": "v2.17.1"
+    },
+    {
+      "sha": "356518329303a1d4384a02c0dd8d3e8332836406",
+      "author_login": "zalmoxisus",
+      "authored_at": "2019-01-25T22:14:45Z",
+      "message": "Fix error-polyfills issues (which appear on codesandbox)"
+    },
+    {
+      "sha": "d4ef75691ad294646f74bca38b973b19850a37cf",
+      "author_login": "ambientlight",
+      "authored_at": "2019-01-18T15:34:32Z",
+      "message": "Added reductive to integrations (#631)"
+    },
+    {
+      "sha": "dae9929a116d59f19d0c78c0c8659a833ae414eb",
+      "author_login": null,
+      "authored_at": "2019-01-14T22:01:51Z",
+      "message": "Typo fix (#628)"
+    },
+    {
+      "sha": "3df4d939b548b8ec891c73dabe2ffdd5dd2a8119",
+      "author_login": "denisw",
+      "authored_at": "2019-01-08T12:32:36Z",
+      "message": "Add trace options to TypeScript definition file (#624)"
+    },
+    {
+      "sha": "8f524f2300f687063fd23990f670e62a28c81ae4",
+      "author_login": "timdeschryver",
+      "authored_at": "2019-01-07T22:55:54Z",
+      "message": "Update NgRx Integration example (#623)"
+    },
+    {
+      "sha": "44a73aa1b7a14ff611c0b1f30387e027efec2188",
+      "author_login": "nndio",
+      "authored_at": "2019-01-05T14:54:30Z",
+      "message": "Update examples (#621)"
+    },
+    {
+      "sha": "bd0cd29de0b89e65eab862ed3c164175270c0759",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-12-19T15:48:17Z",
+      "message": "Change Mozilla Add-ons extension url"
+    },
+    {
+      "sha": "57e40cba821799cab6b6a0bdfc7ec94361d9d913",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-12-19T11:31:51Z",
+      "message": "v2.17.0"
+    },
+    {
+      "sha": "7b0be59e5b28162ca00e99dcd2f092b8df493a47",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-12-18T22:15:42Z",
+      "message": "Deprecate the ability to create a Redux store directly from the extension"
+    },
+    {
+      "sha": "a3c1fe9817c8dd1fb28f24438b2aefd27814e8a2",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-12-18T21:54:09Z",
+      "message": "Support for both ImmutableJS helper and custom replacer/reviver"
+    },
+    {
+      "sha": "2094b4502d37e61591baff076cd6e65b28aabf03",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-12-18T18:25:37Z",
+      "message": "Stack trace options (#612)"
+    },
+    {
+      "sha": "a8489fd589d4bd8be9587355474b105b5c6a10b5",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-12-18T17:19:25Z",
+      "message": "Update webpack and use terser instead of uglify"
+    },
+    {
+      "sha": "af37aa3b937694201c3d06102739a3b70c020f64",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-12-10T16:10:41Z",
+      "message": "[docs] Typescript support links"
+    },
+    {
+      "sha": "bb153bec246444b9a08e7fabfbc727fb92b9347c",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-12-10T13:27:40Z",
+      "message": "[Tests] Replace deprecated `window.devToolsExtension`"
+    },
+    {
+      "sha": "b8767bc34bcd23cf3d1df55643e22b2e991d140d",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-12-08T20:55:24Z",
+      "message": "Fix Immutable refs during parsing"
+    },
+    {
+      "sha": "028e69e072ddb31bb22d1a2e847690ca8d29fc63",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-12-05T19:49:17Z",
+      "message": "[docs] Add React integrations"
+    },
+    {
+      "sha": "0c6fadd84ed01a07dc9052c1d2ccf6f9b37b1cf8",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-12-03T22:44:12Z",
+      "message": "[Examples] Add modified date to todomvc"
+    },
+    {
+      "sha": "038f687e5dc79842eb1f318f5910adbb82789153",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-12-01T19:11:07Z",
+      "message": "v2.16.5"
+    },
+    {
+      "sha": "adbda742676f3f17819440517c3b7260a6455373",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-12-01T18:59:12Z",
+      "message": "Update dependences to fix #598"
+    },
+    {
+      "sha": "05f4dc175dbf0a74e5856b1204639d093621f8ea",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-12-01T12:54:11Z",
+      "message": "Use gray icon by default for page action to fix regression in Chrome"
+    },
+    {
+      "sha": "dcc94956c781f8e3384959c01925705845489293",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-29T20:05:57Z",
+      "message": "Fix actionsWhitelist/actionsBlacklist when provided as null"
+    },
+    {
+      "sha": "8abb34624f96c86da03bad18fa9fb71a28483431",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-29T12:24:43Z",
+      "message": "v2.16.4"
+    },
+    {
+      "sha": "d11eb65a9ad31a25f89d206f48ef442b4e8d7bd3",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-28T23:01:40Z",
+      "message": "Workaround for devpanel not having access in incognito mode"
+    },
+    {
+      "sha": "de2c79295e702b4dc7c56ecb41e0efd6f511d50a",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-28T18:01:13Z",
+      "message": "Add to README how to load the extension from gh releases"
+    },
+    {
+      "sha": "e7c26217641ef6d53eb89607aa8030d4cac9ed75",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-28T17:18:11Z",
+      "message": "v2.16.3"
+    },
+    {
+      "sha": "48ac2d293366fdfb56378c6c36eaca1e65940fcd",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-28T17:08:43Z",
+      "message": "Support action as a string in filters"
+    },
+    {
+      "sha": "1035d428149962d938eadd84038c89c20141c385",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-28T17:02:50Z",
+      "message": "Update remotedev-app to get the last Inspector monitor"
+    },
+    {
+      "sha": "dbacf4aea2c8be1e5bd7addc302fffac32ff8214",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-28T16:36:41Z",
+      "message": "Get liftedState from instrumentation instead of calling getState"
+    },
+    {
+      "sha": "8d2593d3a2ae1b49bcafbe9f9a53153fd5dc5ebd",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-28T16:34:10Z",
+      "message": "Bring dynamic maxAge back"
+    },
+    {
+      "sha": "23fd97eff482a9ad4c1125590e8887b0ef5345cb",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-28T15:40:41Z",
+      "message": "Check if filter from option page was injected"
+    },
+    {
+      "sha": "86b2897c41217d03016234237c91d921cf304e30",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-28T12:53:20Z",
+      "message": "v2.16.2"
+    },
+    {
+      "sha": "969619c4575e9568bcb33d1ee57ee3a42688d238",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-28T11:10:13Z",
+      "message": "Check if window.devToolsOptions was injected"
+    },
+    {
+      "sha": "0f14bb5f95efd87d763c83c40fe6bdbc5251bb76",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-28T10:22:42Z",
+      "message": "Rollback dynamic maxAge as Redux 4 doesn't allow calling getState"
+    },
+    {
+      "sha": "6578cdbb3b134e5e57f27cf9544e45c7576a8b4b",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-28T00:05:04Z",
+      "message": "v2.16.0"
+    },
+    {
+      "sha": "fdaeb959ee8cba2cf9df53f25717ac0e5e7b471c",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-27T21:58:56Z",
+      "message": "Include more info about @@INIT / REPLACE in Troubleshooting"
+    },
+    {
+      "sha": "a98fee5a50eea1601f9fae56393f764643b87240",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-27T20:34:12Z",
+      "message": "Workaround for new Chrome limit on message size (#582)"
+    },
+    {
+      "sha": "1134822acfecc574f8d1ddfa3cd61f1ee56c81b5",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-27T20:33:07Z",
+      "message": "[WIP] Improve performance for Chrome devpanel (#580)"
+    },
+    {
+      "sha": "5f94fc0940c2b001039333a366e36ef89dd259a0",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-27T20:22:05Z",
+      "message": "Auto adjust maxAge according to blacklisted actions"
+    },
+    {
+      "sha": "9d4923cff8a9c95abd1e020261df345d2e36bd54",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-27T15:58:44Z",
+      "message": "Upgrade d3-state-visualizer subdependency to fix #269"
+    },
+    {
+      "sha": "560c8ea7793b78cea4ae9fb80a5941e8b8e8c65d",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-27T15:49:25Z",
+      "message": "Bump npm package version"
+    },
+    {
+      "sha": "37f31ce378b41f7bad8f5f4bc3dcdf3a7ad59b5b",
+      "author_login": "JPeer264",
+      "authored_at": "2018-11-27T15:46:46Z",
+      "message": "Fix: TS require 1 type (closes #584) (#585)"
+    },
+    {
+      "sha": "725247782588272b4162728d76e3fe44db1d7352",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-26T18:49:01Z",
+      "message": "Fix actionsBlacklist/Whitelist to be also string as per documentation"
+    },
+    {
+      "sha": "4bd69c82b9dfd9e2da90ac79a34aca28579d59f3",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-26T18:47:46Z",
+      "message": "If filter options provided in arguments, should ignore from option page"
+    },
+    {
+      "sha": "2922a54b91efa092b68d6537e0b3c17eab881ea8",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-26T18:10:57Z",
+      "message": "Implement dynamic maxAge and fix getting it from options page"
+    },
+    {
+      "sha": "3299e2a3b4f3caad93413bec56ce34166f420830",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-26T13:10:16Z",
+      "message": "Freeze jsan version to fix reviver issue"
+    },
+    {
+      "sha": "44e898e61257cc906975d04263b1335dbcad03f3",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-25T18:11:47Z",
+      "message": "Remove store mutations as looking to be not necessary anymore"
+    },
+    {
+      "sha": "9f6c7aaaeb8287d8e8b79d885bd8e9930fe3ba48",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-25T13:30:15Z",
+      "message": "Deprecate window.devToolsExtension"
+    },
+    {
+      "sha": "ede072e8f27901971460acf5f0a061b3cec36dc5",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-24T18:18:47Z",
+      "message": "Bump npm package version"
+    },
+    {
+      "sha": "a66dd4673ec6c4986e549fe86fb92a4ae2421d18",
+      "author_login": "scally",
+      "authored_at": "2018-11-24T18:16:44Z",
+      "message": "Restore store typings (Fix #539) (#578)"
+    },
+    {
+      "sha": "8bbdf99a36f05d731d31fd6968579ac96c39b38a",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-22T14:20:13Z",
+      "message": "[Recipes] Applying multiple times with different sets of options"
+    },
+    {
+      "sha": "c89aa205d6b124b7575baf4407d6417c9ff3f819",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-22T14:10:34Z",
+      "message": "[Recipes] Using in a typescript project"
+    },
+    {
+      "sha": "1f9b1924dd017c641d97a5a77b5bc1c6771ee7ac",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-20T20:05:09Z",
+      "message": "v2.15.5"
+    },
+    {
+      "sha": "96bb89c1ede0ac122b00cf461ac7b8d4731d63ee",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-20T19:44:31Z",
+      "message": "Upgrade remotedev-serialize to fix #581 regression"
+    },
+    {
+      "sha": "e0b8fcbb1924b5866ec4f1cb2a2d78a449333cae",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-18T20:27:17Z",
+      "message": "Fix sanitize example link"
+    },
+    {
+      "sha": "1b90e1efcec94c2d86e7d336ad70ac6110387d15",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-18T20:19:31Z",
+      "message": "Stringify can return `undefined`"
+    },
+    {
+      "sha": "6b091f012a43edd16e3e575f08f04533580ecc9d",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-18T20:08:29Z",
+      "message": "Warning when serialized object has more than 16 MB"
+    },
+    {
+      "sha": "13891d7f8c6572aa00c5b642abf99fee2f4df859",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-18T19:43:43Z",
+      "message": "More details about solving perf issues"
+    },
+    {
+      "sha": "226da843b4dfe042a94725c7901e74cbe2f21cbc",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-18T14:56:22Z",
+      "message": "Specify in Troubleshooting about excessive use of memory and CPU"
+    },
+    {
+      "sha": "f6e329e4b782dd4f6622b830d0284e62a751c33c",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-18T14:32:14Z",
+      "message": "Specify in Troubleshooting about hot-reloading"
+    },
+    {
+      "sha": "fb6078b0ea5e97f3750946cbfa4d33f9454c0861",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-17T19:09:59Z",
+      "message": "Add Recipes"
+    },
+    {
+      "sha": "a5a92f9f0c055ce46f4735f39b55a199221911b6",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-17T15:49:51Z",
+      "message": "v2.15.4"
+    },
+    {
+      "sha": "b9fa81e9572f12c27ec898ab06ff27c35250231d",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-17T15:47:54Z",
+      "message": "Update dependences to fix #540..."
+    },
+    {
+      "sha": "00923e6cf1fee5970e03c6c3864a768653f4e87d",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-17T15:46:41Z",
+      "message": "Add delay to chrome tests, fix when opening a new url too slow"
+    },
+    {
+      "sha": "5abdd3915f91955608ea3b5ad04a478813f3d393",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-17T15:43:36Z",
+      "message": "Merge pull request #535 from viko16/master"
+    },
+    {
+      "sha": "466e50c9283b77a116440caac9c29ee4db0026ef",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-16T18:36:08Z",
+      "message": "Create CODE_OF_CONDUCT.md"
+    },
+    {
+      "sha": "bddc7f3241110d33cef0d8b8aa142d9a46e996f4",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-11-14T20:49:35Z",
+      "message": "Remove in extension script for firefox"
+    },
+    {
+      "sha": "60219a96c7e39e2fb386fa6213a0c52b72217057",
+      "author_login": "viko16",
+      "authored_at": "2018-07-19T05:44:42Z",
+      "message": "Provide an option to hide context menu"
+    },
+    {
+      "sha": "3a97c1c9a3a2f12155bcd37ef696f3f8b56085fa",
+      "author_login": "tanchar",
+      "authored_at": "2018-07-19T01:05:52Z",
+      "message": "Fix link typo in doc (#534)"
+    },
+    {
+      "sha": "639bd163c6f978977e53fd3905703059a365a3b2",
+      "author_login": "jhen0409",
+      "authored_at": "2018-07-18T12:57:43Z",
+      "message": "Bump extension versions"
+    },
+    {
+      "sha": "9228812b6d08b48c48e69132d0e185c439853951",
+      "author_login": "jhen0409",
+      "authored_at": "2018-07-18T10:06:33Z",
+      "message": "Support `^@@redux/REPLACE` last action for hot reload (#533)"
+    },
+    {
+      "sha": "0f5bac0c9a762cfd8c53e7938cb6967e2e15e1de",
+      "author_login": "brian-gavin",
+      "authored_at": "2018-07-04T14:20:57Z",
+      "message": "feat(api): add actionCreators option to messaging api (#529)"
+    },
+    {
+      "sha": "dc39a63648c34b55ffcc5c9a606b5cdcb6540f4a",
+      "author_login": "jhen0409",
+      "authored_at": "2018-06-30T04:33:13Z",
+      "message": "Should dispatch action if not locked (follow up of #478)"
+    },
+    {
+      "sha": "4ccdfe3a3cd24c9a0b92c148d4886a0cae9544e6",
+      "author_login": "eugeny-dementev",
+      "authored_at": "2018-06-30T02:59:58Z",
+      "message": "Unblock dispatch arguments (#478)"
+    },
+    {
+      "sha": "ff39eb3b00b78a5a024f52713a067c5c9becf3b8",
+      "author_login": "jhen0409",
+      "authored_at": "2018-06-21T11:17:37Z",
+      "message": "Bump npm package version (wrong publish for 2.13.4)"
+    },
+    {
+      "sha": "c745c2e0e3e79ef701d82e6422af815557c40108",
+      "author_login": "jhen0409",
+      "authored_at": "2018-06-20T16:18:57Z",
+      "message": "Bump npm package version"
+    },
+    {
+      "sha": "e4cabe347bddf4a33c287b9c6ceac766bca53979",
+      "author_login": "jhen0409",
+      "authored_at": "2018-06-20T16:16:23Z",
+      "message": "Add required type for StoreEnhancer in type definition of npm package (#520)"
+    },
+    {
+      "sha": "572c3f1bf512f6f7aa5421649bc8293d793c1554",
+      "author_login": "jhen0409",
+      "authored_at": "2018-06-20T15:26:05Z",
+      "message": "E2E test: Update test case of `should get actions list` in chrome test (#518)"
+    },
+    {
+      "sha": "efbc718849d32d085d6a1dce0b7c860870e15c35",
+      "author_login": "jhen0409",
+      "authored_at": "2018-06-20T13:51:03Z",
+      "message": "Bump npm package version"
+    },
+    {
+      "sha": "7db8972831def77e45b6c98b15911a77cbd3ff93",
+      "author_login": "ApacheEx",
+      "authored_at": "2018-06-15T14:36:22Z",
+      "message": "Add support for Redux 4.x (#490)"
+    },
+    {
+      "sha": "401bf801ff1540e77ccb5ded4f56bc4f6204e1aa",
+      "author_login": "nocoolnametom",
+      "authored_at": "2018-06-15T10:26:54Z",
+      "message": "Update jsan (#501)"
+    },
+    {
+      "sha": "658f2f0634dd453efc6cf3b76be97433f1ea3331",
+      "author_login": "elongl",
+      "authored_at": "2018-06-15T10:22:26Z",
+      "message": "GenericStoreEnhancer isn't a exported member from redux. (#495)"
+    },
+    {
+      "sha": "f84d2bd18acec81fe7fbdf0ef7e287b9b4694060",
+      "author_login": "jonny-no1",
+      "authored_at": "2018-06-15T10:20:54Z",
+      "message": "Fix typo in docs (#472)"
+    },
+    {
+      "sha": "51c7b30d6eca4825e30491e602c925474340f9ed",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-03-03T11:14:22Z",
+      "message": "Remove keybord shortcuts for firefox"
+    },
+    {
+      "sha": "8b3a15db7dd8c819680023621456d63b35ff0bfe",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-03-02T15:19:31Z",
+      "message": "v2.15.2"
+    },
+    {
+      "sha": "9e02f9f105a941c9d767253f039683fe7a8f5745",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-03-02T15:17:07Z",
+      "message": "Fix firefox resizing issue"
+    },
+    {
+      "sha": "67b192983c18f736fbb1a89fa80c84bf9c5d6a14",
+      "author_login": "zalmoxisus",
+      "authored_at": "2018-03-02T15:15:38Z",
+      "message": "Update dependences"
+    },
+    {
+      "sha": "b6ef19bd2e722de511165e758a09c1c85e31532e",
+      "author_login": "keeth",
+      "authored_at": "2018-02-09T13:12:14Z",
+      "message": "Dont serialize window objects, fixes #337 (#422)"
+    }
+  ],
+  "issues": [
+    {
+      "number": 865,
+      "title": "fix: update broken MDN link to new URL structure",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-04T11:16:52Z",
+      "closed_at": "2026-03-04T11:18:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 864,
+      "title": "How does the devtools extension use trace to track useReducer issues?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-03-01T16:41:16Z",
+      "closed_at": "2025-03-03T08:31:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 863,
+      "title": "devtool extention issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-24T14:00:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 862,
+      "title": "Tooltip cut off (overflow: hidden)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-27T17:58:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 861,
+      "title": "Remove `any` type from `StoreEnhancer` type argument",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-11-07T11:04:58Z",
+      "closed_at": "2023-11-07T15:48:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 860,
+      "title": "Create devcontainer.json",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-11-05T04:52:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 859,
+      "title": "Done",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-15T00:21:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 858,
+      "title": "TypeError: this.props.stateTreeSettings is undefined",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-13T11:40:20Z",
+      "closed_at": "2023-09-13T12:55:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 857,
+      "title": "Redux devtools are blank",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-24T07:19:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 856,
+      "title": "Unreadable code in stack (black text on black background)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-10T05:45:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 855,
+      "title": "Redux devtools blank after clicking \"Trace\" on undefined action, removing and reinstalling did not fix it",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-08T19:42:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 854,
+      "title": "点击diff一片黑屏",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-01T10:08:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 853,
+      "title": "Bump ua-parser-js from 0.7.12 to 0.7.33",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-24T17:32:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 852,
+      "title": "Bump decode-uri-component from 0.2.0 to 0.2.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-03T09:10:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 851,
+      "title": "Bump loader-utils from 1.1.0 to 1.4.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-17T00:58:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 850,
+      "title": "Bump electron from 2.0.2 to 18.3.7",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-10T14:55:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 849,
+      "title": "Bump loader-utils from 1.1.0 to 1.4.1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-11-10T01:58:52Z",
+      "closed_at": "2022-11-17T00:58:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 848,
+      "title": "Bump css-what from 2.1.0 to 2.1.3",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T14:24:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 847,
+      "title": "fixed - typo",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-08-18T12:23:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 846,
+      "title": "Can't allow Symbol type",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-04T03:55:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 845,
+      "title": "Bump jsdom from 9.9.1 to 16.5.0",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-23T04:34:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 844,
+      "title": "Bump electron from 2.0.2 to 15.5.5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-17T00:00:36Z",
+      "closed_at": "2022-11-10T14:55:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 843,
+      "title": "Hey",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-25T17:00:38Z",
+      "closed_at": "2022-05-25T18:23:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 842,
+      "title": "EMPTY SCREEN REDUX DEVTOOL NOT THE EXTENSION, IM INSTALLED IN MY PROJECT",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-05T14:49:14Z",
+      "closed_at": "2022-05-05T14:49:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 841,
+      "title": "Git.io deprecation notice",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-28T08:58:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 839,
+      "title": "Bump urijs from 1.18.4 to 1.19.11",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-04-12T22:58:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 838,
+      "title": "Bump electron from 2.0.2 to 13.6.6",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-25T18:41:55Z",
+      "closed_at": "2022-06-17T00:00:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 837,
+      "title": "Bump lodash-es from 4.17.4 to 4.17.21",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-03-15T19:16:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 836,
+      "title": "Bump urijs from 1.18.4 to 1.19.10",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-08T22:44:18Z",
+      "closed_at": "2022-04-12T22:58:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 835,
+      "title": "Bump urijs from 1.18.4 to 1.19.9",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-03T22:18:57Z",
+      "closed_at": "2022-03-08T22:44:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 834,
+      "title": "Bump urijs from 1.18.4 to 1.19.8",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-26T02:26:13Z",
+      "closed_at": "2022-03-03T22:19:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 833,
+      "title": "Bump ua-parser-js from 0.7.12 to 0.7.31",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-10T16:25:58Z",
+      "closed_at": "2023-01-24T17:32:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 832,
+      "title": "Something went wrong with interface of React Dev Tools in Google Chrome.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-28T20:34:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 831,
+      "title": "Project moved to new repository",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-18T22:35:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 830,
+      "title": "dispatching actions from devtools are ignored by middlewares",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-18T07:50:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 829,
+      "title": "Redux DevTools triggering a false positive 'This page is using the production build of React. ✅'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-01-14T17:58:25Z",
+      "closed_at": "2022-01-28T19:24:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 828,
+      "title": "Please allow us to change the font of redux devtools",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-11T04:56:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 827,
+      "title": "TypeError: window.devToolsExtension is not a function",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-01-09T09:09:20Z",
+      "closed_at": "2022-01-12T18:01:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 826,
+      "title": "options.instanceId doesn't support Symbols as instance name.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-14T19:26:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 825,
+      "title": "Multiple stores, one under Suspense, break devtools",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-13T13:06:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 824,
+      "title": "Should I see this URL attached to dev tools?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-07T00:47:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 823,
+      "title": "Add Angular ngxs integration example",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-11-07T09:40:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 822,
+      "title": "unsafe-eval question",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-10-26T20:44:33Z",
+      "closed_at": "2022-01-12T18:04:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 821,
+      "title": "I installed the chrome extension but nothing is shown in extension bar",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-10-26T10:12:06Z",
+      "closed_at": "2022-01-12T18:02:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 820,
+      "title": "React + Redux + Typescript Chrome Extension Popup Script - Redux Devtools Shows \"No Store Found\" (Possible Solution?)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-24T21:13:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 819,
+      "title": "BUG: Limit History not applying or effective",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-20T18:20:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 818,
+      "title": "Bump electron from 2.0.2 to 11.5.0",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-10-12T22:15:10Z",
+      "closed_at": "2022-03-25T18:42:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 817,
+      "title": "Bump object-path from 0.11.3 to 0.11.8",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-09-20T23:55:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 816,
+      "title": "Should Issues Be Raised Here?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-09-12T06:51:00Z",
+      "closed_at": "2022-01-12T18:03:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 815,
+      "title": "Can not type lower case h in dispatcher",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-09-11T10:04:51Z",
+      "closed_at": "2021-10-02T07:29:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 814,
+      "title": "Persist Toggle UI does not change / work",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-09-09T12:10:51Z",
+      "closed_at": "2022-01-12T18:05:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 813,
+      "title": "Support: Redux-Devtools Saying 'No Store Found' after Hot Reload in Electron",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-08T06:06:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 812,
+      "title": "Bump object-path from 0.11.3 to 0.11.7",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-01T21:28:25Z",
+      "closed_at": "2021-09-20T23:55:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 811,
+      "title": "Timeline jumping around",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-08-31T18:24:56Z",
+      "closed_at": "2022-01-12T19:06:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 810,
+      "title": "Homepage points to a NSFW website",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-08-25T07:59:25Z",
+      "closed_at": "2021-08-27T07:05:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 809,
+      "title": "Bump tar from 2.2.1 to 2.2.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-08-04T07:07:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 808,
+      "title": "Chrome is deprecating navigator.userAgent",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-20T10:47:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 807,
+      "title": "Bump urijs from 1.18.4 to 1.19.7",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-20T01:54:13Z",
+      "closed_at": "2022-02-26T02:26:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 806,
+      "title": "Map/Set changes not included in diffs",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-01T16:21:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 805,
+      "title": "Bump set-getter from 0.1.0 to 0.1.1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-06-21T19:47:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 804,
+      "title": "Redux-devtools перестал работать",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-15T08:06:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 803,
+      "title": "Google Cloud Platform Billing UI is broken with extension loaded",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-06T16:36:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 802,
+      "title": "Wraps chrome.storage with try/catch",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-06-04T23:00:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 801,
+      "title": "Extension not loading on Examples when added via Chrome store",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-01T19:28:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 799,
+      "title": "trace option not working as-intended",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-25T16:17:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 798,
+      "title": "Bump codemirror from 5.22.0 to 5.61.0",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-12T00:36:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 797,
+      "title": "Bump ua-parser-js from 0.7.12 to 0.7.28",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-09T14:06:17Z",
+      "closed_at": "2022-02-10T16:26:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 796,
+      "title": "Bump lodash from 4.17.4 to 4.17.21",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-08T19:00:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 795,
+      "title": "Bump handlebars from 4.0.6 to 4.7.7",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-07T12:43:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 794,
+      "title": "Chrome extension URL broken",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-04T22:29:07Z",
+      "closed_at": "2022-01-12T18:10:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 793,
+      "title": "Chrome Web Store link return 404",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-04T14:12:36Z",
+      "closed_at": "2022-01-12T18:10:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 792,
+      "title": "InitialState with 2 stores not working as expected",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-04-21T09:13:21Z",
+      "closed_at": "2025-01-08T22:52:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 791,
+      "title": "Bump ssri from 6.0.1 to 6.0.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-04-20T01:00:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 790,
+      "title": "Bump y18n from 4.0.0 to 4.0.1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-03-30T16:07:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 789,
+      "title": "v2.17.1 is last verison but 2.13.9 at npm ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-03-26T13:08:17Z",
+      "closed_at": "2021-07-21T08:14:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 788,
+      "title": "Update Recipes.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-03-23T10:39:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 787,
+      "title": "redux-devtools-extension 2.13.9",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-03-22T14:30:52Z",
+      "closed_at": "2022-01-12T18:11:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 786,
+      "title": "> Why is the autocommit option a thing? Why are actions automatically committed when they reach like 50 items?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-18T19:46:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 785,
+      "title": "API for retrieving extension open status",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-03-17T01:56:20Z",
+      "closed_at": "2021-04-15T01:04:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 784,
+      "title": "Bump elliptic from 6.4.0 to 6.5.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-03-09T03:34:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 783,
+      "title": "Can not render reducer state that is stored as a map properly",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-03-04T01:35:47Z",
+      "closed_at": "2021-08-02T23:28:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 782,
+      "title": "Bump urijs from 1.18.4 to 1.19.6",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-01T22:38:16Z",
+      "closed_at": "2021-07-20T01:54:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 781,
+      "title": "Privacy practice disclaimer on chrome web store",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-02-20T11:33:57Z",
+      "closed_at": "2023-03-10T06:01:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 779,
+      "title": "Highlight actions that changed pinned item",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-09T10:14:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 778,
+      "title": "Feature request: Dispatch with Ctrl + Enter",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-02-03T09:27:21Z",
+      "closed_at": "2022-08-16T12:09:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 777,
+      "title": "Bump electron from 2.0.2 to 9.4.0",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-28T19:50:31Z",
+      "closed_at": "2021-10-12T22:15:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 776,
+      "title": "docs: add installation instructions for configureStore",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-20T20:01:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 775,
+      "title": "Redux devtools Hanging without any error s",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-16T09:10:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 774,
+      "title": "Compatibility issue with many sites using old way to connect to devtools in Chromium",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-13T09:01:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 773,
+      "title": "docs: when extension is not present and app fails to load due to compose usage",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-01-07T07:06:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 772,
+      "title": "No store found. Make sure to follow the instructions. (Firefox, first launch devtools)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-01T17:04:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 771,
+      "title": "Bump urijs from 1.18.4 to 1.19.5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-31T02:05:48Z",
+      "closed_at": "2021-03-01T22:38:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 770,
+      "title": "Add further sanitizer examples and clarification",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-17T16:31:43Z",
+      "closed_at": "2023-05-12T04:25:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 769,
+      "title": "Bump ini from 1.3.4 to 1.3.7",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-12-11T07:25:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 768,
+      "title": "Regex filtering in \"Inspector\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-18T14:26:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 767,
+      "title": "Errors logged on startup in Electron 10",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-10T11:27:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 766,
+      "title": "update readme.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-10-29T06:17:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 765,
+      "title": "Update integration.md to add a new library",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-23T22:09:34Z",
+      "closed_at": "2021-08-12T14:54:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 764,
+      "title": "Bump object-path from 0.11.3 to 0.11.5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-19T23:56:54Z",
+      "closed_at": "2021-09-01T21:28:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 763,
+      "title": "\"Couldn't find a navigation context. Have you wrapped your app with 'NavigationContainer'?\" when turning on *redux-devtools*",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-01T11:30:44Z",
+      "closed_at": "2020-10-01T14:47:25Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "zalmoxisus",
+      "contributions": 801
+    },
+    {
+      "login": "jhen0409",
+      "contributions": 35
+    },
+    {
+      "login": "iamakulov",
+      "contributions": 28
+    },
+    {
+      "login": "peletiah",
+      "contributions": 5
+    },
+    {
+      "login": "tomchentw",
+      "contributions": 5
+    },
+    {
+      "login": "minedeljkovic",
+      "contributions": 5
+    },
+    {
+      "login": "clarkbw",
+      "contributions": 2
+    },
+    {
+      "login": "evgenykochetkov",
+      "contributions": 2
+    },
+    {
+      "login": "alexkuz",
+      "contributions": 2
+    },
+    {
+      "login": "grrowl",
+      "contributions": 1
+    },
+    {
+      "login": "nocoolnametom",
+      "contributions": 1
+    },
+    {
+      "login": "timdeschryver",
+      "contributions": 1
+    },
+    {
+      "login": "gitter-badger",
+      "contributions": 1
+    },
+    {
+      "login": "bossbossk20",
+      "contributions": 1
+    },
+    {
+      "login": "ambientlight",
+      "contributions": 1
+    },
+    {
+      "login": "scally",
+      "contributions": 1
+    },
+    {
+      "login": "scottsword",
+      "contributions": 1
+    },
+    {
+      "login": "ReadmeCritic",
+      "contributions": 1
+    },
+    {
+      "login": "pranjal0819",
+      "contributions": 1
+    },
+    {
+      "login": "piamancini",
+      "contributions": 1
+    },
+    {
+      "login": "philraj",
+      "contributions": 1
+    },
+    {
+      "login": "peteruithoven",
+      "contributions": 1
+    },
+    {
+      "login": "nndio",
+      "contributions": 1
+    },
+    {
+      "login": "toranb",
+      "contributions": 1
+    },
+    {
+      "login": "trevordmiller",
+      "contributions": 1
+    },
+    {
+      "login": "tyleriguchi",
+      "contributions": 1
+    },
+    {
+      "login": "zewa666",
+      "contributions": 1
+    },
+    {
+      "login": "zacacollier",
+      "contributions": 1
+    },
+    {
+      "login": "zaaack",
+      "contributions": 1
+    },
+    {
+      "login": "ganmor",
+      "contributions": 1
+    },
+    {
+      "login": "mlucool",
+      "contributions": 1
+    },
+    {
+      "login": "mondaychen",
+      "contributions": 1
+    },
+    {
+      "login": "petertdinh",
+      "contributions": 1
+    },
+    {
+      "login": "tanchar",
+      "contributions": 1
+    },
+    {
+      "login": "terencechow",
+      "contributions": 1
+    },
+    {
+      "login": "viko16",
+      "contributions": 1
+    },
+    {
+      "login": "ASplayer9119",
+      "contributions": 1
+    },
+    {
+      "login": "bhagyas",
+      "contributions": 1
+    },
+    {
+      "login": "BlackGlory",
+      "contributions": 1
+    },
+    {
+      "login": "brian-gavin",
+      "contributions": 1
+    },
+    {
+      "login": "clarkie",
+      "contributions": 1
+    },
+    {
+      "login": "denisw",
+      "contributions": 1
+    },
+    {
+      "login": "dimadk24",
+      "contributions": 1
+    },
+    {
+      "login": "douglasnaphas",
+      "contributions": 1
+    },
+    {
+      "login": "elongl",
+      "contributions": 1
+    },
+    {
+      "login": "eugeny-dementev",
+      "contributions": 1
+    },
+    {
+      "login": "gonaumov",
+      "contributions": 1
+    },
+    {
+      "login": "HoverBaum",
+      "contributions": 1
+    },
+    {
+      "login": "jotaen",
+      "contributions": 1
+    },
+    {
+      "login": "JPeer264",
+      "contributions": 1
+    },
+    {
+      "login": "Jason-Cooke",
+      "contributions": 1
+    },
+    {
+      "login": "jonny-no1",
+      "contributions": 1
+    },
+    {
+      "login": "keeth",
+      "contributions": 1
+    },
+    {
+      "login": "Sawtaytoes",
+      "contributions": 1
+    },
+    {
+      "login": "kevmo314",
+      "contributions": 1
+    },
+    {
+      "login": "kris-luminar",
+      "contributions": 1
+    },
+    {
+      "login": "johnstonmatt",
+      "contributions": 1
+    },
+    {
+      "login": "bolismauro",
+      "contributions": 1
+    },
+    {
+      "login": "Methuselah96",
+      "contributions": 1
+    },
+    {
+      "login": "nik72619c",
+      "contributions": 1
+    },
+    {
+      "login": "ApacheEx",
+      "contributions": 1
+    },
+    {
+      "login": "PatrickJS",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "2.17.1",
+      "published_at": "2019-01-25T22:26:19Z"
+    },
+    {
+      "tag": "2.17.0",
+      "published_at": "2018-12-19T11:37:35Z"
+    },
+    {
+      "tag": "2.16.5",
+      "published_at": "2018-12-01T19:15:35Z"
+    },
+    {
+      "tag": "2.16.4",
+      "published_at": "2018-11-29T12:26:34Z"
+    },
+    {
+      "tag": "2.16.3",
+      "published_at": "2018-11-28T17:22:50Z"
+    },
+    {
+      "tag": "2.16.2",
+      "published_at": "2018-11-28T12:56:56Z"
+    },
+    {
+      "tag": "2.16",
+      "published_at": "2018-11-28T00:09:47Z"
+    },
+    {
+      "tag": "2.15.5",
+      "published_at": "2018-11-20T20:09:27Z"
+    },
+    {
+      "tag": "2.15.4",
+      "published_at": "2018-11-17T16:12:37Z"
+    },
+    {
+      "tag": "2.15.3",
+      "published_at": "2018-11-14T21:33:09Z"
+    },
+    {
+      "tag": "v2.15.0",
+      "published_at": "2017-05-04T15:56:46Z"
+    },
+    {
+      "tag": "v2.14.0",
+      "published_at": "2017-02-23T14:39:20Z"
+    },
+    {
+      "tag": "v2.13.2",
+      "published_at": "2017-02-07T18:02:55Z"
+    },
+    {
+      "tag": "v2.13.1",
+      "published_at": "2017-02-07T10:42:58Z"
+    },
+    {
+      "tag": "v2.13.0",
+      "published_at": "2017-02-06T14:52:17Z"
+    },
+    {
+      "tag": "v2.12.1",
+      "published_at": "2017-01-10T16:44:18Z"
+    },
+    {
+      "tag": "v2.12.0",
+      "published_at": "2017-01-04T17:59:00Z"
+    },
+    {
+      "tag": "v2.11.1",
+      "published_at": "2016-12-02T14:44:17Z"
+    },
+    {
+      "tag": "v2.11.0",
+      "published_at": "2016-11-25T18:21:16Z"
+    },
+    {
+      "tag": "v2.10.3",
+      "published_at": "2016-11-22T14:32:37Z"
+    },
+    {
+      "tag": "v2.10.2",
+      "published_at": "2016-11-19T20:21:30Z"
+    },
+    {
+      "tag": "v2.10.1",
+      "published_at": "2016-11-15T19:31:27Z"
+    },
+    {
+      "tag": "v2.10.0",
+      "published_at": "2016-11-10T12:44:47Z"
+    },
+    {
+      "tag": "v2.9.0",
+      "published_at": "2016-11-01T12:29:06Z"
+    },
+    {
+      "tag": "v2.8.5",
+      "published_at": "2016-10-26T11:49:25Z"
+    },
+    {
+      "tag": "v2.8.4",
+      "published_at": "2016-10-25T12:23:22Z"
+    },
+    {
+      "tag": "v2.8.3",
+      "published_at": "2016-10-21T11:01:32Z"
+    },
+    {
+      "tag": "v2.8.2",
+      "published_at": "2016-10-18T18:00:03Z"
+    },
+    {
+      "tag": "v2.8.1",
+      "published_at": "2016-10-16T09:09:58Z"
+    },
+    {
+      "tag": "v2.8.0",
+      "published_at": "2016-10-14T11:14:55Z"
+    },
+    {
+      "tag": "v2.7.0",
+      "published_at": "2016-10-04T12:20:47Z"
+    },
+    {
+      "tag": "v2.6.1",
+      "published_at": "2016-09-16T15:48:27Z"
+    },
+    {
+      "tag": "v2.6.0",
+      "published_at": "2016-09-15T13:42:55Z"
+    },
+    {
+      "tag": "v2.5.1",
+      "published_at": "2016-08-19T14:07:51Z"
+    },
+    {
+      "tag": "v2.5.0",
+      "published_at": "2016-08-14T14:12:18Z"
+    },
+    {
+      "tag": "v2.4.0",
+      "published_at": "2016-08-01T10:22:21Z"
+    },
+    {
+      "tag": "v2.3.1",
+      "published_at": "2016-07-18T08:08:44Z"
+    },
+    {
+      "tag": "v2.3.0",
+      "published_at": "2016-07-15T15:58:42Z"
+    },
+    {
+      "tag": "v2.2.1",
+      "published_at": "2016-07-02T09:58:34Z"
+    },
+    {
+      "tag": "v2.2.0",
+      "published_at": "2016-06-26T20:01:50Z"
+    },
+    {
+      "tag": "v2.1.0",
+      "published_at": "2016-06-22T10:08:06Z"
+    },
+    {
+      "tag": "v2.0.1",
+      "published_at": "2016-06-11T13:46:43Z"
+    },
+    {
+      "tag": "v2.0.0",
+      "published_at": "2016-06-01T12:47:53Z"
+    },
+    {
+      "tag": "v1.4.0",
+      "published_at": "2016-05-23T18:28:22Z"
+    },
+    {
+      "tag": "v1.3.1",
+      "published_at": "2016-05-17T14:54:29Z"
+    },
+    {
+      "tag": "v1.3.0",
+      "published_at": "2016-05-15T17:47:41Z"
+    },
+    {
+      "tag": "v1.2.0",
+      "published_at": "2016-05-09T11:41:38Z"
+    },
+    {
+      "tag": "v1.1.1",
+      "published_at": "2016-04-24T08:54:44Z"
+    },
+    {
+      "tag": "v1.1.0",
+      "published_at": "2016-04-23T15:37:16Z"
+    },
+    {
+      "tag": "v1.0.1",
+      "published_at": "2016-04-19T07:41:33Z"
+    }
+  ],
+  "collected_at": "2026-08-31T12:22:57.813095Z"
+}
