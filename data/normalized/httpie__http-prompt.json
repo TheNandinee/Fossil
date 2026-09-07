@@ -1,0 +1,1721 @@
+{
+  "full_name": "httpie/http-prompt",
+  "owner": "httpie",
+  "name": "http-prompt",
+  "url": "https://github.com/httpie/http-prompt",
+  "description": "An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie",
+  "primary_language": "Python",
+  "topics": [
+    "api",
+    "api-cli",
+    "api-testing",
+    "autocomplete",
+    "cli",
+    "developer-tools",
+    "development",
+    "http",
+    "http-client",
+    "httpie",
+    "json",
+    "python",
+    "rest-api",
+    "shell",
+    "syntax-highlighting",
+    "terminal",
+    "web-development"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 9108,
+  "forks": 345,
+  "open_issues": 56,
+  "created_at": "2016-04-06T07:24:35Z",
+  "pushed_at": "2024-05-21T06:03:21Z",
+  "updated_at": "2026-09-06T05:47:55Z",
+  "commits": [
+    {
+      "sha": "6602b81516851a3461ad204e340180ff885aa5a2",
+      "author_login": "tangestani",
+      "authored_at": "2022-01-21T21:56:58Z",
+      "message": "Mention Homebrew installion option in the docs (#211)"
+    },
+    {
+      "sha": "30fd9d9cf5439e90d9deadbe1bfd6ccf92abf0fa",
+      "author_login": "BoboTiG",
+      "authored_at": "2021-09-09T08:19:19Z",
+      "message": "Update options to include `--raw` (#205)"
+    },
+    {
+      "sha": "8922a77156a7dc96bac9e3e94fe900bb17f976c2",
+      "author_login": "BoboTiG",
+      "authored_at": "2021-08-05T16:13:22Z",
+      "message": "Continue Python 2 removal clean-up"
+    },
+    {
+      "sha": "3dbb1522d93f24f744cd6665494ce54a04a4a7b8",
+      "author_login": "BoboTiG",
+      "authored_at": "2021-08-05T16:00:17Z",
+      "message": "Fix flake8 errors"
+    },
+    {
+      "sha": "aa1a7ee88e605861f5575e9e799a2a06a505d860",
+      "author_login": "BoboTiG",
+      "authored_at": "2021-08-05T15:41:55Z",
+      "message": "Polish Python 2.7 removal"
+    },
+    {
+      "sha": "9df42111917b3e72462ab8890310aefb05b445e6",
+      "author_login": "BoboTiG",
+      "authored_at": "2021-08-05T15:27:42Z",
+      "message": "Fix `DeprecationWarning: invalid sequence`"
+    },
+    {
+      "sha": "976d5cdc22f812ebe6b1b747ab0018b7fbfc712f",
+      "author_login": "alansill",
+      "authored_at": "2021-08-05T15:45:03Z",
+      "message": "Update yaml.load call in cli.py to use SafeLoader (#151)"
+    },
+    {
+      "sha": "c822d447616100cc189b95d78cc138005d0b6368",
+      "author_login": "BoboTiG",
+      "authored_at": "2021-08-05T15:26:14Z",
+      "message": "Add Python 3.10 trove classifier"
+    },
+    {
+      "sha": "a5f250c8f213916876be0fce02ed9f9a409e4990",
+      "author_login": "BoboTiG",
+      "authored_at": "2021-08-05T15:25:39Z",
+      "message": "CI: Run tests on Python 3.9"
+    },
+    {
+      "sha": "69439599cac3ac243729ebe6be20b3964bb3a4dd",
+      "author_login": "jonathanslenders",
+      "authored_at": "2021-08-05T15:20:35Z",
+      "message": "Upgrade to prompt_toolkit 2.0 (#137)"
+    },
+    {
+      "sha": "dbe35f0e01bbbb35c418663395ec8ca9c2717e3c",
+      "author_login": "tsabirgaliev",
+      "authored_at": "2021-03-21T18:48:57Z",
+      "message": "Update test_interaction.py (#191)"
+    },
+    {
+      "sha": "7be6cfdbaac75a49ca01e46ab45b929934c51f18",
+      "author_login": "jkbrzt",
+      "authored_at": "2021-03-05T14:17:16Z",
+      "message": "v2.1.0"
+    },
+    {
+      "sha": "2a637f352129a6b2b6b9fed30640f477fb9d3211",
+      "author_login": "jkbrzt",
+      "authored_at": "2021-03-05T13:48:11Z",
+      "message": "v2.0.0"
+    },
+    {
+      "sha": "94f3cb6ca517fdea25c4e618ae076de12e6a00af",
+      "author_login": "jkbrzt",
+      "authored_at": "2021-03-05T13:33:13Z",
+      "message": "Update httpie dependency"
+    },
+    {
+      "sha": "e629920a09595eb45ffd6207de6c002a5501ce64",
+      "author_login": "timka",
+      "authored_at": "2021-02-16T08:19:34Z",
+      "message": "Use standard shlex.quote (#189)"
+    },
+    {
+      "sha": "ac598fd9d6a7a5e16c06912afb88c974a317efdc",
+      "author_login": "lalmeras",
+      "authored_at": "2021-02-07T18:36:03Z",
+      "message": "issue #172: spec/buggy Path/Operation handling (#188)"
+    },
+    {
+      "sha": "6ce106a9816be65f5979f10b7c9731d40992ae1e",
+      "author_login": "elenalape",
+      "authored_at": "2021-01-14T18:18:07Z",
+      "message": "Add Discord link to README (#186)"
+    },
+    {
+      "sha": "09fd0cce1f3d58bd945ab96a948456cb151ac28c",
+      "author_login": "jkbrzt",
+      "authored_at": "2020-08-18T10:11:51Z",
+      "message": "Update README.rst"
+    },
+    {
+      "sha": "531dee162620f3a9e756dda8fc782c58ef64c578",
+      "author_login": "jkbrzt",
+      "authored_at": "2020-08-17T18:35:04Z",
+      "message": "Fix setup.py"
+    },
+    {
+      "sha": "0179a7c9596380cac9148fe3826e92fb447ee4de",
+      "author_login": "jkbrzt",
+      "authored_at": "2020-08-17T18:30:16Z",
+      "message": "Update tox.ini"
+    },
+    {
+      "sha": "56af5c63962bc8d7e2a5e190c5719a0c0f3a14e7",
+      "author_login": "jkbrzt",
+      "authored_at": "2020-08-17T17:49:17Z",
+      "message": "Cleanup"
+    },
+    {
+      "sha": "39d33c997ab34cd125278f0af848dce83791dcba",
+      "author_login": "jkbrzt",
+      "authored_at": "2020-08-17T17:45:55Z",
+      "message": "Cleanup"
+    },
+    {
+      "sha": "544526478db61be5bd51dac8bcf95e549b5ed7ce",
+      "author_login": "jkbrzt",
+      "authored_at": "2020-08-17T17:45:49Z",
+      "message": "Re-add tox.ini"
+    },
+    {
+      "sha": "18501c7d16304ecb7524d46790e255dc26f8a186",
+      "author_login": "jkbrzt",
+      "authored_at": "2020-08-17T17:43:25Z",
+      "message": "Test --spec with GitHub’s new OpenAPI description"
+    },
+    {
+      "sha": "c5a393d50d696894d4df1405abb6bd0fff5b4e08",
+      "author_login": "dfrommi",
+      "authored_at": "2020-08-17T15:26:54Z",
+      "message": "support parameter references in swagger spec (#150)"
+    },
+    {
+      "sha": "2616a7f73751a033c40c82010193cbda0ff3116e",
+      "author_login": "jkbrzt",
+      "authored_at": "2020-08-17T15:17:06Z",
+      "message": "Drop Python 2.7 & six"
+    },
+    {
+      "sha": "88c28964ccc1ea368f58aefb81ab6dd3f48179bd",
+      "author_login": "jkbrzt",
+      "authored_at": "2020-08-17T15:07:32Z",
+      "message": "Drop TravisCI, Appveyor and Tox in favor of GitHub Actions"
+    },
+    {
+      "sha": "da0ce9aaf3ac762a2e3a9de1f49f82598e254666",
+      "author_login": "jkbrzt",
+      "authored_at": "2020-08-17T15:02:37Z",
+      "message": "Fix text by handling explicit HTTPie program name"
+    },
+    {
+      "sha": "0d781b19c69508ddf8d8350ed60de016c303a502",
+      "author_login": "eungjun-yi",
+      "authored_at": "2020-08-17T14:54:56Z",
+      "message": "Support httpie >= 2.0.0 (#170)"
+    },
+    {
+      "sha": "8fbb13a67cc2beb5d25cbbdbde3953442aff1c2f",
+      "author_login": "jkbrzt",
+      "authored_at": "2020-08-17T14:51:00Z",
+      "message": "skip a test with broken external dependency"
+    },
+    {
+      "sha": "bc0856b539ae215d5f2ccf6c2b8f8a5650950a49",
+      "author_login": "jkbrzt",
+      "authored_at": "2020-08-17T14:28:12Z",
+      "message": "https"
+    },
+    {
+      "sha": "dd874fd3d2c1cf035a62d8dd20bd9f36b71657fc",
+      "author_login": "jkbrzt",
+      "authored_at": "2020-08-14T19:05:59Z",
+      "message": "Merge pull request #146 from dargad/snapcraft"
+    },
+    {
+      "sha": "4d1bdd5466048e336b65c3486ed9e6096760ca48",
+      "author_login": "jkbrzt",
+      "authored_at": "2020-08-14T14:04:34Z",
+      "message": "Add Makefile"
+    },
+    {
+      "sha": "faeebf2d7acebe36b6884b24fa311997232a4fae",
+      "author_login": "jkbrzt",
+      "authored_at": "2020-08-14T14:01:48Z",
+      "message": "GitHub actions"
+    },
+    {
+      "sha": "189321f25e3526fa1b79a9dc38c317892c478986",
+      "author_login": "eliangcs",
+      "authored_at": "2019-01-15T23:00:38Z",
+      "message": "Merge pull request #149 from dfrommi/swagger-yaml"
+    },
+    {
+      "sha": "52267fbdce7241de61e7521ebb48eef3f505ec46",
+      "author_login": "dfrommi",
+      "authored_at": "2019-01-11T22:55:52Z",
+      "message": "support swagger spec in yaml format"
+    },
+    {
+      "sha": "8b3c668563d4c7d08919c273dfa27b12eb22d35c",
+      "author_login": "dargad",
+      "authored_at": "2018-12-07T10:14:08Z",
+      "message": "Add snapcraft.yaml to enable snap builds."
+    },
+    {
+      "sha": "800e2e9619e31438d1a3ecf8d94695614a0fef86",
+      "author_login": "eliangcs",
+      "authored_at": "2018-11-04T13:54:57Z",
+      "message": "Bump version to 1.0.0 :tada:"
+    },
+    {
+      "sha": "c50050008c4edcedc10a8f1499d768e8c0582083",
+      "author_login": "eliangcs",
+      "authored_at": "2018-11-03T14:46:34Z",
+      "message": "Merge pull request #145 from KiranBaktha/my_tropical_branch"
+    },
+    {
+      "sha": "b65f6e3c1653743fe932ecbf348f50b11f221a01",
+      "author_login": "KiranBaktha",
+      "authored_at": "2018-09-25T20:07:07Z",
+      "message": "Trailing slash in path #143"
+    },
+    {
+      "sha": "6b69843edc55a6325e29719865eb4f922330d0c7",
+      "author_login": "KiranBaktha",
+      "authored_at": "2018-09-24T18:08:20Z",
+      "message": "Issue #126 and add clear console feature"
+    },
+    {
+      "sha": "448cc5e2e36ae34e2a132fbb0ca470f159a88053",
+      "author_login": "eliangcs",
+      "authored_at": "2018-09-24T09:34:21Z",
+      "message": "Merge pull request #144 from KiranBaktha/my_tropical_branch"
+    },
+    {
+      "sha": "964cb9232fec6daba09fef55054c2cad58367c58",
+      "author_login": "KiranBaktha",
+      "authored_at": "2018-09-19T22:35:30Z",
+      "message": "Add HTTP CONNECT request"
+    },
+    {
+      "sha": "87f1e9d82f790bcee650b2cbb377b07c8ed3f20b",
+      "author_login": "eliangcs",
+      "authored_at": "2018-03-07T15:05:25Z",
+      "message": "Bump version to 0.11.2"
+    },
+    {
+      "sha": "d01100391fe364da5af8cc08df1ec3c3bfd3612d",
+      "author_login": "eliangcs",
+      "authored_at": "2018-03-05T04:54:28Z",
+      "message": "Merge pull request #141 from eliangcs/refactor-swagger-basepath"
+    },
+    {
+      "sha": "48eb465ffbed7abd6654f1775bc696d3f5de834c",
+      "author_login": "eliangcs",
+      "authored_at": "2018-02-24T14:48:36Z",
+      "message": "Refactor OpenAPI basePath support added by #140"
+    },
+    {
+      "sha": "5e4a40f1bf9788c05d4fcafe7afe0b2db59b61a7",
+      "author_login": "eliangcs",
+      "authored_at": "2018-02-13T03:32:03Z",
+      "message": "Merge pull request #140 from nheisterkamp/master"
+    },
+    {
+      "sha": "977f3291952a757f937f54c1d6cfa9068e9489c7",
+      "author_login": "nheisterkamp",
+      "authored_at": "2018-01-30T15:27:45Z",
+      "message": "Use host and basePath from OpenAPI spec"
+    },
+    {
+      "sha": "c31c89148ea3001e1e2eb668936cf1242002d2e0",
+      "author_login": "eliangcs",
+      "authored_at": "2018-01-06T14:19:00Z",
+      "message": "Bump version to 0.11.1"
+    },
+    {
+      "sha": "50c769521007cffe15bbc46d4bd909ec791422f6",
+      "author_login": "eliangcs",
+      "authored_at": "2018-01-06T14:17:44Z",
+      "message": "Merge pull request #138 from eliangcs/pin-prompt-toolkit"
+    },
+    {
+      "sha": "a0b002f0223fc49ceb4bfb0ea5d913af0a85ee47",
+      "author_login": "eliangcs",
+      "authored_at": "2018-01-06T13:52:19Z",
+      "message": "pytest does not support Python 3.3"
+    },
+    {
+      "sha": "773c073f162480abf636dc5347c2d85d6d9cf134",
+      "author_login": "eliangcs",
+      "authored_at": "2018-01-06T13:49:59Z",
+      "message": "Fix pip not found on Travis' latest OSX image"
+    },
+    {
+      "sha": "a9bd380d314c9e259db2601a789c253139ccd8d8",
+      "author_login": "eliangcs",
+      "authored_at": "2018-01-02T14:53:15Z",
+      "message": "New year 2018"
+    },
+    {
+      "sha": "e05cf14cfcb523e0972ff060c593952450c208cf",
+      "author_login": "eliangcs",
+      "authored_at": "2018-01-02T14:52:41Z",
+      "message": "Upgrade and pin prompt_toolkit"
+    },
+    {
+      "sha": "0b8255f9f1ef667dd1565ec883db66e78b98fff4",
+      "author_login": "eliangcs",
+      "authored_at": "2017-12-25T04:09:37Z",
+      "message": "Merge pull request #136 from eliangcs/fix-spec-from-http"
+    },
+    {
+      "sha": "409497c22682d251c23b5daf667cb1c6b549ff0c",
+      "author_login": "eliangcs",
+      "authored_at": "2017-12-20T14:28:28Z",
+      "message": "Fix bug: Allow passing a URL to --spec"
+    },
+    {
+      "sha": "0e067680489abff39b6b1e2977cbaf91f5d05cbf",
+      "author_login": "eliangcs",
+      "authored_at": "2017-10-24T14:55:57Z",
+      "message": "Bump version to 0.11.0"
+    },
+    {
+      "sha": "aa8878e6c589ca2ad1ca8b3b5461b6bbf4462714",
+      "author_login": "eliangcs",
+      "authored_at": "2017-09-05T15:40:23Z",
+      "message": "Merge pull request #132 from tardypad/cli_env"
+    },
+    {
+      "sha": "6ee1c938cb1d116c9d54c11303f76599c4766492",
+      "author_login": "tardypad",
+      "authored_at": "2017-09-05T11:12:47Z",
+      "message": "add docs for the cli --env parameter"
+    },
+    {
+      "sha": "4524060a85848923109ac4ba712fa7502566d975",
+      "author_login": "tardypad",
+      "authored_at": "2017-09-01T15:24:48Z",
+      "message": "validate that file passed as a cli option exists"
+    },
+    {
+      "sha": "433993c807b5b0cf3f5b605e9ced5981b55a780d",
+      "author_login": "tardypad",
+      "authored_at": "2017-09-01T15:18:53Z",
+      "message": "add cli --env parameter"
+    },
+    {
+      "sha": "9fd9ffbbea861d25a370a600f78337c8a70c9ebe",
+      "author_login": "eliangcs",
+      "authored_at": "2017-08-31T15:12:26Z",
+      "message": "Merge pull request #130 from lonetwin/master"
+    },
+    {
+      "sha": "27e41c284eff71d0c6f1f0855740482ca70cd314",
+      "author_login": "lonetwin",
+      "authored_at": "2017-08-30T21:58:46Z",
+      "message": "Changed InMemoryHistory to FileHistory as recommended"
+    },
+    {
+      "sha": "bc1617f625590954ce0a7511ccab236c7e7d86be",
+      "author_login": "lonetwin",
+      "authored_at": "2017-08-29T20:18:18Z",
+      "message": "Enable persistent history support."
+    },
+    {
+      "sha": "aff4612e957fd007655e3901086889f3b70a0ba4",
+      "author_login": "eliangcs",
+      "authored_at": "2017-08-22T07:25:06Z",
+      "message": "Merge pull request #129 from eliangcs/drop-python26"
+    },
+    {
+      "sha": "cca3217b135d1bae144592a14dbe8c035c62fab7",
+      "author_login": "eliangcs",
+      "authored_at": "2017-08-22T07:06:44Z",
+      "message": "Drop Python 2.6 compatibility"
+    },
+    {
+      "sha": "72c7696cb998488c2d0529fe6b8f75dc36f78cc9",
+      "author_login": "eliangcs",
+      "authored_at": "2017-08-21T03:35:11Z",
+      "message": "Merge pull request #127 from vtrbtf/var_expansion"
+    },
+    {
+      "sha": "e2faaa1e2ada1992d48781ddaab8ba962cc626d1",
+      "author_login": "eliangcs",
+      "authored_at": "2017-08-20T14:35:00Z",
+      "message": "Merge pull request #128 from vtrbtf/data.json-gitignore"
+    },
+    {
+      "sha": "6d57836ddcfa43f1521926291dc8cf57686dca1f",
+      "author_login": "vtrbtf",
+      "authored_at": "2017-08-18T22:58:49Z",
+      "message": "Ignoring data.json file which is generated from tests"
+    },
+    {
+      "sha": "47f6eea437f18b8547a52813e079a6118d243dad",
+      "author_login": "vtrbtf",
+      "authored_at": "2017-08-18T22:56:51Z",
+      "message": "Expanding vars from target filename"
+    },
+    {
+      "sha": "b814f6a36a0c724ce60a21f52ef5c71708d39395",
+      "author_login": "eliangcs",
+      "authored_at": "2017-08-02T04:45:06Z",
+      "message": "Bump version to 0.10.2"
+    },
+    {
+      "sha": "cc89f938eda046dd348003f1ead010246221a977",
+      "author_login": "eliangcs",
+      "authored_at": "2017-08-02T04:28:40Z",
+      "message": "Merge pull request #125 from delirious-lettuce/pip_install_ordereddict"
+    },
+    {
+      "sha": "dea31e52ac7c006601b0755f3bb2db9528ed723d",
+      "author_login": "delirious-lettuce",
+      "authored_at": "2017-08-01T14:59:35Z",
+      "message": "Add conditional dependency for Python 2.6 only"
+    },
+    {
+      "sha": "789072d288d4f76a351d9b6c3ba0a7f8fcf399a4",
+      "author_login": "delirious-lettuce",
+      "authored_at": "2017-08-01T14:57:46Z",
+      "message": "Remove unnecessary omit (`ordereddict.py` is now gone)"
+    },
+    {
+      "sha": "7a798d90b7d0897fb623dbfd4d5b19311043ffc1",
+      "author_login": "delirious-lettuce",
+      "authored_at": "2017-08-01T14:56:58Z",
+      "message": "Remove `ordereddict.py` (now conditionally installed for 2.6)"
+    },
+    {
+      "sha": "1a81d9425eb40f3938eb34aabd499f2f825fa876",
+      "author_login": "delirious-lettuce",
+      "authored_at": "2017-08-01T14:55:52Z",
+      "message": "Modify `ordereddict` imports"
+    },
+    {
+      "sha": "ac9fb089d071d0eced7a57bf43bfce06b036d2f7",
+      "author_login": "eliangcs",
+      "authored_at": "2017-07-31T05:02:44Z",
+      "message": "Merge pull request #123 from delirious-lettuce/remove_extra_arg"
+    },
+    {
+      "sha": "b7653d578ce04583306b55465a18c12bcd7549b4",
+      "author_login": "delirious-lettuce",
+      "authored_at": "2017-07-28T16:27:15Z",
+      "message": "Remove extra argument from `six.u` function call"
+    },
+    {
+      "sha": "f58a85f14a773b0754ec868792bd17c7fe96cf21",
+      "author_login": "eliangcs",
+      "authored_at": "2017-07-28T05:23:23Z",
+      "message": "Merge pull request #122 from delirious-lettuce/startswith_tuples"
+    },
+    {
+      "sha": "81de84f2d4f55a9f615591b879cb249a35b8bd49",
+      "author_login": "eliangcs",
+      "authored_at": "2017-07-28T04:05:07Z",
+      "message": "Merge pull request #121 from delirious-lettuce/fix_typos"
+    },
+    {
+      "sha": "009f3b202a81d6f334dd0d53efb5234cd5f8766b",
+      "author_login": "delirious-lettuce",
+      "authored_at": "2017-07-28T03:54:50Z",
+      "message": "Use tuples inside of `str.startswith` (for multiple checks)"
+    },
+    {
+      "sha": "348a3442a3bc9e68ccefc42a1cd6a99ecdf813aa",
+      "author_login": "delirious-lettuce",
+      "authored_at": "2017-07-28T03:32:03Z",
+      "message": "Fix typos:"
+    },
+    {
+      "sha": "4707aecd4276e16218d6edfbdd6aea919e44c16c",
+      "author_login": "eliangcs",
+      "authored_at": "2017-07-13T14:21:45Z",
+      "message": "Merge pull request #119 from Poetro/patch-1"
+    },
+    {
+      "sha": "cbd33c81ed7971ff6ff13c72bb5c1626127457ba",
+      "author_login": "Poetro",
+      "authored_at": "2017-07-13T14:00:56Z",
+      "message": "Using properly generater variable name"
+    },
+    {
+      "sha": "102f3937901d492d48857bf3e516b736195b53ff",
+      "author_login": "eliangcs",
+      "authored_at": "2017-05-11T12:18:29Z",
+      "message": "Bump version to 0.10.1"
+    },
+    {
+      "sha": "1eb8b45de48eda59bb78bf1fef5cb2c9278765b9",
+      "author_login": "eliangcs",
+      "authored_at": "2017-05-11T12:15:15Z",
+      "message": "Merge pull request #117 from eliangcs/issue/116-windows-spec-path"
+    },
+    {
+      "sha": "b14fe5d43502f46301da249a09f7d8f8e55a4db9",
+      "author_login": "eliangcs",
+      "authored_at": "2017-05-10T04:31:25Z",
+      "message": "Fix #116: --spec local path issue on Windows"
+    },
+    {
+      "sha": "cb963867e816766057281e53bff60340b53bc05c",
+      "author_login": "eliangcs",
+      "authored_at": "2017-04-17T13:45:14Z",
+      "message": "Merge pull request #114 from fogine/feature/cd-without-url"
+    },
+    {
+      "sha": "c2293bd6a648470a060bac1172329c6e1121806b",
+      "author_login": null,
+      "authored_at": "2017-04-08T16:28:17Z",
+      "message": "improve test case"
+    },
+    {
+      "sha": "b6dce71c0ff976fd9285acee18e1400950c800c5",
+      "author_login": null,
+      "authored_at": "2017-04-08T16:20:49Z",
+      "message": "when `cd` cmd is called without url, reset base url to protocol + hostname"
+    },
+    {
+      "sha": "56448cd4f0bf5be762f2415e04cadbaa1fdffcc8",
+      "author_login": "eliangcs",
+      "authored_at": "2017-04-16T15:46:17Z",
+      "message": "Merge pull request #115 from eliangcs/dev"
+    },
+    {
+      "sha": "7b1369a8bf314a9ada17ffb2eb44af2d6b211eaa",
+      "author_login": "eliangcs",
+      "authored_at": "2017-04-16T09:28:52Z",
+      "message": "Change license back to MIT"
+    },
+    {
+      "sha": "41674d91646df41e4f55b5c39f4d90df741bee08",
+      "author_login": "eliangcs",
+      "authored_at": "2017-04-16T09:10:27Z",
+      "message": "Add docs back"
+    },
+    {
+      "sha": "fecf502bad37e60bf28801e73c6b1dfbbeb8df0c",
+      "author_login": "eliangcs",
+      "authored_at": "2017-03-28T09:22:36Z",
+      "message": "Bump version to 0.10.0"
+    },
+    {
+      "sha": "aceabbdaa5242b33b6a3176eb41d7e83b2d3a9e1",
+      "author_login": "eliangcs",
+      "authored_at": "2017-03-28T09:21:50Z",
+      "message": "Fix urlopen in Python 2"
+    },
+    {
+      "sha": "91417ed8df3c72cac7aa6f2935e42c3b6dd24115",
+      "author_login": "eliangcs",
+      "authored_at": "2017-03-28T09:07:31Z",
+      "message": "Merge branch 'master' into dev"
+    },
+    {
+      "sha": "29a25dc76516c779082f6be9fed6b710b8eb36a6",
+      "author_login": "eliangcs",
+      "authored_at": "2017-03-27T16:03:54Z",
+      "message": "Remove donation and promote early access"
+    },
+    {
+      "sha": "9e5f4b33fb592200cd9b199c54cb1d80fc4a0486",
+      "author_login": "eliangcs",
+      "authored_at": "2017-03-27T15:26:52Z",
+      "message": "Bump version to 0.9.3"
+    },
+    {
+      "sha": "42907f7600d0e1404b4de66a02a38acba2172ce4",
+      "author_login": "eliangcs",
+      "authored_at": "2017-03-27T15:26:17Z",
+      "message": "Change LICENSE and move docs to its own repo"
+    },
+    {
+      "sha": "a1eccda7f371494b7546e069e8771a20946ef74d",
+      "author_login": "eliangcs",
+      "authored_at": "2017-03-23T04:46:30Z",
+      "message": "Merge branch 'issue/63-ls-swagger' into dev"
+    }
+  ],
+  "issues": [
+    {
+      "number": 221,
+      "title": "Pruebas",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-04T01:13:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 220,
+      "title": "Fix bare -v to show version and exit",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-18T19:41:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 218,
+      "title": "Refactor tree data structure code for better readability and maintain…",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-05-21T06:03:21Z",
+      "closed_at": "2024-06-04T11:21:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 217,
+      "title": "PyOpenSSLContext has no attribute get_ciphers",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-27T08:10:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 216,
+      "title": "Support openapi 'servers'",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-24T14:46:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 215,
+      "title": "An error occurs during installation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-15T16:42:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 214,
+      "title": "Cookies auto setting invalid.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-27T19:51:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 213,
+      "title": "Investigate increasing Maintainer Productivity with Pull Requests Environments",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-24T06:20:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 211,
+      "title": "Add http-prompt to Homebrew package manager",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-21T21:11:30Z",
+      "closed_at": "2022-01-21T21:56:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 210,
+      "title": "how to remove pager?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-12T00:32:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 209,
+      "title": "The command line param -v show the version but launch the cli",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-14T11:33:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 208,
+      "title": "The command line param --auth is showed as url",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-14T11:30:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 207,
+      "title": "Support for setting variables based on response data",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-10-01T03:40:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 206,
+      "title": "Visualize tree structure",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-23T06:54:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 205,
+      "title": "Update options to include `--raw`",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-07T14:36:40Z",
+      "closed_at": "2021-09-09T08:19:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 204,
+      "title": "Implemented new command: tree",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-08-20T18:04:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 203,
+      "title": "http-prompt producing different 'data' than httpie",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-19T18:49:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 202,
+      "title": "Continue Python 2 removal clean-up",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-05T16:25:57Z",
+      "closed_at": "2021-08-05T16:30:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 201,
+      "title": "Fix flake8 errors",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-05T16:01:04Z",
+      "closed_at": "2021-08-05T16:07:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 200,
+      "title": "Polish Python 2.7 removal",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-05T15:55:13Z",
+      "closed_at": "2021-08-05T15:59:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 199,
+      "title": "Fix `DeprecationWarning: invalid sequence`",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-05T15:28:52Z",
+      "closed_at": "2021-08-05T15:45:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 198,
+      "title": "Not performing requests on Windows",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-04T20:40:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 197,
+      "title": "Bug: OpenAPI schemas give wrong completion when the root of the API is a path relative to the domain",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-14T06:18:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 195,
+      "title": "gzip'd spec and params for http-oauth2 plugin",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-01T10:13:40Z",
+      "closed_at": "2021-06-01T10:13:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 194,
+      "title": "swagger yaml issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-20T12:00:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 193,
+      "title": "Preview request?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-04-24T02:03:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 192,
+      "title": "Create ahlaam.cadey.10",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-04-05T19:05:07Z",
+      "closed_at": "2021-04-05T19:06:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 191,
+      "title": "Update test_interaction.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-21T16:29:36Z",
+      "closed_at": "2021-03-21T18:48:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 190,
+      "title": "Video Interview for v2.1.0 OpenAPI Support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-15T16:52:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 189,
+      "title": "Use standard shlex.quote",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-02-16T07:47:07Z",
+      "closed_at": "2021-02-16T08:19:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 188,
+      "title": "issue #172: spec/buggy Path/Operation handling",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-02-07T10:27:02Z",
+      "closed_at": "2021-02-07T18:36:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 187,
+      "title": "change shortcut for autocomplete?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-03T02:10:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 186,
+      "title": "Add Discord link to README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-14T18:16:55Z",
+      "closed_at": "2021-01-14T18:18:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 185,
+      "title": "Recursive mode & more detailed`ls`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-14T15:39:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 184,
+      "title": "Any chance to port to prompt_toolkit 3?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-27T22:46:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 177,
+      "title": "--verbose Doesn't show request headers",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-15T17:01:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 176,
+      "title": "Support Tab completion for files when in prompt mode?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-09T15:35:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 175,
+      "title": "Issue running 1.0.0 on Python 3 (resolved by installing http-prompt under Python 2)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-09T15:18:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 174,
+      "title": "Support for piping into scripts that use escape codes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-03T17:12:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 173,
+      "title": "Sending `GET` on `post` with empty body",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-26T10:16:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 172,
+      "title": "TypeError when a json schema is defined with --spec option",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-24T21:02:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 171,
+      "title": "Exception handling when the json OpenApi schema url is not found",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-24T20:58:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 170,
+      "title": "Support httpie >= 2.0.0",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-21T12:43:48Z",
+      "closed_at": "2020-08-17T14:54:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 169,
+      "title": "Require httpie v1 instead of v2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-21T08:52:49Z",
+      "closed_at": "2020-07-21T12:44:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 168,
+      "title": "Compatibility with httpie v2",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-20T07:00:31Z",
+      "closed_at": "2020-08-17T14:54:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 167,
+      "title": "fix #166 passing arguments to httpie",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-21T09:47:25Z",
+      "closed_at": "2020-08-17T15:43:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 166,
+      "title": "problem with passing args to httpie",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-03-10T11:43:35Z",
+      "closed_at": "2020-08-18T17:37:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 165,
+      "title": "Content-Type:application/x-www-form-urlencoded is ignored.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-02-27T16:58:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 164,
+      "title": "http: error: 'GET' is not a valid value",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-22T14:26:29Z",
+      "closed_at": "2020-08-18T17:39:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 163,
+      "title": "Display current Vi mode",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-22T10:40:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 162,
+      "title": "--json: error: InvalidSchema: Missing dependencies for SOCKS support.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-16T13:15:47Z",
+      "closed_at": "2020-01-16T13:18:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 161,
+      "title": "--verify=no doesn't work until --verbose is on",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-15T00:50:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 160,
+      "title": "Support for custom methods (or WebDAV methods)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-09-18T12:51:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 159,
+      "title": "Add custom prompt text",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-08-09T11:34:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 158,
+      "title": "Allowing usage of external tools for creating nested json objects",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-07-05T05:02:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 157,
+      "title": "OpenAPI 3 support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-21T14:43:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 156,
+      "title": "File upload support",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-06-14T07:56:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 155,
+      "title": "How do you scroll up to headers?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-22T10:53:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 154,
+      "title": "Collects parameters directly below of the endpoint paths",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-18T01:22:25Z",
+      "closed_at": "2021-02-07T22:23:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 153,
+      "title": "handling for the broken methods",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-05-17T22:12:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 152,
+      "title": "Update to prompt_toolkit 2.0.x - take over jonathanslenders's works",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-20T06:33:42Z",
+      "closed_at": "2021-08-05T15:23:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 151,
+      "title": "Update yaml.load call in cli.py to use SafeLoader",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-14T19:27:13Z",
+      "closed_at": "2021-08-05T15:45:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 150,
+      "title": "support parameter references in swagger spec",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-01-11T23:04:31Z",
+      "closed_at": "2020-08-17T15:26:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 149,
+      "title": "support swagger spec in yaml format",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-01-11T22:59:20Z",
+      "closed_at": "2019-01-15T23:00:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 148,
+      "title": "Distribute using Homebrew",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-31T19:07:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 147,
+      "title": "Use latest version of prompt-toolkit",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-12-18T12:07:18Z",
+      "closed_at": "2021-08-05T15:24:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 146,
+      "title": "Add snapcraft.yaml to enable snap builds.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-12-07T10:16:22Z",
+      "closed_at": "2020-08-14T19:06:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 145,
+      "title": "My tropical branch",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-25T20:09:38Z",
+      "closed_at": "2018-11-03T14:46:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 144,
+      "title": "Add HTTP CONNECT request",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-19T22:36:57Z",
+      "closed_at": "2018-09-24T09:34:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 143,
+      "title": "OpenAPI: Failure when having a root(\"/\") path",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-07-06T00:00:59Z",
+      "closed_at": "2018-11-04T14:04:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 142,
+      "title": "Missing HTTP CONNECT method",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-04-11T23:19:27Z",
+      "closed_at": "2018-11-04T14:05:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 141,
+      "title": "Refactor OpenAPI basePath support added by #140",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-02-24T14:50:20Z",
+      "closed_at": "2018-03-05T04:54:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 140,
+      "title": "Use host and basePath from OpenAPI spec",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-01-30T16:33:40Z",
+      "closed_at": "2018-02-13T03:32:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 139,
+      "title": "Allow to register an initialisation process",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-05T11:52:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 138,
+      "title": "Upgrade and pin prompt_toolkit",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-01-02T14:56:06Z",
+      "closed_at": "2018-01-06T14:17:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 137,
+      "title": "[WIP] Upgrade to prompt_toolkit 2.0",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-30T17:39:52Z",
+      "closed_at": "2021-08-05T15:20:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 136,
+      "title": "Fix bug: Allow passing a URL to --spec",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-20T14:29:17Z",
+      "closed_at": "2017-12-25T04:09:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 135,
+      "title": "GET request may be sent unknown params",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-11-29T13:56:08Z",
+      "closed_at": "2017-12-05T04:01:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 134,
+      "title": "Make it possible to see what the request will look like",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-09-29T18:58:11Z",
+      "closed_at": "2017-10-08T05:12:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 133,
+      "title": "Enable to use external editor to make request body",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-09-20T22:51:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 132,
+      "title": "add --env cli parameter to preload environment",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-09-04T14:23:40Z",
+      "closed_at": "2017-09-05T15:40:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 131,
+      "title": "load HTTP Prompt environment from command line",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-31T15:01:09Z",
+      "closed_at": "2017-09-05T15:40:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 130,
+      "title": "Enable persistent history support.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-29T20:20:14Z",
+      "closed_at": "2017-08-31T15:12:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 129,
+      "title": "Drop Python 2.6 compatibility",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-22T07:07:35Z",
+      "closed_at": "2017-08-22T07:25:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 128,
+      "title": "Ignoring data.json file which is generated from tests",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-18T23:04:24Z",
+      "closed_at": "2017-08-20T14:35:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 127,
+      "title": "Expanding vars from target filename",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-18T23:01:51Z",
+      "closed_at": "2017-08-21T03:35:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 126,
+      "title": "[Bug] Cookie related AttributeError under Python 2",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-03T21:55:59Z",
+      "closed_at": "2018-11-04T14:05:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 125,
+      "title": "Pip install ordereddict",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-01T15:37:04Z",
+      "closed_at": "2017-08-02T04:28:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 124,
+      "title": "Python 2.6: `ordereddict` from PyPI?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-07-28T19:10:15Z",
+      "closed_at": "2017-08-02T04:28:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 123,
+      "title": "Remove extra argument from `six.u` function call",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-07-28T16:33:21Z",
+      "closed_at": "2017-07-31T05:02:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 122,
+      "title": "Use tuples inside of `str.startswith` (for multiple checks)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-07-28T04:03:18Z",
+      "closed_at": "2017-07-28T05:23:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 121,
+      "title": "Fix typos",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-07-28T03:34:13Z",
+      "closed_at": "2017-07-28T04:05:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 120,
+      "title": "Support output redirect with env variables",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-07-13T14:29:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 119,
+      "title": "Using properly generater variable name",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-07-13T14:01:12Z",
+      "closed_at": "2017-07-13T14:21:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 118,
+      "title": "http-prompt fails to start",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-06-27T13:17:26Z",
+      "closed_at": "2017-06-27T23:26:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 117,
+      "title": "Fix #116: --spec local path issue on Windows",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-05-10T04:33:28Z",
+      "closed_at": "2017-05-11T12:15:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 116,
+      "title": "--spec with absolute local file path crashes on Windows",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-04-18T05:02:10Z",
+      "closed_at": "2017-05-11T12:15:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 115,
+      "title": "Swagger integration and back to MIT",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-04-16T15:03:41Z",
+      "closed_at": "2017-04-16T15:46:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 114,
+      "title": "when `cd` cmd is called without url, reset base url to protocol + hostname",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-04-08T16:23:52Z",
+      "closed_at": "2017-04-17T13:45:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 113,
+      "title": "Swagger integration improvements",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-04-08T15:15:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "eliangcs",
+      "contributions": 278
+    },
+    {
+      "login": "jkbrzt",
+      "contributions": 18
+    },
+    {
+      "login": "delirious-lettuce",
+      "contributions": 7
+    },
+    {
+      "login": "BoboTiG",
+      "contributions": 7
+    },
+    {
+      "login": "tardypad",
+      "contributions": 3
+    },
+    {
+      "login": "KiranBaktha",
+      "contributions": 3
+    },
+    {
+      "login": "dfrommi",
+      "contributions": 2
+    },
+    {
+      "login": "karlcow",
+      "contributions": 2
+    },
+    {
+      "login": "michaelcypher",
+      "contributions": 2
+    },
+    {
+      "login": "vtrbtf",
+      "contributions": 2
+    },
+    {
+      "login": "lonetwin",
+      "contributions": 2
+    },
+    {
+      "login": "ace-wu",
+      "contributions": 1
+    },
+    {
+      "login": "alansill",
+      "contributions": 1
+    },
+    {
+      "login": "dargad",
+      "contributions": 1
+    },
+    {
+      "login": "elenalape",
+      "contributions": 1
+    },
+    {
+      "login": "thegrammarnazi",
+      "contributions": 1
+    },
+    {
+      "login": "jonathanslenders",
+      "contributions": 1
+    },
+    {
+      "login": "lalmeras",
+      "contributions": 1
+    },
+    {
+      "login": "tangestani",
+      "contributions": 1
+    },
+    {
+      "login": "nheisterkamp",
+      "contributions": 1
+    },
+    {
+      "login": "Poetro",
+      "contributions": 1
+    },
+    {
+      "login": "rmax",
+      "contributions": 1
+    },
+    {
+      "login": "tsabirgaliev",
+      "contributions": 1
+    },
+    {
+      "login": "timka",
+      "contributions": 1
+    },
+    {
+      "login": "Yegorov",
+      "contributions": 1
+    },
+    {
+      "login": "eungjun-yi",
+      "contributions": 1
+    },
+    {
+      "login": "SirBraneDamuj",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v2.1.0",
+      "published_at": "2021-03-05T14:17:53Z"
+    },
+    {
+      "tag": "v2.0.0",
+      "published_at": "2021-03-05T14:06:37Z"
+    },
+    {
+      "tag": "v1.0.0",
+      "published_at": "2018-11-04T14:02:44Z"
+    },
+    {
+      "tag": "v0.11.2",
+      "published_at": "2018-03-07T15:11:38Z"
+    },
+    {
+      "tag": "v0.11.1",
+      "published_at": "2018-01-06T14:22:21Z"
+    },
+    {
+      "tag": "v0.11.0",
+      "published_at": "2017-10-24T15:06:17Z"
+    },
+    {
+      "tag": "v0.10.2",
+      "published_at": "2017-08-02T04:50:19Z"
+    },
+    {
+      "tag": "v0.10.1",
+      "published_at": "2017-05-11T13:28:25Z"
+    },
+    {
+      "tag": "v0.10.0",
+      "published_at": "2017-04-16T15:48:04Z"
+    },
+    {
+      "tag": "v0.9.3",
+      "published_at": "2017-03-27T16:03:25Z"
+    },
+    {
+      "tag": "v0.9.2",
+      "published_at": "2017-02-15T16:11:54Z"
+    },
+    {
+      "tag": "v0.9.1",
+      "published_at": "2017-01-23T13:48:32Z"
+    },
+    {
+      "tag": "v0.9.0",
+      "published_at": "2017-01-15T05:39:08Z"
+    },
+    {
+      "tag": "v0.8.0",
+      "published_at": "2016-11-16T13:36:34Z"
+    },
+    {
+      "tag": "v0.7.0",
+      "published_at": "2016-10-22T03:29:39Z"
+    },
+    {
+      "tag": "v0.6.0",
+      "published_at": "2016-09-18T07:01:32Z"
+    },
+    {
+      "tag": "v0.5.0",
+      "published_at": "2016-09-16T02:06:53Z"
+    }
+  ],
+  "collected_at": "2026-09-07T11:16:54.408729Z"
+}

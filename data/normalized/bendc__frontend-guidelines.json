@@ -1,0 +1,878 @@
+{
+  "full_name": "bendc/frontend-guidelines",
+  "owner": "bendc",
+  "name": "frontend-guidelines",
+  "url": "https://github.com/bendc/frontend-guidelines",
+  "description": "Some HTML, CSS and JS best practices.",
+  "primary_language": null,
+  "topics": [],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 9116,
+  "forks": 677,
+  "open_issues": 5,
+  "created_at": "2015-02-21T12:46:17Z",
+  "pushed_at": "2023-12-30T16:43:09Z",
+  "updated_at": "2026-09-06T05:47:55Z",
+  "commits": [
+    {
+      "sha": "a6e4857b728b27889a24b916c069b35e76bfa3e6",
+      "author_login": "bendc",
+      "authored_at": "2019-05-22T21:26:22Z",
+      "message": "Merge pull request #762 from zcorpan/patch-1"
+    },
+    {
+      "sha": "2f4e097efbbd0daa36d0d419578f62770bb2b36d",
+      "author_login": "zcorpan",
+      "authored_at": "2019-05-22T20:17:49Z",
+      "message": "UTF-8 is no longer optional"
+    },
+    {
+      "sha": "148432e1e3ea2e93b484854a222ea83ad3b71b63",
+      "author_login": "bendc",
+      "authored_at": "2018-08-01T23:34:40Z",
+      "message": "Merge pull request #761 from yazinsai/patch-1"
+    },
+    {
+      "sha": "b4c5577fabd652e1a986db2185c6b290ab91b371",
+      "author_login": "yazinsai",
+      "authored_at": "2018-08-01T11:11:36Z",
+      "message": "Fix typo"
+    },
+    {
+      "sha": "5cdaa12f9165b1f45ee1453ef81a85bf94b1346b",
+      "author_login": "bendc",
+      "authored_at": "2018-05-08T14:57:24Z",
+      "message": "Update"
+    },
+    {
+      "sha": "9e3cda3b9a0f6f906efa68e6f2db5c63bc21f4a9",
+      "author_login": null,
+      "authored_at": "2015-06-01T07:37:37Z",
+      "message": "Better variables example"
+    },
+    {
+      "sha": "66fd95f4621aac5daaa9a5041e54aaa1bc409a41",
+      "author_login": null,
+      "authored_at": "2015-05-21T08:38:51Z",
+      "message": "Recursive function"
+    },
+    {
+      "sha": "b4f6bfa059c3e4f3c211b03992d6bc3366e8d3fe",
+      "author_login": null,
+      "authored_at": "2015-05-18T20:30:40Z",
+      "message": "Curry"
+    },
+    {
+      "sha": "9cdf3889d8417e0c268387f3a224b8ea06cd7fed",
+      "author_login": null,
+      "authored_at": "2015-04-27T13:57:10Z",
+      "message": "Proper Map constructor"
+    },
+    {
+      "sha": "d03a9d09f0087920b77cb0c46fb2be02cdbb65db",
+      "author_login": null,
+      "authored_at": "2015-03-02T08:37:57Z",
+      "message": "Typos"
+    },
+    {
+      "sha": "8f45d53cbb92275f1865c1a4ed2398b63a777d7c",
+      "author_login": null,
+      "authored_at": "2015-03-02T08:36:01Z",
+      "message": "Composition: isolate shared methods for clarity"
+    },
+    {
+      "sha": "80b69cadaff1c712f995fcfffbbcb570637df863",
+      "author_login": null,
+      "authored_at": "2015-02-26T11:13:16Z",
+      "message": "Label in brevity guideline"
+    },
+    {
+      "sha": "53db1deac1e7bc69df0d5f19f71598848a092086",
+      "author_login": null,
+      "authored_at": "2015-02-26T10:48:47Z",
+      "message": "Box model and units clarified"
+    },
+    {
+      "sha": "07d7c8df05a70bb418dede723fe4723d76cea6f2",
+      "author_login": null,
+      "authored_at": "2015-02-24T15:53:38Z",
+      "message": "Closing tags for clarity"
+    },
+    {
+      "sha": "8f43addbc940f304e8cd125c5f86dd43184f2b1b",
+      "author_login": null,
+      "authored_at": "2015-02-23T22:35:25Z",
+      "message": "Objects as Maps"
+    },
+    {
+      "sha": "ae263d47c161f48961512d7df93ccbac67b157cd",
+      "author_login": null,
+      "authored_at": "2015-02-23T09:36:23Z",
+      "message": "Guidelines"
+    },
+    {
+      "sha": "27153b2eabd76e391e4623fe5eadf1524e520f35",
+      "author_login": null,
+      "authored_at": "2015-02-23T09:35:05Z",
+      "message": "Guidelines"
+    },
+    {
+      "sha": "1c00dc2f212f49966b24d1235aa357ddcd762b43",
+      "author_login": null,
+      "authored_at": "2015-02-23T09:30:59Z",
+      "message": "Guidelines"
+    },
+    {
+      "sha": "23a7e627ae6b361164c824ccb630693d80c3a08f",
+      "author_login": null,
+      "authored_at": "2015-02-23T09:27:02Z",
+      "message": "Guidelines"
+    },
+    {
+      "sha": "e50989de2075d9f7d22a9d3ebab40f77bc4a52c7",
+      "author_login": null,
+      "authored_at": "2015-02-21T12:47:16Z",
+      "message": "JS guidelines"
+    }
+  ],
+  "issues": [
+    {
+      "number": 774,
+      "title": "Learn",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-09-25T20:10:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 773,
+      "title": "What is HTML5?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-08-30T19:24:23Z",
+      "closed_at": "2025-09-07T19:58:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 772,
+      "title": "Gave Structure To Readme.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-12-30T16:43:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 771,
+      "title": "Front end practical ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-30T07:32:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 770,
+      "title": "[FEATURE]: Refactor README.md",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-10T21:43:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 769,
+      "title": "making it more interesting to learn",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-09-14T06:51:37Z",
+      "closed_at": "2022-09-14T07:22:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 768,
+      "title": "How can I add transition to <details> property\n",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-11-14T19:24:32Z",
+      "closed_at": "2022-09-14T07:23:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 767,
+      "title": "improve docs",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-15T08:08:12Z",
+      "closed_at": "2020-10-15T14:46:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 766,
+      "title": "grammatical errors fixed",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-10-02T10:09:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 765,
+      "title": "Add semicolon",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-01T12:56:54Z",
+      "closed_at": "2020-10-01T13:21:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 764,
+      "title": "css positions update",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-01T11:34:29Z",
+      "closed_at": "2020-10-01T11:40:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 763,
+      "title": "Added the use of 3d animations",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-10-07T12:27:24Z",
+      "closed_at": "2019-10-07T16:43:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 762,
+      "title": "UTF-8 is no longer optional",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-22T20:18:55Z",
+      "closed_at": "2019-05-22T21:26:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 761,
+      "title": "Fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-01T11:11:43Z",
+      "closed_at": "2018-08-01T23:34:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 760,
+      "title": "Incorrect semantics (brevity section)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-28T14:43:44Z",
+      "closed_at": "2017-10-28T14:47:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 759,
+      "title": "Missing \"new\" keyword?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-06-14T10:05:29Z",
+      "closed_at": "2018-05-08T14:59:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 758,
+      "title": "frontend-guidelines-zh-CN(前端指南汉化)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-02-22T05:42:59Z",
+      "closed_at": "2018-05-08T15:00:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 757,
+      "title": "fixing some sentences",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-07-17T18:44:48Z",
+      "closed_at": "2016-07-18T09:29:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 756,
+      "title": "add a chinese version link",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-03-15T16:39:02Z",
+      "closed_at": "2018-05-08T15:05:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 755,
+      "title": "Caching: Remove the func around the good example",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-01-19T16:36:45Z",
+      "closed_at": "2018-05-08T15:05:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 754,
+      "title": "Updated syntax",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-11-11T01:08:12Z",
+      "closed_at": "2018-05-08T15:00:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 753,
+      "title": "Double quote missing on some HTML property values",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-11-11T00:59:32Z",
+      "closed_at": "2018-05-08T15:00:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 752,
+      "title": "Both object iterations mentioned are slow. Use native for loop",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-08-09T21:59:46Z",
+      "closed_at": "2015-08-10T17:31:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 751,
+      "title": "Added a new guideline",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-06-30T12:32:58Z",
+      "closed_at": "2015-06-30T12:39:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 750,
+      "title": "Hiram",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-06-09T18:16:50Z",
+      "closed_at": "2015-06-09T19:35:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 749,
+      "title": "IIFE's and return statements over if, else if, else and switch statements",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-05-15T14:33:58Z",
+      "closed_at": "2015-05-17T15:20:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 748,
+      "title": "keep \"<head>\" and \"<body>\" so that IE < 10 is working",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-04-24T21:53:21Z",
+      "closed_at": "2015-05-21T08:55:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 747,
+      "title": "Small note about Arrow function compatibility",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-04-11T18:35:19Z",
+      "closed_at": "2015-04-13T07:18:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 746,
+      "title": "Brevity updated",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-03-09T02:20:38Z",
+      "closed_at": "2015-04-13T07:19:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 745,
+      "title": "head element",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-03-09T01:20:57Z",
+      "closed_at": "2015-03-31T11:13:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 744,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-03-08T14:14:31Z",
+      "closed_at": "2015-05-21T08:55:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 742,
+      "title": "ArrowFunctionExpression is not supported",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-03-08T02:16:43Z",
+      "closed_at": "2015-05-21T08:43:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 741,
+      "title": "Covering WAI-ARIA and form accessibility",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-03-07T18:35:59Z",
+      "closed_at": "2015-05-21T08:47:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 726,
+      "title": "Added Introduction Paragraph",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-03-04T23:37:36Z",
+      "closed_at": "2015-05-21T08:57:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 725,
+      "title": "JS never your performance bottleneck?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-03-04T22:24:34Z",
+      "closed_at": "2015-03-05T08:50:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 724,
+      "title": "html5 why should out developer abandon <body>title and so on ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-03-04T12:10:56Z",
+      "closed_at": "2015-03-04T12:35:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 723,
+      "title": "Adding a Chinese version",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-03-04T10:56:20Z",
+      "closed_at": "2015-03-04T12:36:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 722,
+      "title": "Unusable at this time",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-03-04T07:40:13Z",
+      "closed_at": "2015-03-04T07:50:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 721,
+      "title": "Recursion in JS is actually bad",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-03-03T20:49:23Z",
+      "closed_at": "2015-03-03T21:25:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 720,
+      "title": "Disclaimer",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-03-03T15:50:40Z",
+      "closed_at": "2015-03-03T15:52:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 719,
+      "title": "shows a blank page when i use this code",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-03-02T18:29:24Z",
+      "closed_at": "2015-03-02T18:30:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 718,
+      "title": "Add table of contents",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-03-01T18:52:29Z",
+      "closed_at": "2015-05-21T08:56:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 717,
+      "title": "Hacks",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-03-01T13:45:08Z",
+      "closed_at": "2015-03-02T08:13:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 716,
+      "title": "Justification",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-03-01T11:12:44Z",
+      "closed_at": "2015-03-02T08:13:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "Avoid Curry vs. product.bind()...",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-27T22:15:12Z",
+      "closed_at": "2015-03-02T08:52:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "typo fixed",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-02-27T22:01:00Z",
+      "closed_at": "2015-02-27T22:15:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "Table of contents?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-27T14:41:53Z",
+      "closed_at": "2015-05-21T08:44:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "Don't add leading zeros when using decimals.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-02-27T06:21:29Z",
+      "closed_at": "2015-03-02T08:21:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "What about script async and defer?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-27T03:53:29Z",
+      "closed_at": "2015-03-02T08:16:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "Small typo fixed",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-02-27T01:43:51Z",
+      "closed_at": "2015-03-02T08:39:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "fixed typo in loops",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-02-26T18:12:11Z",
+      "closed_at": "2015-03-02T08:39:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "IE9 needs the body tag...",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-26T18:01:57Z",
+      "closed_at": "2015-03-02T08:11:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "Suggestion: introduction block",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-26T17:30:50Z",
+      "closed_at": "2015-05-21T08:46:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "Consistent spacing",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-02-26T16:50:19Z",
+      "closed_at": "2015-03-02T08:40:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "ES6 Features Unsupported In Most Browsers",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-26T16:19:19Z",
+      "closed_at": "2015-03-02T08:19:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "Use autoprefixer for vendor prefixes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-02-26T15:02:42Z",
+      "closed_at": "2015-03-02T08:23:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "calc() Not fully supported ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-26T14:48:47Z",
+      "closed_at": "2015-03-02T08:15:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "Global box-sizing",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-26T14:46:55Z",
+      "closed_at": "2015-03-02T08:20:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 22,
+      "title": "\"Use shorthand properties\"",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-26T13:36:11Z",
+      "closed_at": "2015-03-02T08:11:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 21,
+      "title": "Html consistency (double quotes)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-02-26T12:35:45Z",
+      "closed_at": "2015-05-21T08:48:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 20,
+      "title": "Fix CSS comment syntax",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-02-26T11:26:56Z",
+      "closed_at": "2015-02-26T12:00:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 19,
+      "title": "Question: why omit <body> and <head>?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-26T11:04:01Z",
+      "closed_at": "2015-02-26T11:06:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 18,
+      "title": "Suggestion: add classes to the HTML semantics example",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-26T11:02:03Z",
+      "closed_at": "2015-02-26T11:05:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17,
+      "title": "Good accessibility in all examples, even the bad ones.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-02-26T10:35:23Z",
+      "closed_at": "2015-02-26T11:15:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 16,
+      "title": "Updated box model as per bendc/frontend-guidelines#2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-02-25T23:20:29Z",
+      "closed_at": "2015-02-26T10:53:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "DOCTYPE instead of doctype?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-25T20:01:56Z",
+      "closed_at": "2015-02-25T20:03:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "Why px over em? ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-25T19:45:50Z",
+      "closed_at": "2015-02-26T10:52:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13,
+      "title": "Added article, section & aside example",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-02-25T19:16:56Z",
+      "closed_at": "2015-02-26T11:09:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 12,
+      "title": "Colors",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-25T18:38:33Z",
+      "closed_at": "2015-02-26T11:03:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 11,
+      "title": "fix Map() example",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-02-25T16:31:39Z",
+      "closed_at": "2015-02-26T11:08:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10,
+      "title": "Extend Semantics",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-25T16:18:12Z",
+      "closed_at": "2015-02-26T11:07:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 9,
+      "title": "Lamda syntax might cause confusion",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-25T15:32:24Z",
+      "closed_at": "2015-02-25T15:35:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 8,
+      "title": "You can eliminate </html>",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-25T15:22:38Z",
+      "closed_at": "2015-02-25T15:27:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 7,
+      "title": "px for font-size?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-25T15:16:55Z",
+      "closed_at": "2015-02-25T15:19:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 6,
+      "title": "The point 'Accessibility'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-25T13:08:07Z",
+      "closed_at": "2015-02-25T13:09:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 5,
+      "title": "Brevity",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-25T12:20:59Z",
+      "closed_at": "2015-02-25T12:33:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4,
+      "title": "Why?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-25T10:20:09Z",
+      "closed_at": "2015-02-26T11:17:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3,
+      "title": "favour px over relative units",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-25T10:16:04Z",
+      "closed_at": "2015-02-25T10:19:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2,
+      "title": "Clarify or reconsider box model guideline",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-24T21:55:43Z",
+      "closed_at": "2015-02-26T10:51:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1,
+      "title": "a website ?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-24T19:10:21Z",
+      "closed_at": "2015-02-24T19:32:07Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "bendc",
+      "contributions": 3
+    },
+    {
+      "login": "zcorpan",
+      "contributions": 1
+    },
+    {
+      "login": "yazinsai",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-09-07T11:16:52.515939Z"
+}

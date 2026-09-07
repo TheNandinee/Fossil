@@ -1,0 +1,886 @@
+{
+  "full_name": "unknwon/go-fundamental-programming",
+  "owner": "unknwon",
+  "name": "go-fundamental-programming",
+  "url": "https://github.com/unknwon/go-fundamental-programming",
+  "description": "《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。",
+  "primary_language": "Go",
+  "topics": [],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 9120,
+  "forks": 2015,
+  "open_issues": 2,
+  "created_at": "2013-03-20T21:54:32Z",
+  "pushed_at": "2023-10-27T01:25:19Z",
+  "updated_at": "2026-09-06T08:36:14Z",
+  "commits": [
+    {
+      "sha": "333668716b19288524288ac6431ccefa7d3f397a",
+      "author_login": "unknwon",
+      "authored_at": "2022-03-22T01:12:44Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "6ffabc17a52e4e5079985ed9174cbc75187610de",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-25T15:53:51Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b91a0c8a39fc4724cc69ae46bde2263755db83f4",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-25T04:20:22Z",
+      "message": "Update lecture14.md"
+    },
+    {
+      "sha": "eb8f44757ba68105a3a9ba2aa16065978ccb6ae7",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-25T04:20:09Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b53bb0228d104a1fed648ef5765b502951f21fb7",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T15:40:52Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "0344c4e0980738318795fce368511b077d4bebc2",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T15:38:03Z",
+      "message": "Update lecture15.md"
+    },
+    {
+      "sha": "7a3f7aff8679cd99fa6920bf824628e7743999fd",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T15:11:12Z",
+      "message": "Update lecture13.md"
+    },
+    {
+      "sha": "d3071d3fde270034b207a0e44d0db38e684f62dc",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T15:02:08Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "294b2eac40bda05a25937ca18d50e3cc1a730542",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T15:01:55Z",
+      "message": "Update lecture12.md"
+    },
+    {
+      "sha": "059ee7d900892a7e25b0b45d401580f75af61163",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T14:44:40Z",
+      "message": "Update lecture10.md"
+    },
+    {
+      "sha": "66c6ab80e4413590929dbc713977853458376258",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T14:42:54Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "10fd91888968873376bde0e28d37d770e87d578e",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T14:41:45Z",
+      "message": "Update lecture11.md"
+    },
+    {
+      "sha": "eafb0c5c6546b6bfe98c31ec716be3245902ebaf",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T14:41:01Z",
+      "message": "Update lecture9.md"
+    },
+    {
+      "sha": "ed257913b5ca6d07c6d69f0f64ab05ffe2f4eb0c",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T14:24:27Z",
+      "message": "Update lecture8.md"
+    },
+    {
+      "sha": "b703d92d8a3b9cf2a465cd429a9ba713794df3f0",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T14:04:00Z",
+      "message": "Update lecture7.md"
+    },
+    {
+      "sha": "d560fcd2b05b5aa1b3632949c28172a46cd53d6d",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T14:03:49Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b98e34e134dd8efe0e59bd5263d053134857155c",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T13:56:15Z",
+      "message": "Update lecture6.md"
+    },
+    {
+      "sha": "0ff40b14187f6175c23b5b99bfc24e61126b5d83",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T13:56:07Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "628aa4971b4c013826ae636e803326840e1bd89b",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T13:49:15Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f31a060dd5ab0c01df47c4ee5a0f71d84c40b477",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T13:49:10Z",
+      "message": "Update lecture5.md"
+    },
+    {
+      "sha": "0469ac4628e8d2e2ae739b4e71ed0ec57d257ea5",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T13:48:45Z",
+      "message": "Update lecture4.md"
+    },
+    {
+      "sha": "1f7ac3fc508eda297a7e7da28f9a90d5a51cc364",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T13:31:04Z",
+      "message": "Update lecture3.md"
+    },
+    {
+      "sha": "1acb0631a38cdab95ebfde125ea5e06a0beb003d",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T13:30:52Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "635f9d8293249fb6b488fc9f71a50f21eb77b091",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T13:04:38Z",
+      "message": "Update lecture2.md"
+    },
+    {
+      "sha": "58c2f1d2e2b6f51473b54958d5a4b6820f90e449",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T13:04:15Z",
+      "message": "Update lecture1.md"
+    },
+    {
+      "sha": "e7f0db12001dfaf6621caf52b19eb7097b262318",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T13:01:40Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7571eae19a83bc63317b81cf8f300a45d8333313",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T12:53:28Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "08f3839744df6029a507448b5782456cab8fe71c",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T12:48:24Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "8d34371ee7dcf5c4e6cb4dc2d837e308f042cdc6",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T12:46:48Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "cdd3f20be99ccc6b085ff0152f05ee23bbc2edf0",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T12:45:40Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "90f09275503c0777a39ce1efeb8be4f85b5c56b0",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T12:43:57Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "dbcf8585b8d3d4abd0fdf1234cde080ff4df13e1",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T12:43:40Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "abea293caf6aa13606fc3ae56fa24ff80bb5d772",
+      "author_login": "unknwon",
+      "authored_at": "2021-10-24T12:40:46Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "5542bcd8fd7fa3ce95fdab439073e5ab39dcc146",
+      "author_login": "unknwon",
+      "authored_at": "2019-11-13T05:28:38Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7c4859f6d4f49b857f6b7111a9f672f5479ea7c8",
+      "author_login": "unknwon",
+      "authored_at": "2019-09-17T18:25:10Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "c49ff4b3fef39bd76a7a41f2cfaba9cc84bc1249",
+      "author_login": "unknwon",
+      "authored_at": "2017-03-16T19:08:28Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "768d5e53b08fcbb4070003cb1f4f74f72d6f4c7f",
+      "author_login": "unknwon",
+      "authored_at": "2017-03-12T04:18:51Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "06f6c63a325a03c372dd8182ff343a6f0cc2ed57",
+      "author_login": "unknwon",
+      "authored_at": "2015-11-24T04:57:22Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1e5b56aaac8f2bf45dd40201e9b09c14e470cbda",
+      "author_login": "unknwon",
+      "authored_at": "2015-09-11T15:25:55Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7237dc8ab179323ceb10abe5c08c5e70866e1201",
+      "author_login": "unknwon",
+      "authored_at": "2015-08-21T06:37:49Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "305e81f226d4b914cdbb4bafecc21a325d36a6c2",
+      "author_login": "unknwon",
+      "authored_at": "2015-08-21T06:37:09Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "34fdeb08efd60e2d4462f28b5a1fc01cd796df0c",
+      "author_login": "unknwon",
+      "authored_at": "2014-12-22T02:04:06Z",
+      "message": "Merge pull request #7 from shesuyo/patch-2"
+    },
+    {
+      "sha": "47d58a7c66990649b5075a462780fbccaa47b866",
+      "author_login": "shesuyo",
+      "authored_at": "2014-12-21T19:04:34Z",
+      "message": "Update lecture3.md"
+    },
+    {
+      "sha": "d794cd31350310ac8af410a3a35433d351ab554a",
+      "author_login": "unknwon",
+      "authored_at": "2014-09-05T20:40:13Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "55b554d1e6666df050b61e66f3561f34283df32d",
+      "author_login": "unknwon",
+      "authored_at": "2014-09-05T20:40:01Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "93749dc22984462eb5aa40774f8bf4ff90252ff7",
+      "author_login": "unknwon",
+      "authored_at": "2014-08-08T16:30:17Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "bc533118cffb37ca458f0ab2125f522ffbc13124",
+      "author_login": "unknwon",
+      "authored_at": "2014-06-04T12:20:37Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3b067d77eb17de29d5ea0b0120e426e22e543699",
+      "author_login": "unknwon",
+      "authored_at": "2014-05-28T21:00:29Z",
+      "message": "update fucking stupid baidu link"
+    },
+    {
+      "sha": "ece05eb4015133ea68ffa20d30124ea6cfdab262",
+      "author_login": "unknwon",
+      "authored_at": "2014-05-24T23:04:11Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "51a78f3fa3937697069dbd36107406f581833d65",
+      "author_login": "unknwon",
+      "authored_at": "2014-05-24T22:42:38Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "874541606a4b60154d08c4eb7bfa60757b32f2ea",
+      "author_login": "unknwon",
+      "authored_at": "2014-05-24T22:41:20Z",
+      "message": "Update links"
+    },
+    {
+      "sha": "3cecba3c602e5db6026b49e295f048fe5ed58bd5",
+      "author_login": "unknwon",
+      "authored_at": "2014-03-01T18:27:58Z",
+      "message": "Update lecture7.md"
+    },
+    {
+      "sha": "2e9e25b5800b0ac3e1b7704ddd9ee0b19b8aa000",
+      "author_login": "unknwon",
+      "authored_at": "2014-01-28T19:39:50Z",
+      "message": "Reformat README"
+    },
+    {
+      "sha": "b173583c0870db0cd77cc91551d2623ec0940904",
+      "author_login": "unknwon",
+      "authored_at": "2014-01-24T17:00:07Z",
+      "message": "Reformatted README"
+    },
+    {
+      "sha": "edb5ce7672c6aedc9184f574cc4d5e6e111f62bc",
+      "author_login": "unknwon",
+      "authored_at": "2014-01-18T15:11:18Z",
+      "message": "Updated README"
+    },
+    {
+      "sha": "e00287296eb542574040187e76b3660b1e015f78",
+      "author_login": "unknwon",
+      "authored_at": "2014-01-16T04:48:01Z",
+      "message": "Reformatted README"
+    },
+    {
+      "sha": "7a6084fc66586b24a7ed728442b8f541e0371e83",
+      "author_login": "unknwon",
+      "authored_at": "2013-12-09T21:23:20Z",
+      "message": "Update links"
+    },
+    {
+      "sha": "2d7969ee7f7c40e0cedc415c74359d7651aded9a",
+      "author_login": "unknwon",
+      "authored_at": "2013-11-30T17:20:53Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "2489384aa5c5fde5c923377a27539750cb0c5a9a",
+      "author_login": "unknwon",
+      "authored_at": "2013-10-16T20:41:16Z",
+      "message": "Update lecture1.md"
+    },
+    {
+      "sha": "f98bf2312ddbb3262e14f7fd786139b091223ffd",
+      "author_login": "unknwon",
+      "authored_at": "2013-10-16T20:40:28Z",
+      "message": "Update lecture1.md"
+    },
+    {
+      "sha": "a15c77c9df697791ccea55805442bd5e8415b391",
+      "author_login": "unknwon",
+      "authored_at": "2013-10-11T18:28:26Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "245d10b01ffb64a2cb88b36faf74c01ca3b66cc5",
+      "author_login": "unknwon",
+      "authored_at": "2013-09-20T15:03:38Z",
+      "message": "Update lecture8.md"
+    },
+    {
+      "sha": "c11c91fcea2172e337681957d3e29ed2c9c9cae5",
+      "author_login": "unknwon",
+      "authored_at": "2013-09-20T15:03:25Z",
+      "message": "Update lecture8.md"
+    },
+    {
+      "sha": "32d1132a890d4887cf3d3b771294f470821f54c4",
+      "author_login": "unknwon",
+      "authored_at": "2013-07-14T04:06:09Z",
+      "message": "Updated comments"
+    },
+    {
+      "sha": "875cc8ea507d319e449b4e4629115fded3d19a42",
+      "author_login": "unknwon",
+      "authored_at": "2013-07-14T04:03:45Z",
+      "message": "Updated contributors."
+    },
+    {
+      "sha": "92392fe26ac8b84aee1c8ef87392fc3e93c96f83",
+      "author_login": "unknwon",
+      "authored_at": "2013-07-11T14:54:16Z",
+      "message": "Updated links for neteasy cloud class"
+    },
+    {
+      "sha": "f2e6371962881689e22183fe8b8a2368a1565a08",
+      "author_login": "unknwon",
+      "authored_at": "2013-07-02T06:18:55Z",
+      "message": "readme"
+    },
+    {
+      "sha": "c3f78fd8dfc52c7e847dfa7d43d020b399d432f5",
+      "author_login": "unknwon",
+      "authored_at": "2013-07-01T15:32:02Z",
+      "message": "lecture15"
+    },
+    {
+      "sha": "8528ae13407fdf5b470310dc10ddcab9b458ce64",
+      "author_login": "unknwon",
+      "authored_at": "2013-06-30T22:13:47Z",
+      "message": "lecture15"
+    },
+    {
+      "sha": "5df758cdd911811ce4dabe3b12b43db5b5ddaf2f",
+      "author_login": "unknwon",
+      "authored_at": "2013-06-29T05:17:11Z",
+      "message": "lecture14"
+    },
+    {
+      "sha": "bdf210b1f6f52a075fb324131a9b7a4fdc537f3b",
+      "author_login": "unknwon",
+      "authored_at": "2013-06-28T16:37:48Z",
+      "message": "lecture14"
+    },
+    {
+      "sha": "5d0c8b8be9e7c76650f60c3795fbbab123805db5",
+      "author_login": "unknwon",
+      "authored_at": "2013-06-28T11:56:45Z",
+      "message": "lecture14"
+    },
+    {
+      "sha": "d6595f4e65cd2addd8f9a3d6c6e1e0be046dfcf0",
+      "author_login": "unknwon",
+      "authored_at": "2013-06-25T14:35:25Z",
+      "message": "lecture14"
+    },
+    {
+      "sha": "16bd447095ca3326d0ffcac7c88bb3b933883313",
+      "author_login": "unknwon",
+      "authored_at": "2013-06-24T16:34:11Z",
+      "message": "lecture13"
+    },
+    {
+      "sha": "93c595db3734279c94728cafb634515ff1cf1b4f",
+      "author_login": "unknwon",
+      "authored_at": "2013-06-22T08:23:18Z",
+      "message": "lecture 13"
+    },
+    {
+      "sha": "3d23de1aabe5349fdb5daf22580f7e8ec1736bf2",
+      "author_login": "unknwon",
+      "authored_at": "2013-06-18T04:34:26Z",
+      "message": "lecture12"
+    },
+    {
+      "sha": "c8ff7b26741a1f210c8cdce238b70a2370e86409",
+      "author_login": "unknwon",
+      "authored_at": "2013-06-14T04:46:05Z",
+      "message": "lecture12"
+    },
+    {
+      "sha": "85026b6601a115438417c31a3535e77413a0162f",
+      "author_login": "unknwon",
+      "authored_at": "2013-06-12T08:28:31Z",
+      "message": "lecture11"
+    },
+    {
+      "sha": "152c6acf544c3b190a3b46dd49b028302236b879",
+      "author_login": "unknwon",
+      "authored_at": "2013-06-12T07:27:13Z",
+      "message": "lecture11"
+    },
+    {
+      "sha": "ec8e4fe2b8559c904c26aa1878dca81f9281e7e0",
+      "author_login": "unknwon",
+      "authored_at": "2013-06-12T07:14:19Z",
+      "message": "lecture11"
+    },
+    {
+      "sha": "f9efafcd43ed869696dfa8258aeda411070bed97",
+      "author_login": "unknwon",
+      "authored_at": "2013-06-12T06:08:30Z",
+      "message": "lecture11"
+    },
+    {
+      "sha": "ff44076d98aa47aaf0f5a123f16d4ea5df03eda4",
+      "author_login": "unknwon",
+      "authored_at": "2013-06-12T06:05:08Z",
+      "message": "lecture11"
+    },
+    {
+      "sha": "349831638548f53d250d404961b99954d0b13e63",
+      "author_login": "unknwon",
+      "authored_at": "2013-05-10T09:14:39Z",
+      "message": "lecture10"
+    },
+    {
+      "sha": "4dc750857918fe6f3ef45d577b48ce99f3d0fe2c",
+      "author_login": "unknwon",
+      "authored_at": "2013-05-10T08:17:05Z",
+      "message": "lecture10"
+    },
+    {
+      "sha": "e298ae0e434548fbe6131606a892a5aecce1fe39",
+      "author_login": "unknwon",
+      "authored_at": "2013-05-09T18:50:31Z",
+      "message": "lecture10"
+    },
+    {
+      "sha": "5ead3cb534ddb2f82a2379d21ea9de91b39635a6",
+      "author_login": "unknwon",
+      "authored_at": "2013-04-23T20:17:26Z",
+      "message": "lecture10"
+    },
+    {
+      "sha": "1dd65008b1e61df788d12e091c86e37a1c3a6594",
+      "author_login": "unknwon",
+      "authored_at": "2013-04-21T23:55:57Z",
+      "message": "lecture9"
+    },
+    {
+      "sha": "70633915f1267673b89e92c071efb0fa7ecfb00c",
+      "author_login": "unknwon",
+      "authored_at": "2013-04-21T22:42:55Z",
+      "message": "lecture9"
+    },
+    {
+      "sha": "bffff6dc16ccf47bf488d4d8d95d8bda13999b24",
+      "author_login": "unknwon",
+      "authored_at": "2013-04-18T20:03:07Z",
+      "message": "lecture9"
+    },
+    {
+      "sha": "d9a1e44eea65e0999864ae2ec576aba701fa4736",
+      "author_login": "unknwon",
+      "authored_at": "2013-04-15T11:00:06Z",
+      "message": "lecture8"
+    },
+    {
+      "sha": "da0f8256e293399ff4f11faa0b781eaa28d24ca2",
+      "author_login": "unknwon",
+      "authored_at": "2013-04-15T10:55:09Z",
+      "message": "lecture8"
+    },
+    {
+      "sha": "d73e026d3946b8778797ecbac0bb788c22ce36e1",
+      "author_login": "unknwon",
+      "authored_at": "2013-04-15T10:38:43Z",
+      "message": "lecture8"
+    },
+    {
+      "sha": "7943722520c2dcb96c9495758df9a3627c35fc7d",
+      "author_login": "unknwon",
+      "authored_at": "2013-04-15T03:21:02Z",
+      "message": "lecture8"
+    },
+    {
+      "sha": "60599ac041afeeb337be78c86d05ef44cfb9a0bd",
+      "author_login": "unknwon",
+      "authored_at": "2013-04-14T23:41:21Z",
+      "message": "lecture8"
+    },
+    {
+      "sha": "41d8d1e0f1f1137a69f32a637707e1b567ae654e",
+      "author_login": "unknwon",
+      "authored_at": "2013-04-14T08:35:23Z",
+      "message": "lecture7"
+    },
+    {
+      "sha": "bf22b9b4e77db5590d625c502173dc5d65d4864d",
+      "author_login": "unknwon",
+      "authored_at": "2013-04-14T08:27:29Z",
+      "message": "lecture7"
+    },
+    {
+      "sha": "7c4c7a97add48ccaa416eaa495a0bc5c6593ddb5",
+      "author_login": "unknwon",
+      "authored_at": "2013-04-12T16:42:27Z",
+      "message": "lecutre7"
+    },
+    {
+      "sha": "d4865ca6eec8ecb813c21114ee4bf5ab04be1958",
+      "author_login": "unknwon",
+      "authored_at": "2013-04-12T16:31:30Z",
+      "message": "lecutre7"
+    },
+    {
+      "sha": "2fb3750bddbb67bb4a6af52c2ef51408a601fa7c",
+      "author_login": "unknwon",
+      "authored_at": "2013-04-11T21:53:50Z",
+      "message": "readme.md"
+    },
+    {
+      "sha": "6de744872fd3d3a0c950767c95bbef6d9f900a94",
+      "author_login": "unknwon",
+      "authored_at": "2013-04-09T03:21:23Z",
+      "message": "lecture6"
+    }
+  ],
+  "issues": [
+    {
+      "number": 30,
+      "title": "第8课 11:20 map 判断 key 是否存在示例问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-03T14:58:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "Create M. Shanmugaraj",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-10-27T01:25:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "上传到B站",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-31T03:12:08Z",
+      "closed_at": "2020-01-31T09:04:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "go web交流群搜索不到呢，是解散了么？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-11-12T12:45:57Z",
+      "closed_at": "2019-11-13T04:25:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "强烈建议作者上传一份到bilibili",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-10-14T14:01:25Z",
+      "closed_at": "2019-10-14T20:22:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "fallthrough用法",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-06-08T08:02:27Z",
+      "closed_at": "2019-06-09T01:24:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 22,
+      "title": "作者考虑下传到bilibili？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-12-04T08:47:23Z",
+      "closed_at": "2018-12-04T16:02:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 21,
+      "title": "结构体",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-08-28T03:27:52Z",
+      "closed_at": "2021-10-23T03:50:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 20,
+      "title": "go recover疑问",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-21T09:50:22Z",
+      "closed_at": "2018-06-21T09:53:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 19,
+      "title": "Create weiqi",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-02T04:41:15Z",
+      "closed_at": "2018-06-02T12:03:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 18,
+      "title": "PPT文档可以下载吗？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-07T09:07:18Z",
+      "closed_at": "2018-05-18T21:31:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17,
+      "title": "关于第7课时slice的问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-30T06:45:19Z",
+      "closed_at": "2018-04-17T17:02:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 16,
+      "title": "应该如何配置sublime，运算符两边就能自动添加空格",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-02-21T04:01:03Z",
+      "closed_at": "2018-03-08T12:34:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "哈哈",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-04T04:35:16Z",
+      "closed_at": "2017-12-04T04:35:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "能否提供课堂PPT资料下载, 十分感谢!!!",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-19T09:09:27Z",
+      "closed_at": "2017-11-16T18:07:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13,
+      "title": "关于课后作业的问题。",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-06-18T10:23:29Z",
+      "closed_at": "2019-02-14T08:50:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 12,
+      "title": "第 14 课：并发 concurrency 33:32 中的break",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-11-06T12:13:10Z",
+      "closed_at": "2016-11-21T22:46:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 11,
+      "title": "是否还有后续视频",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-05-24T06:37:48Z",
+      "closed_at": "2016-07-10T20:38:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10,
+      "title": "初学golang关于map的一点疑问",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-04-21T10:03:18Z",
+      "closed_at": "2016-07-10T20:38:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 9,
+      "title": "对面向对象的一些不理解",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-09-16T10:13:09Z",
+      "closed_at": "2015-09-16T13:56:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 8,
+      "title": "第10课里struct内嵌结构字面量声明的问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-09-10T14:14:03Z",
+      "closed_at": "2015-09-10T14:42:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 7,
+      "title": "Update lecture3.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2014-12-21T19:04:41Z",
+      "closed_at": "2014-12-22T02:04:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 6,
+      "title": "Update lecture2.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2014-12-21T18:57:55Z",
+      "closed_at": "2014-12-22T02:04:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 5,
+      "title": "15课里面的time.Format问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2014-11-15T17:16:31Z",
+      "closed_at": "2014-11-16T12:54:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4,
+      "title": "听课初感受",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2014-04-15T11:12:56Z",
+      "closed_at": "2014-04-15T18:43:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3,
+      "title": "slice并不是copy",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2013-09-17T18:17:40Z",
+      "closed_at": "2013-09-20T14:59:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2,
+      "title": "还在保持跟新没啊？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2013-05-08T11:58:24Z",
+      "closed_at": "2013-05-10T08:23:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1,
+      "title": "English",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2013-04-15T00:19:03Z",
+      "closed_at": "2013-04-15T00:37:40Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "unknwon",
+      "contributions": 148
+    },
+    {
+      "login": "shesuyo",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-09-07T11:16:50.810965Z"
+}
