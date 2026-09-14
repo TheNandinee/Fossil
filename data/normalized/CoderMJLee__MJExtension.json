@@ -1,0 +1,1697 @@
+{
+  "full_name": "CoderMJLee/MJExtension",
+  "owner": "CoderMJLee",
+  "name": "MJExtension",
+  "url": "https://github.com/CoderMJLee/MJExtension",
+  "description": "A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to extend any base class. You don't need to modify any model file.",
+  "primary_language": "Objective-C",
+  "topics": [
+    "array",
+    "dictionary",
+    "json",
+    "model",
+    "objective-c"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 8486,
+  "forks": 2130,
+  "open_issues": 29,
+  "created_at": "2014-05-23T15:54:00Z",
+  "pushed_at": "2024-03-13T05:26:26Z",
+  "updated_at": "2026-09-11T07:43:07Z",
+  "commits": [
+    {
+      "sha": "03ceefbcb51be045e0b4d252442a2fb2939d52ae",
+      "author_login": "wolfcon",
+      "authored_at": "2024-03-13T03:19:43Z",
+      "message": "Add Privacy manifest"
+    },
+    {
+      "sha": "43dce6be9c91a7034d37ed171b3e60a7bb760857",
+      "author_login": "wolfcon",
+      "authored_at": "2021-12-06T06:52:09Z",
+      "message": "Update MJExtension.podspec"
+    },
+    {
+      "sha": "6a3341232037a6c0294c5fbc2f5a61fcc61f918e",
+      "author_login": "VeinGuo",
+      "authored_at": "2021-12-06T06:50:40Z",
+      "message": "Fixed secure coding issue that classes object couldn't be decoded. (#830)"
+    },
+    {
+      "sha": "e3e7596e6fa84268f77dd59be9f019e8687683f2",
+      "author_login": "wolfcon",
+      "authored_at": "2021-11-26T02:30:10Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ef47eeed5f992f2a65607cb762d3c947b34cd2b6",
+      "author_login": "wolfcon",
+      "authored_at": "2021-09-22T02:48:12Z",
+      "message": "Indent code in unit test file"
+    },
+    {
+      "sha": "4561e0f1b6b61dd8d635871ee10c56bfa1f9234c",
+      "author_login": "wolfcon",
+      "authored_at": "2021-09-17T10:29:37Z",
+      "message": "Fixed Core Data test cases problem in multithreading condition."
+    },
+    {
+      "sha": "6d1d1bb32413f36e58d36473a45161cb9bac9d17",
+      "author_login": "wolfcon",
+      "authored_at": "2021-09-14T04:17:11Z",
+      "message": "Update MJExtension.podspec"
+    },
+    {
+      "sha": "9c3bfb50a2e98f34cc55cc9c8cf3fcd898160f5b",
+      "author_login": "wolfcon",
+      "authored_at": "2021-09-14T04:14:49Z",
+      "message": "Update Swift usage manual in Chinese."
+    },
+    {
+      "sha": "d9020a820c143cf97320deafaed15759c243c4b6",
+      "author_login": "wolfcon",
+      "authored_at": "2021-09-14T04:04:26Z",
+      "message": "SPM Support (#823)"
+    },
+    {
+      "sha": "915fc461ab94d1d158337302d2d355d8591f718d",
+      "author_login": "wolfcon",
+      "authored_at": "2021-09-14T03:22:48Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "2bd4754514c49b445b580819099a7aa8d62f3703",
+      "author_login": "wolfcon",
+      "authored_at": "2021-09-14T03:12:19Z",
+      "message": "Update usage in swift (#822)"
+    },
+    {
+      "sha": "e31c9a653cac3b81903362118aa4badce0437649",
+      "author_login": "wolfcon",
+      "authored_at": "2021-09-13T09:15:37Z",
+      "message": "Add NSSecureCoding support for quick implementation macro `MJSecureCodingImplementation(class, isSupport)`. (#821)"
+    },
+    {
+      "sha": "24087db178f01e18c13d03d0ebf7756b2ef56a5d",
+      "author_login": "wolfcon",
+      "authored_at": "2021-09-09T10:01:15Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "08ab97780653b8a6576ac8c9f2bd5b371b287aa5",
+      "author_login": "wolfcon",
+      "authored_at": "2021-09-09T02:55:11Z",
+      "message": "Remove unnecessary code in demo."
+    },
+    {
+      "sha": "352422761199532fb03456e0af34ed7586adc610",
+      "author_login": "wolfcon",
+      "authored_at": "2021-09-09T02:52:02Z",
+      "message": "Add CoreData test case (#820)"
+    },
+    {
+      "sha": "7eb9913fa1ff0811ded1675009e23e69301c205a",
+      "author_login": "awesomejue",
+      "authored_at": "2021-09-08T10:27:40Z",
+      "message": "修复当EntityName和ClassName不一致时Crash. (#718)"
+    },
+    {
+      "sha": "e3799cb411147eb9a4b9cf4ad2199e4bf066b06e",
+      "author_login": "wolfcon",
+      "authored_at": "2021-08-31T07:50:15Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7301c84df426b7acb36b4fdaf0bf25f042797939",
+      "author_login": "wolfcon",
+      "authored_at": "2021-08-31T07:46:24Z",
+      "message": "Fixed setup method pollution in test case"
+    },
+    {
+      "sha": "2a71db18a4843a02a023c90d71393e150482598d",
+      "author_login": "wolfcon",
+      "authored_at": "2021-06-16T02:16:06Z",
+      "message": "Add watchOS and tvOS support."
+    },
+    {
+      "sha": "8be23f4d07cf6c9f339e9b52253002c7e1415eff",
+      "author_login": "wolfcon",
+      "authored_at": "2021-03-22T07:13:25Z",
+      "message": "Set iOS deployment_target to 9.0 from 8.0"
+    },
+    {
+      "sha": "eadfc6d545b0b19e7343a5a1798e34ea404871a8",
+      "author_login": "wolfcon",
+      "authored_at": "2021-03-22T07:05:41Z",
+      "message": "bump version"
+    },
+    {
+      "sha": "7b635bb3d82421ae80abe54344a851c97ac1f4a5",
+      "author_login": "wolfcon",
+      "authored_at": "2021-03-22T06:57:57Z",
+      "message": "fixing racing condition between setup block and reading method (#810)"
+    },
+    {
+      "sha": "dfc0f8a542e8c77f5b6cc32b8b81875bf0496aeb",
+      "author_login": "kinarobin",
+      "authored_at": "2021-03-12T01:41:23Z",
+      "message": "raise exception when in debug mode (#811)"
+    },
+    {
+      "sha": "c75f414fdc965df365133cb0e24ccc44dece65e3",
+      "author_login": "wolfcon",
+      "authored_at": "2021-01-18T07:33:04Z",
+      "message": "Fix semaphore initialization timing. (#806)"
+    },
+    {
+      "sha": "7b3bc5bcf93d9949d93d5577ca6b86f9413361c5",
+      "author_login": "wolfcon",
+      "authored_at": "2021-01-18T07:32:25Z",
+      "message": "Update MJExtension.podspec"
+    },
+    {
+      "sha": "e815312fa17195c05899f0314891860c9328f0cd",
+      "author_login": "chaoyuan899",
+      "authored_at": "2021-01-18T06:57:59Z",
+      "message": "MISUSING static local variables(`signalSemaphore`) (#805)"
+    },
+    {
+      "sha": "f9c50dabbecf109deb6da5466b9fb460f32eaa8f",
+      "author_login": "wolfcon",
+      "authored_at": "2021-01-13T07:36:30Z",
+      "message": "bump version: 3.2.3"
+    },
+    {
+      "sha": "669220814a00763328742194e99296e5a19b8f80",
+      "author_login": "kinarobin",
+      "authored_at": "2020-11-18T05:13:09Z",
+      "message": "revert 3.2.3"
+    },
+    {
+      "sha": "cd4748b59d1fc1b05b603a774393d08d68c086d2",
+      "author_login": "kinarobin",
+      "authored_at": "2020-11-18T05:10:14Z",
+      "message": "Merge pull request #797 from CoderMJLee/revert-789-fix-config-with-super-class-property-bug"
+    },
+    {
+      "sha": "257237036b17ac3463210f8e97016de75b3dd0cb",
+      "author_login": "kinarobin",
+      "authored_at": "2020-11-18T01:46:59Z",
+      "message": "Revert \"Fix config with inherited property bug\""
+    },
+    {
+      "sha": "c82358c7c115f0861fc7946649cf854d6afe4270",
+      "author_login": null,
+      "authored_at": "2020-10-21T02:17:32Z",
+      "message": "bump 3.2.3"
+    },
+    {
+      "sha": "2ea8f74888d46a67c9c725ddb43fa7bf83181760",
+      "author_login": "kinarobin",
+      "authored_at": "2020-10-21T02:12:44Z",
+      "message": "Merge pull request #786 from CoderMJLee/fix/mutating-array-in-enumeration"
+    },
+    {
+      "sha": "6d63492bde0a8a68b684096b4cb0782a7cacbd20",
+      "author_login": "kinarobin",
+      "authored_at": "2020-10-21T01:47:40Z",
+      "message": "Merge pull request #789 from CoderMJLee/fix-config-with-super-class-property-bug"
+    },
+    {
+      "sha": "953ad76195bbdef59333460c74a0a4e702da8ae1",
+      "author_login": null,
+      "authored_at": "2020-10-21T01:46:23Z",
+      "message": "method address change  string to number"
+    },
+    {
+      "sha": "f187bf780d04734e0d2a4d652c51aa2efce2f18e",
+      "author_login": null,
+      "authored_at": "2020-10-20T14:57:54Z",
+      "message": "Fix config with inherited property bug"
+    },
+    {
+      "sha": "4afdb21ab4d38cc330ada33605d5fbf823f9f685",
+      "author_login": "wolfcon",
+      "authored_at": "2020-10-15T08:52:16Z",
+      "message": "Fix array enumeration fatal error. (mutate array in for-loop)"
+    },
+    {
+      "sha": "9f9b975b10c12a34b7299d4e3602a100d0668571",
+      "author_login": "wolfcon",
+      "authored_at": "2020-08-21T07:56:31Z",
+      "message": "update MJTester model declaration"
+    },
+    {
+      "sha": "9b23616ba5364f74a07d568e2bf46f4ee794f091",
+      "author_login": "wolfcon",
+      "authored_at": "2020-08-21T07:50:27Z",
+      "message": "Update some example code (#782)"
+    },
+    {
+      "sha": "977ed1725732ae4a4ad4e59e3a232f6c165dd95d",
+      "author_login": "wolfcon",
+      "authored_at": "2020-06-29T02:34:57Z",
+      "message": "Update MJExtension.podspec"
+    },
+    {
+      "sha": "b99af4276310f085a25754233f8e29eec24963ae",
+      "author_login": "wolfcon",
+      "authored_at": "2020-06-22T06:49:03Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "af1c93589b98fead2334f9081827a48dde75318f",
+      "author_login": "wolfcon",
+      "authored_at": "2020-06-22T06:47:26Z",
+      "message": "增加 NSNull 的单元测试案例 (#777)"
+    },
+    {
+      "sha": "b50e9b5daa4402ae0b834e939b48964de7bb7feb",
+      "author_login": "Neeeo",
+      "authored_at": "2020-06-22T05:52:57Z",
+      "message": "rename standardValueWithTypeCode -> mj_standardValueWithTypeCode (#776)"
+    },
+    {
+      "sha": "f069f92ff8d6216c739ebff15d416123e7a08e7f",
+      "author_login": "kinarobin",
+      "authored_at": "2020-06-03T10:13:21Z",
+      "message": "some typo (#773)"
+    },
+    {
+      "sha": "c272a32235888c414c9834f1287c0aa9a0e73a10",
+      "author_login": "wolfcon",
+      "authored_at": "2019-12-12T03:33:54Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ca4fa9f76ff652d67d7c749f2ada53f820103ed8",
+      "author_login": "wolfcon",
+      "authored_at": "2019-12-09T06:36:25Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "c60da710e254143f3f214a3f1de0efac687e8c2a",
+      "author_login": "wolfcon",
+      "authored_at": "2019-12-09T06:35:27Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "097873692b04b5e15fb875438b562e939cfb0d05",
+      "author_login": "wolfcon",
+      "authored_at": "2019-12-09T06:34:43Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "21f6db5f70a793f415e53662cc8bdf5890f03aec",
+      "author_login": "wolfcon",
+      "authored_at": "2019-11-29T02:06:01Z",
+      "message": "Update bug--.md"
+    },
+    {
+      "sha": "5f22532581395f5caef4ad993023cff435528cd2",
+      "author_login": "wolfcon",
+      "authored_at": "2019-11-29T02:04:55Z",
+      "message": "Update bug--.md"
+    },
+    {
+      "sha": "0193375f5a96acd973dd4e77bf1e09f8f7485146",
+      "author_login": "wolfcon",
+      "authored_at": "2019-11-29T02:03:48Z",
+      "message": "Update bug--.md"
+    },
+    {
+      "sha": "a0939b30aed4d79b247c3151dd1396400380704c",
+      "author_login": "ElfSundae",
+      "authored_at": "2019-11-01T03:13:47Z",
+      "message": "Callback parameter type change to NSMutableDictionary (#746)"
+    },
+    {
+      "sha": "5da65b27a2d0c5b54934b57fba0087a0647cc1e2",
+      "author_login": "wolfcon",
+      "authored_at": "2019-10-11T06:29:46Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "c3199b392007dc050f8143cdc5178589a6a72236",
+      "author_login": "wolfcon",
+      "authored_at": "2019-10-11T06:27:35Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "69d432c5a54300e028c8168b8e1d98303784069c",
+      "author_login": "wolfcon",
+      "authored_at": "2019-10-08T06:27:19Z",
+      "message": "bump version to 3.2.1 (do not use 3.2.0)"
+    },
+    {
+      "sha": "ccb6d477dd2ce5c0956177f6853c557f389a247b",
+      "author_login": "wolfcon",
+      "authored_at": "2019-10-08T06:25:43Z",
+      "message": "fix the problem that value and property type are unmatched after conversions. (#742)"
+    },
+    {
+      "sha": "3c6e9ab559d97ba723fd29a664977ff12cce92d6",
+      "author_login": "wolfcon",
+      "authored_at": "2019-09-26T09:06:03Z",
+      "message": "bump version to 3.2.0"
+    },
+    {
+      "sha": "7505398a471545078dcf4183d4a61c7a9d6d1787",
+      "author_login": "wolfcon",
+      "authored_at": "2019-09-26T09:04:14Z",
+      "message": "add conversion support from French number string to number. (#737)"
+    },
+    {
+      "sha": "d0b475b58f43648fc27cef45692615d9189d73e6",
+      "author_login": "wolfcon",
+      "authored_at": "2019-09-25T08:00:10Z",
+      "message": "fix a problem that conversion from a large number like \"132009969506862891\" is failed (#727)"
+    },
+    {
+      "sha": "88f25196430e4cf8ce8fc7ee6d3490d9d88f30c6",
+      "author_login": "kinarobin",
+      "authored_at": "2019-09-10T08:27:44Z",
+      "message": "update podspec"
+    },
+    {
+      "sha": "bb9aca2c879add8faed446f328e3b81ca847b112",
+      "author_login": "CoderMJLee",
+      "authored_at": "2019-09-10T01:30:21Z",
+      "message": "Merge pull request #726 from kinarobin/fix_decimal_number_transform_to_bool_bug"
+    },
+    {
+      "sha": "fc0ba349e6c5c040aacf7ba8b14cc7b5fe0ca9b6",
+      "author_login": "kinarobin",
+      "authored_at": "2019-09-09T12:27:50Z",
+      "message": "fix decimal number transform to bool bug"
+    },
+    {
+      "sha": "5ff7bbf673ce67f0253aab01ff0e5360d714a1c1",
+      "author_login": "CoderMJLee",
+      "authored_at": "2019-08-29T13:09:46Z",
+      "message": "Update MJExtension.podspec"
+    },
+    {
+      "sha": "a4ab19d6081213a3f0eef6b60247fa1fe2945145",
+      "author_login": "CoderMJLee",
+      "authored_at": "2019-08-29T13:04:38Z",
+      "message": "Merge pull request #721 from kinarobin/fix_number_formatter_transform_bug"
+    },
+    {
+      "sha": "7239ec532cd0f5b2538346ec731031ddaa0f5b4b",
+      "author_login": "kinarobin",
+      "authored_at": "2019-08-29T12:44:35Z",
+      "message": "fix number formatter transform bug"
+    },
+    {
+      "sha": "52c53d65243a7668c7fcaaebcaf8d5ac6825caf4",
+      "author_login": "CoderMJLee",
+      "authored_at": "2019-08-29T11:08:40Z",
+      "message": "Add unit test"
+    },
+    {
+      "sha": "596bbbcd017d2f8d4ac318be4c369624f0469869",
+      "author_login": "CoderMJLee",
+      "authored_at": "2019-08-22T03:47:50Z",
+      "message": "move example into unit test"
+    },
+    {
+      "sha": "249b714d75ffc68998ba1bca6468351a651d03e7",
+      "author_login": "CoderMJLee",
+      "authored_at": "2019-08-22T01:19:03Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "825fe81efeaa6538874cd31d9671a0831a70e911",
+      "author_login": "CoderMJLee",
+      "authored_at": "2019-08-17T13:56:35Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "c2e4d560158a3283a26c284cfa026ee95686ddf1",
+      "author_login": "CoderMJLee",
+      "authored_at": "2019-08-17T13:56:00Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "928a314a54ef43ecfca9b2f1c4a1713f5a33f49d",
+      "author_login": "CoderMJLee",
+      "authored_at": "2019-08-11T09:02:13Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "0f4128908c994b2fc4444eab0141450657f028bd",
+      "author_login": "kinarobin",
+      "authored_at": "2019-07-22T03:12:11Z",
+      "message": "Rename `mj_keyValuesDidFinishConvertingToObject` method (#707)"
+    },
+    {
+      "sha": "d5679657f55c19c2a3d1b8a636bac3f2da215903",
+      "author_login": "wolfcon",
+      "authored_at": "2019-07-17T01:51:24Z",
+      "message": "bump up version"
+    },
+    {
+      "sha": "79e4089deae920c4d0210d130c052a69163b6530",
+      "author_login": "wolfcon",
+      "authored_at": "2019-07-17T01:40:14Z",
+      "message": "remove deprecated methods (#706)"
+    },
+    {
+      "sha": "84c09b854bfa009cf9a8a361fed21f1e4c394217",
+      "author_login": "wolfcon",
+      "authored_at": "2019-07-16T10:21:50Z",
+      "message": "Another implementation: NSNull -> nil (replace NSNull -> [NSDictionary dictionary]) (#701)"
+    },
+    {
+      "sha": "837e5e310c141e16dfb135815159494e64f9a5ca",
+      "author_login": "kinarobin",
+      "authored_at": "2019-07-02T07:21:10Z",
+      "message": "Merge pull request #694 from CoderMJLee/fix/NSNull-class-recursive-problem(because-of-MessageUI-in-Xcode-11-beta-1-with-iOS-13-beta-1)"
+    },
+    {
+      "sha": "875762851d5c1fd417872fb56318f3dfa3504afa",
+      "author_login": "CoderMJLee",
+      "authored_at": "2019-06-24T11:15:28Z",
+      "message": "Update issue templates"
+    },
+    {
+      "sha": "4033d8bde87438d72c4e77845325e6ed763fa590",
+      "author_login": "wolfcon",
+      "authored_at": "2019-06-07T02:47:03Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "c2fb9b7ac48c793e79c80edaafc355b470add753",
+      "author_login": "wolfcon",
+      "authored_at": "2019-06-07T02:12:28Z",
+      "message": "Add NSNull to foundation check list"
+    },
+    {
+      "sha": "9c377699e9f73efdb53806586e980523193bf554",
+      "author_login": "wolfcon",
+      "authored_at": "2019-06-04T09:39:27Z",
+      "message": "32 位系统 BOOL 转换字符后不能够正常生成 true 而是 1 的问题 #545 (#687)"
+    },
+    {
+      "sha": "5be4606ea4e96d84a92bdd938c1fba80cf3b4da8",
+      "author_login": "wolfcon",
+      "authored_at": "2019-04-30T10:33:44Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "fc4db8f6bee433ddebaa04febdaa152a38dac39f",
+      "author_login": "wolfcon",
+      "authored_at": "2019-04-29T06:31:40Z",
+      "message": "fix memory leak for protocol_copyPropertyList (#680)"
+    },
+    {
+      "sha": "b143a7f5484c297f4fd9134217b5f6bb3698e8c8",
+      "author_login": "wolfcon",
+      "authored_at": "2019-04-24T07:31:48Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "4c1de10ae183d0e02f691f76a5a07021ce7870a5",
+      "author_login": "wolfcon",
+      "authored_at": "2019-04-24T07:30:45Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3151f7a0d524758974b142c60b249c0b5c5cee82",
+      "author_login": "wolfcon",
+      "authored_at": "2019-04-02T09:17:47Z",
+      "message": "add new (Macro) debug description implementation for debugger. (#675)"
+    },
+    {
+      "sha": "8e5c446caed1cf6218d1383500d280bb1e893176",
+      "author_login": "wolfcon",
+      "authored_at": "2019-04-02T06:15:05Z",
+      "message": "Merge pull request #674 from wolfcon/master"
+    },
+    {
+      "sha": "3d459c24011e98a2c9843023580c40268ef701ba",
+      "author_login": "wolfcon",
+      "authored_at": "2019-04-02T06:12:29Z",
+      "message": "(amend)Change some function name that will be redundant with other SDK"
+    },
+    {
+      "sha": "61c01ecf26235eed2cdc5db8aac6e450398c7449",
+      "author_login": "wolfcon",
+      "authored_at": "2019-04-02T06:05:16Z",
+      "message": "Merge pull request #672 from wolfcon/fix/functionName"
+    },
+    {
+      "sha": "96b7ca10a5f1644ae29815a6904a06730c4fbbda",
+      "author_login": "kinarobin",
+      "authored_at": "2019-04-01T13:30:04Z",
+      "message": "Merge pull request #673 from wolfcon/fix/#483-functionNameMisuse"
+    },
+    {
+      "sha": "fe1dd2e9e307647759457d74cbabe87b330947fc",
+      "author_login": "wolfcon",
+      "authored_at": "2019-04-01T07:56:57Z",
+      "message": "#483-performSelector function name was misused"
+    },
+    {
+      "sha": "415492e209cf971f53001e6a0afa83654c92035e",
+      "author_login": "wolfcon",
+      "authored_at": "2019-04-01T03:27:22Z",
+      "message": "Update .travis.yml"
+    },
+    {
+      "sha": "dfa133730241dd0266e42d4f5129e7c62ad407e3",
+      "author_login": "wolfcon",
+      "authored_at": "2019-04-01T03:20:49Z",
+      "message": "Change some function name that will be redundant with other SDK"
+    },
+    {
+      "sha": "c460f1d6cad708ee4bceebbf6e6d2cdaf1973f66",
+      "author_login": "kinarobin",
+      "authored_at": "2019-03-29T03:04:52Z",
+      "message": "Merge pull request #671 from wolfcon/fix/Carthage"
+    },
+    {
+      "sha": "24156605bc1185bfab4d104af872f1acadebe155",
+      "author_login": "wolfcon",
+      "authored_at": "2019-03-29T02:42:42Z",
+      "message": "add travis"
+    },
+    {
+      "sha": "67fdcbe6f29f1936f37b622a5c3a1d2c98607b36",
+      "author_login": "wolfcon",
+      "authored_at": "2019-03-29T01:50:30Z",
+      "message": "Repair the missing file"
+    },
+    {
+      "sha": "c0aee25bab4d3b7bcbc955e3a58a1d0c5e4979be",
+      "author_login": "kinarobin",
+      "authored_at": "2019-03-27T09:04:05Z",
+      "message": "Merge pull request #667 from kinarob/modifying_lock_to_improve_code_performance"
+    },
+    {
+      "sha": "02e02015203c3c87c2f34a2c8c342131ee964c9b",
+      "author_login": "kinarobin",
+      "authored_at": "2019-03-27T08:55:03Z",
+      "message": "Revert MJLock in MJClass and MJProperty category"
+    },
+    {
+      "sha": "89c4b991bfd0dd0c324c32fb5bbe5fa46e37f78b",
+      "author_login": "kinarobin",
+      "authored_at": "2019-03-25T12:56:42Z",
+      "message": "Merge pull request #669 from wolfcon/feature/framework"
+    },
+    {
+      "sha": "5362ca1d6384580c59069f5a630f080fd9f3e4cf",
+      "author_login": "wolfcon",
+      "authored_at": "2019-03-25T07:57:04Z",
+      "message": "Code folders arrangement"
+    },
+    {
+      "sha": "0923f9ee201c0aae7c9341a6ecb6f14ca18935d1",
+      "author_login": "kinarobin",
+      "authored_at": "2019-03-22T06:11:54Z",
+      "message": "Modifying lock to improve code performance"
+    },
+    {
+      "sha": "d503e9d37376a83752d8b641fe0b60b9e7721543",
+      "author_login": "kinarobin",
+      "authored_at": "2019-03-21T11:31:38Z",
+      "message": "Merge pull request #666 from wolfcon/feature/ignoreNSObjectProtocolProperty"
+    }
+  ],
+  "issues": [
+    {
+      "number": 868,
+      "title": "چحلد پۆرنۆگراپهی",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-07-15T07:03:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 867,
+      "title": "Fix NSSecureCoding decode failure issue",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-19T02:10:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 866,
+      "title": "里面含有null时崩溃",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-14T06:44:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 865,
+      "title": "MJExtension存在以下健康风险",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-14T09:40:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 863,
+      "title": "swift有没有类似MJExtension方便的库",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-05-10T01:47:24Z",
+      "closed_at": "2025-04-01T03:57:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 862,
+      "title": "图片地址数组，转json字符串时，//变成\\/",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-04-24T09:41:19Z",
+      "closed_at": "2024-04-24T09:56:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 861,
+      "title": "MJ_LOCK 造成线程优先级倒置",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-09T03:24:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 860,
+      "title": "关于ios.deployment_target最低版本",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-04-07T02:02:26Z",
+      "closed_at": "2024-04-25T10:03:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 859,
+      "title": "在bugly上崩溃次数较多的问题，没有排查到什么问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-20T05:51:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 858,
+      "title": "继承链属性替换覆盖修复",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-01-13T08:31:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 857,
+      "title": "1",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-12-22T06:31:24Z",
+      "closed_at": "2023-12-22T06:50:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 856,
+      "title": "iOS 17.0.3上，模型中存在UIImange属性且有值时，模型转字典崩溃。",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-25T14:34:21Z",
+      "closed_at": "2023-10-29T14:06:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 855,
+      "title": "父类、子类中都存在嵌套模型的数组，该如何处理",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-08-31T06:06:11Z",
+      "closed_at": "2025-10-27T09:54:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 854,
+      "title": "不支持二维数组json对象转换为模型",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-28T08:07:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 853,
+      "title": "如果服务器返回double，如0.94，用字符串接收，会变成0.939999999，精度丢失，麻烦看一下",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-12T00:50:07Z",
+      "closed_at": "2023-07-12T02:07:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 852,
+      "title": "iOS 17 上面海量崩溃",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-07T07:35:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 851,
+      "title": "设置属性缺省值的功能？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-04-03T08:48:10Z",
+      "closed_at": "2023-04-05T12:36:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 850,
+      "title": "4.0.0 版本模型数组转数组时，模型数组有值，使用- (id)mj_JSONObjectWithKeys:(NSArray *)keys 后转化的值为nil",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-01-30T08:09:54Z",
+      "closed_at": "2023-02-02T05:27:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 849,
+      "title": "add type check when it is class  foundation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-17T08:50:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 848,
+      "title": "`",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-12-12T04:00:34Z",
+      "closed_at": "2023-01-29T05:46:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 847,
+      "title": "-[MJProperty setValue:forObject:] + [MJProperty.m : 98] ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-11-29T05:34:15Z",
+      "closed_at": "2023-01-29T05:45:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 846,
+      "title": "模型转字典，出现问题了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-28T02:56:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 844,
+      "title": "友盟上偶现的一个崩溃信息 ，[MJProperty valueForObject:] + [MJProperty.m : 78]，一直排查不到",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-30T09:49:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 843,
+      "title": "swift 与 oc 混合，数据是嵌套数组  使用 mj_objectClassInArray 该方法无效，这个怎么解决呢？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-08-02T08:16:44Z",
+      "closed_at": "2022-09-04T12:07:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 842,
+      "title": "+[NSObject(Property) mj_enumerateProperties:] 崩溃",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-16T03:53:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 841,
+      "title": "字典 转 JSONString Crash",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-04-11T09:17:31Z",
+      "closed_at": "2022-07-05T07:55:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 840,
+      "title": "Double 转 String 的精度问题",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-22T07:35:08Z",
+      "closed_at": "2022-02-28T02:54:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 839,
+      "title": "CoreData 设置 `inverse` 后, `to JSON` 会导致无限循环",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-07T07:19:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 838,
+      "title": "Object -> JSON 时, 没有校验 JSON 是否有效, 做出详细处理",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-31T08:47:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 837,
+      "title": "如果 JSON 中带有 null 数据, 在更新模型时, 没有将对应属性设置为 null",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-29T10:35:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 836,
+      "title": "增加模型配置方法的继承保留或不保留选择方案",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-29T07:17:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 835,
+      "title": "增加默认几项字符串->时间(Date)类型的转换",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-29T07:03:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 834,
+      "title": "新增 mj_dateFormatter 设置项 (如同 mj_numberLocale 类似)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-29T07:00:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 833,
+      "title": "long double 类型转换会导致崩溃",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-29T02:02:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 832,
+      "title": "double 类型字符串在超过 NSDecimalNumber 最大值后转 Double 会造成溢出",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-29T02:02:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 831,
+      "title": "自定义模型数据，属性只读，在iOS15系统下，mj里使用kvc,会crash",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-28T01:09:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 830,
+      "title": "Fixed secure coding issue that classes object couldn't be decoded. ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-12-03T12:30:28Z",
+      "closed_at": "2021-12-06T06:50:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 829,
+      "title": "没有bug",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-11-23T06:55:58Z",
+      "closed_at": "2021-11-23T07:25:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 828,
+      "title": "崩溃：mj_objectArrayWithKeyValuesArray ，已更新至3.4.0版本",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-22T02:54:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 827,
+      "title": "有没有Map结构",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-16T07:44:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 826,
+      "title": "pod 找不到 3.4.0 版本呢",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-11-10T08:36:54Z",
+      "closed_at": "2021-11-11T02:16:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 825,
+      "title": "浮点型精度丢失",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-11-04T13:25:24Z",
+      "closed_at": "2021-11-05T10:12:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 824,
+      "title": "iOS 15字典中包含UIimage对象，崩溃",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-09-18T03:55:53Z",
+      "closed_at": "2021-09-20T09:32:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 823,
+      "title": "SPM Support",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-14T03:19:52Z",
+      "closed_at": "2021-09-14T04:04:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 822,
+      "title": "Update usage in swift",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-13T09:45:10Z",
+      "closed_at": "2021-09-14T03:12:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 821,
+      "title": "Add NSSecureCoding support for quick implementation macro `MJSecureCodingImplementation(class, isSupport)`.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-09T09:47:22Z",
+      "closed_at": "2021-09-13T09:15:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 820,
+      "title": "Add CoreData test case",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-09T02:50:34Z",
+      "closed_at": "2021-09-09T02:52:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 819,
+      "title": "mj_objectWithKeyValues突然失效 xcode12 ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-08-28T14:28:26Z",
+      "closed_at": "2021-09-06T02:18:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 818,
+      "title": "Update NSObject+MJKeyValue.m",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-25T13:31:29Z",
+      "closed_at": "2021-09-14T07:35:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 817,
+      "title": "崩溃：mj_objectWithKeyValues ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-08-25T10:03:23Z",
+      "closed_at": "2021-08-25T13:42:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 816,
+      "title": "我没发现多维数组解析方法啊",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-08-20T02:36:00Z",
+      "closed_at": "2021-08-25T13:43:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 815,
+      "title": "希望在podspec中增加watch的支持",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-15T04:47:06Z",
+      "closed_at": "2021-06-16T06:51:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 814,
+      "title": "JSON转模型 提供模型更新接口",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-08T07:49:03Z",
+      "closed_at": "2021-06-18T07:51:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 813,
+      "title": "支不支持 判转数组模型的某个值 根据条件插入到模型数组中",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-04-24T07:45:01Z",
+      "closed_at": "2021-08-25T13:48:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 812,
+      "title": "你好，请问一下，第三方库已经定义好的模型对象（非自己定义）能转为json吗？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-04-14T15:50:01Z",
+      "closed_at": "2021-04-15T07:16:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 811,
+      "title": "Raise exception when in debug mode",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-11T13:15:13Z",
+      "closed_at": "2021-03-12T01:41:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 810,
+      "title": "fixing racing condition between setup block and reading method",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-10T09:29:21Z",
+      "closed_at": "2021-03-22T06:57:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 809,
+      "title": "解析模型的时候奔溃",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-03-01T01:36:32Z",
+      "closed_at": "2021-03-01T03:42:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 808,
+      "title": "最新版的奔溃异常",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-02-05T10:08:02Z",
+      "closed_at": "2021-03-10T07:53:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 807,
+      "title": "咨询一个小问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-24T13:19:13Z",
+      "closed_at": "2021-01-25T05:46:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 806,
+      "title": "Fix semaphore initialization timing.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-18T07:32:54Z",
+      "closed_at": "2021-01-18T07:33:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 805,
+      "title": "MISUSING static local variables (signalSemaphore)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-18T02:54:16Z",
+      "closed_at": "2021-01-18T06:58:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 804,
+      "title": "Model转JSON怎么删除不需要的字段？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-14T09:30:44Z",
+      "closed_at": "2021-01-14T10:14:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 803,
+      "title": "对于内外部API的描述不够清楚,希望完善文档和隐藏不对外的API",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-16T08:46:01Z",
+      "closed_at": "2020-12-16T09:42:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 802,
+      "title": " 使用属性真实的类型进行encode/decode",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-15T13:53:32Z",
+      "closed_at": "2020-12-23T01:40:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 801,
+      "title": "修复 model 中如果遵守的协议存在属性 crash 的case",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-15T13:42:46Z",
+      "closed_at": "2020-12-23T01:40:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 800,
+      "title": "mj_setKeyValues处理嵌套的子模型没有处理空数据",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-15T01:45:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 799,
+      "title": "能否增强一下兼容性",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-14T03:04:25Z",
+      "closed_at": "2021-01-18T07:55:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 798,
+      "title": "Fix `valueForObject` crash in 32bit devices",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-11-18T02:21:05Z",
+      "closed_at": "2020-12-02T02:36:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 797,
+      "title": "Revert \"Fix config with inherited property bug\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-11-18T01:47:21Z",
+      "closed_at": "2020-11-18T05:10:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 796,
+      "title": "没有 optional  和 ignore require 的需要 ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-11-16T08:07:20Z",
+      "closed_at": "2021-01-18T07:56:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 795,
+      "title": "是否能增加像YYModel 那样的keypath映射",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-11-13T08:09:49Z",
+      "closed_at": "2020-11-14T13:47:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 794,
+      "title": "发布的版本是3.2.3 但是pod的版本是3.2.2",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-31T05:12:02Z",
+      "closed_at": "2020-11-02T08:41:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 793,
+      "title": "墙裂添加的新功能",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-29T22:57:45Z",
+      "closed_at": "2020-10-30T07:16:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 792,
+      "title": "请问杰哥，此框架是否支持swift Bool Int等结构体基本数据类型？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-29T08:58:15Z",
+      "closed_at": "2020-10-30T06:31:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 791,
+      "title": "目前暂时还不支持 SMP，swift package manager",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-25T03:27:37Z",
+      "closed_at": "2020-10-26T01:59:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 790,
+      "title": "-",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-22T06:40:16Z",
+      "closed_at": "2020-10-22T06:58:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 789,
+      "title": "Fix config with inherited property bug",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-20T15:00:26Z",
+      "closed_at": "2020-10-21T01:47:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 788,
+      "title": " json 中包含 json string，如何转换 为 model 呢",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-20T09:47:06Z",
+      "closed_at": "2020-10-21T07:29:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 787,
+      "title": "修复crash",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-16T09:40:23Z",
+      "closed_at": "2020-10-19T02:25:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 786,
+      "title": "Fix array enumeration fatal error. (mutate array in for-loop)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-15T08:55:49Z",
+      "closed_at": "2020-10-21T02:12:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 785,
+      "title": "嵌套数组如何解析",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-14T10:17:45Z",
+      "closed_at": "2020-10-15T08:13:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 784,
+      "title": "ios14 模型中含有数组，数组中含有其他模型，解析失败",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-25T09:52:20Z",
+      "closed_at": "2020-10-15T08:13:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 783,
+      "title": "NSTaggedPointerString转model失败",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-24T06:49:24Z",
+      "closed_at": "2020-09-24T06:51:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 782,
+      "title": "Add some example code",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-08-21T07:50:18Z",
+      "closed_at": "2020-08-21T07:50:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 781,
+      "title": "说明里面 关于swift Bool说明",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-19T07:04:21Z",
+      "closed_at": "2020-08-21T09:18:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 780,
+      "title": "iOS14崩溃,调用mj_keyValues模型转字典的时候UIColor解析错误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-11T16:24:08Z",
+      "closed_at": "2020-07-13T10:29:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 779,
+      "title": "MJExtension 解析 NSNull 对象解析出错误的 properties 导致出现崩溃",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-23T02:46:23Z",
+      "closed_at": "2020-10-05T02:10:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 778,
+      "title": "建议发布一个新版本",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-22T19:20:58Z",
+      "closed_at": "2020-06-29T01:54:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 777,
+      "title": "增加模型转字典 Date -> String 的示例代码",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-22T06:46:53Z",
+      "closed_at": "2020-06-22T06:47:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 776,
+      "title": "rename standardValueWithTypeCode -> mj_standardValueWithTypeCode",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-13T06:57:06Z",
+      "closed_at": "2020-06-22T05:52:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 775,
+      "title": "关于NSDecimalNumber类型转换",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-10T13:45:59Z",
+      "closed_at": "2020-06-29T01:58:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 774,
+      "title": "解析NSArray中NSString的bug",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-09T04:03:01Z",
+      "closed_at": "2020-06-09T06:58:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 773,
+      "title": "Some typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-03T03:19:49Z",
+      "closed_at": "2020-06-03T10:13:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 772,
+      "title": "一些小的点",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-03T02:22:17Z",
+      "closed_at": "2020-06-03T10:13:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 771,
+      "title": "How to parse ？ thanks！",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-29T12:34:41Z",
+      "closed_at": "2020-06-02T02:08:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 770,
+      "title": "请教如何在字典转模型的过程中，过滤掉错误数据",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-19T15:24:32Z",
+      "closed_at": "2020-05-20T02:34:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 769,
+      "title": "Bug 版本3.1.2 系统iOS13 转模型后取值闪退",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-06T08:45:19Z",
+      "closed_at": "2020-05-06T09:52:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 768,
+      "title": "T泛型的支持",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-26T13:54:56Z",
+      "closed_at": "2020-04-27T03:01:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 767,
+      "title": "在model.h的@property (copy, nonatomic) NSString 中添加<Optional>这个符号后, 转模型没有转为NSString类型,后台json对应的是long类型 , 转为错误的模型属性类型NSCFNumber *",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-21T08:11:09Z",
+      "closed_at": "2020-04-23T08:57:02Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "CoderMJLee",
+      "contributions": 205
+    },
+    {
+      "login": "wolfcon",
+      "contributions": 65
+    },
+    {
+      "login": "kinarobin",
+      "contributions": 27
+    },
+    {
+      "login": "WenchaoD",
+      "contributions": 5
+    },
+    {
+      "login": "520dev",
+      "contributions": 3
+    },
+    {
+      "login": "YAANNZ",
+      "contributions": 3
+    },
+    {
+      "login": "100mango",
+      "contributions": 1
+    },
+    {
+      "login": "sunkehappy",
+      "contributions": 1
+    },
+    {
+      "login": "daviskoh",
+      "contributions": 1
+    },
+    {
+      "login": "ElfSundae",
+      "contributions": 1
+    },
+    {
+      "login": "Harley-xk",
+      "contributions": 1
+    },
+    {
+      "login": "Jianing93",
+      "contributions": 1
+    },
+    {
+      "login": "LawrenceHan",
+      "contributions": 1
+    },
+    {
+      "login": "Neeeo",
+      "contributions": 1
+    },
+    {
+      "login": "shutup",
+      "contributions": 1
+    },
+    {
+      "login": "SarielTang",
+      "contributions": 1
+    },
+    {
+      "login": "VeinGuo",
+      "contributions": 1
+    },
+    {
+      "login": "chaoyuan899",
+      "contributions": 1
+    },
+    {
+      "login": "willey-l",
+      "contributions": 1
+    },
+    {
+      "login": "ZaggerWang",
+      "contributions": 1
+    },
+    {
+      "login": "isunimp",
+      "contributions": 1
+    },
+    {
+      "login": "awesomejue",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "3.4.2",
+      "published_at": "2024-03-13T05:26:26Z"
+    },
+    {
+      "tag": "3.4.1",
+      "published_at": "2021-12-06T06:54:28Z"
+    },
+    {
+      "tag": "3.4.0",
+      "published_at": "2021-09-14T04:20:43Z"
+    },
+    {
+      "tag": "3.3.0",
+      "published_at": "2021-06-16T02:17:15Z"
+    },
+    {
+      "tag": "3.2.5",
+      "published_at": "2021-03-22T07:16:13Z"
+    },
+    {
+      "tag": "3.2.4",
+      "published_at": "2021-01-18T07:45:32Z"
+    },
+    {
+      "tag": "3.2.3",
+      "published_at": "2021-01-13T07:37:16Z"
+    },
+    {
+      "tag": "3.2.2",
+      "published_at": "2020-06-29T02:50:18Z"
+    },
+    {
+      "tag": "3.2.1",
+      "published_at": "2019-10-08T06:29:11Z"
+    },
+    {
+      "tag": "3.2.0",
+      "published_at": "2019-09-26T09:09:48Z"
+    },
+    {
+      "tag": "3.1.2",
+      "published_at": "2019-09-11T06:15:39Z"
+    },
+    {
+      "tag": "3.1.1",
+      "published_at": "2019-08-29T13:11:40Z"
+    },
+    {
+      "tag": "3.1.0",
+      "published_at": "2019-07-17T01:52:01Z"
+    },
+    {
+      "tag": "3.0.17",
+      "published_at": "2019-04-29T06:33:04Z"
+    },
+    {
+      "tag": "3.0.16",
+      "published_at": "2019-04-04T09:19:31Z"
+    },
+    {
+      "tag": "3.0.14",
+      "published_at": "2018-05-28T17:18:34Z"
+    },
+    {
+      "tag": "3.0.13",
+      "published_at": "2016-07-22T10:50:53Z"
+    },
+    {
+      "tag": "3.0.12",
+      "published_at": "2016-07-21T12:00:42Z"
+    },
+    {
+      "tag": "3.0.11",
+      "published_at": "2016-06-30T02:02:17Z"
+    }
+  ],
+  "collected_at": "2026-09-14T11:26:24.438328Z"
+}

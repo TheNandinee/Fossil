@@ -1,0 +1,1898 @@
+{
+  "full_name": "travis-ci/travis-ci",
+  "owner": "travis-ci",
+  "name": "travis-ci",
+  "url": "https://github.com/travis-ci/travis-ci",
+  "description": "Free continuous integration platform for GitHub projects.",
+  "primary_language": null,
+  "topics": [],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 8483,
+  "forks": 710,
+  "open_issues": 126,
+  "created_at": "2011-02-28T06:30:40Z",
+  "pushed_at": "2024-06-04T20:25:10Z",
+  "updated_at": "2026-09-13T22:53:11Z",
+  "commits": [
+    {
+      "sha": "34c8d79e3b2d00347cda8585d1b4eb38437b49bf",
+      "author_login": "BanzaiMan",
+      "authored_at": "2020-06-17T13:51:21Z",
+      "message": "Merge pull request #10521 from lassepe/fix/staleBotIgnoreSecurityIssues"
+    },
+    {
+      "sha": "76024c1018fc2f7d46c79c4b70b49a2c1e9f410e",
+      "author_login": "lassepe",
+      "authored_at": "2020-06-17T13:25:46Z",
+      "message": "Stale Bot: never close issues with a 'security' label"
+    },
+    {
+      "sha": "3322234826d79914741b18a8b5431b2df0651697",
+      "author_login": "BanzaiMan",
+      "authored_at": "2020-03-18T15:17:39Z",
+      "message": "Merge pull request #10499 from timholy/patch-1"
+    },
+    {
+      "sha": "39388031841779e3534d474fb7889a09251e95d4",
+      "author_login": "timholy",
+      "authored_at": "2019-12-30T12:06:59Z",
+      "message": "Add link to language-specific scripts"
+    },
+    {
+      "sha": "d6ca1d5c8458572f718e2284fc3f2d9fcc19a08c",
+      "author_login": "BanzaiMan",
+      "authored_at": "2019-08-02T13:44:15Z",
+      "message": "Fix status page link"
+    },
+    {
+      "sha": "c9f33f66f9f4c306d96bba4dd1e0688608515dc3",
+      "author_login": "DrTorte",
+      "authored_at": "2019-03-03T06:49:11Z",
+      "message": "directing to forum now for reopening issues"
+    },
+    {
+      "sha": "ed917fd8cabc7fb3e5230a98ec39218c134f851d",
+      "author_login": "DrTorte",
+      "authored_at": "2019-02-28T14:08:44Z",
+      "message": "Update issue-close-app.yml"
+    },
+    {
+      "sha": "e5253f8f0e404f1d7bd1b92441e17f647350a4fa",
+      "author_login": "BanzaiMan",
+      "authored_at": "2018-11-27T21:53:33Z",
+      "message": "Merge pull request #10358 from travis-ci/DrTorte-patch-1"
+    },
+    {
+      "sha": "a5ab07143b67e2efb1c203ebf17c12bdd43c853e",
+      "author_login": "DrTorte",
+      "authored_at": "2018-11-27T21:41:42Z",
+      "message": "Clarification to readme"
+    },
+    {
+      "sha": "ea7bf5c3f3ce711b11e0386e03a1da6682a39e21",
+      "author_login": "DrTorte",
+      "authored_at": "2018-11-27T21:40:02Z",
+      "message": "Merge pull request #10355 from travis-ci/more-visuals"
+    },
+    {
+      "sha": "11fc397644b3c03eead69e33b466022c9c3ec87f",
+      "author_login": "BanzaiMan",
+      "authored_at": "2018-11-27T21:28:32Z",
+      "message": "Update issue_template.md"
+    },
+    {
+      "sha": "70ae0408ccb771465cc11d912bf5911f4f61651f",
+      "author_login": "BanzaiMan",
+      "authored_at": "2018-11-27T19:45:41Z",
+      "message": "Update issue_template.md"
+    },
+    {
+      "sha": "21166b50716ebf826340ca004f810a16f33694e7",
+      "author_login": "BanzaiMan",
+      "authored_at": "2018-11-27T13:22:01Z",
+      "message": "Make clearer one should not open a new issue here"
+    },
+    {
+      "sha": "df34d24d1640815f04f9fd1ccc3e4fa61da290f3",
+      "author_login": "DrTorte",
+      "authored_at": "2018-11-26T14:40:07Z",
+      "message": "Update issue-close-app.yml"
+    },
+    {
+      "sha": "488fe7f32baa18393bd93e796eac33577eb2986c",
+      "author_login": "BanzaiMan",
+      "authored_at": "2018-11-16T14:36:26Z",
+      "message": "Merge pull request #10337 from ppeble/update_status_link_in_readme"
+    },
+    {
+      "sha": "75e9520f8eab64fb23eb1da3bb2d6e4d424b7169",
+      "author_login": null,
+      "authored_at": "2018-11-14T03:26:11Z",
+      "message": "Update link to status page in README"
+    },
+    {
+      "sha": "e2bd2cff0d9981e221b7a1123b311dc775c3ceca",
+      "author_login": "DrTorte",
+      "authored_at": "2018-11-02T20:14:02Z",
+      "message": "adding automatic closure"
+    },
+    {
+      "sha": "6fb8d9f876652778d9ef24b8e4b28a28010da21f",
+      "author_login": "DrTorte",
+      "authored_at": "2018-10-22T21:35:49Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3c350e1ed9944dc5a1419de9e80ccbcc8dea165a",
+      "author_login": "DrTorte",
+      "authored_at": "2018-10-22T21:34:59Z",
+      "message": "Create issue_template.md"
+    },
+    {
+      "sha": "03ea4d51cf2cfa8c432777445c7fe8225afd3b00",
+      "author_login": "BanzaiMan",
+      "authored_at": "2018-10-07T17:22:37Z",
+      "message": "Drop mention of travis-core"
+    },
+    {
+      "sha": "39c6901429d8730922b21b2aa61ac9bd0d1d1151",
+      "author_login": "DrTorte",
+      "authored_at": "2018-09-19T14:29:20Z",
+      "message": "Update stale.yml"
+    },
+    {
+      "sha": "8e22d59803f7c7c578ea22f83dc1437768d10bac",
+      "author_login": "DrTorte",
+      "authored_at": "2018-09-19T13:53:58Z",
+      "message": "Adding pinned to exempt labels"
+    },
+    {
+      "sha": "23ffaba16e708a27b8850f42c6f2f0a12d5535f3",
+      "author_login": "DrTorte",
+      "authored_at": "2018-08-28T23:58:41Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f9da16d635cdf636a4d1ace9fb73b210ade42b5a",
+      "author_login": "DrTorte",
+      "authored_at": "2018-05-14T15:16:36Z",
+      "message": "Update stale.yml"
+    },
+    {
+      "sha": "03148a8e47a734923bf9e9da2c14167b3592e854",
+      "author_login": "DrTorte",
+      "authored_at": "2018-05-02T14:07:25Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "356cef1e8a46d709ad8560b3cef394b85d7a90ee",
+      "author_login": "DrTorte",
+      "authored_at": "2018-05-02T14:06:20Z",
+      "message": "Merge pull request #9562 from travis-ci/DrTorte-patch-1"
+    },
+    {
+      "sha": "9b99e14823fcf28d013b78bd8c69c850977eb8ae",
+      "author_login": "DrTorte",
+      "authored_at": "2018-05-02T14:03:04Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ce6231e1942f17e44474669487033da6706219d8",
+      "author_login": "DrTorte",
+      "authored_at": "2018-04-17T17:46:21Z",
+      "message": "Update stale.yml"
+    },
+    {
+      "sha": "2fdf247e0efead44cc02871b0b01a60550a7284b",
+      "author_login": "DrTorte",
+      "authored_at": "2018-04-12T19:47:49Z",
+      "message": "Updating to enable closing"
+    },
+    {
+      "sha": "f94260b35966e84906b7b400917f281e53d3255d",
+      "author_login": "BanzaiMan",
+      "authored_at": "2018-04-05T18:27:41Z",
+      "message": "Fix stale.yml YAML formatting"
+    },
+    {
+      "sha": "ab97db5f84eef0d8e65106509630e215f244a6ea",
+      "author_login": "DrTorte",
+      "authored_at": "2018-04-04T16:40:28Z",
+      "message": "Update stale.yml"
+    },
+    {
+      "sha": "664dd2451f87904a95dc1847ce58a954b5b6e5a8",
+      "author_login": "DrTorte",
+      "authored_at": "2018-04-04T14:44:14Z",
+      "message": "Merge pull request #9443 from travis-ci/DrTorte-adding-stale"
+    },
+    {
+      "sha": "732606f425cf60bf063c7fc172d8d3da2983e7f8",
+      "author_login": "DrTorte",
+      "authored_at": "2018-04-04T14:26:56Z",
+      "message": "Update CONTRIBUTING.md"
+    },
+    {
+      "sha": "c2104858f1ffd0114e649ea6880458aff8cb2a9a",
+      "author_login": "DrTorte",
+      "authored_at": "2018-04-04T14:14:21Z",
+      "message": "Create stale.yml"
+    },
+    {
+      "sha": "0f890d191deff273ecd9fa60a4d12da91a4f4b96",
+      "author_login": "DrTorte",
+      "authored_at": "2018-04-02T19:30:19Z",
+      "message": "Merge pull request #9432 from travis-ci/DrTorte-adding-CoC"
+    },
+    {
+      "sha": "db7fec8693ad24c55412455254a4198f53903d96",
+      "author_login": "DrTorte",
+      "authored_at": "2018-04-02T19:16:05Z",
+      "message": "Create CODE_OF_CONDUCT.md"
+    },
+    {
+      "sha": "d82b9b0dffdedd61a7d6bbd40e08d768660db322",
+      "author_login": "BanzaiMan",
+      "authored_at": "2017-08-16T01:17:36Z",
+      "message": "Merge pull request #8256 from SUPERCILEX/patch-1"
+    },
+    {
+      "sha": "d2c986fcf969dfa011140762520831b27b4e30b0",
+      "author_login": "SUPERCILEX",
+      "authored_at": "2017-08-16T01:13:35Z",
+      "message": "Rename README.markdown to README.md"
+    },
+    {
+      "sha": "2cdc270f52ef28a682819c3a7cbe84caf81a9a46",
+      "author_login": "Lyoness",
+      "authored_at": "2017-08-11T11:32:52Z",
+      "message": "Merge pull request #6938 from markelog/patch-1"
+    },
+    {
+      "sha": "bdbc2363861fcad036aff092b427ffcf58c8bf33",
+      "author_login": "markelog",
+      "authored_at": "2016-11-27T03:55:28Z",
+      "message": "Use new link for travis worker"
+    },
+    {
+      "sha": "237d1471939f52b9a8419a794f4ea81c68ce20ff",
+      "author_login": "BanzaiMan",
+      "authored_at": "2016-08-05T04:07:42Z",
+      "message": "Merge pull request #6413 from nextPrime/patch-1"
+    },
+    {
+      "sha": "7f8403b4abf36dfac3265381338d81c62abcea9f",
+      "author_login": "nextprime",
+      "authored_at": "2016-08-05T03:40:23Z",
+      "message": "[README.md] Use HTTPS link + fix dead link"
+    },
+    {
+      "sha": "826d39c70bacf83a36cb5ab882fa8902765879cb",
+      "author_login": "carlad",
+      "authored_at": "2015-10-19T16:08:41Z",
+      "message": "Update CONTRIBUTING.md"
+    },
+    {
+      "sha": "8f523279035d28b031284a8a12100dc3a7cbebfa",
+      "author_login": "carlad",
+      "authored_at": "2015-10-19T16:07:49Z",
+      "message": "Add link to travis-ci/travis-ci issue tracker"
+    },
+    {
+      "sha": "7d4f83aa69f130d7b7ba687c95ce75911df71c2f",
+      "author_login": "sarahhodne",
+      "authored_at": "2014-09-12T16:14:47Z",
+      "message": "Some updates for the issue tracker"
+    },
+    {
+      "sha": "59b3dd090353936b72fc247c0f0689aa2e0ec88d",
+      "author_login": "BanzaiMan",
+      "authored_at": "2014-02-09T15:38:27Z",
+      "message": "Update README.markdown"
+    },
+    {
+      "sha": "8675d46d0ec7f6040758d3c88472469ab6d112da",
+      "author_login": "sarahhodne",
+      "authored_at": "2014-02-08T18:14:19Z",
+      "message": "Remove everything again"
+    },
+    {
+      "sha": "b3e99de960d6ab98b516669b0963096143d47179",
+      "author_login": "BanzaiMan",
+      "authored_at": "2014-01-29T15:50:07Z",
+      "message": "bump travis-core for annotations support"
+    },
+    {
+      "sha": "c75b3c95de5c01b91ee74311d852955b775af046",
+      "author_login": "BanzaiMan",
+      "authored_at": "2014-01-29T15:43:03Z",
+      "message": "Revert \"REMOVE ALL THE THINGS\""
+    },
+    {
+      "sha": "2b96e352722d2f3e94b39b6770f08f225470cd9f",
+      "author_login": "BanzaiMan",
+      "authored_at": "2014-01-29T15:42:49Z",
+      "message": "Revert \"Remove dotfiles, too.\""
+    },
+    {
+      "sha": "aea0ef1db3fb8fe27e50fe298b622066d0cccefc",
+      "author_login": "BanzaiMan",
+      "authored_at": "2014-01-24T13:01:09Z",
+      "message": "Remove dotfiles, too."
+    },
+    {
+      "sha": "11b6d01d5464953da809cf3c42dada1485e04427",
+      "author_login": "BanzaiMan",
+      "authored_at": "2014-01-24T12:58:13Z",
+      "message": "Merge pull request #1882 from travis-ci/hh-remove-all-the-things"
+    },
+    {
+      "sha": "ac1b38d901ff3c2545cde041ccb6ba4c2edcd292",
+      "author_login": "sarahhodne",
+      "authored_at": "2014-01-23T21:27:24Z",
+      "message": "docs(README): fix docs page link"
+    },
+    {
+      "sha": "6f2c78ebc3e426ff7a34114a18eaf148ce2b5e5d",
+      "author_login": "sarahhodne",
+      "authored_at": "2014-01-23T21:22:38Z",
+      "message": "docs(README): updated README to explain this and other travis-ci repositories"
+    },
+    {
+      "sha": "b09e9af1304c8f6debd8ef702713193163caa8de",
+      "author_login": "sarahhodne",
+      "authored_at": "2014-01-23T20:47:38Z",
+      "message": "REMOVE ALL THE THINGS"
+    },
+    {
+      "sha": "997053d4d9def89950e177ddfd48f5e4318e298e",
+      "author_login": "BanzaiMan",
+      "authored_at": "2014-01-11T20:09:08Z",
+      "message": "Merge pull request #1846 from jack-pappas/master"
+    },
+    {
+      "sha": "446390a1c97da81223e77170ff0a65d2a504e7bf",
+      "author_login": "jack-pappas",
+      "authored_at": "2014-01-11T18:19:22Z",
+      "message": "[skip ci] Add F# and FAKE to list of .NET/Mono projects."
+    },
+    {
+      "sha": "5c99aa9cd1cea2526a5847ff2a02154469da768c",
+      "author_login": "BanzaiMan",
+      "authored_at": "2013-12-17T12:02:52Z",
+      "message": "Remove .travis.yml"
+    },
+    {
+      "sha": "193a04755afe162f36ea422714e8a7f4b9b4d598",
+      "author_login": "BanzaiMan",
+      "authored_at": "2013-12-17T12:01:47Z",
+      "message": "Merge pull request #1759 from javigomez/master"
+    },
+    {
+      "sha": "c0596e00b74dc24134d99cbe64d9c8c78da54606",
+      "author_login": "javigomez",
+      "authored_at": "2013-12-17T11:53:34Z",
+      "message": "Add Joomla as PHP Project using Travis"
+    },
+    {
+      "sha": "25a0c93bf13f50dd81b89cf1b85379624a8423c7",
+      "author_login": "drogus",
+      "authored_at": "2013-12-04T11:32:20Z",
+      "message": "Bump travis-core"
+    },
+    {
+      "sha": "e9f1dcd3057fa14819a4d5dc7172f2654f9fe41b",
+      "author_login": "drogus",
+      "authored_at": "2013-12-04T08:16:13Z",
+      "message": "Use travis-core from master"
+    },
+    {
+      "sha": "4acc9de15ca7feda8c2e9fe9d51de4c76f8e6ba1",
+      "author_login": "drogus",
+      "authored_at": "2013-12-03T11:28:33Z",
+      "message": "Update rails"
+    },
+    {
+      "sha": "7dffea32910a528674d4ed98f29acc7941aa976c",
+      "author_login": "drogus",
+      "authored_at": "2013-12-03T10:34:55Z",
+      "message": "use travis-core with repos-settings branch"
+    },
+    {
+      "sha": "f7d772a2c2a5b60fc8e4168b11d121f4ac277a08",
+      "author_login": "drogus",
+      "authored_at": "2013-12-03T10:28:34Z",
+      "message": "Bump travis-core"
+    },
+    {
+      "sha": "9ea738c5010aaa61ee374eb1b71b6e1b2b1da6c9",
+      "author_login": "drogus",
+      "authored_at": "2013-12-03T08:38:07Z",
+      "message": "Bump travis-core"
+    },
+    {
+      "sha": "d3d59e2f8df2f05bf6d169d5a8daba0a7536bda4",
+      "author_login": "sarahhodne",
+      "authored_at": "2013-11-30T19:57:38Z",
+      "message": "Merge pull request #1706 from nschonni/patch-3"
+    },
+    {
+      "sha": "b0e4131a46192d20d5afa934a31e4c2bbc6c1d7e",
+      "author_login": "nschonni",
+      "authored_at": "2013-11-30T19:21:02Z",
+      "message": "Update NodeJS project list"
+    },
+    {
+      "sha": "94f4d91724225a4ed79acc1dc99b563fd23839fa",
+      "author_login": "joshk",
+      "authored_at": "2013-11-11T10:29:08Z",
+      "message": "update the travis-core dep"
+    },
+    {
+      "sha": "67b5e91962e0874fa3f6f105e5531114f5a71308",
+      "author_login": "joshk",
+      "authored_at": "2013-10-20T01:29:16Z",
+      "message": "Merge pull request #1520 from romainberger/fix-link"
+    },
+    {
+      "sha": "6ac847d807762da474c64d39c542993958bfa8f4",
+      "author_login": "romainberger",
+      "authored_at": "2013-10-16T22:59:07Z",
+      "message": "Fix emberjs link in Readme"
+    },
+    {
+      "sha": "4d463b16b5a85d7e51a6149c14a3c10dca3eb896",
+      "author_login": "rkh",
+      "authored_at": "2013-10-03T11:45:08Z",
+      "message": "Merge branch 'master' of github.com:travis-ci/travis-ci"
+    },
+    {
+      "sha": "c5f7e217928d47e13294e8af1157bcf874e4eaeb",
+      "author_login": "rkh",
+      "authored_at": "2013-10-03T11:43:32Z",
+      "message": "update core and support"
+    },
+    {
+      "sha": "96070b0843fa57d78ce0681fcef6178fd2ef886d",
+      "author_login": "joshk",
+      "authored_at": "2013-09-26T17:40:31Z",
+      "message": "Merge pull request #1462 from francisgo/patch-1"
+    },
+    {
+      "sha": "91347a2c68e61224e6582408bc9fb1281e9608bf",
+      "author_login": "fgo",
+      "authored_at": "2013-09-26T11:35:16Z",
+      "message": "Add images of first and second design iteration to repository"
+    },
+    {
+      "sha": "528e5abed070751fdbc9a3609ac73cc6421df945",
+      "author_login": "joshk",
+      "authored_at": "2013-09-19T00:28:08Z",
+      "message": "Merge pull request #1439 from nschonni/patch-3"
+    },
+    {
+      "sha": "331ae4155992ef3e41f2709ac3f0b73a8bd6b699",
+      "author_login": "nschonni",
+      "authored_at": "2013-09-18T21:01:34Z",
+      "message": "Remove references to the deleted Technical Overview docs"
+    },
+    {
+      "sha": "e71ced182b72b7471aee118d76e6ec139fcfb4c8",
+      "author_login": "rkh",
+      "authored_at": "2013-09-13T13:58:22Z",
+      "message": "update core and support [ci skip]"
+    },
+    {
+      "sha": "41a5c99d464cb0bbe6266330d0e8b1bd5655de14",
+      "author_login": "drogus",
+      "authored_at": "2013-09-09T22:21:20Z",
+      "message": "Bump travis-core"
+    },
+    {
+      "sha": "0a5b6cc76af99ec0af994d6a0d025500edeb1e37",
+      "author_login": "rkh",
+      "authored_at": "2013-09-09T15:24:22Z",
+      "message": "Merge pull request #1413 from lloydde/patch-1"
+    },
+    {
+      "sha": "57a64970bfe0c6b485a2c75f7c529439f549eede",
+      "author_login": "dwlf",
+      "authored_at": "2013-09-09T15:19:30Z",
+      "message": "readme: point travis-worker to github repo"
+    },
+    {
+      "sha": "b6ed77088f1d75e6d501558a9db63426bd3d0451",
+      "author_login": "drogus",
+      "authored_at": "2013-09-01T18:37:04Z",
+      "message": "Bump travis-core"
+    },
+    {
+      "sha": "a49747d2c383f432554ecaef37b2e0130a35ad76",
+      "author_login": "drogus",
+      "authored_at": "2013-08-14T09:21:31Z",
+      "message": "Starting Travis::Features is no longer needed"
+    },
+    {
+      "sha": "452572f302bb8f290eaf00116f3b46306a1c9c26",
+      "author_login": "drogus",
+      "authored_at": "2013-08-09T16:39:19Z",
+      "message": "Bump travis-core (cancel changes)"
+    },
+    {
+      "sha": "aeb8cabd3b43ba44e73e86771a0eca9e343ba182",
+      "author_login": "drogus",
+      "authored_at": "2013-07-10T11:23:26Z",
+      "message": "Add hack for ddl_transactions"
+    },
+    {
+      "sha": "84cdfd6801684807419d7545906effbf7986466f",
+      "author_login": "drogus",
+      "authored_at": "2013-07-08T13:51:49Z",
+      "message": "Use hh-update-user-when-renamed branch for travis-core"
+    },
+    {
+      "sha": "c40720c4af15fc1a5abf628b77d0bc37546a6a12",
+      "author_login": "roidrage",
+      "authored_at": "2013-07-21T19:18:42Z",
+      "message": "Merge pull request #1271 from dmyers/master"
+    },
+    {
+      "sha": "7d269f3c684cca491ed25b885b1ca554e51fcf76",
+      "author_login": "dmyers",
+      "authored_at": "2013-07-21T18:54:19Z",
+      "message": "Fixed twitter link in readme"
+    },
+    {
+      "sha": "77d65e7833fa43e5a606e57c0caa53befdef3110",
+      "author_login": "sarahhodne",
+      "authored_at": "2013-07-16T08:52:26Z",
+      "message": "Finish a sentence in CONTRIBUTING.md"
+    },
+    {
+      "sha": "c2d9102c12e9abe707d612ba63e4382f3adc0b8f",
+      "author_login": "sarahhodne",
+      "authored_at": "2013-07-16T08:47:20Z",
+      "message": "Update contributor guidelines"
+    },
+    {
+      "sha": "8407ae6574981971fdfb605db14dfd3f2d880f09",
+      "author_login": "joshk",
+      "authored_at": "2013-07-08T11:51:23Z",
+      "message": "update core"
+    },
+    {
+      "sha": "4e471188bd00eda634af4db95ed0bb7b8a877d64",
+      "author_login": "joshk",
+      "authored_at": "2013-07-06T19:38:46Z",
+      "message": "bump core for migration changes"
+    },
+    {
+      "sha": "d4e586da873428e42373e4ed3e7b722bed564550",
+      "author_login": "joshk",
+      "authored_at": "2013-07-05T17:10:40Z",
+      "message": "some migration changes"
+    },
+    {
+      "sha": "cb270478516504db9ca6a46f082d8cdaaa9a2e35",
+      "author_login": "joshk",
+      "authored_at": "2013-07-05T11:47:46Z",
+      "message": "update travis-core for some new migrations"
+    },
+    {
+      "sha": "59f5cad5cddcfac4a3be67bba83e6eada0eaa8a1",
+      "author_login": "joshk",
+      "authored_at": "2013-07-02T16:25:33Z",
+      "message": "bump travis-core for updated migrations"
+    },
+    {
+      "sha": "bd0eb5456726245a3b8c55d99b6d3d37ee02302f",
+      "author_login": "drogus",
+      "authored_at": "2013-06-29T17:58:56Z",
+      "message": "Bump travis-core"
+    },
+    {
+      "sha": "42f522c27c32449a5a555c72270954632905b298",
+      "author_login": "drogus",
+      "authored_at": "2013-06-29T13:44:51Z",
+      "message": "Bump travis-core"
+    },
+    {
+      "sha": "30e0fc2c0a2edf230e7748155495a7790969fa74",
+      "author_login": "drogus",
+      "authored_at": "2013-06-29T12:58:33Z",
+      "message": "Bump travis-core"
+    },
+    {
+      "sha": "7f387bca7226ee3daa53b76b2a232c48e52dda50",
+      "author_login": "drogus",
+      "authored_at": "2013-06-29T12:54:02Z",
+      "message": "Bump travis-core"
+    },
+    {
+      "sha": "3fcb181121037c032046efcc48a0a5f8331d4c66",
+      "author_login": "drogus",
+      "authored_at": "2013-06-29T12:38:43Z",
+      "message": "Bump travis-core"
+    }
+  ],
+  "issues": [
+    {
+      "number": 10597,
+      "title": ".NET 10 support for `language: csharp`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-29T15:55:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 10595,
+      "title": "wrong spelling landing page",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-03T13:34:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 10594,
+      "title": "Travis",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-11T14:45:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 10593,
+      "title": "Focal minimal image seems to have changed unexpectedly",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-10-07T17:30:16Z",
+      "closed_at": "2025-10-08T13:14:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10592,
+      "title": "problem when cmd :gvm install 1.4",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-09-08T15:02:05Z",
+      "closed_at": "2025-09-08T15:03:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10591,
+      "title": "https://rubygems.org/api/v1/gems/nonexistentgem.json",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-05-18T23:28:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 10590,
+      "title": "zlib in php 8.4 defaults",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-05-15T09:13:47Z",
+      "closed_at": "2025-05-16T09:24:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10589,
+      "title": "Issues migrating my build to Trusty",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-25T16:54:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 10588,
+      "title": "wrong java version in CLI",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-21T11:46:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 10585,
+      "title": "Failing in running the make command",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-25T06:21:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 10584,
+      "title": "wrong final block length error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-12T05:54:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 10578,
+      "title": "fails to load a file from AWS S3",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-23T05:28:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 10577,
+      "title": "Revert \"Stale Bot: never close issues with a 'security' label\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-07-20T09:19:10Z",
+      "closed_at": "2023-07-20T09:19:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10576,
+      "title": "Travisc",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-24T21:09:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 10575,
+      "title": "gitPlugin报错",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-11-29T01:04:33Z",
+      "closed_at": "2022-11-29T01:04:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10573,
+      "title": "How to display the mail id of the person who triggered the build in github",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-11-02T09:34:51Z",
+      "closed_at": "2022-11-02T09:34:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10572,
+      "title": "jaho8chain",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-10-08T07:39:43Z",
+      "closed_at": "2022-10-08T07:39:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10571,
+      "title": "“sudo apt-get -qq update” failed and exited with 100 during",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-09-20T08:57:16Z",
+      "closed_at": "2022-09-20T08:57:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10569,
+      "title": "attempting to download cache archive fetching main/cache--linux-xenial-b860e2a134b4a96fa6d81c99364fec94136efdcf227b14573026a0adcbced192--jdk-oraclejdk8.tgz",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-06-19T00:12:41Z",
+      "closed_at": "2022-06-19T00:13:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10568,
+      "title": "\"This repository contains the central issue tracker for the Travis CI project\"",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-06-16T16:34:38Z",
+      "closed_at": "2022-06-16T16:34:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10567,
+      "title": "SonarQube server [http://192.168.1.101:8080] can not be reached",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-06-07T12:41:06Z",
+      "closed_at": "2022-06-07T12:41:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10566,
+      "title": "logging in via travis-ci.org failed. ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-24T06:47:47Z",
+      "closed_at": "2022-05-24T06:47:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10564,
+      "title": "Task :app:compileDevReleaseJavaWithJavac FAILED",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-04-14T09:47:34Z",
+      "closed_at": "2022-04-14T09:47:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10563,
+      "title": "Error: Process completed with exit code 1. - ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-03-18T18:12:06Z",
+      "closed_at": "2022-03-18T18:12:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10562,
+      "title": "Environmental variable issue",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-02-16T03:33:09Z",
+      "closed_at": "2022-02-16T03:33:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10561,
+      "title": "While activating the repository using repo id it returns 404 error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-02-11T03:56:51Z",
+      "closed_at": "2022-02-11T03:57:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10560,
+      "title": "Yj",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-12-31T01:56:23Z",
+      "closed_at": "2021-12-31T01:56:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10559,
+      "title": "iojs failed to install due to a certificate problem.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-10-19T14:07:13Z",
+      "closed_at": "2021-10-19T14:07:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10558,
+      "title": "Auto-cancel running builds if a new commit and push has been done",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-09-22T13:19:28Z",
+      "closed_at": "2021-09-22T13:19:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10554,
+      "title": "Title travis-ci/travis-ci/worker",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-22T11:22:20Z",
+      "closed_at": "2021-06-22T11:22:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10553,
+      "title": "cccccclulrfgehlleeinhhdbrndlkgegecjnegkcvncc",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-19T03:45:28Z",
+      "closed_at": "2021-06-19T03:45:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10550,
+      "title": "Unable to login",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-04-27T07:19:05Z",
+      "closed_at": "2021-04-27T07:19:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10549,
+      "title": "Call to virNetworkCreate failed",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-03-31T23:07:30Z",
+      "closed_at": "2021-03-31T23:08:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10535,
+      "title": "PyPy package is missing",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-19T12:36:28Z",
+      "closed_at": "2020-12-19T12:36:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10534,
+      "title": "Pls, update description, \"Free CI\" is far misleading",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-17T23:23:21Z",
+      "closed_at": "2020-12-17T23:23:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10533,
+      "title": "why the build is always queued?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-05T16:34:44Z",
+      "closed_at": "2020-12-05T16:34:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10532,
+      "title": "Combine cron-scheduled builds checks about github changes",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-11-20T15:58:37Z",
+      "closed_at": "2020-11-20T15:58:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10531,
+      "title": "Build stuck on old commit",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-11-19T17:23:34Z",
+      "closed_at": "2020-11-19T17:23:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10530,
+      "title": "Relative imports in React projects can not be found",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-11-14T16:39:45Z",
+      "closed_at": "2020-11-14T16:39:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10529,
+      "title": "#8389 needs to be reopened",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-11-08T09:33:01Z",
+      "closed_at": "2020-11-08T09:33:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10528,
+      "title": "Option to Only Have a Build Run Once on a PR",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-16T14:35:42Z",
+      "closed_at": "2020-10-16T14:35:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10527,
+      "title": "Add PHP 8.0 Image",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-09T23:30:20Z",
+      "closed_at": "2020-10-09T23:30:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10525,
+      "title": "body: in releases deployment doesn't quote it's argument whne passing it to GitHub APi",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-09T22:33:59Z",
+      "closed_at": "2020-09-09T22:34:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10524,
+      "title": "Login with BitBucket account",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-25T15:37:32Z",
+      "closed_at": "2020-07-25T15:37:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10523,
+      "title": "No output has been received in the last 10m0s, this potentially indicates a stalled build or something wrong with the build itself. Check the details on how to adjust your build configuration on: http",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-17T09:01:36Z",
+      "closed_at": "2020-07-17T09:01:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10522,
+      "title": "Issues migrating my build to Trusty",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-05T15:45:27Z",
+      "closed_at": "2020-07-05T15:45:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10521,
+      "title": "Stale Bot: never close issues with a 'security' label",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-17T13:28:42Z",
+      "closed_at": "2020-06-17T13:51:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10520,
+      "title": "badge: travis returning different badges with same etag for two requests  at the same time",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-17T09:57:58Z",
+      "closed_at": "2020-06-17T09:58:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10519,
+      "title": "Resource not found (or insufficient access)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-11T19:02:43Z",
+      "closed_at": "2020-06-11T19:03:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10518,
+      "title": "Not showing new repositories",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-06T05:10:10Z",
+      "closed_at": "2020-06-06T05:10:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10517,
+      "title": "ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-02T15:24:38Z",
+      "closed_at": "2020-06-02T15:24:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10516,
+      "title": "Losing environment variables",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-23T22:43:42Z",
+      "closed_at": "2020-05-23T22:43:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10515,
+      "title": "Ignore repositories from organization? ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-21T14:59:14Z",
+      "closed_at": "2020-05-21T14:59:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10514,
+      "title": "Travis uses stale config when restarting a build",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-12T03:11:19Z",
+      "closed_at": "2020-05-12T03:11:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10513,
+      "title": "`travis lint` cannot exit cleanly with deploy.skip_cleanup variable on non-edge deploy",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-02T02:46:30Z",
+      "closed_at": "2020-05-02T02:46:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10512,
+      "title": "TRAVIS_BUILD_STAGE_NAME isn't capitalized ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-18T20:24:03Z",
+      "closed_at": "2020-04-18T20:24:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10511,
+      "title": "Travil ci build failed whiile running npm copyfiles",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-15T01:07:15Z",
+      "closed_at": "2020-04-15T01:07:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10509,
+      "title": "Android 29 - android-update-sdk: command not found",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-03-13T09:07:03Z",
+      "closed_at": "2020-03-13T09:07:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10508,
+      "title": "Key 'cleanup: false' not working even if suggested in config validation",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-03-01T07:26:57Z",
+      "closed_at": "2020-03-01T07:26:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10507,
+      "title": "Juist test",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-02-13T02:53:10Z",
+      "closed_at": "2020-02-15T13:44:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10506,
+      "title": "use  set -x your password will be open in build logs",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-02-12T08:53:24Z",
+      "closed_at": "2020-02-12T08:53:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10505,
+      "title": "🤔 Support .travis.yml files in the .github directory",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-02-12T03:39:02Z",
+      "closed_at": "2020-02-12T03:39:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10504,
+      "title": "Travis CI is not detecting the termination of shell script when arch is ppc64le",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-02-08T13:52:37Z",
+      "closed_at": "2020-02-08T13:52:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10503,
+      "title": "architecture icon not rendered properly on some browsers",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-29T08:18:36Z",
+      "closed_at": "2020-01-29T08:18:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10502,
+      "title": "JAVA_HOME is not exported for arm64 architecture",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-24T09:48:25Z",
+      "closed_at": "2020-01-24T09:48:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10501,
+      "title": "Dynamic Parallel Execution Flow",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-13T12:02:12Z",
+      "closed_at": "2020-01-13T12:02:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10500,
+      "title": "Issue Reference in Travis-CI Docs",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-03T22:56:29Z",
+      "closed_at": "2020-01-03T22:56:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10499,
+      "title": "Add link to language-specific scripts",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-12-30T12:07:11Z",
+      "closed_at": "2020-03-18T15:17:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10498,
+      "title": "npm deploy failed && missing api_key, but I have set it",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-12-26T04:03:25Z",
+      "closed_at": "2019-12-26T04:03:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10497,
+      "title": "ppc64le: An error occurred while generating the build script.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-12-25T06:17:46Z",
+      "closed_at": "2019-12-25T06:17:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10496,
+      "title": "Я в шоке.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-12-23T20:04:12Z",
+      "closed_at": "2019-12-23T20:04:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10494,
+      "title": "Display complete commit title in Travis Builds",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-12-14T11:03:37Z",
+      "closed_at": "2019-12-14T11:03:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10493,
+      "title": "Erlang/OTP 21.1.4 missing? Only for ARM64",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-12-13T08:01:35Z",
+      "closed_at": "2019-12-13T08:01:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10492,
+      "title": "Multiple Git vulnerabilities in 2.24 and older",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-12-11T22:16:21Z",
+      "closed_at": "2019-12-11T22:16:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10491,
+      "title": "Job status reporting bug",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-12-11T18:40:03Z",
+      "closed_at": "2019-12-11T18:40:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10490,
+      "title": "Support for deployment to GitHub packages",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-12-05T14:54:53Z",
+      "closed_at": "2019-12-05T14:55:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10489,
+      "title": "travis-Ci",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-12-01T00:36:05Z",
+      "closed_at": "2019-12-01T23:22:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10488,
+      "title": "newer Erlang on AArch64 on Xenial and/or Bionic",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-11-27T13:05:17Z",
+      "closed_at": "2019-11-27T13:05:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10487,
+      "title": "Travis-ci",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-11-17T20:52:01Z",
+      "closed_at": "2019-11-18T01:12:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10486,
+      "title": "Travis Ci",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-11-14T21:54:06Z",
+      "closed_at": "2019-11-15T16:43:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10485,
+      "title": "thanks",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-11-14T21:46:46Z",
+      "closed_at": "2019-11-14T21:47:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10484,
+      "title": "Perl - Travis Xenial image cannot install Perl versions prior to 5.22 ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-11-13T08:49:35Z",
+      "closed_at": "2019-11-13T08:49:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10483,
+      "title": "Build matrix language runtime version should resolve to a specific version for \"latest\"",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-11-11T20:44:36Z",
+      "closed_at": "2019-11-11T20:44:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10482,
+      "title": "Travis OSX build failure due to \"brew install ..\" raising errors",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-10-30T09:35:10Z",
+      "closed_at": "2019-10-30T09:35:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10481,
+      "title": "travis_wait exiting with exit code 1",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-10-29T14:56:38Z",
+      "closed_at": "2019-10-29T14:56:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10480,
+      "title": "Correct the documentation regarding before_script section and non-zero exit code",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-10-26T15:23:33Z",
+      "closed_at": "2019-10-26T15:23:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10479,
+      "title": "Setting up Travis CI with SVN",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-10-25T10:58:36Z",
+      "closed_at": "2019-10-25T10:58:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10478,
+      "title": "Travis job fails tests randomly and terminates builds abruptly",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-10-22T05:30:10Z",
+      "closed_at": "2019-10-22T05:30:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10477,
+      "title": "why ??  The local build is fine, using Travis -ci can't resolve error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-10-13T15:32:49Z",
+      "closed_at": "2019-10-13T15:32:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10476,
+      "title": "jdk_switcher: command not found",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-10-07T21:49:04Z",
+      "closed_at": "2019-10-07T21:49:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10475,
+      "title": "GLIB 2.27 can't be found",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-10-04T19:42:31Z",
+      "closed_at": "2019-10-04T19:42:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10474,
+      "title": "Problem performing multiplis deploys in heroku",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-09-24T15:41:23Z",
+      "closed_at": "2019-09-24T15:41:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10473,
+      "title": "Branch restricted env vars loading in different branch",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-09-19T14:00:33Z",
+      "closed_at": "2019-09-19T14:00:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10472,
+      "title": ".yml",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-12T17:46:07Z",
+      "closed_at": "2019-09-12T17:47:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10471,
+      "title": "error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-09-06T08:11:07Z",
+      "closed_at": "2019-09-06T08:11:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10470,
+      "title": "error ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-09-05T14:37:15Z",
+      "closed_at": "2019-09-05T14:37:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10469,
+      "title": "Document that \"legacy\" key format is required when uploading SSH private keys.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-09-05T14:15:34Z",
+      "closed_at": "2019-09-05T14:15:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10468,
+      "title": "Cancel all builds from a PR",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-09-02T16:02:59Z",
+      "closed_at": "2019-09-02T16:03:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10467,
+      "title": "An option to hide the organization's repositories which I owned?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-08-29T05:14:56Z",
+      "closed_at": "2019-08-29T05:15:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10466,
+      "title": "Strange pypi behavior",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-08-28T21:07:22Z",
+      "closed_at": "2019-08-28T21:07:25Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "joshk",
+      "contributions": 484
+    },
+    {
+      "login": "sferik",
+      "contributions": 285
+    },
+    {
+      "login": "ifesdjeen",
+      "contributions": 188
+    },
+    {
+      "login": "svenfuchs",
+      "contributions": 101
+    },
+    {
+      "login": "roidrage",
+      "contributions": 98
+    },
+    {
+      "login": "michaelklishin",
+      "contributions": 63
+    },
+    {
+      "login": "ndbroadbent",
+      "contributions": 50
+    },
+    {
+      "login": "rkh",
+      "contributions": 47
+    },
+    {
+      "login": "drogus",
+      "contributions": 38
+    },
+    {
+      "login": "dmathieu",
+      "contributions": 35
+    },
+    {
+      "login": "KL-7",
+      "contributions": 34
+    },
+    {
+      "login": "sarahhodne",
+      "contributions": 34
+    },
+    {
+      "login": "mmalecki",
+      "contributions": 24
+    },
+    {
+      "login": "DrTorte",
+      "contributions": 23
+    },
+    {
+      "login": "BanzaiMan",
+      "contributions": 21
+    },
+    {
+      "login": "fxposter",
+      "contributions": 15
+    },
+    {
+      "login": "parndt",
+      "contributions": 15
+    },
+    {
+      "login": "tjeden",
+      "contributions": 14
+    },
+    {
+      "login": "flippingbits",
+      "contributions": 12
+    },
+    {
+      "login": "tilsammans",
+      "contributions": 10
+    },
+    {
+      "login": "rubiii",
+      "contributions": 10
+    },
+    {
+      "login": "sethvargo",
+      "contributions": 8
+    },
+    {
+      "login": "franckverrot",
+      "contributions": 7
+    },
+    {
+      "login": "SweeD",
+      "contributions": 7
+    },
+    {
+      "login": "lukeredpath",
+      "contributions": 6
+    },
+    {
+      "login": "bsiggelkow",
+      "contributions": 6
+    },
+    {
+      "login": "dhiemstra",
+      "contributions": 5
+    },
+    {
+      "login": "hoverlover",
+      "contributions": 5
+    },
+    {
+      "login": "simi",
+      "contributions": 5
+    },
+    {
+      "login": "Antiarchitect",
+      "contributions": 4
+    },
+    {
+      "login": "gilesbowkett",
+      "contributions": 4
+    },
+    {
+      "login": "lenary",
+      "contributions": 4
+    },
+    {
+      "login": "lukaszx0",
+      "contributions": 4
+    },
+    {
+      "login": "loicfrering",
+      "contributions": 4
+    },
+    {
+      "login": "tchak",
+      "contributions": 3
+    },
+    {
+      "login": "nschonni",
+      "contributions": 3
+    },
+    {
+      "login": "Mab879",
+      "contributions": 3
+    },
+    {
+      "login": "argami",
+      "contributions": 3
+    },
+    {
+      "login": "fritzek",
+      "contributions": 3
+    },
+    {
+      "login": "brucespang",
+      "contributions": 3
+    },
+    {
+      "login": "arunagw",
+      "contributions": 3
+    },
+    {
+      "login": "aderyabin",
+      "contributions": 3
+    },
+    {
+      "login": "carlad",
+      "contributions": 2
+    },
+    {
+      "login": "benedikt",
+      "contributions": 2
+    },
+    {
+      "login": "koraktor",
+      "contributions": 2
+    },
+    {
+      "login": "pborreli",
+      "contributions": 2
+    },
+    {
+      "login": "martinciu",
+      "contributions": 2
+    },
+    {
+      "login": "joelmahoney",
+      "contributions": 2
+    },
+    {
+      "login": "guilleiguaran",
+      "contributions": 2
+    },
+    {
+      "login": "acook",
+      "contributions": 2
+    },
+    {
+      "login": "arsduo",
+      "contributions": 1
+    },
+    {
+      "login": "dwlf",
+      "contributions": 1
+    },
+    {
+      "login": "mlafeldt",
+      "contributions": 1
+    },
+    {
+      "login": "kronn",
+      "contributions": 1
+    },
+    {
+      "login": "qrush",
+      "contributions": 1
+    },
+    {
+      "login": "fb3",
+      "contributions": 1
+    },
+    {
+      "login": "niklas",
+      "contributions": 1
+    },
+    {
+      "login": "markelog",
+      "contributions": 1
+    },
+    {
+      "login": "randym",
+      "contributions": 1
+    },
+    {
+      "login": "robinbortlik",
+      "contributions": 1
+    },
+    {
+      "login": "lest",
+      "contributions": 1
+    },
+    {
+      "login": "steveklabnik",
+      "contributions": 1
+    },
+    {
+      "login": "laserlemon",
+      "contributions": 1
+    },
+    {
+      "login": "halorgium",
+      "contributions": 1
+    },
+    {
+      "login": "timholy",
+      "contributions": 1
+    },
+    {
+      "login": "TrevorBramble",
+      "contributions": 1
+    },
+    {
+      "login": "ugisozols",
+      "contributions": 1
+    },
+    {
+      "login": "vzmind",
+      "contributions": 1
+    },
+    {
+      "login": "waseem",
+      "contributions": 1
+    },
+    {
+      "login": "javigomez",
+      "contributions": 1
+    },
+    {
+      "login": "lassepe",
+      "contributions": 1
+    },
+    {
+      "login": "romainberger",
+      "contributions": 1
+    },
+    {
+      "login": "SUPERCILEX",
+      "contributions": 1
+    },
+    {
+      "login": "akahn",
+      "contributions": 1
+    },
+    {
+      "login": "alco",
+      "contributions": 1
+    },
+    {
+      "login": "indirect",
+      "contributions": 1
+    },
+    {
+      "login": "antekpiechnik",
+      "contributions": 1
+    },
+    {
+      "login": "ariejan",
+      "contributions": 1
+    },
+    {
+      "login": "0b10011",
+      "contributions": 1
+    },
+    {
+      "login": "Lyoness",
+      "contributions": 1
+    },
+    {
+      "login": "kimptoc",
+      "contributions": 1
+    },
+    {
+      "login": "chrismcg",
+      "contributions": 1
+    },
+    {
+      "login": "defunkt",
+      "contributions": 1
+    },
+    {
+      "login": "dmyers",
+      "contributions": 1
+    },
+    {
+      "login": "dbussink",
+      "contributions": 1
+    },
+    {
+      "login": "KODerFunk",
+      "contributions": 1
+    },
+    {
+      "login": "drnic",
+      "contributions": 1
+    },
+    {
+      "login": "EvanDotPro",
+      "contributions": 1
+    },
+    {
+      "login": "tay",
+      "contributions": 1
+    },
+    {
+      "login": "fgo",
+      "contributions": 1
+    },
+    {
+      "login": "jack-pappas",
+      "contributions": 1
+    },
+    {
+      "login": "jamesalmond",
+      "contributions": 1
+    },
+    {
+      "login": "joliss",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-09-14T11:26:26.497500Z"
+}

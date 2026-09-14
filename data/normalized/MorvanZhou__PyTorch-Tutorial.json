@@ -1,0 +1,1582 @@
+{
+  "full_name": "MorvanZhou/PyTorch-Tutorial",
+  "owner": "MorvanZhou",
+  "name": "PyTorch-Tutorial",
+  "url": "https://github.com/MorvanZhou/PyTorch-Tutorial",
+  "description": "Build your neural network easy and fast, 莫烦Python中文教学",
+  "primary_language": "Jupyter Notebook",
+  "topics": [
+    "autoencoder",
+    "batch",
+    "batch-normalization",
+    "classification",
+    "cnn",
+    "dqn",
+    "dropout",
+    "gan",
+    "generative-adversarial-network",
+    "machine-learning",
+    "neural-network",
+    "python",
+    "pytorch",
+    "pytorch-tutorial",
+    "pytorch-tutorials",
+    "regression",
+    "reinforcement-learning",
+    "rnn",
+    "tutorial"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 8467,
+  "forks": 3084,
+  "open_issues": 29,
+  "created_at": "2017-05-05T15:12:04Z",
+  "pushed_at": "2023-03-23T05:01:42Z",
+  "updated_at": "2026-09-14T09:13:58Z",
+  "commits": [
+    {
+      "sha": "dbe154a9e56635e51c6b0c2ccea8ae36cfb585a7",
+      "author_login": "MorvanZhou",
+      "authored_at": "2022-05-16T03:32:56Z",
+      "message": "Merge pull request #106 from changmeen/master"
+    },
+    {
+      "sha": "8c5754874d3fd61c08f886c26bb050d2360b86bb",
+      "author_login": "changmeen",
+      "authored_at": "2022-05-14T12:12:49Z",
+      "message": "Update 504_batch_normalization.ipynb"
+    },
+    {
+      "sha": "57aaef871a62f0e4604f743b5e9139e803d6fc1a",
+      "author_login": "MorvanZhou",
+      "authored_at": "2022-05-13T02:08:03Z",
+      "message": "Merge pull request #105 from YumiGo/ym_develop2"
+    },
+    {
+      "sha": "3fd406492d8c2baa4c7083f6f0299ee36ecffa5e",
+      "author_login": "YumiGo",
+      "authored_at": "2022-05-12T15:41:39Z",
+      "message": "Update 401_CNN.ipynb"
+    },
+    {
+      "sha": "4e5122c3734dcdc9ace164c2a87fbd412ca1d431",
+      "author_login": "MorvanZhou",
+      "authored_at": "2020-10-29T13:41:31Z",
+      "message": "u"
+    },
+    {
+      "sha": "f21f6125b5b6543b87fca9cfdb56e44176a2028c",
+      "author_login": null,
+      "authored_at": "2020-10-29T12:36:21Z",
+      "message": "update"
+    },
+    {
+      "sha": "98eddd15de7af1e18da484a224f7a56ddb0808ae",
+      "author_login": null,
+      "authored_at": "2020-06-08T02:43:02Z",
+      "message": "update"
+    },
+    {
+      "sha": "f52e199a4f9e73b466d5380fd113273c613d47ca",
+      "author_login": null,
+      "authored_at": "2020-06-08T02:34:41Z",
+      "message": "update for new version of torch"
+    },
+    {
+      "sha": "50d201c78993b00b7b170949f9f88aae6d5ba879",
+      "author_login": "MorvanZhou",
+      "authored_at": "2020-06-08T02:32:58Z",
+      "message": "Merge pull request #91 from sijiali57/Update_406_GAN"
+    },
+    {
+      "sha": "a7bfd6615d8b2df098cd3868610695a01700349a",
+      "author_login": null,
+      "authored_at": "2020-06-06T21:53:16Z",
+      "message": "Update 406_GAN"
+    },
+    {
+      "sha": "9626a06ecb4e04fe4425f9350a658014caeaa274",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-12-03T06:32:44Z",
+      "message": "Merge pull request #66 from jingege315/patch-1"
+    },
+    {
+      "sha": "7f0e442d8bb0174306f5aed05d67edff673bd44c",
+      "author_login": "jingege315",
+      "authored_at": "2018-11-30T13:49:23Z",
+      "message": "循环的最后一个元素和下一次循环的第一个元素时间不连续"
+    },
+    {
+      "sha": "51c6c660c7658c13c2db9107a1cc54dadf240bd4",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-11-19T02:41:11Z",
+      "message": "update for new version of torch"
+    },
+    {
+      "sha": "abee521eeb12ad2ec1d08d799f22257be5e57ae7",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-11-13T02:43:19Z",
+      "message": "Merge remote-tracking branch 'origin/master'"
+    },
+    {
+      "sha": "759aa01de78334a42074e1f7262e275ec060c2c4",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-11-13T02:33:47Z",
+      "message": "Merge pull request #62 from keineahnung2345/502-squeeze"
+    },
+    {
+      "sha": "818b4b4411fa6534d698f34700d969c8fdb30817",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-11-13T02:33:26Z",
+      "message": "Merge pull request #61 from keineahnung2345/403-comment"
+    },
+    {
+      "sha": "0b3aa238ba36096930f9166391ea8061d7cbc2e9",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-11-13T02:32:26Z",
+      "message": "Merge pull request #60 from keineahnung2345/402-squeeze"
+    },
+    {
+      "sha": "3e2d0b8a40799f979c86a29f79f6baf5c721af8e",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-11-13T02:26:34Z",
+      "message": "update for new version of torch"
+    },
+    {
+      "sha": "903820ef353a0f15beaa90208190e474ab43d5e6",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-11-13T02:22:41Z",
+      "message": "Merge pull request #58 from keineahnung2345/403-view"
+    },
+    {
+      "sha": "5d6d4f056e359beee64d22c53cbd76e95e67b45a",
+      "author_login": "keineahnung2345",
+      "authored_at": "2018-11-13T02:05:44Z",
+      "message": "502 - remove squeeze for 1-D tensor"
+    },
+    {
+      "sha": "256559c12ae58fefb73810af94f357f609ded5db",
+      "author_login": "keineahnung2345",
+      "authored_at": "2018-11-13T01:34:19Z",
+      "message": "403 - move the comment to right place"
+    },
+    {
+      "sha": "7411f602fb7786eb6551952547ac0e0436437068",
+      "author_login": "keineahnung2345",
+      "authored_at": "2018-11-13T01:13:44Z",
+      "message": "402 - remove squeeze for 1-D array"
+    },
+    {
+      "sha": "61d6dc6757bb7db7ef45d765efdcf88cdd227b4c",
+      "author_login": "keineahnung2345",
+      "authored_at": "2018-11-12T06:24:09Z",
+      "message": "supplement another method"
+    },
+    {
+      "sha": "2748b02bd64343ddbef52c083250b4f045a1abf0",
+      "author_login": "keineahnung2345",
+      "authored_at": "2018-11-12T06:18:49Z",
+      "message": "fill up the missing view() in forward() in comment"
+    },
+    {
+      "sha": "40bcdb5c6c7793273186b6f2626ea6c28e966269",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-11-12T01:46:32Z",
+      "message": "Merge pull request #55 from keineahnung2345/401-cnn"
+    },
+    {
+      "sha": "a9ef65ed9ac8ea1786425b8ea99060793162a212",
+      "author_login": "keineahnung2345",
+      "authored_at": "2018-11-09T09:26:27Z",
+      "message": "[Bug fix] 401_CNN.py "
+    },
+    {
+      "sha": "0f4219c72c18ffc28af771b43ec3271573d8fab1",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-11-08T11:43:20Z",
+      "message": "Merge pull request #53 from keineahnung2345/302-squeeze"
+    },
+    {
+      "sha": "867aa1d1b21e2ed249b170d913c952d05587b1ad",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-11-08T11:42:52Z",
+      "message": "Merge pull request #52 from keineahnung2345/update-203-activation"
+    },
+    {
+      "sha": "bf4cf1e70074e6fb235d215c14bbcda450d16546",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-11-08T11:40:27Z",
+      "message": "update for new version of torch"
+    },
+    {
+      "sha": "5b1d1919463ed4f7cfc562be067deaef05cf991a",
+      "author_login": "keineahnung2345",
+      "authored_at": "2018-11-08T06:14:35Z",
+      "message": "302 - remove .squeeze() from 1-D numpy array"
+    },
+    {
+      "sha": "59487ef2b4c05156562b63b631092ca8985459b7",
+      "author_login": "keineahnung2345",
+      "authored_at": "2018-11-07T08:11:19Z",
+      "message": "update to torch 0.4"
+    },
+    {
+      "sha": "906cf71b6f73b9a3bbca7f81ada91810d4b89a07",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-11-07T08:08:38Z",
+      "message": "update for new version of torch"
+    },
+    {
+      "sha": "ce55cc9446b5dafd39f075d5ada677344bfa5f3b",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-11-07T07:58:12Z",
+      "message": "fix bug"
+    },
+    {
+      "sha": "889455575a21e3572154d5cbf81643a2381277bd",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-08-06T11:25:14Z",
+      "message": "Merge remote-tracking branch 'origin/master'"
+    },
+    {
+      "sha": "7d95eb3e30173963383631e38df79492b112c926",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-08-06T11:24:48Z",
+      "message": "update"
+    },
+    {
+      "sha": "304c0b230feb2d36d5b0407746ada62d8ed3a900",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-07-15T12:25:38Z",
+      "message": "Merge pull request #31 from Hierom/patch-1"
+    },
+    {
+      "sha": "b161aa063fec95f9db2aaa7b6a0072fac780380a",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-07-15T12:24:35Z",
+      "message": "Merge pull request #32 from Hierom/patch-2"
+    },
+    {
+      "sha": "99158fd0ca952f211911ca26e548e88211c9d57e",
+      "author_login": "Hierom",
+      "authored_at": "2018-07-14T14:35:34Z",
+      "message": "Fixing error accurate and error tensor to numpy"
+    },
+    {
+      "sha": "410f7eca889987e07427127e4d313da6522b189d",
+      "author_login": "Hierom",
+      "authored_at": "2018-07-12T09:14:10Z",
+      "message": "Update 301_regression.ipynb"
+    },
+    {
+      "sha": "840ed35b9c269a03597691519dc425cd44dfac9e",
+      "author_login": "Hierom",
+      "authored_at": "2018-07-12T09:08:43Z",
+      "message": "Update 301_regression.ipynb"
+    },
+    {
+      "sha": "0212a9d368ca68ed50deb8bcf80fc9a33221067d",
+      "author_login": "Hierom",
+      "authored_at": "2018-07-12T09:01:31Z",
+      "message": "Fixing error learning rate for this sample"
+    },
+    {
+      "sha": "d053113d3a15ea084c164ab16e9e3fe3e7342eae",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-07-05T08:38:07Z",
+      "message": "fixed for windows"
+    },
+    {
+      "sha": "f2ebd8a37bf1ef3887d9cba1ee01b1f107430f11",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-06-29T02:09:52Z",
+      "message": "update accuracy function"
+    },
+    {
+      "sha": "79380fb90e33c2d387f26fec7d742fe387420e39",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-06-14T14:20:51Z",
+      "message": "fix typo"
+    },
+    {
+      "sha": "921b69a5820ebfbfdd5b6307ebd077c8f56459e7",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-05-29T17:39:53Z",
+      "message": "update to torch 0.4"
+    },
+    {
+      "sha": "7e7c9bb383887f1737c69f8a00adb966b10f7dc7",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-05-29T16:46:22Z",
+      "message": "update to torch 0.4"
+    },
+    {
+      "sha": "538ba189758d8c5dc3abe164a4c1c69556dee88b",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-05-29T16:32:22Z",
+      "message": "Merge pull request #27 from AyushExel/patch-2"
+    },
+    {
+      "sha": "e19eb5d0601e4ed70c8520c0a949737b69b73dfc",
+      "author_login": null,
+      "authored_at": "2018-05-29T15:32:10Z",
+      "message": "Remove deprecated code"
+    },
+    {
+      "sha": "de563d70fd1661db171d84fcccbff81116761600",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-05-17T07:09:08Z",
+      "message": "Merge pull request #24 from inoue0426/master"
+    },
+    {
+      "sha": "dc78eeae3b1e5f7991d5137ef69250394b1b71b2",
+      "author_login": null,
+      "authored_at": "2018-05-15T15:40:44Z",
+      "message": "bug fix"
+    },
+    {
+      "sha": "c711da855a28319bc9a839f1e169a386022e3e52",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-05-09T22:48:03Z",
+      "message": "update to torch 0.4"
+    },
+    {
+      "sha": "68396f597200ee9c9f5fb9eb0145969f7646b5f4",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-05-04T01:39:52Z",
+      "message": "fix bug for windows"
+    },
+    {
+      "sha": "46c516fc109809f4299e6bbcd045f8637aef4dd6",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-03-07T13:22:06Z",
+      "message": "fix typo"
+    },
+    {
+      "sha": "968b6e2d0beac3f2247448f4893f574528e5e631",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-02-26T03:22:03Z",
+      "message": "Merge pull request #18 from okdolly/patch-2"
+    },
+    {
+      "sha": "647a51551debe9b87592d425aaa12153f140c99b",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-02-26T01:39:11Z",
+      "message": "Merge pull request #17 from okdolly/patch-1"
+    },
+    {
+      "sha": "9beffbc7eb192491a8a6e4ec8d3f94a81b6bfba6",
+      "author_login": null,
+      "authored_at": "2018-02-18T06:52:07Z",
+      "message": "x = torch.linspace(-5,5,200), size [200]"
+    },
+    {
+      "sha": "b048c4dd84653dc703038481fa5fd92a1fbea37c",
+      "author_login": null,
+      "authored_at": "2018-02-18T06:09:20Z",
+      "message": "torch.dot does not broadcast"
+    },
+    {
+      "sha": "0b09c05dc80efd07365710725b9a35ee195664b4",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-01-18T11:29:43Z",
+      "message": "a3c"
+    },
+    {
+      "sha": "ebf9bfd25033e1bc4d0c9cd7f32cba1e69ddf251",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-01-04T05:56:37Z",
+      "message": "update for torch 0.3"
+    },
+    {
+      "sha": "f65e27f71e446738154d62e8f534884661d454a7",
+      "author_login": "MorvanZhou",
+      "authored_at": "2018-01-02T04:05:18Z",
+      "message": "update for torch 0.3"
+    },
+    {
+      "sha": "5df56c99ddf82f4e48df570d407fb8ca678838cd",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-12-15T03:21:23Z",
+      "message": "remove random seed"
+    },
+    {
+      "sha": "dcbd424b2af218eda172a636dde404396717f061",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-11-22T00:24:02Z",
+      "message": "Merge pull request #12 from YJH-666/master"
+    },
+    {
+      "sha": "895ad9a26c7e4bdcc710812868694c4fe7f704aa",
+      "author_login": "jiahuayang",
+      "authored_at": "2017-11-22T00:13:22Z",
+      "message": "mnist dataset download setting"
+    },
+    {
+      "sha": "2ae0c0fa6a8f3918b74dca0fb1eb94e3dad1cce0",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-11-08T14:45:10Z",
+      "message": "fix typo"
+    },
+    {
+      "sha": "9318a69f081c5a4074a442fc2a297e6da187a5e3",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-10-29T22:58:09Z",
+      "message": "fix action shape problem"
+    },
+    {
+      "sha": "a7b14b80913485735a3ee87da6998a511a1f1950",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-10-26T22:06:10Z",
+      "message": "fix action shape"
+    },
+    {
+      "sha": "ce4a8286fdeb16c357120be801a96d21cd486ce7",
+      "author_login": null,
+      "authored_at": "2017-09-05T02:57:40Z",
+      "message": "update for torch 0.2"
+    },
+    {
+      "sha": "3b23f6bced16eab141c2f2eed7b8849ef1c31719",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-09-05T02:57:25Z",
+      "message": "update for torch 0.2"
+    },
+    {
+      "sha": "f31c88b81e883e8d6ea29af9c3b8ea4368810a36",
+      "author_login": null,
+      "authored_at": "2017-08-28T09:52:18Z",
+      "message": "update"
+    },
+    {
+      "sha": "e7599c0f14ff0cd7c86fdc329d77fadd1edd7342",
+      "author_login": null,
+      "authored_at": "2017-08-08T15:51:16Z",
+      "message": "update"
+    },
+    {
+      "sha": "1b5fa9f7aa37a7731fc8831ab08f1e9460315a7f",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-06-27T07:00:01Z",
+      "message": "update"
+    },
+    {
+      "sha": "76c82cf67024363e803a728cd954809b902ab1df",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-06-23T00:58:37Z",
+      "message": "update"
+    },
+    {
+      "sha": "2f33447f6a272cf50fe52fb84ab05c9b703f5029",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-06-23T00:57:01Z",
+      "message": "update"
+    },
+    {
+      "sha": "bbeab365b892ce92c6d51d56e101d5bf56d7e710",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-06-23T00:56:29Z",
+      "message": "update"
+    },
+    {
+      "sha": "ae4938efd76fd8226a871fa17f3208f05697cfeb",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-06-23T00:50:50Z",
+      "message": "update"
+    },
+    {
+      "sha": "6f2bede9e9dc7f7758d5bc6bbb35205ec4fa5ecc",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-06-23T00:41:05Z",
+      "message": "Merge pull request #6 from liufuyang/master"
+    },
+    {
+      "sha": "cdd6704b8632afc882aacd19681261d9fba0edc1",
+      "author_login": "liufuyang",
+      "authored_at": "2017-06-22T21:05:34Z",
+      "message": "Add notebooks"
+    },
+    {
+      "sha": "1adcbb999f8047b8a9228186765bd612fcac6faf",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-06-21T08:12:34Z",
+      "message": "Merge pull request #5 from liufuyang/fix-up-401"
+    },
+    {
+      "sha": "528d7ccd41addf72c01fcfb85b205e14f51a44af",
+      "author_login": "liufuyang",
+      "authored_at": "2017-06-19T19:49:39Z",
+      "message": "Fix up test code"
+    },
+    {
+      "sha": "51f1c938f3c99ba6eea772b9493760680e39879d",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-06-17T14:18:42Z",
+      "message": "update"
+    },
+    {
+      "sha": "dcc4e7cb840c006bd37aec7fc9dcfb747cf901b3",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-06-17T13:50:57Z",
+      "message": "update"
+    },
+    {
+      "sha": "3fc6f4e4a0e8c519d94f985d08628e776a9209fe",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-06-11T05:49:22Z",
+      "message": "update"
+    },
+    {
+      "sha": "d6f7fbf4cfc19edacb3d16757980e772e80dd1a7",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-06-10T05:03:16Z",
+      "message": "update"
+    },
+    {
+      "sha": "cc831bf4ef0ccd43f9e960026f49f6129f5d85fa",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-29T06:04:38Z",
+      "message": "update"
+    },
+    {
+      "sha": "b2922fd3f3c8d49be3cae275375a88e844278d2a",
+      "author_login": null,
+      "authored_at": "2017-05-24T03:30:46Z",
+      "message": "update"
+    },
+    {
+      "sha": "ca6e7431e9e0b83829ef303699e2c32e2c4820ff",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-24T02:46:00Z",
+      "message": "Merge pull request #4 from howtocodewang/patch-1"
+    },
+    {
+      "sha": "9fb0f5b6c68166b4000aeffaf30ae0bc5e3e8f15",
+      "author_login": "howtocodewang",
+      "authored_at": "2017-05-24T00:59:21Z",
+      "message": "Update 502_GPU.py"
+    },
+    {
+      "sha": "d87529ed89077f93271e0ad29d060555c01c800f",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-23T00:37:51Z",
+      "message": "update"
+    },
+    {
+      "sha": "30c0070497fa4bc60d1e62d077f338419878c8b6",
+      "author_login": null,
+      "authored_at": "2017-05-13T08:37:25Z",
+      "message": "update"
+    },
+    {
+      "sha": "e95d798e680c852ebb619aa3e44214cc0f4096d6",
+      "author_login": null,
+      "authored_at": "2017-05-11T06:58:23Z",
+      "message": "update"
+    },
+    {
+      "sha": "3e3b0e9d10ce943eb126d9617d0c4f6595c3a49d",
+      "author_login": null,
+      "authored_at": "2017-05-11T06:53:32Z",
+      "message": "update"
+    },
+    {
+      "sha": "09ba66ff32d6c00ab1b56b8c25e9848a2b78025d",
+      "author_login": null,
+      "authored_at": "2017-05-11T06:01:21Z",
+      "message": "update"
+    },
+    {
+      "sha": "b2f0994193ff9ccc2fa81db85fbe42b2c114533b",
+      "author_login": null,
+      "authored_at": "2017-05-11T06:00:36Z",
+      "message": "update"
+    },
+    {
+      "sha": "452fbcded241b769fb3f2896bea5242f803625be",
+      "author_login": null,
+      "authored_at": "2017-05-11T03:58:45Z",
+      "message": "update"
+    },
+    {
+      "sha": "ad20f45e1d1d9748931e6fcf09e9153236f18995",
+      "author_login": null,
+      "authored_at": "2017-05-11T03:57:57Z",
+      "message": "update"
+    },
+    {
+      "sha": "9b785498e5cb5ba213c3715714cd0006a7a30ea7",
+      "author_login": null,
+      "authored_at": "2017-05-11T03:57:38Z",
+      "message": "update"
+    },
+    {
+      "sha": "53b13ff245eb49632e25f5f3dfa31957e87cedc3",
+      "author_login": null,
+      "authored_at": "2017-05-11T03:56:13Z",
+      "message": "update"
+    },
+    {
+      "sha": "2523e0c1b1e825031faa00773598571e4d7f6fa6",
+      "author_login": "MorvanZhou",
+      "authored_at": "2017-05-11T02:06:47Z",
+      "message": "update"
+    },
+    {
+      "sha": "29da380ec204c39275beccb0a8c8c32a238b1faa",
+      "author_login": null,
+      "authored_at": "2017-05-11T01:47:28Z",
+      "message": "update"
+    },
+    {
+      "sha": "8b3004daba203ee7f47f15ef1aac60335fc30ab5",
+      "author_login": null,
+      "authored_at": "2017-05-11T01:34:54Z",
+      "message": "update"
+    }
+  ],
+  "issues": [
+    {
+      "number": 113,
+      "title": "Small cleanup in PyTorch-Tutorial (#93)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-07-12T19:41:47Z",
+      "closed_at": "2026-07-13T12:52:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 112,
+      "title": "Update README.md with Open in Codeanywhere button",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-11-05T18:08:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 111,
+      "title": "El Golfo#@",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-11T08:35:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 110,
+      "title": "Create test.txt",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-03-23T05:01:41Z",
+      "closed_at": "2023-03-23T05:01:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 109,
+      "title": "Auto encoder predictive",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-02-01T14:26:18Z",
+      "closed_at": "2023-02-01T14:27:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 108,
+      "title": "About Memory Storage",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-23T03:32:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 107,
+      "title": "DQN的STATE如何确定",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-03T07:46:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 106,
+      "title": "Update 504_batch_normalization.ipynb",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-05-14T12:23:12Z",
+      "closed_at": "2022-05-16T03:32:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 105,
+      "title": "Update 401_CNN.ipynb",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-05-12T15:42:32Z",
+      "closed_at": "2022-05-13T02:08:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 104,
+      "title": "Update 305_batch_train.ipynb",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-05-12T15:34:42Z",
+      "closed_at": "2023-01-02T05:33:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 103,
+      "title": "more content for more exmaples",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-20T04:32:31Z",
+      "closed_at": "2025-07-14T19:16:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 102,
+      "title": "405_DQN貌似没有保存done",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-10-24T03:54:41Z",
+      "closed_at": "2021-10-25T02:59:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 101,
+      "title": "a question about 404 autoencoder.py",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-10T14:07:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 100,
+      "title": "403_RNN_regressor. 最简单forward形式有个小瑕疵",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-17T01:54:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 99,
+      "title": "DQN code chose_action",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-15T07:41:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 98,
+      "title": "retain_graph=True 相关问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-04-28T02:15:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 97,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-04-01T00:49:42Z",
+      "closed_at": "2021-04-01T00:55:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 96,
+      "title": "Why reain_graph is needed here ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-08T08:56:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 95,
+      "title": "Is there a PyTorch implementation of DDPG?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-12T08:11:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 94,
+      "title": "Added launch link in README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-15T21:47:31Z",
+      "closed_at": "2020-10-16T02:13:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 93,
+      "title": "Maybe b_y = b_label.view(-1, 28*28) is more appropriate?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-29T07:02:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 92,
+      "title": "why LSTM don't transmit hidden_state, but RNN can?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-22T03:54:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 91,
+      "title": "Update 406_GAN",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-06T21:56:59Z",
+      "closed_at": "2020-06-08T02:32:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 90,
+      "title": "Question on the forward function: why not directly use the pytorch nn.Linear function but use a for-loop to process the data from nn.rnn?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-11T05:51:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 89,
+      "title": "406_GAN.py：报梯度计算时变量被inplace操作修改错误",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-09T05:19:04Z",
+      "closed_at": "2020-06-08T02:39:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 88,
+      "title": "为什么我实现DQN的时候，奖励值一直在个位数浮动？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-07T06:05:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 87,
+      "title": "动态显示图片失效",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-27T09:34:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 86,
+      "title": "306 优化器的原代码无法绘图报错",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-03-31T15:18:07Z",
+      "closed_at": "2020-03-31T15:24:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "新版本variable有问题",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-03-19T12:20:17Z",
+      "closed_at": "2020-06-08T02:41:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "401_CNN.py",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-02-10T07:56:06Z",
+      "closed_at": "2020-02-10T14:50:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "已经解决了win10下的训练自己的数据问题，加Q群857449786 注明PyTorch-Tutorial 共同研究",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-11-23T07:02:37Z",
+      "closed_at": "2020-06-08T02:41:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 82,
+      "title": "Update 304_save_reload.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-10-12T17:54:29Z",
+      "closed_at": "2020-10-16T02:13:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 81,
+      "title": "Use Torch Variable to Change Data Types",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-10-03T12:32:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "Question about GAN code: update the generator while training the discriminator",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-08-01T18:46:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "fix to use tensor.item",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-07-30T14:56:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "batch_normalization plot issues",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-29T15:12:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "Update 402_RNN_classifier.py",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-05-17T07:18:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "Batch_size是否为1 比较合适？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-02T07:53:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "Data Loader for easy mini-batch return in training, the image batch shape will be (50, 1, 28, 28)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-01T17:10:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "请问有不有适合做回归的深度学习模型和示例？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-26T05:15:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "关于模型导入预训练参数问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-21T04:33:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "Issue on Windows",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-08T18:54:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "There are errors in 301_regression.py and 302_classification.py when plot",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-02-01T07:52:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "a question about 302_classfication.py",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-01-20T13:39:35Z",
+      "closed_at": "2019-01-21T05:24:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "mseloss",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-01-15T12:38:33Z",
+      "closed_at": "2019-01-15T15:35:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "Some question?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-01-14T07:00:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "1.0",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-12-10T05:18:15Z",
+      "closed_at": "2018-12-10T05:19:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "循环的最后一个元素和下一次循环的第一个元素时间不连续",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-30T13:49:58Z",
+      "closed_at": "2018-12-03T06:32:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 65,
+      "title": "不需要加softmax么？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-21T08:48:13Z",
+      "closed_at": "2018-11-21T09:05:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "tensor y don't need autograd",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-18T03:51:09Z",
+      "closed_at": "2018-11-19T02:42:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": "本来想问个问题，现在问题想明白了，怎么删掉这个issue?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-17T13:52:21Z",
+      "closed_at": "2018-11-17T13:54:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "502 - remove squeeze for 1-D tensor",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-13T02:06:16Z",
+      "closed_at": "2018-11-13T02:33:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "403 - move the comment to right place",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-13T01:34:47Z",
+      "closed_at": "2018-11-13T02:33:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "402 - remove squeeze for 1-D array",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-13T01:16:51Z",
+      "closed_at": "2018-11-13T02:32:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "502_GPU.ipynb",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-12T08:40:05Z",
+      "closed_at": "2018-11-13T02:24:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "403_RNN_regressor.py missing line in comment",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-12T06:28:05Z",
+      "closed_at": "2018-11-13T02:22:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "403: question about h_state = h_state.data",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-12T03:49:24Z",
+      "closed_at": "2018-11-12T05:41:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "Bug in 401_CNN.ipynb",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-09T09:30:39Z",
+      "closed_at": "2018-11-12T01:46:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "[Bug fix] 401_CNN.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-09T09:27:17Z",
+      "closed_at": "2018-11-12T01:46:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 54,
+      "title": "306_optimizer.ipynb warning",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-08T10:13:08Z",
+      "closed_at": "2018-11-08T11:40:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "302 - remove .squeeze() from 1-D numpy array",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-08T06:15:10Z",
+      "closed_at": "2018-11-08T11:43:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 52,
+      "title": "update to torch 0.4",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-07T08:12:24Z",
+      "closed_at": "2018-11-08T11:42:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 51,
+      "title": "[Bug fix] 201-torch-numpy tensor.dot",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-07T07:17:26Z",
+      "closed_at": "2018-11-07T07:59:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 50,
+      "title": "PyTorch-Tutorial/tutorial-contents/504_batch_normalization.py fix RuntimeError",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-07T05:32:21Z",
+      "closed_at": "2018-11-07T08:08:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 49,
+      "title": "PyTorch-Tutorial/tutorial-contents/403_RNN_regressor.py contains a weird line of code",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-26T20:39:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 48,
+      "title": "cnn=CNN()后，cnn不能用, 如何解决？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-25T22:19:40Z",
+      "closed_at": "2018-10-26T05:07:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 47,
+      "title": "希望讲下如何在实际中应用训练出来的结果",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-24T03:11:23Z",
+      "closed_at": "2018-11-04T14:56:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 46,
+      "title": "tutorial-contents/403_RNN_regressor.py  bug report",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-04T10:28:34Z",
+      "closed_at": "2018-10-08T02:44:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 45,
+      "title": "Got an error when backward",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-09-20T14:22:56Z",
+      "closed_at": "2018-09-21T01:59:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 44,
+      "title": "save和restore_net函数中画图没有show出来",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-09-20T11:17:31Z",
+      "closed_at": "2018-09-21T01:54:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 43,
+      "title": "权重初始化",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-09-12T08:14:11Z",
+      "closed_at": "2018-09-12T08:19:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 42,
+      "title": "Error on \"401_CNN.ipynb\"",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-09-10T15:30:41Z",
+      "closed_at": "2018-09-11T01:32:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 41,
+      "title": "output = cnn(b_x)[0]               # cnn output",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-08-31T15:11:07Z",
+      "closed_at": "2018-08-31T15:12:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 40,
+      "title": "TypeError: argument 0 is not a Variable",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-08-30T15:28:46Z",
+      "closed_at": "2018-08-31T01:49:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 39,
+      "title": "已解决",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-08-29T05:01:13Z",
+      "closed_at": "2018-09-12T08:15:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "基于torch的一个库,animal_human_kp，其中标注文件是npy格式的，请问这种格式的文件应该怎样制作",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-08-21T01:23:55Z",
+      "closed_at": "2018-08-21T06:51:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 37,
+      "title": "Update 403_RNN_regressor.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-18T12:53:17Z",
+      "closed_at": "2018-08-18T14:54:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 36,
+      "title": "Updated the code to torch 0.4.1 and added virtual environment support",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-08-14T15:04:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 35,
+      "title": "201_torch_numpy.ipynb won't open in GitHub",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-08-06T08:58:58Z",
+      "closed_at": "2018-08-06T11:26:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 34,
+      "title": "fixed",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-07-18T05:48:29Z",
+      "closed_at": "2018-07-18T05:57:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 33,
+      "title": "numpy 1.12版本不支持 float 类型的indices",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-07-16T08:04:49Z",
+      "closed_at": "2020-06-08T02:42:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "Fixing error accurate and error tensor to numpy",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-07-14T14:36:21Z",
+      "closed_at": "2018-07-15T12:24:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 31,
+      "title": "Fixing error learning rate for this sample",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-07-12T09:05:36Z",
+      "closed_at": "2018-07-15T12:25:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "RunError",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-07-05T08:34:17Z",
+      "closed_at": "2018-07-05T08:39:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "error loss.data[0] unchange in for? (version pytorch 0.4)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-26T03:16:37Z",
+      "closed_at": "2018-06-29T04:42:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "conv3d和conv2d的区别",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-20T09:50:07Z",
+      "closed_at": "2018-06-20T11:23:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "Remove deprecated code",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-05-29T15:32:52Z",
+      "closed_at": "2018-05-29T16:32:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "新版本pytorch在401_CNN中的一个小bug",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-19T13:52:14Z",
+      "closed_at": "2018-06-13T08:11:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "torch的更新",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-16T02:57:07Z",
+      "closed_at": "2018-05-17T07:10:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "bug fix",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-05-15T15:45:06Z",
+      "closed_at": "2018-05-17T07:09:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "Err in 403_RNN_regressor.py",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-04T17:21:08Z",
+      "closed_at": "2018-06-13T08:13:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 22,
+      "title": "tutorial-contents/306_optimizer.py发现的一个小bug",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-04-28T08:28:45Z",
+      "closed_at": "2018-05-04T01:40:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 20,
+      "title": "莫烦，I need your help,please!!",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-24T11:58:42Z",
+      "closed_at": "2018-06-13T08:13:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 19,
+      "title": "Why do u have 'setattr(self, 'fc%i' % i, fc)'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-07T20:05:10Z",
+      "closed_at": "2018-03-07T23:12:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 18,
+      "title": "x = torch.linspace(-5,5,200), size [200]",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-02-18T06:56:02Z",
+      "closed_at": "2018-02-26T03:22:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17,
+      "title": "torch.dot does not broadcast",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-02-18T06:55:17Z",
+      "closed_at": "2018-02-26T01:39:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 16,
+      "title": "Question about the 302_classification.py",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-02-16T10:33:32Z",
+      "closed_at": "2018-02-22T12:37:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "ValueError",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-01-03T07:56:58Z",
+      "closed_at": "2018-01-04T05:57:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "RuntimeError",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-12-08T08:48:17Z",
+      "closed_at": "2018-01-19T05:41:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13,
+      "title": " PyTorch was compiled without numpy support",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-11-23T13:18:19Z",
+      "closed_at": "2017-11-24T03:39:21Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "MorvanZhou",
+      "contributions": 66
+    },
+    {
+      "login": "keineahnung2345",
+      "contributions": 8
+    },
+    {
+      "login": "Hierom",
+      "contributions": 4
+    },
+    {
+      "login": "liufuyang",
+      "contributions": 2
+    },
+    {
+      "login": "jingege315",
+      "contributions": 1
+    },
+    {
+      "login": "jiahuayang",
+      "contributions": 1
+    },
+    {
+      "login": "YumiGo",
+      "contributions": 1
+    },
+    {
+      "login": "changmeen",
+      "contributions": 1
+    },
+    {
+      "login": "howtocodewang",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-09-14T11:26:28.741293Z"
+}
