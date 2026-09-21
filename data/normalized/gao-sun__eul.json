@@ -1,0 +1,1851 @@
+{
+  "full_name": "gao-sun/eul",
+  "owner": "gao-sun",
+  "name": "eul",
+  "url": "https://github.com/gao-sun/eul",
+  "description": "🖥️ macOS status monitoring app written in SwiftUI.",
+  "primary_language": "Swift",
+  "topics": [
+    "app",
+    "macos",
+    "monitor",
+    "monitoring",
+    "status-monitoring",
+    "statusbar",
+    "swiftui"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 9951,
+  "forks": 379,
+  "open_issues": 77,
+  "created_at": "2020-06-26T07:10:17Z",
+  "pushed_at": "2024-05-25T22:59:12Z",
+  "updated_at": "2026-09-20T21:06:45Z",
+  "commits": [
+    {
+      "sha": "b5c3bd0a5be2679ca7e22da676be5ac73e300f4a",
+      "author_login": "naymapl",
+      "authored_at": "2022-01-07T05:48:29Z",
+      "message": "Create Localizable.strings (#238)"
+    },
+    {
+      "sha": "795f748ad44212987e676de6d9a005d401a984ea",
+      "author_login": "stosumarte",
+      "authored_at": "2021-11-09T15:12:42Z",
+      "message": "Update Localizable.strings (#229)"
+    },
+    {
+      "sha": "fe4849b6b3db3e7ac85cc7559f31989be1908efc",
+      "author_login": "gao-sun",
+      "authored_at": "2021-08-05T03:23:41Z",
+      "message": "Update Language Support section"
+    },
+    {
+      "sha": "9f05506d2a1c7c9185559cb1fcf4cf0f61afb91d",
+      "author_login": "gao-sun",
+      "authored_at": "2021-08-05T03:22:26Z",
+      "message": "v1.6.2"
+    },
+    {
+      "sha": "86524bd69f0905c210971329c9dfea85993f6eb3",
+      "author_login": "gao-sun",
+      "authored_at": "2021-08-05T03:21:41Z",
+      "message": "Update contributors"
+    },
+    {
+      "sha": "23909b579cd2322da3a1c1bf27af929a95063b29",
+      "author_login": "gao-sun",
+      "authored_at": "2021-08-04T14:47:15Z",
+      "message": "Merge pull request #225 from bitigchi/tr-localisation"
+    },
+    {
+      "sha": "7ec582f5d86f2058d881f2118b4f35e2185f5635",
+      "author_login": "gao-sun",
+      "authored_at": "2021-08-04T14:36:58Z",
+      "message": "Add Turkish translations"
+    },
+    {
+      "sha": "045195edf3160ed38a4ffacdbcb0197538641eed",
+      "author_login": "gao-sun",
+      "authored_at": "2021-07-30T14:07:09Z",
+      "message": "Merge pull request #224 from JiLiZART/patch-1"
+    },
+    {
+      "sha": "462c2dd894f65e9e622ad15f9769543f55784e49",
+      "author_login": "JiLiZART",
+      "authored_at": "2021-07-29T10:39:33Z",
+      "message": "Updated Russian translation"
+    },
+    {
+      "sha": "9a563bc91572aff5c3436a04f461cb6798a7167b",
+      "author_login": "gao-sun",
+      "authored_at": "2021-07-09T17:34:54Z",
+      "message": "v1.6.1"
+    },
+    {
+      "sha": "6d94a4ff8a05f6601e682c6a97aa2163356ed3ea",
+      "author_login": "gao-sun",
+      "authored_at": "2021-07-09T17:33:58Z",
+      "message": "Add contributor"
+    },
+    {
+      "sha": "3f42db7494de23aa643c88d3094c542349cb084e",
+      "author_login": "gao-sun",
+      "authored_at": "2021-07-09T17:30:26Z",
+      "message": "Merge pull request #220 from daimajia/daimajia-patch-1"
+    },
+    {
+      "sha": "48b80c929dc9b8399d6dd5b818e7d80c63f741d8",
+      "author_login": "gao-sun",
+      "authored_at": "2021-07-09T17:15:11Z",
+      "message": "Fixing format"
+    },
+    {
+      "sha": "bf22f2a9073705ea9ee6d697cd791b93923cf8fc",
+      "author_login": "daimajia",
+      "authored_at": "2021-07-08T15:01:37Z",
+      "message": "ignore hidden disks and time machine disk."
+    },
+    {
+      "sha": "dd8cdaf92393fb7015161e1d027a982141f270c1",
+      "author_login": "baptistecdr",
+      "authored_at": "2021-06-27T16:41:00Z",
+      "message": "Updated French translation (#215)"
+    },
+    {
+      "sha": "199be9c2ee211716b05766ecbf4d8c810f9b6529",
+      "author_login": "sn0wmem0ry",
+      "authored_at": "2021-06-27T16:37:00Z",
+      "message": "updated Thai language (#216)"
+    },
+    {
+      "sha": "fbea38ef5a5c12be9e7b7b8482cb520eefee9777",
+      "author_login": "sn0wmem0ry",
+      "authored_at": "2021-06-18T13:31:02Z",
+      "message": "fix and update thai language (#214)"
+    },
+    {
+      "sha": "0520320dd5fecd399a3d326025c3c039335956d7",
+      "author_login": "gao-sun",
+      "authored_at": "2021-06-14T07:49:53Z",
+      "message": "v1.6.0"
+    },
+    {
+      "sha": "bb76a71bd67702106b1e3a5b6066078f0be46044",
+      "author_login": "gao-sun",
+      "authored_at": "2021-06-14T07:38:43Z",
+      "message": "Provide network port selection"
+    },
+    {
+      "sha": "262c89fd5d97f9eb5e57d90ba6e7a94bace5c08d",
+      "author_login": "gao-sun",
+      "authored_at": "2021-06-09T15:55:09Z",
+      "message": "v1.5.21"
+    },
+    {
+      "sha": "27a623602f8495db3bb78ebab411eb964c0ca21f",
+      "author_login": "gao-sun",
+      "authored_at": "2021-06-09T15:54:05Z",
+      "message": "Fixing Hungarian translation"
+    },
+    {
+      "sha": "1cefbfd3260bfaa84f96d25a698e1cd02c105aa3",
+      "author_login": "gao-sun",
+      "authored_at": "2021-06-09T15:49:13Z",
+      "message": "Add l10n files to pbxproj"
+    },
+    {
+      "sha": "cf9babc684f5e7b334916fe95ec489770f477ad9",
+      "author_login": "gao-sun",
+      "authored_at": "2021-06-09T15:46:33Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b7dc8bee1ad16d780a1de2da7d80a43ccafe19ba",
+      "author_login": "gao-sun",
+      "authored_at": "2021-06-09T15:28:11Z",
+      "message": "Update contributors"
+    },
+    {
+      "sha": "97a0f86bd0fd0751a359c78b08db3e3f9d761949",
+      "author_login": "gao-sun",
+      "authored_at": "2021-06-09T15:23:43Z",
+      "message": "Merge pull request #209 from sn0wmem0ry/master"
+    },
+    {
+      "sha": "b679c04e0870c1801291e079f10440006cb1735f",
+      "author_login": "sn0wmem0ry",
+      "authored_at": "2021-06-03T08:37:13Z",
+      "message": "Merge pull request #1 from sn0wmem0ry/add-Thai-language-strings"
+    },
+    {
+      "sha": "deaafdb42aebb1b9d3acf45b60bd2e3cce4c7a07",
+      "author_login": "sn0wmem0ry",
+      "authored_at": "2021-06-03T08:35:09Z",
+      "message": "add Thai language"
+    },
+    {
+      "sha": "ce3586f787f1db4e948fb6ef951c2059e68502c2",
+      "author_login": null,
+      "authored_at": "2021-06-01T23:12:00Z",
+      "message": "Merge pull request #208 from thewqer/master"
+    },
+    {
+      "sha": "6a740e56ed1e92c31c8ad20e226cd78a28b2f313",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:40:26Z",
+      "message": "Created Hungarian Localization file"
+    },
+    {
+      "sha": "c2746241682b793efe49b5f92d7db099d03a5a20",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:39:51Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "1ff619bbd620a00a7555e96e3eb2e378fc05c4d0",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:39:25Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "0f8e967a71b64d0e0fb4df9aeddc7105b7d70550",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:39:01Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "e50ddcf4e7c831ff0f1c34bdd42490ddffd5ff44",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:38:37Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "5fa65fe57aa96ee83eb3ccdc1d68b6c80b80a2c0",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:38:09Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "a0f3a5f7cd3d89134f57e04dc7a19ae976af3a64",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:37:37Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "c78cb425bb870c8505c1438f44799b84b6161902",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:37:08Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "7c523c4d722f770d86dfc074b89b8f505161560d",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:36:44Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "7fa7c3ff090b0378ba0674b36f746ad1bdcc655a",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:36:10Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "7ffdb11ef781b365bdd89c4fbbc7630cefcdecc2",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:35:35Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "fa1acda7a3d70dafdf250329ae85217cff6e0dcc",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:35:06Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "2b02987525d6d3283e592ca2c8c49864e25298fc",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:34:37Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "ed844a0656b42d3139a560e7963af632c7dc7ea6",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:33:59Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "77761e90deacc5a817bb4beb28c3c9fcd453e10b",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:33:46Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "538d16a427659fd8bafb651d09b387a52788e040",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:33:10Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "0b9cb023165d669d8c9efe8262cecf30af4e9a77",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:32:33Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "de300c488637b06cacbe0836a6f3dc664472ee81",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:32:07Z",
+      "message": "Updated Hungarian language string"
+    },
+    {
+      "sha": "afe32b46b6311c677c41e60b1c8d840689ca47bc",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:31:32Z",
+      "message": "Updated hungarian language string"
+    },
+    {
+      "sha": "33edb64a7e03fad84ef186de2e09075762b90d3e",
+      "author_login": "thewqer",
+      "authored_at": "2021-06-01T12:30:35Z",
+      "message": "Created hungarian localization file"
+    },
+    {
+      "sha": "710f3fe7e1843707ee06358290bf317d52852ef7",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-31T17:13:59Z",
+      "message": "Update contributor info"
+    },
+    {
+      "sha": "9083febc788337d6ae3e63ec8d8b18727bc0a575",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-31T16:49:41Z",
+      "message": "Usinng Xcode 12.4 in CI"
+    },
+    {
+      "sha": "7c0d0ce40252c30ff8abfab1496bb3db4df5dc4c",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-31T16:38:49Z",
+      "message": "v1.5.20"
+    },
+    {
+      "sha": "30025a85a0ebd9e96b61a1fcd747d47add47400e",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-31T16:37:58Z",
+      "message": "Update contributor"
+    },
+    {
+      "sha": "950158a8e391fb610c6c92420440b2671c6373ed",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-31T16:35:51Z",
+      "message": "Using Xcode 12.5 in CI"
+    },
+    {
+      "sha": "1ea4b2b49dc9c5dc9885a51c42343837fcac112d",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-31T16:32:29Z",
+      "message": "Integrate SwiftFormat using SPM"
+    },
+    {
+      "sha": "cb73f281e1fcb22e45f3d70bd919c98c65736dd2",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-31T16:15:50Z",
+      "message": "Merge pull request #204 from soewaiyanmyowin/feature/burmese_localization"
+    },
+    {
+      "sha": "d70aa37c4679a27db54107de4d60339b7dbf6889",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-31T16:12:08Z",
+      "message": "Update Burmese language string"
+    },
+    {
+      "sha": "a19d2f302db4b60e525661e1186d13fe585f9314",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-31T16:09:17Z",
+      "message": "Apply master storyboard"
+    },
+    {
+      "sha": "0c89dd7d26c0f96a643c25264a49b9341934bf75",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-31T16:06:23Z",
+      "message": "Remove unnecessary files"
+    },
+    {
+      "sha": "ba0e46ccf0596f3c04c5ad1da1f7c3727f4479c8",
+      "author_login": "soewaiyanmyowin",
+      "authored_at": "2021-05-27T18:33:45Z",
+      "message": "language.my added in Language"
+    },
+    {
+      "sha": "9ec2de4bab2f89ad780e3c587dd090c19eae7802",
+      "author_login": "soewaiyanmyowin",
+      "authored_at": "2021-05-27T17:54:29Z",
+      "message": "burmese  localization (my) added"
+    },
+    {
+      "sha": "4a3b950e8ebd0b5ace61294cf7e7365ae3d1262d",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-31T14:25:19Z",
+      "message": "v1.5.19"
+    },
+    {
+      "sha": "50fa6bc2de09c32841f55acbcb678c964e9337cd",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-31T14:05:39Z",
+      "message": "Select first active interface in network services"
+    },
+    {
+      "sha": "3a7c22bf83bc65b3e9341f731c1db12154a4968f",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-30T14:12:01Z",
+      "message": "Inherit env vars from current process"
+    },
+    {
+      "sha": "eff1c885c204b93325d77c2bd5edae72c7339c9e",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-30T13:53:36Z",
+      "message": "Set up LC_ALL for UTF-8 outputs, close #86"
+    },
+    {
+      "sha": "76049607afd66e6bc9db1ca03ec73c5eb1b0c907",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-23T14:46:40Z",
+      "message": "v1.5.18"
+    },
+    {
+      "sha": "cf9a525455470deb6f69be63fc7b5c79c25ae2cb",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-23T14:45:40Z",
+      "message": "Add @available for shared widget structs"
+    },
+    {
+      "sha": "cc3b426fd8b652e7776769bc2a998c1831da5950",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-23T14:42:51Z",
+      "message": "Add contributors"
+    },
+    {
+      "sha": "5bc089ab4da8f2cec97ed53daae6bcb4d2ad185c",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-23T14:41:46Z",
+      "message": "Merge pull request #200 from Animenosekai/master"
+    },
+    {
+      "sha": "fc155610ea3ff46750a19e32be084c3b8eb8b110",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-23T14:40:17Z",
+      "message": "Merge branch 'master' into master"
+    },
+    {
+      "sha": "74a80b2a3ef0322a3c35a1fe5352cfa89f97940e",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-23T14:37:11Z",
+      "message": "Merge pull request #202 from gnehs/master"
+    },
+    {
+      "sha": "53f9ee98ff82442114b6fb6c64798ab1675557ee",
+      "author_login": "gnehs",
+      "authored_at": "2021-05-22T13:37:45Z",
+      "message": "add credit"
+    },
+    {
+      "sha": "ce7506a55748a9f8a06914f2bf1bc1685e3223bf",
+      "author_login": "gnehs",
+      "authored_at": "2021-05-22T13:31:45Z",
+      "message": "added Traditional Chinese localization"
+    },
+    {
+      "sha": "dfd37d28579bbba417e1b92a0c00b240ebe91b40",
+      "author_login": "Animenosekai",
+      "authored_at": "2021-05-19T17:56:02Z",
+      "message": "[add] adding French translation for the light and dark mode"
+    },
+    {
+      "sha": "a228698a1a9ab6beaccbaa9a1e607a6af03305e2",
+      "author_login": "Animenosekai",
+      "authored_at": "2021-05-19T17:50:48Z",
+      "message": "[update] Update some Japanese Translations [update] Update some French Translations"
+    },
+    {
+      "sha": "da82a79d665b183432c40e03b424be3a61c679a1",
+      "author_login": "gao-sun",
+      "authored_at": "2021-05-19T07:04:54Z",
+      "message": "Merge pull request #199 from wojtishek/master"
+    },
+    {
+      "sha": "e11ee296a0ce5baf170fea589a80b86c5597b15d",
+      "author_login": "wojtishek",
+      "authored_at": "2021-05-01T11:55:03Z",
+      "message": "Czech translation update"
+    },
+    {
+      "sha": "4e20fac4447e6aa45c0480305735d4d919be194d",
+      "author_login": "gao-sun",
+      "authored_at": "2021-04-24T15:23:03Z",
+      "message": "v1.5.17"
+    },
+    {
+      "sha": "7846000e7e1ddef740217934862001e2858a1501",
+      "author_login": "gao-sun",
+      "authored_at": "2021-04-24T15:22:50Z",
+      "message": "Remove Reachability"
+    },
+    {
+      "sha": "44c81bc3ad071368040076cb49c227991b1de046",
+      "author_login": "gao-sun",
+      "authored_at": "2021-04-24T15:19:37Z",
+      "message": "Fetch network info in async queue"
+    },
+    {
+      "sha": "94b491aeab932ae55d875c711765358daac5efc1",
+      "author_login": "gao-sun",
+      "authored_at": "2021-03-24T04:42:57Z",
+      "message": "v1.5.16"
+    },
+    {
+      "sha": "0cfad51704cc5bc1a1eebe7c292cc828b56b5795",
+      "author_login": "gao-sun",
+      "authored_at": "2021-03-24T04:42:22Z",
+      "message": "Disable appearance mode in Catalina"
+    },
+    {
+      "sha": "79a3c14237f2807678f0bdeba3ca4056b56f590a",
+      "author_login": "gao-sun",
+      "authored_at": "2021-03-23T17:28:35Z",
+      "message": "v1.5.15"
+    },
+    {
+      "sha": "217bd72d51eeaeeb4ac01371d724be85df0d3345",
+      "author_login": "gao-sun",
+      "authored_at": "2021-03-23T17:28:08Z",
+      "message": "Set appearance in main queue"
+    },
+    {
+      "sha": "44706d364436c84af1598715d4dad8e743426f4e",
+      "author_login": "gao-sun",
+      "authored_at": "2021-03-18T14:37:26Z",
+      "message": "v1.5.14"
+    },
+    {
+      "sha": "301ee0545894d519ac3f9a0acaa195c049325786",
+      "author_login": "gao-sun",
+      "authored_at": "2021-03-18T14:36:44Z",
+      "message": "Refactor appearance preference"
+    },
+    {
+      "sha": "2e2fb9ed253528e3058ef522557156a805fd0df3",
+      "author_login": "gao-sun",
+      "authored_at": "2021-03-18T14:05:47Z",
+      "message": "Add missing icon assets"
+    },
+    {
+      "sha": "6cc1724c711a28a2803843e8fa02f89dffcd7586",
+      "author_login": "gao-sun",
+      "authored_at": "2021-02-18T16:45:26Z",
+      "message": "Merge pull request #171 from gao-sun/159-light-dark-mode"
+    },
+    {
+      "sha": "33f399543471e3774e97554949c77d1812ff6cc5",
+      "author_login": "jevonmao",
+      "authored_at": "2021-02-13T23:55:01Z",
+      "message": "SwiftFormat"
+    },
+    {
+      "sha": "e3c9461925ff64e647fcfc6d266169dcfdcd93de",
+      "author_login": "jevonmao",
+      "authored_at": "2021-02-13T23:46:55Z",
+      "message": "Merge branch 'master' into 159-light-dark-mode"
+    },
+    {
+      "sha": "ea454e870223d55063ed1bf013dbaaffe06222b3",
+      "author_login": "jevonmao",
+      "authored_at": "2021-02-13T23:44:06Z",
+      "message": "Improve and fix several changes suggested"
+    },
+    {
+      "sha": "598127d1380f7949f6cc570b149e58a980354fd4",
+      "author_login": "gao-sun",
+      "authored_at": "2021-02-13T04:26:26Z",
+      "message": "Merge pull request #186 from baptistecdr/master"
+    },
+    {
+      "sha": "29f9a3770ed50a6dbf257e222b45069bca89ffad",
+      "author_login": "baptistecdr",
+      "authored_at": "2021-02-12T20:09:07Z",
+      "message": "Fixed typo"
+    },
+    {
+      "sha": "09b3ed9ef4d2a62f997725c00d78d275bef86cd9",
+      "author_login": "baptistecdr",
+      "authored_at": "2021-02-12T20:06:26Z",
+      "message": "Updated French translation"
+    },
+    {
+      "sha": "a6e919a7dbbaaa13f6667e5de3974146b20d6efb",
+      "author_login": "gao-sun",
+      "authored_at": "2021-02-12T18:25:11Z",
+      "message": "v1.5.13"
+    },
+    {
+      "sha": "ec6429203c92807c00718948984549d207a29f2f",
+      "author_login": "gao-sun",
+      "authored_at": "2021-02-12T18:24:37Z",
+      "message": "Fixing upgrade method store key"
+    },
+    {
+      "sha": "a11664dd4ad03895af6a4c3270bb3d3d324af851",
+      "author_login": "gao-sun",
+      "authored_at": "2021-02-12T18:13:17Z",
+      "message": "v1.5.12"
+    },
+    {
+      "sha": "37e1aeb52c045e0a31582998e6a1e914c5f9de26",
+      "author_login": "gao-sun",
+      "authored_at": "2021-02-12T18:11:44Z",
+      "message": "Update status bar icon, close #164"
+    },
+    {
+      "sha": "86f19999d7048c4de55c4dc9de0b730b3df0c884",
+      "author_login": "gao-sun",
+      "authored_at": "2021-02-12T17:01:32Z",
+      "message": "Print more debug info for Bluetooth"
+    },
+    {
+      "sha": "56abfea4f53fc381fd5ac03fa3362f2b59bf0138",
+      "author_login": "gao-sun",
+      "authored_at": "2021-02-12T16:50:21Z",
+      "message": "Print statistics in debug mode"
+    },
+    {
+      "sha": "b7107dc53714859d19c7f5288c09d4c2b71470fd",
+      "author_login": "gao-sun",
+      "authored_at": "2021-02-12T16:42:11Z",
+      "message": "Bump SystemKit version to fix max capacity display on M1 Macs"
+    }
+  ],
+  "issues": [
+    {
+      "number": 282,
+      "title": "Continue PR #275 with SMAppService launch-at-login",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-18T01:16:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 281,
+      "title": "Fix multiple macOS compatibility bugs",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-16T05:13:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 280,
+      "title": "Fix disk usage calculation and regex pattern",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-16T05:05:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 279,
+      "title": "feat: Support Apple Silicon (M1/M2/M3) temperature sensors and optimize UI",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-28T11:29:42Z",
+      "closed_at": "2026-04-28T11:32:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 278,
+      "title": "fixed ram increase bug and increase some function",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-23T13:40:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 277,
+      "title": "docs: replace preview image with 2026 screenshot",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-12T07:38:23Z",
+      "closed_at": "2026-04-12T07:38:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 276,
+      "title": "fix: Xcode 26 / macOS compatibility updates (2026)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-11T10:29:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 275,
+      "title": "feat: Apple Silicon support + graph bar color picker",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-03T05:42:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 274,
+      "title": "feat: Apple Silicon support + graph bar color picker",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-03T05:41:32Z",
+      "closed_at": "2026-04-03T05:41:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 273,
+      "title": "Adapt arm",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-27T14:49:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 272,
+      "title": "[feature request] Support for Greek",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-22T02:09:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 271,
+      "title": "[bug]最新版的mac状态栏如何精简 都不显示了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-02-05T07:19:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 270,
+      "title": "[feature request] Hide battery information",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-05T11:09:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 269,
+      "title": "[feature request]support ipad?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-02T10:44:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 265,
+      "title": "[feature request] Add opacity if current window is in blur ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-28T18:22:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 264,
+      "title": "Widget isn't Working Properly[bug]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-10T09:43:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 263,
+      "title": "Network Stats not working",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-04T16:45:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 261,
+      "title": "[feature request] Allow for specifying number padding to prevent menu icons shift",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-25T15:57:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 260,
+      "title": "MacOS cannot show CPU temperature",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-30T09:57:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 256,
+      "title": "[feature request] Memory monitor is very inaccurate ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-30T00:55:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 255,
+      "title": "[bug] Build failure with Xcode 14.1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-04T19:38:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 254,
+      "title": "[feature request]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-30T02:56:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 253,
+      "title": "[bug] Widgets fail on macOS Ventura",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-25T20:18:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 252,
+      "title": ".",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-12T06:23:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 251,
+      "title": "Add Persian language",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-02T18:21:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 250,
+      "title": "[bug] Incorrect disk usage",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-29T09:10:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 249,
+      "title": "GUI shows incorrect (inverse?) battery health",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-21T18:01:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 248,
+      "title": "The same task, the fuselage is obviously hot after turning on the eul",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-28T08:44:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 247,
+      "title": "[bug]Launch at login not work",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-06-25T03:21:13Z",
+      "closed_at": "2024-04-29T05:57:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 246,
+      "title": "[bug] appearance change bug",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-04T06:02:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 245,
+      "title": "[feature request] high cpu usage on intel",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-28T04:00:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 244,
+      "title": "[bug]macbook 16 m1 pro cpu temperature can not show up",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-28T03:15:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 243,
+      "title": "Seek for maintainers",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-04T09:01:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 242,
+      "title": "[feature request] \"Show GPU top activities\" in the Menu View",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-04T01:35:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 241,
+      "title": "v1.6.3",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-01-23T07:16:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 240,
+      "title": "CPU Usage pretty high on M1 Mac",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-12T11:52:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 239,
+      "title": "Create pl.lproj",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-03T13:09:07Z",
+      "closed_at": "2022-01-29T09:50:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 238,
+      "title": "Create Localizable.strings",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-03T12:51:21Z",
+      "closed_at": "2022-01-07T05:48:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 237,
+      "title": "Network activity is not being shown",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-12-23T19:20:24Z",
+      "closed_at": "2022-01-06T07:55:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 236,
+      "title": "[bug] widgets' theme not follow eul's preference",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-02T03:23:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 235,
+      "title": "[feature request] CPU usage of each cores",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-01T08:24:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 234,
+      "title": "[feature request] Fan Control from Eul",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-16T23:59:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 233,
+      "title": "Graph of network activity ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-16T00:47:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 232,
+      "title": "[bug] Cannot detect the temperature of AMD Radeon 5300M ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-13T17:49:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 231,
+      "title": "Fix GPU Temperature Sensor",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-11-07T16:02:44Z",
+      "closed_at": "2021-11-09T16:05:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 230,
+      "title": "菜单栏字体",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-11-02T07:56:38Z",
+      "closed_at": "2021-11-28T02:38:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 229,
+      "title": "Update Localizable.strings",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-10-27T15:31:48Z",
+      "closed_at": "2021-11-09T15:12:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 228,
+      "title": "[M1 + M1 Pro. + M1 Max]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-10-20T17:41:02Z",
+      "closed_at": "2022-03-10T22:57:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 227,
+      "title": "[bug] Memory is not always shown correctly (MB instead of GB)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-19T20:10:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 226,
+      "title": "[bug] erroneous download speed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-05T12:27:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 225,
+      "title": "Add Turkish translations",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-30T16:03:46Z",
+      "closed_at": "2021-08-04T14:47:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 224,
+      "title": "Updated Russian translation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-29T10:40:06Z",
+      "closed_at": "2021-07-30T14:07:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 223,
+      "title": "[feature request] Show Public and Local IP Addresses under Network",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-21T13:51:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 222,
+      "title": "[good first issue][question][help wanted]",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-07-12T09:19:15Z",
+      "closed_at": "2021-08-07T11:52:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 221,
+      "title": "[feature request] Weather support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-12T00:41:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 220,
+      "title": "ignore hidden disks and time machine disk.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-08T15:05:12Z",
+      "closed_at": "2021-07-09T17:30:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 219,
+      "title": "[bug] Disk Size Displays Twice",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-07-06T04:42:06Z",
+      "closed_at": "2021-07-09T17:30:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 218,
+      "title": "[bug] Bluetooth battery level not showing in MacOS 12",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-05T17:54:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 217,
+      "title": "[bug]",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-19T10:38:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 216,
+      "title": "updated Thai language",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-18T18:00:28Z",
+      "closed_at": "2021-06-27T16:37:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 215,
+      "title": "Updated French translation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-18T13:45:39Z",
+      "closed_at": "2021-06-27T16:41:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 214,
+      "title": "fix and update thai language",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-18T11:38:04Z",
+      "closed_at": "2021-06-18T13:31:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 213,
+      "title": "Apple Silicon Compatibility",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-17T12:54:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 212,
+      "title": "v1.7",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-14T13:03:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 211,
+      "title": "[feature request] Show graph for Network and larger graphs on hover in dropdown",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-10T12:17:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 210,
+      "title": "[bug] Not working on MacOS Monterey",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-09T23:06:59Z",
+      "closed_at": "2021-06-14T06:31:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 209,
+      "title": "add Thai language ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-03T08:44:55Z",
+      "closed_at": "2021-06-09T15:23:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 208,
+      "title": "Added Hungarian localization",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-01T12:42:06Z",
+      "closed_at": "2021-06-01T23:12:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 207,
+      "title": "[feature request] CPU Icon Shows Architecture",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-31T19:43:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 206,
+      "title": "[feature request] Please add temp monitoring for M1 Macs",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-31T14:04:22Z",
+      "closed_at": "2021-05-31T17:53:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 205,
+      "title": "[feature request] bluetooth devices battery on menubar",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-28T20:51:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 204,
+      "title": "burmese  localization (my) added",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-27T17:59:53Z",
+      "closed_at": "2021-05-31T16:15:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 203,
+      "title": "[bug] GPU Temperature not showing",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-26T07:43:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 202,
+      "title": "added Traditional Chinese localization",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-22T13:33:49Z",
+      "closed_at": "2021-05-23T14:37:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 201,
+      "title": "[feature request] Current wifi network and ability to switch",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-20T23:36:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 200,
+      "title": "Adding some Japanese Translations and updating some French translations",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-19T17:55:18Z",
+      "closed_at": "2021-05-23T14:41:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 199,
+      "title": "Czech translation update",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-01T11:58:26Z",
+      "closed_at": "2021-05-19T07:04:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 198,
+      "title": "[bug] Network Monitor Not Working when using VPN (Cisco)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-04-21T04:52:27Z",
+      "closed_at": "2021-06-09T15:19:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 197,
+      "title": "[bug]The program does not respond when using hotspot connection",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-04-07T08:26:02Z",
+      "closed_at": "2021-06-14T07:44:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 195,
+      "title": "[bug] eul 1.5.14 crashes on start",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-03-20T06:17:56Z",
+      "closed_at": "2021-03-24T05:33:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 194,
+      "title": "[feature request] Add disk activity widget",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-16T21:44:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 191,
+      "title": "setup github sponsors?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-22T21:17:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 190,
+      "title": "[feature request] add swap memory display",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-18T16:46:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 189,
+      "title": "[bug] CPU % not working",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-16T19:22:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 188,
+      "title": "[bug] Temperature never shows",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-15T20:10:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 187,
+      "title": "[bug] Misleading/wrong CPU temperature value",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-14T00:42:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 186,
+      "title": "Updated French translation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-02-12T20:09:49Z",
+      "closed_at": "2021-02-13T04:26:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 185,
+      "title": "v1.5.11",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-02-12T15:06:25Z",
+      "closed_at": "2021-02-12T15:06:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 184,
+      "title": "[bug] Wrong  Battery Max Cap on Macbook Pro M1",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-02-09T07:24:49Z",
+      "closed_at": "2021-03-06T08:35:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 183,
+      "title": "Update Localizable.strings",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-02-08T07:44:30Z",
+      "closed_at": "2021-02-10T15:42:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 182,
+      "title": "[bug] Incorrect free space on Disk component",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-07T06:39:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 180,
+      "title": "it.lproj",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-31T16:42:09Z",
+      "closed_at": "2021-02-01T15:19:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 179,
+      "title": "[bug] Selecting top ram usage on M1 MacBook Pro hits 300% cpu",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-31T09:56:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 178,
+      "title": "Implemented a picker for status bar disk selection from #169",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-31T06:14:33Z",
+      "closed_at": "2021-02-04T14:48:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 177,
+      "title": "[bug] Status bar icon has disappeared",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-29T01:11:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 176,
+      "title": "Implemented battery time left display from #174",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-28T17:29:51Z",
+      "closed_at": "2021-02-04T14:14:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 175,
+      "title": "[bug] Fan run very noisy when use app.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-28T17:16:44Z",
+      "closed_at": "2021-01-28T17:19:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 174,
+      "title": "[feature request] Show remaining battery time in menu bar",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-28T06:21:02Z",
+      "closed_at": "2021-02-15T05:32:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 173,
+      "title": "Not Displaying",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-27T20:40:36Z",
+      "closed_at": "2021-01-28T14:53:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 172,
+      "title": "[bug] bluetooth charging indicator wrong",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-27T08:06:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "gao-sun",
+      "contributions": 400
+    },
+    {
+      "login": "jevonmao",
+      "contributions": 30
+    },
+    {
+      "login": "thewqer",
+      "contributions": 20
+    },
+    {
+      "login": "treastrain",
+      "contributions": 17
+    },
+    {
+      "login": "baptistecdr",
+      "contributions": 8
+    },
+    {
+      "login": "sn0wmem0ry",
+      "contributions": 4
+    },
+    {
+      "login": "stosumarte",
+      "contributions": 3
+    },
+    {
+      "login": "ivyjsgit",
+      "contributions": 3
+    },
+    {
+      "login": "JiLiZART",
+      "contributions": 3
+    },
+    {
+      "login": "b3z",
+      "contributions": 2
+    },
+    {
+      "login": "40uf411",
+      "contributions": 2
+    },
+    {
+      "login": "gnehs",
+      "contributions": 2
+    },
+    {
+      "login": "akeschmidi",
+      "contributions": 2
+    },
+    {
+      "login": "soewaiyanmyowin",
+      "contributions": 2
+    },
+    {
+      "login": "sboh1214",
+      "contributions": 2
+    },
+    {
+      "login": "jorgeclaro",
+      "contributions": 2
+    },
+    {
+      "login": "Animenosekai",
+      "contributions": 2
+    },
+    {
+      "login": "AndyH0ng",
+      "contributions": 2
+    },
+    {
+      "login": "daimajia",
+      "contributions": 1
+    },
+    {
+      "login": "strafe",
+      "contributions": 1
+    },
+    {
+      "login": "kawarimidoll",
+      "contributions": 1
+    },
+    {
+      "login": "XaoflySho",
+      "contributions": 1
+    },
+    {
+      "login": "wojtishek",
+      "contributions": 1
+    },
+    {
+      "login": "Tekrific",
+      "contributions": 1
+    },
+    {
+      "login": "rfuehrer",
+      "contributions": 1
+    },
+    {
+      "login": "nebeker",
+      "contributions": 1
+    },
+    {
+      "login": "naymapl",
+      "contributions": 1
+    },
+    {
+      "login": "JesusM",
+      "contributions": 1
+    },
+    {
+      "login": "J-rg",
+      "contributions": 1
+    },
+    {
+      "login": "kant",
+      "contributions": 1
+    },
+    {
+      "login": "DMNerd",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v1.6.2",
+      "published_at": "2021-08-05T03:32:04Z"
+    },
+    {
+      "tag": "v1.6.1",
+      "published_at": "2021-07-09T17:49:07Z"
+    },
+    {
+      "tag": "v1.6.0",
+      "published_at": "2021-06-14T07:55:58Z"
+    },
+    {
+      "tag": "v1.5.21",
+      "published_at": "2021-06-09T16:27:17Z"
+    },
+    {
+      "tag": "v1.5.20",
+      "published_at": "2021-05-31T16:46:07Z"
+    },
+    {
+      "tag": "v1.5.18",
+      "published_at": "2021-05-23T15:13:43Z"
+    },
+    {
+      "tag": "v1.5.17",
+      "published_at": "2021-04-26T15:50:00Z"
+    },
+    {
+      "tag": "v1.5.16",
+      "published_at": "2021-03-24T05:03:47Z"
+    },
+    {
+      "tag": "v1.5.15",
+      "published_at": "2021-03-23T17:35:15Z"
+    },
+    {
+      "tag": "v1.5.14",
+      "published_at": "2021-03-18T14:47:26Z"
+    },
+    {
+      "tag": "v1.5.13",
+      "published_at": "2021-02-12T18:30:42Z"
+    },
+    {
+      "tag": "v1.5.12",
+      "published_at": "2021-02-12T18:21:11Z"
+    },
+    {
+      "tag": "v1.5.11",
+      "published_at": "2021-02-12T15:12:00Z"
+    },
+    {
+      "tag": "v1.5.10",
+      "published_at": "2021-02-04T15:17:01Z"
+    },
+    {
+      "tag": "v1.5.8",
+      "published_at": "2021-01-27T02:53:00Z"
+    },
+    {
+      "tag": "v1.5.7",
+      "published_at": "2021-01-25T12:17:13Z"
+    },
+    {
+      "tag": "v1.5.6",
+      "published_at": "2021-01-24T11:55:29Z"
+    },
+    {
+      "tag": "v1.5.5",
+      "published_at": "2021-01-24T09:36:44Z"
+    },
+    {
+      "tag": "v1.5.4",
+      "published_at": "2021-01-23T09:30:45Z"
+    },
+    {
+      "tag": "v1.5.3",
+      "published_at": "2021-01-22T16:29:02Z"
+    },
+    {
+      "tag": "v1.5.2",
+      "published_at": "2021-01-17T15:50:06Z"
+    },
+    {
+      "tag": "v1.5.1",
+      "published_at": "2021-01-11T05:37:09Z"
+    },
+    {
+      "tag": "v1.5",
+      "published_at": "2020-12-28T16:35:21Z"
+    },
+    {
+      "tag": "v1.4.8",
+      "published_at": "2020-12-02T16:40:26Z"
+    },
+    {
+      "tag": "v1.4.7",
+      "published_at": "2020-12-01T16:30:26Z"
+    },
+    {
+      "tag": "v1.4.6",
+      "published_at": "2020-11-30T14:30:46Z"
+    },
+    {
+      "tag": "v1.4.5",
+      "published_at": "2020-11-26T15:34:44Z"
+    },
+    {
+      "tag": "v1.4.4",
+      "published_at": "2020-11-19T15:31:09Z"
+    },
+    {
+      "tag": "v1.4.3",
+      "published_at": "2020-11-11T16:06:34Z"
+    },
+    {
+      "tag": "v1.4.2",
+      "published_at": "2020-11-09T14:04:49Z"
+    },
+    {
+      "tag": "v1.4.1",
+      "published_at": "2020-11-09T04:45:42Z"
+    },
+    {
+      "tag": "v1.4",
+      "published_at": "2020-11-07T12:45:27Z"
+    },
+    {
+      "tag": "v1.3.4",
+      "published_at": "2020-10-29T15:03:20Z"
+    },
+    {
+      "tag": "v1.3.3",
+      "published_at": "2020-10-27T01:22:31Z"
+    },
+    {
+      "tag": "v1.3.2",
+      "published_at": "2020-10-26T15:08:44Z"
+    },
+    {
+      "tag": "v1.3.1",
+      "published_at": "2020-10-25T05:57:14Z"
+    },
+    {
+      "tag": "v1.3",
+      "published_at": "2020-10-25T02:50:06Z"
+    },
+    {
+      "tag": "v1.2.3",
+      "published_at": "2020-10-19T13:58:23Z"
+    },
+    {
+      "tag": "v1.2.2",
+      "published_at": "2020-10-19T11:08:00Z"
+    },
+    {
+      "tag": "v1.2.1",
+      "published_at": "2020-10-19T10:51:37Z"
+    },
+    {
+      "tag": "v1.2",
+      "published_at": "2020-10-19T01:36:59Z"
+    },
+    {
+      "tag": "v1.1.1",
+      "published_at": "2020-10-01T14:29:26Z"
+    },
+    {
+      "tag": "v1.1",
+      "published_at": "2020-09-20T15:53:00Z"
+    },
+    {
+      "tag": "v1.0.6",
+      "published_at": "2020-09-16T10:45:56Z"
+    },
+    {
+      "tag": "v1.0.4",
+      "published_at": "2020-09-15T15:46:33Z"
+    },
+    {
+      "tag": "v1.0.3",
+      "published_at": "2020-09-15T02:32:46Z"
+    },
+    {
+      "tag": "v1.0.2",
+      "published_at": "2020-09-13T12:34:39Z"
+    },
+    {
+      "tag": "v1.0.1",
+      "published_at": "2020-09-13T11:41:51Z"
+    }
+  ],
+  "collected_at": "2026-09-21T11:41:02.384325Z"
+}

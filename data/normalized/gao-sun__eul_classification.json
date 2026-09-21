@@ -1,0 +1,124 @@
+{
+  "full_name": "gao-sun/eul",
+  "cause": "maintainer_abandonment",
+  "confidence": 0.93,
+  "death_score": 0.933,
+  "supporting_evidence": [
+    {
+      "analyzer": "commits",
+      "code": "last_commit_age",
+      "summary": "Last commit was 1718 days ago",
+      "severity": "high",
+      "value": 1718,
+      "unit": "days"
+    },
+    {
+      "analyzer": "issues",
+      "code": "no_responses",
+      "summary": "Issues exist but none received any response",
+      "severity": "high",
+      "value": null,
+      "unit": null
+    },
+    {
+      "analyzer": "releases",
+      "code": "last_release_age",
+      "summary": "Last release was 5.1 years ago",
+      "severity": "high",
+      "value": 1873,
+      "unit": "days"
+    },
+    {
+      "analyzer": "commits",
+      "code": "commit_frequency",
+      "summary": "Averaged 9.1 commits/month over history",
+      "severity": "info",
+      "value": 9.13,
+      "unit": "commits/month"
+    }
+  ],
+  "analyses": [
+    {
+      "analyzer": "commits",
+      "evidence": [
+        {
+          "analyzer": "commits",
+          "code": "last_commit_age",
+          "summary": "Last commit was 1718 days ago",
+          "severity": "high",
+          "value": 1718,
+          "unit": "days"
+        },
+        {
+          "analyzer": "commits",
+          "code": "commit_frequency",
+          "summary": "Averaged 9.1 commits/month over history",
+          "severity": "info",
+          "value": 9.13,
+          "unit": "commits/month"
+        }
+      ],
+      "metrics": {
+        "analyzer": "commits",
+        "metrics": {
+          "commit_count_window": 100.0,
+          "days_since_last_commit": 1718.2,
+          "commits_per_month": 9.13
+        }
+      }
+    },
+    {
+      "analyzer": "contributors",
+      "evidence": [],
+      "metrics": {
+        "analyzer": "contributors",
+        "metrics": {
+          "contributor_count": 31.0,
+          "total_contributions": 519.0,
+          "top_contributor_share": 0.771
+        }
+      }
+    },
+    {
+      "analyzer": "issues",
+      "evidence": [
+        {
+          "analyzer": "issues",
+          "code": "no_responses",
+          "summary": "Issues exist but none received any response",
+          "severity": "high",
+          "value": null,
+          "unit": null
+        }
+      ],
+      "metrics": {
+        "analyzer": "issues",
+        "metrics": {
+          "issue_count": 66.0,
+          "open_issue_count": 51.0
+        }
+      }
+    },
+    {
+      "analyzer": "releases",
+      "evidence": [
+        {
+          "analyzer": "releases",
+          "code": "last_release_age",
+          "summary": "Last release was 5.1 years ago",
+          "severity": "high",
+          "value": 1873,
+          "unit": "days"
+        }
+      ],
+      "metrics": {
+        "analyzer": "releases",
+        "metrics": {
+          "release_count": 48.0,
+          "days_since_last_release": 1873.3
+        }
+      }
+    }
+  ],
+  "narrative": null
+}

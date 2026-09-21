@@ -1,0 +1,2119 @@
+{
+  "full_name": "open-mmlab/mmsegmentation",
+  "owner": "open-mmlab",
+  "name": "mmsegmentation",
+  "url": "https://github.com/open-mmlab/mmsegmentation",
+  "description": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+  "primary_language": "Python",
+  "topics": [
+    "deeplabv3",
+    "image-segmentation",
+    "medical-image-segmentation",
+    "pspnet",
+    "pytorch",
+    "realtime-segmentation",
+    "retinal-vessel-segmentation",
+    "semantic-segmentation",
+    "swin-transformer",
+    "transformer",
+    "vessel-segmentation"
+  ],
+  "license_spdx": "Apache-2.0",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 9953,
+  "forks": 2859,
+  "open_issues": 870,
+  "created_at": "2020-06-14T04:32:33Z",
+  "pushed_at": "2024-08-13T08:53:34Z",
+  "updated_at": "2026-09-20T08:32:08Z",
+  "commits": [
+    {
+      "sha": "b040e147adfa027bbc071b624bedf0ae84dfc922",
+      "author_login": "mmeendez8",
+      "authored_at": "2024-03-22T10:04:17Z",
+      "message": "[Fix] bugfix/avoid-runner-iter-in-vis-hook-test-mode   (#3596)"
+    },
+    {
+      "sha": "b6770816e539afcc6a4ed629df0a5bb1cefc2df7",
+      "author_login": "Zoulinx",
+      "authored_at": "2024-03-18T04:56:40Z",
+      "message": "[Fix] Fix cd transform (#3598)"
+    },
+    {
+      "sha": "5465118b8c294a2b99d44ffd5c93b11564725739",
+      "author_login": "xiexinch",
+      "authored_at": "2024-03-08T02:23:28Z",
+      "message": "[Fix] update build loss api (#3587)"
+    },
+    {
+      "sha": "be687fc476f0d3d636c810c25f09339da3e21f68",
+      "author_login": "xiexinch",
+      "authored_at": "2024-03-08T01:43:23Z",
+      "message": "fix (#3586)"
+    },
+    {
+      "sha": "95056cbcd7fd305f6982814e7a03c9a28ee97dec",
+      "author_login": "xiexinch",
+      "authored_at": "2024-03-07T10:53:00Z",
+      "message": "[Fix] FIx readthedocs subfix  (#3585)"
+    },
+    {
+      "sha": "972c5cb3603508d57fbe382bdee7e838114ab418",
+      "author_login": "xiexinch",
+      "authored_at": "2024-03-07T10:42:21Z",
+      "message": "[Docs] Fix readthedocs (#3584)"
+    },
+    {
+      "sha": "2558a72fc8168650c3bd8efc608802b31ab6b028",
+      "author_login": "mmeendez8",
+      "authored_at": "2024-01-31T13:38:15Z",
+      "message": "[Bug] Fix links in SWIN transformer (#3546)"
+    },
+    {
+      "sha": "1929c25581ab4a077772bcf18e1c76997e46c9d4",
+      "author_login": "xiexinch",
+      "authored_at": "2024-01-31T11:05:54Z",
+      "message": "[Fix] Fix get_flops scrip (#3551)"
+    },
+    {
+      "sha": "e1b48d5b2a363c1da7dbc2bd2704f97e6ef8fd76",
+      "author_login": "AI-Tianlong",
+      "authored_at": "2024-01-29T09:37:31Z",
+      "message": "[New Configs] Add mmseg/configs folder &  Support loveda, potsdam, schedules, default_runtime new configs (#3542)"
+    },
+    {
+      "sha": "303e7542767ca3413c5d301ac6d5f5cffcc7848f",
+      "author_login": "MengzhangLI",
+      "authored_at": "2024-01-15T04:58:56Z",
+      "message": "[Fix] Fix no config link in SAN (#3517)"
+    },
+    {
+      "sha": "7a392adcd781313da53e1865d0b097db6aeecb3b",
+      "author_login": "jonGuti13",
+      "authored_at": "2024-01-10T08:04:31Z",
+      "message": "[Feature] add HSI-Drive dataset (#3365)"
+    },
+    {
+      "sha": "6a709be23151912de4b67aa4e38b8b1d9ba9a8ef",
+      "author_login": "AI-Tianlong",
+      "authored_at": "2024-01-05T02:28:01Z",
+      "message": "[Docs] Optimize Home page format (#3483)"
+    },
+    {
+      "sha": "bd255fcb4a4e431b82b946fbaee4b6e7b45a304a",
+      "author_login": "JimmyMa99",
+      "authored_at": "2024-01-05T02:26:36Z",
+      "message": "[Doc] fix typo in `add_datasets` docs (#3496)"
+    },
+    {
+      "sha": "c685fe6767c4cadf6b051983ca6208f1b9d1ccb8",
+      "author_login": "xiexinch",
+      "authored_at": "2023-12-14T05:02:10Z",
+      "message": "bumpv1.2.2 (#3475)"
+    },
+    {
+      "sha": "c7ac97d5dba5715785a9bde012f9e4360e0b2c37",
+      "author_login": "haruishi43",
+      "authored_at": "2023-12-14T02:45:36Z",
+      "message": "[Feature] add -with-labels arg to inferencer for visualization without labels (#3466)"
+    },
+    {
+      "sha": "7451459bb86338bb3e4bcb9254cba48537db1712",
+      "author_login": "okotaku",
+      "authored_at": "2023-12-07T06:04:11Z",
+      "message": "[Bugfix] test resize with pad_shape (#3421)"
+    },
+    {
+      "sha": "83bff18fcecb5951634db2b7a45045d9d131f655",
+      "author_login": "mmeendez8",
+      "authored_at": "2023-12-04T06:23:29Z",
+      "message": "[Bugfix] Allow custom visualizer (#3455)"
+    },
+    {
+      "sha": "e51f511dbea15a45479f2ee4d49649d3ca0160ec",
+      "author_login": "mmeendez8",
+      "authored_at": "2023-12-04T06:23:12Z",
+      "message": "[Bugfix] Fix bug in cross entropy loss (#3457)"
+    },
+    {
+      "sha": "cbf9af1e3f2eb50b58c8d783008f749ef62f2435",
+      "author_login": "xiexinch",
+      "authored_at": "2023-10-17T11:45:58Z",
+      "message": "bumpv1.2.1 (#3391)"
+    },
+    {
+      "sha": "649c50cd48f4a694a143551c5420e3ed113fff62",
+      "author_login": "xiexinch",
+      "authored_at": "2023-10-16T10:17:29Z",
+      "message": "[Fix] Fix init api (#3388)"
+    },
+    {
+      "sha": "95fbfbb540bb612567a1904f3e9af8f6898d7f6e",
+      "author_login": "xiexinch",
+      "authored_at": "2023-10-16T03:03:59Z",
+      "message": "[Fix] Add bpe_simple_vocab_16e6.txt.gz to release (#3386)"
+    },
+    {
+      "sha": "61e02534c637222cf3fa2465a256ab09dcbe1d8d",
+      "author_login": "xiexinch",
+      "authored_at": "2023-10-12T14:25:25Z",
+      "message": "bumpv1.2.0 (#3376)"
+    },
+    {
+      "sha": "19b0e900a405718df10cc2ce2be476a283df3b9a",
+      "author_login": "xiexinch",
+      "authored_at": "2023-10-12T09:33:00Z",
+      "message": "[Dev] update CI config (#3377)"
+    },
+    {
+      "sha": "64172d60b5ca2d6c897a4a06941d1f35deae977e",
+      "author_login": "xiexinch",
+      "authored_at": "2023-10-12T07:35:59Z",
+      "message": "[Fix] fix timm unit test (#3375)"
+    },
+    {
+      "sha": "e64c2fd62f138cbcf9001f8b3f4cbbe7cc175225",
+      "author_login": "AI-Tianlong",
+      "authored_at": "2023-10-12T07:00:49Z",
+      "message": "[CodeCamp2023-565] Fine tune ONNX Models (MMSegemetation) Inference for NVIDIA Jetson (#3372)"
+    },
+    {
+      "sha": "cf8fc7bd495de60e80ad56d1897aafb4bfc4c3c7",
+      "author_login": "likyoo",
+      "authored_at": "2023-09-26T10:42:27Z",
+      "message": "[Fix] fix wrong variables passing for `set_dataset_meta` (#3348)"
+    },
+    {
+      "sha": "2b3d91a76e5c692cf02277944d688f9bdad93e5b",
+      "author_login": "xiexinch",
+      "authored_at": "2023-09-26T10:39:21Z",
+      "message": "[Dev] add san metafile (#3353)"
+    },
+    {
+      "sha": "ffbc7d7b7b75bc3cb83d73d0963a0459adbd6774",
+      "author_login": "xiexinch",
+      "authored_at": "2023-09-26T10:22:57Z",
+      "message": "[Dev] update test case (#3352)"
+    },
+    {
+      "sha": "4278fff1aad423ff37124229fc92622408716376",
+      "author_login": "xiexinch",
+      "authored_at": "2023-09-26T10:17:44Z",
+      "message": "[Dev] update requirement (#3351)"
+    },
+    {
+      "sha": "608e319eb6864f393b26ae43189fd3415d195873",
+      "author_login": "angiecao",
+      "authored_at": "2023-09-20T13:20:26Z",
+      "message": "[Feature] Support Side Adapter Network (#3232)"
+    },
+    {
+      "sha": "1471d1e529f7887659bd9f2414c990763b3f95b2",
+      "author_login": "xiexinch",
+      "authored_at": "2023-09-20T05:44:56Z",
+      "message": "bumpv1.1.2 (#3339)"
+    },
+    {
+      "sha": "9c45a94cee11be3e71dbc01ea18b71b6f29330d5",
+      "author_login": "Ben-Louis",
+      "authored_at": "2023-09-20T04:45:05Z",
+      "message": "[Fix] fix import error raised by ldm (#3338)"
+    },
+    {
+      "sha": "56a40d78abb25e8c7cb7a348931bd462559af46d",
+      "author_login": "zhen6618",
+      "authored_at": "2023-09-20T03:08:47Z",
+      "message": "Use the pytorch-grad-cam tool to visualize Class Activation Maps (CAM) (#3324)"
+    },
+    {
+      "sha": "743171ddef1be38f916459e580ed4717abf0b906",
+      "author_login": "Ben-Louis",
+      "authored_at": "2023-09-18T12:27:24Z",
+      "message": "[Feature] Support inference and visualization of VPD (#3331)"
+    },
+    {
+      "sha": "f1fa61a48ac0acad94d89ab6d924936059da8c5e",
+      "author_login": "xiexinch",
+      "authored_at": "2023-09-18T11:24:03Z",
+      "message": "[Fix] Fix inferencer (#3333)"
+    },
+    {
+      "sha": "913fe3e91ca34e188c47d52e0d806657eb234ed7",
+      "author_login": "ZhaoQiiii",
+      "authored_at": "2023-09-18T11:23:35Z",
+      "message": "[Doc] add openxlab badge (#3332)"
+    },
+    {
+      "sha": "2b3d3d0603c91a75896efe66ebc434259c5bfd76",
+      "author_login": "Ben-Louis",
+      "authored_at": "2023-09-15T01:39:33Z",
+      "message": "[Fix] Fix training of VPD model (#3323)"
+    },
+    {
+      "sha": "b6090a15508f974cc37eac67639a62160b88ea5a",
+      "author_login": "Yang-Changhui",
+      "authored_at": "2023-09-13T09:06:03Z",
+      "message": "[CodeCamp2023-608] Add Adabins model (#3257)"
+    },
+    {
+      "sha": "c46cc85cba6f98bb212278769e77bf0cb2bbf9e2",
+      "author_login": "Ben-Louis",
+      "authored_at": "2023-09-13T07:31:22Z",
+      "message": "[Feature] Support VPD Depth Estimator (#3321)"
+    },
+    {
+      "sha": "ebd5695104b68a9ad82c0d82b7b93e7b4edfb217",
+      "author_login": "XDWang97",
+      "authored_at": "2023-08-31T04:53:33Z",
+      "message": "[Fix] Update confusion_matrix.py (#3291)"
+    },
+    {
+      "sha": "72e20a88543a4764780803a66a87d3f4897bc944",
+      "author_login": "Zoulinx",
+      "authored_at": "2023-08-31T04:44:46Z",
+      "message": "[Feature] remote sensing inference (#3131)"
+    },
+    {
+      "sha": "35ff78a07f1878f68b37d5d6416e4fd89290ba72",
+      "author_login": "Ben-Louis",
+      "authored_at": "2023-08-31T04:02:19Z",
+      "message": "[Feature] Support depth metrics (#3297)"
+    },
+    {
+      "sha": "8233e64c7e098e4c122c8f2305a87b8865119b3c",
+      "author_login": "zen0no",
+      "authored_at": "2023-08-28T08:48:26Z",
+      "message": "[CodeCamp2023-526] Kullback-Leibler divergence Loss implementation (#3242)"
+    },
+    {
+      "sha": "b2f10954e6f992f4d8b6d4f5a985ed3070487980",
+      "author_login": "ooooo-create",
+      "authored_at": "2023-08-25T02:19:14Z",
+      "message": "[Doc] translate doc for docs/zh_cn/user_guides/5_deployment.md (#3281)"
+    },
+    {
+      "sha": "05767a21a8ecc0d264d7c3b54721aa742941ef53",
+      "author_login": "crazysteeaam",
+      "authored_at": "2023-08-23T05:45:41Z",
+      "message": "Update QR code (#3284)"
+    },
+    {
+      "sha": "788b37f78fa83dcfca3b50c1a157edd4acf042ae",
+      "author_login": "Ben-Louis",
+      "authored_at": "2023-08-17T03:39:44Z",
+      "message": "[Feature] Support NYU depth estimation dataset (#3269)"
+    },
+    {
+      "sha": "92774182bacc32e1ffd87e86a73d299b29e219c1",
+      "author_login": "xiexinch",
+      "authored_at": "2023-08-16T10:01:22Z",
+      "message": "[Project] Add pp_mobileseg onnx inference demo (#3268)"
+    },
+    {
+      "sha": "0391bc49986c2caec479fe2686831cb80600d139",
+      "author_login": "xiexinch",
+      "authored_at": "2023-08-16T09:38:46Z",
+      "message": "[Fix] Update dataset mim downloading source to OpenXLab (#3266)"
+    },
+    {
+      "sha": "22ffd0d2f64094a05eda25a199434cfa78797acc",
+      "author_login": "ooooo-create",
+      "authored_at": "2023-08-15T06:04:25Z",
+      "message": "[Doc]fix inference_segmentor to inference_model (#3261)"
+    },
+    {
+      "sha": "9801c62fd79b1e337029360ff1955f62fe0f3e29",
+      "author_login": "xiexinch",
+      "authored_at": "2023-08-10T10:56:30Z",
+      "message": "[Fix] update pp_mobileseg ckpt links (#3254)"
+    },
+    {
+      "sha": "e458a467d6de4c78294abbf8e2c7c4bf1702a4f7",
+      "author_login": "SheffieldCao",
+      "authored_at": "2023-08-09T15:57:30Z",
+      "message": "[Project] Support CAT-Seg from CVPR2023 (#3098)"
+    },
+    {
+      "sha": "1e937961b38d0c4b4d6616f58f94d6e092eba252",
+      "author_login": "Yang-Changhui",
+      "authored_at": "2023-08-09T15:57:01Z",
+      "message": "[CodeCamp2023-367] Add pp_mobileseg model (#3239)"
+    },
+    {
+      "sha": "817c18bf2cc471f8ccc77ff0fb629dca9063436f",
+      "author_login": "yeedrag",
+      "authored_at": "2023-08-09T02:16:22Z",
+      "message": "[Fix] Added ignore_index and one hot encoding for dice loss (#3237)"
+    },
+    {
+      "sha": "4927b0ed03efb3b8bee0819b179e4173808a35ea",
+      "author_login": "angiecao",
+      "authored_at": "2023-08-09T02:15:50Z",
+      "message": "[Fix] Fix module PascalContextDataset (#3235)"
+    },
+    {
+      "sha": "123521766784b56529f4582f51c09cdf7a678396",
+      "author_login": "CastleDream",
+      "authored_at": "2023-08-01T06:38:33Z",
+      "message": "[CodeCamp2023-154] Add semantic label to the segmentation visualization results (#3229)"
+    },
+    {
+      "sha": "30a3f94f3e2916e27fa38c67cc3b8c69c1893fe8",
+      "author_login": "xiexinch",
+      "authored_at": "2023-07-24T07:28:21Z",
+      "message": "bumpv1.1.1 (#3223)"
+    },
+    {
+      "sha": "857f854b61bbbd8491305c0efca11fe6b5df2cf3",
+      "author_login": "xiexinch",
+      "authored_at": "2023-07-20T01:45:04Z",
+      "message": "[Enhancement] Remove batch inference assertion (#3210)"
+    },
+    {
+      "sha": "20fa12912fba77732c0da3ec34663c8522d7606b",
+      "author_login": "Alias-z",
+      "authored_at": "2023-07-14T04:44:03Z",
+      "message": "[Fix] Albumentations default key mapping mismatch (#3195)"
+    },
+    {
+      "sha": "580f63e2ed196d405ff2b063e7e20bf4a37713ef",
+      "author_login": "coding-famer",
+      "authored_at": "2023-07-14T04:43:45Z",
+      "message": "use correct link addresses for datasets in README_zh-CN (#3174)"
+    },
+    {
+      "sha": "5fc197900f3ba1b031d998d604b01774b0914f5a",
+      "author_login": "xiexinch",
+      "authored_at": "2023-07-14T03:16:16Z",
+      "message": "[Fix] Update ddrnet readme (#3198)"
+    },
+    {
+      "sha": "057155d3ab338e5863f222f341cde16b22a8e5f2",
+      "author_login": "CastleDream",
+      "authored_at": "2023-07-14T02:09:16Z",
+      "message": "[Feature] add bdd100K datasets (#3158)"
+    },
+    {
+      "sha": "7254f5330f399ec81c3d8f443026e376ca2825b5",
+      "author_login": "ZiAn-Su",
+      "authored_at": "2023-07-13T09:06:06Z",
+      "message": "[Fix] Fix SegTTAModel with no attribute '_gt_sem_seg' error (#3152)"
+    },
+    {
+      "sha": "067a95e40b9d2cadbd10dbebd820c131193ca76f",
+      "author_login": "xiexinch",
+      "authored_at": "2023-07-13T08:26:08Z",
+      "message": "[Fix] fix mim search error (#3194)"
+    },
+    {
+      "sha": "ac78b1308d95294c204050bc7d310fa0dfadfb81",
+      "author_login": "OliverGrace",
+      "authored_at": "2023-07-12T07:29:45Z",
+      "message": "[Fix] Fix train map path for coco-stuff164k.py (#3187)"
+    },
+    {
+      "sha": "00790766aff22bd6470dbbd9e89ea40685008395",
+      "author_login": "xiexinch",
+      "authored_at": "2023-07-04T03:13:57Z",
+      "message": "Release MMSegmentation v1.1.0"
+    },
+    {
+      "sha": "e4c1865a822dd9a699f4b22aff6a093f62a11250",
+      "author_login": "xiexinch",
+      "authored_at": "2023-07-04T03:11:30Z",
+      "message": "Bump1.1 (#3140)"
+    },
+    {
+      "sha": "8806b4e5486146e55b801ffa1a239211884cd2e6",
+      "author_login": "xiexinch",
+      "authored_at": "2023-07-03T01:43:00Z",
+      "message": "[Fix] Fix visualizor (#3154)"
+    },
+    {
+      "sha": "cc74c5c3fee3f3331bc8f1b803c751138864de47",
+      "author_login": "xiexinch",
+      "authored_at": "2023-06-30T08:40:13Z",
+      "message": "[Enhancement] update segformer default pretrain to configs (#3153)"
+    },
+    {
+      "sha": "c55d7a721e9b0ca628e20eb23578bb7728f80465",
+      "author_login": "xiexinch",
+      "authored_at": "2023-06-28T09:57:22Z",
+      "message": "[Feature] support mim download dataset (#3089)"
+    },
+    {
+      "sha": "b633093c27924db3b2429f7645f7e8cd8f5967d5",
+      "author_login": "xiexinch",
+      "authored_at": "2023-06-28T08:15:54Z",
+      "message": "[Dev] update owners (#3143)"
+    },
+    {
+      "sha": "3dca9a0a5ca9a24ba84374e91805dff38558ffb9",
+      "author_login": "xiexinch",
+      "authored_at": "2023-06-28T08:15:37Z",
+      "message": "[Project] add x-decoder link (#3142)"
+    },
+    {
+      "sha": "a2efc04a1704c1feac60fceb4fce3359cbf1a6f1",
+      "author_login": "xiexinch",
+      "authored_at": "2023-06-26T09:10:42Z",
+      "message": "[CI] fix merge stage (#3138)"
+    },
+    {
+      "sha": "ffb7e2e23910c8eeda5ccdbd94dad1c6a372c8de",
+      "author_login": "xiexinch",
+      "authored_at": "2023-06-26T08:02:37Z",
+      "message": "[Fix] Fix dependency (#3136)"
+    },
+    {
+      "sha": "d3f2922ff5d0ff39e87b7ae6c70e41133e73d7de",
+      "author_login": "Masaaki-75",
+      "authored_at": "2023-06-25T10:24:49Z",
+      "message": "[Project] Medical semantic seg dataset: Chest x ray images with pneumothorax masks (#2687)"
+    },
+    {
+      "sha": "c923f4d25b66544bc18bc7a1355b153f0d4003bf",
+      "author_login": "Masaaki-75",
+      "authored_at": "2023-06-25T08:54:38Z",
+      "message": "[Project] Medical semantic seg dataset: Crass (#2690)"
+    },
+    {
+      "sha": "c1de52a8be2809acf6edab58268761564372aed6",
+      "author_login": "Masaaki-75",
+      "authored_at": "2023-06-25T08:36:17Z",
+      "message": "[Project] Medical semantic seg dataset: Covid 19 ct cxr (#2688)"
+    },
+    {
+      "sha": "e4db1f20c918118216255756edf3a04874f71d85",
+      "author_login": "Masaaki-75",
+      "authored_at": "2023-06-25T07:57:40Z",
+      "message": "[Project] Medical semantic seg dataset: Pannuke (#2683)"
+    },
+    {
+      "sha": "30e3b49b0b1607a86af034d90a0d628359e4161b",
+      "author_login": "Masaaki-75",
+      "authored_at": "2023-06-25T07:44:43Z",
+      "message": "[Project] Medical semantic seg dataset: Pcam (#2684)"
+    },
+    {
+      "sha": "942b054426f1c8c41ec2baebd81e90adf0a603ac",
+      "author_login": "Masaaki-75",
+      "authored_at": "2023-06-25T07:05:00Z",
+      "message": "[Project] Medical semantic seg dataset: 2pm vessel (#2685)"
+    },
+    {
+      "sha": "ac241117cb2adf483475210bb75d2ad01c72c3d3",
+      "author_login": "Masaaki-75",
+      "authored_at": "2023-06-25T06:11:00Z",
+      "message": "[Project] Medical semanti seg dataset: Fusc2021 (#2682)"
+    },
+    {
+      "sha": "d934d10148e7aaee756cb0e69589351935155cb0",
+      "author_login": "Masaaki-75",
+      "authored_at": "2023-06-25T05:14:29Z",
+      "message": "[Project] Medical semantic seg dataset: Rite (#2680)"
+    },
+    {
+      "sha": "5a9cfa919384d9f17ec03f930f38fad60fa7fe9f",
+      "author_login": "Masaaki-75",
+      "authored_at": "2023-06-25T04:57:18Z",
+      "message": "[Project] Medical dataset: Kvasir seg aliyun (#2678)"
+    },
+    {
+      "sha": "2ea4784012d790ba012df6ce8dcebe766c8e73f5",
+      "author_login": "Masaaki-75",
+      "authored_at": "2023-06-25T03:50:46Z",
+      "message": "[Project] Medical semantic seg dataset: Kvasir seg (#2677)"
+    },
+    {
+      "sha": "3cc9d30d047463a632a3756437abfcef26ff4124",
+      "author_login": "suyanzhou626",
+      "authored_at": "2023-06-22T03:03:34Z",
+      "message": "[Project] Medical semantic seg dataset: ISIC-2017 Task1 (#2709)"
+    },
+    {
+      "sha": "b24f422a958513ed888ea5a3984254a3c41ed641",
+      "author_login": "suyanzhou626",
+      "authored_at": "2023-06-21T08:39:07Z",
+      "message": "[Project] Medical semantic seg dataset: ISIC-2016 Task1 (#2708)"
+    },
+    {
+      "sha": "78e036c36f7641e0870a591c6cf13fb7bccf761b",
+      "author_login": "tianbinli",
+      "authored_at": "2023-06-21T07:16:27Z",
+      "message": "[Project] Medical semantic seg dataset: orvs (#2728)"
+    },
+    {
+      "sha": "6333dc14f3c85a6567597034379e43b290865051",
+      "author_login": "tianbinli",
+      "authored_at": "2023-06-21T06:41:58Z",
+      "message": "[Project] Medical semantic seg dataset: dr_hagis (#2729)"
+    },
+    {
+      "sha": "81edd98c0572ae28ef12577779e33510e65edd74",
+      "author_login": "tianbinli",
+      "authored_at": "2023-06-21T06:24:56Z",
+      "message": "[Project] Medical semantic seg dataset: conic2022 (#2725)"
+    },
+    {
+      "sha": "65c8d77d6248407ac82b340ef208320a13ac0cb3",
+      "author_login": "tianbinli",
+      "authored_at": "2023-06-20T13:13:32Z",
+      "message": "[Project] Medical semantic seg dataset: chest_image_pneum (#2727)"
+    },
+    {
+      "sha": "041f1f0f4fd383b2bfccde2be1d02f4adc65400b",
+      "author_login": "tianbinli",
+      "authored_at": "2023-06-20T13:09:04Z",
+      "message": "[Project] Medical semantic seg dataset: breast_cancer_cell_seg (#2726)"
+    },
+    {
+      "sha": "b5fc5abcc41e704c9baa945c45dec75cb30d4f40",
+      "author_login": "tianbinli",
+      "authored_at": "2023-06-20T08:55:47Z",
+      "message": "[Project] Medical semantic seg dataset: consep (#2724)"
+    },
+    {
+      "sha": "f419f618a15043c72476b7ec213d1de893a3fee7",
+      "author_login": "Provable0816",
+      "authored_at": "2023-06-20T07:28:46Z",
+      "message": "[Project] add Gamma Task3 dataset project in dev-1.x (#2695)"
+    },
+    {
+      "sha": "4feba3114fdd8d9685f8fa785e8a60718559672f",
+      "author_login": "Provable0816",
+      "authored_at": "2023-06-20T03:39:22Z",
+      "message": "[Project] Medical semantic seg dataset: bccs (#2861)"
+    },
+    {
+      "sha": "b8b6ee6017e8503b8cadebc17d986ad2dc751c5a",
+      "author_login": "xiexinch",
+      "authored_at": "2023-06-19T10:34:52Z",
+      "message": "fix assert (#3119)"
+    },
+    {
+      "sha": "b0635ff783f22a6f2826be53ba4350bf5139821a",
+      "author_login": "LHamnett",
+      "authored_at": "2023-06-19T10:12:04Z",
+      "message": "[Enhancement] Change assertion logic inference cfg.model.test_cfg (#3012)"
+    },
+    {
+      "sha": "20adcfa3554ed3ddfa35ce5417c56ff41e7c5a6a",
+      "author_login": "xiexinch",
+      "authored_at": "2023-06-19T08:59:33Z",
+      "message": "[Dev] update benchmark script (#3116)"
+    },
+    {
+      "sha": "bb93b482b8f799a6df8cd0c1f20eaff2c83e4d2f",
+      "author_login": "jinxianwei",
+      "authored_at": "2023-06-19T06:26:08Z",
+      "message": "[Feature] huasdorff distance loss (#2820)"
+    },
+    {
+      "sha": "b2f4b4fe338cbf93e1b8d3b90d207a320ff2c359",
+      "author_login": "xiexinch",
+      "authored_at": "2023-06-19T05:08:04Z",
+      "message": "[Fix] fix inferencer ut (#3117)"
+    },
+    {
+      "sha": "c30d5060f17083ac7d8416eb83f74be435ba275c",
+      "author_login": "wangruohui",
+      "authored_at": "2023-06-16T03:07:17Z",
+      "message": "[Fix] Robust mapping from image path to seg map path (#3091)"
+    },
+    {
+      "sha": "279b89783e8e26bca6083aaff11ff9a4f6349410",
+      "author_login": "SheffieldCao",
+      "authored_at": "2023-06-16T02:43:34Z",
+      "message": "[Feature] enhance swin pretrained model loading (#3097)"
+    }
+  ],
+  "issues": [
+    {
+      "number": 3883,
+      "title": "Please do not install the top-level 'tests' module",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-09-13T00:43:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3882,
+      "title": "[Fix] Support explicit DepthMetric selection",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-08-19T06:48:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3881,
+      "title": "mmcv 2.2.0 in cuda130 windows mmseg 可用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-08-14T03:23:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3879,
+      "title": "Fix RandomRotFlip interpolation for segmentation maps",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-19T13:42:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3878,
+      "title": "[Fix] Use nearest interpolation for RandomRotFlip segmentation maps",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-18T23:29:20Z",
+      "closed_at": "2026-05-19T13:43:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3877,
+      "title": "OCRNet 在cityscapes数据集上的mIoU偏低",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-29T00:46:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3876,
+      "title": "[Fix] DDRNet: fix tensor size mismatch on non-standard input resolutions",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-25T23:52:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3875,
+      "title": "[Fix] Fix get_flops crash for SAN model",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-25T23:29:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3874,
+      "title": "Claude/finetune flood detection zq leg",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-17T04:34:22Z",
+      "closed_at": "2026-05-08T04:58:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3872,
+      "title": "Claude/floodnet paper experiments n hea l",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-02T09:18:56Z",
+      "closed_at": "2026-04-15T16:37:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3871,
+      "title": "mask2former预测为0",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-04-01T13:04:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3870,
+      "title": "Claude/floodnet config dependencies khs pq",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-19T08:50:03Z",
+      "closed_at": "2026-04-01T10:10:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3869,
+      "title": "[Fix] Fix indentation bug in hd_loss that mishandles ignore_index",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-02-11T18:35:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3868,
+      "title": "Codex/generate cm dgseg multi modal segmentation code",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-12-02T07:34:36Z",
+      "closed_at": "2026-06-26T13:32:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3867,
+      "title": "Performance Gap When Training UPerNet with Swin Backbone",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-28T02:49:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3866,
+      "title": "ERROR in get_flops.py when computing FLOPs and Params for SAN model due to SideAdapterCLIPHead forward signature mismatch",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-15T05:15:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3865,
+      "title": "Semantic Segmentation Leaderboard",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-10-14T17:53:15Z",
+      "closed_at": "2025-12-06T04:12:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3864,
+      "title": "Resolve Runtime Error: CUDA error: device side assert triggered. When setting class_weight",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-09-18T07:58:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3863,
+      "title": "可以对解码器的层级输出，进行损失计算吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-09-10T02:08:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3862,
+      "title": "Is mmSegmentation no longer maintained and obsolete?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-08-27T23:22:06Z",
+      "closed_at": "2025-09-04T22:42:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3861,
+      "title": "How can I set val_cfg similar test_cfg",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-08-25T02:40:44Z",
+      "closed_at": "2025-08-25T02:51:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3860,
+      "title": "Encountering \"NYI\" problem when convert mask2former to onnx:",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-25T00:59:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3859,
+      "title": "How to define a dataset that loads data directly from LMDB files?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-08-12T13:00:32Z",
+      "closed_at": "2025-08-14T12:44:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3858,
+      "title": "test",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-07-31T18:03:33Z",
+      "closed_at": "2025-07-31T20:18:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3857,
+      "title": "有没有适合人体的基模型",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-30T03:41:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3856,
+      "title": "I cannot understand the difference between convert onnx by torch.onnx.export and torch2onnx(mmdeploy)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-24T04:10:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3855,
+      "title": "mmseg - INFO - 检查点将由 HardDiskBackend 保存到 /mnt/DATA/tianbiao/code/mmsegmentation/work_dirs/deeplabv3_unet_s5-d16_128x128_40k_chase_db1。",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-04T04:37:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3854,
+      "title": "Coco-stuff 164k reduce_zero_label",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-01T15:15:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3853,
+      "title": "Update installation instructions to newer python version and give explanations",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-05-26T06:57:24Z",
+      "closed_at": "2025-08-25T01:19:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3852,
+      "title": "好用的框架为什么不更新了？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-21T03:37:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3851,
+      "title": "IoUMetric中CPA准确率计算错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-04T03:05:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3850,
+      "title": "Dataset Setup & Checkpoint Size Issue in MMSegmentation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-31T07:00:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3849,
+      "title": "Training MMDetection model on AWS or Google Cloud",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-22T18:32:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3848,
+      "title": "Unrecognized layer type CustomConv.  How to customize the convolution layer in mmsegmentation?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-20T02:16:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3847,
+      "title": "还会更新新的模型吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-18T01:24:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3846,
+      "title": "RuntimeError: CUDA error: an illegal memory access was encountered",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-03-08T04:06:29Z",
+      "closed_at": "2025-03-26T11:39:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3845,
+      "title": "Converting Mask2Former from PytorchLightning to ONNx. Unexpected key and missing keys",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-05T06:13:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3844,
+      "title": "few shot segmentation support? SINE",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-20T11:07:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3843,
+      "title": "Problem of implementation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-17T05:30:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3842,
+      "title": "[Fix] changed Resize to RandomResize",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-02-12T16:02:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3841,
+      "title": "support moore threads MUSA gpu",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-02-12T09:20:45Z",
+      "closed_at": "2025-12-29T08:06:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3840,
+      "title": "Basics",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-01-28T21:27:00Z",
+      "closed_at": "2025-01-28T21:27:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3839,
+      "title": "Train model using custom data",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-22T12:21:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3838,
+      "title": "backbone parameter freezing across models",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-22T12:16:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3837,
+      "title": "ImportError: cannot import name '_c_internal_utils' from partially initialized module 'matplotlib' (most likely due to a circular import)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-19T04:10:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3836,
+      "title": "meeting error when using unet on custom dataset",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-17T10:59:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3835,
+      "title": "集成新的模型",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-14T01:35:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3834,
+      "title": "unsupervised domain adaptation (UDA) method support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-13T14:43:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3833,
+      "title": "CUDA12.6",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-07T07:29:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3832,
+      "title": "\"illegal memory access\" and \"numel: integer multiplication overflow\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-29T02:26:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3831,
+      "title": "Is there a conflict between class_weight and seg_ pad_val？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-25T08:00:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3830,
+      "title": "Hello, where can I download the pre-trained model of SAN?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-24T15:17:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3829,
+      "title": "Maintain consistent brightness before and after image inference",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-24T12:51:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3828,
+      "title": "How to calculate params and flops of maskformer and mask2former in semantic segmentation?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-16T07:13:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3827,
+      "title": "How to integrate SAM architecture into mmseg for finetuning?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-12T10:01:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3826,
+      "title": "Help!!!【Mask2former】All predictions are colored by full colors in visualization!",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-09T22:21:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3824,
+      "title": "Confusing cls_token handling in ViTTransfomer::forward",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-04T02:21:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3823,
+      "title": "Question about the pretrained weight configuration for the SAN model",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-28T23:08:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3822,
+      "title": "Question about the pretrained weight configuration for the SAN model",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-27T12:08:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3821,
+      "title": "Support the implementation of FADC and SCTNet",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-26T03:09:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3820,
+      "title": "Error in distributed training/testing",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-25T03:22:48Z",
+      "closed_at": "2024-12-26T05:01:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3819,
+      "title": "config settings for SEM images",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-24T21:51:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3818,
+      "title": "mmseg config availability",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-22T16:27:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3817,
+      "title": "Fix fsdp weight reading error",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-11-21T01:45:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3816,
+      "title": "When calculating mIoU, the category of 'clutter' was taken into account for mIoU ISPRS potsdam?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-20T11:32:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3815,
+      "title": "TypeError: forward() got an unexpected keyword argument 'weight'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-18T07:31:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3814,
+      "title": "如何对于一个模型进行随机种子的设置呢？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-17T20:00:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3812,
+      "title": "When I use my own dataset to train the BEIT network, there is no problem with the training process, but the following error is reported during validation, what is the reason?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-12T03:19:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3811,
+      "title": "Errors in mask2former caused by class_weight",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-11T08:46:27Z",
+      "closed_at": "2024-12-26T05:01:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3810,
+      "title": "How to train a custom panoramic segmentation dataset using mmsegmentation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-11T02:49:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3809,
+      "title": "Shape error when running SegFormer",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-08T09:53:39Z",
+      "closed_at": "2024-11-10T01:21:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3808,
+      "title": "scooter fastscnn trainning",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-11-06T23:22:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3807,
+      "title": "Segformer evaluation metrics",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-05T11:50:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3805,
+      "title": "Export to Torchlib has a mix of Device and Cpu tensors",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-04T13:52:13Z",
+      "closed_at": "2024-11-16T17:19:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3804,
+      "title": "test",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-04T09:57:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3803,
+      "title": "Basics",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-11-03T17:43:08Z",
+      "closed_at": "2024-11-03T17:44:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3802,
+      "title": "Adding ViT-Adapter as Supported Backbone",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-31T12:06:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3801,
+      "title": "TypeError: __init__() missing 1 required positional argument: 'ann_file'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-31T02:41:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3800,
+      "title": "how can I use \"from mmseg.datasets import build_dataset\"and\"from mmseg.apis import train_segmentor\"in the mmseg2.0.0?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-30T10:25:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3799,
+      "title": "How to use paseudo lable of train mmseg model or mini change the code to use paseudo label?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-28T03:27:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3798,
+      "title": "How to use ohem_loss in mmseg==0.29.1?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-21T08:51:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3797,
+      "title": "How to Add Custom Parameters to loss, predict, and _forward Functions in New Segmentor in mmseg1.2.2",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-17T10:21:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3796,
+      "title": "The problems encountered while training with SAN",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-16T13:55:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3795,
+      "title": "With the same configuration, the training results of the model vary significantly.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-16T07:51:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3794,
+      "title": "How to fine tune SegFormer on a custom dataset",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-15T14:15:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3793,
+      "title": "pth",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-13T04:22:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3792,
+      "title": "build_backbone",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-11T07:37:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3791,
+      "title": "ValueError: need at least one array to concatenate",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-10T14:20:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3790,
+      "title": "How to use K-fold cross-validation in the mmseg 如何在mmseg中使用k-fold方法进行验证",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-10-10T05:05:42Z",
+      "closed_at": "2024-10-12T00:25:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3789,
+      "title": "How to use k-fold in the mmseg",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-10-10T05:03:00Z",
+      "closed_at": "2024-10-12T00:25:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3788,
+      "title": "Update 1_config.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-10-09T02:26:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3787,
+      "title": "problem about reduce_zero_label",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-06T08:40:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3786,
+      "title": "预测结果不一致的问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-03T15:28:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3785,
+      "title": "Why not use MMCV==2.2.0?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-03T04:54:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3784,
+      "title": "Add classes issues",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-02T12:52:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3783,
+      "title": "swin-结果疑问",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-30T17:33:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3782,
+      "title": "Different decoder channel in original SegFormer paper and MMSegmentation implementation.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-30T11:21:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3781,
+      "title": "get_flops.py can not be used on PointRend",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-29T08:25:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3780,
+      "title": "How do I build a model using config？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-09-27T03:44:25Z",
+      "closed_at": "2024-10-06T08:37:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3779,
+      "title": "[SVM-796] upgrade torch",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-09-24T22:26:52Z",
+      "closed_at": "2024-09-24T22:27:39Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "MengzhangLI",
+      "contributions": 153
+    },
+    {
+      "login": "xiexinch",
+      "contributions": 145
+    },
+    {
+      "login": "MeowZheng",
+      "contributions": 123
+    },
+    {
+      "login": "xvjiarui",
+      "contributions": 67
+    },
+    {
+      "login": "Junjun2016",
+      "contributions": 55
+    },
+    {
+      "login": "RockeyCoss",
+      "contributions": 21
+    },
+    {
+      "login": "clownrat6",
+      "contributions": 19
+    },
+    {
+      "login": "csatsurnh",
+      "contributions": 15
+    },
+    {
+      "login": "yamengxi",
+      "contributions": 14
+    },
+    {
+      "login": "AI-Tianlong",
+      "contributions": 13
+    },
+    {
+      "login": "Masaaki-75",
+      "contributions": 11
+    },
+    {
+      "login": "linfangjian01",
+      "contributions": 8
+    },
+    {
+      "login": "sshuair",
+      "contributions": 8
+    },
+    {
+      "login": "matrixgame2018",
+      "contributions": 8
+    },
+    {
+      "login": "mmeendez8",
+      "contributions": 7
+    },
+    {
+      "login": "tianbinli",
+      "contributions": 7
+    },
+    {
+      "login": "daavoo",
+      "contributions": 6
+    },
+    {
+      "login": "Ben-Louis",
+      "contributions": 6
+    },
+    {
+      "login": "hellock",
+      "contributions": 5
+    },
+    {
+      "login": "lkm2835",
+      "contributions": 5
+    },
+    {
+      "login": "VoyagerXvoyagerx",
+      "contributions": 4
+    },
+    {
+      "login": "jinxianwei",
+      "contributions": 4
+    },
+    {
+      "login": "Provable0816",
+      "contributions": 4
+    },
+    {
+      "login": "siddancha",
+      "contributions": 4
+    },
+    {
+      "login": "johnzja",
+      "contributions": 4
+    },
+    {
+      "login": "Zoulinx",
+      "contributions": 3
+    },
+    {
+      "login": "wangjiangben-hw",
+      "contributions": 3
+    },
+    {
+      "login": "tianleiSHI",
+      "contributions": 3
+    },
+    {
+      "login": "drcut",
+      "contributions": 3
+    },
+    {
+      "login": "suyanzhou626",
+      "contributions": 3
+    },
+    {
+      "login": "andife",
+      "contributions": 3
+    },
+    {
+      "login": "Wuziyi616",
+      "contributions": 3
+    },
+    {
+      "login": "KKIEEK",
+      "contributions": 3
+    },
+    {
+      "login": "angiecao",
+      "contributions": 2
+    },
+    {
+      "login": "congee524",
+      "contributions": 2
+    },
+    {
+      "login": "haruishi43",
+      "contributions": 2
+    },
+    {
+      "login": "kitecats",
+      "contributions": 2
+    },
+    {
+      "login": "innerlee",
+      "contributions": 2
+    },
+    {
+      "login": "grimoire",
+      "contributions": 2
+    },
+    {
+      "login": "uni19",
+      "contributions": 2
+    },
+    {
+      "login": "ooooo-create",
+      "contributions": 2
+    },
+    {
+      "login": "likyoo",
+      "contributions": 2
+    },
+    {
+      "login": "BLUE-coconut",
+      "contributions": 2
+    },
+    {
+      "login": "yinchimaoliang",
+      "contributions": 2
+    },
+    {
+      "login": "whu-pzhang",
+      "contributions": 2
+    },
+    {
+      "login": "SBCV",
+      "contributions": 2
+    },
+    {
+      "login": "nijkah",
+      "contributions": 2
+    },
+    {
+      "login": "FreyWang",
+      "contributions": 2
+    },
+    {
+      "login": "CastleDream",
+      "contributions": 2
+    },
+    {
+      "login": "HJoonKwon",
+      "contributions": 2
+    },
+    {
+      "login": "CCODING04",
+      "contributions": 2
+    },
+    {
+      "login": "dreamerlin",
+      "contributions": 2
+    },
+    {
+      "login": "acdart",
+      "contributions": 2
+    },
+    {
+      "login": "Junjue-Wang",
+      "contributions": 2
+    },
+    {
+      "login": "Li-Qingyun",
+      "contributions": 2
+    },
+    {
+      "login": "RangeKing",
+      "contributions": 2
+    },
+    {
+      "login": "VVsssssk",
+      "contributions": 2
+    },
+    {
+      "login": "SheffieldCao",
+      "contributions": 2
+    },
+    {
+      "login": "YuanLiuuuuuu",
+      "contributions": 2
+    },
+    {
+      "login": "Yang-Changhui",
+      "contributions": 2
+    },
+    {
+      "login": "ZhaoQiiii",
+      "contributions": 1
+    },
+    {
+      "login": "zergzzlun",
+      "contributions": 1
+    },
+    {
+      "login": "ZiAn-Su",
+      "contributions": 1
+    },
+    {
+      "login": "del-zhenwu",
+      "contributions": 1
+    },
+    {
+      "login": "gszh",
+      "contributions": 1
+    },
+    {
+      "login": "haofengsiji",
+      "contributions": 1
+    },
+    {
+      "login": "jbwang1997",
+      "contributions": 1
+    },
+    {
+      "login": "jere357",
+      "contributions": 1
+    },
+    {
+      "login": "jiangyitong",
+      "contributions": 1
+    },
+    {
+      "login": "jonGuti13",
+      "contributions": 1
+    },
+    {
+      "login": "jts250",
+      "contributions": 1
+    },
+    {
+      "login": "MGAMZ",
+      "contributions": 1
+    },
+    {
+      "login": "zeliu98",
+      "contributions": 1
+    },
+    {
+      "login": "Yzichen",
+      "contributions": 1
+    },
+    {
+      "login": "HarborYuan",
+      "contributions": 1
+    },
+    {
+      "login": "youqingxiaozhua",
+      "contributions": 1
+    },
+    {
+      "login": "Xiangxu-0103",
+      "contributions": 1
+    },
+    {
+      "login": "XiaLiPKU",
+      "contributions": 1
+    },
+    {
+      "login": "wufan-tb",
+      "contributions": 1
+    },
+    {
+      "login": "274869388",
+      "contributions": 1
+    },
+    {
+      "login": "Waterman0524",
+      "contributions": 1
+    },
+    {
+      "login": "Johnson-Wang",
+      "contributions": 1
+    },
+    {
+      "login": "Dominic23331",
+      "contributions": 1
+    },
+    {
+      "login": "Renzhihan",
+      "contributions": 1
+    },
+    {
+      "login": "crazysteeaam",
+      "contributions": 1
+    },
+    {
+      "login": "zhen6618",
+      "contributions": 1
+    },
+    {
+      "login": "zhaoxiaoliu",
+      "contributions": 1
+    },
+    {
+      "login": "zhangrui-wolf",
+      "contributions": 1
+    },
+    {
+      "login": "zccjjj",
+      "contributions": 1
+    },
+    {
+      "login": "yeedrag",
+      "contributions": 1
+    },
+    {
+      "login": "yaochaorui",
+      "contributions": 1
+    },
+    {
+      "login": "ice-tong",
+      "contributions": 1
+    },
+    {
+      "login": "kinglintianxia",
+      "contributions": 1
+    },
+    {
+      "login": "Dawn-bin",
+      "contributions": 1
+    },
+    {
+      "login": "vansin",
+      "contributions": 1
+    },
+    {
+      "login": "unrealMJ",
+      "contributions": 1
+    },
+    {
+      "login": "tang576225574",
+      "contributions": 1
+    },
+    {
+      "login": "okotaku",
+      "contributions": 1
+    },
+    {
+      "login": "shigengtian",
+      "contributions": 1
+    },
+    {
+      "login": "rstrudel",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v1.2.2",
+      "published_at": "2023-12-14T05:04:26Z"
+    },
+    {
+      "tag": "v1.2.1",
+      "published_at": "2023-10-17T11:51:45Z"
+    },
+    {
+      "tag": "v1.2.0",
+      "published_at": "2023-10-12T14:27:03Z"
+    },
+    {
+      "tag": "v1.1.2",
+      "published_at": "2023-09-20T05:51:59Z"
+    },
+    {
+      "tag": "v1.1.1",
+      "published_at": "2023-07-24T07:37:12Z"
+    },
+    {
+      "tag": "v1.1.0",
+      "published_at": "2023-07-04T03:20:32Z"
+    },
+    {
+      "tag": "v1.0.0",
+      "published_at": "2023-04-06T09:34:45Z"
+    },
+    {
+      "tag": "v1.0.0rc6",
+      "published_at": "2023-03-03T09:29:07Z"
+    },
+    {
+      "tag": "v1.0.0rc5",
+      "published_at": "2023-02-01T13:53:12Z"
+    },
+    {
+      "tag": "v1.0.0rc4",
+      "published_at": "2023-01-30T10:22:44Z"
+    },
+    {
+      "tag": "v0.30.0",
+      "published_at": "2023-01-11T10:22:23Z"
+    },
+    {
+      "tag": "v1.0.0rc3",
+      "published_at": "2022-12-31T11:29:29Z"
+    },
+    {
+      "tag": "v1.0.0rc2",
+      "published_at": "2022-12-06T09:28:07Z"
+    },
+    {
+      "tag": "v0.29.1",
+      "published_at": "2022-11-03T08:31:50Z"
+    },
+    {
+      "tag": "v1.0.0rc1",
+      "published_at": "2022-11-02T09:49:07Z"
+    },
+    {
+      "tag": "v0.29.0",
+      "published_at": "2022-10-10T06:13:59Z"
+    },
+    {
+      "tag": "v0.28.0",
+      "published_at": "2022-09-08T08:59:26Z"
+    },
+    {
+      "tag": "v1.0.0rc0",
+      "published_at": "2022-08-31T16:37:55Z"
+    },
+    {
+      "tag": "v0.27.0",
+      "published_at": "2022-07-28T15:11:15Z"
+    },
+    {
+      "tag": "v0.26.0",
+      "published_at": "2022-07-01T12:46:48Z"
+    },
+    {
+      "tag": "v0.25.0",
+      "published_at": "2022-06-02T14:50:20Z"
+    },
+    {
+      "tag": "v0.24.1",
+      "published_at": "2022-05-01T06:08:47Z"
+    },
+    {
+      "tag": "v0.24.0",
+      "published_at": "2022-04-29T14:26:19Z"
+    },
+    {
+      "tag": "v0.23.0",
+      "published_at": "2022-04-01T07:47:55Z"
+    },
+    {
+      "tag": "v0.22.1",
+      "published_at": "2022-03-09T12:07:37Z"
+    },
+    {
+      "tag": "v0.22.0",
+      "published_at": "2022-03-04T14:19:29Z"
+    },
+    {
+      "tag": "v0.21.1",
+      "published_at": "2022-02-09T09:29:15Z"
+    },
+    {
+      "tag": "v0.21.0",
+      "published_at": "2022-01-29T10:32:53Z"
+    },
+    {
+      "tag": "v0.20.2",
+      "published_at": "2021-12-15T08:59:57Z"
+    },
+    {
+      "tag": "v0.20.1",
+      "published_at": "2021-12-14T14:34:31Z"
+    },
+    {
+      "tag": "v0.20.0",
+      "published_at": "2021-12-10T17:45:24Z"
+    },
+    {
+      "tag": "v0.19.0",
+      "published_at": "2021-11-02T21:31:55Z"
+    },
+    {
+      "tag": "v0.18.0",
+      "published_at": "2021-10-07T09:41:39Z"
+    },
+    {
+      "tag": "v0.17.0",
+      "published_at": "2021-09-01T14:55:08Z"
+    },
+    {
+      "tag": "v0.16.0",
+      "published_at": "2021-08-04T09:20:02Z"
+    },
+    {
+      "tag": "v0.15.0",
+      "published_at": "2021-07-04T08:10:19Z"
+    },
+    {
+      "tag": "v0.14.0",
+      "published_at": "2021-06-03T01:44:08Z"
+    },
+    {
+      "tag": "v0.13.0",
+      "published_at": "2021-05-05T23:57:06Z"
+    },
+    {
+      "tag": "v0.12.0",
+      "published_at": "2021-04-04T04:03:44Z"
+    },
+    {
+      "tag": "v0.11.0",
+      "published_at": "2021-02-02T23:10:38Z"
+    },
+    {
+      "tag": "v0.10.0",
+      "published_at": "2021-01-02T23:30:48Z"
+    },
+    {
+      "tag": "v0.9.0",
+      "published_at": "2020-12-02T05:12:21Z"
+    },
+    {
+      "tag": "v0.8.0",
+      "published_at": "2020-11-05T00:27:28Z"
+    },
+    {
+      "tag": "v0.7.0",
+      "published_at": "2020-10-11T15:08:23Z"
+    },
+    {
+      "tag": "v0.6.0",
+      "published_at": "2020-09-11T07:58:32Z"
+    }
+  ],
+  "collected_at": "2026-09-21T11:41:00.097787Z"
+}

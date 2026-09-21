@@ -1,0 +1,1896 @@
+{
+  "full_name": "alexanderepstein/Bash-Snippets",
+  "owner": "alexanderepstein",
+  "name": "Bash-Snippets",
+  "url": "https://github.com/alexanderepstein/Bash-Snippets",
+  "description": "A collection of small bash scripts for heavy terminal users",
+  "primary_language": "Shell",
+  "topics": [
+    "backup",
+    "bash",
+    "cheatsheet",
+    "currency-converter",
+    "encryption",
+    "movies",
+    "qrencode",
+    "recommendation-engine",
+    "stock-prices",
+    "url-shortner",
+    "weather",
+    "youtube-player"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 9956,
+  "forks": 840,
+  "open_issues": 14,
+  "created_at": "2017-06-26T21:55:08Z",
+  "pushed_at": "2024-05-04T18:12:41Z",
+  "updated_at": "2026-09-20T22:19:04Z",
+  "commits": [
+    {
+      "sha": "581a6b4ea681005e3f8add37dbed74aaec65479f",
+      "author_login": "e55am",
+      "authored_at": "2024-05-04T18:12:41Z",
+      "message": "Fix: correct typo prevent script from stop if response was False (#243)"
+    },
+    {
+      "sha": "87a290400718ee1f374cff11698e53297f2c3000",
+      "author_login": "e55am",
+      "authored_at": "2024-05-04T18:11:45Z",
+      "message": "Use 'printf' instead 'echo' to print movie information (#242)"
+    },
+    {
+      "sha": "12f16d818d8759d66abcb14ea381c4985ea33ba8",
+      "author_login": "thomastubby",
+      "authored_at": "2023-07-05T17:20:56Z",
+      "message": "Generated new API key as old key was invalid. Fixes issue #237 where no values are returned upon entering movie name. (#239)"
+    },
+    {
+      "sha": "ada18457c41ebdd04f3c8b58194239320810aaca",
+      "author_login": "Lunkentuss",
+      "authored_at": "2022-08-31T04:09:08Z",
+      "message": "enable redirect flag (-L) with curl in meme script (#238)"
+    },
+    {
+      "sha": "05b21c46773bdd10d6548d2ba6483aa8a70d8567",
+      "author_login": null,
+      "authored_at": "2022-05-24T03:12:10Z",
+      "message": "transfer updated, files holding servers changed form transfer.sh ---> temp.sh and keep.sh (#235)"
+    },
+    {
+      "sha": "e4f038c29714a0b4d6eb920a1b54a866ade617b5",
+      "author_login": "alexanderepstein",
+      "authored_at": "2021-04-16T01:51:27Z",
+      "message": "Merge pull request #230 from hotfloppy/pr"
+    },
+    {
+      "sha": "9f92e2ec04750aef8c3bf503befad89fb495a79d",
+      "author_login": "hotfloppy",
+      "authored_at": "2021-04-16T00:39:39Z",
+      "message": "exchagerateapi.io is now requires an access key, so make use of exchangerate-api.com instead"
+    },
+    {
+      "sha": "a2b49e2486770a3bf6da47d49254092afda69cc9",
+      "author_login": "jfrcom",
+      "authored_at": "2020-11-21T18:51:35Z",
+      "message": "Reworked installing, updating, uninstalling sections and added guides for aur package (#224)"
+    },
+    {
+      "sha": "38560fd47091b1b6dab73b9dbae162fc1e65f890",
+      "author_login": "alexanderepstein",
+      "authored_at": "2020-11-14T19:39:11Z",
+      "message": "Merge pull request #227 from navanchauhan/patch-1"
+    },
+    {
+      "sha": "851ccf998f3541085e5ced6a4e12890389de55f8",
+      "author_login": "navanchauhan",
+      "authored_at": "2020-11-14T16:43:03Z",
+      "message": "updated Newton API URL"
+    },
+    {
+      "sha": "97a1c0d6358264a50ca0c6e221b74ea1cb72b372",
+      "author_login": "alexanderepstein",
+      "authored_at": "2020-10-05T14:25:57Z",
+      "message": "Update stale.yml"
+    },
+    {
+      "sha": "afe74dd9829af6f3ff2aed8f441410d2b0f93904",
+      "author_login": "alexanderepstein",
+      "authored_at": "2020-10-05T14:25:04Z",
+      "message": "Update stale.yml"
+    },
+    {
+      "sha": "f757dccb90e835d8c24b5324b96b676186d44609",
+      "author_login": "dadav",
+      "authored_at": "2020-10-05T14:23:01Z",
+      "message": "Add shellcheck github action (#221)"
+    },
+    {
+      "sha": "9bcc763379aaa6770d30537c3fcb42c5addbc41f",
+      "author_login": "dadav",
+      "authored_at": "2020-10-02T17:52:44Z",
+      "message": "Apply shellcheck (#222)"
+    },
+    {
+      "sha": "949243515eb0a41734e3c54116d6bc729b41257f",
+      "author_login": "alexanderepstein",
+      "authored_at": "2020-08-26T21:00:24Z",
+      "message": "Merge pull request #220 from Infinisil/lyrics-quoting"
+    },
+    {
+      "sha": "d3c1ab3248f593385ebd6f3545cd8ee38285ca7a",
+      "author_login": "infinisil",
+      "authored_at": "2020-08-22T18:36:57Z",
+      "message": "Fix lyrics snippet quoting"
+    },
+    {
+      "sha": "6322f3c8e2c74262855b2d44ff1be6237ee3824e",
+      "author_login": null,
+      "authored_at": "2020-07-21T18:02:55Z",
+      "message": "New Component gist - manage gist in CLI (#213)"
+    },
+    {
+      "sha": "367f5f515d3661e35a913e6a438d5534ee0fac14",
+      "author_login": null,
+      "authored_at": "2020-04-03T20:40:42Z",
+      "message": "Fix build error (#215)"
+    },
+    {
+      "sha": "43a7017724cc5a06cc50bb809f6b9083627b0665",
+      "author_login": "navanchauhan",
+      "authored_at": "2020-04-03T20:40:15Z",
+      "message": "Added bak2dvd to tools (#216)"
+    },
+    {
+      "sha": "c51fb0c9dc9c97bf008f442fb79c82f6fa942bbe",
+      "author_login": "safinsingh",
+      "authored_at": "2020-02-13T05:24:00Z",
+      "message": "Fixing spacing in bash-snippets script (#212)"
+    },
+    {
+      "sha": "9cab453a0c0399a22dd0591d758f87f8cdbac8af",
+      "author_login": null,
+      "authored_at": "2020-02-13T05:23:16Z",
+      "message": "Fix test condition for short (#214)"
+    },
+    {
+      "sha": "bb561e5048d07b6709192896b37fef32059da16f",
+      "author_login": "alexanderepstein",
+      "authored_at": "2020-01-09T07:18:52Z",
+      "message": "Fixing endpoint for stocks api"
+    },
+    {
+      "sha": "152c14103296da0d22f20a3a5af739ed6263c1b2",
+      "author_login": "HaoZeke",
+      "authored_at": "2019-11-24T07:14:56Z",
+      "message": "currency: Add ISK (Icelandic Krona) (#209)"
+    },
+    {
+      "sha": "4c09b6ff09a193c31ba58aed37c97783a5d6e81b",
+      "author_login": "alexanderepstein",
+      "authored_at": "2019-09-01T02:50:16Z",
+      "message": "Fixing syntax error in ytview"
+    },
+    {
+      "sha": "9969a1bc0250322037ccff2e701d23bd865ebd89",
+      "author_login": "alexanderepstein",
+      "authored_at": "2019-08-21T00:13:08Z",
+      "message": "Adding python and json functions to skeleton"
+    },
+    {
+      "sha": "66f3465bcda620958c303e6f633577361d590c06",
+      "author_login": "alexanderepstein",
+      "authored_at": "2019-08-21T00:06:07Z",
+      "message": "Updating to 1.23.0"
+    },
+    {
+      "sha": "eb82f92367c2f3bd0535049560a3bfb09123fecd",
+      "author_login": "alexanderepstein",
+      "authored_at": "2019-08-20T23:57:13Z",
+      "message": "Adding environment variable for player in ytview"
+    },
+    {
+      "sha": "36ad477be49ccfdc4a9376e896a8b528227d8854",
+      "author_login": "alexanderepstein",
+      "authored_at": "2019-08-20T23:56:58Z",
+      "message": "Adding python3 support"
+    },
+    {
+      "sha": "66f0ee219f8ac3a1e862cc9929fb80872f841ee1",
+      "author_login": "alexanderepstein",
+      "authored_at": "2019-08-20T23:55:54Z",
+      "message": "Adding bak2dvd to mainline installer"
+    },
+    {
+      "sha": "1f195df072229041d3350136ae7087031c9f1a17",
+      "author_login": "michalfabik",
+      "authored_at": "2019-08-20T23:17:25Z",
+      "message": "Add support for currencies hard-pegged to other currencies (#194)"
+    },
+    {
+      "sha": "96cde6c2d41bf62fb18beea875a8fdc06d1e898e",
+      "author_login": "greenbicycle",
+      "authored_at": "2019-08-12T18:50:32Z",
+      "message": "Solution for Wlan IP address for Mac? (#204)"
+    },
+    {
+      "sha": "e8a8c208a7526fe7b8272dcf67599b31f4e7742e",
+      "author_login": null,
+      "authored_at": "2019-07-20T15:53:11Z",
+      "message": "Adding python3 support"
+    },
+    {
+      "sha": "70d2f0fbad9b3ddf53f310837ff6526ca8484e19",
+      "author_login": "tjstub",
+      "authored_at": "2019-07-20T15:44:29Z",
+      "message": "Cleaned up stocks and pointed it to a new API (#197)"
+    },
+    {
+      "sha": "5bf93d179bd37a671cd3df8848b3b9b2392390d5",
+      "author_login": "tjstub",
+      "authored_at": "2019-07-17T02:29:41Z",
+      "message": "Fixed spelling. reqires->requires (#196)"
+    },
+    {
+      "sha": "a54959283c29173ee61570ba9d4da71e80656ccf",
+      "author_login": "alexanderepstein",
+      "authored_at": "2019-05-28T13:49:20Z",
+      "message": "Create FUNDING.yml"
+    },
+    {
+      "sha": "aec18195b88f36d9d5dbe0a017be55126a65b2ea",
+      "author_login": "rom232",
+      "authored_at": "2019-05-28T13:46:49Z",
+      "message": "Just a remider about the external API and security (#188)"
+    },
+    {
+      "sha": "4c899d8aede742133a6be1f57fd4b92a2df1172d",
+      "author_login": "virgilwashere",
+      "authored_at": "2019-05-06T04:23:53Z",
+      "message": "Updates to tests (#185)"
+    },
+    {
+      "sha": "a3ba107a22efdef15e84b2bc1cca1120321fc31e",
+      "author_login": "oblende",
+      "authored_at": "2019-04-03T00:41:01Z",
+      "message": "Tool to write tar archives to optical disc. (#183)"
+    },
+    {
+      "sha": "9f9955ecd58901d395992a507981512a7124b0ca",
+      "author_login": "alexanderepstein",
+      "authored_at": "2018-10-28T04:11:40Z",
+      "message": "Merge pull request #181 from ashutoshsingh05/master"
+    },
+    {
+      "sha": "6248a43f74f869e131cabaed104abbaecb79df77",
+      "author_login": "thecodepapaya",
+      "authored_at": "2018-10-27T05:43:04Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "6fd2ec6e87cd41a07760861049a64fa2e0f661ee",
+      "author_login": null,
+      "authored_at": "2018-10-20T01:40:35Z",
+      "message": ":confetti_ball:"
+    },
+    {
+      "sha": "40df20fb858fe6bddb8ec51044c8d3c34723ea6b",
+      "author_login": null,
+      "authored_at": "2018-10-20T01:35:35Z",
+      "message": "Adding new rates.sx feature to cryptocurrency"
+    },
+    {
+      "sha": "bb2103081d902b1606f51eda3c01234ef73e83f3",
+      "author_login": null,
+      "authored_at": "2018-10-20T01:19:55Z",
+      "message": "Updating to 1.22.1"
+    },
+    {
+      "sha": "f41d87eeaf2b0d6628d1f089da7f225f3e53f0bd",
+      "author_login": null,
+      "authored_at": "2018-10-20T00:55:47Z",
+      "message": "Fixing bug in currency when getting exchange rate"
+    },
+    {
+      "sha": "cddc232e7b5db09f1fe91111d8c6b117902d9b51",
+      "author_login": "zhibirc",
+      "authored_at": "2018-09-29T17:38:09Z",
+      "message": "fix using default answer on install (#175)"
+    },
+    {
+      "sha": "b270518de8c96ed1e67fafd7701ae08aa932ec1e",
+      "author_login": null,
+      "authored_at": "2018-09-01T19:47:50Z",
+      "message": "Changing endpoint in currency conversion"
+    },
+    {
+      "sha": "0b291d241a139cbb9a82949839db985dd39759b7",
+      "author_login": "navanchauhan",
+      "authored_at": "2018-07-29T01:00:42Z",
+      "message": "Fixes meme snippet + Fixes Failing Builds (#169)"
+    },
+    {
+      "sha": "780f872886744c06d02bd71ff2423bd3fc92e935",
+      "author_login": null,
+      "authored_at": "2018-04-15T23:49:18Z",
+      "message": "Travis is failing for linux with the update status"
+    },
+    {
+      "sha": "c68a93778e6d76b707d8021b7cfc716972d50fa2",
+      "author_login": null,
+      "authored_at": "2018-04-15T23:35:22Z",
+      "message": "Missed install lines for travis"
+    },
+    {
+      "sha": "301be87d049f92dc77c528ab73be5392793f1087",
+      "author_login": null,
+      "authored_at": "2018-04-15T23:33:24Z",
+      "message": "Only running bats tests"
+    },
+    {
+      "sha": "36a7cf841777852a553550a8c80e96db49c17ab7",
+      "author_login": null,
+      "authored_at": "2018-04-15T23:25:28Z",
+      "message": "Switching api for currency exchange"
+    },
+    {
+      "sha": "aeee3fc3adc9db0930e8dbfe256be0a2840519a3",
+      "author_login": null,
+      "authored_at": "2018-04-15T23:14:18Z",
+      "message": "Only grabbing data when it is asked for in movies"
+    },
+    {
+      "sha": "cfe038e374d431128322924ff58f48758ccfc3bc",
+      "author_login": null,
+      "authored_at": "2018-04-15T23:13:45Z",
+      "message": "Is cloudup only meant for me?"
+    },
+    {
+      "sha": "b13e409e85e9283fa7daf05f21e95998c6d569c5",
+      "author_login": null,
+      "authored_at": "2018-02-24T05:29:55Z",
+      "message": "Fixing extraction of repo names in cloudup"
+    },
+    {
+      "sha": "594241cf8b113feca9c1844dc6840aceae1ca805",
+      "author_login": null,
+      "authored_at": "2018-02-24T05:08:37Z",
+      "message": "Fixing changelog formatting"
+    },
+    {
+      "sha": "99b60689dc69bd0678141fd9a2bce841e458804f",
+      "author_login": null,
+      "authored_at": "2018-02-24T04:43:49Z",
+      "message": "Updating to 1.22.0"
+    },
+    {
+      "sha": "c9cb13e5f184e3cb9d5300a491e7671b6ec856f5",
+      "author_login": null,
+      "authored_at": "2018-02-24T04:38:10Z",
+      "message": "Adding bash-snippets gui to install and uninstall"
+    },
+    {
+      "sha": "7d23fef8654ae64010b6f7cd3d6fa46c14cf854f",
+      "author_login": null,
+      "authored_at": "2018-02-24T04:37:52Z",
+      "message": "Finalizing bash-snippets gui"
+    },
+    {
+      "sha": "3ddb9a0aa92491b42455f771a8e65f06fd3556a6",
+      "author_login": null,
+      "authored_at": "2018-02-22T03:08:05Z",
+      "message": "Completed initial version of bash-snippets script"
+    },
+    {
+      "sha": "b1e586528dd4130c67daf09c98258beafb02d165",
+      "author_login": "navanchauhan",
+      "authored_at": "2018-01-28T00:23:03Z",
+      "message": "Created main Control (#159)"
+    },
+    {
+      "sha": "2bdf1248ff98118615579802d92ca9b679c1d771",
+      "author_login": null,
+      "authored_at": "2018-01-04T17:24:39Z",
+      "message": "Fixing url shortner "
+    },
+    {
+      "sha": "faa5af433e2e843bd235d15b49b60b7b4fe479b9",
+      "author_login": null,
+      "authored_at": "2018-01-04T17:17:13Z",
+      "message": "Adding apt install, update and uninstall to readme"
+    },
+    {
+      "sha": "f43d4fa54ac44fca6001b903e3541c7dc4b25045",
+      "author_login": null,
+      "authored_at": "2018-01-03T14:26:04Z",
+      "message": "Fixing old functionality for cryptocurrency"
+    },
+    {
+      "sha": "a8300df8431873015eb742ff19300301898f084f",
+      "author_login": null,
+      "authored_at": "2018-01-03T00:31:04Z",
+      "message": "Updating to 1.21.0"
+    },
+    {
+      "sha": "c60f888b32205e81ee13099a6e1adcd44bda48a7",
+      "author_login": null,
+      "authored_at": "2018-01-03T00:20:26Z",
+      "message": "Fixing issue where weather would not find the location"
+    },
+    {
+      "sha": "0e24bf81f0397e20f554406c24b6e3a840c162ef",
+      "author_login": null,
+      "authored_at": "2017-12-23T04:54:19Z",
+      "message": "Replacing donation addresses with new ones"
+    },
+    {
+      "sha": "ac76f298db3d6632f316aed0fee30526cd014da7",
+      "author_login": null,
+      "authored_at": "2017-12-20T19:36:28Z",
+      "message": "Updating cryptocurrency to use rate.sx"
+    },
+    {
+      "sha": "52d1d022a685f9a8d3ac39b595d878f9e99e1da5",
+      "author_login": null,
+      "authored_at": "2017-12-20T19:11:55Z",
+      "message": "Adding pwned to manpage and other fixes"
+    },
+    {
+      "sha": "d1b4c46491e61974a9582c7aec9af0b392524c23",
+      "author_login": null,
+      "authored_at": "2017-12-20T19:10:58Z",
+      "message": "Adding one time file transfer"
+    },
+    {
+      "sha": "313594066a94fea4d0d315f0a1feabff69494553",
+      "author_login": "aadityanaik",
+      "authored_at": "2017-12-16T14:52:02Z",
+      "message": "Added the option to decode a QR code (#154)"
+    },
+    {
+      "sha": "d861b1ad156c94c12eae5bd3ff8098e54a5b6a5d",
+      "author_login": "retokromer",
+      "authored_at": "2017-12-15T19:33:53Z",
+      "message": "Use unset (#155)"
+    },
+    {
+      "sha": "39417507a3ab585265e76a4784e3cb212287ac84",
+      "author_login": "retokromer",
+      "authored_at": "2017-12-15T19:32:03Z",
+      "message": "Use unset (#156)"
+    },
+    {
+      "sha": "7e47776b6ac1074c13464b29d3a2e3f515c1a876",
+      "author_login": null,
+      "authored_at": "2017-12-12T16:19:04Z",
+      "message": "Added pwned to install and uninstall"
+    },
+    {
+      "sha": "228893ccbd76a19f67d1ae4308e75de5d496b1a0",
+      "author_login": "aadityanaik",
+      "authored_at": "2017-12-12T16:16:10Z",
+      "message": "The file extension .png will be added only if the file has extensions other than .png or .PNG (#150)"
+    },
+    {
+      "sha": "103040f2fbe94764bcb32b17e95cb4e2f3abe255",
+      "author_login": "navanchauhan",
+      "authored_at": "2017-12-12T16:14:55Z",
+      "message": "Create pwned (#153)"
+    },
+    {
+      "sha": "47e91be373e2099f22e2e9a06c3fb0603f70414a",
+      "author_login": null,
+      "authored_at": "2017-11-25T17:32:37Z",
+      "message": "Fixing locale error by defaulting to en"
+    },
+    {
+      "sha": "98c6210d06155a6d69213b0de2ad2028120dc4ac",
+      "author_login": null,
+      "authored_at": "2017-11-25T17:29:31Z",
+      "message": "Fixing weather grabbing initials for states with two words"
+    },
+    {
+      "sha": "aec1a885aea606eda79d77a6b3e4239c679471d3",
+      "author_login": "navanchauhan",
+      "authored_at": "2017-11-09T17:00:32Z",
+      "message": "Added meme's api (#143)"
+    },
+    {
+      "sha": "cd9cce5913507445872111ede7378023d2b811cc",
+      "author_login": null,
+      "authored_at": "2017-11-09T16:59:42Z",
+      "message": "Fixing stocks exchange name and picture"
+    },
+    {
+      "sha": "035d38a416e405717db0b672f3d4d487dc264dc0",
+      "author_login": null,
+      "authored_at": "2017-11-09T14:53:55Z",
+      "message": "Updating to 1.20.0"
+    },
+    {
+      "sha": "0305fee3562535a4260f0c630d7cb579b192c27f",
+      "author_login": null,
+      "authored_at": "2017-11-09T14:42:49Z",
+      "message": "Getting ready for 1.20.0 update"
+    },
+    {
+      "sha": "f00f719c19dd8f253198231cc653a0e2fde591d8",
+      "author_login": "aadityanaik",
+      "authored_at": "2017-11-09T14:13:49Z",
+      "message": "Added functionality to save the qr code as an image (.png) file (#136)"
+    },
+    {
+      "sha": "bc07222cd026967cb4678d54a1d36261dfd3b014",
+      "author_login": null,
+      "authored_at": "2017-11-09T13:58:30Z",
+      "message": "Implemented the shorten URL"
+    },
+    {
+      "sha": "d8a7d8bb09992533ef322ccec50a1fe28fc93d5c",
+      "author_login": null,
+      "authored_at": "2017-11-09T13:52:59Z",
+      "message": "Bringing back stocks tests"
+    },
+    {
+      "sha": "41abb086a54495752c8f51fc025ed3a1190bacfc",
+      "author_login": "navanchauhan",
+      "authored_at": "2017-11-09T13:52:27Z",
+      "message": "Fixed stocks api (#139)"
+    },
+    {
+      "sha": "1fa95b90cbd0cf721ad2fe22bce4b27b32e16665",
+      "author_login": "navanchauhan",
+      "authored_at": "2017-11-09T13:46:03Z",
+      "message": "corrected the my github url (#138)"
+    },
+    {
+      "sha": "518acb2ab15f75ff9efcad97cdb9b71dfd7c9f0d",
+      "author_login": null,
+      "authored_at": "2017-11-08T13:40:32Z",
+      "message": "Adding meme component and shorten url functionality (#137)"
+    },
+    {
+      "sha": "5e24405907b512452923a27519b4f287bde044e3",
+      "author_login": "aadityanaik",
+      "authored_at": "2017-11-06T16:06:02Z",
+      "message": "Fixed support for single-word strings (#134)"
+    },
+    {
+      "sha": "b4141ece779daa05444256ebabc421e067411c62",
+      "author_login": null,
+      "authored_at": "2017-11-05T19:16:58Z",
+      "message": "Brining back lyrics tool, removing test for stocks until fixed"
+    },
+    {
+      "sha": "9b850bea9e58895711c12fa3513ba13ef9c4cf14",
+      "author_login": "JayBrown",
+      "authored_at": "2017-10-29T15:04:18Z",
+      "message": "Added mdfind & graceful exit to ytview (#130)"
+    },
+    {
+      "sha": "f26fa4c327594f4d1f27473ecc05055f29795b4c",
+      "author_login": null,
+      "authored_at": "2017-10-14T08:05:21Z",
+      "message": "Allowing osx failures for CI"
+    },
+    {
+      "sha": "2f32e9d34e17de7d98d9e3af7c3ff364be671f9a",
+      "author_login": null,
+      "authored_at": "2017-10-13T15:25:31Z",
+      "message": "Removing lyrics description"
+    },
+    {
+      "sha": "895ed2918dde2b1f5d4ac56c3b86ed70b760d474",
+      "author_login": null,
+      "authored_at": "2017-10-12T22:41:09Z",
+      "message": "Fixing syntax error in ytview"
+    },
+    {
+      "sha": "d684fdf6850c3d4fe7e4d0e0b4d05e69f43f8a26",
+      "author_login": null,
+      "authored_at": "2017-10-12T22:32:18Z",
+      "message": "Updating to 1.19.2"
+    },
+    {
+      "sha": "3e543e6b11e67e83b3478e85d13e5b8667dc9af8",
+      "author_login": "JayBrown",
+      "authored_at": "2017-10-12T12:53:15Z",
+      "message": "Update ytview (#127)"
+    },
+    {
+      "sha": "c0ed6fd8a1c13798dc91b4642d19b5b45ec15f80",
+      "author_login": "retokromer",
+      "authored_at": "2017-10-03T01:33:30Z",
+      "message": "Spacing fixes (#126)"
+    },
+    {
+      "sha": "8420722cca05af5dd2986bde37a53ed407176315",
+      "author_login": null,
+      "authored_at": "2017-09-05T13:50:13Z",
+      "message": "Changing image height"
+    },
+    {
+      "sha": "dd260be68f591caed7074c7e77aaaf6f8ad56f18",
+      "author_login": null,
+      "authored_at": "2017-08-31T02:41:51Z",
+      "message": "Only homebrew and git"
+    },
+    {
+      "sha": "3c4461d103f9a4b6e4ac15c9c0cb22ffe0e432a5",
+      "author_login": null,
+      "authored_at": "2017-08-30T06:12:13Z",
+      "message": "Updating to 1.19.1"
+    },
+    {
+      "sha": "608cab1f3d6194453672d970407a8643938b1407",
+      "author_login": null,
+      "authored_at": "2017-08-29T08:17:26Z",
+      "message": "Fixing bc error in todo"
+    }
+  ],
+  "issues": [
+    {
+      "number": 252,
+      "title": "lyrics don't work anymore",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-08-13T02:10:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 251,
+      "title": "lyrics: distinguish empty response, API errors, and missing lyrics",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-04T01:30:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 248,
+      "title": "transfer errors",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-10T15:00:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 247,
+      "title": "Feat: Introduce `bash-snippets.lib` library",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-02-07T23:06:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 246,
+      "title": "Added asn component.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-12-19T07:15:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 245,
+      "title": "fixed some shellcheck errors and changed formatting a bit",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-04-19T08:24:05Z",
+      "closed_at": "2024-07-04T13:04:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 244,
+      "title": "heavy user of bash and zsh",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-03-23T09:37:21Z",
+      "closed_at": "2024-06-12T04:58:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 243,
+      "title": "Fix: correct typo prevent script from stop if response was False in movies",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-09T18:02:10Z",
+      "closed_at": "2024-05-04T18:12:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 242,
+      "title": "Use 'printf' instead 'echo' to print movie information",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-03T18:21:07Z",
+      "closed_at": "2024-05-04T18:11:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 241,
+      "title": "Maybe fixed some Useless use of cat",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-11T18:16:09Z",
+      "closed_at": "2024-01-26T22:48:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 240,
+      "title": "Changed the ytview file corresponding to change on youtube html sourc…",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-07-11T14:44:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 239,
+      "title": "Generated new API key as old key was invalid. Fixes issue #237 where …",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-04-16T19:33:07Z",
+      "closed_at": "2023-07-05T17:20:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 238,
+      "title": "enable redirect flag (-L) with curl in meme script",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-08-30T20:21:40Z",
+      "closed_at": "2022-08-31T04:09:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 237,
+      "title": "movies script returns empty variable values in results",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-08-30T00:18:16Z",
+      "closed_at": "2023-07-05T17:21:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 236,
+      "title": "ytview doesn't work",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-01T12:09:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 235,
+      "title": "transfer updated, files holding servers changed form transfer.sh ---> temp.sh and keep.sh",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-05-22T12:56:05Z",
+      "closed_at": "2022-05-24T03:12:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 234,
+      "title": "transfer.sh domain is not working anymore instead..",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-04-13T12:54:44Z",
+      "closed_at": "2022-05-24T03:12:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 233,
+      "title": "meme doesn't work",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-15T21:10:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 232,
+      "title": "Currency syntax error 1, the whole command doesn't work.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-09T12:47:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 231,
+      "title": "Example earthfile for testing weather script",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-04-26T22:30:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 230,
+      "title": "Make use of exchangerate-api.com instead of exchagerateapi.io.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-04-16T01:14:14Z",
+      "closed_at": "2021-04-16T01:51:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 229,
+      "title": "Installing from source fails on MacOS",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-05T23:49:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 228,
+      "title": "ytview doesnt work",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-22T23:06:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 227,
+      "title": "updated Newton API URL",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-11-14T16:46:40Z",
+      "closed_at": "2020-11-14T19:39:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 226,
+      "title": "not valid stock symbol weird output",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-13T20:32:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 225,
+      "title": "Newton result field empty",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-28T06:14:50Z",
+      "closed_at": "2020-11-14T19:39:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 224,
+      "title": "Reworked installing, updating, uninstalling sections and added guides for aur package",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-21T11:26:35Z",
+      "closed_at": "2020-11-21T18:51:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 223,
+      "title": "Package in the AUR",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-20T19:54:55Z",
+      "closed_at": "2020-10-21T11:29:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 222,
+      "title": "Apply shellcheck",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-01T21:21:19Z",
+      "closed_at": "2020-10-02T17:52:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 221,
+      "title": "Add shellcheck github action",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-01T21:00:23Z",
+      "closed_at": "2020-10-05T14:23:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 220,
+      "title": "Fix lyrics snippet quoting",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-08-22T18:41:06Z",
+      "closed_at": "2020-08-26T21:00:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 219,
+      "title": "Can't use ytview",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-13T16:37:34Z",
+      "closed_at": "2020-09-20T03:43:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 218,
+      "title": "Lyrics script fails when it finds the lyrics",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-13T04:04:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 217,
+      "title": "Pwned no longer working",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-03-06T17:44:23Z",
+      "closed_at": "2020-04-03T20:55:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 216,
+      "title": "Added bak2dvd to tools",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-02-16T15:19:41Z",
+      "closed_at": "2020-04-03T20:40:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 215,
+      "title": "Fix build error",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-02-13T13:05:03Z",
+      "closed_at": "2020-04-03T20:40:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 214,
+      "title": "Fix test condition for short",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-02-12T17:33:15Z",
+      "closed_at": "2020-02-13T05:23:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 213,
+      "title": "New Component gist - manage gist in CLI",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-02-09T13:27:42Z",
+      "closed_at": "2020-07-21T18:02:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 212,
+      "title": "Update bash-snippets",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-01-24T16:47:16Z",
+      "closed_at": "2020-02-13T05:24:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 211,
+      "title": "Stock script returns \"Not a valid stock symbol\"",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-08T16:31:00Z",
+      "closed_at": "2020-01-09T07:21:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 210,
+      "title": "Multiple Tests Broken",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-11-24T06:17:59Z",
+      "closed_at": "2019-12-24T08:25:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 209,
+      "title": "currency: Add ISK (Icelandic Krona)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-11-24T06:12:07Z",
+      "closed_at": "2019-11-24T07:14:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 208,
+      "title": "New Component (gitTagMaster) to simplify git tagging of multiple repos",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-10-28T12:48:38Z",
+      "closed_at": "2019-11-24T20:47:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 207,
+      "title": "Update list of supported currencies",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-10-07T12:02:29Z",
+      "closed_at": "2019-11-22T01:39:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 206,
+      "title": "ytview not working on Mac - error message",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-08-23T04:49:42Z",
+      "closed_at": "2019-10-01T03:33:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 205,
+      "title": "stocks script not working ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-08-14T14:59:20Z",
+      "closed_at": "2019-08-20T23:18:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 204,
+      "title": "Solution for Wlan IP address for Mac?",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-08-10T04:44:57Z",
+      "closed_at": "2019-08-12T18:50:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 203,
+      "title": "Qrify file reading bug",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-08-06T21:58:07Z",
+      "closed_at": "2019-09-20T00:59:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 202,
+      "title": "Currency conversion does not work",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-08-05T23:07:50Z",
+      "closed_at": "2019-09-06T19:27:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 201,
+      "title": "Can't install one script by brew",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-08-01T09:08:41Z",
+      "closed_at": "2019-09-20T00:59:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 200,
+      "title": "Fix getting wlan IP on MacOS",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-07-18T11:57:25Z",
+      "closed_at": "2019-08-12T18:51:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 199,
+      "title": "Fix input parsing error",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-07-18T08:13:36Z",
+      "closed_at": "2019-08-20T06:18:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 198,
+      "title": "Suggestion:  create a http_get  script for all the other web utilities to use.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-07-17T07:48:20Z",
+      "closed_at": "2019-08-20T06:18:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 197,
+      "title": "Cleaned up stocks and pointed it to a new API",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-07-17T05:43:05Z",
+      "closed_at": "2019-07-20T15:44:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 196,
+      "title": "Fixed spelling in error messages. reqires->requires",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-07-15T00:52:33Z",
+      "closed_at": "2019-07-17T02:29:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 195,
+      "title": "Reworked and fixed stocks per #193.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-07-14T23:08:52Z",
+      "closed_at": "2019-07-17T04:13:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 194,
+      "title": "Add support for currencies hard-pegged to other currencies",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-07-11T21:44:20Z",
+      "closed_at": "2019-08-20T23:17:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 193,
+      "title": "stocks not returning data",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-07-08T22:35:16Z",
+      "closed_at": "2019-07-20T15:44:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 192,
+      "title": "ytview default player selection",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-06-25T15:30:34Z",
+      "closed_at": "2019-08-20T06:18:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 191,
+      "title": "timer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-02T22:16:14Z",
+      "closed_at": "2019-08-20T06:18:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 190,
+      "title": "timer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-02T21:51:49Z",
+      "closed_at": "2019-06-02T22:15:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 189,
+      "title": "Adding the sponsor button ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-05-25T08:43:55Z",
+      "closed_at": "2019-05-28T13:50:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 188,
+      "title": "Just a remider about the external API and security",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-24T20:46:05Z",
+      "closed_at": "2019-05-28T13:46:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 187,
+      "title": "weather script tests",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-05-06T16:04:36Z",
+      "closed_at": "2019-07-23T14:22:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 186,
+      "title": "Linux tests failing \"update\"",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-05-06T15:51:29Z",
+      "closed_at": "2019-06-07T17:51:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 185,
+      "title": "Updates to tests",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-05T00:59:07Z",
+      "closed_at": "2019-05-06T04:23:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 184,
+      "title": "test: `cheat.bats` is testing `stocks`",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-05-04T20:00:19Z",
+      "closed_at": "2019-05-06T04:24:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 183,
+      "title": "Tool to write tar archives to optical disc.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-01-29T23:23:43Z",
+      "closed_at": "2019-04-03T00:41:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 182,
+      "title": "More display options for weather",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-26T13:55:08Z",
+      "closed_at": "2019-01-29T21:40:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 181,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-27T14:09:12Z",
+      "closed_at": "2018-10-28T04:11:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 180,
+      "title": "unable to install bash-snippets",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-26T05:05:08Z",
+      "closed_at": "2018-11-25T06:55:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 179,
+      "title": "bats tests failing on my box",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-06T13:40:17Z",
+      "closed_at": "2018-11-19T14:13:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 178,
+      "title": "If task description is long, truncate it while displaying list of tasks it so that lines do not wrap",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-06T12:43:27Z",
+      "closed_at": "2018-11-19T14:13:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 177,
+      "title": "currency not properly displaying output",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-09-30T03:16:18Z",
+      "closed_at": "2018-10-20T00:58:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 176,
+      "title": "ytview not working on Mac ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-09-30T03:12:22Z",
+      "closed_at": "2018-11-19T14:13:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 175,
+      "title": "fix using default answer on install",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-28T09:27:33Z",
+      "closed_at": "2018-09-29T17:38:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 174,
+      "title": "Uninstall todo",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-09-02T02:59:25Z",
+      "closed_at": "2018-10-03T06:06:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 173,
+      "title": "Currency conversion does not work",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-09-01T03:39:31Z",
+      "closed_at": "2018-09-01T21:02:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 172,
+      "title": "Concurrency seems bad in Centos7.3",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-08-23T03:49:38Z",
+      "closed_at": "2018-10-02T16:22:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 171,
+      "title": "Install script for Arch Linux",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-07-31T11:58:19Z",
+      "closed_at": "2018-11-19T14:13:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 170,
+      "title": "Arch Linux install via package manager failure",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-07-30T06:52:00Z",
+      "closed_at": "2018-08-30T12:17:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 169,
+      "title": "Fixes meme snippet + Fixes Failing Builds",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-07-26T14:01:06Z",
+      "closed_at": "2018-07-29T01:00:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 168,
+      "title": "Fixed some issues",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-07-26T12:09:52Z",
+      "closed_at": "2018-07-26T14:01:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 167,
+      "title": "Release file needed? in Ubuntu / Debian, cannot install from apt repo",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-07-24T11:34:16Z",
+      "closed_at": "2018-08-28T15:38:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 166,
+      "title": "nits",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-07-22T07:22:50Z",
+      "closed_at": "2018-08-07T06:56:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 165,
+      "title": "meme generator does not work with capital letters",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-27T10:50:02Z",
+      "closed_at": "2018-07-29T15:10:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 164,
+      "title": "fixed the meme generator script",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-27T07:15:07Z",
+      "closed_at": "2018-09-13T00:49:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 163,
+      "title": "Meme generator is not working",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-27T06:33:19Z",
+      "closed_at": "2018-07-29T15:10:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 162,
+      "title": "Youtube View",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-16T13:59:23Z",
+      "closed_at": "2018-06-16T14:07:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 161,
+      "title": "Cant run movies",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-04-04T00:12:14Z",
+      "closed_at": "2018-05-09T00:57:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 160,
+      "title": "Creating a single GUI for Script",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-01-14T13:43:25Z",
+      "closed_at": "2018-02-27T01:38:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 159,
+      "title": "Created main Control",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-01-11T13:05:21Z",
+      "closed_at": "2018-01-28T00:23:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 158,
+      "title": "Duplicate functions",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-01-07T11:12:30Z",
+      "closed_at": "2018-02-09T23:27:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 157,
+      "title": "README Enhancements",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-12-26T22:02:18Z",
+      "closed_at": "2018-01-27T04:50:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 156,
+      "title": "use unset",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-13T14:59:59Z",
+      "closed_at": "2017-12-15T19:32:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 155,
+      "title": "use unset also at the beginning",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-13T14:55:52Z",
+      "closed_at": "2017-12-15T19:33:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 154,
+      "title": "Added the option to decode a QR code",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-13T14:44:08Z",
+      "closed_at": "2017-12-16T14:52:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 153,
+      "title": "Create pwned",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-06T07:58:23Z",
+      "closed_at": "2017-12-12T16:14:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 152,
+      "title": "add support for rate.sx",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-12-03T11:55:59Z",
+      "closed_at": "2018-05-09T00:57:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 151,
+      "title": "One-time file sharing",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-11-26T12:29:59Z",
+      "closed_at": "2018-01-19T20:42:39Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "retokromer",
+      "contributions": 20
+    },
+    {
+      "login": "alexanderepstein",
+      "contributions": 14
+    },
+    {
+      "login": "navanchauhan",
+      "contributions": 9
+    },
+    {
+      "login": "linyostorovoltos",
+      "contributions": 6
+    },
+    {
+      "login": "aadityanaik",
+      "contributions": 4
+    },
+    {
+      "login": "melezhik",
+      "contributions": 4
+    },
+    {
+      "login": "dadav",
+      "contributions": 2
+    },
+    {
+      "login": "JayBrown",
+      "contributions": 2
+    },
+    {
+      "login": "e55am",
+      "contributions": 2
+    },
+    {
+      "login": "tjstub",
+      "contributions": 2
+    },
+    {
+      "login": "nivv",
+      "contributions": 1
+    },
+    {
+      "login": "thecodepapaya",
+      "contributions": 1
+    },
+    {
+      "login": "charlesarnaudo",
+      "contributions": 1
+    },
+    {
+      "login": "charles-cooper",
+      "contributions": 1
+    },
+    {
+      "login": "connorjan",
+      "contributions": 1
+    },
+    {
+      "login": "edi9999",
+      "contributions": 1
+    },
+    {
+      "login": "winnard",
+      "contributions": 1
+    },
+    {
+      "login": "farhansalam",
+      "contributions": 1
+    },
+    {
+      "login": "glundgren93",
+      "contributions": 1
+    },
+    {
+      "login": "CodeBrauer",
+      "contributions": 1
+    },
+    {
+      "login": "jakewmeyer",
+      "contributions": 1
+    },
+    {
+      "login": "greenbicycle",
+      "contributions": 1
+    },
+    {
+      "login": "JTatum95",
+      "contributions": 1
+    },
+    {
+      "login": "jfrcom",
+      "contributions": 1
+    },
+    {
+      "login": "lukaskollmer",
+      "contributions": 1
+    },
+    {
+      "login": "hotfloppy",
+      "contributions": 1
+    },
+    {
+      "login": "Lunkentuss",
+      "contributions": 1
+    },
+    {
+      "login": "rom232",
+      "contributions": 1
+    },
+    {
+      "login": "HaoZeke",
+      "contributions": 1
+    },
+    {
+      "login": "safinsingh",
+      "contributions": 1
+    },
+    {
+      "login": "infinisil",
+      "contributions": 1
+    },
+    {
+      "login": "hallzy",
+      "contributions": 1
+    },
+    {
+      "login": "Stretch96",
+      "contributions": 1
+    },
+    {
+      "login": "taleh007",
+      "contributions": 1
+    },
+    {
+      "login": "tchajed",
+      "contributions": 1
+    },
+    {
+      "login": "thomastubby",
+      "contributions": 1
+    },
+    {
+      "login": "Laureano",
+      "contributions": 1
+    },
+    {
+      "login": "virgilwashere",
+      "contributions": 1
+    },
+    {
+      "login": "vitorgalvao",
+      "contributions": 1
+    },
+    {
+      "login": "zhibirc",
+      "contributions": 1
+    },
+    {
+      "login": "michalfabik",
+      "contributions": 1
+    },
+    {
+      "login": "oblende",
+      "contributions": 1
+    },
+    {
+      "login": "oolongmen",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v1.23.0",
+      "published_at": "2019-08-21T00:06:22Z"
+    },
+    {
+      "tag": "v1.22.1",
+      "published_at": "2018-10-20T01:20:18Z"
+    },
+    {
+      "tag": "v1.22.0",
+      "published_at": "2018-02-24T04:44:13Z"
+    },
+    {
+      "tag": "v1.21.0",
+      "published_at": "2018-01-03T00:31:21Z"
+    },
+    {
+      "tag": "v1.20.0",
+      "published_at": "2017-11-09T14:54:30Z"
+    },
+    {
+      "tag": "v1.19.2",
+      "published_at": "2017-10-12T22:41:40Z"
+    },
+    {
+      "tag": "v1.19.1",
+      "published_at": "2017-08-30T06:14:03Z"
+    },
+    {
+      "tag": "v1.19.0",
+      "published_at": "2017-08-20T17:55:49Z"
+    },
+    {
+      "tag": "v1.18.1",
+      "published_at": "2017-08-09T12:27:04Z"
+    },
+    {
+      "tag": "v1.18.0",
+      "published_at": "2017-08-04T12:34:49Z"
+    },
+    {
+      "tag": "v1.17.3",
+      "published_at": "2017-08-02T19:03:05Z"
+    },
+    {
+      "tag": "v1.17.2",
+      "published_at": "2017-08-02T01:19:57Z"
+    },
+    {
+      "tag": "v1.17.1",
+      "published_at": "2017-08-01T14:51:10Z"
+    },
+    {
+      "tag": "v1.17.0",
+      "published_at": "2017-08-01T13:04:19Z"
+    },
+    {
+      "tag": "v1.16.2",
+      "published_at": "2017-07-30T17:33:18Z"
+    },
+    {
+      "tag": "v1.16.1",
+      "published_at": "2017-07-30T00:02:24Z"
+    },
+    {
+      "tag": "v1.16.0",
+      "published_at": "2017-07-28T01:21:51Z"
+    },
+    {
+      "tag": "v1.15.2",
+      "published_at": "2017-07-26T19:55:22Z"
+    },
+    {
+      "tag": "v1.15.1",
+      "published_at": "2017-07-26T16:30:32Z"
+    },
+    {
+      "tag": "v1.15.0",
+      "published_at": "2017-07-25T23:48:41Z"
+    },
+    {
+      "tag": "v1.14.3",
+      "published_at": "2017-07-24T19:38:30Z"
+    },
+    {
+      "tag": "v1.14.2",
+      "published_at": "2017-07-22T14:05:55Z"
+    },
+    {
+      "tag": "v1.14.1",
+      "published_at": "2017-07-22T13:40:47Z"
+    },
+    {
+      "tag": "v1.14.0",
+      "published_at": "2017-07-22T11:26:27Z"
+    },
+    {
+      "tag": "v1.13.2",
+      "published_at": "2017-07-18T23:41:54Z"
+    },
+    {
+      "tag": "v1.13.1",
+      "published_at": "2017-07-18T19:01:52Z"
+    },
+    {
+      "tag": "v1.13.0",
+      "published_at": "2017-07-16T01:25:01Z"
+    },
+    {
+      "tag": "v1.12.0",
+      "published_at": "2017-07-15T16:42:48Z"
+    },
+    {
+      "tag": "v1.11.2",
+      "published_at": "2017-07-14T19:58:38Z"
+    },
+    {
+      "tag": "v1.11.1",
+      "published_at": "2017-07-14T00:47:05Z"
+    },
+    {
+      "tag": "v1.11.0",
+      "published_at": "2017-07-08T07:15:10Z"
+    },
+    {
+      "tag": "v1.10.1",
+      "published_at": "2017-07-06T00:23:59Z"
+    },
+    {
+      "tag": "v1.10.0",
+      "published_at": "2017-07-05T17:18:35Z"
+    },
+    {
+      "tag": "v1.9.0",
+      "published_at": "2017-07-04T13:41:09Z"
+    },
+    {
+      "tag": "v1.8.0",
+      "published_at": "2017-07-04T00:27:51Z"
+    },
+    {
+      "tag": "v1.7.0",
+      "published_at": "2017-07-03T01:40:56Z"
+    },
+    {
+      "tag": "v1.6.0",
+      "published_at": "2017-07-01T04:10:29Z"
+    },
+    {
+      "tag": "v1.5.0",
+      "published_at": "2017-06-30T15:21:36Z"
+    },
+    {
+      "tag": "v1.4.0",
+      "published_at": "2017-06-30T05:49:36Z"
+    },
+    {
+      "tag": "v1.3.1",
+      "published_at": "2017-06-30T01:49:08Z"
+    },
+    {
+      "tag": "v1.3.0",
+      "published_at": "2017-06-30T01:07:36Z"
+    },
+    {
+      "tag": "v1.2.1",
+      "published_at": "2017-06-29T22:00:36Z"
+    },
+    {
+      "tag": "v1.2.0",
+      "published_at": "2017-06-29T16:28:18Z"
+    },
+    {
+      "tag": "v1.1.1",
+      "published_at": "2017-06-28T13:43:33Z"
+    },
+    {
+      "tag": "v1.1.0",
+      "published_at": "2017-06-28T03:07:32Z"
+    },
+    {
+      "tag": "v1.0.0",
+      "published_at": "2017-06-27T17:56:27Z"
+    }
+  ],
+  "collected_at": "2026-09-21T11:40:57.945265Z"
+}
