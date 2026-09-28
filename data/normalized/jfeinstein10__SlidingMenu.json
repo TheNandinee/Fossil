@@ -1,0 +1,1598 @@
+{
+  "full_name": "jfeinstein10/SlidingMenu",
+  "owner": "jfeinstein10",
+  "name": "SlidingMenu",
+  "url": "https://github.com/jfeinstein10/SlidingMenu",
+  "description": "An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thanks!",
+  "primary_language": "Java",
+  "topics": [],
+  "license_spdx": "Apache-2.0",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 10985,
+  "forks": 4930,
+  "open_issues": 306,
+  "created_at": "2012-06-30T05:14:23Z",
+  "pushed_at": "2021-09-19T14:04:18Z",
+  "updated_at": "2026-09-26T13:13:58Z",
+  "commits": [
+    {
+      "sha": "4254feca3ece9397cd501921ee733f19ea0fdad8",
+      "author_login": "jfeinstein10",
+      "authored_at": "2014-03-09T21:30:35Z",
+      "message": "Merge pull request #605 from lbhonrade/master"
+    },
+    {
+      "sha": "bd2b251d3ef40dfe3863da1f50660632774f7b93",
+      "author_login": "jfeinstein10",
+      "authored_at": "2014-03-09T21:27:46Z",
+      "message": "Merge pull request #609 from JoshSGman/fix-copyright"
+    },
+    {
+      "sha": "d188a033e8ca3b78ff91bf3a3b8453725ae53b8d",
+      "author_login": null,
+      "authored_at": "2014-03-08T07:01:20Z",
+      "message": "Fix Copyright Year"
+    },
+    {
+      "sha": "08ff04755ab2eb81472d6c25cd58b57cee2407dc",
+      "author_login": null,
+      "authored_at": "2014-02-26T08:18:09Z",
+      "message": "-updated touchModeAbove/touchModeBehind xml attribute options."
+    },
+    {
+      "sha": "d929476bee721e295f7e73d7395e29ca090c122b",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-12-09T21:33:26Z",
+      "message": "Invalid pointer fix and getClass fix"
+    },
+    {
+      "sha": "e9721f76ebda5ddac533a161879d699c5894976e",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-12-09T15:34:08Z",
+      "message": "Merge pull request #467 from linuxmotion/master"
+    },
+    {
+      "sha": "387615531a69a77893dd5df0c9e3f6e4b379047d",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-12-09T15:31:35Z",
+      "message": "Merge pull request #525 from ConAntonakos/patch-1"
+    },
+    {
+      "sha": "f278ec75911bd421b4f50f9bc418fc57e2e4c948",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-12-09T15:31:26Z",
+      "message": "Merge pull request #537 from huahang/master"
+    },
+    {
+      "sha": "4eeff1b809c68c6ec91449e33a77f58a7d050633",
+      "author_login": "huahang",
+      "authored_at": "2013-09-12T08:27:42Z",
+      "message": "ignore idea's .iml files"
+    },
+    {
+      "sha": "b38aca508775323a042ea25044853fd2fce61628",
+      "author_login": null,
+      "authored_at": "2013-08-28T14:32:26Z",
+      "message": "Remove hardcoded string on TAG variable"
+    },
+    {
+      "sha": "7ebe3277241734748d305f30f82eedd14e949b1a",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-07-25T14:35:27Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a8b4057654d07d63d9aba6023ddc6a803eec9597",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-07-20T18:20:41Z",
+      "message": "Merge pull request #487 from marutib/master"
+    },
+    {
+      "sha": "6681dd23755076f4198ac9cf0fe2f7eb1dbd0d10",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-07-20T18:19:15Z",
+      "message": "Merge pull request #491 from NineWorlds/android-sdk-21"
+    },
+    {
+      "sha": "e688477bba4cc945076d3f7438d64883f3148002",
+      "author_login": null,
+      "authored_at": "2013-07-20T14:33:06Z",
+      "message": "Update to android-maven-plugin 3.6.0"
+    },
+    {
+      "sha": "eefb9ed8dbf6b030ea788366051166f0b6482a4f",
+      "author_login": null,
+      "authored_at": "2013-07-18T18:38:38Z",
+      "message": "Fixing Spelling mistake"
+    },
+    {
+      "sha": "9402c1ac96200c2602253f9dfe6b390bda1aeab8",
+      "author_login": null,
+      "authored_at": "2013-07-18T18:36:42Z",
+      "message": "Adding OnOpenListner for Secondary Menu"
+    },
+    {
+      "sha": "bd701c6e3fbf26a9d5fbd4619301cc05e0d09caf",
+      "author_login": "linuxmotion",
+      "authored_at": "2013-06-27T02:11:51Z",
+      "message": "Use auto updatable android gradle"
+    },
+    {
+      "sha": "dd1f2de5685718b8326f4562ae94da3c953db073",
+      "author_login": "linuxmotion",
+      "authored_at": "2013-06-26T23:29:16Z",
+      "message": "Add a build.gradle for gradle module"
+    },
+    {
+      "sha": "8fcae2cce29ef51626542e7026391d980109b101",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-05-26T04:09:45Z",
+      "message": "Merge pull request #420 from michaelcspeed/patch-1"
+    },
+    {
+      "sha": "b0556d1fb4a12a3a7d324f1f01b1ca21e8047949",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-05-21T22:03:15Z",
+      "message": "Remove idea folder"
+    },
+    {
+      "sha": "fe85a1844b26266c055bddcb7a1214d3564b0cce",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-05-21T22:00:38Z",
+      "message": "IDEA files. Moving example package back to root like the library"
+    },
+    {
+      "sha": "cfe65fbe5ee231e454c1d50b4fb1c6b4013dedba",
+      "author_login": "michaelcspeed",
+      "authored_at": "2013-05-15T10:06:41Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "da5b9c6871963252840c574f5623a5f43eddb1fa",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-05-13T19:19:26Z",
+      "message": "Merge pull request #415 from donnfelker/master"
+    },
+    {
+      "sha": "f328bc98a54d3457db369e631d8c6e1374ef863e",
+      "author_login": "donnfelker",
+      "authored_at": "2013-05-13T18:36:40Z",
+      "message": "Adding parent and additional DeveloperConnection to fufill requirements for Maven Central deployment through sonatype OSS"
+    },
+    {
+      "sha": "ee8a1d06462aee9f742c34d5b3d8f189c4c16cf7",
+      "author_login": "donnfelker",
+      "authored_at": "2013-05-13T18:19:03Z",
+      "message": "Including reguired POM attributes for project for Maven Central push."
+    },
+    {
+      "sha": "ad6054b9deec4a923f0df6a908bca1c0a5b78672",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-05-08T14:54:17Z",
+      "message": "Merge pull request #405 from donnfelker/master"
+    },
+    {
+      "sha": "078d39b2ff9a256a2d4037049f3a6d4723e1e426",
+      "author_login": "donnfelker",
+      "authored_at": "2013-05-07T20:47:57Z",
+      "message": "Merge branch 'maven-central-prep'"
+    },
+    {
+      "sha": "c6cc3cfede1e9eb459a550b5f387d7e7362cca59",
+      "author_login": "donnfelker",
+      "authored_at": "2013-05-07T20:44:13Z",
+      "message": "Reverting maven standard directory layout"
+    },
+    {
+      "sha": "f47ea3ef049618d9a80e3c0bdf02fb011dede0dc",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-05-07T13:26:02Z",
+      "message": "Merge pull request #403 from donnfelker/maven-central-prep"
+    },
+    {
+      "sha": "ca7b84bb460455bae44763871ae0bf386500f828",
+      "author_login": "donnfelker",
+      "authored_at": "2013-05-06T18:26:24Z",
+      "message": "Do not commit target directory"
+    },
+    {
+      "sha": "56576af37d73e3e4bee14f3a5f33a8cb5b184f96",
+      "author_login": "donnfelker",
+      "authored_at": "2013-05-06T18:21:19Z",
+      "message": "Fixing erroneous imports"
+    },
+    {
+      "sha": "76f0e35f64951d5790c170bb383213e066fcb211",
+      "author_login": "donnfelker",
+      "authored_at": "2013-05-06T18:18:59Z",
+      "message": "Moving to a proper maven source directory"
+    },
+    {
+      "sha": "6989cdbfb08f50be6dace745038c40fa812465e4",
+      "author_login": "donnfelker",
+      "authored_at": "2013-05-06T18:12:53Z",
+      "message": "Updating import statements in the example project"
+    },
+    {
+      "sha": "2eff42a3a2be0ba0581467235f2241d5e3f78f7c",
+      "author_login": "donnfelker",
+      "authored_at": "2013-05-06T17:49:18Z",
+      "message": "Adding .DS_Store to ignore"
+    },
+    {
+      "sha": "f499edc05c6e18ca8f9a5e12727301f7df6f9f77",
+      "author_login": "donnfelker",
+      "authored_at": "2013-05-06T17:48:47Z",
+      "message": "Removing old DS_Store"
+    },
+    {
+      "sha": "37680e41a48239e1dfa6abf5e88c219f32d4ade8",
+      "author_login": "donnfelker",
+      "authored_at": "2013-05-06T17:47:44Z",
+      "message": "Reorganizing file structure, package names and import statements to new package name."
+    },
+    {
+      "sha": "9b3d8c15c1b0fbd6b3e21b487d8d4f549cfc59f9",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-04-29T14:36:31Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ba63620417868154ba619d81fd07ef27661bed98",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-04-12T22:38:30Z",
+      "message": "Merge pull request #335 from liruqi/patch-2"
+    },
+    {
+      "sha": "46d5d7c7f28d85ec6172bdebc2b8aa5bdf01eb07",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-04-04T21:05:43Z",
+      "message": "Merge pull request #315 from alfthomas/mapsupport"
+    },
+    {
+      "sha": "3cbbf47160310eed0909b86d4f6768bad3ef961f",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-04-04T21:05:05Z",
+      "message": "Merge pull request #189 from Appstrakt/master"
+    },
+    {
+      "sha": "7753bbbe240ad680b298f33d37dc9fc8a9feec92",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-03-25T12:33:02Z",
+      "message": "Merge pull request #340 from yccheok/patch-1"
+    },
+    {
+      "sha": "6467f87291023a78c63fe21e5b10e09c875a1304",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-03-25T12:32:25Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1c1d8df60f47081b60e7f678c3b28f5f862fd76d",
+      "author_login": "yccheok",
+      "authored_at": "2013-03-20T02:26:54Z",
+      "message": "Avoid fragment being created twice"
+    },
+    {
+      "sha": "fb5042846be80f06d3b2b36e54e49c9825a53c26",
+      "author_login": "liruqi",
+      "authored_at": "2013-03-18T16:31:10Z",
+      "message": "Enable menu toggle when sliding is disabled"
+    },
+    {
+      "sha": "29d40b63c4ba85efad5f908e63358261fbda8972",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-03-18T04:37:09Z",
+      "message": "Merge pull request #313 from liruqi/patch-1"
+    },
+    {
+      "sha": "42461fe04e3e798f7716aacaee6bd91f607bfda3",
+      "author_login": "alfthomas",
+      "authored_at": "2013-03-02T23:34:34Z",
+      "message": "* Removed dependency on actionbarsherlock from library because it is no longer used in library"
+    },
+    {
+      "sha": "b8823b84561af1682dd9a27bdc4d324274becf1c",
+      "author_login": "liruqi",
+      "authored_at": "2013-03-01T09:30:13Z",
+      "message": "remove unused BasePagerAdapter"
+    },
+    {
+      "sha": "a1710a7038c17f37c6dfb31cd626dd484f5ecf16",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-02-20T01:51:39Z",
+      "message": "Merge pull request #191 from DDRBoxman/maven"
+    },
+    {
+      "sha": "3d5e962d121b31f988cde116664e5e264175453a",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-02-18T16:19:14Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "59dd35698943f61336e293964328965a55ae10e8",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-02-11T15:19:38Z",
+      "message": "Fix pointer issue"
+    },
+    {
+      "sha": "3f09d419e2f0eb7a60c2940c4dd5d186323fce01",
+      "author_login": null,
+      "authored_at": "2013-02-05T14:55:51Z",
+      "message": "Another index fix"
+    },
+    {
+      "sha": "29547a01da81abfad68cd9519164153bef10f401",
+      "author_login": null,
+      "authored_at": "2013-02-05T14:53:57Z",
+      "message": "Pointer out of range fix"
+    },
+    {
+      "sha": "24893d0f1752153a047f2b7f2b115f29a10aafbb",
+      "author_login": null,
+      "authored_at": "2013-01-16T17:32:12Z",
+      "message": "Fixing actionbar overlay"
+    },
+    {
+      "sha": "35aefcf4b76f728f79ed72803ad2579d41dbfc7a",
+      "author_login": null,
+      "authored_at": "2013-01-15T18:59:41Z",
+      "message": "Remove warning"
+    },
+    {
+      "sha": "945832cad14ababa6dadb395de5861f014c1f5ae",
+      "author_login": null,
+      "authored_at": "2013-01-15T18:57:37Z",
+      "message": "Removing unused resources"
+    },
+    {
+      "sha": "c407a1b82d15dcdd13259e5a5ea056dead608726",
+      "author_login": null,
+      "authored_at": "2013-01-15T18:51:24Z",
+      "message": "Removing unnecessary stuff in AndroidManifest"
+    },
+    {
+      "sha": "32a8ac714b192b6c31876d191ed17c3fccc69c64",
+      "author_login": null,
+      "authored_at": "2013-01-15T18:45:34Z",
+      "message": "Fix for empty non-clickable views"
+    },
+    {
+      "sha": "593b78a27ef2959a3137893601d88caf3ebdc9b7",
+      "author_login": null,
+      "authored_at": "2013-01-10T01:26:55Z",
+      "message": "Merge branch 'master' of https://github.com/jfeinstein10/SlidingMenu"
+    },
+    {
+      "sha": "fa64e7aa52f1be9d2e9e051396f90197f4da7639",
+      "author_login": null,
+      "authored_at": "2013-01-10T01:26:37Z",
+      "message": "Explicit use of hardware layers for smoother scrolling"
+    },
+    {
+      "sha": "130ccddc3715145ad0998ce3bb2388fbff78dc29",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-01-04T15:32:21Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d079f35870582142924b38dbb513595e11fd73a8",
+      "author_login": "jfeinstein10",
+      "authored_at": "2013-01-04T15:31:00Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "4a53fb12a78da23e67e9e09fddcf6c06673c809f",
+      "author_login": null,
+      "authored_at": "2013-01-03T16:37:27Z",
+      "message": "Fixing attach for overlays"
+    },
+    {
+      "sha": "10f123b1c1375ab0760f1bfb557d855243ecfbc9",
+      "author_login": null,
+      "authored_at": "2013-01-03T15:20:34Z",
+      "message": "Remove hard coded test"
+    },
+    {
+      "sha": "a3650fe53f616cb424caa5d684af83179eb9b7af",
+      "author_login": null,
+      "authored_at": "2013-01-03T14:11:29Z",
+      "message": "Merge branch 'master' of https://github.com/jfeinstein10/SlidingMenu"
+    },
+    {
+      "sha": "6ca0c5e1e5067a29aa64408bb2d6d62fe0a726bb",
+      "author_login": null,
+      "authored_at": "2013-01-03T02:13:20Z",
+      "message": "Working on FULLSCREEN behind. Reintroduced selectors. Cleaned up quick returning"
+    },
+    {
+      "sha": "934171f21b8efc74428c8b536523b93ac8031c1a",
+      "author_login": "DDRBoxman",
+      "authored_at": "2012-12-20T21:10:08Z",
+      "message": "Add missing type to actionbarsherlock"
+    },
+    {
+      "sha": "ddf908bf58a03ee3b72f82a5a6de8bcc708bacf6",
+      "author_login": "DDRBoxman",
+      "authored_at": "2012-12-20T19:09:05Z",
+      "message": "Mavenize the library"
+    },
+    {
+      "sha": "9b7d10a2ff132f6f367d1a90251b67af6a5b5918",
+      "author_login": null,
+      "authored_at": "2012-12-20T03:21:13Z",
+      "message": "Fixing eclipse imports"
+    },
+    {
+      "sha": "6b76c4dc673667ec418eed9ee5db9a8408ec9c1e",
+      "author_login": null,
+      "authored_at": "2012-12-20T03:10:39Z",
+      "message": "Removing old files"
+    },
+    {
+      "sha": "fc7d7138f585b73f0aed09d1f48824ad3eee6980",
+      "author_login": null,
+      "authored_at": "2012-12-20T03:09:16Z",
+      "message": "Removing old files"
+    },
+    {
+      "sha": "5d5a38eb7f2a43b9ff4e47a3f53f548e8432eddd",
+      "author_login": null,
+      "authored_at": "2012-12-20T03:07:21Z",
+      "message": "Fixing refs"
+    },
+    {
+      "sha": "fb1a69190b39397f9adec4a12943b221551a33ae",
+      "author_login": null,
+      "authored_at": "2012-12-20T03:05:49Z",
+      "message": "Going back to v4 support package"
+    },
+    {
+      "sha": "193c6cd66aefaf6cd0aced77f41e73c3c39672f2",
+      "author_login": null,
+      "authored_at": "2012-12-19T14:44:22Z",
+      "message": "Added getter and setter for the touchmode margin threshold"
+    },
+    {
+      "sha": "2bd360d1853096174d4e32258b127e0e65832be0",
+      "author_login": "jfeinstein10",
+      "authored_at": "2012-12-19T05:52:19Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "2b13be5070711bedbbb348cbbdd7bdb5098c6ead",
+      "author_login": null,
+      "authored_at": "2012-12-18T16:00:17Z",
+      "message": "Fixing import"
+    },
+    {
+      "sha": "ca7268294e9973df399eddc96a63038612a6c2cf",
+      "author_login": "jfeinstein10",
+      "authored_at": "2012-12-17T17:11:52Z",
+      "message": "Merge pull request #176 from CmoaToto/master"
+    },
+    {
+      "sha": "caa723c3ad7a43c3c0689adf432b5948c6d15e18",
+      "author_login": "CmoaToto",
+      "authored_at": "2012-12-11T16:08:17Z",
+      "message": "Use getHitRect to check if a view is in Ignore Views"
+    },
+    {
+      "sha": "29dbf9e2d81e08af8d3afab3edd1f5ce1aaebeec",
+      "author_login": "CmoaToto",
+      "authored_at": "2012-12-11T09:53:25Z",
+      "message": "Add an ignored View only if it is not allready ignored"
+    },
+    {
+      "sha": "855424dec3f2249e6e59552b5b65ad3f3febf527",
+      "author_login": "CmoaToto",
+      "authored_at": "2012-12-11T08:59:33Z",
+      "message": "Add/Remove Views ignored by the Touch Down Event when mode is Fullscreen"
+    },
+    {
+      "sha": "71d057d4935b21a1e1685f9f777a8928aff3b1ae",
+      "author_login": "jfeinstein10",
+      "authored_at": "2012-12-07T19:37:22Z",
+      "message": "Merge pull request #171 from gauntface/master"
+    },
+    {
+      "sha": "0e22f565b4d3a303c0b4ea1eb8d258a97c259c56",
+      "author_login": "jfeinstein10",
+      "authored_at": "2012-12-07T19:37:13Z",
+      "message": "Merge pull request #172 from RockoDev/master"
+    },
+    {
+      "sha": "442e94418c9c9dc2a24744094a755c6318a20837",
+      "author_login": "RockoDev",
+      "authored_at": "2012-12-06T18:58:14Z",
+      "message": "Update library/src/com/slidingmenu/lib/SlidingMenu.java"
+    },
+    {
+      "sha": "5921d48e85c1c9ec9abb04629d3baa9ff76b6cca",
+      "author_login": null,
+      "authored_at": "2012-12-06T17:39:44Z",
+      "message": "Undoing a change"
+    },
+    {
+      "sha": "8694f9dedd0aa1d1965ee82e539d13a1d8bcde9c",
+      "author_login": null,
+      "authored_at": "2012-12-06T17:35:27Z",
+      "message": "Stopping incorrect focusing on SlidingMenu"
+    },
+    {
+      "sha": "a65b6709bca37525da67a03eb3cb573d7d1e2835",
+      "author_login": "jfeinstein10",
+      "authored_at": "2012-12-05T20:15:38Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "40a78a0572b5a4c55b7800878a94f890591a47db",
+      "author_login": null,
+      "authored_at": "2012-12-05T17:02:38Z",
+      "message": "Merge branch 'master' of https://github.com/jfeinstein10/SlidingMenu"
+    },
+    {
+      "sha": "017774c50930af1e0cf610ae90b44f4c4677818a",
+      "author_login": null,
+      "authored_at": "2012-12-05T17:00:55Z",
+      "message": "Adding new attachToActivity method so people can avoid having to extend Sliding*Activities. Example added to the example app"
+    },
+    {
+      "sha": "af5ba3ea32327cd591341fd89cc87c7b33367cdb",
+      "author_login": "jfeinstein10",
+      "authored_at": "2012-12-04T18:23:26Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "cdef60e5f2663d4e14bce92221ddb866154114b8",
+      "author_login": null,
+      "authored_at": "2012-12-04T05:27:40Z",
+      "message": "Added left right to properties example. Better determineTargetPage behavior. Making secondaryContent GONE when not in LEFT_RIGHT"
+    },
+    {
+      "sha": "eba555adef69ba0b5175f919167d3c021d9804a5",
+      "author_login": null,
+      "authored_at": "2012-12-03T07:09:01Z",
+      "message": "Example fix"
+    },
+    {
+      "sha": "85eb954c63ed2bb4573f30c3f9122b31b463c08b",
+      "author_login": null,
+      "authored_at": "2012-12-03T07:05:49Z",
+      "message": "Fix NPE"
+    },
+    {
+      "sha": "91061a9e62878fe4067a28f993a4a8aaa74e2a2c",
+      "author_login": null,
+      "authored_at": "2012-12-02T16:37:38Z",
+      "message": "Fixing LEFT_RIGHT to LEFT or RIGHT"
+    },
+    {
+      "sha": "ee258314336c36ca9a935ad42effe4457a321585",
+      "author_login": null,
+      "authored_at": "2012-12-01T19:14:15Z",
+      "message": "Correct visibility for behind view in LEFT RIGHT. Remove Log"
+    },
+    {
+      "sha": "637dee589d86fe4ad342fec3c5b823563859203d",
+      "author_login": null,
+      "authored_at": "2012-11-28T23:28:07Z",
+      "message": "Exposed secondary shadow"
+    },
+    {
+      "sha": "477ac8aeaec451e6e3412fb0714639ea564cbb72",
+      "author_login": null,
+      "authored_at": "2012-11-28T22:57:45Z",
+      "message": "invalidate for transformers. Measure content exactly"
+    },
+    {
+      "sha": "eaff492797ae8bb1429acc5937d14e3cce75aae6",
+      "author_login": null,
+      "authored_at": "2012-11-28T22:46:12Z",
+      "message": "Making measure match layout width"
+    },
+    {
+      "sha": "6b1984f01ba74c709ce87a32abed69848dd6fded",
+      "author_login": null,
+      "authored_at": "2012-11-28T22:41:19Z",
+      "message": "Removing unused attach method"
+    },
+    {
+      "sha": "f01912fabcca6217a7fefc239d9c59c8b3933eb2",
+      "author_login": null,
+      "authored_at": "2012-11-28T20:52:13Z",
+      "message": "Remove DEBUG"
+    },
+    {
+      "sha": "38ba0eff8f5f6b7a16c5a0498ad1b97ac436ce5c",
+      "author_login": null,
+      "authored_at": "2012-11-28T20:51:47Z",
+      "message": "Removing unnecessary invalidates"
+    },
+    {
+      "sha": "507ca04de30a82ca13089538bd420d833d821952",
+      "author_login": null,
+      "authored_at": "2012-11-28T19:07:18Z",
+      "message": "Cleaning up left and right"
+    }
+  ],
+  "issues": [
+    {
+      "number": 790,
+      "title": "Applebee’s Menu 2025 – Prices, Specials & Full Food List USA",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-16T05:39:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 789,
+      "title": "Applebee’s Menu 2025 – Prices, Specials & Full Food List USA",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-16T05:39:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 788,
+      "title": "https://tacobell-menu.com/",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-05-28T11:50:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 787,
+      "title": "Hi",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-04T15:35:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 776,
+      "title": "Migrated to AndroidX but app crashes on back button press",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-29T20:05:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 775,
+      "title": "Attr \"Mode\" is duplicate then migrate to AndroidX",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-23T21:21:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 774,
+      "title": "怎么让内容页出现黑色遮罩呢？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-14T06:11:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 772,
+      "title": "A Black Bar in Slidingmenu",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-12-04T09:39:55Z",
+      "closed_at": "2017-12-11T12:38:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 771,
+      "title": "Multi window feature",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-09-15T07:16:01Z",
+      "closed_at": "2017-09-15T07:17:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 770,
+      "title": "A",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-08-25T17:39:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 769,
+      "title": "my own issue",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-07-26T06:55:11Z",
+      "closed_at": "2017-07-26T07:02:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 768,
+      "title": "Using SLIDING_WINDOW mode overlaps with navigation bar",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-06-16T15:42:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 767,
+      "title": "Using Math.sin () instead of FloatMath.sin ()",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-03-31T02:15:50Z",
+      "closed_at": "2017-11-28T04:52:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 766,
+      "title": "Does it work with Adobe Flash ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-03-06T01:08:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 765,
+      "title": "FloatMath library unavailable in API 23 and later",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-03-02T04:21:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 764,
+      "title": "Customize Sliding",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-11-23T13:53:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 763,
+      "title": "after slidingMenu open, can't scroll on listview",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-11-23T06:26:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 762,
+      "title": "Add Fragments",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-11-17T13:25:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 761,
+      "title": "error when running SlidingMenu   FloatMath.sin(f)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-10-31T07:57:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 760,
+      "title": "if your app use theme background in style.xml , it will show nothing in slidingmenu",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-09-20T08:36:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 759,
+      "title": "FloatMath Deprecated from Android 22 onwards",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-09-15T11:21:10Z",
+      "closed_at": "2020-04-05T07:03:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 758,
+      "title": "Sliding menu with android:windowSoftInputMode adjustResize shows white strip on top of view while keyboard is open",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-08-22T06:37:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 757,
+      "title": "Previous listview item setchecked in sliding menu when back press from another fragment",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-08-09T09:17:52Z",
+      "closed_at": "2016-08-26T08:54:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 756,
+      "title": "update SlidingMenu Mode from another Fragment",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-07-18T18:03:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 755,
+      "title": "在AndroidStudio上怎么配置",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-06-16T02:31:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 754,
+      "title": "Activity with several fragment will freeze in android 5.0 device once open menu",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-06-14T06:33:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 753,
+      "title": "SlidingMenu from Right to left",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-06-08T09:57:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 752,
+      "title": "Whyextending AppCompatActivity  instead of FragmentActivity ,the  view goes down ?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-05-25T15:48:46Z",
+      "closed_at": "2016-06-01T20:11:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 751,
+      "title": "\"addIgnoredView()\" is useless ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-05-23T06:20:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 750,
+      "title": "NullPointer at setMode",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-04-26T17:41:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 749,
+      "title": "update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-02-29T01:30:55Z",
+      "closed_at": "2016-03-03T14:33:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 748,
+      "title": "Popular Android library badge",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2016-01-30T01:14:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 747,
+      "title": "View.LAYER_TYPE_HARDWARE cause SurfaceView becomes transparent in 5.0 devices",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-01-26T07:58:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 746,
+      "title": "#692 backstack changes listening",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-01-23T12:27:32Z",
+      "closed_at": "2017-02-20T13:56:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 745,
+      "title": "Fatal Exception: java.lang.StackOverflowError",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-01-21T12:25:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 744,
+      "title": "Sliding is disabled if i setContentView() in onNewIntent() method",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-01-21T06:45:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 743,
+      "title": "BehindView over statusbar",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-01-04T22:14:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 742,
+      "title": "Update .project",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2015-12-31T03:41:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 741,
+      "title": "ListView requestLayout() improperly",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-12-18T07:26:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 740,
+      "title": "Manage event inside SlidingMenu",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-11-27T14:56:45Z",
+      "closed_at": "2016-10-25T16:58:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 739,
+      "title": "Separate setTouchModeAbove for secondaryMenu?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-11-27T12:58:29Z",
+      "closed_at": "2015-11-27T13:16:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 738,
+      "title": "How to overlap slidingMenu over MainActivity",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-11-02T14:41:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 737,
+      "title": "Update Gradle and Android SDK to current versions",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2015-10-14T14:51:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 736,
+      "title": "NullPointerException -- SlidingActivityHelper",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-10-08T22:29:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 735,
+      "title": "How To Slide Left panel after setSlidingEnabled(true)?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-09-30T13:33:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 734,
+      "title": "Slidingmenu ,viewpager with CirclePageIndicator is not working properly.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-09-30T11:20:46Z",
+      "closed_at": "2015-12-07T12:42:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 733,
+      "title": "Android studio",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-09-30T09:04:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 732,
+      "title": "android jfeinstein slidingmenu toggle button not working when back to activity?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-09-30T06:48:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 731,
+      "title": "Issue with onMeasure() occurring sometimes and crashing app",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-09-25T05:22:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 730,
+      "title": "Content stop responding in specific condition",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-09-03T20:55:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 729,
+      "title": "Support Action Bar",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-08-18T07:37:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 728,
+      "title": "Add gif or image to Readme",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-08-02T13:19:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 727,
+      "title": "SlidingMenu can not work on android 5.1.1",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-07-27T06:15:07Z",
+      "closed_at": "2015-07-27T08:27:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 726,
+      "title": "Use java.lang.Math instead of android.util.FloatMath",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-07-13T17:29:23Z",
+      "closed_at": "2017-03-21T00:55:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 725,
+      "title": "How to use Sliding Menu with an Activity that isn't FragmentActivity?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-07-12T21:02:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 724,
+      "title": "Replacing behind View",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-07-10T10:09:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 723,
+      "title": "navigation bar on the bottom detection",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-07-01T07:22:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 722,
+      "title": "测试",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2015-06-21T04:55:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 721,
+      "title": "Set transparent on behind view ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-06-01T14:02:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 720,
+      "title": "Initial push of all sides",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2015-05-31T17:20:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 719,
+      "title": "ArrayIndexOutOfBoundsException in CustomViewAbove.onMeasure",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-05-25T14:06:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 718,
+      "title": "leftside menu : setOnOpenedListener and setOnClosedListener are called with delay",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-05-13T20:00:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 717,
+      "title": "SlidingMenu don't show items in ListFragment.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-05-13T08:30:52Z",
+      "closed_at": "2015-05-13T17:59:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 716,
+      "title": "android:windowTranslucentStatus is not working with the Slidingmenu",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-04-27T13:55:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 715,
+      "title": "fixed ViewAbove UI NonResponsivness by commenting manageLayers",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2015-04-21T08:02:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 714,
+      "title": "SlidingActionBarActivity class created to extend from ActionBarActivity",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2015-04-14T11:37:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 713,
+      "title": "Custom color Status Bar",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-04-08T09:09:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 712,
+      "title": "Blank space between Content & toolbar on lollipop",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-04-06T18:59:45Z",
+      "closed_at": "2015-04-08T11:41:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 711,
+      "title": "About the integration in android studio",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-04-01T08:55:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 710,
+      "title": "Fragment transition not working smooth when clicking on side menu item.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-03-24T09:18:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 709,
+      "title": "How can I make the behind view of sliding menu clickable?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-03-19T14:55:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 708,
+      "title": "setMenu method can't work",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-03-18T10:39:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 707,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-03-13T17:33:01Z",
+      "closed_at": "2019-05-08T13:17:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 706,
+      "title": "Crash with CustomViewAbove.dispatchKeyEvent ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-03-13T14:32:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 705,
+      "title": "Immersive mode not working properly with SlidingMenu",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-02-21T09:33:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 704,
+      "title": "Sliding menu list width",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-02-20T11:37:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 703,
+      "title": "Sliding Menu clickable even if i didnt open it",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-02-12T01:21:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 702,
+      "title": "SLIDING_WINDOW + Fragment tab host got problem",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-02-04T06:32:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 701,
+      "title": "java.lang.stackoverflow exception ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-01-24T20:35:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 700,
+      "title": "view SlidingMenu top of layouts without move content or window",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2015-01-24T06:05:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 699,
+      "title": "Work With ToolBar in AppCompat",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-01-22T11:31:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 698,
+      "title": "Nice support fragment isse",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-01-05T13:08:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 697,
+      "title": "not showing actionbar in android2.2",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-01-05T07:08:42Z",
+      "closed_at": "2015-01-09T13:26:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 696,
+      "title": "Compatibility With AppCompact v21",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-12-30T07:21:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 695,
+      "title": "Compatibility With AppCompact",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-12-27T12:20:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 694,
+      "title": "ClassCastException when using setMenu(R.layout.menu)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-12-22T07:33:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 693,
+      "title": "slidingmenu",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-12-15T14:17:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 692,
+      "title": "Change replace()",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-12-14T17:34:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 691,
+      "title": "Big Memory leaks  ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2014-12-09T09:17:48Z",
+      "closed_at": "2014-12-09T12:04:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 690,
+      "title": "Sliding Menu doesn't follow Theme style",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-12-03T08:38:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 689,
+      "title": "Sliding menu not closing",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-12-02T15:01:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 688,
+      "title": "Is there a way to fade AboveView ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-12-02T06:12:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 687,
+      "title": "ScrollView and Visibilty Gone not working in android L.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-11-25T13:03:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 686,
+      "title": "Unable to set sliding menu width(occupies whole screen)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-11-16T05:19:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 685,
+      "title": "Remove MLS MatchDay from README",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2014-11-13T23:12:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 684,
+      "title": "Sliding menu with no action bar",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-11-13T19:46:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 683,
+      "title": "issues of slidingmenu working with FLAG_TRANSLUCENT_STATUS",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-11-11T11:48:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 682,
+      "title": "how to integrate sliding menu into existing project",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-11-07T13:48:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 681,
+      "title": "white space when slidingmenu is moving from right to left",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-11-05T14:10:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 680,
+      "title": "Lollipop Bottom Nav Bar Overlays App When Moving Action Bar",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2014-11-03T22:44:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "jfeinstein10",
+      "contributions": 85
+    },
+    {
+      "login": "donnfelker",
+      "contributions": 11
+    },
+    {
+      "login": "hwrdprkns",
+      "contributions": 10
+    },
+    {
+      "login": "chrisjenx",
+      "contributions": 7
+    },
+    {
+      "login": "CmoaToto",
+      "contributions": 3
+    },
+    {
+      "login": "DDRBoxman",
+      "contributions": 2
+    },
+    {
+      "login": "linuxmotion",
+      "contributions": 2
+    },
+    {
+      "login": "liruqi",
+      "contributions": 2
+    },
+    {
+      "login": "aiwilliams",
+      "contributions": 1
+    },
+    {
+      "login": "atermenji",
+      "contributions": 1
+    },
+    {
+      "login": "iPaulPro",
+      "contributions": 1
+    },
+    {
+      "login": "RockoDev",
+      "contributions": 1
+    },
+    {
+      "login": "robUx4",
+      "contributions": 1
+    },
+    {
+      "login": "yccheok",
+      "contributions": 1
+    },
+    {
+      "login": "alfthomas",
+      "contributions": 1
+    },
+    {
+      "login": "huahang",
+      "contributions": 1
+    },
+    {
+      "login": "matthewlim",
+      "contributions": 1
+    },
+    {
+      "login": "michaelcspeed",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-09-28T12:36:17.029522Z"
+}

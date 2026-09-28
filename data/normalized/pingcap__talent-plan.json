@@ -1,0 +1,1910 @@
+{
+  "full_name": "pingcap/talent-plan",
+  "owner": "pingcap",
+  "name": "talent-plan",
+  "url": "https://github.com/pingcap/talent-plan",
+  "description": "open source training courses about distributed database and distributed systems",
+  "primary_language": "Rust",
+  "topics": [
+    "distributed-database",
+    "distributed-systems",
+    "golang",
+    "open-source",
+    "pingcap",
+    "rust",
+    "talent-plan"
+  ],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 11008,
+  "forks": 1391,
+  "open_issues": 125,
+  "created_at": "2019-01-22T01:29:49Z",
+  "pushed_at": "2023-09-18T11:33:20Z",
+  "updated_at": "2026-09-28T08:06:29Z",
+  "commits": [
+    {
+      "sha": "18d81c90e403cbd77ec6052c4018cc11b61d3ca0",
+      "author_login": "OneSizeFitsQuorum",
+      "authored_at": "2022-07-15T06:31:15Z",
+      "message": "remove redundant bind (#447)"
+    },
+    {
+      "sha": "081015bdbe7783f6bacbe3cf9bca85ca5d703b1b",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2022-06-09T06:19:45Z",
+      "message": "Bump miow from 0.2.1 to 0.2.2 in /courses/rust/projects/project-5 (#425)"
+    },
+    {
+      "sha": "1a5668614166df2f21bb7ef44461815d4f0ee082",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2022-06-09T06:19:25Z",
+      "message": "Bump regex from 1.1.7 to 1.5.6 in /courses/rust/projects/project-2 (#424)"
+    },
+    {
+      "sha": "4e652f051fbd13de83fbfbe0df6c70af9bd87720",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2022-06-09T06:19:04Z",
+      "message": "Bump regex from 1.1.7 to 1.5.6 in /courses/rust/projects/project-1 (#423)"
+    },
+    {
+      "sha": "47fb20062401e95405abefb85cdafbb5c9b10eb8",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2022-06-09T06:06:33Z",
+      "message": "Bump smallvec from 0.6.10 to 0.6.14 in /courses/rust/projects/project-5 (#422)"
+    },
+    {
+      "sha": "4dc0593a219c79ab29a1835a3f3e821fe8ade3a6",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2022-06-09T05:57:29Z",
+      "message": "Bump smallvec from 0.6.10 to 0.6.14 in /courses/rust/projects/project-4 (#421)"
+    },
+    {
+      "sha": "4846e85e9b03672994913c4800c3ebb375d16ebb",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2022-06-09T05:08:51Z",
+      "message": "Bump crossbeam-utils in /courses/rust/projects/project-3 (#419)"
+    },
+    {
+      "sha": "39064c9ccd68195c34ee31afdc419aa3ae6f4abd",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2022-06-09T04:03:35Z",
+      "message": "Bump crossbeam-deque from 0.7.3 to 0.7.4 in /courses/dss (#418)"
+    },
+    {
+      "sha": "5db402d82a84dc0e90cb3eae9c913cdfb6716d81",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2022-06-09T03:55:05Z",
+      "message": "Bump crossbeam-deque in /courses/rust/projects/project-4 (#417)"
+    },
+    {
+      "sha": "032d70da6033e04c36ed884987735b71ad012c3f",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2022-06-09T03:43:29Z",
+      "message": "Bump crossbeam-deque in /courses/rust/projects/project-3 (#416)"
+    },
+    {
+      "sha": "2c02b5868a3a5318b5a1273486d26368c6ce40a0",
+      "author_login": "YangchenYe323",
+      "authored_at": "2022-06-06T10:40:54Z",
+      "message": "fix clippy error (#414)"
+    },
+    {
+      "sha": "3d9d3d7f9f43248041ad2945b74231afad6db6a6",
+      "author_login": "likzn",
+      "authored_at": "2022-06-06T10:23:22Z",
+      "message": "fix link about Talent Plan Site (#415)"
+    },
+    {
+      "sha": "a41b846b57abcabf6651e93cb620c1513918bf14",
+      "author_login": "ruhuang2001",
+      "authored_at": "2022-04-06T09:30:04Z",
+      "message": "README.md: fix the link error (#410)"
+    },
+    {
+      "sha": "2e269dd70017988383bc538bb60e69a81be24a05",
+      "author_login": "The-rambunctious-S",
+      "authored_at": "2021-12-21T08:37:31Z",
+      "message": "Update README.md (#372)"
+    },
+    {
+      "sha": "01b656db962cea7d653182354b0bb3b6f146dbe0",
+      "author_login": "yanguwan",
+      "authored_at": "2021-11-08T08:11:00Z",
+      "message": "Update selected-projects.md (#404)"
+    },
+    {
+      "sha": "63bed826329d0aa19a57a339d688157a2d1b13cd",
+      "author_login": null,
+      "authored_at": "2021-10-26T12:51:39Z",
+      "message": "dss: add Raft Lab 2D code (#397)"
+    },
+    {
+      "sha": "6c090a6f4bff96df3f1f732e25e91fef74ae47f5",
+      "author_login": "yanguwan",
+      "authored_at": "2021-09-08T11:18:55Z",
+      "message": "Add one TCP issue 4095 (#402)"
+    },
+    {
+      "sha": "49892fb1b55fe3015f209ad72cd960dd1c0c14b6",
+      "author_login": "yanguwan",
+      "authored_at": "2021-09-01T08:04:24Z",
+      "message": "add 18745 and change an mentor (#401)"
+    },
+    {
+      "sha": "1697680e5f482d0d3bd9e7f68d6c09dfdb0e05ee",
+      "author_login": "yanguwan",
+      "authored_at": "2021-08-31T14:05:51Z",
+      "message": "update for TCP2021 Sept open (#400)"
+    },
+    {
+      "sha": "1bededae702022e6e4cb38366f1ee977bc8fd0dd",
+      "author_login": "ShaneM123",
+      "authored_at": "2021-08-26T02:02:45Z",
+      "message": "update README to reflect recent change to dev deps in repo (#393)"
+    },
+    {
+      "sha": "e37ab2433a0d6d8af1246f7f5ff2a8786bdf18a0",
+      "author_login": "ccbrucer",
+      "authored_at": "2021-08-26T02:02:01Z",
+      "message": "Fix bug: remove unnecessary nested match from clippy (#387)"
+    },
+    {
+      "sha": "26bdc5d9735731bf334c490bffbf7e8270d48289",
+      "author_login": "StrayLittlePunk",
+      "authored_at": "2021-08-26T02:00:30Z",
+      "message": "remove unnecessary nested match. remove duplicate clippy setting. update Op enum field names contain a capitalized acronym. (#394)"
+    },
+    {
+      "sha": "d07b7d4571a91d5f87e673a4b94bd79cfc6d3cd0",
+      "author_login": "FuShixiong",
+      "authored_at": "2021-07-28T08:52:31Z",
+      "message": "Update tp103-open-source-community.md (#398)"
+    },
+    {
+      "sha": "9de7a5103b7265f8c35d8a7a2cdb868b0c1cf70f",
+      "author_login": "rebelice",
+      "authored_at": "2021-07-12T04:02:48Z",
+      "message": "Add TinySQL project (#395)"
+    },
+    {
+      "sha": "17a7696d51f6e6a3dbb471b5aee16e9b2a7343e6",
+      "author_login": "impluse007",
+      "authored_at": "2021-07-12T04:01:48Z",
+      "message": "Markdown format error (#348)"
+    },
+    {
+      "sha": "477c94466ae61acb6b6c20eae60ff124a8f65dad",
+      "author_login": "a9QrX3Lu",
+      "authored_at": "2021-07-12T03:59:22Z",
+      "message": "fix typo (#388)"
+    },
+    {
+      "sha": "22b3f734dcebded55b0c851cb997c13271d2b708",
+      "author_login": "FuShixiong",
+      "authored_at": "2021-06-11T02:43:15Z",
+      "message": "Update schedule.md (#392)"
+    },
+    {
+      "sha": "372fd62e8e84b77b910660aea7f99ffc77171769",
+      "author_login": "FuShixiong",
+      "authored_at": "2021-06-10T03:27:15Z",
+      "message": "Update selected-projects.md (#390)"
+    },
+    {
+      "sha": "ff1f695bec995d14cdfc7a03dfe1397e63f42cc2",
+      "author_login": "yanguwan",
+      "authored_at": "2021-06-09T06:20:32Z",
+      "message": "Create directory for Talent Challenge Program 2021 (#389)"
+    },
+    {
+      "sha": "23263a3d8b54776120dead9af83bfda838cdb176",
+      "author_login": "saivanji",
+      "authored_at": "2021-04-08T19:27:54Z",
+      "message": "Using 'unwrap()' instead of 'expect(\"msg\")' (#386)"
+    },
+    {
+      "sha": "a5dccffb09d8d996d9b20a45061cde6604cf221a",
+      "author_login": "waruto210",
+      "authored_at": "2021-02-06T13:36:27Z",
+      "message": "courses/rust/projects/project-[3-4]: fix errors due to crate compatibility (#384)"
+    },
+    {
+      "sha": "1fad02e89668d899eb841e47bffc6cf2c7e24ab8",
+      "author_login": "esposm03",
+      "authored_at": "2021-02-03T07:01:52Z",
+      "message": "Delete .DS_Store (#373)"
+    },
+    {
+      "sha": "b59c645604c0c3ce5fcd12bc4e19e0341593e7a5",
+      "author_login": "czccc",
+      "authored_at": "2021-02-03T07:01:03Z",
+      "message": "courses/dss/raft: fix wrong Duration used in RPC Delay (#382)"
+    },
+    {
+      "sha": "0d8a48ac278fe22435f1c002ae248cecdc8f1caa",
+      "author_login": "Riptide3",
+      "authored_at": "2021-02-03T06:56:33Z",
+      "message": "Adjust code to pass the new version clippy (#378)"
+    },
+    {
+      "sha": "e546aff57fbd3b38ead2d030ec2073ce9b6b0280",
+      "author_login": "Soline324",
+      "authored_at": "2021-01-28T06:40:57Z",
+      "message": "Update tp102-how-to-use-git-github.md"
+    },
+    {
+      "sha": "7911386a3f1444329c1bd238bdec8b3470e3ae4c",
+      "author_login": "Soline324",
+      "authored_at": "2021-01-12T10:40:04Z",
+      "message": "Update 1.0-lp-tikv.md"
+    },
+    {
+      "sha": "3baf6b0308d519d9e38d3db21e5569098257803a",
+      "author_login": "Soline324",
+      "authored_at": "2021-01-12T10:39:17Z",
+      "message": "Update 1.0-lp-tikv.md"
+    },
+    {
+      "sha": "b3728d296ad3b293ae79143157e4a04cbc5f98da",
+      "author_login": "breezewish",
+      "authored_at": "2020-07-10T03:35:40Z",
+      "message": "Update \"SQL Statement Level Statistics\" to hard (#362)"
+    },
+    {
+      "sha": "a1cb42c0bc495229a20ebd06d6a2fcd22658c97a",
+      "author_login": "BowenXiao1999",
+      "authored_at": "2020-07-10T03:34:34Z",
+      "message": "tcp: mentee info (#366)"
+    },
+    {
+      "sha": "1ba3f74741a35c9cc7f6621b1ad29e0a35748fd4",
+      "author_login": "Colins110",
+      "authored_at": "2020-07-10T03:33:55Z",
+      "message": "update mentee of project TiCDC Snapshot Level Consistency Replication (#367)"
+    },
+    {
+      "sha": "5950477a26935e29e8e708a922e448c75509febd",
+      "author_login": "xhebox",
+      "authored_at": "2020-07-10T03:33:29Z",
+      "message": "update mentee of project Defining Placement Rules in SQL (#368)"
+    },
+    {
+      "sha": "8af037ce7a70cbfe51427193970804d6c29b2fdc",
+      "author_login": "miamia0",
+      "authored_at": "2020-07-09T06:18:51Z",
+      "message": "update mentee of project Reduce memory consumption of stats data (#365)"
+    },
+    {
+      "sha": "7ca1fd4b969395f258c4a291515e18a02470d4c1",
+      "author_login": "qinggniq",
+      "authored_at": "2020-07-09T06:18:21Z",
+      "message": "update mentee of project TiCDC Supports Avro Sink and Kafka Connector (#364)"
+    },
+    {
+      "sha": "b79ff942376e8c68fdfd74c3c3b90c4de232b444",
+      "author_login": "xiongjiwei",
+      "authored_at": "2020-07-09T06:17:52Z",
+      "message": "Update selected-projects.md (#363)"
+    },
+    {
+      "sha": "ecdfbf4be103604604b9cd54bd9d1b8134dc63ea",
+      "author_login": "overvenus",
+      "authored_at": "2020-06-23T11:48:40Z",
+      "message": "dss: fix redundant closure (#360)"
+    },
+    {
+      "sha": "a9a100ef944c04547c5024d71fb5277d03d0de3e",
+      "author_login": "wjhuang2016",
+      "authored_at": "2020-06-23T10:54:49Z",
+      "message": "done (#361)"
+    },
+    {
+      "sha": "6041c617a7aae8f4de121b28f8bf75f24220c1c3",
+      "author_login": "cwen0",
+      "authored_at": "2020-06-23T10:32:14Z",
+      "message": "Add Chaos mesh project to talent challenge program (#359)"
+    },
+    {
+      "sha": "b4a20cefb0ee9dcd2dd9e25524773af417f749e1",
+      "author_login": "Soline324",
+      "authored_at": "2020-06-22T10:32:16Z",
+      "message": "Add talent challenge program (#357)"
+    },
+    {
+      "sha": "e800b9cb07ff289a038c37918ea1ce2554713bf5",
+      "author_login": "kamilogorek",
+      "authored_at": "2020-05-21T06:13:34Z",
+      "message": "Updated subdirectories links (#350)"
+    },
+    {
+      "sha": "b7fdc7b48d56dbcd00556b1da1e8617aecd3b3f0",
+      "author_login": "JmPotato",
+      "authored_at": "2020-05-21T06:00:08Z",
+      "message": "Update to latest dependencies doc links (#351)"
+    },
+    {
+      "sha": "5be9f3cade38b876217ba3dfc1dd9509f95d5ae0",
+      "author_login": "koushiro",
+      "authored_at": "2020-05-21T05:50:17Z",
+      "message": "some missing updates about async code (#353)"
+    },
+    {
+      "sha": "0f69bac0998f09fb4ba4b8cef1f4651b8eba1ba4",
+      "author_login": "loxp",
+      "authored_at": "2020-05-10T03:31:18Z",
+      "message": "fix course number (#349)"
+    },
+    {
+      "sha": "535c0426dfd1e703c23bb2505678e4ea2bbd947c",
+      "author_login": "kathy-baixue",
+      "authored_at": "2020-05-09T06:11:23Z",
+      "message": "Update tp102-how-to-use-git-github.md (#346)"
+    },
+    {
+      "sha": "dabc935a0e0769e7bed10757139fe5ff4efe482c",
+      "author_login": "Soline324",
+      "authored_at": "2020-05-08T08:27:28Z",
+      "message": "fix typo (#345)"
+    },
+    {
+      "sha": "4c74c3653fd4bb3388138e2d4260a44dc9f2a131",
+      "author_login": "koushiro",
+      "authored_at": "2020-05-07T04:34:24Z",
+      "message": "dss: upgrade all dependencies (#339)"
+    },
+    {
+      "sha": "bcfb2a815d69c2902f6ed26069ecc7b0c730f07f",
+      "author_login": "Soline324",
+      "authored_at": "2020-05-04T16:30:09Z",
+      "message": "add talent plan 1.0 (#344)"
+    },
+    {
+      "sha": "a401cd1070274c6adc14fea26c1c2dc903ca9a5e",
+      "author_login": "Soline324",
+      "authored_at": "2020-05-04T16:09:00Z",
+      "message": "Update README.md (#342)"
+    },
+    {
+      "sha": "2a1f4c20241c4b58f21a91ca83eb4b331a924377",
+      "author_login": "brson",
+      "authored_at": "2020-04-28T01:44:07Z",
+      "message": "Move rust and dss material to 'courses' directory (#341)"
+    },
+    {
+      "sha": "d0befa9a0132a5c2462baeb27cc8fbf00e29e573",
+      "author_login": "mfrw",
+      "authored_at": "2020-04-28T00:24:41Z",
+      "message": "rust/docs: remove repeated instance of arranged (#309)"
+    },
+    {
+      "sha": "da0c167df4e4725469d85cd6165b42fcde7d0fec",
+      "author_login": "fser",
+      "authored_at": "2020-04-28T00:16:47Z",
+      "message": "[typo] ferrous-sytems -> ferrous-systems (#331)"
+    },
+    {
+      "sha": "0f3c1119e576675f6ff88af8494cdb0b0894d338",
+      "author_login": "0xPoe",
+      "authored_at": "2020-04-27T06:37:14Z",
+      "message": "dss: upgrade prost version to 0.6 (#337)"
+    },
+    {
+      "sha": "65559dae12a09893180f8d96d9d9a828770b9549",
+      "author_login": "Soline324",
+      "authored_at": "2020-04-24T08:31:02Z",
+      "message": "Update talent plan 2.0 (#338)"
+    },
+    {
+      "sha": "de5b2ca29db5ab040dce5cef988c74bf74fc8df5",
+      "author_login": "aijingyc",
+      "authored_at": "2020-03-04T01:55:47Z",
+      "message": "align  from doc to code. (#281)"
+    },
+    {
+      "sha": "2e03a0332fd807a478c0113a030e548ab98f2e42",
+      "author_login": "rethab",
+      "authored_at": "2020-03-04T01:51:13Z",
+      "message": "fix typo in description (#299)"
+    },
+    {
+      "sha": "4af66e1a53a8265cd818005fc731852444961bf7",
+      "author_login": "zz-jason",
+      "authored_at": "2020-03-03T04:44:36Z",
+      "message": ".github: add issue&PR template (#329)"
+    },
+    {
+      "sha": "02098e79fe84279267a54ee0fd637527e7d04c83",
+      "author_login": "at15",
+      "authored_at": "2020-03-03T04:38:48Z",
+      "message": "dss: Update toolchain and fix clippy error (#308)"
+    },
+    {
+      "sha": "212de3f61c55ca8911b7605127499f769c89c147",
+      "author_login": "YuJuncen",
+      "authored_at": "2020-03-03T03:40:44Z",
+      "message": "dss/raft: add some hints to kvraft::Node::kill (#320)"
+    },
+    {
+      "sha": "7c2f1889865bf8d33c545e14d4dd42849665db0a",
+      "author_login": "0xPoe",
+      "authored_at": "2020-02-29T07:47:20Z",
+      "message": "tidb: remove useless code (#321)"
+    },
+    {
+      "sha": "820e3b9a646bb564df4be4470c6bfc9308d18e8e",
+      "author_login": "qinggniq",
+      "authored_at": "2020-02-29T07:30:12Z",
+      "message": "tidb/join: make the test case of join stronger (#328)"
+    },
+    {
+      "sha": "e76d526b6cf51ec8ae5a1959eb9c82a8e0918ef2",
+      "author_login": "liyiheng",
+      "authored_at": "2020-02-29T07:18:48Z",
+      "message": "rust/projects: add hints of `try_clone` and `pread` (#324)"
+    },
+    {
+      "sha": "3fe597c848741d242f32efcf8a30fd0ca833d5e0",
+      "author_login": "jonathanbeber",
+      "authored_at": "2020-02-29T06:51:27Z",
+      "message": "rust/building-blocks: change BB3's exercise helping link on serd… (#306)"
+    },
+    {
+      "sha": "114990e82c1f4644d56be45722a66f55e1ca1dda",
+      "author_login": "sticnarf",
+      "authored_at": "2020-02-24T04:38:44Z",
+      "message": "Merge pull request #327 from zhongzc/pr"
+    },
+    {
+      "sha": "1d6c1bda4d1748a5a5cfef2fdf598af8ad411deb",
+      "author_login": "zhongzc",
+      "authored_at": "2020-02-21T16:08:20Z",
+      "message": "fix dead code in KvStore::open()"
+    },
+    {
+      "sha": "9d9d8004772945b06a467ee7a776d715508bd1d0",
+      "author_login": "sticnarf",
+      "authored_at": "2020-02-21T11:31:52Z",
+      "message": "Merge pull request #325 from Rustin-Liu/rustin-patch-project3"
+    },
+    {
+      "sha": "53c6ed926b3cec6d5b5253fa78987f13074aecae",
+      "author_login": "0xPoe",
+      "authored_at": "2020-02-21T11:12:34Z",
+      "message": "rust(project-3): rename to ADDRESS_FORMAT"
+    },
+    {
+      "sha": "24079f42129d861e7c43b41d40a276418e023d3c",
+      "author_login": "0xPoe",
+      "authored_at": "2020-02-21T10:25:29Z",
+      "message": "rust(project-3): refactor some code"
+    },
+    {
+      "sha": "04f3aee87a7f720aa1745205a0c1acf70513ddf7",
+      "author_login": "rleungx",
+      "authored_at": "2020-02-19T13:17:54Z",
+      "message": "Merge pull request #322 from bojan88/broken_link"
+    },
+    {
+      "sha": "bd80437d7ce2d3ce6dd6a6eca41d3062d014646e",
+      "author_login": "bojan88",
+      "authored_at": "2020-02-13T01:18:30Z",
+      "message": "TiKV deep dive introduction broken link fix"
+    },
+    {
+      "sha": "34d82bf99699746154784b55e36bb870c4e7ecac",
+      "author_login": "sticnarf",
+      "authored_at": "2020-02-04T14:05:29Z",
+      "message": "Merge pull request #318 from PsiACE/fix-clippy"
+    },
+    {
+      "sha": "592127bc04c7b8195d950c9714461f1a56d491ca",
+      "author_login": "sticnarf",
+      "authored_at": "2020-02-04T14:04:44Z",
+      "message": "Merge pull request #319 from Rustin-Liu/rustin-patch-project"
+    },
+    {
+      "sha": "55ea33612112530aec86bd42820eba14281329da",
+      "author_login": "0xPoe",
+      "authored_at": "2020-02-04T13:48:11Z",
+      "message": "rust: refine README.md link path"
+    },
+    {
+      "sha": "733d38a90cfe76ebcd305fd875e7b40f0e772d19",
+      "author_login": "0xPoe",
+      "authored_at": "2020-02-04T13:27:49Z",
+      "message": "rust: rename project.md to README.md"
+    },
+    {
+      "sha": "305a5fab4a7d05c2f7880d34c8a0cffa4bbf5753",
+      "author_login": "PsiACE",
+      "authored_at": "2020-02-03T03:42:22Z",
+      "message": "Fix clippy lints."
+    },
+    {
+      "sha": "395d9641f0cfa524db678e9216b6cff0feeed34c",
+      "author_login": "sticnarf",
+      "authored_at": "2020-01-14T03:17:50Z",
+      "message": "Merge pull request #313 from Rustin-Liu/rustin-patch-project2"
+    },
+    {
+      "sha": "9eb77297c2778b09c67a1783b4fcfaf276fd9f61",
+      "author_login": "0xPoe",
+      "authored_at": "2020-01-12T09:59:51Z",
+      "message": "project-2: revert test fn name"
+    },
+    {
+      "sha": "6ec9577d6ecbc83e057f02a8b932b498289ab99b",
+      "author_login": "0xPoe",
+      "authored_at": "2020-01-05T05:29:52Z",
+      "message": "project-2: add the period to the error comment"
+    },
+    {
+      "sha": "49451b55c871b79e49b6e909cf7e54dd7fe45c81",
+      "author_login": "brson",
+      "authored_at": "2019-12-23T08:04:22Z",
+      "message": "Merge pull request #291 from Hoverbear/project-2-kvstore-open"
+    },
+    {
+      "sha": "5a06202a0d21bcc3c730bd0a4994f16917740c23",
+      "author_login": "brson",
+      "authored_at": "2019-12-23T08:03:30Z",
+      "message": "Merge pull request #295 from Hoverbear/threadpoolmessage-fix"
+    },
+    {
+      "sha": "a310f3eaa7b6cf6f7bc2f6002e984755d84c1a81",
+      "author_login": "brson",
+      "authored_at": "2019-12-23T08:03:04Z",
+      "message": "Merge branch 'master' into threadpoolmessage-fix"
+    },
+    {
+      "sha": "dbd711344ff455f2d7942a494a0b97d0a6a6943c",
+      "author_login": "sticnarf",
+      "authored_at": "2019-11-19T02:14:18Z",
+      "message": "Merge pull request #301 from HunDunDM/master"
+    },
+    {
+      "sha": "933efde65f8c55c1fcd15d29653cef819732ecd7",
+      "author_login": "HunDunDM",
+      "authored_at": "2019-11-18T17:29:29Z",
+      "message": "revert: Get the correct pos value when BufWriterWithPos::new."
+    },
+    {
+      "sha": "b05bb2a4a4c0674f5d45c2a5d10dfc9795b7fc6f",
+      "author_login": "sticnarf",
+      "authored_at": "2019-11-15T08:26:10Z",
+      "message": "Merge pull request #300 from maxcountryman/patch-7"
+    },
+    {
+      "sha": "90661fbce52722418dd5f747079a457c38a4f233",
+      "author_login": "sticnarf",
+      "authored_at": "2019-11-15T08:23:49Z",
+      "message": "Merge pull request #302 from maxcountryman/patch-8"
+    },
+    {
+      "sha": "979108fb3e0ac61edd9dad3883fbc8680ea967ff",
+      "author_login": "sticnarf",
+      "authored_at": "2019-11-15T08:23:07Z",
+      "message": "Merge pull request #305 from ICEYSELF/patch-1"
+    },
+    {
+      "sha": "b358900e2fbbabfd70e169941c45bf0d4fd81ac3",
+      "author_login": "brson",
+      "authored_at": "2019-11-09T14:23:45Z",
+      "message": "Merge pull request #304 from jonathanbeber/fix-slack-invite-link"
+    },
+    {
+      "sha": "2c07090331daecce81521902311033ff0c85e696",
+      "author_login": "chuigda",
+      "authored_at": "2019-10-29T02:18:13Z",
+      "message": "Fix a small typo it's -> its"
+    },
+    {
+      "sha": "4db18a70fcf3b956c5511f4efd3aeac8eb0d15f6",
+      "author_login": "jonathanbeber",
+      "authored_at": "2019-10-16T09:47:47Z",
+      "message": "Update slack invite link"
+    },
+    {
+      "sha": "2f126370a682f6e9d7b4a9856278c73737b69910",
+      "author_login": "rleungx",
+      "authored_at": "2019-10-15T02:37:18Z",
+      "message": "Merge pull request #303 from maxcountryman/patch-9"
+    },
+    {
+      "sha": "1883a52d6ae151aafda293596c3a7c0fb54e465a",
+      "author_login": "maxcountryman",
+      "authored_at": "2019-10-13T02:14:58Z",
+      "message": "fix typo"
+    },
+    {
+      "sha": "71cad7afb9b40da2eb309c9d07cc5fd95856928d",
+      "author_login": "maxcountryman",
+      "authored_at": "2019-10-12T17:45:31Z",
+      "message": "fix typo"
+    }
+  ],
+  "issues": [
+    {
+      "number": 471,
+      "title": "PNA Rust, Building Blocks 1 - External exercise reference is incompatible with latest Clap version",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-03T21:11:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 470,
+      "title": "courses/dss: fixed compilation errors and clippy warnings",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-03-29T14:03:10Z",
+      "closed_at": "2026-07-11T17:59:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 469,
+      "title": "Rust: project 3 `trait KvsEngine`'s `fn remove`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-06T11:03:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 468,
+      "title": "Jchen/raft lab2a leader election",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-12-16T00:16:56Z",
+      "closed_at": "2024-12-16T00:17:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 467,
+      "title": "Fixing the clippy",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-12-12T17:23:47Z",
+      "closed_at": "2024-12-16T00:24:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 466,
+      "title": "Anyone maintaining this project?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-16T14:14:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 465,
+      "title": "Update Cargo.toml",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-10-14T03:38:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 464,
+      "title": "project2,thiserror and anyhow are more popular and useful now compared with failure",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-26T12:14:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 463,
+      "title": "Art",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-08T03:29:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 462,
+      "title": "Project4: KvStore set method directly write key value to the file",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-24T07:06:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 461,
+      "title": "Rust project 4: multithreading bug during KVStore compaction",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-21T15:20:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 460,
+      "title": "Mine",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-18T11:33:20Z",
+      "closed_at": "2023-09-18T11:33:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 459,
+      "title": "courses/dss: fix clippy warning when running 'make test_others'",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-07-03T21:47:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 458,
+      "title": "Project 3: Sled db reopen could fail on `could not acquire lock on ....` on Linux",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-06-04T14:48:02Z",
+      "closed_at": "2026-04-05T17:48:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 457,
+      "title": "Update tp102-how-to-use-git-github.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-02-26T08:31:48Z",
+      "closed_at": "2023-02-26T08:56:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 456,
+      "title": "(WIP) raft with rust",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-01-26T16:44:49Z",
+      "closed_at": "2023-01-26T16:45:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 455,
+      "title": "rust project-3 tests/cli.rs: revise mistyped \"get\", ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-01-26T08:34:47Z",
+      "closed_at": "2024-03-14T10:01:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 454,
+      "title": "Bump bumpalo from 3.6.0 to 3.12.0 in /courses/rust/projects/project-4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-20T22:57:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 453,
+      "title": "Bump bumpalo from 3.6.0 to 3.12.0 in /courses/rust/projects/project-3",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-20T22:57:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 452,
+      "title": "Bump bumpalo from 3.2.1 to 3.12.0 in /courses/dss",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-20T22:29:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 451,
+      "title": "courses/tp102: Update outdated links for github learning material",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-09T16:28:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 450,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-11-20T14:31:15Z",
+      "closed_at": "2024-04-15T14:56:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 449,
+      "title": "Added TalentPlan Github course for suggestion",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-09-29T01:53:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 448,
+      "title": "Fix typo in project 1 instruction",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-08-29T17:50:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 447,
+      "title": "dss : fix clippy error ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-07-14T03:20:14Z",
+      "closed_at": "2022-07-15T06:31:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 446,
+      "title": "Dss: clippy error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-07-14T03:13:10Z",
+      "closed_at": "2022-07-15T06:31:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 435,
+      "title": "[Update] bump up version of rustc and dependencies in PNA Rust",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-24T10:50:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 434,
+      "title": "doc/tutorials in PNA Rust are out of date ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-24T10:16:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 433,
+      "title": "Bump thread_local from 1.0.1 to 1.1.4 in /courses/dss",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-17T01:37:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 432,
+      "title": "Bump thread_local from 1.1.2 to 1.1.4 in /courses/rust/projects/project-3",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-17T01:36:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 431,
+      "title": "Bump thread_local from 1.1.3 to 1.1.4 in /courses/rust/projects/project-4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-17T01:35:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 430,
+      "title": "Bump futures-task from 0.3.4 to 0.3.21 in /courses/dss",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-17T01:04:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 429,
+      "title": "Bump futures-util from 0.3.4 to 0.3.21 in /courses/dss",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-17T00:57:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 428,
+      "title": "Bump crossbeam-queue from 0.2.1 to 0.2.3 in /courses/dss",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-17T00:37:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 427,
+      "title": "dss: fix kvraft tests",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-15T23:03:10Z",
+      "closed_at": "2022-06-24T22:05:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 426,
+      "title": "DSS: There is something strange about the tests in kvraft (lab3).",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-15T22:40:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 425,
+      "title": "Bump miow from 0.2.1 to 0.2.2 in /courses/rust/projects/project-5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-08T21:01:17Z",
+      "closed_at": "2022-06-09T06:19:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 424,
+      "title": "Bump regex from 1.1.7 to 1.5.6 in /courses/rust/projects/project-2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-06T21:31:56Z",
+      "closed_at": "2022-06-09T06:19:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 423,
+      "title": "Bump regex from 1.1.7 to 1.5.6 in /courses/rust/projects/project-1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-06T21:27:10Z",
+      "closed_at": "2022-06-09T06:19:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 422,
+      "title": "Bump smallvec from 0.6.10 to 0.6.14 in /courses/rust/projects/project-5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-06T19:53:36Z",
+      "closed_at": "2022-06-09T06:06:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 421,
+      "title": "Bump smallvec from 0.6.10 to 0.6.14 in /courses/rust/projects/project-4",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-06T19:52:17Z",
+      "closed_at": "2022-06-09T05:57:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 420,
+      "title": "Bump tokio from 0.1.21 to 1.8.4 in /courses/rust/projects/project-5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-06T19:50:23Z",
+      "closed_at": "2022-06-09T05:45:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 419,
+      "title": "Bump crossbeam-utils from 0.8.1 to 0.8.8 in /courses/rust/projects/project-3",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-06T19:07:31Z",
+      "closed_at": "2022-06-09T05:08:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 418,
+      "title": "Bump crossbeam-deque from 0.7.3 to 0.7.4 in /courses/dss",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-06T18:35:00Z",
+      "closed_at": "2022-06-09T04:03:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 417,
+      "title": "Bump crossbeam-deque from 0.7.1 to 0.7.4 in /courses/rust/projects/project-4",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-06T18:25:54Z",
+      "closed_at": "2022-06-09T03:55:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 416,
+      "title": "Bump crossbeam-deque from 0.8.0 to 0.8.1 in /courses/rust/projects/project-3",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-06T18:24:24Z",
+      "closed_at": "2022-06-09T03:43:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 415,
+      "title": "docs: update link about `Talent Plan Site`",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-05-07T13:42:42Z",
+      "closed_at": "2022-06-06T10:23:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 414,
+      "title": "fix clippy error",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-05-07T03:03:25Z",
+      "closed_at": "2022-06-06T10:40:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 413,
+      "title": "Dss: clippy error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-07T03:02:05Z",
+      "closed_at": "2022-06-06T10:40:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 412,
+      "title": "courses/rust/projects/project-1: Add note about clap 3.x",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-04-23T04:13:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 411,
+      "title": "rust project-5: SharedQueueThreadPool doesn't exit when pool destroyed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-04-21T23:36:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 410,
+      "title": "README.md: fix the link error",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-30T12:45:52Z",
+      "closed_at": "2022-04-06T09:30:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 409,
+      "title": "courses/dss: fix clippy",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-07T02:51:42Z",
+      "closed_at": "2024-05-14T03:57:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 408,
+      "title": "dss: Failed to run \"make test_others\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-15T14:36:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 407,
+      "title": "courses/rust/projects/project-4: fix inconsistencies in description and code",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-10T14:46:45Z",
+      "closed_at": "2024-05-14T03:58:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 406,
+      "title": "courses/rust/projects/project-4/README.md Updates signature of Threadpool::new",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-01-06T15:49:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 405,
+      "title": "Xrz",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-12-28T03:02:24Z",
+      "closed_at": "2021-12-28T03:02:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 404,
+      "title": "Update selected-projects.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-11-05T08:29:45Z",
+      "closed_at": "2021-11-08T08:11:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 403,
+      "title": "Fixed \"prost\" compilation issues",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-09T10:12:12Z",
+      "closed_at": "2022-01-28T17:01:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 402,
+      "title": "Add one TCP issue 4095",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-08T11:05:15Z",
+      "closed_at": "2021-09-08T11:18:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 401,
+      "title": "add 18745 and change an mentor",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-01T07:57:34Z",
+      "closed_at": "2021-09-01T08:04:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 400,
+      "title": "update for TCP2021 Sept open",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-31T13:57:41Z",
+      "closed_at": "2021-08-31T14:05:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 399,
+      "title": "TinySQL suggestions on document writing",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-22T07:32:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 398,
+      "title": "Update tp103-open-source-community.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-20T02:44:19Z",
+      "closed_at": "2021-07-28T08:52:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 397,
+      "title": "dss: add Raft Lab 2D code",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-22T06:41:51Z",
+      "closed_at": "2021-10-26T12:51:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 396,
+      "title": "Update Readme.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-17T07:49:08Z",
+      "closed_at": "2021-06-17T10:28:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 395,
+      "title": "Add TinySQL project",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-17T06:09:54Z",
+      "closed_at": "2021-07-12T04:02:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 394,
+      "title": "fix bug (courses/dss):  remove duplicate clippy setting. remove unnecessary nested match. update Op enum field names contain a capitalized acronym.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-15T10:38:58Z",
+      "closed_at": "2021-08-26T02:00:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 393,
+      "title": " courses/rust/projects/project-[3]: update README to reflect changes to Dev Dependencies ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-13T09:56:37Z",
+      "closed_at": "2021-08-26T02:02:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 392,
+      "title": "Update schedule.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-10T09:39:01Z",
+      "closed_at": "2021-06-11T02:43:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 391,
+      "title": "Add TinySQL project",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-10T03:31:43Z",
+      "closed_at": "2021-06-10T03:44:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 390,
+      "title": "Update selected-projects.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-09T10:53:43Z",
+      "closed_at": "2021-06-10T03:27:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 389,
+      "title": "Create directory for Talent Challenge Program 2021",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-08T05:21:27Z",
+      "closed_at": "2021-06-09T06:20:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 388,
+      "title": "fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-17T13:28:08Z",
+      "closed_at": "2021-07-12T03:59:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 387,
+      "title": "fix bug (courses/dss): remove unnecessary nested match from clippy",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-28T02:47:27Z",
+      "closed_at": "2021-08-26T02:02:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 386,
+      "title": "Using 'unwrap()' instead of 'expect(\"msg\")'",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-21T20:53:25Z",
+      "closed_at": "2021-04-08T19:27:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 385,
+      "title": "TP 201: Project 3 CLI Requirement",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-25T21:16:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 384,
+      "title": "courses/rust/projects/project-[3-4]: fix errors due to crate compatibility",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-30T13:40:08Z",
+      "closed_at": "2021-02-06T13:36:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 383,
+      "title": "TP201 Project3: write benchmark comparison between kvs and sled",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-08T16:14:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 382,
+      "title": "courses/dss/raft: fix wrong Duration used in RPC Delay",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-30T16:25:51Z",
+      "closed_at": "2021-02-03T07:01:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 381,
+      "title": "update tp102-how-to-use-git-github.md",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-27T12:30:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 380,
+      "title": "Updated the substring expected when checking for unimplemented.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-27T08:27:54Z",
+      "closed_at": "2021-02-03T09:20:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 379,
+      "title": "Update tp102-how-to-use-git-github.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-27T04:26:58Z",
+      "closed_at": "2020-12-27T12:27:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 378,
+      "title": "courses/dss/raft: adjust code to pass the new version clippy",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-13T05:30:03Z",
+      "closed_at": "2021-02-03T06:56:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 377,
+      "title": "talent-plan/courses/rust/project[2-3]: fix the wrong compaction test",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-06T13:20:06Z",
+      "closed_at": "2021-01-18T14:47:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 376,
+      "title": "fix(courses/rust/project-2): BufWriterWithPos seek end of file",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-11-11T10:35:09Z",
+      "closed_at": "2025-11-10T08:53:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 375,
+      "title": "use and import cli.yml file to finish project-1 failed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-06T07:58:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 374,
+      "title": "Chinese Translation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-08T02:17:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 373,
+      "title": "Delete possibly unneeded file: .DS_Store",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-08-14T16:24:18Z",
+      "closed_at": "2021-02-03T07:01:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 372,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-08-05T03:47:00Z",
+      "closed_at": "2021-12-21T08:37:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 371,
+      "title": "Proposed changes to README.md",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-03T07:35:24Z",
+      "closed_at": "2021-12-21T08:37:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 370,
+      "title": "Remove useless meta info of Mac system",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-16T11:05:52Z",
+      "closed_at": "2021-02-24T17:09:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 369,
+      "title": "update mentee of project Support Global Index for Partition Table",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-07-15T16:25:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 368,
+      "title": "update mentee of project Defining Placement Rules in SQL",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-09T16:22:48Z",
+      "closed_at": "2020-07-10T03:33:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 367,
+      "title": "update mentee of project TiCDC Snapshot Level Consistency Replication",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-09T08:05:41Z",
+      "closed_at": "2020-07-10T03:33:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 366,
+      "title": "tcp: bowen mentee info",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-09T06:32:19Z",
+      "closed_at": "2020-07-10T03:34:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 365,
+      "title": "update mentee of project Reduce memory consumption of stats data",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-08T09:07:29Z",
+      "closed_at": "2020-07-09T06:18:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 364,
+      "title": "update mentee of project TiCDC Supports Avro Sink and Kafka Connector",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-08T08:49:54Z",
+      "closed_at": "2020-07-09T06:18:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 363,
+      "title": "add mentee for project support utf8_unicode_ci/utf8mb4_unicode_ci",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-08T07:56:59Z",
+      "closed_at": "2020-07-09T06:17:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 362,
+      "title": "Update \"SQL Statement Level Statistics\" to hard",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-23T16:41:12Z",
+      "closed_at": "2020-07-10T03:35:41Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "brson",
+      "contributions": 203
+    },
+    {
+      "login": "sticnarf",
+      "contributions": 92
+    },
+    {
+      "login": "overvenus",
+      "contributions": 65
+    },
+    {
+      "login": "rleungx",
+      "contributions": 11
+    },
+    {
+      "login": "dependabot[bot]",
+      "contributions": 9
+    },
+    {
+      "login": "maxcountryman",
+      "contributions": 8
+    },
+    {
+      "login": "nolouch",
+      "contributions": 8
+    },
+    {
+      "login": "Soline324",
+      "contributions": 8
+    },
+    {
+      "login": "0xPoe",
+      "contributions": 8
+    },
+    {
+      "login": "HunDunDM",
+      "contributions": 6
+    },
+    {
+      "login": "ngaut",
+      "contributions": 6
+    },
+    {
+      "login": "alivxxx",
+      "contributions": 6
+    },
+    {
+      "login": "Hoverbear",
+      "contributions": 6
+    },
+    {
+      "login": "Connor1996",
+      "contributions": 5
+    },
+    {
+      "login": "mxinden",
+      "contributions": 5
+    },
+    {
+      "login": "b41sh",
+      "contributions": 5
+    },
+    {
+      "login": "yanguwan",
+      "contributions": 5
+    },
+    {
+      "login": "zz-jason",
+      "contributions": 4
+    },
+    {
+      "login": "qw4990",
+      "contributions": 4
+    },
+    {
+      "login": "wjhuang2016",
+      "contributions": 3
+    },
+    {
+      "login": "loxp",
+      "contributions": 3
+    },
+    {
+      "login": "printfinn",
+      "contributions": 3
+    },
+    {
+      "login": "FuShixiong",
+      "contributions": 3
+    },
+    {
+      "login": "connec",
+      "contributions": 3
+    },
+    {
+      "login": "aknuds1",
+      "contributions": 3
+    },
+    {
+      "login": "benpigchu",
+      "contributions": 3
+    },
+    {
+      "login": "toidiu",
+      "contributions": 2
+    },
+    {
+      "login": "qinggniq",
+      "contributions": 2
+    },
+    {
+      "login": "tangwz",
+      "contributions": 2
+    },
+    {
+      "login": "koushiro",
+      "contributions": 2
+    },
+    {
+      "login": "jonathanbeber",
+      "contributions": 2
+    },
+    {
+      "login": "fangherk",
+      "contributions": 2
+    },
+    {
+      "login": "ddlutz",
+      "contributions": 2
+    },
+    {
+      "login": "littlesmilelove",
+      "contributions": 1
+    },
+    {
+      "login": "likzn",
+      "contributions": 1
+    },
+    {
+      "login": "kathy-baixue",
+      "contributions": 1
+    },
+    {
+      "login": "imtsuki",
+      "contributions": 1
+    },
+    {
+      "login": "chuigda",
+      "contributions": 1
+    },
+    {
+      "login": "saivanji",
+      "contributions": 1
+    },
+    {
+      "login": "ziyi-yan",
+      "contributions": 1
+    },
+    {
+      "login": "zeling",
+      "contributions": 1
+    },
+    {
+      "login": "stamp711",
+      "contributions": 1
+    },
+    {
+      "login": "impluse007",
+      "contributions": 1
+    },
+    {
+      "login": "breezewish",
+      "contributions": 1
+    },
+    {
+      "login": "taiki-e",
+      "contributions": 1
+    },
+    {
+      "login": "harshasrisri",
+      "contributions": 1
+    },
+    {
+      "login": "ShaneM123",
+      "contributions": 1
+    },
+    {
+      "login": "Mitisky",
+      "contributions": 1
+    },
+    {
+      "login": "fser",
+      "contributions": 1
+    },
+    {
+      "login": "liyiheng",
+      "contributions": 1
+    },
+    {
+      "login": "yangwenmai",
+      "contributions": 1
+    },
+    {
+      "login": "miamia0",
+      "contributions": 1
+    },
+    {
+      "login": "rebelice",
+      "contributions": 1
+    },
+    {
+      "login": "ruhuang2001",
+      "contributions": 1
+    },
+    {
+      "login": "siddontang",
+      "contributions": 1
+    },
+    {
+      "login": "a9QrX3Lu",
+      "contributions": 1
+    },
+    {
+      "login": "xhebox",
+      "contributions": 1
+    },
+    {
+      "login": "xiongjiwei",
+      "contributions": 1
+    },
+    {
+      "login": "YangchenYe323",
+      "contributions": 1
+    },
+    {
+      "login": "younesmln",
+      "contributions": 1
+    },
+    {
+      "login": "zhongzc",
+      "contributions": 1
+    },
+    {
+      "login": "YuJuncen",
+      "contributions": 1
+    },
+    {
+      "login": "TennyZhuang",
+      "contributions": 1
+    },
+    {
+      "login": "BowenXiao1999",
+      "contributions": 1
+    },
+    {
+      "login": "alejandrosocorro",
+      "contributions": 1
+    },
+    {
+      "login": "bojan88",
+      "contributions": 1
+    },
+    {
+      "login": "cwen0",
+      "contributions": 1
+    },
+    {
+      "login": "ccbrucer",
+      "contributions": 1
+    },
+    {
+      "login": "czccc",
+      "contributions": 1
+    },
+    {
+      "login": "PsiACE",
+      "contributions": 1
+    },
+    {
+      "login": "Colins110",
+      "contributions": 1
+    },
+    {
+      "login": "cloudify",
+      "contributions": 1
+    },
+    {
+      "login": "liufuyang",
+      "contributions": 1
+    },
+    {
+      "login": "XuHuaiyu",
+      "contributions": 1
+    },
+    {
+      "login": "aijingyc",
+      "contributions": 1
+    },
+    {
+      "login": "JmPotato",
+      "contributions": 1
+    },
+    {
+      "login": "StrayLittlePunk",
+      "contributions": 1
+    },
+    {
+      "login": "kamilogorek",
+      "contributions": 1
+    },
+    {
+      "login": "Librazy",
+      "contributions": 1
+    },
+    {
+      "login": "markjansnl",
+      "contributions": 1
+    },
+    {
+      "login": "mfrw",
+      "contributions": 1
+    },
+    {
+      "login": "waruto210",
+      "contributions": 1
+    },
+    {
+      "login": "NingLin-P",
+      "contributions": 1
+    },
+    {
+      "login": "Novemser",
+      "contributions": 1
+    },
+    {
+      "login": "MnO2",
+      "contributions": 1
+    },
+    {
+      "login": "at15",
+      "contributions": 1
+    },
+    {
+      "login": "OneSizeFitsQuorum",
+      "contributions": 1
+    },
+    {
+      "login": "rethab",
+      "contributions": 1
+    },
+    {
+      "login": "Riptide3",
+      "contributions": 1
+    },
+    {
+      "login": "ryanpbrewster",
+      "contributions": 1
+    },
+    {
+      "login": "xiaoronglv",
+      "contributions": 1
+    },
+    {
+      "login": "The-rambunctious-S",
+      "contributions": 1
+    },
+    {
+      "login": "esposm03",
+      "contributions": 1
+    },
+    {
+      "login": "satyarohith",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-09-28T12:36:13.432422Z"
+}

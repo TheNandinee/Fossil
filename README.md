@@ -4,8 +4,8 @@
 
 No opinions. No AI guessing. Every conclusion traces back to a number.
 
-![autopsies](https://img.shields.io/badge/autopsies-73-blue)
-![updated](https://img.shields.io/badge/updated-2026_09_21-green)
+![autopsies](https://img.shields.io/badge/autopsies-76-blue)
+![updated](https://img.shields.io/badge/updated-2026_09_28-green)
 [![Weekly Excavation](https://github.com/TheNandinee/Fossil/actions/workflows/weekly.yml/badge.svg)](https://github.com/TheNandinee/Fossil/actions/workflows/weekly.yml)
 
 ## 🔬 How it works
@@ -94,50 +94,53 @@ Bug fixes, new excavation strategies, provider integrations, performance improve
 | 35 | [chenglou/react-motion](reports/repositories/chenglou__react-motion.md) | `maintainer_abandonment` | 0.89 |
 | 36 | [chiraggude/awesome-laravel](reports/repositories/chiraggude__awesome-laravel.md) | `maintainer_abandonment` | 0.89 |
 | 37 | [nvbn/thefuck](reports/repositories/nvbn__thefuck.md) | `maintainer_abandonment` | 0.89 |
-| 38 | [microsoft/Bringing-Old-Photos-Back-to-Life](reports/repositories/microsoft__Bringing-Old-Photos-Back-to-Life.md) | `maintainer_abandonment` | 0.87 |
-| 39 | [eligrey/FileSaver.js](reports/repositories/eligrey__FileSaver.js.md) | `maintainer_abandonment` | 0.87 |
-| 40 | [PanJiaChen/vue-element-admin](reports/repositories/PanJiaChen__vue-element-admin.md) | `maintainer_abandonment` | 0.87 |
-| 41 | [CoderMJLee/MJExtension](reports/repositories/CoderMJLee__MJExtension.md) | `maintainer_abandonment` | 0.86 |
-| 42 | [acdlite/react-fiber-architecture](reports/repositories/acdlite__react-fiber-architecture.md) | `maintainer_abandonment` | 0.86 |
-| 43 | [bendc/frontend-guidelines](reports/repositories/bendc__frontend-guidelines.md) | `maintainer_abandonment` | 0.86 |
-| 44 | [necolas/normalize.css](reports/repositories/necolas__normalize.css.md) | `maintainer_abandonment` | 0.85 |
-| 45 | [CodeByZach/pace](reports/repositories/CodeByZach__pace.md) | `maintainer_abandonment` | 0.85 |
-| 46 | [prakhar1989/awesome-courses](reports/repositories/prakhar1989__awesome-courses.md) | `maintainer_abandonment` | 0.85 |
-| 47 | [pytube/pytube](reports/repositories/pytube__pytube.md) | `maintainer_abandonment` | 0.85 |
-| 48 | [StartBootstrap/startbootstrap-sb-admin-2](reports/repositories/StartBootstrap__startbootstrap-sb-admin-2.md) | `maintainer_abandonment` | 0.84 |
-| 49 | [ryanmcdermott/clean-code-javascript](reports/repositories/ryanmcdermott__clean-code-javascript.md) | `maintainer_abandonment` | 0.84 |
-| 50 | [nostalgic-css/NES.css](reports/repositories/nostalgic-css__NES.css.md) | `maintainer_abandonment` | 0.83 |
-| 51 | [tiimgreen/github-cheat-sheet](reports/repositories/tiimgreen__github-cheat-sheet.md) | `maintainer_abandonment` | 0.82 |
-| 52 | [evilstreak/markdown-js](reports/repositories/evilstreak__markdown-js.md) | `maintainer_abandonment` | 0.82 |
-| 53 | [tmux-plugins/tmux-resurrect](reports/repositories/tmux-plugins__tmux-resurrect.md) | `maintainer_abandonment` | 0.82 |
-| 54 | [TypeStrong/ts-node](reports/repositories/TypeStrong__ts-node.md) | `maintainer_abandonment` | 0.82 |
-| 55 | [seemoo-lab/openhaystack](reports/repositories/seemoo-lab__openhaystack.md) | `maintainer_abandonment` | 0.81 |
-| 56 | [jlevy/the-art-of-command-line](reports/repositories/jlevy__the-art-of-command-line.md) | `maintainer_abandonment` | 0.81 |
-| 57 | [animate-css/animate.css](reports/repositories/animate-css__animate.css.md) | `maintainer_abandonment` | 0.80 |
-| 58 | [scutan90/DeepLearning-500-questions](reports/repositories/scutan90__DeepLearning-500-questions.md) | `maintainer_abandonment` | 0.80 |
-| 59 | [Tencent/secguide](reports/repositories/Tencent__secguide.md) | `maintainer_abandonment` | 0.79 |
-| 60 | [getumbrel/llama-gpt](reports/repositories/getumbrel__llama-gpt.md) | `maintainer_abandonment` | 0.78 |
-| 61 | [visionmedia/page.js](reports/repositories/visionmedia__page.js.md) | `maintainer_abandonment` | 0.77 |
-| 62 | [alexanderepstein/Bash-Snippets](reports/repositories/alexanderepstein__Bash-Snippets.md) | `maintainer_abandonment` | 0.77 |
-| 63 | [CompVis/stable-diffusion](reports/repositories/CompVis__stable-diffusion.md) | `maintainer_abandonment` | 0.76 |
-| 64 | [rt2zz/redux-persist](reports/repositories/rt2zz__redux-persist.md) | `maintainer_abandonment` | 0.76 |
-| 65 | [open-mmlab/mmsegmentation](reports/repositories/open-mmlab__mmsegmentation.md) | `maintainer_abandonment` | 0.75 |
-| 66 | [travis-ci/travis-ci](reports/repositories/travis-ci__travis-ci.md) | `maintainer_abandonment` | 0.74 |
-| 67 | [resume/resume.github.com](reports/repositories/resume__resume.github.com.md) | `maintainer_abandonment` | 0.72 |
-| 68 | [jamiebuilds/itsy-bitsy-data-structures](reports/repositories/jamiebuilds__itsy-bitsy-data-structures.md) | `maintainer_abandonment` | 0.72 |
-| 69 | [react/create-react-app](reports/repositories/react__create-react-app.md) | `maintainer_abandonment` | 0.64 |
-| 70 | [Rudrabha/Wav2Lip](reports/repositories/Rudrabha__Wav2Lip.md) | `dormant` | 0.52 |
-| 71 | [ByteByteGoHq/system-design-101](reports/repositories/ByteByteGoHq__system-design-101.md) | `dormant` | 0.51 |
-| 72 | [deepseek-ai/DeepSeek-R1](reports/repositories/deepseek-ai__DeepSeek-R1.md) | `dormant` | 0.45 |
-| 73 | [anthropics/courses](reports/repositories/anthropics__courses.md) | `dormant` | 0.36 |
+| 38 | [jfeinstein10/SlidingMenu](reports/repositories/jfeinstein10__SlidingMenu.md) | `maintainer_abandonment` | 0.87 |
+| 39 | [microsoft/Bringing-Old-Photos-Back-to-Life](reports/repositories/microsoft__Bringing-Old-Photos-Back-to-Life.md) | `maintainer_abandonment` | 0.87 |
+| 40 | [eligrey/FileSaver.js](reports/repositories/eligrey__FileSaver.js.md) | `maintainer_abandonment` | 0.87 |
+| 41 | [PanJiaChen/vue-element-admin](reports/repositories/PanJiaChen__vue-element-admin.md) | `maintainer_abandonment` | 0.87 |
+| 42 | [CoderMJLee/MJExtension](reports/repositories/CoderMJLee__MJExtension.md) | `maintainer_abandonment` | 0.86 |
+| 43 | [acdlite/react-fiber-architecture](reports/repositories/acdlite__react-fiber-architecture.md) | `maintainer_abandonment` | 0.86 |
+| 44 | [bendc/frontend-guidelines](reports/repositories/bendc__frontend-guidelines.md) | `maintainer_abandonment` | 0.86 |
+| 45 | [necolas/normalize.css](reports/repositories/necolas__normalize.css.md) | `maintainer_abandonment` | 0.85 |
+| 46 | [CodeByZach/pace](reports/repositories/CodeByZach__pace.md) | `maintainer_abandonment` | 0.85 |
+| 47 | [prakhar1989/awesome-courses](reports/repositories/prakhar1989__awesome-courses.md) | `maintainer_abandonment` | 0.85 |
+| 48 | [pytube/pytube](reports/repositories/pytube__pytube.md) | `maintainer_abandonment` | 0.85 |
+| 49 | [StartBootstrap/startbootstrap-sb-admin-2](reports/repositories/StartBootstrap__startbootstrap-sb-admin-2.md) | `maintainer_abandonment` | 0.84 |
+| 50 | [ryanmcdermott/clean-code-javascript](reports/repositories/ryanmcdermott__clean-code-javascript.md) | `maintainer_abandonment` | 0.84 |
+| 51 | [nostalgic-css/NES.css](reports/repositories/nostalgic-css__NES.css.md) | `maintainer_abandonment` | 0.83 |
+| 52 | [tiimgreen/github-cheat-sheet](reports/repositories/tiimgreen__github-cheat-sheet.md) | `maintainer_abandonment` | 0.82 |
+| 53 | [evilstreak/markdown-js](reports/repositories/evilstreak__markdown-js.md) | `maintainer_abandonment` | 0.82 |
+| 54 | [tmux-plugins/tmux-resurrect](reports/repositories/tmux-plugins__tmux-resurrect.md) | `maintainer_abandonment` | 0.82 |
+| 55 | [TypeStrong/ts-node](reports/repositories/TypeStrong__ts-node.md) | `maintainer_abandonment` | 0.82 |
+| 56 | [seemoo-lab/openhaystack](reports/repositories/seemoo-lab__openhaystack.md) | `maintainer_abandonment` | 0.81 |
+| 57 | [jlevy/the-art-of-command-line](reports/repositories/jlevy__the-art-of-command-line.md) | `maintainer_abandonment` | 0.81 |
+| 58 | [animate-css/animate.css](reports/repositories/animate-css__animate.css.md) | `maintainer_abandonment` | 0.80 |
+| 59 | [scutan90/DeepLearning-500-questions](reports/repositories/scutan90__DeepLearning-500-questions.md) | `maintainer_abandonment` | 0.80 |
+| 60 | [Tencent/secguide](reports/repositories/Tencent__secguide.md) | `maintainer_abandonment` | 0.79 |
+| 61 | [getumbrel/llama-gpt](reports/repositories/getumbrel__llama-gpt.md) | `maintainer_abandonment` | 0.78 |
+| 62 | [visionmedia/page.js](reports/repositories/visionmedia__page.js.md) | `maintainer_abandonment` | 0.77 |
+| 63 | [pingcap/talent-plan](reports/repositories/pingcap__talent-plan.md) | `maintainer_abandonment` | 0.77 |
+| 64 | [alexanderepstein/Bash-Snippets](reports/repositories/alexanderepstein__Bash-Snippets.md) | `maintainer_abandonment` | 0.77 |
+| 65 | [CompVis/stable-diffusion](reports/repositories/CompVis__stable-diffusion.md) | `maintainer_abandonment` | 0.76 |
+| 66 | [rt2zz/redux-persist](reports/repositories/rt2zz__redux-persist.md) | `maintainer_abandonment` | 0.76 |
+| 67 | [open-mmlab/mmsegmentation](reports/repositories/open-mmlab__mmsegmentation.md) | `maintainer_abandonment` | 0.75 |
+| 68 | [travis-ci/travis-ci](reports/repositories/travis-ci__travis-ci.md) | `maintainer_abandonment` | 0.74 |
+| 69 | [bnb/awesome-hyper](reports/repositories/bnb__awesome-hyper.md) | `maintainer_abandonment` | 0.74 |
+| 70 | [resume/resume.github.com](reports/repositories/resume__resume.github.com.md) | `maintainer_abandonment` | 0.72 |
+| 71 | [jamiebuilds/itsy-bitsy-data-structures](reports/repositories/jamiebuilds__itsy-bitsy-data-structures.md) | `maintainer_abandonment` | 0.72 |
+| 72 | [react/create-react-app](reports/repositories/react__create-react-app.md) | `maintainer_abandonment` | 0.64 |
+| 73 | [Rudrabha/Wav2Lip](reports/repositories/Rudrabha__Wav2Lip.md) | `dormant` | 0.52 |
+| 74 | [ByteByteGoHq/system-design-101](reports/repositories/ByteByteGoHq__system-design-101.md) | `dormant` | 0.51 |
+| 75 | [deepseek-ai/DeepSeek-R1](reports/repositories/deepseek-ai__DeepSeek-R1.md) | `dormant` | 0.45 |
+| 76 | [anthropics/courses](reports/repositories/anthropics__courses.md) | `dormant` | 0.36 |
 
 ## ⚰️ Most common causes of death
 
-- `maintainer_abandonment`: 56
+- `maintainer_abandonment`: 59
 - `bus_factor_collapse`: 13
 - `dormant`: 4
 
-**Total projects excavated: 73**
+**Total projects excavated: 76**
 
 
 ## 🤖 Automation

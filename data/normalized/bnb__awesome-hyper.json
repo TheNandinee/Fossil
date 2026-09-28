@@ -1,0 +1,1933 @@
+{
+  "full_name": "bnb/awesome-hyper",
+  "owner": "bnb",
+  "name": "awesome-hyper",
+  "url": "https://github.com/bnb/awesome-hyper",
+  "description": "🖥 Delightful Hyper plugins, themes, and resources",
+  "primary_language": null,
+  "topics": [
+    "awesome",
+    "awesome-list",
+    "hyper",
+    "hyperterm",
+    "terminal",
+    "zeit"
+  ],
+  "license_spdx": "CC0-1.0",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 11009,
+  "forks": 372,
+  "open_issues": 23,
+  "created_at": "2016-07-16T19:42:56Z",
+  "pushed_at": "2022-09-20T08:52:39Z",
+  "updated_at": "2026-09-28T07:22:40Z",
+  "commits": [
+    {
+      "sha": "6b9f209da885e047f4dafa35e21f51655e388d91",
+      "author_login": "darahak",
+      "authored_at": "2021-07-13T13:05:15Z",
+      "message": "Merge pull request #399 from brianzelip/hyper-github-light"
+    },
+    {
+      "sha": "2735d44468681b4ae9d5e80756f6e37efe52a9a2",
+      "author_login": "darahak",
+      "authored_at": "2021-07-13T13:04:44Z",
+      "message": "Merge pull request #398 from brianzelip/master"
+    },
+    {
+      "sha": "a328f7a20301625819220e7f862c32b1d11e1f85",
+      "author_login": "darahak",
+      "authored_at": "2021-07-13T13:01:20Z",
+      "message": "Merge pull request #395 from oOthkOo/master"
+    },
+    {
+      "sha": "0a4a8cb16201be063d2464f4bf2d888fa4c27c6d",
+      "author_login": "brianzelip",
+      "authored_at": "2021-06-09T20:20:28Z",
+      "message": "Add hyper-github-light theme"
+    },
+    {
+      "sha": "7b8590c3edea67eb646f1f145494e705c1a435dc",
+      "author_login": "brianzelip",
+      "authored_at": "2021-06-09T14:57:36Z",
+      "message": "Add hyper-github-dark-dimmed theme"
+    },
+    {
+      "sha": "8a7f95d66f1427327640560db649e5eadf7195ab",
+      "author_login": "oOthkOo",
+      "authored_at": "2021-03-27T03:13:51Z",
+      "message": "Add hyper-manager plugin."
+    },
+    {
+      "sha": "31196cde5e52f1258acaa0834d7c1cb8e66995a9",
+      "author_login": "darahak",
+      "authored_at": "2021-03-10T22:58:32Z",
+      "message": "Merge pull request #394 from joshua-owens/hyper-tender"
+    },
+    {
+      "sha": "f24ce90c2a47b541e4eed1185dfde2188c8a78c5",
+      "author_login": "joshua-owens",
+      "authored_at": "2021-03-10T22:38:21Z",
+      "message": "Fixing list order"
+    },
+    {
+      "sha": "cb30148bafcd837822ebe00dbe2767c6ff30ad55",
+      "author_login": "darahak",
+      "authored_at": "2021-03-05T22:50:23Z",
+      "message": "Merge pull request #393 from jZhangTk/patch-1"
+    },
+    {
+      "sha": "932819b2b769013e45304a441473253edd92b904",
+      "author_login": "joshua-owens",
+      "authored_at": "2021-02-25T02:38:34Z",
+      "message": "Putting hyper-tender in alphabetical order"
+    },
+    {
+      "sha": "dc06b2b8de7d2207c6f4cc69ae8e7db32c8a583a",
+      "author_login": "joshua-owens",
+      "authored_at": "2021-02-25T02:34:54Z",
+      "message": "Adding hyper-tender to list of themes"
+    },
+    {
+      "sha": "268f120309df52824dabe90cff3fcaea381097e1",
+      "author_login": "darahak",
+      "authored_at": "2021-02-05T09:37:54Z",
+      "message": "Merge pull request #391 from swyssauro/master"
+    },
+    {
+      "sha": "c0bdf4563ddfbae239511d0dbcb080827687efda",
+      "author_login": "lealismo",
+      "authored_at": "2021-02-03T22:13:32Z",
+      "message": "🐱‍👤 ALPHABETICAL order."
+    },
+    {
+      "sha": "4597d8df3eee27f2cdc299ff8bb388bc15de44ac",
+      "author_login": "jZhangTk",
+      "authored_at": "2021-02-03T01:36:47Z",
+      "message": "Add hyper-tabs-autohide plugin"
+    },
+    {
+      "sha": "148946bb77d6c2039a5b829b2eb107c48449ddcb",
+      "author_login": "darahak",
+      "authored_at": "2021-01-26T21:39:47Z",
+      "message": "Merge pull request #392 from jpedroschmitz/feat/add-hyper-omni-theme"
+    },
+    {
+      "sha": "cc88d4e37c3adb31f04514d6f1372f56d3070e1f",
+      "author_login": "darahak",
+      "authored_at": "2021-01-26T21:39:05Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3aaa5cf438979b48874f07fcba6ab54c21c531a9",
+      "author_login": "jpedroschmitz",
+      "authored_at": "2021-01-15T11:49:55Z",
+      "message": "Add hyper-omni-theme"
+    },
+    {
+      "sha": "0cc695d1076b3a1de6d569b1627d465fcbf8bb4b",
+      "author_login": "lealismo",
+      "authored_at": "2021-01-12T19:14:15Z",
+      "message": "Add new theme Hyper:"
+    },
+    {
+      "sha": "84409c91d3ddf38cca2581f83ea0524314a41c85",
+      "author_login": "darahak",
+      "authored_at": "2020-11-16T15:01:22Z",
+      "message": "Merge pull request #389 from SpeksForks/master"
+    },
+    {
+      "sha": "68f7971a6d1044a7ecbd085ec7ace1cf33c7ce64",
+      "author_login": "spekulatius",
+      "authored_at": "2020-11-16T09:07:44Z",
+      "message": "Fixing broken badge"
+    },
+    {
+      "sha": "51717b90120199f296bf4a744859e3acd7130c3f",
+      "author_login": "darahak",
+      "authored_at": "2020-06-18T13:05:51Z",
+      "message": "Merge pull request #385 from marco-ramirez/master"
+    },
+    {
+      "sha": "93cffcf4fd5bab891ddfc1e21643840514faafab",
+      "author_login": "marco-ramirez",
+      "authored_at": "2020-06-08T23:44:56Z",
+      "message": "add hyper-dnd-tabs plugin"
+    },
+    {
+      "sha": "babc6c693f55b58e6e75e31d4d3b2247aceace01",
+      "author_login": "darahak",
+      "authored_at": "2020-05-14T19:48:02Z",
+      "message": "Merge pull request #380 from mvllow/patch-1"
+    },
+    {
+      "sha": "ee752264f71ae093eb3fc8f787639f304534bc7b",
+      "author_login": "darahak",
+      "authored_at": "2020-05-14T19:47:16Z",
+      "message": "Merge pull request #378 from EliverLara/hyper-sweet"
+    },
+    {
+      "sha": "303fa4bd454717f2d89fb706dfb3f65b556c21c8",
+      "author_login": "darahak",
+      "authored_at": "2020-05-14T19:46:03Z",
+      "message": "Merge pull request #377 from pfandzelter/patch-1"
+    },
+    {
+      "sha": "3fac581bb8376ea1c98bf2a2bc4cc0b025a27d23",
+      "author_login": "darahak",
+      "authored_at": "2020-05-14T19:40:54Z",
+      "message": "Merge pull request #384 from ohheyjosh/master"
+    },
+    {
+      "sha": "5daa1d0cc703414d0cadf4adcbf97d8bf8d7cd3d",
+      "author_login": "ohheyjosh",
+      "authored_at": "2020-05-13T14:07:08Z",
+      "message": "Zeit => Vercel"
+    },
+    {
+      "sha": "2bc724d215cd0824cee13f98f70711345de837f6",
+      "author_login": "mvllow",
+      "authored_at": "2020-03-11T03:51:45Z",
+      "message": "add hyper-rose-pine"
+    },
+    {
+      "sha": "1af108d49be12ea0844247084cf068721afbcd40",
+      "author_login": "EliverLara",
+      "authored_at": "2020-02-21T19:40:55Z",
+      "message": "Add hyper-sweet theme"
+    },
+    {
+      "sha": "b7e82a60ce22b57279ef7bd296c56dfe11b30392",
+      "author_login": "pfandzelter",
+      "authored_at": "2020-02-20T15:51:42Z",
+      "message": "Add hyperduck"
+    },
+    {
+      "sha": "e2a48a8151e026a451a8e00c89be5fb71e6c14a6",
+      "author_login": "darahak",
+      "authored_at": "2020-01-22T15:59:57Z",
+      "message": "Add hyper-drop-file to plugins (#376)"
+    },
+    {
+      "sha": "61d45e35c59a60d23baf37fb075d896b15a40b4a",
+      "author_login": "qweasd1",
+      "authored_at": "2020-01-21T23:32:14Z",
+      "message": "update badge url"
+    },
+    {
+      "sha": "d29d28d6791da68db0f06fbd593777c9dc04a2e9",
+      "author_login": "darahak",
+      "authored_at": "2020-01-21T21:31:31Z",
+      "message": "Add hyperterm-horizon theme to README (#375)"
+    },
+    {
+      "sha": "7068e85138808880175d35467550eacc65a82196",
+      "author_login": "qweasd1",
+      "authored_at": "2020-01-11T16:10:13Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d9680ae3e409fe4119f8dd9175c3dae80cd99789",
+      "author_login": "qweasd1",
+      "authored_at": "2020-01-11T15:01:07Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ac55705fadd60069db9d40456028876595c42cc1",
+      "author_login": "kazushisan",
+      "authored_at": "2020-01-09T06:53:25Z",
+      "message": "add hyperterm-horzion theme"
+    },
+    {
+      "sha": "2c1b4bc0aae116ee69fd93c7d16ed90ab4bb66fd",
+      "author_login": "darahak",
+      "authored_at": "2019-11-13T23:03:31Z",
+      "message": "Merge pull request #363 from bet4it/patch-1"
+    },
+    {
+      "sha": "9e1f9098309bee8753ab5797198c0f916b414f34",
+      "author_login": "darahak",
+      "authored_at": "2019-11-13T23:02:06Z",
+      "message": "Merge pull request #366 from Stetchy/master"
+    },
+    {
+      "sha": "5c3830d9a804e8a4ee30f521d776b872ec1bb926",
+      "author_login": "darahak",
+      "authored_at": "2019-10-29T15:34:09Z",
+      "message": "Merge pull request #374 from dididy/master"
+    },
+    {
+      "sha": "27666308c247bd69d60e95edeae2adfbddff4bd6",
+      "author_login": "voidmatcha",
+      "authored_at": "2019-10-25T02:29:41Z",
+      "message": "Remove hyper-copycat"
+    },
+    {
+      "sha": "39e6ee04abdcad1a061c15610e06c2b732a2cd01",
+      "author_login": "darahak",
+      "authored_at": "2019-10-15T09:54:14Z",
+      "message": "Merge pull request #371 from t1m0thyj/patch-1"
+    },
+    {
+      "sha": "aacb2db3239b51599a41f7a3183273e919ac8383",
+      "author_login": "darahak",
+      "authored_at": "2019-10-15T09:53:14Z",
+      "message": "Add hyperterm-ultrasweet to themes (#370)"
+    },
+    {
+      "sha": "91afcc066b9ebab9add86ac1ea2976b4cbf33434",
+      "author_login": "darahak",
+      "authored_at": "2019-10-15T09:53:01Z",
+      "message": "Add download badge"
+    },
+    {
+      "sha": "230b363f06cc2f16a8ea3b533151536da78d8ba5",
+      "author_login": "darahak",
+      "authored_at": "2019-10-15T09:48:39Z",
+      "message": "update logo (#373)"
+    },
+    {
+      "sha": "f23a9909774a63578ec9f77a8381645b8a7ffc44",
+      "author_login": null,
+      "authored_at": "2019-10-14T16:36:18Z",
+      "message": "update logo url"
+    },
+    {
+      "sha": "210c402df03fab93585270c9ab5c0f49b270cf87",
+      "author_login": null,
+      "authored_at": "2019-10-14T16:34:28Z",
+      "message": "update logo"
+    },
+    {
+      "sha": "2b5b23232dd682a988c3f04ad7826018974fbd49",
+      "author_login": "t1m0thyj",
+      "authored_at": "2019-09-10T00:52:19Z",
+      "message": "Add hyper-save-windowstate plugin"
+    },
+    {
+      "sha": "53e886b9f82aca1e651e2c0aa04d0773d1f22a3b",
+      "author_login": "amandaflagg",
+      "authored_at": "2019-09-05T22:57:39Z",
+      "message": "Update README.md with added theme"
+    },
+    {
+      "sha": "100c9fc42ae4641cca158de765aa39e3239ecedf",
+      "author_login": "darahak",
+      "authored_at": "2019-08-13T09:26:40Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "fc06e1b981c2cbc683f95cf8ae0c10dc54a82f2e",
+      "author_login": "darahak",
+      "authored_at": "2019-08-13T09:25:00Z",
+      "message": "Merge pull request #368 from sydrawat/master"
+    },
+    {
+      "sha": "c0c966bc2a1280d9631323672f016df986e13447",
+      "author_login": "sydrawat01",
+      "authored_at": "2019-08-12T22:31:47Z",
+      "message": "Add new themes for Hyper:"
+    },
+    {
+      "sha": "9e2561708017ffc4a1a0c72b503a946fbfc94f42",
+      "author_login": "darahak",
+      "authored_at": "2019-06-19T11:27:58Z",
+      "message": "Add hyper-cobalt-next Theme (#365)"
+    },
+    {
+      "sha": "76c0c00a571e72e85f54c625cf604d45c926382d",
+      "author_login": null,
+      "authored_at": "2019-06-11T14:53:58Z",
+      "message": "Add hyper-statusline-extended"
+    },
+    {
+      "sha": "cc880a3a73579150c498cf3f5a9ccb2967e39bda",
+      "author_login": "davidleininger",
+      "authored_at": "2019-06-11T04:58:31Z",
+      "message": "Add Cobalt Next Theme"
+    },
+    {
+      "sha": "2a045bbd98c26e57a4461d26a1509abf77283399",
+      "author_login": "darahak",
+      "authored_at": "2019-05-24T14:29:44Z",
+      "message": "Adding hyper-hypest to themes (#364)"
+    },
+    {
+      "sha": "1a95b1ef2abdfc6b6330a3001c74ce41831a79b5",
+      "author_login": "dizzyup",
+      "authored_at": "2019-05-20T09:34:51Z",
+      "message": "Adding hyper-hypest to themes"
+    },
+    {
+      "sha": "bf03cf092c8daf2d2563b05d6f8ce1bea2534bc9",
+      "author_login": "darahak",
+      "authored_at": "2019-02-22T15:11:12Z",
+      "message": "Merge pull request #362 from bxio/master"
+    },
+    {
+      "sha": "a1b1d7bf0776dd6711e550ea9ada23b176ab5862",
+      "author_login": "bet4it",
+      "authored_at": "2019-02-21T14:58:32Z",
+      "message": "Add hyperinator"
+    },
+    {
+      "sha": "0ca9f4a9532fd9ddd5875ad9ffc278bc2678c15b",
+      "author_login": "bxio",
+      "authored_at": "2019-02-19T23:26:11Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b8dbe9dd1d730f16fb752b7d31425c29df42921d",
+      "author_login": "darahak",
+      "authored_at": "2019-02-19T15:01:57Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "481cb95237ad0886ed4cf14b3edfc1464c3647db",
+      "author_login": "darahak",
+      "authored_at": "2019-02-19T15:01:15Z",
+      "message": "Merge pull request #361 from SwarShah/patch-1"
+    },
+    {
+      "sha": "9a322720ba2094ccb905589042756cc416cc12cf",
+      "author_login": "darahak",
+      "authored_at": "2019-02-19T14:53:23Z",
+      "message": "Merge pull request #360 from ahmadawais/patch-1"
+    },
+    {
+      "sha": "3630a1353a0e7ec0c10b4dbcaa754c7b1ac45fc3",
+      "author_login": "darahak",
+      "authored_at": "2019-02-19T14:50:10Z",
+      "message": "Fix URL to avoid breaking CI builds"
+    },
+    {
+      "sha": "44f665df038e347b1911955d6527149211505245",
+      "author_login": "darahak",
+      "authored_at": "2019-02-19T14:45:51Z",
+      "message": "Fix URL to avoid breaking CI builds"
+    },
+    {
+      "sha": "c3dc22e5e89ad656ad695b3135620fa059d7214e",
+      "author_login": "swarshah",
+      "authored_at": "2019-02-11T02:16:16Z",
+      "message": "Added hyper-custom-touchbar"
+    },
+    {
+      "sha": "bf2e2b026a1b1d71286023ba98cea439c96f618d",
+      "author_login": null,
+      "authored_at": "2019-01-28T17:56:58Z",
+      "message": "📦 NEW: Shades of Purple theme"
+    },
+    {
+      "sha": "592a501a00755cd74514adf2dd692abd0f510ef2",
+      "author_login": "darahak",
+      "authored_at": "2018-12-26T13:06:04Z",
+      "message": "Merge pull request #358 from marcjoha/patch-1"
+    },
+    {
+      "sha": "eb5356570a90e2b04db5da477578c9052c920d82",
+      "author_login": "darahak",
+      "authored_at": "2018-12-26T13:05:55Z",
+      "message": "Merge branch 'master' into patch-1"
+    },
+    {
+      "sha": "44e3b65e100b4051994c5b19d22fa4bdab455641",
+      "author_login": "darahak",
+      "authored_at": "2018-12-26T13:04:17Z",
+      "message": "Merge pull request #356 from slammayjammay/patch-1"
+    },
+    {
+      "sha": "e0deed296f1e262317b04439827eb29753e7670b",
+      "author_login": "darahak",
+      "authored_at": "2018-12-26T13:04:09Z",
+      "message": "Merge branch 'master' into patch-1"
+    },
+    {
+      "sha": "62f9af81de8c5ac43a8b789f377731a1912ef4f9",
+      "author_login": "darahak",
+      "authored_at": "2018-12-26T13:02:18Z",
+      "message": "Merge pull request #329 from neil-orans/patch-1"
+    },
+    {
+      "sha": "c9c2669e9c1487c45f801abd38bdfe044c7111cf",
+      "author_login": "darahak",
+      "authored_at": "2018-12-26T13:02:08Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "6fcbdb8ca584c75a690cf9c4934ea0207441edf4",
+      "author_login": "darahak",
+      "authored_at": "2018-12-26T12:59:33Z",
+      "message": "Merge pull request #325 from lucleray/add-hyper-opacity"
+    },
+    {
+      "sha": "dc56aedaf65203e7064b1b576ed1248723b8cf68",
+      "author_login": "darahak",
+      "authored_at": "2018-12-26T12:59:26Z",
+      "message": "Merge branch 'master' into add-hyper-opacity"
+    },
+    {
+      "sha": "7fb917cb2a7643b6cd0446d6a1990812c977c37a",
+      "author_login": "darahak",
+      "authored_at": "2018-12-26T12:43:28Z",
+      "message": "Merge pull request #350 from BrianIshii/adding-git-falcon9-plugin"
+    },
+    {
+      "sha": "6ed31925534229691c778f68a5966dc5ca500fc8",
+      "author_login": "darahak",
+      "authored_at": "2018-12-26T12:43:17Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b6e550e7768a36c097390da72ae26c5d66fb46fc",
+      "author_login": "darahak",
+      "authored_at": "2018-12-26T12:41:39Z",
+      "message": "Merge pull request #347 from gjuchault/patch-1"
+    },
+    {
+      "sha": "80dc0adec757bd28e7004d62effb71755c293565",
+      "author_login": "darahak",
+      "authored_at": "2018-12-26T12:41:31Z",
+      "message": "Merge branch 'master' into patch-1"
+    },
+    {
+      "sha": "f9a63ce7ea6b66695dced6aa01cea6ed195943dc",
+      "author_login": "darahak",
+      "authored_at": "2018-12-26T12:38:48Z",
+      "message": "Merge pull request #346 from Favna/patch-1"
+    },
+    {
+      "sha": "9f60f07bff726124a909984af76401baef2609f1",
+      "author_login": "darahak",
+      "authored_at": "2018-12-26T12:38:37Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d0c74434e590ee18316d98ea56abcec82dd45158",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T23:57:39Z",
+      "message": "Merge pull request #357 from samwaterbury/city-lights"
+    },
+    {
+      "sha": "611b047fc0d8bf4854f660ea8711ec4b08acef12",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T23:55:36Z",
+      "message": "Merge pull request #345 from yoyoys/master"
+    },
+    {
+      "sha": "9d10f7b43d12b30bd861fa1e8ce3839233d5c709",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T23:55:20Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "db421bb62317e827241a1558ef6863734818ffeb",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T23:49:32Z",
+      "message": "Merge pull request #342 from moimart/master"
+    },
+    {
+      "sha": "9d763f65c6ee31181caed1a6d68dc49829f4af95",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T23:49:18Z",
+      "message": "Merge branch 'master' into master"
+    },
+    {
+      "sha": "71cec33c51bb63d60f7b979abea4fa4bee8c3fef",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T23:48:16Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "46222f653cb64e4f5a4db498db116ffa929dcb1b",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T23:44:36Z",
+      "message": "Merge pull request #343 from sh78/master"
+    },
+    {
+      "sha": "80ab66c6a7bdd5894ec94f01f432610edc8cecb9",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T23:41:20Z",
+      "message": "Merge branch 'master' into master"
+    },
+    {
+      "sha": "22ba6a350c1090cd4b68f971f032f99bd49e111a",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T23:38:16Z",
+      "message": "Merge pull request #338 from OrionNebula/master"
+    },
+    {
+      "sha": "4e252406ba03f0cdb9a5d987490c797cfd328fe4",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T23:36:38Z",
+      "message": "Merge branch 'master' into master"
+    },
+    {
+      "sha": "8081735129bedc3b6a1da7eee03b3967e9210d02",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T18:42:02Z",
+      "message": "Merge pull request #352 from unluisco/master"
+    },
+    {
+      "sha": "a662f40375b0e84622a677789be3863da4b3279c",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T18:40:11Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e017c3c4fc571a5ba9a6e9922223781190b71143",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T18:38:45Z",
+      "message": "Merge pull request #336 from romainwn/patch-1"
+    },
+    {
+      "sha": "b55cb3b7a69fec41f374a83bd7228658ead868b5",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T18:36:04Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "df561628f25ad4710100422d16309ac776f5925d",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T18:35:11Z",
+      "message": "Merge pull request #333 from Tallestthomas/master"
+    },
+    {
+      "sha": "3c43df585d6a2f0ede7efa0004cb9537416099dc",
+      "author_login": "darahak",
+      "authored_at": "2018-12-23T18:32:03Z",
+      "message": "Merge pull request #298 from jspiro/patch-1"
+    },
+    {
+      "sha": "a8bcf06f7d3eb3008a468e97e1990a529789ed28",
+      "author_login": "marcjoha",
+      "authored_at": "2018-11-24T14:58:47Z",
+      "message": "Added plugin hyper-gcp-status-line"
+    },
+    {
+      "sha": "b0173bda3f0c44a24fcd645bd4d3a3ee13f5041d",
+      "author_login": "neil-orans",
+      "authored_at": "2018-11-20T00:36:13Z",
+      "message": "Merge branch 'master' into patch-1"
+    },
+    {
+      "sha": "ef859d7616e9b86dc4e48d827ae54baba96d7d00",
+      "author_login": "samwaterbury",
+      "authored_at": "2018-11-15T21:53:43Z",
+      "message": "Add theme: hyper-city-lights"
+    },
+    {
+      "sha": "08b748b4fa4e1ec62d27a58f1e430b67443fdbb2",
+      "author_login": "lucleray",
+      "authored_at": "2018-11-15T16:02:11Z",
+      "message": "Merge branch 'master' into add-hyper-opacity"
+    }
+  ],
+  "issues": [
+    {
+      "number": 412,
+      "title": "FileShot.io – CLI-accessible zero-knowledge encrypted file sharing",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-03-03T20:58:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 410,
+      "title": "Add cool-retro-hyper fun plugin",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-12-31T20:48:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 409,
+      "title": "add hyper-neon-theme to themes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-11-03T12:00:32Z",
+      "closed_at": "2024-11-03T12:02:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 408,
+      "title": "Add an Expo e-commerce complete project",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-05T07:56:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 407,
+      "title": "themes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-28T11:47:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 406,
+      "title": "added hyper-paper theme",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-09-20T08:52:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 405,
+      "title": "[BUG] hyperterm-close-on-left and hyperterm-mactabs no longer work",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-18T12:13:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 404,
+      "title": "Add hyper-copy-as-html plugin",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-04-03T19:39:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 403,
+      "title": "\"Extending Hyper\" talk incorrect link",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-20T14:31:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 402,
+      "title": "hyperterm-paste no longer maintained",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-20T14:24:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 401,
+      "title": "hyperzsh link broken",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-20T03:19:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 400,
+      "title": "add hyper-rmaki-theme to themes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-19T10:42:31Z",
+      "closed_at": "2022-10-04T05:28:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 399,
+      "title": "Add hyper-gitHub-light theme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-09T20:38:42Z",
+      "closed_at": "2021-07-13T13:05:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 398,
+      "title": "Add hyper-github-dark-dimmed theme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-09T14:58:57Z",
+      "closed_at": "2021-07-13T13:04:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 397,
+      "title": "Feature-req:- Syntax highlighter Like Iterm2 trigger option or SecureCRT color highlight",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-09T18:52:35Z",
+      "closed_at": "2021-07-13T13:00:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 396,
+      "title": "hyper.js",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-05-05T17:32:53Z",
+      "closed_at": "2021-05-06T21:35:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 395,
+      "title": "Add hyper-manager plugin.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-27T03:16:23Z",
+      "closed_at": "2021-07-13T13:01:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 394,
+      "title": "Adding hyper-tender to list of themes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-02-25T02:38:59Z",
+      "closed_at": "2021-03-10T22:58:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 393,
+      "title": "Add hyper-tabs-autohide plugin",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-02-03T01:38:10Z",
+      "closed_at": "2021-03-05T22:50:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 392,
+      "title": "Add hyper-omni-theme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-15T11:54:03Z",
+      "closed_at": "2021-01-26T21:39:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 391,
+      "title": "Add new theme Hyper:",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-12T19:15:47Z",
+      "closed_at": "2021-02-05T09:37:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 390,
+      "title": "Is there a more updated repo like this without outdated plugins?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-08T19:54:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 389,
+      "title": "Fixing broken badge",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-11-16T09:08:09Z",
+      "closed_at": "2020-11-16T15:01:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 388,
+      "title": "hyper-day-night-switch",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-30T14:25:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 387,
+      "title": "Add doki-theme-hyper to list of themes.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-13T22:05:48Z",
+      "closed_at": "2020-09-12T21:56:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 386,
+      "title": "Strange error on Startup about spawnUpdate",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-07-03T21:09:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 385,
+      "title": "Add hyper-dnd-tabs to productivity section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-06-08T23:55:49Z",
+      "closed_at": "2020-06-18T13:05:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 384,
+      "title": "Zeit => Vercel",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-13T14:08:52Z",
+      "closed_at": "2020-05-14T19:40:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 383,
+      "title": "Change \"Zeit\" to \"Vercel\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-27T00:40:17Z",
+      "closed_at": "2020-05-14T19:41:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 382,
+      "title": "hyper-visual autohide/collapse button",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-18T17:36:48Z",
+      "closed_at": "2020-05-14T19:52:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 381,
+      "title": "Multiple status lines",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-03T09:25:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 380,
+      "title": "add hyper-rose-pine theme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-03-11T03:53:16Z",
+      "closed_at": "2020-05-14T19:48:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 378,
+      "title": "Add hyper-sweet theme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-02-21T20:05:42Z",
+      "closed_at": "2020-05-14T19:47:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 377,
+      "title": "Add hyperduck",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-02-20T15:51:57Z",
+      "closed_at": "2020-05-14T19:46:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 376,
+      "title": "Add hyper-drop-file to plugins",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-01-11T15:02:10Z",
+      "closed_at": "2020-01-22T15:59:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 375,
+      "title": "Add hyperterm-horizon theme to README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-01-09T06:57:43Z",
+      "closed_at": "2020-01-21T21:31:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 374,
+      "title": "Remove hyper-copycat",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-10-25T02:37:27Z",
+      "closed_at": "2019-10-29T15:34:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 373,
+      "title": "update logo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-10-14T16:38:33Z",
+      "closed_at": "2019-10-15T09:48:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 372,
+      "title": "Add hyper-rename-tab plugin",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-09-18T07:41:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 371,
+      "title": "Add hyper-save-windowstate plugin",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-10T00:56:08Z",
+      "closed_at": "2019-10-15T09:54:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 370,
+      "title": "Add hyperterm-ultrasweet to themes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-05T23:00:53Z",
+      "closed_at": "2019-10-15T09:53:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 369,
+      "title": "Change collor on line command",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-08-21T17:29:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 366,
+      "title": "Add hyper-statusline-extended to productivity",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-11T14:56:08Z",
+      "closed_at": "2019-11-13T23:02:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 365,
+      "title": "Add hyper-cobalt-next Theme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-11T05:03:17Z",
+      "closed_at": "2019-06-19T11:27:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 364,
+      "title": "Adding hyper-hypest to themes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-20T09:37:11Z",
+      "closed_at": "2019-05-24T14:29:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 363,
+      "title": "Add hyperinator",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-02-22T15:06:10Z",
+      "closed_at": "2019-11-13T23:03:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 362,
+      "title": "Hyperterm-final-say renamed",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-02-19T23:27:35Z",
+      "closed_at": "2019-02-22T15:11:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 361,
+      "title": "Add hyper-custom-touchbar plugin",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-02-11T02:26:43Z",
+      "closed_at": "2019-02-19T15:01:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 360,
+      "title": "📦 NEW: Shades of Purple theme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-01-28T17:59:08Z",
+      "closed_at": "2019-02-19T14:53:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 359,
+      "title": "Encoding caracter",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-12-06T17:27:06Z",
+      "closed_at": "2018-12-06T17:33:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 358,
+      "title": "Added plugin hyper-gcp-status-line",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-24T15:01:44Z",
+      "closed_at": "2018-12-26T13:06:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 357,
+      "title": "Add theme: hyper-city-lights",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-15T22:09:59Z",
+      "closed_at": "2018-12-23T23:57:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 356,
+      "title": "Add hyper-postprocessing",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-31T19:07:02Z",
+      "closed_at": "2018-12-26T13:04:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 355,
+      "title": "Add hyper-init and Fix #354",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-25T22:06:19Z",
+      "closed_at": "2018-10-30T08:58:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 354,
+      "title": "How can I get my PR merged?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-10-25T18:48:05Z",
+      "closed_at": "2018-10-30T08:58:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 353,
+      "title": "Add hyper-init and Fix hyper-solarized-dark and -light URL",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-23T17:48:33Z",
+      "closed_at": "2018-10-25T21:31:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 352,
+      "title": "delete hpm because was replaced by Hyper's built-in CLI",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-03T23:26:36Z",
+      "closed_at": "2018-12-23T18:42:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 351,
+      "title": "Add hyper-altair",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-27T07:04:42Z",
+      "closed_at": "2018-09-29T13:57:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 350,
+      "title": "added git-falcon9 plugin to readme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-16T05:33:56Z",
+      "closed_at": "2018-12-26T12:43:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 349,
+      "title": "Add hyper-visual",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-02T11:25:37Z",
+      "closed_at": "2018-09-24T09:11:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 348,
+      "title": "When close window, process still runs.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-08-02T07:18:10Z",
+      "closed_at": "2018-09-04T14:36:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 347,
+      "title": "Added hyperalfred",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-01T14:16:58Z",
+      "closed_at": "2018-12-26T12:41:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 346,
+      "title": "Added hyper-overlay",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-27T18:49:39Z",
+      "closed_at": "2018-12-26T12:38:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 345,
+      "title": "Added hyper-ayu-light-special to the \"Themes\" list",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-26T09:44:53Z",
+      "closed_at": "2018-12-23T23:55:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 344,
+      "title": "Remove hyperterm-alternatescroll",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-16T15:15:41Z",
+      "closed_at": "2018-09-19T23:55:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 343,
+      "title": "Add solarized theme that can switch between light/dark based on current time",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-05T04:45:39Z",
+      "closed_at": "2018-12-23T23:44:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 342,
+      "title": "Add hyper-folder-icon in Customization section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-02T10:33:08Z",
+      "closed_at": "2018-12-23T23:49:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 341,
+      "title": "Add hyper-postprocessing to \"Fun\" section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-01T18:15:30Z",
+      "closed_at": "2018-10-31T18:13:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 340,
+      "title": "Add entry for the hyper-solarized theme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-01T06:13:13Z",
+      "closed_at": "2018-06-10T01:44:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 339,
+      "title": "[plugin] hyper-solarized theme (fork)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-26T06:11:45Z",
+      "closed_at": "2018-05-26T13:28:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 338,
+      "title": "Added hyper-media-control to \"Customization\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-05-17T00:25:10Z",
+      "closed_at": "2018-12-23T23:38:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 337,
+      "title": "Suggestion: add install script to install all plugins?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-14T16:23:01Z",
+      "closed_at": "2019-11-26T23:01:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 336,
+      "title": "add hyper-window-size to Customization section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-05-10T16:05:18Z",
+      "closed_at": "2018-12-23T18:38:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 335,
+      "title": "How to change shortcuts ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-10T06:46:38Z",
+      "closed_at": "2018-06-18T15:29:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 334,
+      "title": "Added `hyperocean` theme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-05-06T22:29:50Z",
+      "closed_at": "2018-05-07T04:53:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 333,
+      "title": "Added hyper-gruv to the \"Themes\" list",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-05-06T19:49:05Z",
+      "closed_at": "2018-12-23T18:35:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 332,
+      "title": "Uncaught exception TypeError",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-04T06:13:24Z",
+      "closed_at": "2018-05-07T05:11:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 331,
+      "title": "Content coming over the header title after installing new themes",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-05-04T06:09:11Z",
+      "closed_at": "2018-09-04T14:36:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 330,
+      "title": "Can't see shortcuts with opacity set below 1",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-04-27T21:42:25Z",
+      "closed_at": "2018-04-27T21:48:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 329,
+      "title": "Add hyper-savetext to productivity section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-24T19:03:58Z",
+      "closed_at": "2018-12-26T13:02:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 328,
+      "title": "Add hyper-relaxed theme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-20T03:15:27Z",
+      "closed_at": "2018-05-08T12:31:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 327,
+      "title": "Hyperborder plugin completely blacks out emulator UI ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-04-19T02:21:51Z",
+      "closed_at": "2018-04-25T08:43:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 326,
+      "title": "Add hyper2-border to customization list",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-04-19T00:45:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 325,
+      "title": "Add hyper-opacity to \"customization\" section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-18T08:37:53Z",
+      "closed_at": "2018-12-26T12:59:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 324,
+      "title": "Update ReadMe.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-18T07:29:04Z",
+      "closed_at": "2018-04-25T08:56:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 323,
+      "title": "Add hyper-hide-scroll plugin to Customization category. ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-17T08:18:15Z",
+      "closed_at": "2018-04-25T08:53:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 322,
+      "title": "Add hyperterm-savetext to Productivity section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-16T08:34:19Z",
+      "closed_at": "2018-04-21T19:27:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 321,
+      "title": "add hyper-systray ( Windows )",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-15T16:58:15Z",
+      "closed_at": "2018-04-25T08:48:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 320,
+      "title": "[plugin] hyper-systray // Windows",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-04-15T14:30:14Z",
+      "closed_at": "2018-04-25T08:59:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 319,
+      "title": "(Windows) script to select which shell you want on startup",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-04-05T23:22:32Z",
+      "closed_at": "2018-12-23T23:58:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 318,
+      "title": "Added hyper-bloodbath plugin to the Fun category",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-01T02:20:13Z",
+      "closed_at": "2018-04-25T08:47:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 317,
+      "title": "Vim - :set mouse=a not working properly.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-24T23:41:24Z",
+      "closed_at": "2018-03-25T21:56:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 316,
+      "title": "[Theme] Hyper Siemor",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-11T00:14:34Z",
+      "closed_at": "2018-04-13T13:42:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 315,
+      "title": "Add hyper-mahoushoujo theme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-03-07T20:05:37Z",
+      "closed_at": "2018-03-07T23:20:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 314,
+      "title": "Add hyper-teatime theme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-03-07T20:03:13Z",
+      "closed_at": "2018-03-07T23:19:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 313,
+      "title": "Add hyper-mahoushoujo theme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-03-07T19:48:32Z",
+      "closed_at": "2018-03-07T20:02:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 312,
+      "title": "Awsome hyper",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-04T01:09:22Z",
+      "closed_at": "2018-03-04T01:09:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 311,
+      "title": "Add 'space-pull' plugin",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-02-22T17:27:53Z",
+      "closed_at": "2018-02-23T12:15:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 310,
+      "title": "Add `hyper-one-dark-vivid` theme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-02-18T22:34:38Z",
+      "closed_at": "2018-02-18T22:47:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 309,
+      "title": "Fix PR helper article url",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-02-17T23:23:09Z",
+      "closed_at": "2018-02-19T08:34:33Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "bnb",
+      "contributions": 173
+    },
+    {
+      "login": "darahak",
+      "contributions": 170
+    },
+    {
+      "login": "iamstarkov",
+      "contributions": 48
+    },
+    {
+      "login": "matheuss",
+      "contributions": 41
+    },
+    {
+      "login": "chabou",
+      "contributions": 12
+    },
+    {
+      "login": "dangvanthanh",
+      "contributions": 9
+    },
+    {
+      "login": "danieldelcore",
+      "contributions": 8
+    },
+    {
+      "login": "sindresorhus",
+      "contributions": 5
+    },
+    {
+      "login": "tylerreckart",
+      "contributions": 5
+    },
+    {
+      "login": "rafaelrinaldi",
+      "contributions": 4
+    },
+    {
+      "login": "weirdpattern",
+      "contributions": 4
+    },
+    {
+      "login": "zsol",
+      "contributions": 4
+    },
+    {
+      "login": "qmnl",
+      "contributions": 4
+    },
+    {
+      "login": "equinusocio",
+      "contributions": 4
+    },
+    {
+      "login": "krve",
+      "contributions": 4
+    },
+    {
+      "login": "zigomir",
+      "contributions": 3
+    },
+    {
+      "login": "hemanth",
+      "contributions": 3
+    },
+    {
+      "login": "qweasd1",
+      "contributions": 3
+    },
+    {
+      "login": "linonetwo",
+      "contributions": 3
+    },
+    {
+      "login": "riyadhalnur",
+      "contributions": 3
+    },
+    {
+      "login": "insanityfarm",
+      "contributions": 3
+    },
+    {
+      "login": "moso",
+      "contributions": 3
+    },
+    {
+      "login": "codiemullins",
+      "contributions": 3
+    },
+    {
+      "login": "carloscuesta",
+      "contributions": 3
+    },
+    {
+      "login": "codealchemist",
+      "contributions": 3
+    },
+    {
+      "login": "cseale",
+      "contributions": 3
+    },
+    {
+      "login": "dfrankland",
+      "contributions": 3
+    },
+    {
+      "login": "ericclemmons",
+      "contributions": 3
+    },
+    {
+      "login": "jhen0409",
+      "contributions": 3
+    },
+    {
+      "login": "joshua-owens",
+      "contributions": 3
+    },
+    {
+      "login": "xkawi",
+      "contributions": 3
+    },
+    {
+      "login": "BelphegorPrime",
+      "contributions": 3
+    },
+    {
+      "login": "licatajustin",
+      "contributions": 2
+    },
+    {
+      "login": "SpaceK33z",
+      "contributions": 2
+    },
+    {
+      "login": "lewiscowper",
+      "contributions": 2
+    },
+    {
+      "login": "lukehedger",
+      "contributions": 2
+    },
+    {
+      "login": "luisfmsouza",
+      "contributions": 2
+    },
+    {
+      "login": "moimart",
+      "contributions": 2
+    },
+    {
+      "login": "neil-orans",
+      "contributions": 2
+    },
+    {
+      "login": "poeti8",
+      "contributions": 2
+    },
+    {
+      "login": "ReadmeCritic",
+      "contributions": 2
+    },
+    {
+      "login": "RobbieTheWagner",
+      "contributions": 2
+    },
+    {
+      "login": "siamak",
+      "contributions": 2
+    },
+    {
+      "login": "wesbos",
+      "contributions": 2
+    },
+    {
+      "login": "lealismo",
+      "contributions": 2
+    },
+    {
+      "login": "mcchrish",
+      "contributions": 2
+    },
+    {
+      "login": "mischah",
+      "contributions": 2
+    },
+    {
+      "login": "lucleray",
+      "contributions": 2
+    },
+    {
+      "login": "EliverLara",
+      "contributions": 2
+    },
+    {
+      "login": "cakenggt",
+      "contributions": 2
+    },
+    {
+      "login": "alvaropinot",
+      "contributions": 2
+    },
+    {
+      "login": "amio",
+      "contributions": 2
+    },
+    {
+      "login": "dotamir",
+      "contributions": 2
+    },
+    {
+      "login": "staltz",
+      "contributions": 2
+    },
+    {
+      "login": "atrnh",
+      "contributions": 2
+    },
+    {
+      "login": "bgw",
+      "contributions": 2
+    },
+    {
+      "login": "brianzelip",
+      "contributions": 2
+    },
+    {
+      "login": "cgsawtell",
+      "contributions": 2
+    },
+    {
+      "login": "cwright017",
+      "contributions": 2
+    },
+    {
+      "login": "cassiobock",
+      "contributions": 2
+    },
+    {
+      "login": "daltonmenezes",
+      "contributions": 2
+    },
+    {
+      "login": "danyim",
+      "contributions": 2
+    },
+    {
+      "login": "dneustadt",
+      "contributions": 2
+    },
+    {
+      "login": "dawsbot",
+      "contributions": 2
+    },
+    {
+      "login": "gjuchault",
+      "contributions": 2
+    },
+    {
+      "login": "joansanfeliu",
+      "contributions": 2
+    },
+    {
+      "login": "capaj",
+      "contributions": 2
+    },
+    {
+      "login": "jerrykal",
+      "contributions": 2
+    },
+    {
+      "login": "ghosh",
+      "contributions": 2
+    },
+    {
+      "login": "saadq",
+      "contributions": 1
+    },
+    {
+      "login": "renaudtertrais",
+      "contributions": 1
+    },
+    {
+      "login": "randallsquared",
+      "contributions": 1
+    },
+    {
+      "login": "pierrenel",
+      "contributions": 1
+    },
+    {
+      "login": "philipp-winterle",
+      "contributions": 1
+    },
+    {
+      "login": "philippbosch",
+      "contributions": 1
+    },
+    {
+      "login": "spekulatius",
+      "contributions": 1
+    },
+    {
+      "login": "samwaterbury",
+      "contributions": 1
+    },
+    {
+      "login": "slammayjammay",
+      "contributions": 1
+    },
+    {
+      "login": "sh78",
+      "contributions": 1
+    },
+    {
+      "login": "soul-wish",
+      "contributions": 1
+    },
+    {
+      "login": "sydrawat01",
+      "contributions": 1
+    },
+    {
+      "login": "sibartlett",
+      "contributions": 1
+    },
+    {
+      "login": "simeydotme",
+      "contributions": 1
+    },
+    {
+      "login": "krzema12",
+      "contributions": 1
+    },
+    {
+      "login": "dariye",
+      "contributions": 1
+    },
+    {
+      "login": "patrik-piskay",
+      "contributions": 1
+    },
+    {
+      "login": "PDDStudio",
+      "contributions": 1
+    },
+    {
+      "login": "OrionNebula",
+      "contributions": 1
+    },
+    {
+      "login": "octet-stream",
+      "contributions": 1
+    },
+    {
+      "login": "modkaffes",
+      "contributions": 1
+    },
+    {
+      "login": "maximumdata",
+      "contributions": 1
+    },
+    {
+      "login": "mgrip",
+      "contributions": 1
+    },
+    {
+      "login": "iloveitaly",
+      "contributions": 1
+    },
+    {
+      "login": "mxstbr",
+      "contributions": 1
+    },
+    {
+      "login": "mjswensen",
+      "contributions": 1
+    },
+    {
+      "login": "webmatze",
+      "contributions": 1
+    },
+    {
+      "login": "ntwcklng",
+      "contributions": 1
+    },
+    {
+      "login": "voidmatcha",
+      "contributions": 1
+    },
+    {
+      "login": "yxuko",
+      "contributions": 1
+    },
+    {
+      "login": "vikjam",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-09-28T12:36:11.313277Z"
+}
