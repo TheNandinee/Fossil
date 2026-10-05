@@ -1,0 +1,1042 @@
+{
+  "full_name": "xuchengsheng/spring-reading",
+  "owner": "xuchengsheng",
+  "name": "spring-reading",
+  "url": "https://github.com/xuchengsheng/spring-reading",
+  "description": "涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。",
+  "primary_language": "Java",
+  "topics": [
+    "annotations",
+    "awareinterface",
+    "backenddevelopment",
+    "java",
+    "javabackend",
+    "mybatis",
+    "mybatis-plus",
+    "opensource",
+    "servlet",
+    "sourcecodeanalysis",
+    "spring",
+    "spring-aop",
+    "spring-boot",
+    "spring-cloud",
+    "spring-data-jpa",
+    "spring-security",
+    "springboot2",
+    "springframework",
+    "springmvc",
+    "web"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 9930,
+  "forks": 1262,
+  "open_issues": 36,
+  "created_at": "2023-09-15T06:42:44Z",
+  "pushed_at": "2024-07-29T06:13:59Z",
+  "updated_at": "2026-10-05T08:49:10Z",
+  "commits": [
+    {
+      "sha": "9911cbb4df107d3a1d87214b137af9871e21525f",
+      "author_login": "xuchengsheng",
+      "authored_at": "2024-07-05T08:42:06Z",
+      "message": "Merge pull request #32 from 521xueweihan/patch-1"
+    },
+    {
+      "sha": "4c83dd0da15e8c340057f9cf4d15604ec65a0f4e",
+      "author_login": "521xueweihan",
+      "authored_at": "2024-07-04T09:20:47Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "08e6310bf099b9e44ee01bd769b8b47dad97af19",
+      "author_login": null,
+      "authored_at": "2024-06-28T08:50:57Z",
+      "message": "HelloGitHub 徽章"
+    },
+    {
+      "sha": "a790c79e81926dd624962dc6d3bc0a5810d5140d",
+      "author_login": null,
+      "authored_at": "2024-06-28T08:50:05Z",
+      "message": "HelloGitHub 徽章"
+    },
+    {
+      "sha": "84ee0bdcf9bccc8634e5f280fed6d00c6889ff58",
+      "author_login": null,
+      "authored_at": "2024-06-28T08:42:03Z",
+      "message": "HelloGitHub 徽章"
+    },
+    {
+      "sha": "a39635ac741da896e8d62dc035b19e8f2607ab3a",
+      "author_login": null,
+      "authored_at": "2024-06-28T04:12:12Z",
+      "message": "更新群二维码"
+    },
+    {
+      "sha": "ba4446d2d28f5dbeac322a0b09ad5d44f0330723",
+      "author_login": null,
+      "authored_at": "2024-06-28T04:11:20Z",
+      "message": "更新群二维码"
+    },
+    {
+      "sha": "05d3f86867f885dc2afc48c8010166b570cda7f7",
+      "author_login": null,
+      "authored_at": "2024-06-28T04:10:38Z",
+      "message": "更新群二维码"
+    },
+    {
+      "sha": "d229cb3d3f5cd120e80db7ad7276e7624b474856",
+      "author_login": null,
+      "authored_at": "2024-06-28T04:06:50Z",
+      "message": "更新群二维码"
+    },
+    {
+      "sha": "b319cb56626e4bcdd3a5263eaf39484ea0c7fdd5",
+      "author_login": null,
+      "authored_at": "2024-05-29T01:53:16Z",
+      "message": "优化排版"
+    },
+    {
+      "sha": "f160137acd2ccaf8d7302599c99ee552995e41c9",
+      "author_login": null,
+      "authored_at": "2024-05-29T01:52:15Z",
+      "message": "优化排版"
+    },
+    {
+      "sha": "5c964aeaef40f94379fb65c7806a037c8ee50628",
+      "author_login": null,
+      "authored_at": "2024-05-29T01:51:51Z",
+      "message": "优化排版"
+    },
+    {
+      "sha": "aa4ade2fa568626c610e353648317e13d5843335",
+      "author_login": null,
+      "authored_at": "2024-05-29T01:46:19Z",
+      "message": "优化排版"
+    },
+    {
+      "sha": "688f4dc1d02bcc05568f60d841efe46079f732d7",
+      "author_login": null,
+      "authored_at": "2024-05-29T01:43:00Z",
+      "message": "优化排版"
+    },
+    {
+      "sha": "b451fa633be9157e613a248e7c1703a2fb519bef",
+      "author_login": null,
+      "authored_at": "2024-05-28T08:16:43Z",
+      "message": "调整项目依赖"
+    },
+    {
+      "sha": "8dba510e03e0563cb37a377b1cd9989963889c7e",
+      "author_login": null,
+      "authored_at": "2024-05-28T07:42:41Z",
+      "message": "spring事务源码分析"
+    },
+    {
+      "sha": "ef784196ba891fe0e328aae5a7c8aa0774686dd6",
+      "author_login": null,
+      "authored_at": "2024-05-28T07:22:28Z",
+      "message": "spring事务源码分析"
+    },
+    {
+      "sha": "d03929479326d5ee94c027d73cb8153584a8f456",
+      "author_login": null,
+      "authored_at": "2024-05-17T03:29:47Z",
+      "message": "更新二维码"
+    },
+    {
+      "sha": "ed494caf9539487007104cdc8ce9d3d401e6f292",
+      "author_login": null,
+      "authored_at": "2024-05-07T07:11:40Z",
+      "message": "EnableLoadTimeWeaving优化"
+    },
+    {
+      "sha": "2413795b78d44e9fc925a3724c6e24b6c46ab351",
+      "author_login": null,
+      "authored_at": "2024-05-07T03:37:54Z",
+      "message": "Pointcut优化"
+    },
+    {
+      "sha": "0ada3c6eb5210e4f9fc3409b5e6aa4e4190b931b",
+      "author_login": null,
+      "authored_at": "2024-05-07T03:30:33Z",
+      "message": "ExposeInvocationInterceptor优化"
+    },
+    {
+      "sha": "e57e81c9ae4c1f000a2a5eb359842cea13776511",
+      "author_login": null,
+      "authored_at": "2024-05-07T03:06:23Z",
+      "message": "TargetSourceCreator优化"
+    },
+    {
+      "sha": "f9b1f6d0b8749610240c75d7ba78e03014661afe",
+      "author_login": null,
+      "authored_at": "2024-05-07T02:40:01Z",
+      "message": "AspectInstanceFactory优化"
+    },
+    {
+      "sha": "99249afe3503f3f6a570cf6f605ecb1a166e6e3e",
+      "author_login": null,
+      "authored_at": "2024-05-06T09:59:52Z",
+      "message": "EnableAspectJAutoProxy优化"
+    },
+    {
+      "sha": "7164746998154ee29df8234b3a618a4cc043ff5c",
+      "author_login": null,
+      "authored_at": "2024-05-06T06:29:42Z",
+      "message": "EnableAspectJAutoProxy优化"
+    },
+    {
+      "sha": "56740d43bdac56d9cc3c9a4db48b0489b19f079a",
+      "author_login": null,
+      "authored_at": "2024-04-29T07:01:57Z",
+      "message": "ProxyMethodInvocation优化"
+    },
+    {
+      "sha": "0620feafd1756d2f3e7d6d2a89d1306bebea96c5",
+      "author_login": null,
+      "authored_at": "2024-04-29T06:55:52Z",
+      "message": "AdvisorAdapter优化"
+    },
+    {
+      "sha": "b105904cd2f11fc8d9c5c47176d566259e12a43f",
+      "author_login": null,
+      "authored_at": "2024-04-29T06:50:05Z",
+      "message": "AdvisorAdapterRegistry优化"
+    },
+    {
+      "sha": "74c7f57fc8cd1c1e8202bee066ae6ad4bcb1738d",
+      "author_login": null,
+      "authored_at": "2024-04-29T06:43:13Z",
+      "message": "AdvisorChainFactory优化"
+    },
+    {
+      "sha": "2a30edaa2932d44970012b036b638ccac2025c5a",
+      "author_login": null,
+      "authored_at": "2024-04-29T06:34:41Z",
+      "message": "优化目录"
+    },
+    {
+      "sha": "1457b02e06b28a2b3e6b81c2600d9fbca70fe25d",
+      "author_login": null,
+      "authored_at": "2024-04-29T06:33:29Z",
+      "message": "AopProxyFactory优化"
+    },
+    {
+      "sha": "413c05ec08063fbfc11e1e9a8c30d195ae4a0e72",
+      "author_login": null,
+      "authored_at": "2024-04-29T06:29:36Z",
+      "message": "AopProxy优化"
+    },
+    {
+      "sha": "80b2d5557ca79d085523db5cc076924cfca5b0a4",
+      "author_login": null,
+      "authored_at": "2024-04-29T06:17:07Z",
+      "message": "AopProxy优化"
+    },
+    {
+      "sha": "af1574d364a0a9f4d7cb88cd671ccaa4dbed160d",
+      "author_login": null,
+      "authored_at": "2024-04-29T03:52:50Z",
+      "message": "AopProxyFactory优化"
+    },
+    {
+      "sha": "b8552e2309a9965045d14d24486fff0c0f0ad884",
+      "author_login": null,
+      "authored_at": "2024-04-29T03:49:10Z",
+      "message": "ProxyFactory优化"
+    },
+    {
+      "sha": "7ce214641ffc1134d627540d7efcf0af0b5bdc59",
+      "author_login": null,
+      "authored_at": "2024-04-29T03:43:09Z",
+      "message": "ProxyFactory优化"
+    },
+    {
+      "sha": "0b8e2354c96c6f227e9218b2e4aa7dae2bd55561",
+      "author_login": null,
+      "authored_at": "2024-04-29T03:39:19Z",
+      "message": "AfterReturningAdvice优化"
+    },
+    {
+      "sha": "780e96a5d7e19ecdaf483b8cd42c678ec6617b5d",
+      "author_login": null,
+      "authored_at": "2024-04-29T03:16:35Z",
+      "message": "AfterReturningAdvice优化"
+    },
+    {
+      "sha": "78363c3c2420f63b0ac293c43e9bafad4afadaf5",
+      "author_login": null,
+      "authored_at": "2024-04-29T03:11:50Z",
+      "message": "MethodBeforeAdvice优化"
+    },
+    {
+      "sha": "1b5b4fd6eb18c5cb9a9afd610679e3d9515dba0a",
+      "author_login": null,
+      "authored_at": "2024-04-29T03:10:47Z",
+      "message": "MethodBeforeAdvice优化"
+    },
+    {
+      "sha": "84251ade30159ae193c65a564ded1b4347002601",
+      "author_login": null,
+      "authored_at": "2024-04-29T03:02:20Z",
+      "message": "MethodInterceptor优化"
+    },
+    {
+      "sha": "c957d39cbc93761368269faf0ad6ca0cdc9fb27c",
+      "author_login": null,
+      "authored_at": "2024-04-29T02:37:06Z",
+      "message": "Pointcut优化"
+    },
+    {
+      "sha": "10dc5e3770266c65286532817c4ae73321316911",
+      "author_login": null,
+      "authored_at": "2024-04-29T02:35:38Z",
+      "message": "MethodMatcher优化"
+    },
+    {
+      "sha": "f7c92598f8dc7851eeddb0fb57b6b7bcab221560",
+      "author_login": null,
+      "authored_at": "2024-04-29T02:34:38Z",
+      "message": "MethodMatcher优化"
+    },
+    {
+      "sha": "48d538ec3bed177816502cba734a8db9a1649ceb",
+      "author_login": null,
+      "authored_at": "2024-04-29T02:32:29Z",
+      "message": "ClassFilter优化"
+    },
+    {
+      "sha": "9186e1de283c480a443398c013a6ee04b857060f",
+      "author_login": null,
+      "authored_at": "2024-04-29T02:30:44Z",
+      "message": "Advised优化"
+    },
+    {
+      "sha": "94547e085e1c1e5422f1d9406e0c2555921c1451",
+      "author_login": null,
+      "authored_at": "2024-04-29T02:23:25Z",
+      "message": "Advisor优化"
+    },
+    {
+      "sha": "31de26ad3317c27a7b13126da3f43f23ad416ddd",
+      "author_login": null,
+      "authored_at": "2024-04-28T09:59:01Z",
+      "message": "ProxyMethodInvocation源码分析"
+    },
+    {
+      "sha": "2c28a1c7bcc71ae379761f7e9741a885b718bd6a",
+      "author_login": null,
+      "authored_at": "2024-04-28T09:49:13Z",
+      "message": "ProxyMethodInvocation源码分析"
+    },
+    {
+      "sha": "8b7c4a3c2ded2c0a0db52d32f48e9bb24b7534c3",
+      "author_login": null,
+      "authored_at": "2024-04-28T09:46:04Z",
+      "message": "ProxyMethodInvocation源码分析"
+    },
+    {
+      "sha": "4cecf134664a70d2ddcd133fcdbe9fe674a64e68",
+      "author_login": null,
+      "authored_at": "2024-04-28T07:12:55Z",
+      "message": "调整目录优化"
+    },
+    {
+      "sha": "349fa9917794d8159549b1ceef26d43c6c4323f1",
+      "author_login": null,
+      "authored_at": "2024-04-28T06:50:05Z",
+      "message": "ProxyFactory优化"
+    },
+    {
+      "sha": "521f821ba177381bfd096da3c0d5b6125f14344b",
+      "author_login": null,
+      "authored_at": "2024-04-28T06:10:13Z",
+      "message": "Advice优化目录"
+    },
+    {
+      "sha": "ec5020752277ccd2a2bd8fdebb36c69f9df54370",
+      "author_login": null,
+      "authored_at": "2024-04-28T06:08:40Z",
+      "message": "Advice优化"
+    },
+    {
+      "sha": "706dddd31af5c8b4608aabb53d1af1d7997b7504",
+      "author_login": null,
+      "authored_at": "2024-04-26T09:55:36Z",
+      "message": "Advice源码分析"
+    },
+    {
+      "sha": "7c7d37306e3eed8ba4861cb3f4b8118f6abe9b80",
+      "author_login": null,
+      "authored_at": "2024-04-26T09:54:45Z",
+      "message": "Advice源码分析"
+    },
+    {
+      "sha": "afb4410b1bce7e2a47c9c5977e3fc2714d45a3af",
+      "author_login": null,
+      "authored_at": "2024-04-26T09:28:17Z",
+      "message": "Advisor优化"
+    },
+    {
+      "sha": "c0c741e1096552d50521335911eb00d5d916f861",
+      "author_login": null,
+      "authored_at": "2024-04-26T08:49:18Z",
+      "message": "调整目录结构"
+    },
+    {
+      "sha": "db9566fc99eeac18081793ffb8638edf35c17ef8",
+      "author_login": null,
+      "authored_at": "2024-04-26T08:46:53Z",
+      "message": "调整目录结构"
+    },
+    {
+      "sha": "0ce87edf53c6c627c1f4e1b86d6b8f55cda08793",
+      "author_login": null,
+      "authored_at": "2024-04-26T07:54:08Z",
+      "message": "MethodMatcher优化"
+    },
+    {
+      "sha": "38cf77a510cf56e6135b45e28c0302cc28e8824f",
+      "author_login": null,
+      "authored_at": "2024-04-26T07:14:08Z",
+      "message": "ClassFilter优化"
+    },
+    {
+      "sha": "4fdff4ada66f38c922ca07e06314d209cecf2a11",
+      "author_login": null,
+      "authored_at": "2024-04-26T06:53:17Z",
+      "message": "Pointcut优化"
+    },
+    {
+      "sha": "1b08aae6aae394caf788841732f9641cdfa25497",
+      "author_login": null,
+      "authored_at": "2024-04-26T06:51:43Z",
+      "message": "Pointcut优化"
+    },
+    {
+      "sha": "26e097436bb98a71416f370c4883d3d421c5e38b",
+      "author_login": null,
+      "authored_at": "2024-04-25T09:22:01Z",
+      "message": "AdvisorAdapter源码分析优化"
+    },
+    {
+      "sha": "76d5a7a6221f63b5fc04f1c465862622cc2b5963",
+      "author_login": null,
+      "authored_at": "2024-04-23T09:01:28Z",
+      "message": "IntroductionInterceptor优化"
+    },
+    {
+      "sha": "dff5fdf3c05662a74c2c4dcf10a00a288016112b",
+      "author_login": null,
+      "authored_at": "2024-04-23T08:51:32Z",
+      "message": "ThrowsAdvice优化"
+    },
+    {
+      "sha": "dbbbe5d1f1e29ee8252817d1ae91cd66ae419fe1",
+      "author_login": null,
+      "authored_at": "2024-04-23T08:44:26Z",
+      "message": "AfterReturningAdvice优化"
+    },
+    {
+      "sha": "fa689898cb117ca2d8d1af4b504be21ec07d85a0",
+      "author_login": null,
+      "authored_at": "2024-04-23T08:42:16Z",
+      "message": "MethodBeforeAdvice优化"
+    },
+    {
+      "sha": "03108fd711144598eec00c70d8fd59cd884a766b",
+      "author_login": null,
+      "authored_at": "2024-04-23T08:39:50Z",
+      "message": "MethodInterceptor优化"
+    },
+    {
+      "sha": "06f63fe67d51dc18f44295aba1ebb7c33c795c05",
+      "author_login": null,
+      "authored_at": "2024-04-23T08:39:16Z",
+      "message": "MethodInterceptor优化"
+    },
+    {
+      "sha": "535c2a1a7f1a6bf1b6e8551b366fe4a26b26eacc",
+      "author_login": null,
+      "authored_at": "2024-04-23T08:30:33Z",
+      "message": "Pointcut优化"
+    },
+    {
+      "sha": "f1a682e50c54eeb9517f251da647526d8f3528ff",
+      "author_login": null,
+      "authored_at": "2024-04-23T08:29:32Z",
+      "message": "Pointcut优化"
+    },
+    {
+      "sha": "3fdf1ca8dfe1aa81f93d642ce26be3aa24682cc1",
+      "author_login": null,
+      "authored_at": "2024-04-23T08:20:46Z",
+      "message": "ClassFilter优化"
+    },
+    {
+      "sha": "0150a6845223211d3d7c68cc443297a2199ba286",
+      "author_login": null,
+      "authored_at": "2024-04-23T08:05:04Z",
+      "message": "ClassFilter优化"
+    },
+    {
+      "sha": "f8a2414613e683c07f72aa13bf7519fc6f642234",
+      "author_login": null,
+      "authored_at": "2024-04-23T08:03:32Z",
+      "message": "ClassFilter优化"
+    },
+    {
+      "sha": "41b7bf0d80ec0beaac3563c1ce2f2a2f7f8c3e78",
+      "author_login": null,
+      "authored_at": "2024-04-23T07:59:31Z",
+      "message": "AopProxyFactory源码分析"
+    },
+    {
+      "sha": "6a62d8ea2d925e8360a00465600ba814133b5848",
+      "author_login": null,
+      "authored_at": "2024-04-23T07:48:10Z",
+      "message": "AopProxy源码分析"
+    },
+    {
+      "sha": "431ca04c080e9c011498e1e3ebc326b6c68f48da",
+      "author_login": null,
+      "authored_at": "2024-04-23T07:05:18Z",
+      "message": "ExposeInvocationInterceptor源码分析"
+    },
+    {
+      "sha": "06a981d273d90eb59a33921af0c78be2be6082e6",
+      "author_login": null,
+      "authored_at": "2024-04-22T09:43:59Z",
+      "message": "TargetSourceCreator源码分析"
+    },
+    {
+      "sha": "721e9287e772d702af49d5385dd5b28ec9e9cb84",
+      "author_login": null,
+      "authored_at": "2024-04-22T06:28:46Z",
+      "message": "AopContext源码分析"
+    },
+    {
+      "sha": "00a5735ced6d428d5345fdcdcc8ef32710dd636e",
+      "author_login": null,
+      "authored_at": "2024-04-22T06:27:42Z",
+      "message": "AopContext源码分析"
+    },
+    {
+      "sha": "4332fefd2e5224a03e60e0812996fe0de837d4e8",
+      "author_login": null,
+      "authored_at": "2024-04-22T03:30:26Z",
+      "message": "Advised源码分析"
+    },
+    {
+      "sha": "d229b339b9d821c21b476d43e12cb9589e3b358b",
+      "author_login": null,
+      "authored_at": "2024-04-22T02:14:49Z",
+      "message": "AopProxy源码分析"
+    },
+    {
+      "sha": "57f1c2583fab4cfb9ce7e833994bc9d7900d003c",
+      "author_login": null,
+      "authored_at": "2024-04-22T02:11:17Z",
+      "message": "AopProxy源码分析"
+    },
+    {
+      "sha": "2be5b63edebf4077b62a8e49e8b1e577ac36d472",
+      "author_login": null,
+      "authored_at": "2024-04-19T10:01:20Z",
+      "message": "AopProxy源码分析"
+    },
+    {
+      "sha": "0f740c2cd668f73a1c7b1d1eb45208cf2cc638f6",
+      "author_login": null,
+      "authored_at": "2024-04-19T03:11:18Z",
+      "message": "AdvisorChainFactory源码分析"
+    },
+    {
+      "sha": "62cb6744d7af900c8a36fdac189edc256daaf863",
+      "author_login": null,
+      "authored_at": "2024-04-17T09:53:20Z",
+      "message": "AnnotationAwareAspectJAutoProxyCreator优化"
+    },
+    {
+      "sha": "e9a2f29dc916df7e0840c92d22bea6780f398b98",
+      "author_login": null,
+      "authored_at": "2024-04-17T09:52:06Z",
+      "message": "ProxyFactory源码分析"
+    },
+    {
+      "sha": "2850436de6dd6103baf23ac2278cbba8c89b618f",
+      "author_login": null,
+      "authored_at": "2024-04-17T09:47:33Z",
+      "message": "ProxyFactory源码分析"
+    },
+    {
+      "sha": "275230536b9fe580896b51c2f2f47ae21610fdeb",
+      "author_login": null,
+      "authored_at": "2024-04-17T07:07:14Z",
+      "message": "AnnotationAwareAspectJAutoProxyCreator源码分析"
+    },
+    {
+      "sha": "b073223650e2547832b3d481d1fa383e2630e5df",
+      "author_login": null,
+      "authored_at": "2024-04-17T06:37:03Z",
+      "message": "AnnotationAwareAspectJAutoProxyCreator源码分析"
+    },
+    {
+      "sha": "9102e99d219e572327a8fb113e15f0370262cf92",
+      "author_login": null,
+      "authored_at": "2024-04-17T06:14:44Z",
+      "message": "AnnotationAwareAspectJAutoProxyCreator源码分析"
+    },
+    {
+      "sha": "3b608bc345f7adafe21c1a7e39006753648891d2",
+      "author_login": null,
+      "authored_at": "2024-04-16T06:48:15Z",
+      "message": "BeanFactoryAdvisorRetrievalHelper源码分析"
+    },
+    {
+      "sha": "963435db770ffe357937fa3a7bb68ea81c7fbcf6",
+      "author_login": null,
+      "authored_at": "2024-04-16T06:43:26Z",
+      "message": "BeanFactoryAdvisorRetrievalHelper源码分析"
+    },
+    {
+      "sha": "fd385e84bfe1777df3d4ae3e64725c271aedd088",
+      "author_login": null,
+      "authored_at": "2024-04-16T03:50:42Z",
+      "message": "BeanFactoryAspectJAdvisorsBuilder源码分析"
+    },
+    {
+      "sha": "f0e5b15378f85ce2092062038bc5fd1d2b260c76",
+      "author_login": null,
+      "authored_at": "2024-04-16T03:49:08Z",
+      "message": "BeanFactoryAspectJAdvisorsBuilder源码分析"
+    },
+    {
+      "sha": "fe391999631b580cb1ae8f596b845b17d360bb0e",
+      "author_login": null,
+      "authored_at": "2024-04-16T02:41:05Z",
+      "message": "MetadataAwareAspectInstanceFactory优化"
+    },
+    {
+      "sha": "c4102327efda0c33bdb7e906ae2e81ce9bfa48a6",
+      "author_login": null,
+      "authored_at": "2024-04-16T02:39:17Z",
+      "message": "AspectJAdvisorFactory优化"
+    },
+    {
+      "sha": "b1318599fed2b5b7b37b15d8683b762bd7aeb65f",
+      "author_login": null,
+      "authored_at": "2024-04-15T09:58:27Z",
+      "message": "AspectJAdvisorFactory源码分析"
+    },
+    {
+      "sha": "e668f62b4099b8058b079b0f98dc25c386742213",
+      "author_login": null,
+      "authored_at": "2024-04-15T08:40:54Z",
+      "message": "AspectInstanceFactory源码分析"
+    }
+  ],
+  "issues": [
+    {
+      "number": 43,
+      "title": "docs: add recommended reading order",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-22T01:13:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 42,
+      "title": "feat：修改适用于java8",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-03-07T15:19:23Z",
+      "closed_at": "2025-03-07T15:20:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 41,
+      "title": "BeanDefinitionRegistry和DefaultListableBeanFactory ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-02T06:26:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 40,
+      "title": "使用jdk8",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-10-16T13:02:14Z",
+      "closed_at": "2024-10-16T13:03:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 39,
+      "title": "@PostConstruct和nitializingBean.afterPropertiesSet()执行顺序矛盾",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-13T07:56:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "什么时候能更新完呢",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-11T08:11:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 37,
+      "title": "支持支持很棒希望早点更新完",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-01T02:07:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 36,
+      "title": "有没有最佳的阅读顺序？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-01T00:44:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 35,
+      "title": "修复错误的¥字符导致的Parser转换失败",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-29T06:13:58Z",
+      "closed_at": "2026-06-16T01:10:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 34,
+      "title": "Spring-5.*-resolveDependency方法位于AutowireCapableBeanFactory",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-17T03:16:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 33,
+      "title": "feat：改为使用BeanWrapper抽象类",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-07-10T03:18:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-04T09:20:57Z",
+      "closed_at": "2024-07-05T08:42:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 31,
+      "title": "UML图中的关系是否画错了？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-28T09:06:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "HelloGitHub 徽章计划",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-28T08:10:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "ResourceLoader调整代码示例，以匹配输出结果",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-06-20T02:16:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "PropertiesPropertySource类名写错了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-11T07:35:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "目前这个教程 还有在更新吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-06T06:36:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "PathMatchingResourcePatternResolverDemo目录变更",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-04-22T08:24:11Z",
+      "closed_at": "2024-05-21T01:35:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "修复readme中 AbstractEnvironment 子类错误问题",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-07T03:16:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "AnnotationMetadata此篇文章可能有处错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-17T03:35:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "HierarchicalBeanFactory 和 ApplicationContext 的继承关系写反了",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-12-22T01:12:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 22,
+      "title": "HierarchicalBeanFactory 和 ApplicationContext 的继承关系写反了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-21T08:58:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 21,
+      "title": "MergedBeanDefinitionPostProcessor 接口描述",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-15T15:48:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 20,
+      "title": "单词拼写错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-11T06:42:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 19,
+      "title": "BeanDefinitionRegistry 的讲解有一处描述错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-11T01:55:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 18,
+      "title": "可有文章阅读顺序？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-09T03:35:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 17,
+      "title": "错字",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-12-08T08:04:43Z",
+      "closed_at": "2023-12-08T08:10:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 16,
+      "title": "ResourcePatternResolver的讲解可能存在错误",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-08T06:40:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "文档更正",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-12-07T08:03:44Z",
+      "closed_at": "2023-12-11T06:02:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "spring-resources的子模块spring-resource的demo无法运行",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-29T08:05:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 13,
+      "title": "增加接口包说明",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-11-28T02:21:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 12,
+      "title": "微信群的二维码过期了😯",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-27T03:37:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 11,
+      "title": "建议用VuePress 搭建站点",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-23T11:02:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 10,
+      "title": "请问你是怎么学习Spring框架的？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-20T02:54:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 9,
+      "title": "Spring框架中的@Component、@Service、@Repository和@Controller有什么区别？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-20T02:42:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 8,
+      "title": "请问有spring-aop与mvc相关的资料嘛？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-20T02:35:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 7,
+      "title": "Spring 的工具类",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-18T03:38:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 6,
+      "title": "交流群",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-16T07:22:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 5,
+      "title": "spirngIoc文章的疑问点",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-16T15:17:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 4,
+      "title": "非懒加载的单例bean的概念",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-16T03:39:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 3,
+      "title": "BeanPostProcessor和BeanFactoryPostProcessor区别",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-16T03:39:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2,
+      "title": "嵌入式值解析EmbeddedValueResolverAware中resolve() ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-14T11:45:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1,
+      "title": "关于源码版本",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-10T01:34:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "xuchengsheng",
+      "contributions": 92
+    },
+    {
+      "login": "521xueweihan",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-10-05T13:16:31.437089Z"
+}

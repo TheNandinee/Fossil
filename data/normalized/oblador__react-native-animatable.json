@@ -1,0 +1,1743 @@
+{
+  "full_name": "oblador/react-native-animatable",
+  "owner": "oblador",
+  "name": "react-native-animatable",
+  "url": "https://github.com/oblador/react-native-animatable",
+  "description": "Standard set of easy to use animations and declarative transitions for React Native",
+  "primary_language": "JavaScript",
+  "topics": [
+    "animation",
+    "react-native",
+    "transition"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 9929,
+  "forks": 693,
+  "open_issues": 170,
+  "created_at": "2015-10-18T02:04:35Z",
+  "pushed_at": "2023-10-26T16:46:05Z",
+  "updated_at": "2026-10-04T03:11:22Z",
+  "commits": [
+    {
+      "sha": "dfd7413734eb693358defcac536b0b32e9dc0b8c",
+      "author_login": "oblador",
+      "authored_at": "2023-10-26T16:45:11Z",
+      "message": "Release 1.4.0"
+    },
+    {
+      "sha": "b92768cf3565d423fe7cb04ba455391f19e71869",
+      "author_login": "oblador",
+      "authored_at": "2023-10-26T16:44:10Z",
+      "message": "Update test badge to use GH Actions"
+    },
+    {
+      "sha": "15487ea346e0d45399cfa2793e85d8a9ff4bc101",
+      "author_login": "oblador",
+      "authored_at": "2023-10-26T16:42:29Z",
+      "message": "Configure Github actions for tests and deployment (#406)"
+    },
+    {
+      "sha": "94c7aa052bdb36f36b90db233fd43a9aec8e6b15",
+      "author_login": "HishamMubarak",
+      "authored_at": "2023-10-26T16:29:35Z",
+      "message": "Disable iterationDelay delay on the beginning of animation (#324)"
+    },
+    {
+      "sha": "9d9acd245f8af51ab71d85c1f57cd530b6eb9023",
+      "author_login": "oblador",
+      "authored_at": "2023-10-26T16:18:07Z",
+      "message": "Bump dependencies and examples to React Native 0.72 (#405)"
+    },
+    {
+      "sha": "0f15e1f0e0279a86a8395bbc415bc36aa364b54a",
+      "author_login": "eps1lon",
+      "authored_at": "2023-05-17T13:19:48Z",
+      "message": "Drop usage of deprecated React TypeScript types (#400)"
+    },
+    {
+      "sha": "ccafe141921912f21f1ad006ba8c3fb2191d6afc",
+      "author_login": "deanvanniekerk",
+      "authored_at": "2021-04-30T08:51:01Z",
+      "message": "fix: typing (#301)"
+    },
+    {
+      "sha": "0c869c4a86e32097e11b8e82a7b838ada1b28a13",
+      "author_login": "oblador",
+      "authored_at": "2019-12-15T11:40:37Z",
+      "message": "Enable sponsor button"
+    },
+    {
+      "sha": "0c0c50132d8621a3f08644738085fdb8163c3945",
+      "author_login": "haruelrovix",
+      "authored_at": "2019-11-05T20:54:26Z",
+      "message": "test: Add code coverage for Jest (#295)"
+    },
+    {
+      "sha": "07401e6d3d4e92ec42d1f392fb55f61cf8542780",
+      "author_login": "haruelrovix",
+      "authored_at": "2019-11-01T21:54:45Z",
+      "message": "Increase code coverage for createAnimation (#296)"
+    },
+    {
+      "sha": "65fc5c0f906a85581291bd9124b2704af01ff972",
+      "author_login": "joel-bitar",
+      "authored_at": "2019-10-23T14:31:51Z",
+      "message": "Make it possible to override isInteraction (#291)"
+    },
+    {
+      "sha": "b4b90595006e38d9bde11e95d4b135997d01737a",
+      "author_login": "oblador",
+      "authored_at": "2019-10-13T12:42:49Z",
+      "message": "Remove dev config from published artifact"
+    },
+    {
+      "sha": "d0423ffa23580904304382ecefc7f9f9f4e909c4",
+      "author_login": "oblador",
+      "authored_at": "2019-10-13T12:40:57Z",
+      "message": "Release 1.3.3"
+    },
+    {
+      "sha": "74b4f379b946d9079c009643c4a9dfa3afebb192",
+      "author_login": "oblador",
+      "authored_at": "2019-10-13T12:39:41Z",
+      "message": "Bump jest/react/react-native deps"
+    },
+    {
+      "sha": "b03414a2c2ab67d0b84bfa713deead8dc026a630",
+      "author_login": "oblador",
+      "authored_at": "2019-10-13T12:20:45Z",
+      "message": "Bump prettier"
+    },
+    {
+      "sha": "b777642a89f69cbe2330a49240d7a50d7dc83b62",
+      "author_login": "oblador",
+      "authored_at": "2019-10-13T12:19:18Z",
+      "message": "Bump eslint and config"
+    },
+    {
+      "sha": "0696cbe353982308e4e49bc7030c76cc39709906",
+      "author_login": "oblador",
+      "authored_at": "2019-10-13T12:10:26Z",
+      "message": "Update MakeItRain example to RN 0.61"
+    },
+    {
+      "sha": "a9c2654a94dac6b3d75ebc09ac391d9bd15e7717",
+      "author_login": "oblador",
+      "authored_at": "2019-10-13T12:03:14Z",
+      "message": "Update AnimatableExplorer project to RN 0.61"
+    },
+    {
+      "sha": "64926e84f4740bd84af4077cbffbc659853551a9",
+      "author_login": "Andries-Smit",
+      "authored_at": "2019-10-13T11:29:11Z",
+      "message": "Export sub typings (#287)"
+    },
+    {
+      "sha": "2a5f87325461d4ed22afc15f12e901aba03ad598",
+      "author_login": "Lilysunstrider",
+      "authored_at": "2019-08-20T20:29:12Z",
+      "message": "Fix typing of AnimatableProperties.animation (#256)"
+    },
+    {
+      "sha": "ae5ddbfbe66f3d9df62ff5221a55c87fbbe12465",
+      "author_login": "mifi",
+      "authored_at": "2019-08-20T20:25:38Z",
+      "message": "Add custom animation imperative usage (#275)"
+    },
+    {
+      "sha": "1c5c0b597536ea059dc8fb7f52e17cab5f796746",
+      "author_login": "oblador",
+      "authored_at": "2019-03-19T17:44:25Z",
+      "message": "Release 1.3.2"
+    },
+    {
+      "sha": "5428a586fb4d9d15e576d5851e04b1be68d785ee",
+      "author_login": "IceInBeard",
+      "authored_at": "2019-03-19T17:44:05Z",
+      "message": "Add iterationDelay to componentWillReceiveProps (#261)"
+    },
+    {
+      "sha": "85447130cc1683eb20b62a162fd9af179de36e1a",
+      "author_login": "oblador",
+      "authored_at": "2019-01-03T23:28:51Z",
+      "message": "Release 1.3.1"
+    },
+    {
+      "sha": "7f3445c2d1c22270cf1a063486df5bc3d0b51e99",
+      "author_login": "CareLuLu-Gabriel",
+      "authored_at": "2019-01-03T23:26:56Z",
+      "message": "Support prop-type removal transforms (#233)"
+    },
+    {
+      "sha": "49dc4dc1d08a74c834cabd7366fb873b431db548",
+      "author_login": "adam-aerobotics",
+      "authored_at": "2019-01-03T23:25:43Z",
+      "message": "Allow percentage animations for non-interpolated values like width and margins. (#234)"
+    },
+    {
+      "sha": "1de3236255380c663d762b21c512ad9a66f0176e",
+      "author_login": "donovanhiland",
+      "authored_at": "2019-01-03T23:24:10Z",
+      "message": "Make animation types available for import (#228)"
+    },
+    {
+      "sha": "33ccc96eddb9a3334f5a1ca26fc559d73f250098",
+      "author_login": "mattyclarkson",
+      "authored_at": "2018-08-08T09:01:35Z",
+      "message": "Update transition typing to ReadonlyArray (#207)"
+    },
+    {
+      "sha": "7e918660a5720034bd18dafa3c1e2641ee3f00b9",
+      "author_login": "sospedra",
+      "authored_at": "2018-08-08T09:00:50Z",
+      "message": "Remove misleading info about ios setup for useNativeDriver (#211)"
+    },
+    {
+      "sha": "d9cbb610a0ba530cad66ea8d346505271b1daed8",
+      "author_login": "oblador",
+      "authored_at": "2018-05-31T19:45:09Z",
+      "message": "Document onTransitionBegin and onTransitionEnd"
+    },
+    {
+      "sha": "2ab21aca9e45c2474f80d5b98650e132db184bb1",
+      "author_login": "oblador",
+      "authored_at": "2018-05-31T19:40:31Z",
+      "message": "Release 1.3.0"
+    },
+    {
+      "sha": "386dd3f25e20610ee702c1ef9cfd01f81d89f0bc",
+      "author_login": "oblador",
+      "authored_at": "2018-05-31T19:33:14Z",
+      "message": "Fix bug where old onAnimationEnd handler would be called"
+    },
+    {
+      "sha": "03bfeb792884141885052069c58e8969daa2adc7",
+      "author_login": "oblador",
+      "authored_at": "2018-05-31T19:28:56Z",
+      "message": "Add badges to README"
+    },
+    {
+      "sha": "7044615048fd28d6a14f8a1467fa6ee06ca0e324",
+      "author_login": "oblador",
+      "authored_at": "2018-05-31T19:26:52Z",
+      "message": "Add automatic deployments via Travis"
+    },
+    {
+      "sha": "894bfe6c7bd1a895f56b17384b562064bbae12e9",
+      "author_login": "oblador",
+      "authored_at": "2018-05-31T19:25:34Z",
+      "message": "Add iterationDelay prop to README"
+    },
+    {
+      "sha": "34e0ef0f356315696b9f38efd74cdfe6adbe0e41",
+      "author_login": "almostintuitive",
+      "authored_at": "2018-05-31T19:24:27Z",
+      "message": "Add iterationDelay prop (#169)"
+    },
+    {
+      "sha": "40d7a117af2378362c7508bc888199fb53074e91",
+      "author_login": "oblador",
+      "authored_at": "2018-05-31T19:16:09Z",
+      "message": "Bump jest and fix linting configuration"
+    },
+    {
+      "sha": "a484fe3d3a1cd4e19bcc8b46ac99b6ea0d8003fb",
+      "author_login": "oblador",
+      "authored_at": "2018-05-31T19:03:10Z",
+      "message": "Update prettier and add .prettierrc"
+    },
+    {
+      "sha": "348df81f22a3511e69b3f11fa8ace7c9340d459c",
+      "author_login": "mattyclarkson",
+      "authored_at": "2018-05-31T18:46:44Z",
+      "message": "Add onTransitionBegin and onTransitionEnd props (#187)"
+    },
+    {
+      "sha": "4076b872caca1ab9365938b0b50e2bccfe6ed3ab",
+      "author_login": "mattyclarkson",
+      "authored_at": "2018-05-31T18:43:20Z",
+      "message": "Fix transition typings (#190)"
+    },
+    {
+      "sha": "fb54a6dcb67142bbda7ccb4521b26184e1044f1f",
+      "author_login": "oblador",
+      "authored_at": "2018-02-17T15:16:16Z",
+      "message": "Add MakeItRain example"
+    },
+    {
+      "sha": "e5fdd04f6ef5270c7d8948b533c10a5cc291cd9e",
+      "author_login": "oblador",
+      "authored_at": "2018-02-17T13:04:47Z",
+      "message": "Add link to React Europe talk"
+    },
+    {
+      "sha": "10c8a298e161fee2565c8d7539b9251266466e20",
+      "author_login": "oblador",
+      "authored_at": "2018-02-17T12:51:33Z",
+      "message": "Update AnimatableExample to RN 0.53"
+    },
+    {
+      "sha": "289dcdcc548f058aac347df0dd6f7da3126232c0",
+      "author_login": "oblador",
+      "authored_at": "2018-02-17T10:19:43Z",
+      "message": "Update examples in README to use callback refs"
+    },
+    {
+      "sha": "707486ff094e4e40df31054e3204649e4e050eb3",
+      "author_login": "emersonlaurentino",
+      "authored_at": "2017-10-29T10:55:35Z",
+      "message": "Fix code example typo in README (#158)"
+    },
+    {
+      "sha": "ae9ba13693b4116a194d05ef8411570135ccb7ba",
+      "author_login": "oblador",
+      "authored_at": "2017-09-18T22:57:28Z",
+      "message": "Release 1.2.4"
+    },
+    {
+      "sha": "0f209ad50e94447fd3aeb77ab96fe9371c1db0bf",
+      "author_login": "almostintuitive",
+      "authored_at": "2017-09-18T22:55:20Z",
+      "message": "Fixed typos and errors in TypeScript definition (#153)"
+    },
+    {
+      "sha": "67098ca3f5f52fda37ffb28d4e95a4a4fb4f907f",
+      "author_login": "aminroosta",
+      "authored_at": "2017-09-08T17:36:18Z",
+      "message": "Typescript support (#150)"
+    },
+    {
+      "sha": "01a0a2055c627b930a15b92e547ceaa1df91ce3d",
+      "author_login": "oblador",
+      "authored_at": "2017-07-24T23:47:02Z",
+      "message": "Release 1.2.3"
+    },
+    {
+      "sha": "0a569ae05c006b11b2969bd429aec3d96e95590c",
+      "author_login": "alphasp",
+      "authored_at": "2017-07-24T23:44:55Z",
+      "message": "Migrate deprecated React.PropTypes (#134)"
+    },
+    {
+      "sha": "f08df3587c80e6ba6f61970823bc42558a5234f7",
+      "author_login": "oblador",
+      "authored_at": "2017-06-11T19:08:30Z",
+      "message": "Release 1.2.2"
+    },
+    {
+      "sha": "5e21dcea642831f40620216007a99cc5706cf0aa",
+      "author_login": "oblador",
+      "authored_at": "2017-06-11T19:07:31Z",
+      "message": "Cap negative width/height values to 0 to avoid yoga layout bug #122"
+    },
+    {
+      "sha": "1e6800fdc9aa90218e44297fa321f4486c78792b",
+      "author_login": "oblador",
+      "authored_at": "2017-06-03T12:09:44Z",
+      "message": "Release 1.2.1"
+    },
+    {
+      "sha": "05203af79a69cb16ad6d589ff90aeeead659b60b",
+      "author_login": "oblador",
+      "authored_at": "2017-06-03T12:09:09Z",
+      "message": "Bump test/lint tools/style guides and fix new warnings"
+    },
+    {
+      "sha": "02006e6eb79b6e0d37caab6ef59f33020672b7d3",
+      "author_login": "oblador",
+      "authored_at": "2017-06-03T12:05:54Z",
+      "message": "Fix native animation driver support for swing, tada and wobble"
+    },
+    {
+      "sha": "3c286b0a77f27b0848daaf21b4d76de114e5671f",
+      "author_login": "oblador",
+      "authored_at": "2017-05-06T16:53:16Z",
+      "message": "Release 1.2.0"
+    },
+    {
+      "sha": "74e7da7f8c3d63fa61de51990a4fe002da7a88e5",
+      "author_login": "oblador",
+      "authored_at": "2017-05-06T16:28:38Z",
+      "message": "Make eslint config prettier compatible"
+    },
+    {
+      "sha": "2c9b62410a3a6cdf46ede305a9a1b9eb8608f4af",
+      "author_login": "oblador",
+      "authored_at": "2017-05-06T16:28:25Z",
+      "message": "Format code using prettier"
+    },
+    {
+      "sha": "724d8b0bf69d86ae3fccab1cc4179fc30891d014",
+      "author_login": "br4nnigan",
+      "authored_at": "2017-05-06T16:18:00Z",
+      "message": "Implement delay for transitions (#108)"
+    },
+    {
+      "sha": "cee08831cb8981538eff760259517927761ca341",
+      "author_login": "oblador",
+      "authored_at": "2017-05-06T15:26:31Z",
+      "message": "Improve support for inline animation declarations"
+    },
+    {
+      "sha": "71b75a3397371acb1dcdd1169f03c7a098bc415f",
+      "author_login": "oblador",
+      "authored_at": "2017-03-19T00:13:48Z",
+      "message": "Release 1.1.1"
+    },
+    {
+      "sha": "22c76ba8603698350e1a716c988882ce16b417d9",
+      "author_login": "oblador",
+      "authored_at": "2017-03-18T23:58:32Z",
+      "message": "Fall back to generic margins and paddings for transitions. Fixes #103"
+    },
+    {
+      "sha": "4cf045438e9b02c4499a27a21c6b3a813c599122",
+      "author_login": "oblador",
+      "authored_at": "2017-03-18T23:25:37Z",
+      "message": "Fix bug where regular animations would not create interaction handle"
+    },
+    {
+      "sha": "32609a651a4da40bafebf31d9eb0a61f0dbce376",
+      "author_login": "mikehobi",
+      "authored_at": "2017-03-19T00:11:52Z",
+      "message": "Add `tintColor` to inpterpolation style properties (#105)"
+    },
+    {
+      "sha": "47867e12924eff08b81174c2070bee71a4aa0449",
+      "author_login": "flybayer",
+      "authored_at": "2017-03-07T06:48:33Z",
+      "message": "Make transition() & transitionTo() respect useNativeDriver prop (#106)"
+    },
+    {
+      "sha": "9536b4b2af95c466f7b983c625e90e5cec21d28e",
+      "author_login": "yiminghe",
+      "authored_at": "2017-03-07T06:46:17Z",
+      "message": "Fix default scale style (#101)"
+    },
+    {
+      "sha": "8b7df1606795fd73edd0816fd5f6d82054620783",
+      "author_login": "oblador",
+      "authored_at": "2016-11-30T10:22:01Z",
+      "message": "Release 1.1.0"
+    },
+    {
+      "sha": "6a8cda1ec0951f9e5bdb14227636fb8745fe6db2",
+      "author_login": "oblador",
+      "authored_at": "2016-11-30T10:21:46Z",
+      "message": "Add Travis CI config"
+    },
+    {
+      "sha": "e6ce809d27a23e882fbf90682d1a42284cb8ae38",
+      "author_login": "oblador",
+      "authored_at": "2016-11-30T10:06:43Z",
+      "message": "Expand built in easing functions with penner equations #77"
+    },
+    {
+      "sha": "b3257ca17b1038487d7ef98f066f12c31d1449dd",
+      "author_login": "oblador",
+      "authored_at": "2016-11-30T09:59:12Z",
+      "message": "Add support for custom easing functions #77"
+    },
+    {
+      "sha": "75e97f05d64ddeeefbb20a34bdbb8b015521318c",
+      "author_login": "oblador",
+      "authored_at": "2016-11-30T09:49:30Z",
+      "message": "Fix easing on animations via prop #78"
+    },
+    {
+      "sha": "c8fd6bbb7aaec4d1ed4a1b1751a7ac06b65c87c5",
+      "author_login": "oblador",
+      "authored_at": "2016-11-24T16:57:47Z",
+      "message": "Release 1.0.0"
+    },
+    {
+      "sha": "0a0cb7d202ab6edf89374d0fcaed3af56b3e9928",
+      "author_login": "oblador",
+      "authored_at": "2016-11-24T16:56:50Z",
+      "message": "Bump example project to RN 0.38"
+    },
+    {
+      "sha": "928b601b9364fde7ac5a749ee96107088865e1a1",
+      "author_login": "oblador",
+      "authored_at": "2016-11-24T16:49:14Z",
+      "message": "Fix formatting in README"
+    },
+    {
+      "sha": "101582abc1eeae06a640f229b6a89641bc7e34ca",
+      "author_login": "oblador",
+      "authored_at": "2016-11-24T16:48:09Z",
+      "message": "Merge pull request #67 from oblador/custom-animations"
+    },
+    {
+      "sha": "20175353d438ba483aeeb48c30a7747ac0a7ca7c",
+      "author_login": "oblador",
+      "authored_at": "2016-11-20T22:40:25Z",
+      "message": "Add createAnimation tests"
+    },
+    {
+      "sha": "30348d351174f62bf75e36886322ae72066f8f9c",
+      "author_login": "oblador",
+      "authored_at": "2016-11-20T22:13:01Z",
+      "message": "Fix imperative transition with transforms #72"
+    },
+    {
+      "sha": "01171e055135d264871fe8f6d79c7ffe618cf3b3",
+      "author_login": "oblador",
+      "authored_at": "2016-11-05T22:05:20Z",
+      "message": "Add section about custom animations to README"
+    },
+    {
+      "sha": "cffac950214bcdff1a785da8c1631a3e7a137cd1",
+      "author_login": "oblador",
+      "authored_at": "2016-11-05T22:04:32Z",
+      "message": "Use memoization in createAnimation"
+    },
+    {
+      "sha": "3a9af751a384aa993d0d0fd0a28748160d0bcfbb",
+      "author_login": "oblador",
+      "authored_at": "2016-11-05T22:03:57Z",
+      "message": "Make animations natively driven in example project"
+    },
+    {
+      "sha": "2cfa4b3f1a0a1b2e82c56e3ef5f94b1687dcf623",
+      "author_login": "oblador",
+      "authored_at": "2016-11-05T22:02:57Z",
+      "message": "Expose animation shorthand methods for backwards compatibility"
+    },
+    {
+      "sha": "6216b3718b56e7bb383687f964f1f8e9e431f1f8",
+      "author_login": "oblador",
+      "authored_at": "2016-11-05T21:43:05Z",
+      "message": "Add the standard animations"
+    },
+    {
+      "sha": "b0e12ce9f6f78ad5cb652ed7abf962b32426b245",
+      "author_login": "oblador",
+      "authored_at": "2016-11-05T21:28:32Z",
+      "message": "Add native animation driver support"
+    },
+    {
+      "sha": "05b586ea4d79cce8aaabab7a62a4fb1549e93f9f",
+      "author_login": "oblador",
+      "authored_at": "2016-11-05T19:52:14Z",
+      "message": "Fix lint errors and unbreak example"
+    },
+    {
+      "sha": "6959ca94bf264aaa3fe984b5014928e9df53783b",
+      "author_login": "oblador",
+      "authored_at": "2016-11-05T16:53:59Z",
+      "message": "Make easing functions and defaults mirror the web"
+    },
+    {
+      "sha": "cec5a3f7d9f3f860c1ac92edc9dd4ad838c21ee8",
+      "author_login": "oblador",
+      "authored_at": "2016-11-05T16:18:00Z",
+      "message": "Add custom animation easing support"
+    },
+    {
+      "sha": "c28d6a9fdff436214d0f2f7ab8e90ea209b3b5d3",
+      "author_login": "oblador",
+      "authored_at": "2016-11-05T11:23:05Z",
+      "message": "Refactor createAnimatableComponent to support custom animations"
+    },
+    {
+      "sha": "8b01cd1bb12937ea7dc5429953b24bef3b76c3df",
+      "author_login": "oblador",
+      "authored_at": "2016-11-05T11:16:41Z",
+      "message": "Switch to airbnb eslint rules"
+    },
+    {
+      "sha": "56f349257bb86cff99040f1d622806252b4d219d",
+      "author_login": "oblador",
+      "authored_at": "2016-11-04T16:50:43Z",
+      "message": "Update example to use RN 0.36.1 and a ListView"
+    },
+    {
+      "sha": "8ecbefb97e677e8b523ce7f4b8bb2d25a88d646a",
+      "author_login": "oblador",
+      "authored_at": "2016-10-14T15:34:47Z",
+      "message": "Merge pull request #60 from faceyspacey/patch-1"
+    },
+    {
+      "sha": "62085ec30060f92cb2b1e20b14f9e628377ff2e6",
+      "author_login": "faceyspacey",
+      "authored_at": "2016-10-06T11:25:55Z",
+      "message": "fix for RNW warnings regarding unsupported prop types"
+    },
+    {
+      "sha": "6ccaf06778654e63d5e5662c11de7ad8e526126e",
+      "author_login": "oblador",
+      "authored_at": "2016-08-21T15:31:03Z",
+      "message": "Merge pull request #51 from eronisko/broken_example"
+    },
+    {
+      "sha": "9597bb9348863d4a6630d92520e38c07977276c0",
+      "author_login": "eronisko",
+      "authored_at": "2016-08-17T07:29:35Z",
+      "message": "Add MainApplication name to AndroidManifest"
+    },
+    {
+      "sha": "3c254155f600b3e325e9a71dd7ee92547f3f116d",
+      "author_login": "oblador",
+      "authored_at": "2016-08-10T08:52:44Z",
+      "message": "Bumps example project to React Native 0.31."
+    },
+    {
+      "sha": "eed688392935b3ccaa1ec2b566539720de05c542",
+      "author_login": "oblador",
+      "authored_at": "2016-05-19T13:38:57Z",
+      "message": "Merge pull request #29 from miracle2k/react-web"
+    },
+    {
+      "sha": "d72c09217ee992bcae47b7e6c3f1bb701da3ac05",
+      "author_login": null,
+      "authored_at": "2016-05-18T12:54:21Z",
+      "message": "Fix Layout animations on react-web"
+    },
+    {
+      "sha": "8c69fdd3e2fb30f669568739f7b6c92ed28c5dfe",
+      "author_login": "oblador",
+      "authored_at": "2016-05-18T10:07:54Z",
+      "message": "Released 0.6.1."
+    },
+    {
+      "sha": "1a9c2c63f44d3c95992cfb3f64aa71b16bbe9009",
+      "author_login": "oblador",
+      "authored_at": "2016-05-13T15:44:06Z",
+      "message": "Merge pull request #21 from aforty/master"
+    },
+    {
+      "sha": "0ad0e27cbddb61691b937763dbc801ada852beed",
+      "author_login": "aforty",
+      "authored_at": "2016-05-13T15:40:34Z",
+      "message": "Added: README with rotate animation"
+    },
+    {
+      "sha": "9fa3b6006fa8f809c14103292a8e9712219d8dce",
+      "author_login": "aforty",
+      "authored_at": "2016-05-13T15:24:37Z",
+      "message": "Merged with origin"
+    }
+  ],
+  "issues": [
+    {
+      "number": 415,
+      "title": "fix(typings): fix AnimatableComponent ref type and animate method return signature (#407, #328)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-07-21T21:33:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 414,
+      "title": "docs: add JSDoc and improve TypeScript definitions",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-04T01:07:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 413,
+      "title": "fix: replaces UNSAFE_componentWillReceiveProps with componentDidUpdate",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-05-20T08:44:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 412,
+      "title": "Unexpected Behavior of slideOutDown Animation on Orientation Change",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-16T02:57:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 411,
+      "title": "Any Update when maintainers will new Architecture ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-05T20:48:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 410,
+      "title": "React Native TabView \"Cannot read property 'setPage' of undefined\" error on Android",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-07-16T01:19:21Z",
+      "closed_at": "2024-07-16T01:21:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 409,
+      "title": "Slide Out animation broken on v1.4.0",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-18T18:42:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 408,
+      "title": "Slide down and push other elements",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-02-28T21:25:27Z",
+      "closed_at": "2024-02-28T21:44:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 407,
+      "title": "Incorrect ref type",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-27T03:40:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 406,
+      "title": "Configure Github actions for tests and deployment",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-26T16:40:23Z",
+      "closed_at": "2023-10-26T16:42:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 405,
+      "title": "Bump dependencies and examples to React Native 0.72",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-26T16:17:52Z",
+      "closed_at": "2023-10-26T16:18:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 404,
+      "title": "I am making application on RN facing issues...like  ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-24T17:01:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 403,
+      "title": "Is this package still be maintained?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-30T16:45:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 402,
+      "title": "Change the fadeIn to fadeOut once rendered",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-11T12:49:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 401,
+      "title": "FadeIn issue on Android",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-04T09:58:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 400,
+      "title": "Drop usage of deprecated React TypeScript types",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-02-15T19:42:30Z",
+      "closed_at": "2023-05-17T13:19:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 399,
+      "title": "Cannot read property 'create' of undefined, js engine: hermes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-28T08:42:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 398,
+      "title": "Translate for pt-br",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-20T02:27:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 397,
+      "title": "Cannot read property 'flushOperations' of null, js engine: hermes",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-09-13T10:04:38Z",
+      "closed_at": "2022-09-13T10:05:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 396,
+      "title": "onAnimationBegin and onAnimationEnd doesn't work. They are not fired",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-04T10:58:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 395,
+      "title": "Bump plist from 3.0.1 to 3.0.4 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-01T23:55:21Z",
+      "closed_at": "2023-10-26T16:20:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 394,
+      "title": "Bump plist from 3.0.1 to 3.0.4",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-01T23:54:32Z",
+      "closed_at": "2023-10-26T16:20:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 393,
+      "title": "Bump plist from 3.0.1 to 3.0.4 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-01T23:54:32Z",
+      "closed_at": "2023-10-26T16:20:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 392,
+      "title": "Bump ajv from 6.10.2 to 6.12.6",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-12T02:41:22Z",
+      "closed_at": "2023-10-26T16:20:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 391,
+      "title": "Bump ajv from 6.10.2 to 6.12.6 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-12T02:40:47Z",
+      "closed_at": "2023-10-26T16:20:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 390,
+      "title": "Bump ajv from 6.10.2 to 6.12.6 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-12T02:39:52Z",
+      "closed_at": "2023-10-26T16:20:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 389,
+      "title": "Suggestion: deprecate this library in favor of moti ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-24T18:22:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 388,
+      "title": "Animation repeating when I set something in useState hook",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-01T20:53:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 387,
+      "title": "transition not working ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-30T14:18:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 386,
+      "title": "Bump tmpl from 1.0.4 to 1.0.5 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-21T05:01:38Z",
+      "closed_at": "2023-10-26T16:20:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 385,
+      "title": "Bump tmpl from 1.0.4 to 1.0.5 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-21T05:01:33Z",
+      "closed_at": "2023-10-26T16:20:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 384,
+      "title": "Bump tmpl from 1.0.4 to 1.0.5",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-21T05:00:56Z",
+      "closed_at": "2023-10-26T16:20:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 383,
+      "title": "Stop animating children.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-09-19T21:54:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 382,
+      "title": "Bump tar from 4.4.13 to 4.4.19 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-01T07:33:16Z",
+      "closed_at": "2023-10-26T16:20:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 381,
+      "title": "Bump tar from 4.4.13 to 4.4.19",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-01T07:33:10Z",
+      "closed_at": "2023-10-26T16:20:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 380,
+      "title": "Bump tar from 4.4.13 to 4.4.19 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-01T07:33:08Z",
+      "closed_at": "2023-10-26T16:20:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 379,
+      "title": "Bump path-parse from 1.0.6 to 1.0.7 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-11T03:57:41Z",
+      "closed_at": "2023-10-26T16:20:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 378,
+      "title": "Bump path-parse from 1.0.6 to 1.0.7 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-11T03:56:04Z",
+      "closed_at": "2023-10-26T16:20:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 377,
+      "title": "Bump path-parse from 1.0.6 to 1.0.7",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-11T03:55:59Z",
+      "closed_at": "2023-10-26T16:20:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 376,
+      "title": "Bump tar from 4.4.13 to 4.4.15 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-04T01:49:54Z",
+      "closed_at": "2021-09-01T07:33:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 375,
+      "title": "Bump tar from 4.4.13 to 4.4.15 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-04T01:49:53Z",
+      "closed_at": "2021-09-01T07:33:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 374,
+      "title": "Bump tar from 4.4.13 to 4.4.15",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-08-04T01:49:52Z",
+      "closed_at": "2021-09-01T07:33:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 373,
+      "title": "Bump react-native from 0.61.2 to 0.62.3 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-20T18:42:26Z",
+      "closed_at": "2023-10-26T16:20:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 372,
+      "title": "Bump react-native from 0.61.2 to 0.62.3 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-20T18:41:56Z",
+      "closed_at": "2023-10-26T16:20:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 371,
+      "title": "Bump react-native from 0.61.2 to 0.62.3",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-07-20T18:41:08Z",
+      "closed_at": "2023-10-26T16:20:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 370,
+      "title": "React Native Web support on new ejected create-react-app TypeScript project",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-19T08:17:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 369,
+      "title": "Slide animations not working on ios first time ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-02T10:25:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 368,
+      "title": "Change anchor point for rotation animation?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-17T09:34:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 367,
+      "title": "Chaining two animations with a pause between, infinitely",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-16T13:01:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 366,
+      "title": "Animation list supported by useNativeDriver",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-15T15:34:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 365,
+      "title": "Emoji wave animation",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-06-15T13:52:56Z",
+      "closed_at": "2021-06-17T09:34:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 364,
+      "title": "Does this support transform matrix ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-10T08:06:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 363,
+      "title": "Bump glob-parent from 5.1.0 to 5.1.2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-09T10:55:44Z",
+      "closed_at": "2023-10-26T16:20:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 362,
+      "title": "Bump glob-parent from 5.1.0 to 5.1.2 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-09T10:55:44Z",
+      "closed_at": "2023-10-26T16:20:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 361,
+      "title": "Bump glob-parent from 5.1.0 to 5.1.2 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-09T10:55:43Z",
+      "closed_at": "2023-10-26T16:20:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 360,
+      "title": "Animation not working",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-24T04:27:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 359,
+      "title": "Bump hosted-git-info from 2.8.5 to 2.8.9 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-10T15:51:21Z",
+      "closed_at": "2023-10-26T16:20:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 358,
+      "title": "Bump hosted-git-info from 2.8.5 to 2.8.9 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-10T15:43:54Z",
+      "closed_at": "2023-10-26T16:20:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 357,
+      "title": "Bump hosted-git-info from 2.8.5 to 2.8.9",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-10T15:33:32Z",
+      "closed_at": "2023-10-26T16:20:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 356,
+      "title": "Bump lodash from 4.17.15 to 4.17.21 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-09T10:01:58Z",
+      "closed_at": "2023-10-26T16:21:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 355,
+      "title": "Bump lodash from 4.17.15 to 4.17.21 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-09T09:56:09Z",
+      "closed_at": "2023-10-26T16:21:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 354,
+      "title": "Bump lodash from 4.17.15 to 4.17.21",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-09T09:51:03Z",
+      "closed_at": "2023-10-26T16:21:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 353,
+      "title": "Bump handlebars from 4.4.3 to 4.7.7",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-07T16:50:09Z",
+      "closed_at": "2023-10-26T16:21:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 352,
+      "title": "Bump handlebars from 4.4.3 to 4.7.7 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-07T16:46:28Z",
+      "closed_at": "2023-10-26T16:21:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 351,
+      "title": "Bump handlebars from 4.4.3 to 4.7.7 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-07T16:45:01Z",
+      "closed_at": "2023-10-26T16:21:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 350,
+      "title": "Bump ua-parser-js from 0.7.20 to 0.7.28",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-07T01:58:53Z",
+      "closed_at": "2023-10-26T16:21:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 349,
+      "title": "Bump ua-parser-js from 0.7.20 to 0.7.28 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-07T01:58:05Z",
+      "closed_at": "2023-10-26T16:21:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 348,
+      "title": "Bump ua-parser-js from 0.7.20 to 0.7.28 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-05-07T01:56:59Z",
+      "closed_at": "2023-10-26T16:21:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 347,
+      "title": "Undefine is not an object",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-04-08T10:30:55Z",
+      "closed_at": "2021-04-19T13:39:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 346,
+      "title": "Bump y18n from 3.2.1 to 3.2.2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-30T18:51:14Z",
+      "closed_at": "2023-10-26T16:21:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 345,
+      "title": "Bump y18n from 3.2.1 to 3.2.2 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-30T18:45:20Z",
+      "closed_at": "2023-10-26T16:21:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 344,
+      "title": "Bump y18n from 3.2.1 to 3.2.2 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-30T18:43:31Z",
+      "closed_at": "2023-10-26T16:21:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 343,
+      "title": "Animatable.createAnimatableComponent(Pressable) dont accept the same style props.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-03-15T12:27:14Z",
+      "closed_at": "2021-03-24T04:20:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 342,
+      "title": "can i disable the touchables during aniamtions? please help",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-05T19:37:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 341,
+      "title": "Animation working problem with Hooks",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-04T09:44:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 340,
+      "title": "Bump ini from 1.3.5 to 1.3.7 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-11T10:23:08Z",
+      "closed_at": "2023-10-26T16:21:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 339,
+      "title": "Bump ini from 1.3.5 to 1.3.7",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-11T10:09:02Z",
+      "closed_at": "2023-10-26T16:21:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 338,
+      "title": "Bump ini from 1.3.5 to 1.3.7 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-11T10:09:00Z",
+      "closed_at": "2023-10-26T16:21:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 337,
+      "title": "Animatable For FastImage",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-01T16:24:56Z",
+      "closed_at": "2022-06-01T13:10:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 336,
+      "title": "Is this thing abandoned? Any forks or alternatives?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-19T02:52:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 335,
+      "title": "Add support for gesture based animations ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-17T14:22:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 334,
+      "title": "I want to create a notifications animation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-21T20:02:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 333,
+      "title": "is any method to stop animatable",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-22T03:37:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 332,
+      "title": "Bump handlebars from 4.4.3 to 4.7.6 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-05T02:58:10Z",
+      "closed_at": "2021-05-07T16:45:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 331,
+      "title": "Bump handlebars from 4.4.3 to 4.7.6 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-05T02:56:54Z",
+      "closed_at": "2021-05-07T16:46:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 330,
+      "title": "Bump handlebars from 4.4.3 to 4.7.6",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-05T02:54:39Z",
+      "closed_at": "2021-05-07T16:50:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 329,
+      "title": "Is this available for web with react js. or any better replacement for react js.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-31T22:35:51Z",
+      "closed_at": "2020-09-10T17:33:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 328,
+      "title": "Add .animate() method to typings",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-19T17:47:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 327,
+      "title": "onPress is not working with custom button component",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-12T12:26:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 326,
+      "title": "TransformError react native0.63.2",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-11T11:00:19Z",
+      "closed_at": "2021-07-08T05:18:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 325,
+      "title": "Animation definitions must have at least two values",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-10T15:17:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 324,
+      "title": "Disable iterationDelay delay on the beginning of animation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-08-06T20:17:38Z",
+      "closed_at": "2023-10-26T16:29:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 323,
+      "title": "How to increase time duration of animation?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-06T16:36:26Z",
+      "closed_at": "2020-08-06T16:44:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 322,
+      "title": "Bump lodash from 4.17.15 to 4.17.19",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-17T11:06:48Z",
+      "closed_at": "2021-05-09T09:51:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 321,
+      "title": "Bump lodash from 4.17.15 to 4.17.19 in /Examples/MakeItRain",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-17T11:06:44Z",
+      "closed_at": "2021-05-09T09:56:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 320,
+      "title": "Bump lodash from 4.17.15 to 4.17.19 in /Examples/AnimatableExplorer",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-17T11:06:44Z",
+      "closed_at": "2021-05-09T10:02:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 319,
+      "title": "useNativeDriver is required",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-29T14:00:20Z",
+      "closed_at": "2021-05-25T03:20:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 318,
+      "title": "useNativeDriver with Opacity causes Android element to show during Native UI",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-22T14:48:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 317,
+      "title": "How to implement this in Gatsby?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-15T01:45:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 316,
+      "title": "TypeError: undefined is not an object (evaluating 'Object.keys(definition)')",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-31T18:40:22Z",
+      "closed_at": "2020-05-31T23:11:30Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "oblador",
+      "contributions": 149
+    },
+    {
+      "login": "aforty",
+      "contributions": 5
+    },
+    {
+      "login": "mattyclarkson",
+      "contributions": 3
+    },
+    {
+      "login": "haruelrovix",
+      "contributions": 2
+    },
+    {
+      "login": "almostintuitive",
+      "contributions": 2
+    },
+    {
+      "login": "IceInBeard",
+      "contributions": 1
+    },
+    {
+      "login": "Andries-Smit",
+      "contributions": 1
+    },
+    {
+      "login": "bsy",
+      "contributions": 1
+    },
+    {
+      "login": "flybayer",
+      "contributions": 1
+    },
+    {
+      "login": "deanvanniekerk",
+      "contributions": 1
+    },
+    {
+      "login": "donovanhiland",
+      "contributions": 1
+    },
+    {
+      "login": "emersonlaurentino",
+      "contributions": 1
+    },
+    {
+      "login": "eronisko",
+      "contributions": 1
+    },
+    {
+      "login": "CareLuLu-Gabriel",
+      "contributions": 1
+    },
+    {
+      "login": "HishamMubarak",
+      "contributions": 1
+    },
+    {
+      "login": "faceyspacey",
+      "contributions": 1
+    },
+    {
+      "login": "jndev",
+      "contributions": 1
+    },
+    {
+      "login": "mifi",
+      "contributions": 1
+    },
+    {
+      "login": "mikehobi",
+      "contributions": 1
+    },
+    {
+      "login": "rpastorelle",
+      "contributions": 1
+    },
+    {
+      "login": "Lilysunstrider",
+      "contributions": 1
+    },
+    {
+      "login": "sospedra",
+      "contributions": 1
+    },
+    {
+      "login": "eps1lon",
+      "contributions": 1
+    },
+    {
+      "login": "adam-aerobotics",
+      "contributions": 1
+    },
+    {
+      "login": "alphasp",
+      "contributions": 1
+    },
+    {
+      "login": "aminroosta",
+      "contributions": 1
+    },
+    {
+      "login": "br4nnigan",
+      "contributions": 1
+    },
+    {
+      "login": "joel-bitar",
+      "contributions": 1
+    },
+    {
+      "login": "yiminghe",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v1.4.0",
+      "published_at": "2023-10-26T16:46:05Z"
+    },
+    {
+      "tag": "v1.3.3",
+      "published_at": "2019-10-13T12:44:29Z"
+    },
+    {
+      "tag": "v1.3.2",
+      "published_at": "2019-03-19T17:45:28Z"
+    },
+    {
+      "tag": "v1.3.1",
+      "published_at": "2019-01-03T23:29:12Z"
+    },
+    {
+      "tag": "v1.3.0",
+      "published_at": "2018-05-31T19:41:59Z"
+    },
+    {
+      "tag": "v1.2.4",
+      "published_at": "2017-09-18T22:58:34Z"
+    },
+    {
+      "tag": "v1.2.3",
+      "published_at": "2017-07-24T23:48:07Z"
+    },
+    {
+      "tag": "v1.2.2",
+      "published_at": "2017-06-11T19:10:07Z"
+    },
+    {
+      "tag": "v1.2.1",
+      "published_at": "2017-06-03T12:11:29Z"
+    },
+    {
+      "tag": "v1.2.0",
+      "published_at": "2017-05-06T16:56:02Z"
+    },
+    {
+      "tag": "v1.1.1",
+      "published_at": "2017-03-19T00:17:28Z"
+    },
+    {
+      "tag": "v1.1.0",
+      "published_at": "2016-11-30T10:24:47Z"
+    },
+    {
+      "tag": "v1.0.0",
+      "published_at": "2016-11-24T17:06:39Z"
+    },
+    {
+      "tag": "v0.6.1",
+      "published_at": "2016-05-18T10:08:51Z"
+    },
+    {
+      "tag": "v0.6.0",
+      "published_at": "2016-05-07T17:46:16Z"
+    },
+    {
+      "tag": "v0.5.2",
+      "published_at": "2016-03-20T15:04:29Z"
+    },
+    {
+      "tag": "v0.5.1",
+      "published_at": "2016-02-29T03:25:39Z"
+    },
+    {
+      "tag": "v0.5.0",
+      "published_at": "2016-01-31T23:09:14Z"
+    },
+    {
+      "tag": "v0.4.1",
+      "published_at": "2015-12-25T21:21:13Z"
+    },
+    {
+      "tag": "v0.4.0",
+      "published_at": "2015-11-29T12:23:01Z"
+    },
+    {
+      "tag": "v0.3.1",
+      "published_at": "2015-11-16T18:15:20Z"
+    },
+    {
+      "tag": "v0.3.0",
+      "published_at": "2015-10-26T19:41:46Z"
+    },
+    {
+      "tag": "v0.2.0",
+      "published_at": "2015-10-21T06:42:17Z"
+    },
+    {
+      "tag": "v0.1.0",
+      "published_at": "2015-10-21T06:38:42Z"
+    }
+  ],
+  "collected_at": "2026-10-05T13:16:33.613135Z"
+}

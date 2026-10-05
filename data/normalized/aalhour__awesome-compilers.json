@@ -1,0 +1,1665 @@
+{
+  "full_name": "aalhour/awesome-compilers",
+  "owner": "aalhour",
+  "name": "awesome-compilers",
+  "url": "https://github.com/aalhour/awesome-compilers",
+  "description": ":sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes",
+  "primary_language": null,
+  "topics": [
+    "awesome",
+    "awesome-list",
+    "books",
+    "compiler",
+    "interpreter",
+    "list",
+    "programming-language",
+    "resources",
+    "runtime",
+    "virtual-machine"
+  ],
+  "license_spdx": "NOASSERTION",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 9921,
+  "forks": 712,
+  "open_issues": 64,
+  "created_at": "2016-07-13T20:54:48Z",
+  "pushed_at": "2024-05-26T14:07:19Z",
+  "updated_at": "2026-10-03T03:54:52Z",
+  "commits": [
+    {
+      "sha": "906d6f41127aef8987e92cba78856ad45c20637b",
+      "author_login": "guneysus",
+      "authored_at": "2022-11-09T19:57:39Z",
+      "message": "\"Basics of Compiler Design\" broken link fixed (#97)"
+    },
+    {
+      "sha": "98f99a860410d15c0ff02a62116a87c9f2606622",
+      "author_login": "HPCguy",
+      "authored_at": "2022-11-09T19:56:52Z",
+      "message": "Squint peephole optimizer halving code size and tripling performance (#108)"
+    },
+    {
+      "sha": "1877e9024920e2db432cba5e4db6337d0d4110f8",
+      "author_login": "dunefox",
+      "authored_at": "2022-11-09T19:55:57Z",
+      "message": "Update README.md (#109)"
+    },
+    {
+      "sha": "799099fd85a91d22dcb21b75f06885ed3815f810",
+      "author_login": "aalhour",
+      "authored_at": "2020-05-27T08:43:02Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b15fd53d773c62a4bb60d37a8cfa803a006b4b5c",
+      "author_login": "aalhour",
+      "authored_at": "2018-10-05T16:02:45Z",
+      "message": "Implement Awesome-compliance for Books Section (#59)"
+    },
+    {
+      "sha": "7a4ba83c618adf6616c8344b9f56952d4d457819",
+      "author_login": "aalhour",
+      "authored_at": "2018-09-24T08:18:56Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f5313004d9f0fca4f817462ae8bb49dc2bf19bda",
+      "author_login": "swalk-cavium",
+      "authored_at": "2018-09-19T12:06:48Z",
+      "message": "Add reference to BOLT (#56)"
+    },
+    {
+      "sha": "3c975eef867cfbae135ce4177ba0bbc9dd8ef0f7",
+      "author_login": "mrnugget",
+      "authored_at": "2018-09-19T12:04:20Z",
+      "message": "Add \"Writing A Compiler In Go\" to books section (#50)"
+    },
+    {
+      "sha": "e38d2f5b286343d0ccc711e5d1fb6ca6227d61a2",
+      "author_login": "antonmedv",
+      "authored_at": "2018-09-13T12:43:55Z",
+      "message": "Add ultra-tiny-compiler (#55)"
+    },
+    {
+      "sha": "8d64d5264e3610dd8efac21074a997c3c3462087",
+      "author_login": "antonmedv",
+      "authored_at": "2018-09-12T08:50:14Z",
+      "message": "Update README.md (#54)"
+    },
+    {
+      "sha": "be20cc5e75be6d640932cadb9f77f6f53ac5dd23",
+      "author_login": "aalhour",
+      "authored_at": "2018-08-17T07:46:06Z",
+      "message": "Update PULL_REQUEST_TEMPLATE.md"
+    },
+    {
+      "sha": "17045f0da5a4e5c04b2d8cc6593031ec6fc9ff20",
+      "author_login": "aalhour",
+      "authored_at": "2018-08-17T07:44:29Z",
+      "message": "Create PULL_REQUEST_TEMPLATE.md"
+    },
+    {
+      "sha": "e1c0ed9bb92c16877a5eb726a465127397e9a53f",
+      "author_login": "wudi",
+      "authored_at": "2018-08-17T07:38:04Z",
+      "message": "Add ragel state machine compiler (#52)"
+    },
+    {
+      "sha": "e45991906a3abd01ef41d82fcca5e7c645ec2112",
+      "author_login": "erhanbaris",
+      "authored_at": "2018-08-16T07:10:45Z",
+      "message": "Added EasyLang (#49)"
+    },
+    {
+      "sha": "868989be6a24b7e1a1a410b6c6c595455799404c",
+      "author_login": "lmauromb",
+      "authored_at": "2018-08-16T07:07:53Z",
+      "message": "Adds Terence Parr presentation on How to Build a Virtual Machine (#51)"
+    },
+    {
+      "sha": "d69f8bb21cf129f2640446cbc2c9a36b85c77e20",
+      "author_login": "syegulalp",
+      "authored_at": "2018-06-04T11:52:20Z",
+      "message": "added Gone compiler (#47)"
+    },
+    {
+      "sha": "37c6e48e75515dd798fd1786e13b57c30abb7f9a",
+      "author_login": "syegulalp",
+      "authored_at": "2018-06-02T12:26:04Z",
+      "message": "Added `Akilang` in Educational and Toy Projects (#46)"
+    },
+    {
+      "sha": "63d8db45fa4d5153ffa4b803210dd42160a7edc9",
+      "author_login": "lboasso",
+      "authored_at": "2018-04-30T08:23:34Z",
+      "message": "Add the oberonc compiler (#45)"
+    },
+    {
+      "sha": "65a37ffcef09d1dc6660808efe4274eb7cfa3c29",
+      "author_login": "jserv",
+      "authored_at": "2018-01-14T20:48:13Z",
+      "message": "Mention AMaCC as another toy compiler (#39)"
+    },
+    {
+      "sha": "13a7fb1998459d7838a7505ae88e1a39456d2d3c",
+      "author_login": "phase",
+      "authored_at": "2018-01-14T20:47:21Z",
+      "message": "Add JavaCPP Presets for LLVM (#41)"
+    },
+    {
+      "sha": "a901cf5d8416e27f45846b08278676f11bb91f3e",
+      "author_login": "KCreate",
+      "authored_at": "2018-01-14T20:47:00Z",
+      "message": "Added my StackVM project (#42)"
+    },
+    {
+      "sha": "c887c98fa3ff527d187395a7906e705a91147047",
+      "author_login": "bencz",
+      "authored_at": "2017-11-19T16:49:55Z",
+      "message": "Added new compiler and library (#37)"
+    },
+    {
+      "sha": "7d56414aed8c01f1c1caa3141cc1cddc919313a1",
+      "author_login": "LADSoft",
+      "authored_at": "2017-10-20T10:00:42Z",
+      "message": "Add OrangeC and MSIL compiler references (#36)"
+    },
+    {
+      "sha": "7b1db84025b41bd2f1ac29059f39fac634258f2a",
+      "author_login": "uraimo",
+      "authored_at": "2017-09-13T16:13:48Z",
+      "message": "Added Building a Lisp in Swift (#35)"
+    },
+    {
+      "sha": "f1b0143f55a592b43751177b823d301e4b4f387a",
+      "author_login": null,
+      "authored_at": "2017-09-11T15:48:57Z",
+      "message": "Add Ohm and Nearley (#34)"
+    },
+    {
+      "sha": "781f84d95f9c2ca015c9bb9f5c155b4ff511c1a3",
+      "author_login": "Maaarcocr",
+      "authored_at": "2017-09-02T19:07:58Z",
+      "message": "Addind ZetaVM to the list of Tools and Frameworks. (#33)"
+    },
+    {
+      "sha": "872d03462581a9961dbc54be1575d6e16a77d85a",
+      "author_login": "aalhour",
+      "authored_at": "2017-07-09T12:10:09Z",
+      "message": "Added HHVM."
+    },
+    {
+      "sha": "4b883bf0103d2cfe131b9d1ed3f114da97d3a0b3",
+      "author_login": "aalhour",
+      "authored_at": "2017-07-06T12:19:21Z",
+      "message": "Merge pull request #27 from KCreate/patch-1"
+    },
+    {
+      "sha": "d1a4eaeffa8345c0d1d6d5e39280bb4b38e212db",
+      "author_login": "KCreate",
+      "authored_at": "2017-07-06T12:11:28Z",
+      "message": "Added the charly programming language"
+    },
+    {
+      "sha": "262129b0bc78f268b6ffc98e7142a7beeff38e6a",
+      "author_login": "aalhour",
+      "authored_at": "2017-06-24T17:18:15Z",
+      "message": "Merge pull request #26 from MaxwellBo/patch-2"
+    },
+    {
+      "sha": "bbe2b0e8827026568ef6d160a70b963d7f7e7493",
+      "author_login": "MaxwellBo",
+      "authored_at": "2017-06-24T04:39:44Z",
+      "message": "Add Hindley-Damas-Milner tutorial"
+    },
+    {
+      "sha": "2d98fbf2fa4a812e82040f731a74d1ad68dc68b2",
+      "author_login": "aalhour",
+      "authored_at": "2017-06-23T15:05:51Z",
+      "message": "Merge pull request #25 from aalhour/add-license-1"
+    },
+    {
+      "sha": "a2a6bafd77d39b07a57ea359e7d49e80238c099c",
+      "author_login": "aalhour",
+      "authored_at": "2017-06-23T15:05:44Z",
+      "message": "Create LICENSE.md"
+    },
+    {
+      "sha": "7da78d88a3e7fba0b84fb7dcf123a6f5c5c59558",
+      "author_login": "aalhour",
+      "authored_at": "2017-06-23T15:03:24Z",
+      "message": "Merge pull request #24 from aalhour/add-code-of-conduct-1"
+    },
+    {
+      "sha": "a037ae4dd693f4d45481bfb23039b6a41d468de6",
+      "author_login": "aalhour",
+      "authored_at": "2017-06-23T15:02:57Z",
+      "message": "Create CODE_OF_CONDUCT.md"
+    },
+    {
+      "sha": "4ff8fc240ef3970158c9a8bb0f2b306757eb6b90",
+      "author_login": "aalhour",
+      "authored_at": "2017-06-22T09:37:56Z",
+      "message": "Added Federico Tomassetti's article."
+    },
+    {
+      "sha": "1a14e028fa7e66a1976b6623356a81b76be3b33c",
+      "author_login": "aalhour",
+      "authored_at": "2017-06-16T13:52:42Z",
+      "message": "Merge pull request #23 from paladin-t/master"
+    },
+    {
+      "sha": "1a337a6ae8addf73e4ca28b75d289d6990b218be",
+      "author_login": "paladin-t",
+      "authored_at": "2017-06-16T02:47:16Z",
+      "message": "+Added MY-BASIC."
+    },
+    {
+      "sha": "1c3d89d75927e80dd533b8125c88a000ee186cb7",
+      "author_login": "aalhour",
+      "authored_at": "2017-06-15T19:12:36Z",
+      "message": "Added a research paper about Dynamic Loading."
+    },
+    {
+      "sha": "1aaac321e3d3420080c9c2835be49b5645a06dfb",
+      "author_login": "aalhour",
+      "authored_at": "2017-06-15T19:09:15Z",
+      "message": "Add the tutorial: \"A Beginner's Guide to Linkers\"."
+    },
+    {
+      "sha": "e3d917ce3fd909f7b1e54a27d5afb2511db295e7",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-30T20:07:20Z",
+      "message": "Shortened the Amazon links for some books."
+    },
+    {
+      "sha": "3810e451ad3c962f640eec4c56da66394da21dac",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-30T20:05:12Z",
+      "message": "Merge pull request #22 from sger/master"
+    },
+    {
+      "sha": "a476fba8702b282388d2278c158f03362209c760",
+      "author_login": "sger",
+      "authored_at": "2017-05-30T15:26:48Z",
+      "message": "Adding book Writing Compilers and Interpreters: A Software Engineering Approach"
+    },
+    {
+      "sha": "4868258ed12711ca64696a34b91c7dbc7da71a86",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-27T20:39:32Z",
+      "message": "Added the Capstone Disassembler Framework."
+    },
+    {
+      "sha": "88e7eac44571608a56674435ff5b60776a0f9c27",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-27T20:36:23Z",
+      "message": "Added the Keystone Assembler Framework."
+    },
+    {
+      "sha": "5449c3224ca09f1b95cf2cd464cdb6ab478be3af",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-26T15:34:29Z",
+      "message": "Fixed the C / C++ Contents link."
+    },
+    {
+      "sha": "ea1783d452df04adac6308acffab8df98e50ffaa",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-26T15:32:53Z",
+      "message": "Merged the C and C++ sections together."
+    },
+    {
+      "sha": "7a48a51e5030f892ea62df78e6eb7705064d182a",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-25T23:08:09Z",
+      "message": "Fixed the C++ contents link."
+    },
+    {
+      "sha": "c76aaa7fc807cbcd4fd58604bf95fa64e269aa37",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-25T23:07:26Z",
+      "message": "Added the C++ section and AsmJIT project."
+    },
+    {
+      "sha": "97bb9a867db2ed846525f3b0a6b138beaac67951",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-25T11:46:25Z",
+      "message": "Added the Incremental Compiler Construction paper."
+    },
+    {
+      "sha": "5c193e23e47d7e6f5bda64d609a4d01958ae81c1",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-25T08:32:08Z",
+      "message": "Added the Black Reflective Programming Language."
+    },
+    {
+      "sha": "8793373b6cbb15988a7fd34c65caf3c827fc22bc",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-25T08:28:20Z",
+      "message": "Added the \"Programming Should Eat Itself\" talk."
+    },
+    {
+      "sha": "156a45146181dd121879c950ece6de048c10804c",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-25T08:22:18Z",
+      "message": "Added the miniKanren.org link."
+    },
+    {
+      "sha": "76703ce11195c8d75866185574ae5a54dcff26ee",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-25T07:15:53Z",
+      "message": "Added J. McCarthy's \"A Micro-Manual for LISP\" paper."
+    },
+    {
+      "sha": "ccb62a0c4ed4748ebf95a8e8ca427c5a74228021",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-25T07:09:50Z",
+      "message": "Added \"The Most Beautiful Program Ever Written\" video talk."
+    },
+    {
+      "sha": "4c2ffda1e240f9e663cc0065375fa5ae500381ae",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-22T19:33:30Z",
+      "message": "Added 3 lisp interpreter tutorials."
+    },
+    {
+      "sha": "4be32caa69068843e3e63189c8393e5647637602",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-22T15:40:05Z",
+      "message": "Added descriptions to some of the books."
+    },
+    {
+      "sha": "d4ac9c27d5ba92c5289e0492a7b7949cfa815b36",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-21T16:40:48Z",
+      "message": "Added \"tisp\" under educational and toy projects."
+    },
+    {
+      "sha": "040aa4d524c31b506dbb29611b9f4ddf089784ee",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-21T14:24:24Z",
+      "message": "Added author names to some books."
+    },
+    {
+      "sha": "62532bcf68c65d2392ee29aa77ac44569bdcbfb9",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-21T14:22:26Z",
+      "message": "Added the Build Your Own Lisp book."
+    },
+    {
+      "sha": "e1f86e8c9ee029903478170c575704204497074d",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-21T14:21:10Z",
+      "message": "Added the Mal Interpreter project."
+    },
+    {
+      "sha": "6681926e820b6fe0f7232e2bb262b0b1ba0f1d6b",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-20T11:20:19Z",
+      "message": "Added a list of compiler projects: Eta, Frege and Zig."
+    },
+    {
+      "sha": "fb6d9ec05e6f4e2c67e435f3c889b43faf6712db",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-20T10:32:04Z",
+      "message": "Added the \"CPython - A Ten-Hour Codewalk\" videos."
+    },
+    {
+      "sha": "537be368397e60d831bc7166b134cdc11a5d4b53",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-20T10:25:05Z",
+      "message": "Added the P programming language."
+    },
+    {
+      "sha": "1b180e30e90e5dc65f98173c933dec2c618c3738",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-19T06:11:33Z",
+      "message": "Merge pull request #19 from uraimo/patch-1"
+    },
+    {
+      "sha": "14c5f04434b031c834ebf3a5f7470fa02e33d221",
+      "author_login": "uraimo",
+      "authored_at": "2017-05-19T06:03:07Z",
+      "message": "Added additional SICP version"
+    },
+    {
+      "sha": "22983f58740d749b49f337761b1c902826bb3688",
+      "author_login": "uraimo",
+      "authored_at": "2017-05-18T20:29:52Z",
+      "message": "High resolution SICP"
+    },
+    {
+      "sha": "711cd82cdec55243c79b2d2413c108f243cf5d0b",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-18T06:54:15Z",
+      "message": "Added the Writing an interpreter in Go book."
+    },
+    {
+      "sha": "034c365937c9b43f63cb88ec52f003b95c9a7404",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-18T06:00:33Z",
+      "message": "Merge pull request #18 from rhysd/go-things"
+    },
+    {
+      "sha": "3f7eb58918b7af5e8fb1c38361820728fe00048c",
+      "author_login": "rhysd",
+      "authored_at": "2017-05-18T02:35:26Z",
+      "message": "Fix indentation of ToC"
+    },
+    {
+      "sha": "783e22105210558673be4d021cc84df1b2e49e9e",
+      "author_login": "rhysd",
+      "authored_at": "2017-05-18T02:34:30Z",
+      "message": "Add some projects in Go"
+    },
+    {
+      "sha": "6880cc73fcd7b17eeab722d8a72cfce18bc3fa32",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-17T20:36:41Z",
+      "message": "Merge pull request #17 from xuanruiqi/master"
+    },
+    {
+      "sha": "7fddee9300f8dd4c624a5c5364cff483baaf3542",
+      "author_login": "xuanruiqi",
+      "authored_at": "2017-05-17T20:35:24Z",
+      "message": "Update README"
+    },
+    {
+      "sha": "336408acdcea975a777ecaf8061a4bec70abe550",
+      "author_login": "xuanruiqi",
+      "authored_at": "2017-05-17T19:18:54Z",
+      "message": "Merge branch 'master' of github.com:xuanruiqi/awesome-compilers. Merge from upstream."
+    },
+    {
+      "sha": "7e98c66323a0e6c41b0f1f0462010a583e721803",
+      "author_login": "xuanruiqi",
+      "authored_at": "2017-05-17T19:18:12Z",
+      "message": "Added even more resources - mostly classic papers"
+    },
+    {
+      "sha": "9fce99144eb59e58f5a2c4920dd4a536363d0540",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-17T18:51:25Z",
+      "message": "Merge pull request #15 from s0cks/master"
+    },
+    {
+      "sha": "dc80962227fdb05d455d98d5ffce8ec8b8eb6aeb",
+      "author_login": "s0cks",
+      "authored_at": "2017-05-17T18:00:26Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a24f028606d9d07d030214e8497036eb3d3a8d9b",
+      "author_login": "xuanruiqi",
+      "authored_at": "2017-05-17T12:27:02Z",
+      "message": "Merge pull request #1 from aalhour/master"
+    },
+    {
+      "sha": "86f5ade709e371fecfc893ad61db44e51e52961f",
+      "author_login": "s0cks",
+      "authored_at": "2017-05-16T19:44:49Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "6a56a4bab25bb981a9f13f8ab0ed0e1919e83e81",
+      "author_login": "s0cks",
+      "authored_at": "2017-05-16T19:42:22Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "7d5993328d01a76483f0390186b30bbd9d0b6eea",
+      "author_login": "s0cks",
+      "authored_at": "2017-05-16T14:20:57Z",
+      "message": "Merge pull request #1 from s0cks/patch-1"
+    },
+    {
+      "sha": "25845a200d9d0f69d4aeb5544ebd6031bad74ade",
+      "author_login": "s0cks",
+      "authored_at": "2017-05-16T14:19:04Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d1d1fe903697489e0769e98d7fd2f4358526743a",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-16T11:14:20Z",
+      "message": "Added several compiler and runtime projects."
+    },
+    {
+      "sha": "55d65e020744f0edd821f591db11e09a75c33cba",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-15T21:05:59Z",
+      "message": "Add Gluon's compiler"
+    },
+    {
+      "sha": "d971faed5b9dd32389d177316d85eda6d40b2d73",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-15T21:01:59Z",
+      "message": "Add the Lily Lang interpreter project."
+    },
+    {
+      "sha": "164ccb216a5799aa1416123863243c079109f6ba",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-15T20:57:16Z",
+      "message": "Restructured the Projects section."
+    },
+    {
+      "sha": "c09991600571288b54ce874146c217c1791e6067",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-15T17:41:22Z",
+      "message": "Added \"Lambda The Ultimate\" to the list of blogs."
+    },
+    {
+      "sha": "532affdea71c2e419ba3f9b94e68bdd392494806",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-15T17:22:46Z",
+      "message": "Added a few LLVM articles and tutorials."
+    },
+    {
+      "sha": "3fdb4172b083329520daf9134f111f625e451e38",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-15T17:13:18Z",
+      "message": "Added the \"Linkers and Loaders\" book."
+    },
+    {
+      "sha": "75e4f2eb94010474db544c0d9bb44a1e84ae98f4",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-15T16:53:47Z",
+      "message": "Added the Programming Language Project (book chapter)."
+    },
+    {
+      "sha": "6c50ab9376b1c6b0ed8317f648be3f8aca3202f3",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-15T16:50:51Z",
+      "message": "Added the Lisperator tutorial."
+    },
+    {
+      "sha": "ae0286434f713793e27406141a4cfb570652819e",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-15T16:48:47Z",
+      "message": "Added the BEAM Book."
+    },
+    {
+      "sha": "0e522d2c548674b927bdf2b82f1416f9b9ce131a",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-15T12:37:47Z",
+      "message": "Merge pull request #13 from xuanruiqi/master"
+    },
+    {
+      "sha": "f0a5b0e4f53bb4e63d986d2af5cdbfe29d1037c5",
+      "author_login": "xuanruiqi",
+      "authored_at": "2017-05-15T12:04:18Z",
+      "message": "Fixes"
+    },
+    {
+      "sha": "7893ab2af8213800d242572a8745f4d240066edf",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-15T11:41:55Z",
+      "message": "Merge pull request #12 from pavog/patch-1"
+    },
+    {
+      "sha": "8b290b851e11113b0a12859bfa9ed277a3f01066",
+      "author_login": "xuanruiqi",
+      "authored_at": "2017-05-15T11:09:40Z",
+      "message": "Added a few resources, including DCPL and some tutorials"
+    },
+    {
+      "sha": "fe1fcaaf8eb949a509c5745330045e8e93a4969a",
+      "author_login": "pavog",
+      "authored_at": "2017-05-15T10:22:38Z",
+      "message": "Change kaffee to kaffe"
+    },
+    {
+      "sha": "99a2f2202dae743a13f9deddf7573ea7a3db06c4",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-15T10:16:02Z",
+      "message": "Set theme jekyll-theme-hacker"
+    },
+    {
+      "sha": "76ae42124341c32e4297577b3b6c4440bed698a9",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-14T20:18:15Z",
+      "message": "Set theme jekyll-theme-modernist"
+    },
+    {
+      "sha": "630f86439ccf8f24a422b7dcb9c9cf868d5460f5",
+      "author_login": "aalhour",
+      "authored_at": "2017-05-14T20:16:33Z",
+      "message": "Set theme jekyll-theme-dinky"
+    }
+  ],
+  "issues": [
+    {
+      "number": 139,
+      "title": "Add PXX (self-hosting Pascal/C/Python compiler)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-10-03T20:31:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 138,
+      "title": "Add Externum (Educational and Toy Projects)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-09-19T15:45:25Z",
+      "closed_at": "2026-10-03T11:39:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 137,
+      "title": "Add Oli-Nat programming language to README",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-09-18T19:47:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 136,
+      "title": "Add WATE programming language to Compilers and Interpreters",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-09-18T06:16:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 135,
+      "title": "Add NOVA's Compiler",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-09-06T17:15:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 134,
+      "title": "Add Semaprax compiler",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-08-11T17:54:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 133,
+      "title": "Add SolScript to Serious Projects",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-05T11:56:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 132,
+      "title": "Add TutorialSearch to Tutorials",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-22T04:45:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 131,
+      "title": "Add Capa to Serious Projects",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-17T10:29:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 130,
+      "title": "Add assembly-repl",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-03T23:25:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 129,
+      "title": "Add Lateralus to Educational and Toy Projects",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-27T17:20:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 125,
+      "title": "Add Lateralus to Serious Projects",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-04T00:22:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 124,
+      "title": " Add Mesa-LP to Serious Projects",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-02T09:24:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 123,
+      "title": "Add Lingua Universale to Serious Projects",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-16T09:21:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 122,
+      "title": "Add Benoit — transpile-to-JS language with inline test assertions",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-08T08:24:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 121,
+      "title": "Add NAAb polyglot language to Serious Projects",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-05T17:53:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 120,
+      "title": "Add Temporal-Parser to JavaScript section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-13T18:59:39Z",
+      "closed_at": "2026-02-18T00:08:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 119,
+      "title": "Add Glang",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-30T13:31:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 118,
+      "title": "Add link to `Papers on Compiler Optimizations: Analysis and Transformations` collection",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-10-03T23:22:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 117,
+      "title": "Add haskell \"prettyprinter\" library",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-08-31T03:50:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 116,
+      "title": "Adding UFMG's static analysis course",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-05-26T14:07:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 115,
+      "title": "Add \"A Compiler Writing Journey\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-23T14:18:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 114,
+      "title": "Add loxcraft under Toy Projects",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-29T23:29:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 113,
+      "title": "add Machine Learning Compilers",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-25T10:44:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 112,
+      "title": "Change Simple-MSIL-Compiler to OrangeC",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-08T07:52:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 111,
+      "title": "Fix broken link of \"The SSA Book\"",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-09T08:34:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 110,
+      "title": "Cake a C23 front end and transpiler",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-01-04T14:51:58Z",
+      "closed_at": "2023-01-16T18:09:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 109,
+      "title": "Update README.md: Fixed typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-05-11T19:40:43Z",
+      "closed_at": "2022-11-09T19:55:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 108,
+      "title": "Squint peephole optimizer halving code size and tripling performance",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-03T09:01:51Z",
+      "closed_at": "2022-11-09T19:56:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 107,
+      "title": "Add QBE IR for Rust bullet",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-02-09T21:18:22Z",
+      "closed_at": "2023-11-29T13:49:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 106,
+      "title": "Add tutorial `Writing a basic x86-64 JIT compiler from scratch in stock Python`",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-09-28T15:19:21Z",
+      "closed_at": "2026-03-05T11:11:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 105,
+      "title": "Add coollang-2020-fs to Educational and Toy Projects",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-08-30T15:24:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 104,
+      "title": "Add Mewa compiler-compiler to the list",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-22T12:23:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 103,
+      "title": "Link to \"CPython - A Ten-Hour Codewalk\" is broken",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-22T07:51:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 102,
+      "title": "Add/Use different URL for Ragel (Finite State Machine) parser",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-18T17:28:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 101,
+      "title": "pixie-lang",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-02-21T14:32:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 100,
+      "title": "'Basics of Compiler Design' leads to a 404",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-15T22:13:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 99,
+      "title": "Update link to Dolan \"mov\" paper",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-02-07T12:22:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 98,
+      "title": "Add CIRCT to list of compiler projects.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-18T06:03:09Z",
+      "closed_at": "2021-01-27T08:47:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 97,
+      "title": "\"Basics of Compiler Design\" broken link fixed",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-04T08:43:24Z",
+      "closed_at": "2022-11-09T19:57:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 96,
+      "title": "fixed typo",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-11-16T05:54:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 95,
+      "title": "Add Compiling a Lisp",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-10-06T08:02:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 94,
+      "title": "Fixed misspellings",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-03T09:19:40Z",
+      "closed_at": "2026-05-26T00:11:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 93,
+      "title": "Add jit-tutorial to Educational and Toy Projects",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-03T09:11:57Z",
+      "closed_at": "2026-05-26T00:11:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 92,
+      "title": "Add Strumenta Community",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-02T10:04:38Z",
+      "closed_at": "2022-11-25T13:38:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 91,
+      "title": "Fix repeated typo in Readme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-10-02T06:24:07Z",
+      "closed_at": "2020-10-02T06:25:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 89,
+      "title": "Add Compiler Explorer to section educational",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-24T13:13:14Z",
+      "closed_at": "2025-12-04T13:58:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 88,
+      "title": "Add F# Section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-21T09:05:39Z",
+      "closed_at": "2023-07-30T08:45:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 87,
+      "title": "Add Clarence compiler",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-21T08:52:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 86,
+      "title": "Add an educational project",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-04-03T10:56:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "Add DataFormsJS JSX Loader",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-02-28T22:09:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "Add Maxine VM to JVMs",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-10-10T21:15:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "Add \"Managed Runtime Systems\" course",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-10-10T21:10:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 82,
+      "title": "Add `jelly` in Educational and Toy Projects",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-27T10:55:40Z",
+      "closed_at": "2023-11-29T22:37:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 81,
+      "title": "Add Python xdis and uncompyle6",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-07-23T16:47:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "add cranelift to the Rust section",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-06-12T01:32:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "Fix info about Write an Interpreter in Go.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-09T17:02:52Z",
+      "closed_at": "2019-06-10T10:13:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "Add link to AssemblyScript compiler",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-04-07T12:27:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "Fix broken link for Basics of Compiler Design",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-12T00:29:43Z",
+      "closed_at": "2022-12-21T21:17:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "Add LENS to the list of toy projects",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-03-11T08:26:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "fixed Interpreter",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-03-11T07:31:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "Add Lua > LPEG",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-11T01:24:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "Standford Compilers Youtube Course is removed",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-10T20:24:07Z",
+      "closed_at": "2024-04-01T16:58:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "Add IL2CPU in serious projects",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-03-10T19:22:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "Fixed Description of Writing an Interpreter in Go",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-03-10T12:33:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "Add Mond",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-01-21T21:18:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "Add dnlib and dnSpy",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-01-21T19:48:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "Added Lesma project to toy projects",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-01-15T22:47:07Z",
+      "closed_at": "2025-12-27T06:43:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "Add 'Modern compiler design' book",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-12-21T20:21:05Z",
+      "closed_at": "2019-07-26T11:29:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "Add the 6502.org website to the list of toy projects",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-17T15:49:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 65,
+      "title": "Add \"Write Your Own Virtual Machine\" Tutorial",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-17T15:47:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "Writing an Interpreter/Compiler in Go",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-11T03:08:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": "Added dnSpy to list of CLR tools",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-11-26T18:49:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "Rename Truffel to Truffle",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-11-26T17:34:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "Add \"Demystifying compilers by writing your own\"",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-11-21T02:02:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "Add Zolang to list of serious projects",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-09T23:21:40Z",
+      "closed_at": "2019-07-20T01:39:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "Implement Awesome-compliance for Books Section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-03T13:26:18Z",
+      "closed_at": "2018-10-05T16:02:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "Pull from master into compliance branch",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-26T14:17:31Z",
+      "closed_at": "2018-09-26T14:17:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "Add the Mini-Caml Compiler",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-09-24T09:33:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "Add reference to BOLT",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-18T15:30:02Z",
+      "closed_at": "2018-09-19T12:06:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "Add ultra-tiny-compiler",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-01T07:50:58Z",
+      "closed_at": "2018-09-13T12:43:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 54,
+      "title": "Add useful link to JISON fork.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-01T07:47:51Z",
+      "closed_at": "2018-09-12T08:50:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "Merged with master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-17T07:48:23Z",
+      "closed_at": "2018-08-17T07:48:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 52,
+      "title": "Add ragel state machine compiler",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-07T08:13:04Z",
+      "closed_at": "2018-08-17T07:38:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 51,
+      "title": "Adds Terence Parr presentation on How to Build a Virtual Machine",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-07T07:31:58Z",
+      "closed_at": "2018-08-16T07:07:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 50,
+      "title": "Add \"Writing A Compiler In Go\" to books section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-08-07T05:19:48Z",
+      "closed_at": "2018-09-19T12:04:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 49,
+      "title": "Added EasyLang",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-04T08:37:17Z",
+      "closed_at": "2018-08-16T07:10:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 48,
+      "title": "Adding Lox to the toy projects",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-03T22:27:20Z",
+      "closed_at": "2024-12-15T17:56:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 47,
+      "title": "added Gone compiler",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-06-02T20:27:05Z",
+      "closed_at": "2018-06-04T11:52:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 46,
+      "title": "Added `Akilang` in Educational and Toy Projects",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-05-19T16:05:43Z",
+      "closed_at": "2018-06-02T12:26:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 45,
+      "title": "Add the oberonc compiler",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-02T22:24:03Z",
+      "closed_at": "2018-04-30T08:23:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 44,
+      "title": "Add the DIPPL Research Paper",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-16T09:05:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 43,
+      "title": "Add \"Introduction to LLVM\", a FOSDOM Tech Talk",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-02-06T11:48:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 42,
+      "title": "Added my StackVM project",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-11-24T14:09:50Z",
+      "closed_at": "2018-01-14T20:47:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 41,
+      "title": "Add JavaCPP Presets for LLVM",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-11-23T19:50:54Z",
+      "closed_at": "2018-01-14T20:47:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 40,
+      "title": "Add Eclipse OMR to the big list of stuff",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-23T18:32:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 39,
+      "title": "Mention AMaCC as another toy compiler",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-11-22T13:38:24Z",
+      "closed_at": "2018-01-14T20:48:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "Add ReasonML",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-10-23T08:47:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 37,
+      "title": "Added new compiler and library",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-21T21:45:17Z",
+      "closed_at": "2017-11-19T16:49:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 36,
+      "title": "Add OrangeC and MSIL compiler references",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-15T04:25:24Z",
+      "closed_at": "2017-10-20T10:00:43Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "aalhour",
+      "contributions": 147
+    },
+    {
+      "login": "xuanruiqi",
+      "contributions": 6
+    },
+    {
+      "login": "s0cks",
+      "contributions": 5
+    },
+    {
+      "login": "MaxwellBo",
+      "contributions": 3
+    },
+    {
+      "login": "uraimo",
+      "contributions": 3
+    },
+    {
+      "login": "antonmedv",
+      "contributions": 2
+    },
+    {
+      "login": "CaradasProudfoot",
+      "contributions": 2
+    },
+    {
+      "login": "KCreate",
+      "contributions": 2
+    },
+    {
+      "login": "Rohansi",
+      "contributions": 2
+    },
+    {
+      "login": "syegulalp",
+      "contributions": 2
+    },
+    {
+      "login": "rhysd",
+      "contributions": 2
+    },
+    {
+      "login": "guneysus",
+      "contributions": 1
+    },
+    {
+      "login": "bencz",
+      "contributions": 1
+    },
+    {
+      "login": "ayosec",
+      "contributions": 1
+    },
+    {
+      "login": "LADSoft",
+      "contributions": 1
+    },
+    {
+      "login": "wudi",
+      "contributions": 1
+    },
+    {
+      "login": "edbaunton",
+      "contributions": 1
+    },
+    {
+      "login": "erhanbaris",
+      "contributions": 1
+    },
+    {
+      "login": "HPCguy",
+      "contributions": 1
+    },
+    {
+      "login": "phase",
+      "contributions": 1
+    },
+    {
+      "login": "jserv",
+      "contributions": 1
+    },
+    {
+      "login": "leonklingele",
+      "contributions": 1
+    },
+    {
+      "login": "leonardosnt",
+      "contributions": 1
+    },
+    {
+      "login": "lboasso",
+      "contributions": 1
+    },
+    {
+      "login": "lmauromb",
+      "contributions": 1
+    },
+    {
+      "login": "Maaarcocr",
+      "contributions": 1
+    },
+    {
+      "login": "pavog",
+      "contributions": 1
+    },
+    {
+      "login": "dunefox",
+      "contributions": 1
+    },
+    {
+      "login": "sger",
+      "contributions": 1
+    },
+    {
+      "login": "mrnugget",
+      "contributions": 1
+    },
+    {
+      "login": "paladin-t",
+      "contributions": 1
+    },
+    {
+      "login": "swalk-cavium",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-10-05T13:16:36.181760Z"
+}
