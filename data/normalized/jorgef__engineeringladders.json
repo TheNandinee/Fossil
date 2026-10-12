@@ -1,0 +1,757 @@
+{
+  "full_name": "jorgef/engineeringladders",
+  "owner": "jorgef",
+  "name": "engineeringladders",
+  "url": "https://github.com/jorgef/engineeringladders",
+  "description": "A framework for Engineering Managers",
+  "primary_language": null,
+  "topics": [],
+  "license_spdx": "Apache-2.0",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 8546,
+  "forks": 596,
+  "open_issues": 6,
+  "created_at": "2019-10-18T23:52:22Z",
+  "pushed_at": "2022-11-01T22:12:16Z",
+  "updated_at": "2026-10-09T17:50:07Z",
+  "commits": [
+    {
+      "sha": "6055355a8817dd360587fb25b15f5cddb3b2c6c9",
+      "author_login": "jorgef",
+      "authored_at": "2022-11-01T22:12:16Z",
+      "message": "Merge pull request #26 from ciarant/master"
+    },
+    {
+      "sha": "f2df958ea51a74ec5f3f5f9bc27f78a284e29554",
+      "author_login": "ciarant",
+      "authored_at": "2022-10-19T10:12:51Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "a06071919c94f3df1e84ad23dcbec17be6373569",
+      "author_login": "jorgef",
+      "authored_at": "2022-08-01T20:20:02Z",
+      "message": "Merge pull request #21 from federicomoretti/managing_managers_typo"
+    },
+    {
+      "sha": "79ae63a23594fce0790af5b35d66b0343c5a97d6",
+      "author_login": null,
+      "authored_at": "2022-08-01T16:47:53Z",
+      "message": "Fixed typo."
+    },
+    {
+      "sha": "d32b12b4554825ce9657ae1ced3cfc9bd59054bd",
+      "author_login": "jorgef",
+      "authored_at": "2022-08-01T04:17:13Z",
+      "message": "Update TechnicalProgramManager.md"
+    },
+    {
+      "sha": "834debab144ecc5969a4201c9561a4436a5001a4",
+      "author_login": "jorgef",
+      "authored_at": "2022-07-31T02:14:22Z",
+      "message": "Changed Senior/Junior to Yes/No"
+    },
+    {
+      "sha": "2bb1339299b6f85e798aec68df6319b36b3a872c",
+      "author_login": "jorgef",
+      "authored_at": "2022-07-31T02:13:46Z",
+      "message": "Changed Senior/Junior to Yes/No"
+    },
+    {
+      "sha": "e69283029ca74fdcd25ce80f505ac20469d67a9f",
+      "author_login": "jorgef",
+      "authored_at": "2022-07-31T02:13:17Z",
+      "message": "Changed Senior/Junior to Yes/No"
+    },
+    {
+      "sha": "03d0e096b39cb320b76ed4438fca95359b66750c",
+      "author_login": "jorgef",
+      "authored_at": "2022-07-31T01:58:00Z",
+      "message": "Merge pull request #20 from setagana/differentiated-graphs"
+    },
+    {
+      "sha": "4c12c000539a72cc46d83c77cb7abfc31e563734",
+      "author_login": "jorgef",
+      "authored_at": "2022-07-31T01:56:34Z",
+      "message": "Changed Junior/Senior to Yes/No"
+    },
+    {
+      "sha": "8a6ca24d105571bce321329fa3cd32ac45a88344",
+      "author_login": "jorgef",
+      "authored_at": "2022-07-31T01:55:34Z",
+      "message": "Changed Junior/Senior to Yes/No"
+    },
+    {
+      "sha": "c2af6985056e1e8f29681b2809367d8375a95487",
+      "author_login": "setagana",
+      "authored_at": "2022-07-30T23:14:19Z",
+      "message": "Reference differentiated graphs"
+    },
+    {
+      "sha": "524c9ed81e169eda647ad711d38a4caa8134e9dd",
+      "author_login": "setagana",
+      "authored_at": "2022-07-30T23:08:22Z",
+      "message": "Add dark mode graphs"
+    },
+    {
+      "sha": "d90d53518eca19ade70625d7f1d1cd4df6fee81e",
+      "author_login": "setagana",
+      "authored_at": "2022-07-30T23:08:11Z",
+      "message": "Revert background addition"
+    },
+    {
+      "sha": "3fa897901ce712d0820dac1e317ea9a03cdb0607",
+      "author_login": "jorgef",
+      "authored_at": "2022-07-30T12:01:31Z",
+      "message": "Merge pull request #17 from anishkny/patch-1"
+    },
+    {
+      "sha": "79b5d930ed24b2c16029cd6197ff63bbb74b955a",
+      "author_login": "jorgef",
+      "authored_at": "2022-07-30T11:59:34Z",
+      "message": "Merge pull request #15 from setagana/high-contrast-graphs"
+    },
+    {
+      "sha": "f1ad293e77ed858b4cd67b7ecb39adab3c626348",
+      "author_login": "anishkny",
+      "authored_at": "2022-07-29T03:54:21Z",
+      "message": "Fix TPM definition"
+    },
+    {
+      "sha": "4cf3b9c223b4341a311321febdb1e31b971df1eb",
+      "author_login": "setagana",
+      "authored_at": "2022-07-28T12:04:36Z",
+      "message": "Added white background for high contrast graphs"
+    },
+    {
+      "sha": "6b8947e76922f193f107bf287a61b70ff186737f",
+      "author_login": "jorgef",
+      "authored_at": "2021-02-25T22:17:29Z",
+      "message": "Merge pull request #7 from rogerluan/patch-1"
+    },
+    {
+      "sha": "e68cc9f3c69ba948a41789d14b302fc0ff7f6e37",
+      "author_login": "rogerluan",
+      "authored_at": "2021-02-25T21:18:04Z",
+      "message": "Fix typos."
+    },
+    {
+      "sha": "539288966a16019f894b05b024db2ab6eaa310fe",
+      "author_login": "jorgef",
+      "authored_at": "2020-09-01T15:57:58Z",
+      "message": "Merge pull request #4 from parkerl/patch-1"
+    },
+    {
+      "sha": "c299a59bd46cf41640b2a0c4c265ae7c578525c6",
+      "author_login": "parkerl",
+      "authored_at": "2020-09-01T12:31:27Z",
+      "message": "Fix typo in TechLead-EngineeringManager.md"
+    },
+    {
+      "sha": "1b7f5cb7ac6b454635626a99d7c396e754212cc9",
+      "author_login": "jorgef",
+      "authored_at": "2020-08-17T21:05:50Z",
+      "message": "Merge pull request #3 from kalafut/master"
+    },
+    {
+      "sha": "36f3de4234497c62c8358d853610e524b4d82ffa",
+      "author_login": null,
+      "authored_at": "2020-08-17T05:37:36Z",
+      "message": "Fix typo"
+    },
+    {
+      "sha": "b2d86370f7b6fd8d77be81fe48704cfce2619781",
+      "author_login": "jorgef",
+      "authored_at": "2020-07-14T22:00:40Z",
+      "message": "Fixed typo"
+    },
+    {
+      "sha": "48c086aa19a3b70c54996835da1415c0ea094ab9",
+      "author_login": "jorgef",
+      "authored_at": "2020-07-10T22:15:24Z",
+      "message": "Improved planning examples"
+    },
+    {
+      "sha": "0096a56745b5d5258e1d5c1c658aa0d9476478a7",
+      "author_login": "jorgef",
+      "authored_at": "2020-07-09T03:18:48Z",
+      "message": "Added reference to managing managers in eng manager page"
+    },
+    {
+      "sha": "7f0bf7e1a23d0f261eed9e6e4eb117e30ed1e6a2",
+      "author_login": "jorgef",
+      "authored_at": "2020-07-09T03:10:55Z",
+      "message": "Improved conclusion wording"
+    },
+    {
+      "sha": "71e369cd13c507e2412ae2f91ef92ed0950c81bc",
+      "author_login": "jorgef",
+      "authored_at": "2020-07-09T03:05:12Z",
+      "message": "Fixed typos"
+    },
+    {
+      "sha": "7f2a47373db340d2cab65fb67c9914ae5756822a",
+      "author_login": "jorgef",
+      "authored_at": "2020-07-08T12:47:45Z",
+      "message": "Added managing managers"
+    },
+    {
+      "sha": "8a1deacd799cbbbf87f743a6c829c7e1d16e27d9",
+      "author_login": "jorgef",
+      "authored_at": "2020-01-07T23:16:03Z",
+      "message": "Fixed typo"
+    },
+    {
+      "sha": "881947535a8a6786366210d42396d9a74d2a2728",
+      "author_login": "jorgef",
+      "authored_at": "2020-01-06T23:22:33Z",
+      "message": "Small fixes"
+    },
+    {
+      "sha": "2f4202f5d11f11181a047c9883bdaad772286efe",
+      "author_login": "jorgef",
+      "authored_at": "2020-01-03T02:29:29Z",
+      "message": "Created page for TL vs EM and added new resource"
+    },
+    {
+      "sha": "24535c7d1fb034c56f7706a66a2aa7d1326b1009",
+      "author_login": "jorgef",
+      "authored_at": "2019-12-26T23:01:01Z",
+      "message": "Improved wording and added coding percentages for TLs vs EMs table"
+    },
+    {
+      "sha": "4ffab877c60901f4c619fa08e5116f1d93b6ee03",
+      "author_login": "jorgef",
+      "authored_at": "2019-12-26T00:45:31Z",
+      "message": "Improved TL vs EM table"
+    },
+    {
+      "sha": "2e7f827bc0bb3f8e453863b103fe3ca2664e60f3",
+      "author_login": "jorgef",
+      "authored_at": "2019-12-26T00:42:09Z",
+      "message": "Fixed typo"
+    },
+    {
+      "sha": "e0ede8f8084289ca25a63611348ee142ac0dcb3d",
+      "author_login": "jorgef",
+      "authored_at": "2019-12-26T00:41:11Z",
+      "message": "Improved EG vs TL table"
+    },
+    {
+      "sha": "7e441bc450d72f46a3f9967cd6c9e4ee5f4c9398",
+      "author_login": "jorgef",
+      "authored_at": "2019-12-26T00:38:30Z",
+      "message": "Merge branch 'master' of github.com:jorgef/engineeringladders"
+    },
+    {
+      "sha": "adcf34caef2559e0e79c695572cb7521c078b1f2",
+      "author_login": "jorgef",
+      "authored_at": "2019-12-26T00:10:42Z",
+      "message": "Added EM vs TL table and reference to The Managers Path"
+    },
+    {
+      "sha": "0976ed2b8b55b9f2ccc71ca573c981c1ac0029d6",
+      "author_login": "jorgef",
+      "authored_at": "2019-12-13T16:47:01Z",
+      "message": "Merge pull request #2 from FlorianBruniaux/hotfix/fix-levels"
+    },
+    {
+      "sha": "9733dd62c2a4a2e257d5f416c622394576bba879",
+      "author_login": "FlorianBruniaux",
+      "authored_at": "2019-12-09T14:50:20Z",
+      "message": "Fix level 6 and 7 axes"
+    },
+    {
+      "sha": "ba3cf9ec4db9162e96c185f3dab63289f7ec525c",
+      "author_login": "jorgef",
+      "authored_at": "2019-11-06T17:58:10Z",
+      "message": "Fixed typo"
+    },
+    {
+      "sha": "ed3a6595c3227e98fcb6a81cd085f50fe1488737",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-30T02:38:51Z",
+      "message": "Improved FAQs"
+    },
+    {
+      "sha": "df7f3a2ab9aecf2b0b7cefc1bb97bf68ae28f518",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-30T02:35:03Z",
+      "message": "Improved FAQs"
+    },
+    {
+      "sha": "4985c7e8b94abdf6aa0c4b115e62c8e6b19e4436",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-30T02:26:58Z",
+      "message": "Added more FAQs"
+    },
+    {
+      "sha": "e2e0d852005de8add7d512f92953f0839de98f6c",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-23T04:28:57Z",
+      "message": "Improved wording"
+    },
+    {
+      "sha": "7e0419cdacc185cae16a1e5fbcea889c7b1e44f9",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-23T04:14:17Z",
+      "message": "Fixed typos"
+    },
+    {
+      "sha": "353aebbab77d780398e05b9faf30d38cd7bf96fd",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-22T00:04:18Z",
+      "message": "Added missing links for techlead page"
+    },
+    {
+      "sha": "edafa6a90e57c8ace8e71f2878cc8c2143713ee8",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-22T00:02:36Z",
+      "message": "Fixed broken links and improved navigation"
+    },
+    {
+      "sha": "af6e1cfa9560578e7ce41bbabca584f76ab888b6",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-21T23:03:20Z",
+      "message": "Added individual roles"
+    },
+    {
+      "sha": "2b73901164279b01d5c62c7206a6fd1fc6eac669",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-21T02:03:14Z",
+      "message": "Added process, influence and ladders"
+    },
+    {
+      "sha": "1b2ae2de14eef708ead8ac568cc9b90d3e98033e",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-20T18:32:15Z",
+      "message": "Added Tech, System and People levels"
+    },
+    {
+      "sha": "98a14017f9b8fbaa342c705f4d6d3bcd06b6461b",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-20T17:30:35Z",
+      "message": "Merge pull request #1 from bartelink/patch-1"
+    },
+    {
+      "sha": "3e5279b4da70885fc26f01508c85227f0b337daa",
+      "author_login": "bartelink",
+      "authored_at": "2019-10-20T14:13:45Z",
+      "message": "Typos"
+    },
+    {
+      "sha": "1bb3b9fe8692e3670b2a369184bb88aeedf8116a",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-19T02:38:03Z",
+      "message": "Update _config.yml"
+    },
+    {
+      "sha": "3255d7b48ff0797ced128a496ca9dce4963f2b2a",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-19T02:34:34Z",
+      "message": "Update _config.yml"
+    },
+    {
+      "sha": "f445909596d746ec215dd9ac0b8d4eacf804fef9",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-19T01:31:39Z",
+      "message": "Added all charts"
+    },
+    {
+      "sha": "9179d6dafcfe6ccf26c3e4082cb893d5d05c13b8",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-19T01:01:19Z",
+      "message": "Reduced size of template chart"
+    },
+    {
+      "sha": "766a88cade767e7b5f16bbebed9976b5e832f2d0",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-19T01:00:36Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f9eb3073fa381e11e8ea321a7908a482e40d2ac0",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-19T00:51:27Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "aad6383fb74a3761b7692a9f809f43fe247a41d1",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-19T00:50:59Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "10def4426041aaf548556a4389e53afff96f2540",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-19T00:47:52Z",
+      "message": "Fixed typo on README"
+    },
+    {
+      "sha": "9ceef943714e6b37d2f1c05d69ee9a4084522eef",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-19T00:35:18Z",
+      "message": "Added CNAME"
+    },
+    {
+      "sha": "eee41d91eb5024da6e56c474bfef25f84ea22a63",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-19T00:29:19Z",
+      "message": "Set theme jekyll-theme-cayman"
+    },
+    {
+      "sha": "1c56d3b9a65d125f014033bc4a19594af28952c0",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-19T00:26:00Z",
+      "message": "Added template chart"
+    },
+    {
+      "sha": "bac6bdd78a5c9436aced6f2abf01965234115333",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-19T00:23:26Z",
+      "message": "Added README"
+    },
+    {
+      "sha": "ca673cafa6cad8160bf045d9b77a0a0366e2de73",
+      "author_login": "jorgef",
+      "authored_at": "2019-10-18T23:52:22Z",
+      "message": "Initial commit"
+    }
+  ],
+  "issues": [
+    {
+      "number": 33,
+      "title": "Add Engineering Manager Resources",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-01T14:10:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "add Staff Engineer's Path book reference to readme",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-11-08T01:01:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 31,
+      "title": "Provide an SVG of the chart",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-23T21:47:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "Learning material?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-04-09T19:50:22Z",
+      "closed_at": "2024-04-19T18:20:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "Mongolia version",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-20T06:20:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "Product Dimension Addition",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-12T13:22:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "Easily create radar charts",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-10-21T09:47:01Z",
+      "closed_at": "2022-11-01T22:15:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "Update README.md to address small grammatical error",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-10-19T10:14:03Z",
+      "closed_at": "2022-11-01T22:12:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "One level below?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-11T05:33:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "Update",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-08-23T10:50:25Z",
+      "closed_at": "2022-08-23T10:50:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "TL4 has lower level than D3 in \"Influence\" axis",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-08-15T12:43:06Z",
+      "closed_at": "2022-08-19T01:05:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 22,
+      "title": "Link to HTTPS URL",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-08-04T14:01:59Z",
+      "closed_at": "2022-11-01T22:16:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 21,
+      "title": "Fixed typo in Managing Managers conclusion",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-08-01T16:48:46Z",
+      "closed_at": "2022-08-01T20:20:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 20,
+      "title": "Add differentiated graphs for dark and light mode",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-07-30T23:50:08Z",
+      "closed_at": "2022-07-31T01:58:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 19,
+      "title": "Feat: Changes on D2 and D3 roles",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-07-29T15:37:09Z",
+      "closed_at": "2022-07-30T13:34:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 18,
+      "title": "Transparent PNG's does not work in GitHub dark mode",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-07-29T10:56:53Z",
+      "closed_at": "2022-07-29T10:58:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17,
+      "title": "Fix TPM definition",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-07-29T03:57:07Z",
+      "closed_at": "2022-07-30T12:01:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 16,
+      "title": "Add background to template",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-07-28T12:57:14Z",
+      "closed_at": "2022-07-30T12:01:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "Update graphs with white background for accessibility",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-07-28T12:14:20Z",
+      "closed_at": "2022-07-30T11:59:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "Monitoring system and SLAs is a thing that has to be associated also to a Junior Profile",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-07-28T09:39:57Z",
+      "closed_at": "2022-07-30T14:20:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13,
+      "title": "Junior D3 Role has too many responsibilities for a junior",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-07-28T09:36:49Z",
+      "closed_at": "2022-07-31T02:11:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 12,
+      "title": "What difference between tech lead and tech program manager?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-06-07T15:43:49Z",
+      "closed_at": "2022-07-30T12:25:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 11,
+      "title": "Add Korean translation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-05-29T10:27:59Z",
+      "closed_at": "2022-07-30T13:40:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10,
+      "title": "Low contrast for images when using Github dark theme",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-23T23:00:00Z",
+      "closed_at": "2022-07-30T12:26:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 9,
+      "title": "Japanese version",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-11-17T10:22:01Z",
+      "closed_at": "2022-07-30T13:40:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 8,
+      "title": "Managing Managers 페이지 번역",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-21T14:48:26Z",
+      "closed_at": "2021-03-21T14:51:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 7,
+      "title": "Fix Typos",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-02-25T21:18:50Z",
+      "closed_at": "2021-02-25T22:17:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 6,
+      "title": "Feature/translate levels descritpion",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-01-17T11:56:46Z",
+      "closed_at": "2021-01-17T12:17:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 5,
+      "title": "TPM / TL overlap?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-08T12:54:22Z",
+      "closed_at": "2020-09-11T15:00:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4,
+      "title": "Fix typo in TechLead-EngineeringManager.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-01T12:31:45Z",
+      "closed_at": "2020-09-01T15:57:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3,
+      "title": "Fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-08-17T05:38:34Z",
+      "closed_at": "2020-08-17T21:05:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2,
+      "title": "FIX level 6 and 7 axes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-12-09T14:51:52Z",
+      "closed_at": "2019-12-13T16:47:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1,
+      "title": "Typos",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-10-20T14:14:09Z",
+      "closed_at": "2019-10-20T17:30:36Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "jorgef",
+      "contributions": 55
+    },
+    {
+      "login": "setagana",
+      "contributions": 4
+    },
+    {
+      "login": "anishkny",
+      "contributions": 1
+    },
+    {
+      "login": "FlorianBruniaux",
+      "contributions": 1
+    },
+    {
+      "login": "ciarant",
+      "contributions": 1
+    },
+    {
+      "login": "parkerl",
+      "contributions": 1
+    },
+    {
+      "login": "rogerluan",
+      "contributions": 1
+    },
+    {
+      "login": "bartelink",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-10-12T14:06:41.087626Z"
+}

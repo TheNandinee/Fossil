@@ -1,0 +1,1639 @@
+{
+  "full_name": "yandex/gixy",
+  "owner": "yandex",
+  "name": "gixy",
+  "url": "https://github.com/yandex/gixy",
+  "description": "Nginx configuration static analyzer",
+  "primary_language": "Python",
+  "topics": [],
+  "license_spdx": "NOASSERTION",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 8565,
+  "forks": 450,
+  "open_issues": 60,
+  "created_at": "2017-03-15T01:02:40Z",
+  "pushed_at": "2024-07-28T20:09:31Z",
+  "updated_at": "2026-10-11T08:05:30Z",
+  "commits": [
+    {
+      "sha": "6f68624a7540ee51316651bda656894dc14c9a3e",
+      "author_login": "buglloc",
+      "authored_at": "2024-01-06T11:33:30Z",
+      "message": "release 0.1.21"
+    },
+    {
+      "sha": "2d7fff36c662e400d9fec45a2e4e185d869846d6",
+      "author_login": "Darthfett",
+      "authored_at": "2023-12-23T23:48:27Z",
+      "message": "Fix #125 - Don't install newer versions of pyparsing than v3"
+    },
+    {
+      "sha": "e9008dcbd11f43ccac109b0cf2bf98a94e76b449",
+      "author_login": null,
+      "authored_at": "2019-09-26T10:21:18Z",
+      "message": "removed useless import"
+    },
+    {
+      "sha": "303eb6887ddecab18138b6e427b04ae77c41d2f1",
+      "author_login": "plan-do-break-fix",
+      "authored_at": "2021-04-25T04:56:17Z",
+      "message": "fix(docs): corrects typo in CONTRIBUTING documentation"
+    },
+    {
+      "sha": "641060d6355fbb5bd71695928a2bf14a9bcb8bf2",
+      "author_login": "InnovativeInventor",
+      "authored_at": "2020-01-09T01:49:37Z",
+      "message": "Updated Dockerfile for Python3"
+    },
+    {
+      "sha": "5106919192f8a3b216b1565979b046dbda38d8ab",
+      "author_login": "florianjacob",
+      "authored_at": "2019-10-18T11:29:41Z",
+      "message": "correct minor spelling mistake"
+    },
+    {
+      "sha": "5a67dc3af58d01d95a0bd849fbd16db13d0edae5",
+      "author_login": "buglloc",
+      "authored_at": "2019-07-09T21:01:02Z",
+      "message": "Drop Python 2.6 Support"
+    },
+    {
+      "sha": "fa9315ca6a8163fe23eca3e514e8065b7f3085fb",
+      "author_login": "bachp",
+      "authored_at": "2019-07-06T19:29:49Z",
+      "message": "Add hint toaliastraversal documentation"
+    },
+    {
+      "sha": "3b2713b537e7edb31f26949bcae19ab2a1d2e702",
+      "author_login": "mschwager",
+      "authored_at": "2019-04-15T18:10:53Z",
+      "message": "Bump maintained year"
+    },
+    {
+      "sha": "8c492ebaba469b4664c7e115db9245c64a4b1d24",
+      "author_login": "jelly",
+      "authored_at": "2019-04-04T12:40:45Z",
+      "message": "Don't require argparse for Python >= 3.2"
+    },
+    {
+      "sha": "340f715f0025d7e679eb81bbdf9691973d0fe992",
+      "author_login": "buglloc",
+      "authored_at": "2018-11-22T07:10:17Z",
+      "message": "Fixed invalid escape sequences"
+    },
+    {
+      "sha": "cbc7f91f4bf0635d84fe318d1e0da2088bd81bb1",
+      "author_login": "polyzen",
+      "authored_at": "2018-11-21T23:58:15Z",
+      "message": "Publish tests"
+    },
+    {
+      "sha": "9f3c5768f83992db3d7b802763e74df4d94b5b04",
+      "author_login": "buglloc",
+      "authored_at": "2018-09-28T08:02:38Z",
+      "message": "bump version"
+    },
+    {
+      "sha": "d3b77216c44525abab1763dc83f4bb16f3626300",
+      "author_login": "buglloc",
+      "authored_at": "2018-09-28T08:02:08Z",
+      "message": "minor style fixes"
+    },
+    {
+      "sha": "f92423ea71fada244258e1d007ee346551eac090",
+      "author_login": "buglloc",
+      "authored_at": "2018-09-28T08:01:34Z",
+      "message": "Added python 3.7"
+    },
+    {
+      "sha": "c0dd214e611bf4a7d3cd23c051815343922df786",
+      "author_login": "buglloc",
+      "authored_at": "2018-09-28T07:55:31Z",
+      "message": "Try to deal with non latin encoding"
+    },
+    {
+      "sha": "84f79a3e046eea1d064252ee4768ce9276a5a058",
+      "author_login": "buglloc",
+      "authored_at": "2018-09-27T16:41:19Z",
+      "message": "Try to parse inline comment in blocks"
+    },
+    {
+      "sha": "0e032605b583f09301879530cbf16f3c41dd6cc9",
+      "author_login": "fertapric",
+      "authored_at": "2017-12-05T20:06:37Z",
+      "message": "Add perl_set directive"
+    },
+    {
+      "sha": "f5a54ad161a8f956eed0237ff689d49f7ed3a3e2",
+      "author_login": "atikhonov-avito",
+      "authored_at": "2018-04-17T10:32:29Z",
+      "message": "Added tests for GeoBlock"
+    },
+    {
+      "sha": "82508941bd9d51e90bd25877b43e31036e52e30b",
+      "author_login": "atikhonov-avito",
+      "authored_at": "2018-04-17T10:28:57Z",
+      "message": "Added test for MapBlock"
+    },
+    {
+      "sha": "6f0edbc980b5a38e8b2bd28b92bd22fcc32efa82",
+      "author_login": "atikhonov-avito",
+      "authored_at": "2018-04-17T10:19:27Z",
+      "message": "Added support for 'geo' blocks"
+    },
+    {
+      "sha": "5a6cb2c3d0e5a4e08efdf1e5a25e320cc2914f02",
+      "author_login": "buglloc",
+      "authored_at": "2018-04-04T12:41:33Z",
+      "message": "Update hostspoofing.md"
+    },
+    {
+      "sha": "86b5e60d6b89ec52a0d481d6e778a396db97460e",
+      "author_login": "buglloc",
+      "authored_at": "2018-03-02T12:16:18Z",
+      "message": "Bump version to 0.1.9"
+    },
+    {
+      "sha": "2c44989f4a43ca2578a20cff10a9e82663ad5129",
+      "author_login": "buglloc",
+      "authored_at": "2018-03-02T09:49:14Z",
+      "message": "Exclude CR from HTTP Request splitting"
+    },
+    {
+      "sha": "902e739106dec5a977217c8171ed4881faba0fbf",
+      "author_login": "buglloc",
+      "authored_at": "2018-03-02T10:31:58Z",
+      "message": "Update README.RU.md"
+    },
+    {
+      "sha": "15f5fcef23e90abc8f344c16f50e5f38677eec25",
+      "author_login": "buglloc",
+      "authored_at": "2018-03-02T10:31:51Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "020f6b08e8fa9711c4a0b28ca48588c6ec3f36f9",
+      "author_login": "buglloc",
+      "authored_at": "2017-11-10T09:28:35Z",
+      "message": "Version bump to 0.1.8"
+    },
+    {
+      "sha": "0f9b192c13746ad0a9cdb4613cb211e441fc0654",
+      "author_login": "yoavtzelnick",
+      "authored_at": "2017-10-20T17:36:14Z",
+      "message": "Syntax error in configuration now fails the manager. making the exit code 1 on syntax error"
+    },
+    {
+      "sha": "ea7d771ab6beec124f6d07ec918d05eeca76f3ed",
+      "author_login": "buglloc",
+      "authored_at": "2017-11-10T09:22:25Z",
+      "message": "[alias_traversal] Minor improvements + respects path in the alias directive:"
+    },
+    {
+      "sha": "2a922f37cc53ea1ff34572e6c6fd625ee0d7170f",
+      "author_login": "screeny05",
+      "authored_at": "2017-10-23T15:00:56Z",
+      "message": "minor grammar fix"
+    },
+    {
+      "sha": "0110b4e7a9f639f61705eed0835a5e93eaa5d427",
+      "author_login": "buglloc",
+      "authored_at": "2017-10-10T12:12:36Z",
+      "message": "Version up to 0.1.7"
+    },
+    {
+      "sha": "05d4915901536ae7c9ed9c11483991450ea8cc6a",
+      "author_login": "buglloc",
+      "authored_at": "2017-10-10T12:12:16Z",
+      "message": "[http_splitting] Better reason message"
+    },
+    {
+      "sha": "ddd232a6b1db32bc7974371d859c74d1f5ab069c",
+      "author_login": "buglloc",
+      "authored_at": "2017-10-10T12:02:58Z",
+      "message": "Version up to 0.1.6"
+    },
+    {
+      "sha": "fd4c731c8a68e1e364733136184f81922a8a4f2b",
+      "author_login": "buglloc",
+      "authored_at": "2017-10-10T12:00:15Z",
+      "message": "[alias_traversal] minor documentation improvements"
+    },
+    {
+      "sha": "1f9a65a197cd7bf8cdeda83f46ad5e2b43fc0870",
+      "author_login": "buglloc",
+      "authored_at": "2017-10-10T11:59:18Z",
+      "message": "[alias_traversal] Added documentation"
+    },
+    {
+      "sha": "d00a58e4671753db67f40b27fde709baf3f61f95",
+      "author_login": "buglloc",
+      "authored_at": "2017-06-06T19:10:17Z",
+      "message": "[alias_traversal] Added tests"
+    },
+    {
+      "sha": "49309996fb077fd08a33dd0736c0f89c8fb93b8f",
+      "author_login": "buglloc",
+      "authored_at": "2017-06-06T18:10:33Z",
+      "message": "First try to implement path traversal detection (via alias)"
+    },
+    {
+      "sha": "acba288be7e4ac0a0ca9b77e6fc5b387194b76df",
+      "author_login": "buglloc",
+      "authored_at": "2017-10-10T11:16:20Z",
+      "message": "[http_splitting] also checks CR injection"
+    },
+    {
+      "sha": "b14934d3ba8ec551966b8da59f2104b006aa0b16",
+      "author_login": "polyzen",
+      "authored_at": "2017-06-25T20:42:00Z",
+      "message": "Use nose setuptools integration"
+    },
+    {
+      "sha": "ffbba62b41eafaa829e6981ac40ca7a61fae633a",
+      "author_login": "buglloc",
+      "authored_at": "2017-07-06T16:43:48Z",
+      "message": "More test cases for if parsing"
+    },
+    {
+      "sha": "04dfa39a54015e8451dc69df78bd384537dc619d",
+      "author_login": "buglloc",
+      "authored_at": "2017-07-06T16:43:32Z",
+      "message": "Better if condition parsing"
+    },
+    {
+      "sha": "e947fd16b4987b672f5dab83b5be3b7737df12e0",
+      "author_login": "buglloc",
+      "authored_at": "2017-07-06T16:24:24Z",
+      "message": "#65: Fixed origin regex in documentation"
+    },
+    {
+      "sha": "7360ee0adb69eb567d6ca466feac392fe07e5e87",
+      "author_login": "Nevon",
+      "authored_at": "2017-06-02T14:40:46Z",
+      "message": "Document Docker usage"
+    },
+    {
+      "sha": "d4e3d5285ee2fc69d5b8ed668b6a3080dc6a925c",
+      "author_login": "orf",
+      "authored_at": "2017-06-02T13:01:16Z",
+      "message": "Test on PyPy 2 and 3"
+    },
+    {
+      "sha": "f5fd81c0dbe561af97672d44260e027570f34517",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-21T20:10:32Z",
+      "message": "Version bump to 0.1.5"
+    },
+    {
+      "sha": "ea1fb2e6584fb80bae51fbc8dafd710fb59a9244",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-21T20:03:04Z",
+      "message": "Show file paths in console/text templates only if we analyzed more then 1 config"
+    },
+    {
+      "sha": "ca0dca94cf19446aedfe26212822c537f8340ad2",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-19T17:11:37Z",
+      "message": "Better regex parsing error message"
+    },
+    {
+      "sha": "6f360bc16ded67f9f77218dfb6764f9acb8762cc",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-19T16:50:53Z",
+      "message": "Minor templates improvements (#54)"
+    },
+    {
+      "sha": "183aae602b053e6537b3c2e8da942280bd9c1d5e",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-19T16:47:02Z",
+      "message": "Deal with severity issue overriding (#53)"
+    },
+    {
+      "sha": "9643318c9331a1d6c6acf4c2509cdb110971e416",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-19T16:31:39Z",
+      "message": "Checks file existing before opening by parser (#52)"
+    },
+    {
+      "sha": "e477e023506548c4d24ef30b0c2740e0a98c1731",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-19T16:31:20Z",
+      "message": "Support multiple config files (#47)"
+    },
+    {
+      "sha": "2ea357ea7b62915401d8215b022c8a224627b160",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-16T20:05:28Z",
+      "message": "Merge pull request #44 from yandex/nonstrict-encoding"
+    },
+    {
+      "sha": "cb4dbc875ac336b5f053b5327136c89bce19a9d7",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-16T20:03:05Z",
+      "message": "Merge branch 'master' into nonstrict-encoding"
+    },
+    {
+      "sha": "39fa26c7fe6b25214624beb2c6ff56c7004e8ab8",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-16T20:02:10Z",
+      "message": "Added basic Python 2.6 support (#43)"
+    },
+    {
+      "sha": "938889961a6ed02bbb8fb393c7f71d3a340eecb4",
+      "author_login": "screeny05",
+      "authored_at": "2017-05-16T08:01:31Z",
+      "message": "Fix typo in addheadermultiline.md"
+    },
+    {
+      "sha": "cea880bc40cfafe9621e6e1ab7b9e9d762d1a202",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-14T13:05:17Z",
+      "message": "Try to autodetect encoding for bynary string while parsing."
+    },
+    {
+      "sha": "70d2d1160e91ed3f3a77ff45f9dd6de9bbf900b3",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-14T11:56:40Z",
+      "message": "Version bump to 0.1.4"
+    },
+    {
+      "sha": "c5df3f073ee69e297c2c3942d460a75284559a0b",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-14T11:33:38Z",
+      "message": "Improved regex for \"if\" directive condition capturing"
+    },
+    {
+      "sha": "92f2c01831de8434b62d3c89ca2b2dbec64599c2",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-14T11:40:57Z",
+      "message": "[add_header_redefinition] Exclude HSTS header from defaults, because it is not necessary for security.."
+    },
+    {
+      "sha": "7d8fb8845f7700b6e81aed2da78513f8c4f773d9",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-13T12:10:27Z",
+      "message": "Allowed more characters for map/upstream/etc directives"
+    },
+    {
+      "sha": "3c1437c816968838e422f6b955a28ff0c740dfe2",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-13T11:53:04Z",
+      "message": "Changed file reading logic. Parsers and auditor don't read files by itself, instead of this expect file descriptor or file content."
+    },
+    {
+      "sha": "625a25db46b6fec2c67575883929b8733da00937",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-12T16:46:47Z",
+      "message": "Another workaround for \"if\" directive parsing with unquoted regex"
+    },
+    {
+      "sha": "26b2ead72c3be89333a29baec3d0aa000b768327",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-12T16:43:42Z",
+      "message": "Added new test cases for \"if\" directive parsing"
+    },
+    {
+      "sha": "7d182dbdbac77cfdf863875de3ac9a62118cc8fa",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-13T10:39:21Z",
+      "message": "Added editorconfig"
+    },
+    {
+      "sha": "3fcc7f7eae4c04016dcaedec2241ed0b647bd2f7",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-13T10:23:49Z",
+      "message": "Added dockerignore"
+    },
+    {
+      "sha": "85d075e3ec0b092b0590aa509c0e5dbcb3ff950c",
+      "author_login": "Nevon",
+      "authored_at": "2017-05-13T09:28:26Z",
+      "message": "Rebase docker image on python:2.7-alpine"
+    },
+    {
+      "sha": "ff42a521c4ca178c06c3ee9552d25d022f7def3c",
+      "author_login": "Nevon",
+      "authored_at": "2017-05-12T09:06:08Z",
+      "message": "Add trailing newline"
+    },
+    {
+      "sha": "75b0e33546d4a61855a9ff28d09e0ff839b495ef",
+      "author_login": "Nevon",
+      "authored_at": "2017-05-12T08:41:39Z",
+      "message": "Add Dockerfile"
+    },
+    {
+      "sha": "8486606456577d456d1939bb18cea7fc0f9c7a74",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-12T16:40:14Z",
+      "message": "Better error message for \"if\" directive"
+    },
+    {
+      "sha": "f7de6bf6ffeed979f9c8ad1b10609bf2c7f10181",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-11T20:35:36Z",
+      "message": "Added tox to dev dependencies"
+    },
+    {
+      "sha": "746c255ab227649ed1971f4aa6f69b44fc8edc4e",
+      "author_login": "jnovinger",
+      "authored_at": "2017-05-11T20:10:23Z",
+      "message": "Minor grammar fix"
+    },
+    {
+      "sha": "a21d887dbe45ef4f1df284e57ac0a7689e49dd79",
+      "author_login": "eidenschink",
+      "authored_at": "2017-05-11T14:07:28Z",
+      "message": "Fix typo"
+    },
+    {
+      "sha": "11ebf7dbb47f997fab8ac27a2fee857a0d2fc9ab",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-11T08:49:07Z",
+      "message": "Version bump to 0.1.3"
+    },
+    {
+      "sha": "1cbcc2661ffde61a933a88f6f9f20e006deef9c8",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-11T08:44:39Z",
+      "message": "By default use english docs."
+    },
+    {
+      "sha": "150d9f2a3de957281c1f39c3c05f331512720f64",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-11T08:44:05Z",
+      "message": "Minor docs update"
+    },
+    {
+      "sha": "f225f9a8fb2b0ade3ade8f1353008517a4fde39a",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-10T21:50:32Z",
+      "message": "Minor readme improvements"
+    },
+    {
+      "sha": "0b0d3496d9038ccdf13c84237b405f91b6aaa535",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-10T21:38:21Z",
+      "message": "Update README.RU.md"
+    },
+    {
+      "sha": "b643cf31603a530e6413c411cf2c2801ae8e5008",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-10T21:36:07Z",
+      "message": "Minor documentation refactoring"
+    },
+    {
+      "sha": "7255ea610f062e07bdc077ae18e679a93c8016ea",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-10T17:48:02Z",
+      "message": "Merge branch 'kr2142-master'"
+    },
+    {
+      "sha": "c5094571f87bc05722789e1e6ac990f9a3b07ccd",
+      "author_login": null,
+      "authored_at": "2017-05-10T15:44:01Z",
+      "message": "Added eng documentation."
+    },
+    {
+      "sha": "0ba9b217d8d11101830600e0eca71119edf9838c",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-02T09:08:16Z",
+      "message": "Version up to 0.1.2"
+    },
+    {
+      "sha": "5dfcd5e68b6255dccd90b078d76d2d7b854a1a55",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-02T08:51:31Z",
+      "message": "Added tests for comment parsing"
+    },
+    {
+      "sha": "521d4e39f58cdb4e51194eba41bba21ef0cb97d9",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-02T08:51:15Z",
+      "message": "Reworked Nginx comments parsing"
+    },
+    {
+      "sha": "8de6f0a6989bdf14978560ae3b0cbb518472b215",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-02T09:04:06Z",
+      "message": "Added auth_request_set directive (#21)"
+    },
+    {
+      "sha": "1a1a725227125ff42b6a4fd920fd3438056651d2",
+      "author_login": "buglloc",
+      "authored_at": "2017-05-01T21:23:58Z",
+      "message": "Merge pull request #19 from gongled/feature-rpm-support"
+    },
+    {
+      "sha": "65a4b846fa5ce578a67d6b915e71fd353228645b",
+      "author_login": null,
+      "authored_at": "2017-04-29T09:16:19Z",
+      "message": "Added RPM specs"
+    },
+    {
+      "sha": "3dc9bde70bf685a59fc45d9b02e445c0caf7bab3",
+      "author_login": "buglloc",
+      "authored_at": "2017-04-29T08:19:37Z",
+      "message": "Minor code style improvements"
+    },
+    {
+      "sha": "411b74f7ba68aada6f69dcac0745b2cf28836029",
+      "author_login": "buglloc",
+      "authored_at": "2017-04-29T07:52:20Z",
+      "message": "Merge pull request #18 from denyska/patch-1"
+    },
+    {
+      "sha": "bab6625a150eee3e5766a567ab0205b6ca0b4633",
+      "author_login": "denyska",
+      "authored_at": "2017-04-29T06:36:22Z",
+      "message": "Updated README.md, fixed spelling mistakes."
+    },
+    {
+      "sha": "d40855a2d1b82b3e7f97cb3e852fd5132e3ca634",
+      "author_login": "buglloc",
+      "authored_at": "2017-04-28T17:05:15Z",
+      "message": "Version up to 0.1.1"
+    },
+    {
+      "sha": "d2b3cc939018830a0c5e7086763b2f5f1f9bc3b1",
+      "author_login": "buglloc",
+      "authored_at": "2017-04-28T16:03:33Z",
+      "message": "Merge pull request #16 from yandex/fix-broken-config"
+    },
+    {
+      "sha": "c63435a760fd1698ecd0227d9d9580c9530c2fd0",
+      "author_login": "buglloc",
+      "authored_at": "2017-04-28T15:58:01Z",
+      "message": "Nginx parser now returns original root if can't parse a config"
+    },
+    {
+      "sha": "957f3c4554728dbe9b520e7bb16b2c2a82addcce",
+      "author_login": "buglloc",
+      "authored_at": "2017-04-28T15:56:34Z",
+      "message": "Remove unnecessary check"
+    },
+    {
+      "sha": "558ef3f87e4d24a8f0cfc16bb55cc9f16e66814b",
+      "author_login": "buglloc",
+      "authored_at": "2017-04-28T15:22:01Z",
+      "message": "Merge pull request #14 from yandex/fix_requirements"
+    },
+    {
+      "sha": "d5d645d2ce63ce4dd1ca31de4e07b200d77f3542",
+      "author_login": "buglloc",
+      "authored_at": "2017-04-28T15:00:19Z",
+      "message": "Use new requirements"
+    },
+    {
+      "sha": "6d0e66e6a7e31dd1c4593a57de6d7ccd5e1b1702",
+      "author_login": "buglloc",
+      "authored_at": "2017-04-28T14:55:01Z",
+      "message": "Resolve #12: renamed requirements*.pip to requirements*.txt"
+    },
+    {
+      "sha": "e50cc9b532a9de677fb6c923395e21c5b5b43ffd",
+      "author_login": "buglloc",
+      "authored_at": "2017-04-18T13:17:02Z",
+      "message": "Replace CONTRIBUTING.md"
+    },
+    {
+      "sha": "acf503986322400c78a05239b2a3ba7d7f44a606",
+      "author_login": "buglloc",
+      "authored_at": "2017-04-16T18:57:26Z",
+      "message": "Added makefile"
+    },
+    {
+      "sha": "6e8b64eb5ce8e1ab062369ecececed071e35e707",
+      "author_login": "buglloc",
+      "authored_at": "2017-04-11T16:13:19Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "bff2ae974db04aa0c2257088d8b825e485d5c3de",
+      "author_login": "buglloc",
+      "authored_at": "2017-04-11T15:19:05Z",
+      "message": "Update README.md"
+    }
+  ],
+  "issues": [
+    {
+      "number": 161,
+      "title": "Fix PEP8 WIP (#160). I hereby agree to the terms of the CLA available at: https://yandex.ru/legal/cla/?lang=ru",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-07-20T08:54:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 160,
+      "title": "PEP8 WIP",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-07-20T08:04:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 159,
+      "title": "Add SARIF-format Output & Add Directory Scanning",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-06-03T16:03:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 158,
+      "title": "fix: prevent OOM in regex generator (#153)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-30T18:58:30Z",
+      "closed_at": "2026-05-30T19:21:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 157,
+      "title": "fix: replace cached-property with stdlib functools.cached_property (#117)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-30T18:56:50Z",
+      "closed_at": "2026-05-30T19:21:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 156,
+      "title": "fix: remove obsolete Travis CI badge (#151)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-30T18:55:15Z",
+      "closed_at": "2026-05-30T19:21:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 155,
+      "title": "fix: replace cached-property with stdlib functools.cached_property (#117)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-30T18:50:59Z",
+      "closed_at": "2026-05-30T19:21:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 154,
+      "title": "fix: remove obsolete Travis CI badge (#151)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-30T18:49:57Z",
+      "closed_at": "2026-05-30T19:21:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 153,
+      "title": "Fix exponential memory exhaustion in regex combination generator",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-18T14:07:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 152,
+      "title": "Fixing README.md build status image and optimization to PEP8",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-09-26T05:37:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 151,
+      "title": "README build status image broken",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-09-25T19:21:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 150,
+      "title": "PEP8 WIP",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-09-25T19:06:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 149,
+      "title": "SRE_FLAG_TEMPLATE error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-04-10T08:25:46Z",
+      "closed_at": "2025-12-24T16:06:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 148,
+      "title": "Add Python 3.9 to 3.13 support, Drop all other version",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-03-19T01:59:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 147,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-02-21T05:24:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 146,
+      "title": "Migrate tests to pytest",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-07-28T20:09:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 145,
+      "title": "Support pyparsing 3.1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-12T07:43:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 144,
+      "title": "Failed to parse config",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-10T15:41:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 143,
+      "title": "ERROR Failed to parse config \"/etc/nginx/bots.d/whitelist-domains.conf\": char 2669 (line:49, col:1)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-27T06:25:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 142,
+      "title": "[nginx_parser] WARNING Skip unparseable block: \"map\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-27T06:20:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 141,
+      "title": "Release 0.1.21",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-06T11:34:32Z",
+      "closed_at": "2024-01-06T11:35:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 140,
+      "title": "Fix #125 - Don't install newer versions of pyparsing than 2.4.x",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-12-21T23:08:41Z",
+      "closed_at": "2024-01-06T11:24:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 139,
+      "title": "`File not found` for include with wildcard",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-21T13:25:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 138,
+      "title": " ERROR   Failed to parse config \"/etc/nginx/nginx.conf\": char 6 (line:1, col:7)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-30T08:45:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 136,
+      "title": "Several test errors and failures",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-04T21:58:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 135,
+      "title": "Dies on endless redirect",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-17T03:50:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 133,
+      "title": "Add a GitHub Action to run tox on pull requests",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-03-28T15:17:16Z",
+      "closed_at": "2024-02-10T10:03:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 132,
+      "title": "Lock pyparsing to 2.4.7 Maximum",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-10-31T00:41:46Z",
+      "closed_at": "2024-01-06T11:38:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 131,
+      "title": "Failed to parse config – Cannot read spaces?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-08T07:01:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 130,
+      "title": "https://russiaforsale.org/",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-04-24T06:22:41Z",
+      "closed_at": "2022-06-07T20:31:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 126,
+      "title": "[Feature Request] detect `if-evil`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-01-15T11:33:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 125,
+      "title": "[nginx_parser]\tERROR",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-12-14T06:19:41Z",
+      "closed_at": "2024-01-06T11:24:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 124,
+      "title": "\"Error: Process completed with exit code 1\" issue on Github Action.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-03T01:45:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 123,
+      "title": "Use stdlib functools.cached_property in Python 3.8+",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-11-11T08:19:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 122,
+      "title": "Fix pyparsing version due to incompatibility with 3.x",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-11-01T14:04:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 121,
+      "title": "Idea for new finding: proxy_pass outdated DNS cache",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-13T18:54:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 120,
+      "title": "how to get the port of client access?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-07-09T01:41:54Z",
+      "closed_at": "2021-07-15T08:29:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 119,
+      "title": "Can't find variable 'URI' (uppercase $uri)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-20T20:36:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 118,
+      "title": "fix(docs): corrects typo in CONTRIBUTING documentation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-04-25T05:18:20Z",
+      "closed_at": "2023-01-05T23:27:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 117,
+      "title": "cached_property is built-in since py3.8",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-06T17:32:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 116,
+      "title": "More error details",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-16T15:23:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 115,
+      "title": "Detection of scenario when default is not specified for map directive",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-11-12T19:34:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 114,
+      "title": "`add_header_redefinition` doesn't consider headers from `include` files",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-13T00:28:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 113,
+      "title": "Is the gixy mascot baby yoda",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-09T04:09:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 112,
+      "title": "gixy command not found ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-09T23:46:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 111,
+      "title": "Get stdin input working on MacOS (possibly other platforms)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-28T06:07:59Z",
+      "closed_at": "2026-04-23T16:39:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 110,
+      "title": "Running gixy on stdin does not work",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-28T06:02:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 109,
+      "title": "Detect incorrect ACL (allow without deny)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-05-12T16:48:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 108,
+      "title": "Detect exposing Nginx version ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-16T12:16:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 107,
+      "title": "CVE-2019-20372",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-03T03:43:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 106,
+      "title": "Updated Dockerfile for Python3",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-01-09T01:52:28Z",
+      "closed_at": "2020-01-09T08:18:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 105,
+      "title": "correct minor spelling mistake",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-10-18T11:30:19Z",
+      "closed_at": "2019-10-23T14:51:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 104,
+      "title": "removed useless import",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-26T10:21:32Z",
+      "closed_at": "2023-01-05T23:27:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 103,
+      "title": "[nginx_parser]\tWARNING\tSkip unparseable block: \"http\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-09-17T10:46:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 102,
+      "title": "Updated README with info about prebuilt packages for RHEL 7",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-07-25T14:08:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 101,
+      "title": "gixy.cfg documentation and variables",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-07-25T12:14:36Z",
+      "closed_at": "2025-10-01T18:39:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 100,
+      "title": "Drop Python 2.6 support + added Python 3.7 support",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-07-09T21:03:44Z",
+      "closed_at": "2019-07-09T21:10:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 99,
+      "title": "Add hint toaliastraversal documentation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-07-06T19:30:04Z",
+      "closed_at": "2019-07-08T19:28:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 98,
+      "title": "добавьте, пожалуйста, проверку \"add_header Content-Type text/plain;\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-24T09:45:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 97,
+      "title": "RecursionError: maximum recursion depth exceeded while calling a Python object",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-18T12:04:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 96,
+      "title": "Detect problematic \"if\" directives",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-15T18:46:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 95,
+      "title": "Bump maintained year",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-15T18:11:17Z",
+      "closed_at": "2019-04-21T10:34:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 94,
+      "title": "Don't require argparse for Python >= 3.2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-04T12:43:11Z",
+      "closed_at": "2019-04-05T09:50:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 93,
+      "title": "The hostspoofing recommended fix is wrong",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-01-11T11:00:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 92,
+      "title": "detect format issue in  add_header value",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-11T06:34:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 91,
+      "title": "Cannot scan ssrf caused by $host",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-05T06:35:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 90,
+      "title": "Fixed invalid escape sequences",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-22T07:11:02Z",
+      "closed_at": "2018-11-22T07:15:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 89,
+      "title": "Publish tests",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-21T23:58:26Z",
+      "closed_at": "2018-11-22T06:09:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 88,
+      "title": "False positives of Alias Traversal",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-09T03:15:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 87,
+      "title": "add provide-variables to IfBlock, modifier ^~ to LocationBlock",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-05T04:20:34Z",
+      "closed_at": "2018-12-04T14:19:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 86,
+      "title": "Try to deal with non latin encoding",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-28T07:56:49Z",
+      "closed_at": "2018-09-28T08:00:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "Try to parse inline comment in blocks",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-27T16:42:06Z",
+      "closed_at": "2018-09-28T08:00:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "Encode input arguments in directive_factory function, fixes #73",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-21T12:51:49Z",
+      "closed_at": "2018-09-28T07:57:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "Gixy fails to parse non-english characters",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-09-21T12:51:16Z",
+      "closed_at": "2018-09-27T08:58:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 82,
+      "title": "[nginx_parser]  WARNING Skip unparseable block: \"server\"",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-08-03T10:32:53Z",
+      "closed_at": "2018-09-28T08:00:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 81,
+      "title": "[regexp] CRITICAL Failed to parse regex (nothing to repeat)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-05-24T15:55:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "[feature request] Check for default location with regexp server name",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-17T12:46:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "Add support for geo blocks",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-17T10:38:33Z",
+      "closed_at": "2018-04-17T13:45:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "[regexp] Add internal opition settings support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-16T14:23:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "False positive while checking default wordpress config ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-06T17:29:18Z",
+      "closed_at": "2018-03-06T17:46:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "Exclude CR from HTTP Request splitting",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-03-02T09:54:41Z",
+      "closed_at": "2018-03-02T12:15:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "httpsplitting that proxy_pass leads to can't be used",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-02T02:38:14Z",
+      "closed_at": "2018-03-02T12:15:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "[nginx_parser]  WARNING Skip unparseable block: \"server\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-26T18:17:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "nginx parser fail",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-19T11:46:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "Add perl_set directive",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-05T20:22:33Z",
+      "closed_at": "2018-09-28T07:59:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "Fail on nested `if` statements",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-23T14:24:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "Minor grammar fix",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-23T15:01:08Z",
+      "closed_at": "2017-11-03T14:56:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "Syntax error in configuration now fails the manager. ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-20T17:36:54Z",
+      "closed_at": "2017-11-10T09:25:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "Checks CR injection",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-10T11:18:26Z",
+      "closed_at": "2017-10-10T11:18:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "host_spoofing trouble",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-07-13T07:28:54Z",
+      "closed_at": "2017-07-13T09:10:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "Allow \";\" in if condition",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-07-06T16:45:15Z",
+      "closed_at": "2017-07-06T16:48:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 65,
+      "title": "Problem: [origins] Validation regex for \"origin\" or \"referrer\" matches untrusted domain.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-07-05T06:35:27Z",
+      "closed_at": "2017-07-06T16:29:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "Use nose setuptools integration",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-06-25T20:43:50Z",
+      "closed_at": "2017-07-06T16:51:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": "Failed to parse config with if and regex matching?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-06-18T17:12:08Z",
+      "closed_at": "2017-07-06T16:48:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "New plugin for \"Misconfigure Alias Caused Path Traversal\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-06-06T18:11:43Z",
+      "closed_at": "2017-10-10T12:02:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "Plugin - Misconfigure Alias Caused Path Traversal ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-06-06T17:14:53Z",
+      "closed_at": "2017-10-10T12:02:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "Document Docker usage",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-06-02T14:42:07Z",
+      "closed_at": "2017-06-05T08:56:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "Test on PyPy 2 and 3",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-06-02T13:01:40Z",
+      "closed_at": "2017-06-02T16:58:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "Documentation for usage the Docker image",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-06-01T08:35:17Z",
+      "closed_at": "2017-06-05T08:56:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "[regexp] CRITICAL Failed to parse regex: \\?.*\\=restapi.*+ (multiple repeat)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-06-01T02:42:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "buglloc",
+      "contributions": 103
+    },
+    {
+      "login": "Nevon",
+      "contributions": 4
+    },
+    {
+      "login": "atikhonov-avito",
+      "contributions": 3
+    },
+    {
+      "login": "polyzen",
+      "contributions": 2
+    },
+    {
+      "login": "screeny05",
+      "contributions": 2
+    },
+    {
+      "login": "eidenschink",
+      "contributions": 1
+    },
+    {
+      "login": "Darthfett",
+      "contributions": 1
+    },
+    {
+      "login": "denyska",
+      "contributions": 1
+    },
+    {
+      "login": "fertapric",
+      "contributions": 1
+    },
+    {
+      "login": "InnovativeInventor",
+      "contributions": 1
+    },
+    {
+      "login": "jnovinger",
+      "contributions": 1
+    },
+    {
+      "login": "jelly",
+      "contributions": 1
+    },
+    {
+      "login": "bachp",
+      "contributions": 1
+    },
+    {
+      "login": "yoavtzelnick",
+      "contributions": 1
+    },
+    {
+      "login": "florianjacob",
+      "contributions": 1
+    },
+    {
+      "login": "mschwager",
+      "contributions": 1
+    },
+    {
+      "login": "orf",
+      "contributions": 1
+    },
+    {
+      "login": "plan-do-break-fix",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v0.1.21",
+      "published_at": "2024-01-06T11:38:28Z"
+    },
+    {
+      "tag": "v0.1.20",
+      "published_at": "2018-09-28T08:04:41Z"
+    },
+    {
+      "tag": "v0.1.9",
+      "published_at": "2018-03-02T12:17:19Z"
+    },
+    {
+      "tag": "v0.1.8",
+      "published_at": "2017-11-10T09:44:00Z"
+    },
+    {
+      "tag": "v0.1.7",
+      "published_at": "2017-10-10T12:23:23Z"
+    },
+    {
+      "tag": "v0.1.5",
+      "published_at": "2017-05-21T20:12:17Z"
+    },
+    {
+      "tag": "v0.1.4",
+      "published_at": "2017-05-14T11:59:03Z"
+    },
+    {
+      "tag": "v0.1.3",
+      "published_at": "2017-05-11T08:49:50Z"
+    },
+    {
+      "tag": "v0.1.2",
+      "published_at": "2017-05-02T09:09:26Z"
+    },
+    {
+      "tag": "v0.1.1",
+      "published_at": "2017-04-28T17:06:15Z"
+    }
+  ],
+  "collected_at": "2026-10-12T14:06:39.484727Z"
+}

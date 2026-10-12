@@ -1,0 +1,1714 @@
+{
+  "full_name": "babun/babun",
+  "owner": "babun",
+  "name": "babun",
+  "url": "https://github.com/babun/babun",
+  "description": "Babun - a Windows shell you will love!",
+  "primary_language": "Shell",
+  "topics": [],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 8526,
+  "forks": 539,
+  "open_issues": 391,
+  "created_at": "2013-08-28T13:21:50Z",
+  "pushed_at": "2019-06-11T15:45:50Z",
+  "updated_at": "2026-10-10T08:32:47Z",
+  "commits": [
+    {
+      "sha": "b5c01c4f9d2cf7e2b01756e78d26a62530ff2f6b",
+      "author_login": "jlupi",
+      "authored_at": "2019-06-11T15:45:48Z",
+      "message": "Merge pull request #715 from mateodelnorte/master"
+    },
+    {
+      "sha": "932f880d93680a4a627419aa47b2b28842f150dc",
+      "author_login": "jlupi",
+      "authored_at": "2019-06-11T15:43:43Z",
+      "message": "Merge pull request #782 from stvlblnc/master"
+    },
+    {
+      "sha": "495a543b4cf31a115c4d9e4d4a3d1b26c15a416e",
+      "author_login": "jlupi",
+      "authored_at": "2019-06-11T15:43:08Z",
+      "message": "Merge pull request #872 from kapitanluffy/master"
+    },
+    {
+      "sha": "a0630e03b87174775e28b23600fd0c71ae28bc51",
+      "author_login": "jlupi",
+      "authored_at": "2019-06-11T15:42:18Z",
+      "message": "Merge pull request #864 from usmanatron/update_typo"
+    },
+    {
+      "sha": "56662b069a94be851d1ef93f61db1045aaea1a9a",
+      "author_login": "jlupi",
+      "authored_at": "2019-06-11T15:41:51Z",
+      "message": "Merge pull request #853 from hijxf/patch-1"
+    },
+    {
+      "sha": "0db61c50c2c170762fbf3b1cc72620db63d2ac71",
+      "author_login": "kapitanluffy",
+      "authored_at": "2019-04-21T21:21:41Z",
+      "message": "Add maintainers:wanted badge"
+    },
+    {
+      "sha": "1d06e762a02f349605bfd1f6a86288db6da50f07",
+      "author_login": "jlupi",
+      "authored_at": "2019-03-11T21:49:28Z",
+      "message": "Update _header.adoc"
+    },
+    {
+      "sha": "88da093f382286b698d5c765764488d5625e8cd5",
+      "author_login": null,
+      "authored_at": "2019-02-09T21:07:47Z",
+      "message": "Update README.adoc"
+    },
+    {
+      "sha": "bc77484b75f63b579d78886df40383f3031dbfda",
+      "author_login": "usmanatron",
+      "authored_at": "2018-12-17T11:09:43Z",
+      "message": "Typo in update.bat"
+    },
+    {
+      "sha": "e4137d5c2a3c9be4a221bdc331ec4f0525477da5",
+      "author_login": "jef",
+      "authored_at": "2018-09-06T03:59:16Z",
+      "message": "typo in comment"
+    },
+    {
+      "sha": "73f8b5d2463bd7bb8a18072f905ab55625437c0f",
+      "author_login": "stvlblnc",
+      "authored_at": "2017-07-19T15:53:06Z",
+      "message": "Check existence before creating link"
+    },
+    {
+      "sha": "78552debedd02196d059e0fa1fbbbcaa18199092",
+      "author_login": "mateodelnorte",
+      "authored_at": "2016-11-17T21:35:38Z",
+      "message": "bypass certificate checks"
+    },
+    {
+      "sha": "991159167bc4b3c2d1c3fb4aaae12d7710f45504",
+      "author_login": "jlupi",
+      "authored_at": "2016-05-02T17:46:42Z",
+      "message": "setup permissions for oh-my-zsh dir"
+    },
+    {
+      "sha": "dd4e0589d7062aa2bd8fcec69444868119c32702",
+      "author_login": "jlupi",
+      "authored_at": "2016-05-02T15:26:45Z",
+      "message": "Pact version info updated"
+    },
+    {
+      "sha": "504c430d7b226a2d4027536d1682d5f979edb6b1",
+      "author_login": "jlupi",
+      "authored_at": "2016-05-02T15:23:45Z",
+      "message": "babun version info updated"
+    },
+    {
+      "sha": "0dbb3bacaecdb1cad6aab49bd6a620ea17cd7bf9",
+      "author_login": "jlupi",
+      "authored_at": "2016-05-02T15:21:45Z",
+      "message": "Updated pact version info"
+    },
+    {
+      "sha": "491fd45f3d2689485eaf0b456a87099a88df854d",
+      "author_login": null,
+      "authored_at": "2016-05-02T10:09:42Z",
+      "message": "Preparing babun-cywin module to auto-generate babun-cygwin repo"
+    },
+    {
+      "sha": "6950b0d53cc6e1908621f3f79fdedb9ab02adea2",
+      "author_login": null,
+      "authored_at": "2016-05-02T09:30:48Z",
+      "message": "Preparing babun-cywin module to auto-generate babun-cygwin repo"
+    },
+    {
+      "sha": "a4b039047a3c7008f98b558db844800a1eecfcef",
+      "author_login": null,
+      "authored_at": "2016-05-02T09:24:05Z",
+      "message": "Preparing babun-cywin module to auto-generate babun-cygwin repo"
+    },
+    {
+      "sha": "26a247e1b07d2668b807524cef5357518ac5502b",
+      "author_login": null,
+      "authored_at": "2016-05-02T09:20:48Z",
+      "message": "Preparing babun-cywin module to auto-generate babun-cygwin repo"
+    },
+    {
+      "sha": "de16d6be1c5086e330d4dd736a020ff07eebc897",
+      "author_login": null,
+      "authored_at": "2016-05-02T09:07:27Z",
+      "message": "Preparing babun-cywin module to auto-generate babun-cygwin repo"
+    },
+    {
+      "sha": "43e20acdaa07f458470da847f0f2927fd9e8ad8a",
+      "author_login": "tombujok",
+      "authored_at": "2016-04-28T20:04:53Z",
+      "message": "Merge pull request #616 from MatCyg/build_fix"
+    },
+    {
+      "sha": "e0e2ac8195f20029b1b47789e71edf9a6e346488",
+      "author_login": "MatCyg",
+      "authored_at": "2016-04-27T19:02:07Z",
+      "message": "Change unix line endings to windows"
+    },
+    {
+      "sha": "e378f507ef53890df90167728b840cc65849fa7b",
+      "author_login": "MatCyg",
+      "authored_at": "2016-04-27T16:55:47Z",
+      "message": "Update wget.exe permisions"
+    },
+    {
+      "sha": "832a55bbb4c2f9354378b7847fb1d76ecc5f7d57",
+      "author_login": null,
+      "authored_at": "2016-02-18T18:14:14Z",
+      "message": "Fixing build problems - main environment is windows"
+    },
+    {
+      "sha": "5e5a097ab9324b435d698767b07a17a7de6844f6",
+      "author_login": "jlupi",
+      "authored_at": "2016-02-14T19:01:14Z",
+      "message": "Update _faq.adoc"
+    },
+    {
+      "sha": "4288c631d1701d148cf4c57e99284fc02276f1f5",
+      "author_login": "jlupi",
+      "authored_at": "2016-02-14T18:52:40Z",
+      "message": "babun team added"
+    },
+    {
+      "sha": "dcf4f407d26638d0fa6d6d3d1ad47a19b02585d5",
+      "author_login": "jlupi",
+      "authored_at": "2016-02-14T18:22:47Z",
+      "message": "merged duplicated faq topics"
+    },
+    {
+      "sha": "9bef0219c6d433a820ed7c03b27c3fbac3d4e4c2",
+      "author_login": "jlupi",
+      "authored_at": "2016-02-14T18:18:56Z",
+      "message": "Adding cmder to the FAQ. Fixes #546"
+    },
+    {
+      "sha": "794230c41310e5fcbc40a90afec67356afcec4c8",
+      "author_login": "jlupi",
+      "authored_at": "2016-02-14T18:01:46Z",
+      "message": "next release version changed from 1.2.1 to 1.3.0"
+    },
+    {
+      "sha": "6a614dd77da08e9da44f6c27185093b7e971604e",
+      "author_login": "jlupi",
+      "authored_at": "2016-02-14T17:40:26Z",
+      "message": "fixing EOL"
+    },
+    {
+      "sha": "b20bd970368aa8a7bf6260225d19dff1dd872dfc",
+      "author_login": "jlupi",
+      "authored_at": "2016-02-14T17:33:54Z",
+      "message": "adding babun team to the summary and version check"
+    },
+    {
+      "sha": "a60e94cef41f43f56a4ce92dbc8f0a7133eedda6",
+      "author_login": "jlupi",
+      "authored_at": "2016-02-14T17:30:50Z",
+      "message": "Merge branch 'master' of https://github.com/babun/babun"
+    },
+    {
+      "sha": "1c65f81a7a5b1c3ba68966ff45cfc80d04b31aaa",
+      "author_login": "jlupi",
+      "authored_at": "2016-02-14T17:24:41Z",
+      "message": "executing install.sh from the cygfix plugin after cygwin update"
+    },
+    {
+      "sha": "c4e21960726f505b740e3032c029752534811122",
+      "author_login": "jlupi",
+      "authored_at": "2016-02-14T17:08:30Z",
+      "message": "Update plugin.desc"
+    },
+    {
+      "sha": "66458c4c448b95da124f8fde8f30a7ae3ff97d0c",
+      "author_login": "jlupi",
+      "authored_at": "2016-02-14T17:08:09Z",
+      "message": "Update install_home.sh"
+    },
+    {
+      "sha": "530b7385bb20591134b00624cfb654b3b17cecaa",
+      "author_login": "jlupi",
+      "authored_at": "2016-02-13T18:23:25Z",
+      "message": "Update update.bat"
+    },
+    {
+      "sha": "db1cc94e3b1ceaa032f95da813f32df21073d645",
+      "author_login": "tombujok",
+      "authored_at": "2016-02-13T17:05:00Z",
+      "message": "Incrementing dist plugin due to changes in update.bat"
+    },
+    {
+      "sha": "b80ba89bb83710b80e1f7ee08c0fc92b448d8489",
+      "author_login": "tombujok",
+      "authored_at": "2016-02-13T16:22:48Z",
+      "message": "Merge pull request #523 from mxaddict/master"
+    },
+    {
+      "sha": "ae1c3752ec8ff2e9c66a9fe5358ba1bda0b08acd",
+      "author_login": "tombujok",
+      "authored_at": "2016-02-13T16:21:06Z",
+      "message": "Merge pull request #343 from jhpaul/master"
+    },
+    {
+      "sha": "e9187ef37a57027267158eaca08a5f2a2e50ad70",
+      "author_login": "jlupi",
+      "authored_at": "2016-02-13T15:31:42Z",
+      "message": "apply fix for git https issues after cygwin update"
+    },
+    {
+      "sha": "bf14e35d11c24613d1097bbc198bb1f9a992e98a",
+      "author_login": "jlupi",
+      "authored_at": "2016-01-28T10:37:20Z",
+      "message": "Update _faq.adoc"
+    },
+    {
+      "sha": "52b0204db5451429a3ea088720eb03a3082d9693",
+      "author_login": "jlupi",
+      "authored_at": "2016-01-28T10:31:17Z",
+      "message": "Merge pull request #563 from pra85/readme"
+    },
+    {
+      "sha": "2fc8def5474afdd11bb3c4f49f203c300a184b06",
+      "author_login": "prayagverma",
+      "authored_at": "2016-01-28T05:17:45Z",
+      "message": "Typos fixed"
+    },
+    {
+      "sha": "b16d80f34fdce11a6a21f116bf1c6cb3c043c6ea",
+      "author_login": "jlupi",
+      "authored_at": "2016-01-27T18:37:43Z",
+      "message": "Merge pull request #561 from arcenik/master"
+    },
+    {
+      "sha": "c704f3dc69b8e448b136194bcb4f32453f64e2f6",
+      "author_login": null,
+      "authored_at": "2016-01-27T18:36:31Z",
+      "message": "update issue289 on faq"
+    },
+    {
+      "sha": "245c895a36e6027b16ce8c5692ffbc3b8603be45",
+      "author_login": null,
+      "authored_at": "2016-01-27T18:31:55Z",
+      "message": "Added solution to issue289 on faq"
+    },
+    {
+      "sha": "ed6b5c1ced16d7f512e38c38c851056efcd6c7b2",
+      "author_login": "jlupi",
+      "authored_at": "2016-01-27T16:53:34Z",
+      "message": "Merge pull request #529 from Ktar5/patch-1"
+    },
+    {
+      "sha": "6385ff1b70b3038506b5d9fd1d88027156fd2b84",
+      "author_login": "Ktar5",
+      "authored_at": "2015-12-10T17:46:06Z",
+      "message": "Changed \"Unsing\" to \"Using\" in FAQ"
+    },
+    {
+      "sha": "34c1dbef2c18e57ffbcfb838485eb1402185a61d",
+      "author_login": "mxaddict",
+      "authored_at": "2015-11-30T00:31:01Z",
+      "message": "Updated PACT to remove a downloaded file when checksums don't match"
+    },
+    {
+      "sha": "2349d2c7593c71588c5363f862289935e36c984e",
+      "author_login": "tombujok",
+      "authored_at": "2015-11-03T21:46:03Z",
+      "message": "Merge pull request #496 from babun/fixing-git-proxy"
+    },
+    {
+      "sha": "e6a533703ba48cf8b01673c51244c8e6cba7353f",
+      "author_login": "lukaszpielak",
+      "authored_at": "2015-11-02T19:31:28Z",
+      "message": "possibility to disable cygdrive plugin. Caused performance issues for some users"
+    },
+    {
+      "sha": "e7efbcf573a07989f8f6d9ecfd78e51532d91a8f",
+      "author_login": "jlupi",
+      "authored_at": "2015-10-30T16:04:26Z",
+      "message": "Merge pull request #474 from neOnSHiFT/littlefix"
+    },
+    {
+      "sha": "bff399b07e6affa676f67e58f0fe4abca15d15ee",
+      "author_login": "jlupi",
+      "authored_at": "2015-10-30T16:03:56Z",
+      "message": "Merge pull request #484 from weems/master"
+    },
+    {
+      "sha": "d58bd8685e2ed1eb26b28962bb9fe150e1268818",
+      "author_login": "lukaszpielak",
+      "authored_at": "2015-10-30T06:51:40Z",
+      "message": "workaround for #455. Replacing git-remote-http and git-remote-https with older version from git 2.1.4"
+    },
+    {
+      "sha": "99281ac96245176564919f4a2a124ff651502d23",
+      "author_login": "lukaszpielak",
+      "authored_at": "2015-10-30T06:44:46Z",
+      "message": "workaround for #455. Replacing git-remote-http and git-remote-https with older version from git 2.1.4"
+    },
+    {
+      "sha": "8e4b5d59b5a54709c45e97f9bc735fa97b0e3ba8",
+      "author_login": null,
+      "authored_at": "2015-10-19T17:05:08Z",
+      "message": "Changing the grammar"
+    },
+    {
+      "sha": "467ae21685d932ad30ecba56e0785b62fec775f6",
+      "author_login": "widhiptr40-collab",
+      "authored_at": "2015-10-12T18:37:47Z",
+      "message": "Some grammar changes"
+    },
+    {
+      "sha": "391274a0723ba9f4c571542de73fdd9c9a1bfffa",
+      "author_login": "jlupi",
+      "authored_at": "2015-10-02T18:21:35Z",
+      "message": "Merge pull request #442 from thomasleveil/welcome-msg"
+    },
+    {
+      "sha": "7d25f90bc36fb86763e3457a64477a9d2c682dfc",
+      "author_login": "jlupi",
+      "authored_at": "2015-09-30T17:53:11Z",
+      "message": "Merge pull request #466 from marchof/duplicate_variable"
+    },
+    {
+      "sha": "863cb286596c3ee1c670e8a317c606f144a695a7",
+      "author_login": "marchof",
+      "authored_at": "2015-09-30T17:39:31Z",
+      "message": "Remove duplicate property CHECK_TIMEOUT_IN_SECS."
+    },
+    {
+      "sha": "7a15d7ffb5c828e0121b152d60c1e70f286118aa",
+      "author_login": "jlupi",
+      "authored_at": "2015-09-16T11:00:25Z",
+      "message": "Update babun.zsh"
+    },
+    {
+      "sha": "7acfcbda4fa27678fdcbcb50a8ad57a927f5824c",
+      "author_login": "thomasleveil",
+      "authored_at": "2015-09-08T22:34:04Z",
+      "message": "welcome message: add `babun help`"
+    },
+    {
+      "sha": "3b513a43e4395eda6442e320831a62d7cfd12fef",
+      "author_login": "tombujok",
+      "authored_at": "2015-09-09T08:45:54Z",
+      "message": "Merge pull request #444 from vshih/patch-1"
+    },
+    {
+      "sha": "c9467d561063967e89b23eacdba436d05941f378",
+      "author_login": "vshih",
+      "authored_at": "2015-09-09T06:18:43Z",
+      "message": "Update _development.adoc"
+    },
+    {
+      "sha": "b71036d923d0a0d09d9a9a405f1051a8d3bc4240",
+      "author_login": "jlupi",
+      "authored_at": "2015-09-04T16:03:22Z",
+      "message": "Update babun.rc"
+    },
+    {
+      "sha": "3ef06cd4a56e603ca88959edb14efa27fe73d68a",
+      "author_login": "jlupi",
+      "authored_at": "2015-09-04T15:51:12Z",
+      "message": "Update plugin.desc"
+    },
+    {
+      "sha": "67789e0866863300742db42b99d8c91a169649fb",
+      "author_login": "jlupi",
+      "authored_at": "2015-09-04T11:59:06Z",
+      "message": "Update babun.zsh"
+    },
+    {
+      "sha": "7aaba4dc5abd77bd615bdd038a2483891bc8a815",
+      "author_login": "jlupi",
+      "authored_at": "2015-09-04T11:57:37Z",
+      "message": "Update babun.zsh"
+    },
+    {
+      "sha": "b5e4112a815e3afcbc84a9c6a983a8aa92c8e4af",
+      "author_login": "jlupi",
+      "authored_at": "2015-09-04T10:29:48Z",
+      "message": "Update babun.zsh"
+    },
+    {
+      "sha": "b9c86c99984d076764381e7cf90794a229f7f333",
+      "author_login": "tombujok",
+      "authored_at": "2015-08-23T18:26:29Z",
+      "message": "Merge pull request #402 from timdp/fuss"
+    },
+    {
+      "sha": "e255c8d3c079516f07617b3736a625978ab68bb9",
+      "author_login": "tombujok",
+      "authored_at": "2015-08-23T17:48:13Z",
+      "message": "Update _faq.adoc"
+    },
+    {
+      "sha": "8d9742278f730d750522b9fd8ba7f3ed911c6dc3",
+      "author_login": "tombujok",
+      "authored_at": "2015-08-23T17:32:32Z",
+      "message": "Merge pull request #279 from igitur/detect-cscript-failure-and-offer-option-to-continue"
+    },
+    {
+      "sha": "845b299de84d1c1d21795f681bd163b4874860d0",
+      "author_login": "tombujok",
+      "authored_at": "2015-08-23T17:27:23Z",
+      "message": "Update _faq.adoc"
+    },
+    {
+      "sha": "8a61c3a71ac8ff2e2b0dc8f3e3586aa7c37b2d16",
+      "author_login": "jlupi",
+      "authored_at": "2015-08-14T14:33:26Z",
+      "message": "Update babun.rc"
+    },
+    {
+      "sha": "490a54f25d62da2b48bc3ddd94affc8fbab40ccf",
+      "author_login": "timdp",
+      "authored_at": "2015-07-21T09:26:24Z",
+      "message": "Fixing spelling error"
+    },
+    {
+      "sha": "f7b7be1bc30036c3ff0d89cdaa35ee99cf110fd2",
+      "author_login": "jlupi",
+      "authored_at": "2015-07-16T12:12:22Z",
+      "message": "Merge pull request #396 from Grafikart/patch-1"
+    },
+    {
+      "sha": "a146a1dbace11fc950ad085f4f7cf4ce46930cb0",
+      "author_login": "Grafikart",
+      "authored_at": "2015-07-16T10:47:01Z",
+      "message": "Update _faq.adoc for ConEmu configuration"
+    },
+    {
+      "sha": "d0e3df762c996ed77815e0bfa0da3131ef987203",
+      "author_login": "jlupi",
+      "authored_at": "2015-07-13T17:33:51Z",
+      "message": "Update _installation.adoc"
+    },
+    {
+      "sha": "8c87b27b395d7e827a0b1add6327dd24473af041",
+      "author_login": "jlupi",
+      "authored_at": "2015-07-13T17:31:08Z",
+      "message": "Update _usage.adoc"
+    },
+    {
+      "sha": "c8a9f8b659419e4c927980f8404b74f0d44afa44",
+      "author_login": "jlupi",
+      "authored_at": "2015-07-13T17:17:11Z",
+      "message": "Merge pull request #361 from rcuddy/compinit-faq-update"
+    },
+    {
+      "sha": "11e863de9af985d28057aa57068fa6bc0889df80",
+      "author_login": "jlupi",
+      "authored_at": "2015-07-13T17:16:17Z",
+      "message": "Merge pull request #366 from leycec/vimrc"
+    },
+    {
+      "sha": "e1ad0e35ad1785fdbc6ca8a0241f6477a12cbc14",
+      "author_login": "jlupi",
+      "authored_at": "2015-07-13T13:33:52Z",
+      "message": "Update .babunrc"
+    },
+    {
+      "sha": "f26ab0af6bad37352d58ac0443592b789a1cde5f",
+      "author_login": "jlupi",
+      "authored_at": "2015-07-02T15:26:28Z",
+      "message": "Merge pull request #374 from forivall/bugfix/file-permissions"
+    },
+    {
+      "sha": "3f8ecd9f48f5d7085db3933781cad53b043993f3",
+      "author_login": "forivall",
+      "authored_at": "2015-06-25T06:00:54Z",
+      "message": "Fix odd file perms issue with symlinked .gitconfig"
+    },
+    {
+      "sha": "26c18de0ffec497c577604191221bdaf5b13417a",
+      "author_login": "jlupi",
+      "authored_at": "2015-06-23T12:53:46Z",
+      "message": "Merge pull request #351 from xjlin0/master"
+    },
+    {
+      "sha": "eba967b9c20be8bc36727b98d00c4c83f2e160e2",
+      "author_login": "jlupi",
+      "authored_at": "2015-06-23T12:52:21Z",
+      "message": "updated babun version after release"
+    },
+    {
+      "sha": "5a1a26b2f5d22e25503a2818f59dc9b7871e6fa2",
+      "author_login": "leycec",
+      "authored_at": "2015-06-16T05:54:03Z",
+      "message": "\"/etc/vimrc\" relaxed about ir_black, fixing #365."
+    },
+    {
+      "sha": "8476652a36945ffab7e2e2169411dd598dd961b2",
+      "author_login": "ricketyboo",
+      "authored_at": "2015-06-13T04:44:02Z",
+      "message": "Update compdef/compinit faq to use $ZSH_VERSION"
+    },
+    {
+      "sha": "f8631690fd75fa7dcdcb5873837637d265477855",
+      "author_login": "xjlin0",
+      "authored_at": "2015-06-03T15:49:41Z",
+      "message": "fix typo of [babun] Typo in rebase.bat (#350)"
+    },
+    {
+      "sha": "084b993369e87e822088dab6d8567242bb988dbf",
+      "author_login": "jhpaul",
+      "authored_at": "2015-05-26T05:25:43Z",
+      "message": "cleanup"
+    },
+    {
+      "sha": "b017b125ce9a76c4c308736e2114ea53ed570084",
+      "author_login": "jhpaul",
+      "authored_at": "2015-05-26T05:20:04Z",
+      "message": "fixed xterm formatting"
+    },
+    {
+      "sha": "0f36af0c30e2008ba99cb5ba12b40d76f69cae7e",
+      "author_login": "jhpaul",
+      "authored_at": "2015-05-26T05:13:04Z",
+      "message": "working xserver install"
+    },
+    {
+      "sha": "03cbdd6894cbc54fb7590dd33bb70eae5cdca4db",
+      "author_login": "jlupi",
+      "authored_at": "2015-05-17T22:29:00Z",
+      "message": "fiing broken shortcut"
+    },
+    {
+      "sha": "c1b6e086d24bfdbcfdafbaa04a96e8d2d1f515fb",
+      "author_login": "jlupi",
+      "authored_at": "2015-05-17T21:23:57Z",
+      "message": "deleting desktop shortcut"
+    },
+    {
+      "sha": "85b6afea67cdacd13e1eeb898efa264200f6bc23",
+      "author_login": "jlupi",
+      "authored_at": "2015-05-17T20:02:18Z",
+      "message": "faq updated"
+    },
+    {
+      "sha": "3469bb393c8b4933b58c889479f2b2ffe29782a5",
+      "author_login": "jlupi",
+      "authored_at": "2015-05-17T19:12:14Z",
+      "message": "bugfix in shell-here, should install with install_home"
+    },
+    {
+      "sha": "c4b24fa27808c16728d1bed9556f9eafa558afea",
+      "author_login": "jlupi",
+      "authored_at": "2015-05-17T18:56:44Z",
+      "message": "Explained uninstall.sh, updated faq"
+    },
+    {
+      "sha": "81b7132318041d17fc4987e9ed796ed58ba131aa",
+      "author_login": "jlupi",
+      "authored_at": "2015-05-17T18:33:03Z",
+      "message": "Added possibility to uninstal babun and cleaning up plugin reg keys. Closes #324"
+    },
+    {
+      "sha": "c2909de2555fede9dad010e72a24de93e9f48bf6",
+      "author_login": "jlupi",
+      "authored_at": "2015-05-17T17:06:55Z",
+      "message": "bugfix shell-here not initialized on fresh install"
+    }
+  ],
+  "issues": [
+    {
+      "number": 888,
+      "title": "Anyone still using babun?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-07-28T06:43:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 887,
+      "title": "xhere seems not work when integrate with vscode",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-22T08:25:48Z",
+      "closed_at": "2020-07-23T08:53:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 886,
+      "title": "Stuck at Heroku login",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-09T13:17:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 883,
+      "title": "Startup \"Error\" Babuun",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-12-05T15:15:09Z",
+      "closed_at": "2019-12-06T07:54:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 882,
+      "title": "No $ sign in Babun on my windows laptop.How to start using it?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-09-13T05:18:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 880,
+      "title": "Tmux and the home/end keys",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-08-22T21:41:30Z",
+      "closed_at": "2019-08-24T15:56:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 877,
+      "title": "adb shell displays  error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-08-01T04:04:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 876,
+      "title": "mintty shrunks special characters, they are not displayed correctly.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-07-22T12:08:57Z",
+      "closed_at": "2019-07-29T15:32:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 875,
+      "title": "How Can I make a sshpass?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-26T18:39:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 874,
+      "title": "can not update or reinstall tar",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-02T23:44:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 873,
+      "title": "babun doesn't support neovim ?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-04-30T12:48:47Z",
+      "closed_at": "2019-09-04T11:03:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 872,
+      "title": "Add maintainers:wanted badge",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-21T21:22:33Z",
+      "closed_at": "2019-06-11T15:43:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 871,
+      "title": "ipython:7.4 py:3.64   %edit  subproess BlockingIOError",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-06T16:49:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 870,
+      "title": "run python3.6 error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-03-27T00:52:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 869,
+      "title": "Download link expired",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-02-04T16:57:05Z",
+      "closed_at": "2019-02-09T20:56:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 868,
+      "title": "Still maintained?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-01-26T22:04:49Z",
+      "closed_at": "2020-09-14T12:51:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 867,
+      "title": "How to install YouCompleteMe in babun for vim",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-01-07T14:57:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 866,
+      "title": "Getting the latest version",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-01-02T19:57:05Z",
+      "closed_at": "2019-01-04T20:19:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 865,
+      "title": "NFS-Client-mount works well at CMD.exe but not Cygwin Shell?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-22T02:32:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 864,
+      "title": "Typo in update.bat",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-12-17T11:10:24Z",
+      "closed_at": "2019-06-11T15:42:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 863,
+      "title": "Support for VSCode as shell",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-16T05:29:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 862,
+      "title": "Can't install gcc-g++, verification hash did not match",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-28T09:05:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 861,
+      "title": " died waiting for dll loading, errno 11",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-12T22:48:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 860,
+      "title": "Install a new program without an internet connexion",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-12T21:29:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 859,
+      "title": "Unable to update?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-12T04:32:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 858,
+      "title": "Segmentation fault (core dumped) when using Ping",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-11-07T15:59:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 857,
+      "title": "Babun installation does not work",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-02T11:49:53Z",
+      "closed_at": "2018-11-02T12:12:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 856,
+      "title": "Set shell not used for \"Open Babun here\" context menu option",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-31T22:09:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 855,
+      "title": "install programs ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-25T12:22:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 854,
+      "title": "Unable to download",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-10-09T16:54:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 853,
+      "title": "typo in comment",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-06T03:59:24Z",
+      "closed_at": "2019-06-11T15:41:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 852,
+      "title": "Git broken after \"pact update git\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-09-05T13:08:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 851,
+      "title": "repo init failed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-28T02:10:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 850,
+      "title": "Why is repo address wrong?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-18T10:11:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 849,
+      "title": "How to change mirror list in babun?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-16T04:43:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 848,
+      "title": "EXE file?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-09T07:50:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 847,
+      "title": "update.bat runs babun after updating",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-08-08T13:18:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 846,
+      "title": "error \"The syntax of the command is incorrect\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-30T01:40:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 845,
+      "title": "Electing a maintainer for babun",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-07-25T00:27:55Z",
+      "closed_at": "2018-08-03T12:45:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 844,
+      "title": "wget.exe packaged with babun has a high severity security flaw",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-09T12:50:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 843,
+      "title": "Gitconfig's core.filemode must be set to false",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-05T15:03:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 842,
+      "title": "Cannot change shell",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-05T13:00:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 841,
+      "title": ".babun is empty",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-06-29T16:48:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 840,
+      "title": "when i start babun i have this problem ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-06-20T18:43:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 839,
+      "title": "Compiling gawk from Git clone does not work.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-06-05T05:58:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 838,
+      "title": "Babun not finding .bash_profile or ca certificates",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-06-04T14:50:29Z",
+      "closed_at": "2018-06-29T11:25:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 837,
+      "title": "How do I install R script?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-05-23T04:45:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 836,
+      "title": "Activating an Anaconda environment breaks the cursor placement",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-05-16T15:54:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 835,
+      "title": "can not run expect command in babun",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-05-10T01:52:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 834,
+      "title": "installing libcrypt0 breaks make",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-05-10T01:32:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 833,
+      "title": "Installing packages/updating offline",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-27T18:04:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 832,
+      "title": "Unable to 'pact install gcc-g++'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-04-24T13:02:06Z",
+      "closed_at": "2018-04-24T13:15:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 831,
+      "title": "This is not an issue but feature request",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-04-15T21:11:47Z",
+      "closed_at": "2018-04-15T21:29:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 830,
+      "title": "error for ca certs",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-13T18:43:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 829,
+      "title": "Instructions for CA Certs",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-09T15:20:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 828,
+      "title": "hi, can we run crystal in this environment?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-04-08T00:39:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 827,
+      "title": "/bin/csh  error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-31T21:03:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 826,
+      "title": "How do I set cacerts with babun and cygwin?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-21T14:06:20Z",
+      "closed_at": "2018-06-27T17:06:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 825,
+      "title": "Change generic %HOME% variable to %BABUN_HOME%",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-09T13:57:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 824,
+      "title": ".babunrc secure default permission ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-09T09:24:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 823,
+      "title": "different file rights after using pact",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-07T13:39:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 822,
+      "title": "Cscope",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-03-06T15:59:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 821,
+      "title": "Warning happened when using tmux",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-02-28T06:01:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 820,
+      "title": "g++ error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-02-19T16:03:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 819,
+      "title": "Lunching & Terminating process using babun ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-02-07T16:24:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 818,
+      "title": "无法利用ctrl+V粘贴文本",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-02-04T11:56:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 817,
+      "title": "update.bat error on restart of babun - removed /etc files to fix - did I break anything else? question",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-29T15:51:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 816,
+      "title": "Search highlighting in vim",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-21T21:40:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 815,
+      "title": "ssh-agent mkdtemp permission denied error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-01-18T22:32:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 814,
+      "title": "graphics.h",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-12-28T18:17:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 813,
+      "title": "Installation terminating due to internal error #128",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-12-14T04:41:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 812,
+      "title": "Not allwoing me to input my Github password",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-12-10T16:40:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 811,
+      "title": "error 127 for tmux on fresh installation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-12-04T04:02:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 810,
+      "title": "Project Not Dead. Looking for someone to create a script to download full cygwin mirror",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-12-03T20:07:25Z",
+      "closed_at": "2019-02-09T21:06:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 809,
+      "title": "Just use Gitshell people!",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-11-28T03:52:43Z",
+      "closed_at": "2017-12-03T20:02:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 808,
+      "title": "error 'attrib' is not recognized as an internal or external command while fixing links",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-27T10:13:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 807,
+      "title": "screen: error 127 on launch, fresh babun install  ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-21T09:37:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 806,
+      "title": "Failed to run '/bin/zsh': no such file or directory on second launch",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-14T08:53:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 805,
+      "title": "some command is slow",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-13T08:52:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 804,
+      "title": "mintty.exe changed or moved?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-08T06:37:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 803,
+      "title": "Can not install imagemagick",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-30T09:13:08Z",
+      "closed_at": "2017-10-30T16:54:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 802,
+      "title": "Is this project dead ?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-24T14:42:55Z",
+      "closed_at": "2017-10-27T01:00:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 801,
+      "title": "Cannot activate a conda environment",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-10-23T16:20:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 800,
+      "title": "make: \"error while loading shared libraries: ?: cannot open shared object file: No such file or directory\" (cygcrypt-0.dll not found)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-13T07:37:42Z",
+      "closed_at": "2017-10-30T16:52:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 799,
+      "title": "Start command",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-10-11T15:16:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 798,
+      "title": "Remove the .babun prefix",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-10-01T22:10:44Z",
+      "closed_at": "2024-08-26T16:31:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 797,
+      "title": "Custom Install should stop using the .babun suffix",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-10-01T21:49:52Z",
+      "closed_at": "2017-10-30T16:20:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 796,
+      "title": "pact install Python3 done,but Can not run it.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-09-30T15:36:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 795,
+      "title": "Install Error: The system cannot find the path specified. [babun] Terminating due to internal error #1",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-09-28T09:40:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 794,
+      "title": "Require development mode for symlinks",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-09-25T07:56:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 793,
+      "title": "pact python3 installation fails",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-08-30T23:55:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 792,
+      "title": "Cannot install Squashfs-tools",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-08-23T02:17:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 791,
+      "title": "Command line equivalent to \"Open babun here\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-08-21T09:55:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 790,
+      "title": "Where does babun get it's prompt settings from? An addition to docs about prompts would be great",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-08-14T23:10:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 789,
+      "title": "Installing python-setuptools breaks python - error 127",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-08-10T11:08:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 788,
+      "title": "Package download server down",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-08-03T13:56:01Z",
+      "closed_at": "2017-08-07T14:12:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 787,
+      "title": "Execute permission can not be set on BAT files ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-07-27T07:23:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 786,
+      "title": "Babun installation fails on Windowsservercore docker image",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-07-24T14:26:16Z",
+      "closed_at": "2023-11-28T09:42:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 785,
+      "title": "install option required for a silent install",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-07-24T14:19:31Z",
+      "closed_at": "2023-11-28T09:42:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 784,
+      "title": "Download link in site is not working",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-07-24T07:38:59Z",
+      "closed_at": "2017-07-24T07:40:51Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "tombujok",
+      "contributions": 756
+    },
+    {
+      "login": "jlupi",
+      "contributions": 141
+    },
+    {
+      "login": "igitur",
+      "contributions": 6
+    },
+    {
+      "login": "lukaszpielak",
+      "contributions": 4
+    },
+    {
+      "login": "darinkes",
+      "contributions": 3
+    },
+    {
+      "login": "SamMorrowDrums",
+      "contributions": 3
+    },
+    {
+      "login": "rossdavidsmith",
+      "contributions": 3
+    },
+    {
+      "login": "marchof",
+      "contributions": 3
+    },
+    {
+      "login": "jhpaul",
+      "contributions": 3
+    },
+    {
+      "login": "vbfox",
+      "contributions": 2
+    },
+    {
+      "login": "MatCyg",
+      "contributions": 2
+    },
+    {
+      "login": "yatli",
+      "contributions": 2
+    },
+    {
+      "login": "adamarthurryan",
+      "contributions": 1
+    },
+    {
+      "login": "simonbasle",
+      "contributions": 1
+    },
+    {
+      "login": "srijanshetty",
+      "contributions": 1
+    },
+    {
+      "login": "thomasleveil",
+      "contributions": 1
+    },
+    {
+      "login": "timdp",
+      "contributions": 1
+    },
+    {
+      "login": "usmanatron",
+      "contributions": 1
+    },
+    {
+      "login": "vshih",
+      "contributions": 1
+    },
+    {
+      "login": "widhiptr40-collab",
+      "contributions": 1
+    },
+    {
+      "login": "ylecuyer",
+      "contributions": 1
+    },
+    {
+      "login": "austingreco",
+      "contributions": 1
+    },
+    {
+      "login": "ccampanale",
+      "contributions": 1
+    },
+    {
+      "login": "kapitanluffy",
+      "contributions": 1
+    },
+    {
+      "login": "leycec",
+      "contributions": 1
+    },
+    {
+      "login": "magiim",
+      "contributions": 1
+    },
+    {
+      "login": "meeech",
+      "contributions": 1
+    },
+    {
+      "login": "nadavc",
+      "contributions": 1
+    },
+    {
+      "login": "prabirshrestha",
+      "contributions": 1
+    },
+    {
+      "login": "stvlblnc",
+      "contributions": 1
+    },
+    {
+      "login": "awseward",
+      "contributions": 1
+    },
+    {
+      "login": "mxaddict",
+      "contributions": 1
+    },
+    {
+      "login": "bentsai",
+      "contributions": 1
+    },
+    {
+      "login": "bitdeli-chef",
+      "contributions": 1
+    },
+    {
+      "login": "Ktar5",
+      "contributions": 1
+    },
+    {
+      "login": "Grafikart",
+      "contributions": 1
+    },
+    {
+      "login": "airborn",
+      "contributions": 1
+    },
+    {
+      "login": "xjlin0",
+      "contributions": 1
+    },
+    {
+      "login": "jef",
+      "contributions": 1
+    },
+    {
+      "login": "forivall",
+      "contributions": 1
+    },
+    {
+      "login": "kubamarchwicki",
+      "contributions": 1
+    },
+    {
+      "login": "martin-sbb",
+      "contributions": 1
+    },
+    {
+      "login": "mateodelnorte",
+      "contributions": 1
+    },
+    {
+      "login": "mmounirou",
+      "contributions": 1
+    },
+    {
+      "login": "olivierdagenais",
+      "contributions": 1
+    },
+    {
+      "login": "prayagverma",
+      "contributions": 1
+    },
+    {
+      "login": "ricketyboo",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-10-12T14:06:42.964524Z"
+}
