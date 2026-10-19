@@ -1,0 +1,1524 @@
+{
+  "full_name": "futurice/ios-good-practices",
+  "owner": "futurice",
+  "name": "ios-good-practices",
+  "url": "https://github.com/futurice/ios-good-practices",
+  "description": "Good ideas for iOS development, by Futurice developers.",
+  "primary_language": null,
+  "topics": [
+    "apple",
+    "architecture",
+    "best-practices",
+    "good-practices",
+    "ios",
+    "objective-c",
+    "provisioning-profiles",
+    "swift",
+    "xcode"
+  ],
+  "license_spdx": "NOASSERTION",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 10979,
+  "forks": 1223,
+  "open_issues": 22,
+  "created_at": "2014-09-01T14:58:26Z",
+  "pushed_at": "2024-04-30T09:39:34Z",
+  "updated_at": "2026-10-19T10:10:31Z",
+  "commits": [
+    {
+      "sha": "d976bbea6e460e6a3a04988f3e53ad82d407c9fe",
+      "author_login": "erwald",
+      "authored_at": "2018-11-13T13:48:48Z",
+      "message": "Merge pull request #79 from erwald/committing-pods"
+    },
+    {
+      "sha": "e4b43dd75989c439acdeec2d730c2e31a50c3a3d",
+      "author_login": null,
+      "authored_at": "2018-11-12T15:11:43Z",
+      "message": "Reformulate recommendation to check Pods/ into source code."
+    },
+    {
+      "sha": "d36ac28b2e5417fa4222c7d7613e52c7ff4d4ab5",
+      "author_login": null,
+      "authored_at": "2018-11-12T14:10:00Z",
+      "message": "Add note that CocoaPods recommend checking pods into source code."
+    },
+    {
+      "sha": "14c616f7e3b2ddfa3a1598f5668090e2a886c146",
+      "author_login": "mkko",
+      "authored_at": "2018-11-12T07:48:39Z",
+      "message": "Merge pull request #69 from theapache64/master"
+    },
+    {
+      "sha": "0b08f1bf4d3c57aef3ef8310731c1a9890aa2e0e",
+      "author_login": "theapache64",
+      "authored_at": "2018-11-12T07:05:19Z",
+      "message": "'best' to 'popular'"
+    },
+    {
+      "sha": "55e3bfae2385dbc370b5b24581e8593c9718e80f",
+      "author_login": "theapache64",
+      "authored_at": "2018-11-08T04:23:52Z",
+      "message": "Reflected requested changes"
+    },
+    {
+      "sha": "590401c59ebca7ef107dfafdbde6d01e6dbd1776",
+      "author_login": "theapache64",
+      "authored_at": "2018-11-07T15:20:54Z",
+      "message": "Added official codable link and 3rd party json parsing libraries"
+    },
+    {
+      "sha": "d3db577a0101af4f35efacfe400e3d7402611a35",
+      "author_login": "erwald",
+      "authored_at": "2018-09-25T10:36:18Z",
+      "message": "Merge pull request #75 from TomiLahtinen/master"
+    },
+    {
+      "sha": "c322783a5ab3e9ee709cea16b3ac9974b139f22a",
+      "author_login": "TomiLahtinen",
+      "authored_at": "2018-09-25T10:31:49Z",
+      "message": "Fixed pluralization typo"
+    },
+    {
+      "sha": "f7c3e03b417f0fbacf0b21da4c8133cf978b991d",
+      "author_login": "TomiLahtinen",
+      "authored_at": "2018-09-24T13:06:32Z",
+      "message": "- Changed iTunes Connect to App Store Connect"
+    },
+    {
+      "sha": "eee26a0fca496e9be786c06088581745e7681b1f",
+      "author_login": "theapache64",
+      "authored_at": "2018-04-27T14:58:55Z",
+      "message": "Introduced Codable"
+    },
+    {
+      "sha": "3be271266e26570f459799263cde8818e1c73a1a",
+      "author_login": "sebastian-hojas",
+      "authored_at": "2018-02-17T09:56:49Z",
+      "message": "Merge pull request #65 from TomiLahtinen/master"
+    },
+    {
+      "sha": "1d76b2c1b5ceda4a479195388ebc508c7e7dbe15",
+      "author_login": "TomiLahtinen",
+      "authored_at": "2018-01-05T08:00:46Z",
+      "message": "Added example of #colorLiteral usage"
+    },
+    {
+      "sha": "e858b75c036ae4bfb3b3e5ad0bb9e89f0ba3fd9b",
+      "author_login": "TomiLahtinen",
+      "authored_at": "2018-01-05T07:58:32Z",
+      "message": "Fixed initialisation of light gray color to Swift 4 syntax"
+    },
+    {
+      "sha": "9a22baafe1d0145c2af4dfbaca450f8e6d2cf4ed",
+      "author_login": "erwald",
+      "authored_at": "2017-12-04T15:10:35Z",
+      "message": "Merge pull request #61 from erenkabakci/master"
+    },
+    {
+      "sha": "eef175d2774e2abe893542d49710f6ac11143845",
+      "author_login": "erenkabakci",
+      "authored_at": "2017-12-04T15:01:21Z",
+      "message": "Update Constants section with enum proposal"
+    },
+    {
+      "sha": "2d61ddab124ec2675b0e809aa7e0cfb5a35c2328",
+      "author_login": "erwald",
+      "authored_at": "2017-11-16T09:41:07Z",
+      "message": "Merge pull request #59 from erwald/master"
+    },
+    {
+      "sha": "d8c629b10bbec2ea69cfd075025ff00fcf9ad0cb",
+      "author_login": null,
+      "authored_at": "2017-11-14T16:41:28Z",
+      "message": "Update section on compiler warnings"
+    },
+    {
+      "sha": "21c8d5c1cbf0a7421074768084a35ead7f877192",
+      "author_login": "sebastian-hojas",
+      "authored_at": "2017-09-03T09:55:12Z",
+      "message": "Merge pull request #57 from urfious/master"
+    },
+    {
+      "sha": "dfc58c6152237793893201dc184284a51247d3c8",
+      "author_login": "lusa9",
+      "authored_at": "2017-08-07T17:02:20Z",
+      "message": "Updated debugging, autolayout and architecture sections"
+    },
+    {
+      "sha": "a64d023eb0c4d4986309509b2fdbb37e7bd9fcd7",
+      "author_login": "erwald",
+      "authored_at": "2017-02-10T11:20:24Z",
+      "message": "Merge pull request #54 from erwald/update-for-swift-3"
+    },
+    {
+      "sha": "23f708f6cd41db9a4148ade6e4bc5b4698a52d0e",
+      "author_login": null,
+      "authored_at": "2017-02-10T11:18:36Z",
+      "message": "Update text to refer to new RAC versions."
+    },
+    {
+      "sha": "7c31ba208c851e8833157d4731a1f7b1c2405e06",
+      "author_login": null,
+      "authored_at": "2017-02-09T13:05:38Z",
+      "message": "Update analytics example for Swift 3."
+    },
+    {
+      "sha": "bb07c1a15a34fe1448522874701198f9c0cd41fb",
+      "author_login": null,
+      "authored_at": "2017-02-09T13:04:39Z",
+      "message": "Add missing comma and substitute three periods for ellipsis."
+    },
+    {
+      "sha": "2fc91aa5673d80af749dfe6b33806a2bf8deefd1",
+      "author_login": null,
+      "authored_at": "2017-02-09T12:59:40Z",
+      "message": "Update store example for latest version of Swift and ReactiveSwift."
+    },
+    {
+      "sha": "bd06e26d101cdeff756be9ab37116c5ab6cc1808",
+      "author_login": null,
+      "authored_at": "2017-02-09T12:30:22Z",
+      "message": "Update store example for latest version of ReactiveObjC."
+    },
+    {
+      "sha": "230c795af569195cff3afaa1e85126a6cd96bbd0",
+      "author_login": null,
+      "authored_at": "2017-02-09T12:29:12Z",
+      "message": "Change Swift init labels to be more Swift 3-like."
+    },
+    {
+      "sha": "aafb4e310ad5124a79a0c08dfb8201b47865e5bf",
+      "author_login": null,
+      "authored_at": "2017-02-09T12:27:06Z",
+      "message": "Update example with requiresConstraintBasedLayout."
+    },
+    {
+      "sha": "ff4cf7808a168e8d8615e37a5e5736dde38e90db",
+      "author_login": "erwald",
+      "authored_at": "2017-02-09T10:41:09Z",
+      "message": "Merge pull request #53 from erwald/remove-ios8-references"
+    },
+    {
+      "sha": "3365825a4ecb4cb933d6c3b3e9abb1f2045bb7fd",
+      "author_login": null,
+      "authored_at": "2017-02-08T18:57:16Z",
+      "message": "Remove trailing whitespace."
+    },
+    {
+      "sha": "267b63e46b2dfc80c3aa42e4817ef201295ba660",
+      "author_login": null,
+      "authored_at": "2017-02-08T18:57:09Z",
+      "message": "Remove references to iOS 8."
+    },
+    {
+      "sha": "632213258694cbaca9836bba160a8c3ef4f88e87",
+      "author_login": null,
+      "authored_at": "2016-11-04T10:30:12Z",
+      "message": "Merge pull request #47 from Sebastian-Hojas/upkeeping"
+    },
+    {
+      "sha": "a4d074d3c9a9d5db0b79a23c012d30fa073a31e1",
+      "author_login": null,
+      "authored_at": "2016-11-04T10:26:46Z",
+      "message": "Merge pull request #48 from Sebastian-Hojas/assets"
+    },
+    {
+      "sha": "50d5920a69e29b3ce648b4431901c05935c9434d",
+      "author_login": "irrelevantat",
+      "authored_at": "2016-11-04T09:44:41Z",
+      "message": "Fixes typos in section AFNetworking and layout libraries"
+    },
+    {
+      "sha": "53304c25f53204755f69cb847d2e7616203adba6",
+      "author_login": "irrelevantat",
+      "authored_at": "2016-11-01T12:09:05Z",
+      "message": "Fixes typos in paragraph on image optimisation"
+    },
+    {
+      "sha": "ab8dc6b7f07338f210e55820726d8e5abb490aea",
+      "author_login": "irrelevantat",
+      "authored_at": "2016-11-01T11:40:50Z",
+      "message": "Adds paragraph on image optimisation with Xcode and external tools"
+    },
+    {
+      "sha": "6185faae47045768824d35a04b110b2119ea4f34",
+      "author_login": "irrelevantat",
+      "authored_at": "2016-11-01T10:36:28Z",
+      "message": "Adds reference to Swift's API style guidline"
+    },
+    {
+      "sha": "f5f9e17456a99524e57f16edee824d2d44f3cb1d",
+      "author_login": "irrelevantat",
+      "authored_at": "2016-11-01T10:11:58Z",
+      "message": "Removes section on Xcode Instrument's Automation tool that has been removed with XCode 8"
+    },
+    {
+      "sha": "e5746e72a98c8995dee7c41530d1cd60db4f0437",
+      "author_login": "irrelevantat",
+      "authored_at": "2016-11-01T09:33:47Z",
+      "message": "Remove explicit reference to year"
+    },
+    {
+      "sha": "c862764025ea93459f63ab0ce7034beac2231cfd",
+      "author_login": "irrelevantat",
+      "authored_at": "2016-11-01T09:26:36Z",
+      "message": "Enforce consistent formating of lists"
+    },
+    {
+      "sha": "64839f7b31a7a824cfc68e32a9559e3a3c87d315",
+      "author_login": "irrelevantat",
+      "authored_at": "2016-11-01T09:20:36Z",
+      "message": "Adds Alamofire to AFNetworking section"
+    },
+    {
+      "sha": "6d013a90542c8cf6018a6f2a46cde4cbd2946da6",
+      "author_login": "irrelevantat",
+      "authored_at": "2016-11-01T08:54:50Z",
+      "message": "Fixes small typos"
+    },
+    {
+      "sha": "0d66fd15fa3078254b1f1a895a421656fedfd210",
+      "author_login": "irrelevantat",
+      "authored_at": "2016-11-01T08:33:04Z",
+      "message": "Fixes broken links and TOC"
+    },
+    {
+      "sha": "6d5399d2f4cf3249d2a9aac56d830d44e2f940a0",
+      "author_login": "erwald",
+      "authored_at": "2016-10-01T13:45:21Z",
+      "message": "Merge pull request #46 from surendharreddy/iOS-HIG-link-fix"
+    },
+    {
+      "sha": "10bcc371eee29c8da50cc7aa3a112423e5e6de43",
+      "author_login": "surendharreddy",
+      "authored_at": "2016-10-01T10:40:30Z",
+      "message": "Fixes iOS Human Interface Guidelines link"
+    },
+    {
+      "sha": "5c4b03b5eec949c348de1ec90556d7f9a5a83721",
+      "author_login": "erwald",
+      "authored_at": "2016-06-30T09:48:05Z",
+      "message": "Merge pull request #44 from richeterre/master"
+    },
+    {
+      "sha": "ab9559d83b6bb2a2c551f179a1a7b62d2e5a9b80",
+      "author_login": null,
+      "authored_at": "2016-06-30T09:43:29Z",
+      "message": "Remove broken hyperlink"
+    },
+    {
+      "sha": "c3bff5f265bc689b6d6fc586e9309ed5a70a8f15",
+      "author_login": null,
+      "authored_at": "2016-06-30T09:42:20Z",
+      "message": "Merge remote-tracking branch 'upstream/master'"
+    },
+    {
+      "sha": "6b2c3d36b69ee77f35ead0ea205d355922ef9dac",
+      "author_login": "richeterre",
+      "authored_at": "2016-06-30T08:39:22Z",
+      "message": "Merge pull request #43 from brunodlz/master"
+    },
+    {
+      "sha": "df4280298fcdddc3f474763095a1cab639d1998a",
+      "author_login": null,
+      "authored_at": "2016-06-30T08:37:32Z",
+      "message": "Explain inspection of provisioning profiles embedded in .ipa files"
+    },
+    {
+      "sha": "cc316cc0bbe76707ee10f7fb246fceb00b6a4f1d",
+      "author_login": null,
+      "authored_at": "2016-06-13T00:01:38Z",
+      "message": "Removed Crashlytics"
+    },
+    {
+      "sha": "8327282591f2897f21ec71908b039ee564dfeefe",
+      "author_login": null,
+      "authored_at": "2016-06-10T02:18:49Z",
+      "message": "Added Fabric"
+    },
+    {
+      "sha": "74dfa5f3d78141100456a8ed2d254057f3ae35d1",
+      "author_login": "richeterre",
+      "authored_at": "2016-05-27T08:57:41Z",
+      "message": "Merge pull request #42 from yoterpa/patch-1"
+    },
+    {
+      "sha": "15f47bb60cee598fe72ba0b8d6c88ca5603976bf",
+      "author_login": "yoterpa",
+      "authored_at": "2016-05-25T16:36:59Z",
+      "message": "Update Debugging section"
+    },
+    {
+      "sha": "064799723824fd13fadee88b5350cd51e0bc5647",
+      "author_login": "ali-rantakari",
+      "authored_at": "2016-05-12T09:57:22Z",
+      "message": "Merge pull request #39 from Vkt0r/master"
+    },
+    {
+      "sha": "c24bcdb00be6eea49f4703b0fe115c93163caae1",
+      "author_login": "3vangelos",
+      "authored_at": "2016-05-12T09:14:48Z",
+      "message": "Merge pull request #41 from ali-rantakari/master"
+    },
+    {
+      "sha": "6605210354c4095ecaca92ffcdda12c00713d0ec",
+      "author_login": "ali-rantakari",
+      "authored_at": "2016-05-12T08:58:55Z",
+      "message": "Add reasons for deciding on min OS version"
+    },
+    {
+      "sha": "bb25be366cd5fbae94fa421260b7a4b6ad13c976",
+      "author_login": "ali-rantakari",
+      "authored_at": "2016-05-12T07:14:48Z",
+      "message": "Add stats links for min iOS version decision"
+    },
+    {
+      "sha": "6e8b8dd6cca8faaa75723dc7b2ed09b0363cc274",
+      "author_login": "richeterre",
+      "authored_at": "2016-04-28T16:11:53Z",
+      "message": "Merge pull request #40 from hdchan/patch-1"
+    },
+    {
+      "sha": "1211b10e54d86908bcf27a87e939b057f241bbcb",
+      "author_login": "hdchan",
+      "authored_at": "2016-04-20T14:18:20Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ea028c62b2deaf85d61332b7addda1e8b59106f1",
+      "author_login": "Vkt0r",
+      "authored_at": "2016-02-09T22:21:48Z",
+      "message": "Add new crash tool in the section Crash Reporting."
+    },
+    {
+      "sha": "1e2e6778462dc3f615dda7f225905bc6a0c88408",
+      "author_login": null,
+      "authored_at": "2016-01-27T09:20:08Z",
+      "message": "Merge pull request #36 from falsecrypt/bugfix-assets-link"
+    },
+    {
+      "sha": "413243bd070b685f694d404aa86dff71566ca776",
+      "author_login": null,
+      "authored_at": "2016-01-27T09:18:56Z",
+      "message": "Merge pull request #37 from billhsu/patch-1"
+    },
+    {
+      "sha": "a5046b9fa83afd5285b406ae574080809d26807d",
+      "author_login": "billhsu",
+      "authored_at": "2016-01-27T06:39:49Z",
+      "message": "correct the url for visual-format-language"
+    },
+    {
+      "sha": "281b8e788228ddb86566ef63af13d416f907fdaa",
+      "author_login": "falsecrypt",
+      "authored_at": "2016-01-21T18:57:04Z",
+      "message": "Fix asset-catalogs link"
+    },
+    {
+      "sha": "25d26588f57de87fb9b782b0373c7069d9cbf347",
+      "author_login": "mkauppila",
+      "authored_at": "2016-01-14T14:32:16Z",
+      "message": "Merge pull request #35 from richeterre/master"
+    },
+    {
+      "sha": "caa650b53174432688ce0faa1c4a893dae23a871",
+      "author_login": null,
+      "authored_at": "2016-01-14T14:19:46Z",
+      "message": "Add section on Human Interface Guidelines"
+    },
+    {
+      "sha": "5843fe4b9dea1ffd36e3fd8ecbe678cedf676ec4",
+      "author_login": "richeterre",
+      "authored_at": "2015-12-11T09:01:19Z",
+      "message": "Merge pull request #32 from jeffbowen/master"
+    },
+    {
+      "sha": "a2d83419e4e6ad93fd03dff9bf96fc711c485f61",
+      "author_login": "jeffbowen",
+      "authored_at": "2015-12-10T19:03:16Z",
+      "message": "Fix typo"
+    },
+    {
+      "sha": "ddbfb6bf791ef95ed4e515f34cbe8cda90dd3f37",
+      "author_login": "phadej",
+      "authored_at": "2015-11-14T13:40:34Z",
+      "message": "Merge pull request #31 from ReadmeCritic/master"
+    },
+    {
+      "sha": "ae5081ba04faeba5811e3d25cc092c8b24fe48d6",
+      "author_login": "ReadmeCritic",
+      "authored_at": "2015-11-12T17:12:53Z",
+      "message": "Update redirects in Readme"
+    },
+    {
+      "sha": "7aaa2b6c65472f597562c8a8b1d82e008895078c",
+      "author_login": "richeterre",
+      "authored_at": "2015-09-15T07:25:40Z",
+      "message": "Merge pull request #30 from ali-rantakari/master"
+    },
+    {
+      "sha": "644abc7642163e3bc9bdfc26f76245e5bbd20ef0",
+      "author_login": "ali-rantakari",
+      "authored_at": "2015-09-15T06:03:24Z",
+      "message": "Add links to comprehensive “Xcode concepts” docs"
+    },
+    {
+      "sha": "b4c551393090ed4eb9a67e7df0aa0274084ee270",
+      "author_login": null,
+      "authored_at": "2015-09-03T15:11:39Z",
+      "message": "Merge pull request #27 from richeterre/master"
+    },
+    {
+      "sha": "910d99e07c5a0682d3e6e39c9f09ac7d4e848b2e",
+      "author_login": null,
+      "authored_at": "2015-09-01T16:39:59Z",
+      "message": "Untangle Auto Layout recommendations"
+    },
+    {
+      "sha": "28d653501d5ea2aa67702489695a81541503c8b3",
+      "author_login": null,
+      "authored_at": "2015-08-28T12:32:50Z",
+      "message": "Merge pull request #26 from richeterre/master"
+    },
+    {
+      "sha": "b8757507422f629ebeba2364db48ed88e4284fb7",
+      "author_login": null,
+      "authored_at": "2015-08-28T12:32:08Z",
+      "message": "Mention JSON mappers for Swift in Models section"
+    },
+    {
+      "sha": "0e2cf6c9ebf7ea1f3df110c9cd992ea4a57fb351",
+      "author_login": null,
+      "authored_at": "2015-08-28T09:53:01Z",
+      "message": "Update model section for Swift"
+    },
+    {
+      "sha": "0cbced7d45d96b421884a9181327283b0a430187",
+      "author_login": null,
+      "authored_at": "2015-08-28T09:52:36Z",
+      "message": "Recommend usage of size classes and Auto Layout"
+    },
+    {
+      "sha": "37a090681005a5b74a00f4f0f24ccd17c7294c8f",
+      "author_login": null,
+      "authored_at": "2015-08-28T09:39:30Z",
+      "message": "Update Code vs. Storyboards section and add hybrid approach"
+    },
+    {
+      "sha": "0aaf1d0633677624f0c626f96750bc9c70c56787",
+      "author_login": "richeterre",
+      "authored_at": "2015-08-17T15:23:00Z",
+      "message": "Merge pull request #24 from erikjalevik/master"
+    },
+    {
+      "sha": "ae604f74dcdc29f45638cdc39d9c266bdbd5d4b5",
+      "author_login": null,
+      "authored_at": "2015-08-14T13:09:06Z",
+      "message": "Update Auto Layout guidelines under Views to reflect latest Apple recommendations."
+    },
+    {
+      "sha": "d5a083c764693357128771bb1e8dc33771de9581",
+      "author_login": null,
+      "authored_at": "2015-08-14T12:58:26Z",
+      "message": "Added full stops to bullet points that are full sentences."
+    },
+    {
+      "sha": "b287b4ea12a5da88dfb7a9c533a93cd90f97df36",
+      "author_login": null,
+      "authored_at": "2015-08-14T12:52:27Z",
+      "message": "Updated Auto Layout Libraries section to reflect the current state of things."
+    },
+    {
+      "sha": "2a95772949117fa5c90f50db5e93a16add6fb4db",
+      "author_login": null,
+      "authored_at": "2015-08-11T12:10:51Z",
+      "message": "Merge pull request #23 from richeterre/master"
+    },
+    {
+      "sha": "4807173cadd25f51b95e8e0421e5dba020f742ef",
+      "author_login": null,
+      "authored_at": "2015-08-11T12:08:08Z",
+      "message": "Remove superfluous word"
+    },
+    {
+      "sha": "c6be3fa7eb7948ffb45522ba2dcba52f5eaeea40",
+      "author_login": null,
+      "authored_at": "2015-08-11T12:07:02Z",
+      "message": "Clarify logging security section and remove low-signal portion on external libraries"
+    },
+    {
+      "sha": "0e9f0db5c1f0a1b14da860e47a1ed16789f94fd0",
+      "author_login": null,
+      "authored_at": "2015-08-11T09:58:35Z",
+      "message": "Add note about keeping constant scope as small as possible"
+    },
+    {
+      "sha": "884cf2e99d72646b912580d17e7387f37578b1ba",
+      "author_login": null,
+      "authored_at": "2015-08-11T09:24:03Z",
+      "message": "Add note about setting up constraints at init time, if possible"
+    },
+    {
+      "sha": "c56d3ad09dc212f58ab419b79e5f55c4232ac44d",
+      "author_login": null,
+      "authored_at": "2015-08-11T08:24:51Z",
+      "message": "Re-add pragma marks and tweak a comment in code structure example"
+    },
+    {
+      "sha": "85381d3c21cb19ea7d2f0b895adf41b8ecd4d8f9",
+      "author_login": null,
+      "authored_at": "2015-08-11T08:23:28Z",
+      "message": "Migrate an inline method name to Swift"
+    },
+    {
+      "sha": "82d37ad3e91d9d5fe2ee7aa5a22244ba12d4cfe9",
+      "author_login": null,
+      "authored_at": "2015-08-11T07:57:20Z",
+      "message": "Replace SSL with TLS in Security section"
+    },
+    {
+      "sha": "6bf7dcd2d9ad354bfe02e27ebdf26b551035e139",
+      "author_login": null,
+      "authored_at": "2015-08-10T16:15:14Z",
+      "message": "Make Swift support in Faux Pas less of a promise"
+    },
+    {
+      "sha": "8237280aaa82002fbe017a8bb2df55980a34c15b",
+      "author_login": null,
+      "authored_at": "2015-08-10T14:21:55Z",
+      "message": "Add note about Faux Pas not supporting Swift yet"
+    },
+    {
+      "sha": "cebd42cb5d590aa596bacdd789556e9a416ff9e8",
+      "author_login": null,
+      "authored_at": "2015-08-10T13:51:12Z",
+      "message": "Re-add some Objective-C examples alongside their Swift counterparts"
+    },
+    {
+      "sha": "8a6beacc71b24d23236e491223d9b6b5e14be207",
+      "author_login": null,
+      "authored_at": "2015-08-10T10:14:14Z",
+      "message": "Add MVVM option to proposed directory structure"
+    },
+    {
+      "sha": "d198231edbbd654017dd1ecb18599d035321e5fc",
+      "author_login": null,
+      "authored_at": "2015-08-10T10:13:53Z",
+      "message": "Add section on Carthage"
+    },
+    {
+      "sha": "a918f1e7cbd56c31de2cb2656530567334fde955",
+      "author_login": null,
+      "authored_at": "2015-08-10T09:20:06Z",
+      "message": "Replace Networking section by Stores"
+    },
+    {
+      "sha": "399347b5ff6a94c55a7397fcc7625c62579da1df",
+      "author_login": null,
+      "authored_at": "2015-08-10T08:53:39Z",
+      "message": "Rewrite security checklist to match document style"
+    },
+    {
+      "sha": "86f6cef729220ca6f7c2dabf531ac10b9a27c7d1",
+      "author_login": null,
+      "authored_at": "2015-08-10T08:38:20Z",
+      "message": "Merge remote-tracking branch 'upstream/master'"
+    }
+  ],
+  "issues": [
+    {
+      "number": 89,
+      "title": "Instabug has rebranded to Luciq",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-22T11:25:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 88,
+      "title": "Add Chinese version readme For #82",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-04-30T09:39:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 87,
+      "title": "HockeyApp is retired",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-03-20T07:16:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 86,
+      "title": "add",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-04-03T09:45:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "Just a typing mistake",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-12T09:12:43Z",
+      "closed_at": "2020-05-14T12:44:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "Time?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-11T15:39:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "SwiftUI as an alternative to (or to complement) Code / Storyboards - Project Setup",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-02-17T10:57:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 82,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-15T01:18:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "Example Project Needed ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-12-06T05:53:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "Add note that CocoaPods recommend checking pods into source code.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-11-12T14:19:18Z",
+      "closed_at": "2018-11-13T13:48:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "JSON Parsing best Practice?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-11-07T18:31:47Z",
+      "closed_at": "2018-11-12T15:43:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "Update README file for MVP design pattern",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-10-16T12:30:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "Update: Best practice for Pods added in Note.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-10-16T12:24:08Z",
+      "closed_at": "2018-11-12T14:10:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "iTunes Connect -> App Store Connect and updating some old info",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-09-24T13:10:41Z",
+      "closed_at": "2018-09-25T10:36:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "Add Google Swift Style Guide",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-09-19T14:19:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "Suggestion to use different targets using the same Pods",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-07-31T19:06:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-06-21T06:51:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "Suggestion to add Bugsee to Crash Logs List.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-06-07T19:26:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "What image asset do we need",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-05-10T15:25:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "Introduced Codable",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-04-27T14:59:34Z",
+      "closed_at": "2018-11-12T07:48:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "Remove DateTools",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2018-03-06T12:48:39Z",
+      "closed_at": "2021-04-21T15:59:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "Why not use environment variables available through Schema's",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2018-02-23T09:08:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "Add another autoLayout lightweight library",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-02-13T11:21:00Z",
+      "closed_at": "2018-02-13T12:35:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 65,
+      "title": "Minor Swift 4 fix and example of #colorLiteral",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-01-05T11:31:29Z",
+      "closed_at": "2018-02-17T09:56:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "Ruby setup",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-12-27T14:53:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": "Added URLCredential documentation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-15T18:16:17Z",
+      "closed_at": "2026-01-13T22:30:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "Folder structuring proposal for big scale projects",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-04T16:14:50Z",
+      "closed_at": "2022-03-17T12:10:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "Update Constants section with enum proposal",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-12-04T15:08:11Z",
+      "closed_at": "2017-12-04T15:10:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "Project structure section.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-11-14T21:48:44Z",
+      "closed_at": "2021-08-13T07:33:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "Update section on compiler warnings",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-11-14T17:12:23Z",
+      "closed_at": "2017-11-16T09:41:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "ObjC <-> Swift interoperability",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-11-14T16:19:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "updates to Autolayout, Architecture & Debugging section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-08-08T11:47:05Z",
+      "closed_at": "2017-09-03T09:55:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "Struct vs Enum for constants",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2017-05-26T09:51:48Z",
+      "closed_at": "2017-06-03T11:21:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "Suggestion to add LinkedIn swift style guide",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2017-03-30T15:38:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 54,
+      "title": "Update for Swift 3",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-02-09T13:08:15Z",
+      "closed_at": "2017-02-10T11:20:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "Remove iOS 8 references",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2017-02-08T18:58:24Z",
+      "closed_at": "2017-02-09T10:41:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 52,
+      "title": "Add links to tools from Fastlane toolchain",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2016-11-10T20:35:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 51,
+      "title": "Elaborates on the separation of compilation and signing",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-11-07T14:13:36Z",
+      "closed_at": "2017-05-28T14:30:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 50,
+      "title": "Suggestion to add Fastlane",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2016-11-05T22:03:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 49,
+      "title": "Security update: Local authentication",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-11-01T13:20:08Z",
+      "closed_at": "2017-05-28T14:32:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 48,
+      "title": "Image optimisation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-11-01T12:17:34Z",
+      "closed_at": "2016-11-04T10:26:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 47,
+      "title": "Upkeeping: Links, language, style",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-11-01T09:38:21Z",
+      "closed_at": "2016-11-04T10:30:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 46,
+      "title": "Fixes broken link ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-10-01T10:43:10Z",
+      "closed_at": "2016-10-01T13:45:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 45,
+      "title": "Add suggestions on multi-screen images",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2016-08-10T14:00:35Z",
+      "closed_at": "2017-05-28T14:20:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 44,
+      "title": "Explain inspection of provisioning profiles embedded in .ipa files",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-06-30T08:40:30Z",
+      "closed_at": "2016-06-30T09:48:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 43,
+      "title": "Added Fabric",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-06-10T02:21:06Z",
+      "closed_at": "2016-06-30T08:39:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 42,
+      "title": "Update Debugging section",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-05-25T16:37:23Z",
+      "closed_at": "2016-05-27T08:57:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 41,
+      "title": "Add stats links for min iOS version decision",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-05-12T07:16:17Z",
+      "closed_at": "2016-05-12T09:14:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 40,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-04-20T14:18:33Z",
+      "closed_at": "2016-04-28T16:11:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 39,
+      "title": "Add new crash tool in the section Crash Reporting.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-02-09T22:23:32Z",
+      "closed_at": "2016-05-12T09:57:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "Add information about push notifications",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-01-29T02:51:34Z",
+      "closed_at": "2016-11-01T09:40:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 37,
+      "title": "correct the url for visual-format-language",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-01-27T06:40:38Z",
+      "closed_at": "2016-01-27T09:18:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 36,
+      "title": "Fix asset-catalogs link",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-01-21T21:23:09Z",
+      "closed_at": "2016-01-27T09:20:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 35,
+      "title": "Add section on Human Interface Guidelines",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2016-01-14T14:20:12Z",
+      "closed_at": "2016-01-14T14:32:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 34,
+      "title": "Best practice on handling view controllers for deep linking",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-12-21T09:23:03Z",
+      "closed_at": "2017-05-28T14:23:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 33,
+      "title": "Suggestion to add section on categories",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-12-15T03:05:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "Fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-12-10T19:04:23Z",
+      "closed_at": "2015-12-11T09:01:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 31,
+      "title": "Update redirects in Readme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-11-12T17:12:55Z",
+      "closed_at": "2015-11-14T13:40:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "Add links to comprehensive “Xcode concepts” docs",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-09-15T06:04:41Z",
+      "closed_at": "2015-09-15T07:25:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "Suggestion to add information about Fastlane tool",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-09-07T07:47:12Z",
+      "closed_at": "2015-09-07T08:03:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "Suggestion to change project directory organization",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2015-09-05T00:26:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "Untangle Auto Layout recommendations",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-09-01T16:41:59Z",
+      "closed_at": "2015-09-03T15:11:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "Update layout and model recommendations",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-08-28T09:58:37Z",
+      "closed_at": "2015-08-28T12:32:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "Suggestion: Best practices for Beta testing",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-08-19T21:37:33Z",
+      "closed_at": "2017-05-28T14:28:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "Some updates to auto layout guidelines.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-08-14T13:11:39Z",
+      "closed_at": "2015-08-17T15:23:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "Modernizations, especially regarding Swift",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-08-10T10:30:25Z",
+      "closed_at": "2015-08-11T12:10:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 22,
+      "title": "TOC and small fixes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-04-21T13:53:03Z",
+      "closed_at": "2015-04-21T14:01:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 21,
+      "title": "idea: best practices for handling app-wide appearance settings",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-04-14T15:04:17Z",
+      "closed_at": "2015-08-11T12:14:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 20,
+      "title": "Added Security topic",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-03-30T23:23:53Z",
+      "closed_at": "2015-08-10T08:37:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 19,
+      "title": "Add section on IAP receipt validation.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-02-17T11:20:11Z",
+      "closed_at": "2015-02-17T13:00:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 18,
+      "title": "idea: practices for storing sensitive details",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2015-02-08T19:18:19Z",
+      "closed_at": "2015-08-10T10:28:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17,
+      "title": "Add suggestion to include hellodebug.com",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-02-03T15:27:50Z",
+      "closed_at": "2015-02-12T15:01:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 16,
+      "title": "Edits and a new section on Instruments",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-02-02T16:12:33Z",
+      "closed_at": "2015-02-16T09:19:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "Renamed Windows best practices repository",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-01-30T09:32:07Z",
+      "closed_at": "2015-02-02T16:14:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "Update for Xcode 6 & iOS 8, add some sections, unify hyperlink style",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-01-28T15:16:09Z",
+      "closed_at": "2015-01-29T07:03:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 13,
+      "title": "Some edits",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2015-01-05T11:48:29Z",
+      "closed_at": "2015-01-05T14:01:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 12,
+      "title": "Cross-link to Windows Client Good Practices",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2014-12-12T14:23:47Z",
+      "closed_at": "2014-12-15T06:47:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 11,
+      "title": "Fix typo",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2014-12-10T15:01:07Z",
+      "closed_at": "2014-12-10T15:08:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 10,
+      "title": "Add introductory text to Common Libraries section (resolves #9)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2014-12-09T18:18:39Z",
+      "closed_at": "2014-12-10T14:33:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 9,
+      "title": "Suggestion: Beginners should stay close to Apple frameworks",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2014-12-09T14:23:24Z",
+      "closed_at": "2014-12-10T14:33:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 8,
+      "title": "idea: adding osx gitignore",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2014-12-09T12:09:32Z",
+      "closed_at": "2014-12-09T20:38:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 7,
+      "title": "Added advantages for using code and storyboards.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2014-12-08T08:27:45Z",
+      "closed_at": "2014-12-30T16:57:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 6,
+      "title": "Cross-link to Android Best Practices document",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2014-11-04T08:49:49Z",
+      "closed_at": "2014-11-04T09:01:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 5,
+      "title": "Add links to external Obj-C style guides.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2014-10-30T13:10:59Z",
+      "closed_at": "2014-10-30T13:49:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 4,
+      "title": "More links, examples and better wording in various sections",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2014-10-30T11:40:37Z",
+      "closed_at": "2014-10-30T12:00:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 3,
+      "title": "Improvements",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2014-10-30T10:29:37Z",
+      "closed_at": "2014-10-30T11:05:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2,
+      "title": "Static Analyzer, Spark Inspector, Free Faux Pas licenses for Futupeople",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2014-10-16T10:28:24Z",
+      "closed_at": "2014-10-16T12:39:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1,
+      "title": "Improvements: Compiler warnings, xcconfig files, L10N.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2014-10-16T06:18:22Z",
+      "closed_at": "2014-10-16T07:30:31Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "ali-rantakari",
+      "contributions": 30
+    },
+    {
+      "login": "richeterre",
+      "contributions": 12
+    },
+    {
+      "login": "irrelevantat",
+      "contributions": 10
+    },
+    {
+      "login": "erwald",
+      "contributions": 8
+    },
+    {
+      "login": "TomiLahtinen",
+      "contributions": 4
+    },
+    {
+      "login": "theapache64",
+      "contributions": 4
+    },
+    {
+      "login": "shams-ahmed",
+      "contributions": 3
+    },
+    {
+      "login": "dasdom",
+      "contributions": 3
+    },
+    {
+      "login": "sebastian-hojas",
+      "contributions": 2
+    },
+    {
+      "login": "Vkt0r",
+      "contributions": 1
+    },
+    {
+      "login": "surendharreddy",
+      "contributions": 1
+    },
+    {
+      "login": "billhsu",
+      "contributions": 1
+    },
+    {
+      "login": "ReadmeCritic",
+      "contributions": 1
+    },
+    {
+      "login": "falsecrypt",
+      "contributions": 1
+    },
+    {
+      "login": "phadej",
+      "contributions": 1
+    },
+    {
+      "login": "mkko",
+      "contributions": 1
+    },
+    {
+      "login": "mkauppila",
+      "contributions": 1
+    },
+    {
+      "login": "lusa9",
+      "contributions": 1
+    },
+    {
+      "login": "jeffbowen",
+      "contributions": 1
+    },
+    {
+      "login": "hdchan",
+      "contributions": 1
+    },
+    {
+      "login": "3vangelos",
+      "contributions": 1
+    },
+    {
+      "login": "erenkabakci",
+      "contributions": 1
+    },
+    {
+      "login": "yoterpa",
+      "contributions": 1
+    },
+    {
+      "login": "staltz",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-10-19T11:47:23.295680Z"
+}

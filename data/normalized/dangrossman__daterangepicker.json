@@ -1,0 +1,2127 @@
+{
+  "full_name": "dangrossman/daterangepicker",
+  "owner": "dangrossman",
+  "name": "daterangepicker",
+  "url": "https://github.com/dangrossman/daterangepicker",
+  "description": "JavaScript Date Range, Date and Time Picker Component",
+  "primary_language": "JavaScript",
+  "topics": [],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 10971,
+  "forks": 3242,
+  "open_issues": 119,
+  "created_at": "2012-08-20T01:53:06Z",
+  "pushed_at": "2024-08-09T12:21:25Z",
+  "updated_at": "2026-10-14T19:58:22Z",
+  "commits": [
+    {
+      "sha": "8495717c4007a03fd5dee422f161811fd6140c0e",
+      "author_login": "dangrossman",
+      "authored_at": "2020-07-30T23:57:09Z",
+      "message": "Merge pull request #2132 from mwanji/umd-template-update"
+    },
+    {
+      "sha": "374040c0f57731cde050a190ac3355d59d78a5e3",
+      "author_login": "mwanji",
+      "authored_at": "2020-07-30T23:37:34Z",
+      "message": "Update UMD template to work in an ES module context."
+    },
+    {
+      "sha": "6075b419d6072010accda52080322e1487c4cc7b",
+      "author_login": "dangrossman",
+      "authored_at": "2020-05-24T07:35:31Z",
+      "message": "Update package.js"
+    },
+    {
+      "sha": "315f3634128a09f725f0c408c91ba927cb66f098",
+      "author_login": "dangrossman",
+      "authored_at": "2020-05-24T07:35:15Z",
+      "message": "Update package.json"
+    },
+    {
+      "sha": "5d9eb2cce58434baeeb82db39928c695420739a2",
+      "author_login": "dangrossman",
+      "authored_at": "2020-05-24T07:33:21Z",
+      "message": "Bump version"
+    },
+    {
+      "sha": "6f6e8851360e55d7d6986812ab86f470130c7ec8",
+      "author_login": "dangrossman",
+      "authored_at": "2020-05-24T07:33:05Z",
+      "message": "Bump version"
+    },
+    {
+      "sha": "c65cb7af19d547e0ebda731838ba22ba09ff8a4b",
+      "author_login": "dangrossman",
+      "authored_at": "2020-05-24T07:32:37Z",
+      "message": "Bump year"
+    },
+    {
+      "sha": "71449a7f98153740e3810677a72c78067ef8ae41",
+      "author_login": "dangrossman",
+      "authored_at": "2020-05-24T07:32:16Z",
+      "message": "Bump version"
+    },
+    {
+      "sha": "a5bf4f0ae55f13a7a6ce3bf85f81b74257c3c6f4",
+      "author_login": "dangrossman",
+      "authored_at": "2020-05-24T07:28:09Z",
+      "message": "Merge pull request #1931 from shadow-dot-cat/TBSliver/SingleNoAutoApply"
+    },
+    {
+      "sha": "7cc6fd6dc0f16460180d4219b5e6d9ba9ce5add8",
+      "author_login": "dangrossman",
+      "authored_at": "2020-05-24T07:24:22Z",
+      "message": "Merge pull request #2007 from mariano/patch-1"
+    },
+    {
+      "sha": "dabaef8b8cc2e20a61dd8c6eedac53de8229dcf2",
+      "author_login": "dangrossman",
+      "authored_at": "2020-05-24T07:24:14Z",
+      "message": "Merge branch 'master' into patch-1"
+    },
+    {
+      "sha": "38e96da7ad93bf49adf51b19462ebf57981068fa",
+      "author_login": "dangrossman",
+      "authored_at": "2020-05-24T07:22:44Z",
+      "message": "Merge pull request #2058 from thorn0/master"
+    },
+    {
+      "sha": "fc89f2b5fc183489c2a79c2d1a7d59f5243e6950",
+      "author_login": "dangrossman",
+      "authored_at": "2020-05-24T07:20:34Z",
+      "message": "Merge pull request #2090 from Ciki/patch-1"
+    },
+    {
+      "sha": "15f43cc258865797097bf6a33acf6ebddfafee2c",
+      "author_login": "Ciki",
+      "authored_at": "2020-05-13T15:58:00Z",
+      "message": "fix missing semicolons"
+    },
+    {
+      "sha": "933c0d4737c3f0b4d59df530736dab98002bcc14",
+      "author_login": "thorn0",
+      "authored_at": "2019-12-20T17:55:43Z",
+      "message": "add support for `drops: 'auto'`"
+    },
+    {
+      "sha": "bd18993963a929f8901d0be6384f5959874066d5",
+      "author_login": "mariano",
+      "authored_at": "2019-08-22T21:10:19Z",
+      "message": "Usage of JS reserved word default breaks YUICompressor"
+    },
+    {
+      "sha": "3d57f7bd6f7f57dd115b3438353b1e3bfabb301f",
+      "author_login": "dangrossman",
+      "authored_at": "2019-08-14T22:27:43Z",
+      "message": "Merge pull request #1948 from simsek97/master"
+    },
+    {
+      "sha": "c59b977f55b9ea6fff115ba5e074bad8d68d67b9",
+      "author_login": "simsek97",
+      "authored_at": "2019-05-04T19:27:55Z",
+      "message": "Fix for popper.js setAttribute issue"
+    },
+    {
+      "sha": "37f07d95482939b7352f1b03c37c3fd925f44210",
+      "author_login": "dangrossman",
+      "authored_at": "2019-04-22T14:18:14Z",
+      "message": "bump copyright date and fix a dependency"
+    },
+    {
+      "sha": "fc790d9fd8aae2b5e0b014f1123a4055dd6f8b50",
+      "author_login": "dangrossman",
+      "authored_at": "2019-04-11T21:38:06Z",
+      "message": "Merge branch 'master' of github.com:dangrossman/bootstrap-daterangepicker"
+    },
+    {
+      "sha": "8f2848e650a3cc85f3bd164ef473cf9544aef206",
+      "author_login": "dangrossman",
+      "authored_at": "2019-04-11T21:37:56Z",
+      "message": "Bump version number"
+    },
+    {
+      "sha": "80758cad93342e2be89a00ff009979a34d9c7f3e",
+      "author_login": "dangrossman",
+      "authored_at": "2019-04-11T21:35:53Z",
+      "message": "Merge pull request #1816 from yasin-mansour/master"
+    },
+    {
+      "sha": "df0e46ca0670da108a2ceaef6fffb0d078d0368b",
+      "author_login": "dangrossman",
+      "authored_at": "2019-04-11T21:32:03Z",
+      "message": "Merge pull request #1857 from danhuynhdev/fix-broken-layout"
+    },
+    {
+      "sha": "25edcdd6ce61181d2b1feb9aa91a038d140ca5d0",
+      "author_login": "dangrossman",
+      "authored_at": "2019-04-11T21:20:25Z",
+      "message": "Merge pull request #1895 from phazei/revert-1588-patch-1"
+    },
+    {
+      "sha": "e62f029c06bce458bd51d460a3c90c3a7ddeb346",
+      "author_login": "dangrossman",
+      "authored_at": "2019-04-11T21:19:19Z",
+      "message": "Merge pull request #1899 from phazei/patch-2"
+    },
+    {
+      "sha": "2fff704456a10c37b23a7740532130c22813e134",
+      "author_login": "dangrossman",
+      "authored_at": "2019-04-11T21:13:07Z",
+      "message": "Merge pull request #1925 from BenPowell5/patch-1"
+    },
+    {
+      "sha": "64b3589302a4e1c21198ea9b415a6000e6298ece",
+      "author_login": "dangrossman",
+      "authored_at": "2019-04-11T21:11:39Z",
+      "message": "Merge pull request #1927 from brightgarden/master"
+    },
+    {
+      "sha": "ac3aeb779e274244c1b8af11b82664290d0ae2b6",
+      "author_login": "dangrossman",
+      "authored_at": "2019-04-11T21:04:50Z",
+      "message": "Merge pull request #1784 from stegano/feature/fix-css-bug"
+    },
+    {
+      "sha": "46d4be312d58f3f2d4946f2a59500bc181044f6e",
+      "author_login": "dangrossman",
+      "authored_at": "2019-04-11T20:57:36Z",
+      "message": "Merge pull request #1749 from TNAJanssen/patch-1"
+    },
+    {
+      "sha": "5233f37943d012b617f17c45aa9c45327bf337b0",
+      "author_login": "TBSliver",
+      "authored_at": "2019-03-20T15:06:52Z",
+      "message": "Allow for singleDatePicker to disable autoApply"
+    },
+    {
+      "sha": "77e80e19b5d597a5ac3d5e900d7f898d0f5d477f",
+      "author_login": "brightgarden",
+      "authored_at": "2019-03-06T20:16:12Z",
+      "message": "Fix NaN when using timePickerIncrement"
+    },
+    {
+      "sha": "160a2e875ab57e5dacfcdbf549fc456a3ded25a4",
+      "author_login": "BenPowell5",
+      "authored_at": "2019-03-01T16:53:11Z",
+      "message": "renderTimePicker fix"
+    },
+    {
+      "sha": "d13ba218cddd3e16094d8c6abd0697c2f7201eb2",
+      "author_login": "phazei",
+      "authored_at": "2019-01-07T17:59:02Z",
+      "message": "Add identifying class to dates from prev/next month on calendar"
+    },
+    {
+      "sha": "98befdfca2a33a6a28ca38e56a469f84c47474f9",
+      "author_login": "phazei",
+      "authored_at": "2018-12-26T19:37:06Z",
+      "message": "Revert \"Fix for issue #1587\""
+    },
+    {
+      "sha": "bc645d93e837905dcd38b04b8d9123978ea9f571",
+      "author_login": "dangrossman",
+      "authored_at": "2018-10-31T21:43:36Z",
+      "message": "Merge pull request #1765 from bladepop/patch-1"
+    },
+    {
+      "sha": "48d3adede7f1ec15ad323c6332a76e216b2c97d3",
+      "author_login": "dangrossman",
+      "authored_at": "2018-10-23T15:07:39Z",
+      "message": "Merge pull request #1864 from vipera/feature/24h-label-selection"
+    },
+    {
+      "sha": "304b24c7f1840054f7869acb9d13ae6b8348b07a",
+      "author_login": "vipera",
+      "authored_at": "2018-10-23T13:09:14Z",
+      "message": "Correctly calculate chosen label hour"
+    },
+    {
+      "sha": "89b9df2806bbaf4396b9e428b3a4806cf54c5205",
+      "author_login": "tantmd",
+      "authored_at": "2018-10-11T07:56:27Z",
+      "message": "Fix broken layout when the picker is too close to the window edge"
+    },
+    {
+      "sha": "ff45dad4beac5a762ca5f72156df4ae80e249e21",
+      "author_login": "dangrossman",
+      "authored_at": "2018-08-22T17:08:42Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "86b2bea80e847c423becbbe8d207d2db344d4efd",
+      "author_login": null,
+      "authored_at": "2018-08-16T10:07:22Z",
+      "message": "1813: Wrong rendering for the time picker when using maxDate and maxSpan"
+    },
+    {
+      "sha": "71e17bcdef48997676eb1b8580eeef15e8dc7ab9",
+      "author_login": "stegano",
+      "authored_at": "2018-06-23T14:52:22Z",
+      "message": "fix(#1783): fixed a css bug that occurrence when `locale.direction` is ` ltr`"
+    },
+    {
+      "sha": "5778d00105fd6dd221bddb546b8bd459041e6884",
+      "author_login": "bladepop",
+      "authored_at": "2018-06-04T14:01:22Z",
+      "message": "Update daterangepicker.js"
+    },
+    {
+      "sha": "357daa61b01247ce8ec21c6338d680e5576cecc2",
+      "author_login": "bladepop",
+      "authored_at": "2018-06-04T12:02:34Z",
+      "message": "Fix TypeError: moment is not a function(…)"
+    },
+    {
+      "sha": "ab5c5ea460c1edc6a865b99aeec006abf1e0aab9",
+      "author_login": "dangrossman",
+      "authored_at": "2018-05-23T20:24:01Z",
+      "message": "docs"
+    },
+    {
+      "sha": "27110b918f9a72db0b14018bcedc1e6dcffc74ba",
+      "author_login": "dangrossman",
+      "authored_at": "2018-05-22T16:09:24Z",
+      "message": "Bump version for release"
+    },
+    {
+      "sha": "a7a93db846c9cd110e6416ed77feece81babdda8",
+      "author_login": "dangrossman",
+      "authored_at": "2018-05-17T03:37:03Z",
+      "message": "restore hover highlighting"
+    },
+    {
+      "sha": "41cb68d76ff3835e2c98c735d8d38f7b3f331ab8",
+      "author_login": "TNAJanssen",
+      "authored_at": "2018-05-16T09:04:37Z",
+      "message": "Bug with minYear & maxYear without min/max Date"
+    },
+    {
+      "sha": "fba7dc416be6b38a6b2051cf6bdc84920f8cd6f7",
+      "author_login": "dangrossman",
+      "authored_at": "2018-05-09T20:25:45Z",
+      "message": "Bump version, add missing docs"
+    },
+    {
+      "sha": "a244c4d3d15f3f71f6a657d47cdea585a856b75d",
+      "author_login": "dangrossman",
+      "authored_at": "2018-05-09T20:05:53Z",
+      "message": "Merge pull request #1732 from thorn0/master"
+    },
+    {
+      "sha": "6163e1e73d9eb1fadfd1ebde910f41d631532d0c",
+      "author_login": "dangrossman",
+      "authored_at": "2018-05-09T20:04:20Z",
+      "message": "Merge pull request #1733 from thorn0/no-css-conflict"
+    },
+    {
+      "sha": "fc50c63f0b8a5f55b40fa5f04c6f02592514a068",
+      "author_login": "dangrossman",
+      "authored_at": "2018-05-09T20:03:19Z",
+      "message": "Merge pull request #1736 from thorn0/input-text"
+    },
+    {
+      "sha": "8afb3ca1b13dc6ab6fd4b56188406dc97f798ada",
+      "author_login": "dangrossman",
+      "authored_at": "2018-05-09T20:02:55Z",
+      "message": "Merge pull request #1738 from alundiak/patch-1"
+    },
+    {
+      "sha": "6dc27cdeb37daa39178501b6da2e0c92be4e7bac",
+      "author_login": "dangrossman",
+      "authored_at": "2018-05-09T20:02:40Z",
+      "message": "Merge pull request #1739 from alundiak/patch-2"
+    },
+    {
+      "sha": "b3ae97cd34a2faddf29d3f433d219783ee3a9d54",
+      "author_login": "alundiak",
+      "authored_at": "2018-05-08T12:39:00Z",
+      "message": "cancelButtonClasses right?"
+    },
+    {
+      "sha": "61bba8a259602701f58987b99b7f39d4601adcde",
+      "author_login": "alundiak",
+      "authored_at": "2018-05-08T10:46:15Z",
+      "message": "Small typo fix"
+    },
+    {
+      "sha": "fdd496c32f90ad5f5141898ad364cdab7d224cb0",
+      "author_login": "thorn0",
+      "authored_at": "2018-05-07T12:53:47Z",
+      "message": "Use the `:text` selector instead of `input[type=text]`"
+    },
+    {
+      "sha": "6908f9b1a9f873d79acab276b69065ad0f948dc0",
+      "author_login": "thorn0",
+      "authored_at": "2018-05-04T14:56:21Z",
+      "message": "Rename the `calendar` CSS class to avoid conflicts"
+    },
+    {
+      "sha": "9798f4d3f55370b4c2134e077f0649d5ce0ac1f8",
+      "author_login": "thorn0",
+      "authored_at": "2018-05-04T13:28:14Z",
+      "message": "Don't trigger `change` when the input value doesn't change"
+    },
+    {
+      "sha": "823110c0c2f8515d3db28ea56e323fc40a5529af",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-30T20:41:22Z",
+      "message": "drp.png"
+    },
+    {
+      "sha": "3afe364045e5aad8633c8e2fc40bc9628526a354",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-30T20:35:58Z",
+      "message": "SCSS is no longer being maintained"
+    },
+    {
+      "sha": "b17e061234bf80df062cd9f83ce2f422b15c3006",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-30T20:34:04Z",
+      "message": "update moment.js version"
+    },
+    {
+      "sha": "ea2197ad24c2b686bec824c89e1c9d5bb994315e",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-30T20:32:31Z",
+      "message": "Tighten up padding a bit"
+    },
+    {
+      "sha": "c27b97345418c880195dcff8c77d75a9db43abad",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-29T21:05:02Z",
+      "message": "documentation"
+    },
+    {
+      "sha": "b393430b2bd971ed707d0483cbc8566bc3cbe3cf",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-29T20:59:05Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f22490fe58c1805984a9b128c85b778cbc3d5a17",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-29T14:45:51Z",
+      "message": "add viewport"
+    },
+    {
+      "sha": "93d8ac034ca5e15a7d6eb57717273e11367f39c9",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-29T05:09:02Z",
+      "message": "readme"
+    },
+    {
+      "sha": "3ad8d6b10e8cd2652e5551b3188f2177e69c3012",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-29T05:05:44Z",
+      "message": "Merge branch 'master' of github.com:dangrossman/bootstrap-daterangepicker"
+    },
+    {
+      "sha": "58046ec77645734065741dc9687279cc98cc81a0",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-29T05:05:14Z",
+      "message": "update image"
+    },
+    {
+      "sha": "c65e2e8ea1d4ca677bd02a152f68977ecac09404",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-29T03:21:49Z",
+      "message": "ad fix"
+    },
+    {
+      "sha": "5009153512f2bee7ec53bbd5d4489180e48fdfee",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-29T03:11:06Z",
+      "message": "Merge branch 'master' of github.com:dangrossman/bootstrap-daterangepicker"
+    },
+    {
+      "sha": "0a6f918a305e432778d5d7ae4865aff19c8cfc70",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-29T03:10:55Z",
+      "message": "bump version number"
+    },
+    {
+      "sha": "2a7b1171b99ae39e81d7b549fd0fcf08c3c5f7ba",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-29T03:08:30Z",
+      "message": "update website for V3"
+    },
+    {
+      "sha": "5d637c9a15d402f69a2940fd4dd73105d8087c2a",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-29T03:06:50Z",
+      "message": "update website for V3"
+    },
+    {
+      "sha": "525dbae9a78e63b335557f183dc21b8ecbfca1b1",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-29T02:49:03Z",
+      "message": "V3 Beta"
+    },
+    {
+      "sha": "180219486866a3ac4bab3569c065a8a2fb2fdb98",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-28T19:45:21Z",
+      "message": "V3 Beta"
+    },
+    {
+      "sha": "fc6a90a5fac84c282959eea44fbfde050e00a5d4",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-27T22:36:28Z",
+      "message": "V3 Beta"
+    },
+    {
+      "sha": "1e1d089c9c8f6dd30eee263e2cf5bd338e408238",
+      "author_login": "dangrossman",
+      "authored_at": "2018-04-05T14:52:48Z",
+      "message": "Merge pull request #1714 from jbrowning/fix_callback_start_end_references"
+    },
+    {
+      "sha": "54f0e68efb5e2e4e215fb3678d6a36567c3e06d7",
+      "author_login": "jbrowning",
+      "authored_at": "2018-04-05T14:34:41Z",
+      "message": "Clone start/end dates before passing to callback"
+    },
+    {
+      "sha": "9670cb08601d0fd7d9fa39734ab6f9f1ef354e8c",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-13T17:27:02Z",
+      "message": "-"
+    },
+    {
+      "sha": "ef61f14a217b5aae4c3f7da9bb5575a0eaf263d2",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-13T17:26:22Z",
+      "message": "Undo unnecessary change"
+    },
+    {
+      "sha": "cc8a578f4f13045c3a5adea95bdf08e5b3ee1d7e",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-13T17:24:18Z",
+      "message": "Undo unnecessary change"
+    },
+    {
+      "sha": "2301447dc5fb759de91cde54d8e307890d463145",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-13T17:19:56Z",
+      "message": "fix for react-bootstrap-daterangepicker"
+    },
+    {
+      "sha": "d4aabfbceaf57117e1af33f3f82e92162719eee9",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T08:45:02Z",
+      "message": "Update daterangepicker.js"
+    },
+    {
+      "sha": "bd957355a25d0c14ece4a1193681098062a214cc",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T08:44:54Z",
+      "message": "Update package.json"
+    },
+    {
+      "sha": "dec58abc4fac11ea9eda036714e839f20e59a9d3",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T08:44:44Z",
+      "message": "Update package.js"
+    },
+    {
+      "sha": "30b8c291be1fe4f25d67306a4cf455f06d0af6e3",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T08:43:03Z",
+      "message": "Merge pull request #1627 from fdelayen/master"
+    },
+    {
+      "sha": "9f2f4aa049d2d0411bbdb95423091faf3774125e",
+      "author_login": "fdelayen",
+      "authored_at": "2017-12-12T08:08:22Z",
+      "message": "Fix #1626"
+    },
+    {
+      "sha": "3530a1673b70f204eba48a5432ea2743fbadb20a",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T05:23:37Z",
+      "message": "bump version"
+    },
+    {
+      "sha": "9d614ce0392bb68fa99917264d032500f4e37f1b",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T04:50:48Z",
+      "message": "Merge branch 'master' of github.com:dangrossman/bootstrap-daterangepicker"
+    },
+    {
+      "sha": "ebf3e97e5cd44c9ce8b18777a70f29844a75ad8e",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T04:50:45Z",
+      "message": "Merge pull request #1588 from diegolido/patch-1"
+    },
+    {
+      "sha": "de4a51eba97e753cbefd0c5561baa629b8840606",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T04:49:41Z",
+      "message": "Merge branch 'master' of github.com:dangrossman/bootstrap-daterangepicker"
+    },
+    {
+      "sha": "5d6d8a67e9a56a37113f69a9767bb4cb3983fd7d",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T04:49:37Z",
+      "message": "Merge pull request #1611 from aluanhaddad/patch-1"
+    },
+    {
+      "sha": "a457b71f8a387feca7655e2677ef39641880ab32",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T04:47:26Z",
+      "message": "Merge branch 'master' of github.com:dangrossman/bootstrap-daterangepicker"
+    },
+    {
+      "sha": "555d5c6355914310d3b50fa4b850b7171e80bc73",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T04:47:17Z",
+      "message": "Merge pull request #1604 from paladinjosip/master"
+    },
+    {
+      "sha": "0d401e27ab0417ce6fdccc952ddef9e461947053",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T04:38:13Z",
+      "message": "Merge pull request #1547 from vijayant123/patch-1"
+    },
+    {
+      "sha": "0181092abe8b1403e2bbb3c72ec90e9463f0987d",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T04:31:48Z",
+      "message": "add explanatory note"
+    },
+    {
+      "sha": "bcff8741ecd0cc4eac4e2d75740ee41f8c0517a9",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T04:31:19Z",
+      "message": "Merge pull request #1523 from cliffsun91/date-input-enter-change"
+    },
+    {
+      "sha": "46c417b96c16e3e7d193055449a29bddb09890ea",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T04:30:03Z",
+      "message": "Merge pull request #1510 from meteorlxy/defaultoptions"
+    },
+    {
+      "sha": "77bcb214eed356c5d501c0fa19a0edd5dbdfa6af",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T04:28:09Z",
+      "message": "unnecessary validation"
+    },
+    {
+      "sha": "df90c3facb2ca6fc3f71c1bda20112d0f328fb54",
+      "author_login": "dangrossman",
+      "authored_at": "2017-12-12T04:25:54Z",
+      "message": "Merge pull request #1491 from imktks/element_changed_validation"
+    }
+  ],
+  "issues": [
+    {
+      "number": 2383,
+      "title": "Add locale AM/PM to timePicker",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-22T03:05:00Z",
+      "closed_at": "2026-04-16T03:11:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2382,
+      "title": "Feature: options.singleCalendar",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-09-29T11:25:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2381,
+      "title": "Fix allowing selection of a calendar past maxDate when time is included",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-09-29T11:10:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2380,
+      "title": "Add Month Range Picker Feature",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-07-10T22:21:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2372,
+      "title": "support for showSelectedDays option in custom range",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-12-26T18:04:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2371,
+      "title": "Always run this.callback if user changed selection",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-12-13T12:35:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2369,
+      "title": "Add manual date input option",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-10-29T15:12:15Z",
+      "closed_at": "2024-10-30T11:10:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2365,
+      "title": "Added minSpan option",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-09-26T22:59:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2360,
+      "title": "add option timePickerMinutes",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-08-09T06:12:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2356,
+      "title": "V3.2.1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-06-05T09:48:30Z",
+      "closed_at": "2024-06-05T09:49:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2354,
+      "title": "Replace moment.js with dayjs",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-05-29T09:56:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2350,
+      "title": "fix: Default limtation changed",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-18T12:41:46Z",
+      "closed_at": "2024-01-18T12:43:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2349,
+      "title": "feat: Year reload without changing the selection",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-01-15T21:02:37Z",
+      "closed_at": "2024-01-15T21:02:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2346,
+      "title": "added 'showTwoMonth' parameter",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-12-18T13:35:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2341,
+      "title": "Feat; Added check for range",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-11-29T16:02:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2336,
+      "title": "basic changes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-07T09:25:00Z",
+      "closed_at": "2023-09-07T09:26:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2334,
+      "title": "EUDEV-20371: fixes the vertical alignment of the calendar icons in the date range picker",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-01T13:41:30Z",
+      "closed_at": "2023-09-01T13:47:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2327,
+      "title": "minHour and maxHour",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-06-20T13:45:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2326,
+      "title": "Omar raafat patch 1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-06-19T21:51:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2320,
+      "title": "Fix #2319: pre-defined date ranges don't select AM/PM when selected",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-04-25T18:13:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2309,
+      "title": "Snap selection to nearest truncation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-01-26T12:34:49Z",
+      "closed_at": "2023-05-19T18:01:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2307,
+      "title": "fix: vite moment error",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-24T12:38:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2271,
+      "title": "Updating selected datetime range when start date is changed",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-05-09T20:08:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2270,
+      "title": "Add month and year format option",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-05-06T11:49:34Z",
+      "closed_at": "2026-05-04T13:22:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2261,
+      "title": "Upate package.json for jquery XSS fixes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-03-01T09:17:11Z",
+      "closed_at": "2022-05-06T09:48:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2247,
+      "title": "[DRP-001] Initial update forked version",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-01-24T05:41:27Z",
+      "closed_at": "2022-01-24T22:15:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2231,
+      "title": "Add isInvalidTime to handle similar cases as isInvalidDate",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-11-23T03:00:20Z",
+      "closed_at": "2025-04-11T08:59:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2228,
+      "title": "Fix TypeError: moment is not a function",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-11-09T12:02:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2225,
+      "title": "Fix init",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-10-31T09:17:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2224,
+      "title": "WIP: Add documentation for data attributes",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-10-11T15:47:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2221,
+      "title": "fix vert. separator for long list of ranges",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-10-03T22:51:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2220,
+      "title": "Bugfix/select month manually",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-10-01T06:23:25Z",
+      "closed_at": "2021-10-01T06:23:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2217,
+      "title": "Add events on user date selection (but not applied)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-09-16T15:19:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2206,
+      "title": "Add today button",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-06-27T02:41:59Z",
+      "closed_at": "2021-06-27T02:42:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2203,
+      "title": "Add autoHide option",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-06-04T16:24:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2190,
+      "title": "Merge pull request #1 from dangrossman/master",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-04-16T13:26:14Z",
+      "closed_at": "2026-03-11T10:58:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2188,
+      "title": "[APP-2732] The date picker must support selecting a period commencing a later date",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-03-31T18:12:16Z",
+      "closed_at": "2021-03-31T18:13:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2185,
+      "title": "Add the option to show custom weeks",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-03-25T23:39:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2182,
+      "title": "Replace `$.proxy` use with the native `.bind`",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-03-14T11:40:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2179,
+      "title": "Raise an event, so other layout can happen if needed",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-03-08T11:05:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2176,
+      "title": "Caluculate Chosen Label code modifications",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2021-02-19T17:42:48Z",
+      "closed_at": "2022-03-17T11:25:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2173,
+      "title": "Add minSpan option",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-01-13T14:25:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2166,
+      "title": "Using pick range date in single calendar (단일 달력에 rangePick 가능하게 함)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-12-03T05:31:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2164,
+      "title": "Add end-date class when calendar date is hovered in a range",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-11-25T17:10:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2162,
+      "title": "Remove `table-condensed` class from table element for each month",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-11-05T19:54:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2157,
+      "title": "Fix updateFormInputs not correctly updating the form inputs.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-10-02T11:48:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2152,
+      "title": "Ignore invalid data from input",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-09-18T11:50:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2151,
+      "title": "Added option for minSpan",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-09-16T14:43:51Z",
+      "closed_at": "2020-09-16T15:52:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2142,
+      "title": "adding new variable 'flags' to callback to indicate some details on user interaction",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-08-28T04:20:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2139,
+      "title": "daterangepicker support add custom style & keep selected date",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-08-11T02:00:51Z",
+      "closed_at": "2024-03-10T16:44:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2138,
+      "title": "Add dist dir containing minified js and css files",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-08-10T16:04:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2132,
+      "title": "Update UMD template to work in an ES module context.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-30T23:38:46Z",
+      "closed_at": "2020-07-30T23:57:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2110,
+      "title": "fixed 2 issues about unlinked calendars",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-06-13T06:45:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2104,
+      "title": "Add ability to respond to null values by blanking control",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-06-04T00:03:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2101,
+      "title": "Added a calendarRendered event",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-05-28T04:36:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2100,
+      "title": "Whole Week Selection option though config param selectWeek:true,start…",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-05-27T13:06:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2098,
+      "title": "Update daterangepicker.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-25T14:08:10Z",
+      "closed_at": "2024-03-29T17:48:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2097,
+      "title": "Tweak CSS",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-25T13:46:51Z",
+      "closed_at": "2024-03-29T17:48:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2096,
+      "title": "Remove unused variables",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-25T13:30:39Z",
+      "closed_at": "2024-03-29T17:48:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2090,
+      "title": "fix missing semicolons",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-13T15:58:15Z",
+      "closed_at": "2020-05-24T07:20:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2079,
+      "title": "Add option timePickerHours",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-04-06T11:54:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2073,
+      "title": "Fix daterangepicker position for far-right inputs",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-03-16T15:44:08Z",
+      "closed_at": "2023-03-27T14:25:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2069,
+      "title": "element is passed in the call back function to handle any operation o…",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-03-09T13:25:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2067,
+      "title": "Add dontUpdateOnStart bool to dont fill field with date on initialize.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-03-05T10:40:48Z",
+      "closed_at": "2026-09-17T13:59:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2058,
+      "title": "add support for `drops: 'auto'`",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-12-20T18:00:39Z",
+      "closed_at": "2020-05-24T07:22:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2050,
+      "title": "Trigger startDateChange and endDateChange events",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-11-27T07:54:57Z",
+      "closed_at": "2019-11-27T07:56:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2044,
+      "title": "Add timePickerSecondsIncrement and milliseconds set and increment",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-11-13T13:03:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2026,
+      "title": "module.export is a function instead of calling it #1294",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-09-25T04:24:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2023,
+      "title": "Do not hide calendar when alwaysShowCalendar is true via toggle",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-23T21:18:25Z",
+      "closed_at": "2019-09-24T15:36:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2022,
+      "title": "Localise",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-09-23T08:16:51Z",
+      "closed_at": "2019-09-23T08:17:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2007,
+      "title": "Usage of JS reserved word default breaks YUICompressor",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-08-22T21:10:42Z",
+      "closed_at": "2020-05-24T07:24:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2002,
+      "title": "feature: 'range' add 'likeSingleMode' mode",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-08-10T11:14:38Z",
+      "closed_at": "2019-08-14T22:24:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1999,
+      "title": "Calendar with position fixed issue solution",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-08-07T08:15:46Z",
+      "closed_at": "2019-08-07T08:15:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1990,
+      "title": "get current parentEl instead of element during initialization",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-07-19T15:54:53Z",
+      "closed_at": "2019-08-14T22:25:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1988,
+      "title": "fetch invalid dates from ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-07-15T19:55:00Z",
+      "closed_at": "2019-08-14T22:26:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1984,
+      "title": "Create LICENSE file",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-07-10T09:55:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1979,
+      "title": "Trigger apply.daterangepicker event when the user only change the dates in the input and not click anywhere else",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-07-04T18:06:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1976,
+      "title": "add rangeCounter that count the num of interval between the two dates",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-07-02T18:00:48Z",
+      "closed_at": "2019-08-14T22:27:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1968,
+      "title": "Add option to control range input visibility",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-18T13:03:19Z",
+      "closed_at": "2019-06-18T15:49:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1966,
+      "title": "Testing pull request",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-06-13T11:39:40Z",
+      "closed_at": "2019-06-13T11:40:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1963,
+      "title": "fix rangeselection: autoApply not honoured",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-05-30T20:57:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1954,
+      "title": "Add `select with in date sections` option",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-15T19:21:39Z",
+      "closed_at": "2019-05-15T20:04:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1951,
+      "title": "[SCSS] Added SCSS file",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-14T23:23:34Z",
+      "closed_at": "2019-05-14T23:30:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1948,
+      "title": "Fix for popper.js setAttribute issue",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-05-04T19:29:21Z",
+      "closed_at": "2019-08-14T22:27:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1939,
+      "title": "Add `locale.headerDateFormat` option",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-04-14T12:56:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1936,
+      "title": "Include datetimepicker.scss",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-04-03T10:21:05Z",
+      "closed_at": "2019-04-11T21:09:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1931,
+      "title": "Allow for singleDatePicker to disable autoApply",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-20T15:15:50Z",
+      "closed_at": "2020-05-24T07:28:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1927,
+      "title": "Fix NaN when using timePickerIncrement",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-06T20:19:42Z",
+      "closed_at": "2019-04-11T21:11:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1925,
+      "title": "renderTimePicker fix",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-03-01T16:56:04Z",
+      "closed_at": "2019-04-11T21:13:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1920,
+      "title": "Clean up fortnight option settings",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-02-06T13:30:02Z",
+      "closed_at": "2019-04-11T21:15:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1919,
+      "title": "Add fortnight option",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-02-06T12:37:43Z",
+      "closed_at": "2019-04-11T21:17:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1911,
+      "title": "bug:2018-12-31为2018年01周",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-01-22T08:47:53Z",
+      "closed_at": "2019-04-11T21:16:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1910,
+      "title": "Update daterangepicker.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-01-22T07:03:16Z",
+      "closed_at": "2019-01-22T07:25:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1906,
+      "title": "Allow for selection of week from Week label.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-01-13T15:47:39Z",
+      "closed_at": "2022-08-19T13:13:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1899,
+      "title": "Add identifying class to dates from prev/next month on calendar",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-01-07T18:00:02Z",
+      "closed_at": "2019-04-11T21:19:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1896,
+      "title": "Add keyboard nav from old v2.x PR",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-12-27T01:07:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1895,
+      "title": "Revert \"Fix for issue #1587\"",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-12-26T19:38:40Z",
+      "closed_at": "2019-04-11T21:20:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1886,
+      "title": "Feature to dynamically limit the max days of range",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-12-13T10:12:07Z",
+      "closed_at": "2018-12-13T18:22:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1883,
+      "title": "Feature/single calendar",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2018-12-05T12:14:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1882,
+      "title": "Discern out of scope dates from overlapping days",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2018-12-05T10:16:54Z",
+      "closed_at": "2019-04-11T21:27:37Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "dangrossman",
+      "contributions": 549
+    },
+    {
+      "login": "philfreo",
+      "contributions": 15
+    },
+    {
+      "login": "RustyToms",
+      "contributions": 8
+    },
+    {
+      "login": "icdark",
+      "contributions": 5
+    },
+    {
+      "login": "ogonkov",
+      "contributions": 4
+    },
+    {
+      "login": "thorn0",
+      "contributions": 4
+    },
+    {
+      "login": "lukencode",
+      "contributions": 4
+    },
+    {
+      "login": "ansman",
+      "contributions": 4
+    },
+    {
+      "login": "TheDartCode",
+      "contributions": 4
+    },
+    {
+      "login": "vitorhsb",
+      "contributions": 4
+    },
+    {
+      "login": "patmood",
+      "contributions": 3
+    },
+    {
+      "login": "torebredalnygaard",
+      "contributions": 3
+    },
+    {
+      "login": "wojcikstefan",
+      "contributions": 3
+    },
+    {
+      "login": "peter-mouland",
+      "contributions": 3
+    },
+    {
+      "login": "kertal",
+      "contributions": 3
+    },
+    {
+      "login": "ThaDafinser",
+      "contributions": 3
+    },
+    {
+      "login": "ChezRD",
+      "contributions": 3
+    },
+    {
+      "login": "cesutherland",
+      "contributions": 3
+    },
+    {
+      "login": "bradhe",
+      "contributions": 3
+    },
+    {
+      "login": "adamstrickland",
+      "contributions": 3
+    },
+    {
+      "login": "minmur",
+      "contributions": 2
+    },
+    {
+      "login": "nMustaki",
+      "contributions": 2
+    },
+    {
+      "login": "nip3o",
+      "contributions": 2
+    },
+    {
+      "login": "timothee-alby",
+      "contributions": 2
+    },
+    {
+      "login": "timo-bes",
+      "contributions": 2
+    },
+    {
+      "login": "kirilvit",
+      "contributions": 2
+    },
+    {
+      "login": "epdejager",
+      "contributions": 2
+    },
+    {
+      "login": "goncons",
+      "contributions": 2
+    },
+    {
+      "login": "jeserkin",
+      "contributions": 2
+    },
+    {
+      "login": "luchaos",
+      "contributions": 2
+    },
+    {
+      "login": "oscarmyepes",
+      "contributions": 2
+    },
+    {
+      "login": "skratchdot",
+      "contributions": 2
+    },
+    {
+      "login": "nnattawat",
+      "contributions": 2
+    },
+    {
+      "login": "AdamNiederer",
+      "contributions": 2
+    },
+    {
+      "login": "phazei",
+      "contributions": 2
+    },
+    {
+      "login": "Stafie",
+      "contributions": 2
+    },
+    {
+      "login": "alundiak",
+      "contributions": 2
+    },
+    {
+      "login": "gutschik",
+      "contributions": 2
+    },
+    {
+      "login": "BradyNadeau",
+      "contributions": 2
+    },
+    {
+      "login": "bladepop",
+      "contributions": 2
+    },
+    {
+      "login": "dotansimha",
+      "contributions": 2
+    },
+    {
+      "login": "Trainmaster",
+      "contributions": 2
+    },
+    {
+      "login": "garethbowen",
+      "contributions": 2
+    },
+    {
+      "login": "gkostov",
+      "contributions": 2
+    },
+    {
+      "login": "jmtoball",
+      "contributions": 2
+    },
+    {
+      "login": "MaikuMori",
+      "contributions": 2
+    },
+    {
+      "login": "afc163",
+      "contributions": 1
+    },
+    {
+      "login": "vltr",
+      "contributions": 1
+    },
+    {
+      "login": "luarmr",
+      "contributions": 1
+    },
+    {
+      "login": "pushpak",
+      "contributions": 1
+    },
+    {
+      "login": "flippyhead",
+      "contributions": 1
+    },
+    {
+      "login": "pavlovich",
+      "contributions": 1
+    },
+    {
+      "login": "pawl",
+      "contributions": 1
+    },
+    {
+      "login": "paltman",
+      "contributions": 1
+    },
+    {
+      "login": "nwhite89",
+      "contributions": 1
+    },
+    {
+      "login": "infacq",
+      "contributions": 1
+    },
+    {
+      "login": "mwanji",
+      "contributions": 1
+    },
+    {
+      "login": "michaek",
+      "contributions": 1
+    },
+    {
+      "login": "mgdodge",
+      "contributions": 1
+    },
+    {
+      "login": "mcurtis",
+      "contributions": 1
+    },
+    {
+      "login": "wicksipedia",
+      "contributions": 1
+    },
+    {
+      "login": "mafredri",
+      "contributions": 1
+    },
+    {
+      "login": "eimermusic",
+      "contributions": 1
+    },
+    {
+      "login": "marshals",
+      "contributions": 1
+    },
+    {
+      "login": "vipera",
+      "contributions": 1
+    },
+    {
+      "login": "scamjayi",
+      "contributions": 1
+    },
+    {
+      "login": "paladinjosip",
+      "contributions": 1
+    },
+    {
+      "login": "brightgarden",
+      "contributions": 1
+    },
+    {
+      "login": "meteorlxy",
+      "contributions": 1
+    },
+    {
+      "login": "pedramphp",
+      "contributions": 1
+    },
+    {
+      "login": "jstormes",
+      "contributions": 1
+    },
+    {
+      "login": "diegolido",
+      "contributions": 1
+    },
+    {
+      "login": "coryjamesfisher",
+      "contributions": 1
+    },
+    {
+      "login": "agend07",
+      "contributions": 1
+    },
+    {
+      "login": "wcomnisky",
+      "contributions": 1
+    },
+    {
+      "login": "vijayant123",
+      "contributions": 1
+    },
+    {
+      "login": "TBSliver",
+      "contributions": 1
+    },
+    {
+      "login": "tantmd",
+      "contributions": 1
+    },
+    {
+      "login": "simsek97",
+      "contributions": 1
+    },
+    {
+      "login": "stegano",
+      "contributions": 1
+    },
+    {
+      "login": "sszakal",
+      "contributions": 1
+    },
+    {
+      "login": "shekhardesigner",
+      "contributions": 1
+    },
+    {
+      "login": "rmlanman",
+      "contributions": 1
+    },
+    {
+      "login": "rustybailey",
+      "contributions": 1
+    },
+    {
+      "login": "mariano",
+      "contributions": 1
+    },
+    {
+      "login": "fdelayen",
+      "contributions": 1
+    },
+    {
+      "login": "dfmcphee",
+      "contributions": 1
+    },
+    {
+      "login": "kopax",
+      "contributions": 1
+    },
+    {
+      "login": "voidstardb",
+      "contributions": 1
+    },
+    {
+      "login": "mistic100",
+      "contributions": 1
+    },
+    {
+      "login": "chaudeco",
+      "contributions": 1
+    },
+    {
+      "login": "Ciki",
+      "contributions": 1
+    },
+    {
+      "login": "cvrebert",
+      "contributions": 1
+    },
+    {
+      "login": "chadoh",
+      "contributions": 1
+    },
+    {
+      "login": "cauethenorio",
+      "contributions": 1
+    },
+    {
+      "login": "masterspambot",
+      "contributions": 1
+    },
+    {
+      "login": "BenPowell5",
+      "contributions": 1
+    },
+    {
+      "login": "b3nj4m",
+      "contributions": 1
+    },
+    {
+      "login": "aluanhaddad",
+      "contributions": 1
+    },
+    {
+      "login": "TNAJanssen",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v3.1",
+      "published_at": "2020-05-24T07:33:38Z"
+    },
+    {
+      "tag": "v3.0.5",
+      "published_at": "2019-04-22T14:23:52Z"
+    },
+    {
+      "tag": "v3.0.4",
+      "published_at": "2019-04-11T21:39:22Z"
+    },
+    {
+      "tag": "v3.0.3",
+      "published_at": "2018-05-22T16:11:03Z"
+    },
+    {
+      "tag": "v3.0.2",
+      "published_at": "2018-05-09T20:27:21Z"
+    },
+    {
+      "tag": "v3.0.1",
+      "published_at": "2018-04-30T20:35:07Z"
+    },
+    {
+      "tag": "v3.0.0",
+      "published_at": "2018-04-29T03:20:17Z"
+    },
+    {
+      "tag": "v2.1.27",
+      "published_at": "2017-12-12T08:45:11Z"
+    },
+    {
+      "tag": "v2.1.26",
+      "published_at": "2017-12-12T05:27:12Z"
+    },
+    {
+      "tag": "v2.1.25",
+      "published_at": "2017-01-17T18:50:54Z"
+    },
+    {
+      "tag": "v2.1.24",
+      "published_at": "2016-07-15T17:11:20Z"
+    },
+    {
+      "tag": "v2.1.23",
+      "published_at": "2016-06-30T12:09:05Z"
+    },
+    {
+      "tag": "v2.1.22",
+      "published_at": "2016-06-16T12:40:23Z"
+    },
+    {
+      "tag": "v2.1.21",
+      "published_at": "2016-05-31T12:42:09Z"
+    },
+    {
+      "tag": "v2.1.20",
+      "published_at": "2016-05-25T20:38:19Z"
+    },
+    {
+      "tag": "v2.1.19",
+      "published_at": "2016-03-09T20:54:57Z"
+    },
+    {
+      "tag": "v2.1.18",
+      "published_at": "2016-02-22T21:51:49Z"
+    },
+    {
+      "tag": "v2.1.17",
+      "published_at": "2015-12-17T23:14:46Z"
+    },
+    {
+      "tag": "v2.1.16",
+      "published_at": "2015-12-17T22:24:31Z"
+    },
+    {
+      "tag": "v2.1.15",
+      "published_at": "2015-12-17T22:20:02Z"
+    },
+    {
+      "tag": "v2.1.14",
+      "published_at": "2015-12-11T18:01:54Z"
+    },
+    {
+      "tag": "v2.1.13",
+      "published_at": "2015-10-17T15:01:07Z"
+    },
+    {
+      "tag": "v2.1.12",
+      "published_at": "2015-10-08T14:11:13Z"
+    },
+    {
+      "tag": "v2.0.14",
+      "published_at": "2015-10-07T15:31:20Z"
+    },
+    {
+      "tag": "v2.0.13",
+      "published_at": "2015-10-06T18:44:15Z"
+    },
+    {
+      "tag": "v2.0.12",
+      "published_at": "2015-09-30T17:45:35Z"
+    },
+    {
+      "tag": "v2.0.11",
+      "published_at": "2015-09-16T20:32:03Z"
+    },
+    {
+      "tag": "v2.0.10",
+      "published_at": "2015-09-16T20:25:37Z"
+    },
+    {
+      "tag": "v2.0.9",
+      "published_at": "2015-08-21T14:03:33Z"
+    },
+    {
+      "tag": "v2.0.8",
+      "published_at": "2015-08-10T13:06:37Z"
+    },
+    {
+      "tag": "v2.0.7",
+      "published_at": "2015-08-07T20:17:37Z"
+    },
+    {
+      "tag": "v2.0.6",
+      "published_at": "2015-08-02T16:07:47Z"
+    },
+    {
+      "tag": "v2.0.5",
+      "published_at": "2015-07-26T16:25:46Z"
+    },
+    {
+      "tag": "v2.0.4",
+      "published_at": "2015-07-23T12:57:28Z"
+    },
+    {
+      "tag": "v2.0.3",
+      "published_at": "2015-07-21T23:51:06Z"
+    },
+    {
+      "tag": "v2.0.2",
+      "published_at": "2015-07-16T15:26:11Z"
+    },
+    {
+      "tag": "v2.0.1",
+      "published_at": "2015-07-16T13:33:21Z"
+    },
+    {
+      "tag": "v2.0.0",
+      "published_at": "2015-07-16T01:39:50Z"
+    },
+    {
+      "tag": "v1.3.23",
+      "published_at": "2015-07-13T06:18:39Z"
+    },
+    {
+      "tag": "v1.3.22",
+      "published_at": "2015-06-27T23:49:54Z"
+    },
+    {
+      "tag": "v1.3.21",
+      "published_at": "2015-04-08T19:45:39Z"
+    },
+    {
+      "tag": "v1.3.20",
+      "published_at": "2015-04-08T16:34:27Z"
+    },
+    {
+      "tag": "v1.3.19",
+      "published_at": "2015-03-11T13:32:58Z"
+    },
+    {
+      "tag": "v1.3.18",
+      "published_at": "2015-02-24T16:36:36Z"
+    },
+    {
+      "tag": "v1.3.17",
+      "published_at": "2014-11-25T18:01:17Z"
+    },
+    {
+      "tag": "v1.3.16",
+      "published_at": "2014-11-13T00:22:25Z"
+    },
+    {
+      "tag": "v1.3.15",
+      "published_at": "2014-10-20T23:49:56Z"
+    },
+    {
+      "tag": "v1.3.14",
+      "published_at": "2014-10-17T20:09:10Z"
+    },
+    {
+      "tag": "v1.3.13",
+      "published_at": "2014-09-04T22:20:21Z"
+    },
+    {
+      "tag": "v1.3.12",
+      "published_at": "2014-08-18T17:23:38Z"
+    }
+  ],
+  "collected_at": "2026-10-19T11:47:25.601450Z"
+}

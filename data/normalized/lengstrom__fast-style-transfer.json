@@ -1,0 +1,1405 @@
+{
+  "full_name": "lengstrom/fast-style-transfer",
+  "owner": "lengstrom",
+  "name": "fast-style-transfer",
+  "url": "https://github.com/lengstrom/fast-style-transfer",
+  "description": "TensorFlow CNN for fast style transfer ⚡🖥🎨🖼",
+  "primary_language": "Python",
+  "topics": [
+    "deep-learning",
+    "neural-networks",
+    "neural-style",
+    "style-transfer"
+  ],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 10957,
+  "forks": 2542,
+  "open_issues": 112,
+  "created_at": "2016-07-21T02:59:11Z",
+  "pushed_at": "2023-07-16T02:36:30Z",
+  "updated_at": "2026-10-19T10:34:50Z",
+  "commits": [
+    {
+      "sha": "0d3d981f7ab948253d355585bdbdfa914247b4d0",
+      "author_login": "lengstrom",
+      "authored_at": "2021-09-18T21:01:16Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "98cef08cdd51ca52cb66a8f368b2e2b082e2178a",
+      "author_login": "lengstrom",
+      "authored_at": "2021-07-27T21:47:23Z",
+      "message": "Update CITATION.cff"
+    },
+    {
+      "sha": "e7502e3706a6f8932ad4c8dd09fe6c8c52c6e06b",
+      "author_login": "lengstrom",
+      "authored_at": "2021-07-27T21:44:53Z",
+      "message": "Create CITATION.cff"
+    },
+    {
+      "sha": "7a26b63c9c81c66299d7717dd0722b211aadafde",
+      "author_login": "lengstrom",
+      "authored_at": "2021-03-23T18:08:30Z",
+      "message": "Merge pull request #258 from van-burgerberg/patch-1"
+    },
+    {
+      "sha": "15bc99bcd8498388677101f9f8c36e073fc404af",
+      "author_login": null,
+      "authored_at": "2020-11-13T17:04:30Z",
+      "message": "vitual -> virtual"
+    },
+    {
+      "sha": "7afa2b24252b8887100958241e18b75be90da251",
+      "author_login": "lengstrom",
+      "authored_at": "2020-05-14T18:55:53Z",
+      "message": "Merge pull request #239 from naveen-annam/master"
+    },
+    {
+      "sha": "8b94b4fa73073aaa2c398b60ff2037fdec3bcb8f",
+      "author_login": "lengstrom",
+      "authored_at": "2020-05-05T01:29:33Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1cdb29b9652f18055afa493d1091d7e7b2507fd4",
+      "author_login": "lengstrom",
+      "authored_at": "2020-05-05T01:29:00Z",
+      "message": "Create FUNDING.yml"
+    },
+    {
+      "sha": "ef508a95aeb1ed1e1a2506539b60c2c64dd6bed5",
+      "author_login": "naveen-annam",
+      "authored_at": "2020-04-11T09:59:11Z",
+      "message": "Update README.md with conda instructions"
+    },
+    {
+      "sha": "8b666d1babb120f3c4afe58393b1cb216341c7b7",
+      "author_login": "naveen-annam",
+      "authored_at": "2020-04-10T23:52:41Z",
+      "message": "Update code with tf_upgrade_v2 for compatability with 2.0"
+    },
+    {
+      "sha": "d1b0c7fa69c716327c632d24269b8af75b8de6d4",
+      "author_login": "divisiondeariza",
+      "authored_at": "2019-12-10T14:22:02Z",
+      "message": "Replace deprecated functions in scipy. "
+    },
+    {
+      "sha": "7ca83ff6babd771b82d5696f4b6928ef942fc1e6",
+      "author_login": "divisiondeariza",
+      "authored_at": "2019-12-10T05:09:45Z",
+      "message": "Update setup.sh"
+    },
+    {
+      "sha": "e9a777f7fee8e996e8dfbdb4821ac0dfb629ca72",
+      "author_login": "divisiondeariza",
+      "authored_at": "2019-12-10T05:03:38Z",
+      "message": "Silent unzip"
+    },
+    {
+      "sha": "ca560d87c9942cdf2757038d5fb7d5a8019b8a39",
+      "author_login": "lengstrom",
+      "authored_at": "2019-08-14T17:23:19Z",
+      "message": "Merge pull request #207 from Neutrino3316/rename_flag"
+    },
+    {
+      "sha": "3f3c75654766d233795070c81c71cde250f1e1ab",
+      "author_login": "Neutrino3316",
+      "authored_at": "2019-08-03T04:47:42Z",
+      "message": "fix wrong flag name in docs"
+    },
+    {
+      "sha": "c77c028fe4412ce0bbb0e9f281a5970ab90fc7a5",
+      "author_login": "lengstrom",
+      "authored_at": "2018-05-04T03:56:31Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "c75d01f2324ad5949db23542c3a5e7493db319e5",
+      "author_login": "lengstrom",
+      "authored_at": "2018-03-28T04:13:08Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "e19f2f5088ec5a03adb456ed527787ded1b4ae3a",
+      "author_login": "lengstrom",
+      "authored_at": "2018-01-22T22:31:51Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "187871a73292e83f945b6380ce49e31e249c3d06",
+      "author_login": "lengstrom",
+      "authored_at": "2018-01-04T00:55:09Z",
+      "message": "Merge pull request #108 from feber/patch-1"
+    },
+    {
+      "sha": "45f7110e6ea0a23ec6cf4f30b239002601afb217",
+      "author_login": "lengstrom",
+      "authored_at": "2018-01-04T00:51:23Z",
+      "message": "Merge pull request #76 from AndyZhu1991/master"
+    },
+    {
+      "sha": "8e45b5ae4322191733e44760fc35fca9442d3575",
+      "author_login": "lengstrom",
+      "authored_at": "2017-12-16T20:56:45Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b738b1fdb9c6f7be40f1705b4aa39b61374409be",
+      "author_login": "feber",
+      "authored_at": "2017-11-18T14:25:53Z",
+      "message": "Fix a little in mislinked word README"
+    },
+    {
+      "sha": "55809f4eafbe7d22632ac8fa254632ec41386d57",
+      "author_login": "lengstrom",
+      "authored_at": "2017-06-18T05:32:23Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "17153f610415c36550a12bcb54e9b361162d347a",
+      "author_login": "adawset",
+      "authored_at": "2017-01-11T15:42:40Z",
+      "message": "Enable --batch-size param in video-stylization."
+    },
+    {
+      "sha": "b20f7466a2ef161c2c672b78c83467e8486f0539",
+      "author_login": "adawset",
+      "authored_at": "2017-01-09T15:49:18Z",
+      "message": "Add audio support in video-stylization."
+    },
+    {
+      "sha": "7084907643729f2e163ab9dbff0703e432cfa15a",
+      "author_login": "adawset",
+      "authored_at": "2017-01-09T15:02:18Z",
+      "message": "Transform video with moviepy."
+    },
+    {
+      "sha": "ca18f500554e8ae2ed2c3bac006d21e55f083875",
+      "author_login": "adawset",
+      "authored_at": "2017-01-09T14:36:07Z",
+      "message": "Update .gitignore for PyCharm."
+    },
+    {
+      "sha": "7afab68707223f8dbd956316211da4cf9a759be5",
+      "author_login": "lengstrom",
+      "authored_at": "2017-04-20T18:39:22Z",
+      "message": "Merge pull request #72 from drakerehfeld/arg-fix"
+    },
+    {
+      "sha": "8fbcf6e5ab2943a272030e854c188214a6e6ac7f",
+      "author_login": "drakerehfeld",
+      "authored_at": "2017-04-20T18:23:58Z",
+      "message": "fixing printed output flag"
+    },
+    {
+      "sha": "1424228ea48cb8a65f50d0490900f29b92f1dc4f",
+      "author_login": "lengstrom",
+      "authored_at": "2017-02-23T23:26:04Z",
+      "message": "Merge pull request #52 from Lupino/master"
+    },
+    {
+      "sha": "54bb73eb200de648590c1240cfe85a3a76f51522",
+      "author_login": "Lupino",
+      "authored_at": "2017-02-16T12:11:16Z",
+      "message": "update to support tensorflow 1.0.0"
+    },
+    {
+      "sha": "e218db9550e7b93e4d5c6e6168d4882627deb191",
+      "author_login": "lengstrom",
+      "authored_at": "2017-02-12T20:23:49Z",
+      "message": "Merge pull request #51 from fbcotter/py3support"
+    },
+    {
+      "sha": "021750b19cabf8e9165d4c15bcd3cc0b1e4bf05d",
+      "author_login": "fbcotter",
+      "authored_at": "2017-02-12T18:46:19Z",
+      "message": "Removed references to 'check_version'"
+    },
+    {
+      "sha": "64006153e172a56ea1ff60ddf0a61b6c5aa0e84a",
+      "author_login": "fbcotter",
+      "authored_at": "2017-02-09T14:08:48Z",
+      "message": "Updated py3 support in other files"
+    },
+    {
+      "sha": "90fed08a17c02abea21a7473440bd044c9fe4a65",
+      "author_login": "fbcotter",
+      "authored_at": "2017-02-09T12:57:47Z",
+      "message": "Merged changes to master made while on branch"
+    },
+    {
+      "sha": "fdc3f6974851d630da16c775bc498997d74b2e35",
+      "author_login": "fbcotter",
+      "authored_at": "2017-02-09T12:49:28Z",
+      "message": "Made python3 friendly"
+    },
+    {
+      "sha": "1d84ace077297f320a20ab305bd665eb04044d07",
+      "author_login": "lengstrom",
+      "authored_at": "2017-02-09T02:26:34Z",
+      "message": "Merge branch 'master' of github.com:lengstrom/fast-style-transfer"
+    },
+    {
+      "sha": "6c508b4f43d9bbd4da64720ec898b2e4bdabcbca",
+      "author_login": "lengstrom",
+      "authored_at": "2017-02-09T02:26:15Z",
+      "message": "Added version checker"
+    },
+    {
+      "sha": "e401684765568be0a878b5cb23196a5e3b0e1aed",
+      "author_login": "lengstrom",
+      "authored_at": "2017-02-01T03:20:54Z",
+      "message": "Merge pull request #37 from Schwusch/master"
+    },
+    {
+      "sha": "a1268635e894d71fa2e89bf76492417a8aeb8402",
+      "author_login": "lengstrom",
+      "authored_at": "2017-01-26T19:13:12Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "8efff7a9164a06131058439db9b07012c3891422",
+      "author_login": "lengstrom",
+      "authored_at": "2017-01-10T04:21:00Z",
+      "message": "Update docs.md"
+    },
+    {
+      "sha": "694969bb96657acaee5728c1320c50eb49f5e2ff",
+      "author_login": "Schwusch",
+      "authored_at": "2016-12-24T01:53:58Z",
+      "message": "If the total amount of frames modulus batch size is zero"
+    },
+    {
+      "sha": "31bfc7c1ce9dac771dbd5e2edf2d5e789d8b1aaa",
+      "author_login": "Schwusch",
+      "authored_at": "2016-12-24T01:04:02Z",
+      "message": "Fixed a subprocess mishap and fixed frame losses"
+    },
+    {
+      "sha": "ffdec65daf2e323f9577f402120270e4c53ccc00",
+      "author_login": "Schwusch",
+      "authored_at": "2016-12-23T19:48:47Z",
+      "message": "Semi-proper termination of input stream."
+    },
+    {
+      "sha": "5fe040ceacb41f1064271cc34500fdca642f763d",
+      "author_login": "Schwusch",
+      "authored_at": "2016-12-23T19:29:09Z",
+      "message": "Implemented piping from and to ffmpeg for increased performance"
+    },
+    {
+      "sha": "3170a105c63e5e62f7e938a205984eb4089e7bb4",
+      "author_login": "Schwusch",
+      "authored_at": "2016-12-23T15:30:21Z",
+      "message": "Python 3 compatibility"
+    },
+    {
+      "sha": "ba30975697af3b44b9381a5eb4bea6ed373714fd",
+      "author_login": "lengstrom",
+      "authored_at": "2016-12-05T22:41:13Z",
+      "message": "Merge pull request #30 from btwael/patch-1"
+    },
+    {
+      "sha": "f207dee29c8642b8ef94d03d9574c024fcd14ef3",
+      "author_login": "btwael",
+      "authored_at": "2016-12-05T19:47:21Z",
+      "message": "Fix typo"
+    },
+    {
+      "sha": "22acb38354715ef268c3583115bc3c4fe49426e8",
+      "author_login": "lengstrom",
+      "authored_at": "2016-11-20T05:25:53Z",
+      "message": "updated requirements to be more specific"
+    },
+    {
+      "sha": "384baf4a92dcab05b3a37e148d84c57bfe2262a1",
+      "author_login": "lengstrom",
+      "authored_at": "2016-11-19T23:42:30Z",
+      "message": "Merge pull request #13 from cbonitz/master"
+    },
+    {
+      "sha": "c13e90cf94b0b794e07ec9964ba6a36076f6255d",
+      "author_login": "cbonitz",
+      "authored_at": "2016-11-19T23:02:57Z",
+      "message": "Cleanup (issue #12)"
+    },
+    {
+      "sha": "d163f99ba4a8c3d31cc7e8233b2e5b76559992b9",
+      "author_login": "cbonitz",
+      "authored_at": "2016-11-19T22:47:30Z",
+      "message": "Merge branch 'master' of https://github.com/lengstrom/fast-style-transfer"
+    },
+    {
+      "sha": "db6022098224fde30f96c6a5e4080ba562a81974",
+      "author_login": "lengstrom",
+      "authored_at": "2016-11-06T17:35:22Z",
+      "message": "Merge pull request #20 from radarhere/master"
+    },
+    {
+      "sha": "66fc6ea8fcab9c21f2204017fecb72be3f5de041",
+      "author_login": "radarhere",
+      "authored_at": "2016-11-05T08:33:45Z",
+      "message": "Fixed typo"
+    },
+    {
+      "sha": "44cf6813640782106cdb972254c6df3cd08e8477",
+      "author_login": "cbonitz",
+      "authored_at": "2016-11-01T20:54:55Z",
+      "message": "Allow style transfer to images of different dimensions (issue #12)"
+    },
+    {
+      "sha": "57d473706d92759a68543f6392bb7cfcb0a9a35b",
+      "author_login": "lengstrom",
+      "authored_at": "2016-11-02T03:30:47Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3b8dc423d24ab9d7c3af5b743e7a6943bf08104e",
+      "author_login": "lengstrom",
+      "authored_at": "2016-11-01T06:33:27Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "0ce00cc9dc714f35c7dd2045bf43f0ecdc4f1a69",
+      "author_login": "lengstrom",
+      "authored_at": "2016-10-31T22:03:59Z",
+      "message": "Merge pull request #8 from tibbon/patch-1"
+    },
+    {
+      "sha": "84ee89c5ee6eb888f14b903c52828942d25bbe43",
+      "author_login": "tibbon",
+      "authored_at": "2016-10-31T20:30:40Z",
+      "message": "Update path to example file"
+    },
+    {
+      "sha": "f6695385c9dde6d87a38c54aac2e66e6e6ea67a7",
+      "author_login": "tibbon",
+      "authored_at": "2016-10-31T20:28:06Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ccbd8c37ce7faa768975d5e23aebf50e1aa8dca8",
+      "author_login": "lengstrom",
+      "authored_at": "2016-10-31T18:08:51Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "96faabf5b2d63655d0f5200f115b9baafab1eeb2",
+      "author_login": "lengstrom",
+      "authored_at": "2016-10-31T18:07:51Z",
+      "message": "Merge pull request #4 from minimaxir/patch-1"
+    },
+    {
+      "sha": "651a01696bccd84cb66780fcf104b874ff267b1e",
+      "author_login": "lengstrom",
+      "authored_at": "2016-10-31T18:00:26Z",
+      "message": "Models now stored in Google Drive"
+    },
+    {
+      "sha": "df8c6b4b16a96b594f221750137d544ad5152111",
+      "author_login": "minimaxir",
+      "authored_at": "2016-10-31T17:47:43Z",
+      "message": "Fix extra newline"
+    },
+    {
+      "sha": "4179491052894b079b8c0e898f194bba61f68892",
+      "author_login": "minimaxir",
+      "authored_at": "2016-10-31T17:46:30Z",
+      "message": "Fix Evaluation Example"
+    },
+    {
+      "sha": "ea5d4f88e1efc8882a57e3893b3519abc75dd9e3",
+      "author_login": "lengstrom",
+      "authored_at": "2016-10-31T16:52:33Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "c6cbd9320b48fe662ee3421ac4069760f1646f6d",
+      "author_login": "lengstrom",
+      "authored_at": "2016-10-31T16:28:55Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "581d503ced82c73c220fac5f98a92b63d0176f39",
+      "author_login": "lengstrom",
+      "authored_at": "2016-10-31T16:27:41Z",
+      "message": "Delete LICENSE"
+    },
+    {
+      "sha": "eb413b348902be82efc20c1e347e96c1b9e4a7fd",
+      "author_login": "lengstrom",
+      "authored_at": "2016-10-31T15:31:45Z",
+      "message": "fixup"
+    }
+  ],
+  "issues": [
+    {
+      "number": 295,
+      "title": "Fix typo in fast-style-transfer (#269)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-07-12T19:10:00Z",
+      "closed_at": "2026-07-13T12:53:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 294,
+      "title": "v1.0",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-12-12T02:38:51Z",
+      "closed_at": "2025-12-12T02:39:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 293,
+      "title": "SOS! Anyone has the 6-style PyTorch .pth files? My poor GPU can't handle the conversion",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-17T14:39:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 292,
+      "title": "feat: Create image denoising web application",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-06-03T17:57:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 291,
+      "title": "results of \"models for evaluation\" is so bad ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-01T07:19:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 290,
+      "title": "Update setup.sh",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-07-16T02:36:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 289,
+      "title": "ERROR 409: Public access is not permitted on this storage account..",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-15T14:11:51Z",
+      "closed_at": "2023-08-18T15:14:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 288,
+      "title": "Running style.py,error,I'm a rookie.Please help me.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-30T04:44:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 287,
+      "title": "Update setup.sh",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-05-18T00:04:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 286,
+      "title": "Jjjhikk",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-08-22T17:19:40Z",
+      "closed_at": "2022-08-22T17:19:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 285,
+      "title": "saving a model",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-06-21T13:25:28Z",
+      "closed_at": "2022-07-11T14:33:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 284,
+      "title": "Update Core ML reference links in readme",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-14T01:24:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 283,
+      "title": "Problem of memory",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-28T16:46:32Z",
+      "closed_at": "2022-06-04T01:06:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 282,
+      "title": "When you transfer your videos ,moviepy  1.0.2  has  exceptions !  ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-05-13T17:56:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 281,
+      "title": "Green and red dot pattern are appearing",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-03-24T19:42:27Z",
+      "closed_at": "2022-03-24T20:50:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 280,
+      "title": "AssertionError: In path not found!",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-02-21T01:55:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 279,
+      "title": "Can you use this to style audio?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-02-20T03:42:15Z",
+      "closed_at": "2022-02-20T05:25:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 278,
+      "title": "AttributeError: 'int' object has no attribute 'value'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-11-24T03:46:43Z",
+      "closed_at": "2021-11-24T03:59:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 277,
+      "title": "AssertionError: checkpoint dir not found!",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-11-23T13:50:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 276,
+      "title": "Removed a case of the manual indexer pitfall",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-10-15T05:54:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 275,
+      "title": "Add Docker environment & web demo",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-09-29T08:24:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 274,
+      "title": "Program gets killed. ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-09-05T23:58:04Z",
+      "closed_at": "2022-04-24T06:31:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 273,
+      "title": "Weird behaviour on the edges",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-30T10:16:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 272,
+      "title": "Unrecognized arguments ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-08-10T23:09:30Z",
+      "closed_at": "2021-08-22T23:16:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 271,
+      "title": "how to change 'resize' resolution?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-20T08:38:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 270,
+      "title": "error running style.py",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-04-06T05:28:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 269,
+      "title": "can't open file 'evaluate.py': [Errno 2] No such file or directory",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-31T00:03:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 268,
+      "title": "TypeError: _open() got an unexpected keyword argument 'pilmode'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-24T17:16:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 267,
+      "title": "Error running style.py: Not found: ./bin/ptxas not found",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-23T15:55:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 266,
+      "title": "The following packages are not available from current channels:",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-03-12T11:00:56Z",
+      "closed_at": "2021-03-12T13:37:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 265,
+      "title": "The parameters for pretrained model",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-01T01:40:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 264,
+      "title": "frame malposition using transformed video",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-26T07:50:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 263,
+      "title": "Could not create cudnn handle: CUDNN_STATUS_INTERNAL_ERROR ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-24T01:38:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 262,
+      "title": "Python 3.x Support",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-02-14T12:19:36Z",
+      "closed_at": "2021-02-17T02:08:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 261,
+      "title": "Checkpoint file nowhere to be found",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-02-12T20:05:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 260,
+      "title": "failed to run cuBLAS routine: CUBLAS_STATUS_NOT_SUPPORTED",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-07T03:25:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 259,
+      "title": "style transfer for various resolution",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-14T02:58:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 257,
+      "title": "Using GPU error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-31T08:15:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 256,
+      "title": "ValueError: Could not find a format to read the specified file in single-image mode",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-15T16:47:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 255,
+      "title": "How to continue training after accidentally shut down the programme",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-22T18:56:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 254,
+      "title": "Is there any documentation that explains what can be used as input videos/images?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-09-02T01:37:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 253,
+      "title": "MoviePy error ,FFMPEG error,Broken pipe",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-21T06:56:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 252,
+      "title": "Can I load multiple style pictures in one training session？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-15T02:17:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 251,
+      "title": "Update style.py",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-08-04T04:35:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 250,
+      "title": "Blur around the generated image using this code and models ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-07-27T06:02:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 249,
+      "title": "add docker",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-24T19:36:18Z",
+      "closed_at": "2020-07-24T19:36:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 248,
+      "title": "could we apply fast-style-transfer to image deformation?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-07-12T07:37:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 247,
+      "title": "Video generation fix, Checkpoint restore on training and some code cleanup.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-07-04T02:57:27Z",
+      "closed_at": "2025-07-11T06:09:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 246,
+      "title": "Kernel sizes for pre-trained .ckpt models",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-24T15:53:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 245,
+      "title": "ffmpeg_writer issue invalid argument",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-05T22:04:10Z",
+      "closed_at": "2020-06-05T22:14:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 244,
+      "title": "Cannot convert a TensorShape to dtype: <dtype: 'float32'>",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-05T04:10:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 243,
+      "title": "Error trying to train the AI 'ValueError: Could not find a format to read the specified file in single-image mode'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-04T04:16:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 242,
+      "title": "#241: Code Not Compatible with Latest Libraries (tensorflow 2 and scipy.misc)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-04-27T00:27:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 241,
+      "title": "Code Not Compatible with Latest Libraries (tensorflow 2 and scipy.misc) ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-27T00:25:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 240,
+      "title": "training issues (style.py)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-23T20:11:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 239,
+      "title": "Update repo with TensorFlow 2.0 compatibility",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-04-11T10:12:06Z",
+      "closed_at": "2020-05-14T18:55:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 238,
+      "title": "Error: ty.placeholder from optimize.py",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-28T01:53:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 237,
+      "title": "AttributeError: module 'tensorflow' has no attribute 'ConfigProto'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-03-26T04:01:34Z",
+      "closed_at": "2020-03-27T03:37:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 236,
+      "title": "Why haven't I trained on the GPU for more than ten hours? eom",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-24T02:09:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 235,
+      "title": "Style.py: Question about Python version and operating system",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-12T14:15:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 234,
+      "title": "Style.py with low resolutions (32x32)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-11T14:56:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 233,
+      "title": "Could not find a version that satisfies the requirement tensorflow==0.11.0",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-10T03:35:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 232,
+      "title": "Update source code to support TF2 and replaced deprecated SciPy methods",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-03-07T01:21:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 231,
+      "title": "how long for training in Colab?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-06T09:32:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 230,
+      "title": "Iterations & Epoch",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-04T06:54:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 229,
+      "title": "Error: module 'scipy.misc' has no attribute 'imread'",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-03-03T12:25:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 228,
+      "title": "Add Chinese README file",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-02-28T13:20:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 227,
+      "title": "Custom Trained Styles Are Generating Outputs With Noise",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-02-14T21:26:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 226,
+      "title": "Crash App, When run in simulator it's worked.but real device on crashed.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-02-13T09:29:57Z",
+      "closed_at": "2020-02-13T09:34:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 225,
+      "title": "TensorFlow 2.0 Implementation",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-22T23:32:39Z",
+      "closed_at": "2020-08-26T23:58:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 224,
+      "title": "Error when trying to train new checkpoint",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-22T21:18:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 223,
+      "title": "Prisma back-end?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-01-20T23:38:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 222,
+      "title": "Estimated time until next checkpoint?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-01-03T07:43:25Z",
+      "closed_at": "2020-01-10T20:23:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 221,
+      "title": "Fine-adjustment VGG？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-12-19T14:59:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 220,
+      "title": "Fix on issue #213",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-12-10T16:55:16Z",
+      "closed_at": "2020-05-14T18:55:57Z",
+      "first_response_at": null
+    },
+    {
+      "number": 219,
+      "title": "Unable to download training data (setup.sh) from Europe",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-18T18:19:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 218,
+      "title": "Pretrained parameters",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-13T04:52:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 217,
+      "title": "Output File Is Resized",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-12T01:41:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 216,
+      "title": "Checkpoint Files",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-11-11T21:54:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 215,
+      "title": "Cannot use the \"models for evaluation\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-10-28T05:54:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 214,
+      "title": "Question about the percentage of GPU usage",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-10-26T10:02:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 213,
+      "title": "Error module 'scipy.misc' has no attribute 'imread' in latest version of scipy",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-10-05T18:16:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 212,
+      "title": "More models?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-09-15T18:03:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 211,
+      "title": "Allocation of 150994944 exceeds 10% of system memory",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-09-12T02:52:16Z",
+      "closed_at": "2019-09-12T03:23:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 210,
+      "title": "fns.ckpt saving problem ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-08-29T09:35:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 209,
+      "title": "Can I just use CPU to train and evaluate the model?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-08-26T15:09:40Z",
+      "closed_at": "2021-11-11T14:52:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 208,
+      "title": "Is it possible to transfer the styles of multiple images?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-08-21T18:52:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 207,
+      "title": "fix wrong flag name in docs #206",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2019-08-03T05:02:31Z",
+      "closed_at": "2019-08-14T17:23:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 206,
+      "title": "Wrong flags name in docs",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-07-19T16:08:17Z",
+      "closed_at": "2019-08-14T17:23:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 205,
+      "title": "Question about inference procedure: cost much GPU memory",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-06-24T12:44:41Z",
+      "closed_at": "2019-07-03T10:53:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 204,
+      "title": "Self trained model has much bigger size?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-06-17T09:14:05Z",
+      "closed_at": "2019-06-24T12:41:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 203,
+      "title": "moviepy",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-06-14T08:04:37Z",
+      "closed_at": "2019-06-14T08:04:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 202,
+      "title": "implementing at nvidia jetson nano",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-06-08T07:46:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 201,
+      "title": "(style question) Flat background remains flat. ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-26T10:38:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 200,
+      "title": "C# implementation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-05-03T15:39:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 199,
+      "title": "Abort trap: 6. Unable to run evaluate.py with checkpoint",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-28T01:22:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 198,
+      "title": "Training model Hyperparameters ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-25T13:45:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 197,
+      "title": "cannot run on iOS",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2019-04-19T05:34:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 196,
+      "title": "ImportError: cannot import name save_img",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2019-04-13T03:22:47Z",
+      "closed_at": "2019-04-16T19:49:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 195,
+      "title": "Try loading existing checkpoints during training",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2019-04-08T23:50:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "lengstrom",
+      "contributions": 37
+    },
+    {
+      "login": "Schwusch",
+      "contributions": 5
+    },
+    {
+      "login": "fbcotter",
+      "contributions": 4
+    },
+    {
+      "login": "adawset",
+      "contributions": 4
+    },
+    {
+      "login": "cbonitz",
+      "contributions": 3
+    },
+    {
+      "login": "divisiondeariza",
+      "contributions": 3
+    },
+    {
+      "login": "tibbon",
+      "contributions": 2
+    },
+    {
+      "login": "minimaxir",
+      "contributions": 2
+    },
+    {
+      "login": "naveen-annam",
+      "contributions": 2
+    },
+    {
+      "login": "radarhere",
+      "contributions": 1
+    },
+    {
+      "login": "drakerehfeld",
+      "contributions": 1
+    },
+    {
+      "login": "feber",
+      "contributions": 1
+    },
+    {
+      "login": "Lupino",
+      "contributions": 1
+    },
+    {
+      "login": "Neutrino3316",
+      "contributions": 1
+    },
+    {
+      "login": "btwael",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-10-19T11:47:27.495510Z"
+}
