@@ -1,0 +1,1586 @@
+{
+  "full_name": "michalsnik/aos",
+  "owner": "michalsnik",
+  "name": "aos",
+  "url": "https://github.com/michalsnik/aos",
+  "description": "Animate on scroll library",
+  "primary_language": "JavaScript",
+  "topics": [],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 28051,
+  "forks": 2621,
+  "open_issues": 375,
+  "created_at": "2015-07-09T17:49:00Z",
+  "pushed_at": "2024-03-26T15:58:43Z",
+  "updated_at": "2026-10-25T15:43:30Z",
+  "commits": [
+    {
+      "sha": "329fb34f777034345f4d3f4def4dc3bcc300cc2e",
+      "author_login": "michalsnik",
+      "authored_at": "2018-10-03T22:54:44Z",
+      "message": "3.0.0-beta.6"
+    },
+    {
+      "sha": "ea374ae60c62c6aceb02472282ce53ebf06016e4",
+      "author_login": "ncoden",
+      "authored_at": "2018-10-03T18:05:45Z",
+      "message": "fix: disable mutation observing when not supported (#405)"
+    },
+    {
+      "sha": "21888046d1b743bfd3b765c83d23709d6ac2c950",
+      "author_login": "michalsnik",
+      "authored_at": "2018-10-03T22:45:32Z",
+      "message": "Add throttleDelay and debounceDelay settings"
+    },
+    {
+      "sha": "7c55654beadab9ef9be358b3584dd1bde3f1a259",
+      "author_login": "michalsnik",
+      "authored_at": "2018-10-03T22:39:41Z",
+      "message": "Add disableMutationObserver setting"
+    },
+    {
+      "sha": "2f62a4d9ef2d8a03877c937bd79233ebc6a2ae92",
+      "author_login": null,
+      "authored_at": "2018-10-03T17:49:25Z",
+      "message": "Fix typos in README.md (#403)"
+    },
+    {
+      "sha": "5b40aa94033f5283504c177d4455b66708683c5f",
+      "author_login": "cassvearls",
+      "authored_at": "2018-10-03T17:25:22Z",
+      "message": "Update README.md (#386)"
+    },
+    {
+      "sha": "b11385ac87d169f49f3ed28abcbe0d7f1a7eac27",
+      "author_login": "michalsnik",
+      "authored_at": "2018-08-17T19:25:07Z",
+      "message": "3.0.0-beta.5"
+    },
+    {
+      "sha": "36d2ffd42a402b46c424d806d92181b374af8c20",
+      "author_login": "michalsnik",
+      "authored_at": "2018-08-17T19:23:16Z",
+      "message": "Add src to files"
+    },
+    {
+      "sha": "479dd33b188dc12b5549339c260263622c3d3b65",
+      "author_login": "michalsnik",
+      "authored_at": "2018-07-08T17:42:32Z",
+      "message": "3.0.0-beta.4"
+    },
+    {
+      "sha": "68a0d523620c76eee5a4fd3b0ca161367a9dfb1e",
+      "author_login": "michalsnik",
+      "authored_at": "2018-07-08T17:42:07Z",
+      "message": "Fix AOS detection in MutationObserver"
+    },
+    {
+      "sha": "835ad10263b2ad8441dc7a95bada4051d866e127",
+      "author_login": "michalsnik",
+      "authored_at": "2018-07-08T15:59:22Z",
+      "message": "3.0.0-beta.3"
+    },
+    {
+      "sha": "785b8cf08aae67a2106ae3643690abcb322a60e0",
+      "author_login": "michalsnik",
+      "authored_at": "2018-07-08T15:58:58Z",
+      "message": "Scope styles to screens only"
+    },
+    {
+      "sha": "5d0dfc967f3d6b3026dfcdb8d5986643fad6d3b0",
+      "author_login": "michalsnik",
+      "authored_at": "2018-07-07T19:17:42Z",
+      "message": "Add Issue and PR templates"
+    },
+    {
+      "sha": "cb4c7c81569fa697300484950930664c9eae72b2",
+      "author_login": "michalsnik",
+      "authored_at": "2018-07-07T18:57:28Z",
+      "message": "Update installation instructions"
+    },
+    {
+      "sha": "14ce0b36e8b0f739b1d5e4c9074b128687648098",
+      "author_login": "michalsnik",
+      "authored_at": "2018-07-07T18:36:57Z",
+      "message": "3.0.0-beta.2"
+    },
+    {
+      "sha": "d039026f9fb94e8533f93709a249de756e5beacd",
+      "author_login": "michalsnik",
+      "authored_at": "2018-07-07T18:31:05Z",
+      "message": "Update readme"
+    },
+    {
+      "sha": "dc35a7086a028a83cb178004473f9888a550a2cd",
+      "author_login": "michalsnik",
+      "authored_at": "2018-07-07T18:05:24Z",
+      "message": "Fix IE11"
+    },
+    {
+      "sha": "14efb34113715c2ab7fcd23912a7d9b68a316d25",
+      "author_login": "michalsnik",
+      "authored_at": "2018-06-24T14:31:30Z",
+      "message": "Update readme"
+    },
+    {
+      "sha": "79c081a651e5429ca4f24251c248fcb2f043b61f",
+      "author_login": "michalsnik",
+      "authored_at": "2018-06-24T14:26:57Z",
+      "message": "Update readme"
+    },
+    {
+      "sha": "15a2a16155c2680e00a28608491017a62a0342e3",
+      "author_login": "michalsnik",
+      "authored_at": "2018-06-24T14:06:47Z",
+      "message": "Fix eslint issues"
+    },
+    {
+      "sha": "a084dd7457297e4335d098abf3ed0c5ee37f820f",
+      "author_login": "michalsnik",
+      "authored_at": "2018-06-24T14:00:30Z",
+      "message": "Add global anchorPlacement setting"
+    },
+    {
+      "sha": "676b9278578b1853e25601f488e3c106d34dd4aa",
+      "author_login": "michalsnik",
+      "authored_at": "2018-06-22T18:45:57Z",
+      "message": "Respect `disable` setting on asynchronously loaded content"
+    },
+    {
+      "sha": "88ce3095f266952fec442589d1c9243d144b76a4",
+      "author_login": "michalsnik",
+      "authored_at": "2018-06-22T18:15:48Z",
+      "message": "Don't apply AOS styles when JavaScript is disabled"
+    },
+    {
+      "sha": "139481147377ce87da3291a4e9914cda7691dc27",
+      "author_login": "coliff",
+      "authored_at": "2018-06-21T19:30:30Z",
+      "message": "https link to GitHub (#337)"
+    },
+    {
+      "sha": "193ff452da32b329d94b46586035d998602b92a0",
+      "author_login": "vcfvct",
+      "authored_at": "2018-06-21T19:30:12Z",
+      "message": "Move browser related objects from global to function level (#349)"
+    },
+    {
+      "sha": "4f9b53deb166b7d9ff1cd0c4884db347b55aa823",
+      "author_login": "michalsnik",
+      "authored_at": "2018-06-21T22:15:51Z",
+      "message": "3.0.0-beta.1"
+    },
+    {
+      "sha": "a9dc221037494f8e59a690e0f472ec14751cbbb3",
+      "author_login": "michalsnik",
+      "authored_at": "2018-06-21T21:41:32Z",
+      "message": "Fix slide animations"
+    },
+    {
+      "sha": "2569f6d186f1404aa627276f1ea69b36bf3e6a55",
+      "author_login": "michalsnik",
+      "authored_at": "2018-06-21T21:25:00Z",
+      "message": "Update offset comment"
+    },
+    {
+      "sha": "b4c15d92c40a9a52c2ee965fac8fd990ef5d9a55",
+      "author_login": "michalsnik",
+      "authored_at": "2018-06-21T20:42:01Z",
+      "message": "Remove src from npmignore"
+    },
+    {
+      "sha": "e5d3677554ea434e1249f1821d3c7868a1332e8f",
+      "author_login": "michalsnik",
+      "authored_at": "2018-06-20T17:04:35Z",
+      "message": "Update sourcemap setting in rollup"
+    },
+    {
+      "sha": "efebca97218209f3c2af51940130b4badafd07a0",
+      "author_login": "michalsnik",
+      "authored_at": "2018-06-20T17:00:10Z",
+      "message": "Update readme"
+    },
+    {
+      "sha": "7d3e20bcabed11c4ea69a6ae0c10a515855d1fb1",
+      "author_login": "michalsnik",
+      "authored_at": "2018-06-20T16:59:50Z",
+      "message": "Format rollbar, add sourcemap in DEV env"
+    },
+    {
+      "sha": "66befe602a755a3952b5d04d0a80cb801fff9aaf",
+      "author_login": "michalsnik",
+      "authored_at": "2018-06-20T16:59:26Z",
+      "message": "Fix initialization, refresh on window load"
+    },
+    {
+      "sha": "ec1cd60f9f98c25bcdab8544d1c7a27e760efa0d",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-20T22:35:55Z",
+      "message": "Update readme"
+    },
+    {
+      "sha": "67a013bec74eaa0fa475f9e05c354330fbe9d097",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-20T22:31:25Z",
+      "message": "Update readme"
+    },
+    {
+      "sha": "f49e4db8c5be936ecf711a8cda3e86d425f7e96d",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-19T16:35:18Z",
+      "message": "Remove redundant code breaking tests"
+    },
+    {
+      "sha": "e81d92a9db115890970ecbcaa423f54b762b10c8",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-19T16:25:42Z",
+      "message": "Merge branch 'next' of github.com:michalsnik/aos into next"
+    },
+    {
+      "sha": "46cfc80dc25bab06a7d6f7eb715c8ac8df9bbb74",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-19T16:24:52Z",
+      "message": "Add linting as part of test script"
+    },
+    {
+      "sha": "71296f8863f3650730f1ac18205e87979450d695",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-19T16:20:28Z",
+      "message": "Add tests for animatedClassName, initClassName, useClassNames, mirror and js events"
+    },
+    {
+      "sha": "e5f32521d533486ecbb909cd08492abfa16d0564",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-19T14:28:09Z",
+      "message": "Fix code style"
+    },
+    {
+      "sha": "9673fa3ba5db29be7329729668542c02de06a6bb",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-18T20:20:16Z",
+      "message": "Add .babelrc to .npmignore"
+    },
+    {
+      "sha": "94e32553a8ef2ad6889e165e0224506e2147f1f4",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-17T19:28:12Z",
+      "message": "Add eslint & prettier"
+    },
+    {
+      "sha": "7c1fc5607797e4b69775b94f493f86ccfac6d663",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-16T22:59:35Z",
+      "message": "Add placeholders for required tests"
+    },
+    {
+      "sha": "fc3455fdf98b5bfb3d2fdcf692a293d573732cc5",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-16T00:26:57Z",
+      "message": "Add customEvents"
+    },
+    {
+      "sha": "f512e0c860d04c147afc508679161b4952e51dda",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-15T23:14:47Z",
+      "message": "Add support for external animation libraries"
+    },
+    {
+      "sha": "53b2ee9bf977b0de530ab0979f26c7370f0e651b",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-14T22:22:24Z",
+      "message": "Merge branch 'next' of github.com:michalsnik/aos into next"
+    },
+    {
+      "sha": "ce97990d0522a7a17dbb4cf64392dea48c047738",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-14T22:21:04Z",
+      "message": "Set transform none"
+    },
+    {
+      "sha": "daa4b145aeab66719420aefd993e90a77761a726",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-14T22:11:32Z",
+      "message": "Set proper transition delay unit"
+    },
+    {
+      "sha": "6c203f3e624099e62019ade7c2d0d0d85e500e29",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-14T00:02:18Z",
+      "message": "Update offset calculations and mirror option"
+    },
+    {
+      "sha": "de82d190f1232cbc3bc526813f771c5204fef284",
+      "author_login": "LucaRosaldi",
+      "authored_at": "2016-08-11T13:39:54Z",
+      "message": "add ‘mirror’ option"
+    },
+    {
+      "sha": "0ad56be8815a881ce096e5a1b762c93a7422ec1e",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T20:36:56Z",
+      "message": "Update link to html5shiv"
+    },
+    {
+      "sha": "52e3c3f1459fdd34e5106235e4f1b7c925c28cd9",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T20:00:04Z",
+      "message": "Close cypress after it finished testing with proper status"
+    },
+    {
+      "sha": "a96ba1f6817a2834e3900c4abc02ac8ff9977446",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T19:49:07Z",
+      "message": "Update travis config"
+    },
+    {
+      "sha": "b2107fddd1ff8f9c6964d85273ac8e5b82d25fa5",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T19:46:57Z",
+      "message": "Fix server"
+    },
+    {
+      "sha": "b0a7f9835502126326ff1a03bd8cefca1aecde72",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T19:38:12Z",
+      "message": "Add tests for anchor feature"
+    },
+    {
+      "sha": "bc05658afd0884a7b565db9896e1a365545c1e48",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T16:53:54Z",
+      "message": "Test browser resize/orientationchange and mutations"
+    },
+    {
+      "sha": "3785c18b61b01c95f7f8c616d019d8fe4e4c9818",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T16:16:26Z",
+      "message": "Use uglify and cssnano"
+    },
+    {
+      "sha": "505db37a63e686f53aefcbb1a87a566f22defe1f",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T16:16:13Z",
+      "message": "Add more cypress tests"
+    },
+    {
+      "sha": "bf276eb6b56938b638a09e16df0877dd26383da9",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T01:19:17Z",
+      "message": "Add cypress and live-server, update readme & contribution guide"
+    },
+    {
+      "sha": "941891c4a02a083716179ec86f38a4e15db27d86",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-12T22:07:39Z",
+      "message": "Clean repository and configuration, replace webpack with rollup"
+    },
+    {
+      "sha": "8a9c5efb0108e648f7db37601bea4723bae767d7",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T22:09:49Z",
+      "message": "Merge pull request #280 from matheusportoo/master"
+    },
+    {
+      "sha": "eea627c1bba25d097c1c7da672341899edfd5071",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T21:49:48Z",
+      "message": "Merge pull request #260 from neighborhood999/patch-1"
+    },
+    {
+      "sha": "a1bdf1cc1e78a833fd69742418518097247ae52f",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T21:49:05Z",
+      "message": "Update observer.js"
+    },
+    {
+      "sha": "50909d8be986a4b8e70729af154b41e74cab7286",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T21:44:14Z",
+      "message": "Merge pull request #232 from epoberezhny/refactoring"
+    },
+    {
+      "sha": "4b733c65790dc7aca8b06a55fef149f51b8cccf9",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T20:36:56Z",
+      "message": "Update link to html5shiv"
+    },
+    {
+      "sha": "ec012d421141fbb717096f3b4b3634bc3c98bde8",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T20:00:04Z",
+      "message": "Close cypress after it finished testing with proper status"
+    },
+    {
+      "sha": "d8a793368025eeb57487b9b254bad3437e7d5945",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T19:49:07Z",
+      "message": "Update travis config"
+    },
+    {
+      "sha": "b1d3624b338252df53720f444692ebe63fea815b",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T19:46:57Z",
+      "message": "Fix server"
+    },
+    {
+      "sha": "2445854cfd1611dd1844f854ce6aed43140dd9ff",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T19:38:12Z",
+      "message": "Add tests for anchor feature"
+    },
+    {
+      "sha": "897ad5cab90b0c65bd1889882d518799b3501132",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T16:53:54Z",
+      "message": "Test browser resize/orientationchange and mutations"
+    },
+    {
+      "sha": "59a88797bac2bd86941977f807f4b10aa19ecf28",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T16:16:26Z",
+      "message": "Use uglify and cssnano"
+    },
+    {
+      "sha": "8305b8d654158b5aef77cb1c1f5e0b7f90c15d6f",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T16:16:13Z",
+      "message": "Add more cypress tests"
+    },
+    {
+      "sha": "f834a88dec06f9cdfb82b0b652705b3378953260",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-13T01:19:17Z",
+      "message": "Add cypress and live-server, update readme & contribution guide"
+    },
+    {
+      "sha": "e20ea9c9ac3cd5083300c270ca3d837f8c93cf23",
+      "author_login": "michalsnik",
+      "authored_at": "2018-05-12T22:07:39Z",
+      "message": "Clean repository and configuration, replace webpack with rollup"
+    },
+    {
+      "sha": "722a98dece81ceb98ca5b1826482ea9a179dd067",
+      "author_login": "epoberezhny",
+      "authored_at": "2018-04-14T21:03:34Z",
+      "message": "Update elements.js"
+    },
+    {
+      "sha": "9e257738e4820fc456bfde43994897d9fc07adb3",
+      "author_login": null,
+      "authored_at": "2018-02-05T14:29:13Z",
+      "message": "Change translate2d to translate3d, improve performance"
+    },
+    {
+      "sha": "32a12db3f94dc015ba7de9ee2eeb1a1a11a30ba9",
+      "author_login": null,
+      "authored_at": "2018-01-09T05:51:50Z",
+      "message": "Add Mozilla MutationObserver"
+    },
+    {
+      "sha": "836dbc05c09bdac4d245d3ae6aaad4242dd4638c",
+      "author_login": "michalsnik",
+      "authored_at": "2017-07-09T00:20:37Z",
+      "message": "Merge pull request #189 from michalsnik/update-mutation-observer"
+    },
+    {
+      "sha": "6536eec38a8a39c099c0adea8db20cf94bee9763",
+      "author_login": "michalsnik",
+      "authored_at": "2017-07-09T00:07:16Z",
+      "message": "Use old method of converting NodeList to Array"
+    },
+    {
+      "sha": "afa38d227f685e5f64ba82c38a5b56a23b025688",
+      "author_login": "michalsnik",
+      "authored_at": "2017-07-07T10:39:13Z",
+      "message": "Update mutation observer, remove depracated mutation event"
+    },
+    {
+      "sha": "fcec8757853e4c5eaae5c4477f63049027b00d30",
+      "author_login": "michalsnik",
+      "authored_at": "2017-07-07T01:24:24Z",
+      "message": "Build 2.2.0"
+    },
+    {
+      "sha": "cd7edb9c2f85a29eef0bbfcc6e5c6c2531a8c052",
+      "author_login": "michalsnik",
+      "authored_at": "2017-07-07T01:24:13Z",
+      "message": "2.2.0"
+    },
+    {
+      "sha": "0e983c2bd52887cc72b942e2e81b6a3ee194cdc3",
+      "author_login": "michalsnik",
+      "authored_at": "2017-07-07T00:10:25Z",
+      "message": "Fix webpack config"
+    },
+    {
+      "sha": "a95317e6a87bdb1d294fa95ffc58b2720caf39f2",
+      "author_login": "michalsnik",
+      "authored_at": "2017-07-06T23:07:18Z",
+      "message": "Merge pull request #187 from michalsnik/greenkeeper/autoprefixer-7.1.2"
+    },
+    {
+      "sha": "5a71742e3d8c44e5e91c54d39690a8ccd16e6011",
+      "author_login": "greenkeeper[bot]",
+      "authored_at": "2017-07-06T15:48:52Z",
+      "message": "chore(package): update autoprefixer to version 7.1.2"
+    },
+    {
+      "sha": "a99d64266cbc5b9361518caecd5d076a20214735",
+      "author_login": "michalsnik",
+      "authored_at": "2017-06-07T22:49:00Z",
+      "message": "Merge pull request #162 from michalsnik/greenkeeper/style-loader-0.18.2"
+    },
+    {
+      "sha": "dc5065c071a6db47d835876edc16e6db288fc894",
+      "author_login": "greenkeeper[bot]",
+      "authored_at": "2017-06-05T08:15:30Z",
+      "message": "chore(package): update style-loader to version 0.18.2"
+    },
+    {
+      "sha": "b2cb8f16096cbf9b0b5fc34c9a6581bb2670593f",
+      "author_login": "michalsnik",
+      "authored_at": "2017-05-27T17:45:31Z",
+      "message": "Merge pull request #154 from graingert/clean-up-detector-work-with-missing-ua"
+    },
+    {
+      "sha": "daf81b0fb30e6a307f5d5d89f1ea41ca8ed766c9",
+      "author_login": "michalsnik",
+      "authored_at": "2017-05-26T12:48:41Z",
+      "message": "Merge pull request #130 from UltimateDesignCombatant/webpack-prefix-config"
+    },
+    {
+      "sha": "71462cbc83b42b48b68954acd9f643d0f25d7355",
+      "author_login": "michalsnik",
+      "authored_at": "2017-05-26T12:47:14Z",
+      "message": "Merge pull request #146 from michalsnik/greenkeeper/style-loader-0.17.0"
+    },
+    {
+      "sha": "0d261c9b4f21ab757944fceb41d7e36302e42e85",
+      "author_login": "michalsnik",
+      "authored_at": "2017-05-26T12:46:09Z",
+      "message": "Merge pull request #133 from michalsnik/greenkeeper/css-loader-0.28.0"
+    },
+    {
+      "sha": "c04863b41680eb16c5d9ad6fe5f624bd18bb8dc4",
+      "author_login": null,
+      "authored_at": "2017-05-15T11:37:13Z",
+      "message": "some UAs have no UA string"
+    },
+    {
+      "sha": "6ba4631450be7c84bb1b975707c0d2249a018a90",
+      "author_login": null,
+      "authored_at": "2017-05-15T11:36:25Z",
+      "message": "clean up detector"
+    },
+    {
+      "sha": "de21833cadb54f4377865fed310b01314f444d79",
+      "author_login": "greenkeeper[bot]",
+      "authored_at": "2017-05-01T18:59:59Z",
+      "message": "chore(package): update style-loader to version 0.17.0"
+    },
+    {
+      "sha": "011bd23d0f55740a28a77a7ca27c8506aede56c6",
+      "author_login": "greenkeeper[bot]",
+      "authored_at": "2017-03-30T06:50:05Z",
+      "message": "chore(package): update css-loader to version 0.28.0"
+    },
+    {
+      "sha": "fa23f7be5d6ca413edd56e0f076bc6449be749a8",
+      "author_login": null,
+      "authored_at": "2017-03-29T21:55:33Z",
+      "message": "Merge pull request #129 from LasseRafn/patch-1"
+    },
+    {
+      "sha": "8b4c81aafa7a3decb258d3b358a577bb64c58b60",
+      "author_login": null,
+      "authored_at": "2017-03-29T21:54:43Z",
+      "message": "Merge pull request #126 from michalsnik/greenkeeper/style-loader-0.15.0"
+    },
+    {
+      "sha": "b167c7b0afca014295c0929acbe344537af78ea8",
+      "author_login": "UltimateDesignCombatant",
+      "authored_at": "2017-03-23T12:04:29Z",
+      "message": "Adding autoprefixer support to package.json"
+    },
+    {
+      "sha": "44ffa19adf257925491f2edb145d07114e0a3077",
+      "author_login": "UltimateDesignCombatant",
+      "authored_at": "2017-03-23T12:03:45Z",
+      "message": "Adding autoprefixer to webpack config"
+    },
+    {
+      "sha": "64d85bc4dd6fef294f909952543185e3fd8a2ad7",
+      "author_login": "LasseRafn",
+      "authored_at": "2017-03-22T14:53:43Z",
+      "message": "Update README.md"
+    }
+  ],
+  "issues": [
+    {
+      "number": 879,
+      "title": "Fix typos and remove dead Travis CI badge in README",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-09-06T08:13:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 878,
+      "title": "Scrolling Performance Issue on Static Landing Page (GPU Compositing Causes Scroll Lag)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-07-29T05:23:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 877,
+      "title": "Add scrollContainer option",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-09T15:35:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 876,
+      "title": ".1915763867792649:e81136b2d3906f9243189ec35dbda8f3_69e348b10650b9d450180c0a.69e34fb90650b9d450180fdd.69e34fb8104f7437b56bcb32:Trae CN.T(2026/4/18 17:32:41)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-18T09:45:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 875,
+      "title": ".1915763867792649:c738bad2237de5d5ce5f1d91725c40e4_69e348b10650b9d450180c0a.69e34a010650b9d450180c55.69e34a00104f7437b56bcb31:Trae CN.T(2026/4/18 17:08:17)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-04-18T09:31:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 874,
+      "title": "my aos isn't animating on initial page render on react (next)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-05-07T11:37:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 873,
+      "title": "Permission denied to access property \"dataset\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-06T15:24:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 872,
+      "title": "AOS not working anymore",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-31T08:06:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 871,
+      "title": "bug 最新版不兼容",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-03T04:47:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 870,
+      "title": "Laravel + Livewire SPA wire:navigate animation issue.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-19T10:55:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 869,
+      "title": "I got a error message about \"Hydration completed but contains mismatches.\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-01-16T02:18:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 867,
+      "title": "No documentation for next js 15",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-21T09:04:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 866,
+      "title": "Error 520: Web Server Unknown error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-20T14:32:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 865,
+      "title": "Documentation update!",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-19T07:17:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 864,
+      "title": "On Form submit aos elements fade out",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-25T17:58:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 863,
+      "title": "Has development of aos 3.0 been stopped?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-24T23:26:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 862,
+      "title": "style just by .css file? ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-15T07:39:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 861,
+      "title": "Añadir documentación sobre uso de AOS en páginas turísticas",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-10-09T19:44:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 860,
+      "title": "1.0.1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-09-26T05:46:58Z",
+      "closed_at": "2024-09-26T05:47:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 859,
+      "title": "AOS Issue.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-21T14:46:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 858,
+      "title": "update image on readme",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-09-18T13:27:31Z",
+      "closed_at": "2026-06-20T17:02:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 857,
+      "title": "Web Vitals Performance Problems",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-06T18:32:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 856,
+      "title": "Menu-Card",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-02T08:13:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 855,
+      "title": "aos not displaying content expected to to fade in",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-12T09:27:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 854,
+      "title": "AOS not working in IONIC + React project.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-07T11:08:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 853,
+      "title": "Can not show elements on mobile with disabled option",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-27T18:24:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 852,
+      "title": "`[Deprecation] Listener` added for a 'DOMNodeRemoved' mutation event",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-28T14:12:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 851,
+      "title": "AOS on Solid Start",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-24T17:03:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 850,
+      "title": "Animations are popping in and out on iPhone using Chrome browser",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-04-13T13:37:10Z",
+      "closed_at": "2024-04-13T13:40:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 849,
+      "title": "GH pages and AOS",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-26T22:13:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 848,
+      "title": "New Animation Added in _animations.scss",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-03-26T15:58:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 847,
+      "title": "AOS Animating each time a user visit to section",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-03-26T15:08:09Z",
+      "closed_at": "2024-04-04T11:53:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 846,
+      "title": "Parent element (body) isn't my main content element",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-18T18:31:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 845,
+      "title": "Fix broken hash link in README",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-15T07:55:08Z",
+      "closed_at": "2025-11-08T10:25:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 844,
+      "title": "Fix a very small typo in PULL_REQUEST_TEMPLATE.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-15T06:28:14Z",
+      "closed_at": "2025-11-08T10:25:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 843,
+      "title": "Fix small typo on text",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-15T06:26:42Z",
+      "closed_at": "2025-11-08T10:25:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 842,
+      "title": "Aos not working on Tailwind Css .....",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-08T07:00:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 841,
+      "title": "Not Working With Angular SSR Version 17",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-11T18:52:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 840,
+      "title": "Scrolling",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-05T12:07:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 839,
+      "title": "Aos is not working properly",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-03T04:36:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 838,
+      "title": "How to do an \"exit animation\" manually using AOS?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-15T21:02:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 837,
+      "title": "AOS does not work for fetch data",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-24T07:34:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 836,
+      "title": "Using aos in Astro",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-18T04:31:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 835,
+      "title": " mobile responsive ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-26T13:49:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 834,
+      "title": "not working correctly with Next.js 13.4.19",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-17T18:40:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 833,
+      "title": "Animation trigger too early when using other script like  \"load more\" cards",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-16T18:41:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 832,
+      "title": "Getting a horizontal scrollbar due to AOS. When I set overflow-x: hidden, AOS stops working",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-09T17:56:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 831,
+      "title": "Console Error but the animations still work",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-03T12:12:21Z",
+      "closed_at": "2023-09-03T12:20:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 830,
+      "title": "ScrollTo - anchor link correct position",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-31T15:18:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 829,
+      "title": "RTL support",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-28T11:02:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 828,
+      "title": "Doesn't work as before",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-22T12:29:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 827,
+      "title": "AOS.refresh does not refresh the behaviour",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-18T09:18:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 826,
+      "title": "Is this project DEAD?.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-02T02:36:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 825,
+      "title": "AOS needs to be updated to maintain health！",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-08-01T05:10:47Z",
+      "closed_at": "2024-02-04T03:51:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 824,
+      "title": "My Sticky navbar is bouncing",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-07-13T05:42:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 823,
+      "title": "anchorPlacement doesn't work as global config but works inline.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-30T06:31:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 822,
+      "title": "Dive overlayp wthe the dropdown that use bootstrap-multiselect",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-06-15T18:36:50Z",
+      "closed_at": "2023-08-08T07:33:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 821,
+      "title": "Warning: Prop `className` did not match - Next.js",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-06-09T17:41:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 820,
+      "title": "Vue Js 3, Scroll on AOS Animation not working",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-05-25T07:32:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 819,
+      "title": "Load all AOS effected divs on page load.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-28T11:05:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 818,
+      "title": "Animate Despite not Being Revealed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-12T04:26:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 817,
+      "title": "Flip in from right to left",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-22T15:16:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 816,
+      "title": "AOS - Modify the Maximum Delay",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-18T22:22:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 815,
+      "title": "Using AOS in Astro",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-18T18:36:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 814,
+      "title": "unpkg link broken",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-03-16T00:03:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 813,
+      "title": "Profile pic",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-20T18:38:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 812,
+      "title": "Elements are loading below the actual viewport",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-19T23:20:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 811,
+      "title": "Feature Request: AOS Responsive (Enable animations based on screen size)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-13T18:13:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 810,
+      "title": "Elements appearing in the wrong order using aos-delay",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-12T05:42:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 809,
+      "title": "When I click on Isotope portfolio Filter button, then rest of content with \"data-aos\" which after Isotope section are not working. \"aos-animate\" class not adding.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-02-09T06:13:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 808,
+      "title": "Travel web",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-31T17:34:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 807,
+      "title": "Using AOS in ANGULAR",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-31T11:48:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 806,
+      "title": "How to use different animation on different views",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-26T02:09:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 805,
+      "title": "Animations laggy in IOS Facebook/Messenger built-in browser",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-23T20:31:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 804,
+      "title": "AOS Fade-Up effect doesn't work with Parallax scrolling",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-01-06T10:17:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 803,
+      "title": "Problems with aos animation activation on laptop and mobile version(filters)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-25T15:58:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 802,
+      "title": "Scrolling issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-21T13:04:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 801,
+      "title": "滚动页面的时候，设置aos动画的dom无效。When scrolling the page, the dom for setting aos animation is invalid",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-11T04:39:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 800,
+      "title": "Bump qs from 6.3.2 to 6.3.3",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-08T22:18:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 799,
+      "title": "how do i use aos in next js?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-11-26T20:35:51Z",
+      "closed_at": "2022-12-10T14:07:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 798,
+      "title": "anchorPlacement option does not work correctly",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-19T16:07:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 797,
+      "title": "Aos and fancybox/glightbox cannot be used at the same time ， how can I  solve the problem ?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-11-05T12:04:36Z",
+      "closed_at": "2022-11-05T13:39:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 796,
+      "title": "using slide-right or left make animation broke in mobile and doesnt animate while scrolling",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-02T16:50:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 795,
+      "title": "For example if we have fade-left effect when we scroll down we get the effect of fade but when we scroll-up the fade effect gets reversed, which dowsn't look good",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-31T17:54:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 794,
+      "title": "How to use AOS with Nuxt.js?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-20T14:38:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 793,
+      "title": "Useful Animation ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-10-17T02:41:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 792,
+      "title": "This AOS animation is not responsive",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-09-13T03:27:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 791,
+      "title": "How to use AOS with Horizontal scroll websites? ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-07T18:13:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 790,
+      "title": "Using aos with npm and @import",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-06T13:57:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 789,
+      "title": "Animations didn't load every time when i load website",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-05T18:05:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 788,
+      "title": "excess of width with data-aos=\"fade-left\"",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-05T04:09:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 787,
+      "title": "Cannot be using as submodule",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-09-02T18:39:56Z",
+      "closed_at": "2022-09-02T18:43:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 786,
+      "title": "Duration of 0 set through data attributes gets default behavior",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-26T15:50:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 785,
+      "title": "Animations only once",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-13T06:37:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 784,
+      "title": "using a map function over an array of objects",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-11T01:33:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 783,
+      "title": "AOS animations not working using Vite",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-06T22:52:52Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 782,
+      "title": "Replaced If statements",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-08-01T15:30:19Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 781,
+      "title": "Replaced conditional Operator",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-08-01T09:28:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 780,
+      "title": "add",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-07-20T07:18:44Z",
+      "closed_at": "2022-07-20T07:19:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 779,
+      "title": "unable to build app with aos (dev server working)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-07-10T22:12:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "michalsnik",
+      "contributions": 80
+    },
+    {
+      "login": "pudek357",
+      "contributions": 10
+    },
+    {
+      "login": "greenkeeper[bot]",
+      "contributions": 8
+    },
+    {
+      "login": "UltimateDesignCombatant",
+      "contributions": 2
+    },
+    {
+      "login": "adriandmitroca",
+      "contributions": 1
+    },
+    {
+      "login": "coliff",
+      "contributions": 1
+    },
+    {
+      "login": "iaian",
+      "contributions": 1
+    },
+    {
+      "login": "jmartsch",
+      "contributions": 1
+    },
+    {
+      "login": "LasseRafn",
+      "contributions": 1
+    },
+    {
+      "login": "LucaRosaldi",
+      "contributions": 1
+    },
+    {
+      "login": "ncoden",
+      "contributions": 1
+    },
+    {
+      "login": "cassvearls",
+      "contributions": 1
+    },
+    {
+      "login": "epoberezhny",
+      "contributions": 1
+    },
+    {
+      "login": "vcfvct",
+      "contributions": 1
+    },
+    {
+      "login": "vollyimnetz",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-10-26T12:03:11.743271Z"
+}

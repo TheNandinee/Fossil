@@ -1,0 +1,1840 @@
+{
+  "full_name": "YMFE/yapi",
+  "owner": "YMFE",
+  "name": "yapi",
+  "url": "https://github.com/YMFE/yapi",
+  "description": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台",
+  "primary_language": "JavaScript",
+  "topics": [
+    "api",
+    "api-management",
+    "api-manager",
+    "api-test"
+  ],
+  "license_spdx": "Apache-2.0",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 27701,
+  "forks": 4803,
+  "open_issues": 1626,
+  "created_at": "2016-05-30T09:09:09Z",
+  "pushed_at": "2024-08-12T09:29:34Z",
+  "updated_at": "2026-10-26T11:43:10Z",
+  "commits": [
+    {
+      "sha": "59bade3a8a43e7db077d38a4b0c7c584f30ddf8c",
+      "author_login": "ariesly15",
+      "authored_at": "2022-11-01T15:00:20Z",
+      "message": "Bugfix 2022 11 01  (#2628)"
+    },
+    {
+      "sha": "ed6771a25a5437562f6a7c277d86a778436a0769",
+      "author_login": "ariesly15",
+      "authored_at": "2021-10-13T09:45:12Z",
+      "message": "chore: Merge branch hotfix"
+    },
+    {
+      "sha": "300b998f91d5348b278934fdc41b479fff86c13b",
+      "author_login": "ariesly15",
+      "authored_at": "2021-10-13T09:41:00Z",
+      "message": "Merge branch 'hotfix' of https://github.com/YMFE/yapi"
+    },
+    {
+      "sha": "33aafdf9da8c62381e4a7f32ea4ca0a1f1cd2ef2",
+      "author_login": "ariesly15",
+      "authored_at": "2021-10-13T08:59:19Z",
+      "message": "chore: 更新前端静态文件,增加测试文件,增加code format 配置文件,增加自动生成changelog工具"
+    },
+    {
+      "sha": "568434f782dad5de04822e058aa259e2dffcde4f",
+      "author_login": "ariesly15",
+      "authored_at": "2021-10-13T08:49:18Z",
+      "message": "Merge branch feature-pr of https://github.com/YMFE/yapi into hotfix"
+    },
+    {
+      "sha": "5bab76c14429e7fb46f16d7b0d06851cf98b82e1",
+      "author_login": "ariesly15",
+      "authored_at": "2021-10-12T08:33:28Z",
+      "message": "fix: issues 2357"
+    },
+    {
+      "sha": "01207e29cdceba2ea783d6e06b983cc34b283d51",
+      "author_login": "ariesly15",
+      "authored_at": "2021-10-12T06:57:14Z",
+      "message": "fix: [2361] 修复所有分类被删除时,同步问题. 解决方案: 增加 \"默认分类\""
+    },
+    {
+      "sha": "4d24c397483d2703e85c6977236270f52edf2d70",
+      "author_login": "tangcent",
+      "authored_at": "2021-10-12T03:20:56Z",
+      "message": "feat: add nonexistent tags from `/interface/(add/up/save)` (#1918)"
+    },
+    {
+      "sha": "31f2773e0cbe1b44ecf3cfe429f567a2b08b8ebc",
+      "author_login": "lagudomeze",
+      "authored_at": "2021-10-12T03:17:41Z",
+      "message": "Update db.js (#2077)"
+    },
+    {
+      "sha": "219fab4afc431d627e0eb907567def08043bda2f",
+      "author_login": "ariesly15",
+      "authored_at": "2021-08-30T07:29:05Z",
+      "message": "chore: update versions to 1.10.1"
+    },
+    {
+      "sha": "0f859bad6c22043bda808f0007820211cf5af6c8",
+      "author_login": "ariesly15",
+      "authored_at": "2021-08-30T07:27:00Z",
+      "message": "opti: update static file"
+    },
+    {
+      "sha": "b679bd28093e874c51ccb73279bda7ea2ff8a740",
+      "author_login": null,
+      "authored_at": "2021-08-30T03:46:32Z",
+      "message": "Hotfix, update v1.10.0 (#2324)"
+    },
+    {
+      "sha": "f0ccacedd671a93548c539343beeb3922aaab225",
+      "author_login": "ariesly15",
+      "authored_at": "2021-08-30T03:39:20Z",
+      "message": "chore: Version to 1.10.0"
+    },
+    {
+      "sha": "f0d533b82af7cd1851dc194c6fd2f9db8c4006d3",
+      "author_login": "ariesly15",
+      "authored_at": "2021-08-30T03:38:34Z",
+      "message": "chore: Version to 1.9.5"
+    },
+    {
+      "sha": "bc8f6ee0e7d07afc0251f8e466f6c161812558f3",
+      "author_login": "ariesly15",
+      "authored_at": "2021-08-30T03:31:49Z",
+      "message": "Merge branch 'master' of https://github.com/YMFE/yapi into hotfix"
+    },
+    {
+      "sha": "e6d04423e14ee0ca6f5194e8d5adb9bd84ba5d8e",
+      "author_login": "ariesly15",
+      "authored_at": "2021-08-30T03:25:17Z",
+      "message": "opti: up static file"
+    },
+    {
+      "sha": "457008e68f721c642bfd04f8ef97e06eb5f98ae3",
+      "author_login": "ariesly15",
+      "authored_at": "2021-08-25T07:13:03Z",
+      "message": "chore: up version to 1.9.4"
+    },
+    {
+      "sha": "3de66a6187849af509172103847a442fb8608864",
+      "author_login": null,
+      "authored_at": "2021-08-25T06:44:28Z",
+      "message": "fix: 修复沙盒越权 (#2320)"
+    },
+    {
+      "sha": "3870c5f91dfa5712050245953ab5c44006b2d7c0",
+      "author_login": null,
+      "authored_at": "2021-08-25T06:43:42Z",
+      "message": "Hotfix (#2319)"
+    },
+    {
+      "sha": "434e88b2c7dca0d34ea2db40a7acf6cbb6929afe",
+      "author_login": "sp0cket",
+      "authored_at": "2021-08-25T06:04:47Z",
+      "message": "feat: 为字段添加title描述 (#2112)"
+    },
+    {
+      "sha": "6e0136b967b3a08657f4c8a5c8bddb8a2cffc8da",
+      "author_login": "jixiaolong",
+      "authored_at": "2021-08-25T06:03:48Z",
+      "message": "Update app.js (#2031)"
+    },
+    {
+      "sha": "c7638de06307c921987bd6e61c7272d4c1327b61",
+      "author_login": "kayie77",
+      "authored_at": "2021-08-24T08:57:38Z",
+      "message": "Fix interfaceCol 报错'col_id不能为空' (#1839)"
+    },
+    {
+      "sha": "21341345fd3bdf753588deb6715151bdc8659ee7",
+      "author_login": null,
+      "authored_at": "2021-08-24T08:19:56Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "fea093be49c5a9ceea2f9e388b4c87ff3f794d47",
+      "author_login": "tangcent",
+      "authored_at": "2021-08-24T08:01:34Z",
+      "message": "fix: delete follow info while delete project (#1691)"
+    },
+    {
+      "sha": "83aa61e50905ca700a19aad248c964ce8eed4ff7",
+      "author_login": "spiritree",
+      "authored_at": "2021-08-24T08:00:30Z",
+      "message": "feat: 屏幕宽度小的情况下，鼠标hover接口名称能显示出全部的接口名称 (#1814)"
+    },
+    {
+      "sha": "6d2a93866c7fed41b18709ffe473eab81057ce82",
+      "author_login": "tangcent",
+      "authored_at": "2021-08-24T07:56:53Z",
+      "message": "fix: check curProject before call Object.keys (#1917)"
+    },
+    {
+      "sha": "75cc993b3d3b50dcc58d38b05f70811c5b1b226d",
+      "author_login": "lixuanqun",
+      "authored_at": "2021-08-24T07:56:00Z",
+      "message": "fix: fix the ProjectData style disorder,修复样式错乱问题 (#1866)"
+    },
+    {
+      "sha": "79f3dc7138846f32ae7e0664e8cc4f556f278c23",
+      "author_login": "monkeyWie",
+      "authored_at": "2021-08-24T07:47:12Z",
+      "message": "fix: 修复swagger url导入不支持中文的问题 (#2059)"
+    },
+    {
+      "sha": "8abfe2e7dfd84f02a3f4121d030e634d6378c090",
+      "author_login": "jiangzm",
+      "authored_at": "2021-08-24T07:29:27Z",
+      "message": "fix: Repeated error messages in the validation results (#2142)"
+    },
+    {
+      "sha": "2acd65bb8a271f5ec7781bd54e7e8a836d823791",
+      "author_login": "netcore-jroger",
+      "authored_at": "2021-08-24T07:27:38Z",
+      "message": "chore: update copyright info. (#2144)"
+    },
+    {
+      "sha": "736ab4c17e6149639c1d218a8c0fd7856205b6a8",
+      "author_login": null,
+      "authored_at": "2021-08-24T07:15:08Z",
+      "message": "fix: fixed install error (#2230)"
+    },
+    {
+      "sha": "a7aca84aafeddb8e47ccf80dfcb58699852a25d8",
+      "author_login": null,
+      "authored_at": "2021-08-24T06:39:22Z",
+      "message": "fix: 修复导出html接口文档时，不同目录下有相同接口名导致的接口错位问题 (#2270) (#2316)"
+    },
+    {
+      "sha": "47ebd8bc4fb4419cd04aabd4a28b94c0a7ac2e4d",
+      "author_login": "bingyiyu1",
+      "authored_at": "2021-08-24T06:25:54Z",
+      "message": "fix: 修复导出html接口文档时，不同目录下有相同接口名导致的接口错位问题 (#2270)"
+    },
+    {
+      "sha": "f8a3d94c61322430759702133205fa254b63e31a",
+      "author_login": null,
+      "authored_at": "2021-08-24T03:32:19Z",
+      "message": "Merge pull request #2246 from williamlsh/master"
+    },
+    {
+      "sha": "815583f911a444d9f4d8776d6975e860a5366abf",
+      "author_login": null,
+      "authored_at": "2021-08-23T07:47:43Z",
+      "message": "Merge pull request #2185 from NoBugBoy/master"
+    },
+    {
+      "sha": "0eb16a779ca703eb374e420b1bc86ff859ff9662",
+      "author_login": null,
+      "authored_at": "2021-08-23T07:47:34Z",
+      "message": "Merge branch 'master' into master"
+    },
+    {
+      "sha": "d2e67414d58c7f69439b2fb96f87ab99739d63dd",
+      "author_login": null,
+      "authored_at": "2021-08-23T07:46:39Z",
+      "message": "Merge pull request #1621 from jruif/patch-1"
+    },
+    {
+      "sha": "d6f2595326f8eb13be141a8a64814296addbbbbb",
+      "author_login": null,
+      "authored_at": "2021-08-23T07:46:29Z",
+      "message": "Merge branch 'master' into patch-1"
+    },
+    {
+      "sha": "a5b802f6121801e0b36fbaf289274b0846428579",
+      "author_login": null,
+      "authored_at": "2021-08-23T07:45:31Z",
+      "message": "Merge pull request #1727 from BillLucky/patch-1"
+    },
+    {
+      "sha": "c66e38c556aa13b1c297f40829c1c02028688a3c",
+      "author_login": null,
+      "authored_at": "2021-08-23T07:45:12Z",
+      "message": "Merge pull request #1969 from xiuxiuing/master"
+    },
+    {
+      "sha": "3181f0cf2b0c4e53f3973182eff935f50ce10cd3",
+      "author_login": null,
+      "authored_at": "2021-08-23T07:44:59Z",
+      "message": "Merge pull request #2011 from JarLob/patch-1"
+    },
+    {
+      "sha": "c51a45a8f7d9b265779ff695aca0039e65f90bb9",
+      "author_login": null,
+      "authored_at": "2021-08-23T07:44:45Z",
+      "message": "Update SECURITY.md"
+    },
+    {
+      "sha": "e8965a66d899a78b830d35a58c464957d3d8d078",
+      "author_login": null,
+      "authored_at": "2021-08-23T07:43:35Z",
+      "message": "Merge pull request #2030 from duicym/master"
+    },
+    {
+      "sha": "709425367addcc46ae3fcdb9abea4c6eaa50007e",
+      "author_login": null,
+      "authored_at": "2021-08-23T07:42:55Z",
+      "message": "Merge pull request #2182 from CodeOcenS/master"
+    },
+    {
+      "sha": "4b8d85ab2de59865cfb02f37db1210639f82350e",
+      "author_login": null,
+      "authored_at": "2021-08-23T07:40:42Z",
+      "message": "Merge pull request #2311 from lkqm/patch-1"
+    },
+    {
+      "sha": "a53dafaa81be42b1ba0d41bec0712b5de25786a9",
+      "author_login": "lkqm",
+      "authored_at": "2021-08-21T08:34:46Z",
+      "message": "doc: 增加Yapi X文档生成插件链接"
+    },
+    {
+      "sha": "f6086338fd95c8446c916908e7018d134b724874",
+      "author_login": "duicym",
+      "authored_at": "2021-08-17T02:30:24Z",
+      "message": "Merge branch 'YMFE:master' into master"
+    },
+    {
+      "sha": "d7e06446a61acb28fabe4bdc70b7099e133eec83",
+      "author_login": "ariesly15",
+      "authored_at": "2021-07-20T05:46:22Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d4c4cd177bcdd2cfa950937d1c7bddd10a213fcf",
+      "author_login": "williamlsh",
+      "authored_at": "2021-07-11T01:56:27Z",
+      "message": "Add new docker deployment solution."
+    },
+    {
+      "sha": "e2a1b2d1c8f52b9ad03e432ffc3f726621796646",
+      "author_login": "ariesly15",
+      "authored_at": "2021-06-25T04:19:28Z",
+      "message": "Merge pull request #2220 from YMFE/fix_sandbox_bug"
+    },
+    {
+      "sha": "37f7e55a07ca1c236cff6b0f0b00e6ec5063c58e",
+      "author_login": "ariesly15",
+      "authored_at": "2021-06-25T03:57:19Z",
+      "message": "fix: fixed_sandbox_bug"
+    },
+    {
+      "sha": "10164dc2ca79084d537ad2ea37b83496a4527f91",
+      "author_login": "NoBugBoy",
+      "authored_at": "2021-04-29T03:47:10Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "df1fb4154cd6ced452f642265074e338b513714a",
+      "author_login": "CodeOcenS",
+      "authored_at": "2021-04-28T13:02:30Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "43794487aa596204484fbf7e6f9ced0ae0e0086a",
+      "author_login": "duicym",
+      "authored_at": "2020-12-10T12:29:40Z",
+      "message": "Update plugin-list.md"
+    },
+    {
+      "sha": "54f80ac862d7e6e4bb3b2608c646249ea86669ab",
+      "author_login": "JarLob",
+      "authored_at": "2020-12-01T09:01:23Z",
+      "message": "Create SECURITY.md"
+    },
+    {
+      "sha": "c12d5de71f519d755625c4e47cfd17fe0ebce2b0",
+      "author_login": null,
+      "authored_at": "2020-10-26T07:13:46Z",
+      "message": "update README.md"
+    },
+    {
+      "sha": "8e1f6546d52ad6a3f8d3ce3325eb1d0276209f4c",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-10-11T04:27:30Z",
+      "message": "Merge pull request #1331 from LiPinghai/hotfix"
+    },
+    {
+      "sha": "144a9167563af3927c5965ebe26690cdd1d2139d",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-10-11T04:26:57Z",
+      "message": "Merge pull request #1497 from tangcent/fix#1493"
+    },
+    {
+      "sha": "bc77adc22f209223eba5632faa1eb4732433a813",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-10-10T11:22:29Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "0048715ac90377ff04348687effd3b0358e6bcdc",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-10-10T11:19:37Z",
+      "message": "Merge pull request #1893 from lifeixiang027/master"
+    },
+    {
+      "sha": "1e71c17660ec051e269f524cb756c5df11d0a448",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-10-10T11:18:53Z",
+      "message": "Merge pull request #1942 from chenguangwu/master"
+    },
+    {
+      "sha": "d4304ba470ec8b50a95c59a98ce1466278fa0e5f",
+      "author_login": "chenguangwu",
+      "authored_at": "2020-09-29T06:39:06Z",
+      "message": "Merge pull request #2 from YMFE/master"
+    },
+    {
+      "sha": "d6e82622c0df91afb30019aacbde3f036d647d67",
+      "author_login": "WebPuY",
+      "authored_at": "2020-09-20T02:28:15Z",
+      "message": "fix: 解决请求用户信息接口的越权漏洞"
+    },
+    {
+      "sha": "4a6fdd3b5c904d103e2a4f9bde37c2accb43b611",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-08-10T14:25:52Z",
+      "message": "Merge pull request #1879 from laowon/fix-exampleInSwaggerJson-lost"
+    },
+    {
+      "sha": "1334fdd212350142887b8a9cc48f2ab932a995c5",
+      "author_login": "lfx027",
+      "authored_at": "2020-08-04T16:15:40Z",
+      "message": "Update run.js"
+    },
+    {
+      "sha": "172d69ddc13f9292f29d106b8dc78dd9e7581825",
+      "author_login": "chenguangwu",
+      "authored_at": "2020-07-30T09:25:43Z",
+      "message": "Merge pull request #1 from YMFE/master"
+    },
+    {
+      "sha": "8636dec58a08f9b29e8f54936147feda0e0d2b04",
+      "author_login": "laowon",
+      "authored_at": "2020-07-24T02:06:17Z",
+      "message": "fix(swaggerjson中formData格式example属性在yapi页面不显示)"
+    },
+    {
+      "sha": "2ca9b34e0ac862f2e5c3cd55da8ff8307e8515d0",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-06-29T03:15:22Z",
+      "message": "Merge pull request #1846 from Ryan-Miao/patch-1"
+    },
+    {
+      "sha": "24e7fbd9d6858a7d8524ac4bc4a0dcfbcc614a20",
+      "author_login": "Ryan-Miao",
+      "authored_at": "2020-06-29T02:38:24Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "99bb83c0722ef52657339822eea494f343b71b90",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-06-11T02:43:54Z",
+      "message": "Merge pull request #1819 from BBBigCat/feat-openapi-export-swagger"
+    },
+    {
+      "sha": "5dff3d6b01ce57f1251b9023d2406c92b2c76f9c",
+      "author_login": null,
+      "authored_at": "2020-06-08T09:11:24Z",
+      "message": "feat: 将导出项目接口文档为 swagger 文件接口加入 openapi"
+    },
+    {
+      "sha": "c3cc42148dda024e85a4211e0f24705415536455",
+      "author_login": null,
+      "authored_at": "2020-05-29T06:11:02Z",
+      "message": "docs: log"
+    },
+    {
+      "sha": "d6b145041f0a82169c7fbe1f6373de6cda084e8a",
+      "author_login": null,
+      "authored_at": "2020-05-29T06:08:56Z",
+      "message": "chore: version"
+    },
+    {
+      "sha": "a236a4ae2a37e81f8e279351abfec7412096f993",
+      "author_login": null,
+      "authored_at": "2020-05-29T06:08:18Z",
+      "message": "Merge branch 'master' of https://github.com/YMFE/yapi"
+    },
+    {
+      "sha": "8fd9819059727f74df3c1b58941579b37e5bcf9b",
+      "author_login": null,
+      "authored_at": "2020-05-29T06:08:02Z",
+      "message": "fix: 高级 mock 无效的bug,增加对登录 email 空格的过滤, deepMath 增加对原型属性过滤"
+    },
+    {
+      "sha": "67e7dcf8be7f086450beabf2878106236a344d51",
+      "author_login": null,
+      "authored_at": "2020-05-27T04:47:35Z",
+      "message": "?bug：syncInterface 接口无更新,修改sync_model的属性失败"
+    },
+    {
+      "sha": "d5c950fdb6fd643ba79870582313375092b5dc61",
+      "author_login": null,
+      "authored_at": "2020-05-27T03:20:18Z",
+      "message": "同步swagger:接口无更新,不保存日志"
+    },
+    {
+      "sha": "d6382fc155dcd9979a89acf3d110380254d9a76c",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-05-22T14:25:59Z",
+      "message": "Merge pull request #1786 from YMFE/revert-1780-fix_Compare"
+    },
+    {
+      "sha": "cc40c39a1c95ae95c41727e585adf9d3af8aacc7",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-05-22T14:23:55Z",
+      "message": "Revert \"fix: use lodash compare json other than lib isDeepMatch\""
+    },
+    {
+      "sha": "a063f382b4d16a233c384377dbaf41632c267993",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-05-22T14:22:50Z",
+      "message": "Merge pull request #1780 from leeonfield/fix_Compare"
+    },
+    {
+      "sha": "8c5001d50e2bdb6c0f1f5fc79943238e7488122d",
+      "author_login": "leeonfield",
+      "authored_at": "2020-05-19T15:18:58Z",
+      "message": "fix: use lodash compare json other than lib compare"
+    },
+    {
+      "sha": "6925c98da734264478da3d7930c2c4cef822c38a",
+      "author_login": null,
+      "authored_at": "2020-04-28T09:45:43Z",
+      "message": "chore: update static file"
+    },
+    {
+      "sha": "a74b77935371a6d0fe4d789cce51ae4e68c76911",
+      "author_login": null,
+      "authored_at": "2020-04-28T09:42:01Z",
+      "message": "fix: 修复因 mongodb 一个废弃报错导致部署不成功问题"
+    },
+    {
+      "sha": "895e9d13390a18eff73f1ef8717c40c37fb8d749",
+      "author_login": null,
+      "authored_at": "2020-04-28T09:16:23Z",
+      "message": "chore: update static file"
+    },
+    {
+      "sha": "461fd57f96601dbf316d8d24fbe36bdf2546aba9",
+      "author_login": null,
+      "authored_at": "2020-04-28T09:14:37Z",
+      "message": "feat: log"
+    },
+    {
+      "sha": "b2fa32e46961a742247ce403caf56fc8394eef42",
+      "author_login": null,
+      "authored_at": "2020-04-28T09:10:06Z",
+      "message": "fix: 测试集闪动问题"
+    },
+    {
+      "sha": "e9e99dc87b636882d2523247c1ba0b1b79acdf10",
+      "author_login": null,
+      "authored_at": "2020-04-28T08:42:25Z",
+      "message": "Merge branch 'master' of https://github.com/YMFE/yapi"
+    },
+    {
+      "sha": "2c9eed93a7b48760d1e8134658cc1a6ef0681cc3",
+      "author_login": "BillLucky",
+      "authored_at": "2020-04-28T08:00:16Z",
+      "message": "doc: Add Megvii.com to readme.md"
+    },
+    {
+      "sha": "396fb48c7583dfa0813a4994eabe3b3857179922",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-04-20T02:46:41Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "0384f700a79372243006e7d01e7194914363b60f",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-04-04T10:07:10Z",
+      "message": "Merge pull request #1631 from vvkkhjt/master"
+    },
+    {
+      "sha": "441ed57e30b3115b57c780c61deb0c7b6a8dd553",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-04-04T10:06:53Z",
+      "message": "Merge pull request #1646 from tangcent/feature/openapi_notice"
+    },
+    {
+      "sha": "98a57d0455a68f4368fd30ef0dc70f92836e8b0d",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-04-04T10:05:01Z",
+      "message": "Merge pull request #1675 from liugddx/master"
+    },
+    {
+      "sha": "ed1b9f3f0307ada911965479fa57276559be121b",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-04-04T10:04:53Z",
+      "message": "Merge pull request #1634 from 2234839/master"
+    },
+    {
+      "sha": "7e055d3336aa63e798c9e0cdc0e67777c84847e8",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-04-04T10:03:50Z",
+      "message": "Merge pull request #1659 from wangchao523/patch-2"
+    },
+    {
+      "sha": "de23caa3b8d2b870d26f19f5a14a62ec18868be8",
+      "author_login": null,
+      "authored_at": "2020-04-03T10:03:44Z",
+      "message": "自动化测试时服务端测试node默认2分钟没有返回就直接断掉连接，可以手动设置一个超时时间。"
+    },
+    {
+      "sha": "4d6132e4e9f67fa2db2e4a252c1468e27b472461",
+      "author_login": "Corey-Wang",
+      "authored_at": "2020-03-24T00:50:46Z",
+      "message": "fix: schema2json传required参数时，导致faker失败"
+    },
+    {
+      "sha": "376473619b9bc81e4fd79710b9af6825ad736dba",
+      "author_login": "hellosean1025",
+      "authored_at": "2020-03-18T09:31:39Z",
+      "message": "Merge pull request #1655 from Forgus/api-generator"
+    },
+    {
+      "sha": "f713557b26083acc4018bfeed19feffbeb60631b",
+      "author_login": null,
+      "authored_at": "2020-03-18T06:12:28Z",
+      "message": "A api-generator"
+    },
+    {
+      "sha": "c6c5f8ddf738cb618aae3d289eefecd4dfe65aba",
+      "author_login": "gaoxiaomumu",
+      "authored_at": "2020-03-11T09:09:25Z",
+      "message": "fix: sandbox"
+    },
+    {
+      "sha": "8e2584a8eb85a8fe2c86134efa4241bdacbf00db",
+      "author_login": "tangcent",
+      "authored_at": "2020-03-10T12:27:09Z",
+      "message": "feat: support switch_notice for /interface/save"
+    }
+  ],
+  "issues": [
+    {
+      "number": 2812,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-09-12T14:57:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2811,
+      "title": "แนะนำ 10 เว็บ สล็อตเว็บตรง เว็บแท้ สล็อต pg เว็บตรง แตกหนัก RTP สูงสุด 98% รับวอเลท ปี2026",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-09-02T01:43:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2810,
+      "title": "ta",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-07-13T20:15:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2809,
+      "title": "Security: RCE via safeify sandbox escape in mock script execution (CWE-94)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-27T06:38:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2808,
+      "title": "体验地址打不开",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-13T04:49:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2807,
+      "title": "2026，自建、线上都有了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-06-12T03:06:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2806,
+      "title": "[讨论] 基于 YApi 二次开发：ApiMind 的 MCP / AI Coding 实践",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-26T09:19:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2805,
+      "title": "IDEA2026.1上传报错，提示token无效",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-22T09:15:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2804,
+      "title": "升级完ideal 2026 1.1 后上穿报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-13T01:59:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2802,
+      "title": "用户使用一段时间后，今天新打开，个人信息这里显示的是刚刚创建。项目权限什么的都无法继承，需要重新添加项目权限",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-05-06T02:04:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2801,
+      "title": "feat: 更新node-sass",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-31T08:07:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2800,
+      "title": "我们开源了一个yapi的平替工具，基于MIT开源并且支持docker部署，兼容所有yapi功能，各位感兴趣的可以下载试试",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-26T05:06:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2799,
+      "title": "fix 攻击入侵",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-23T08:45:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2798,
+      "title": "Three high-risk security issues were found in the project during code audit (the code injection risk of packaged static files is a false positive and no processing is required)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-08T09:34:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2797,
+      "title": "feat: implement copy category functionality (#683)",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-04T04:01:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2796,
+      "title": "feat: support openapi 3.1 import/export",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-29T01:18:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2795,
+      "title": "【开源项目推荐】一个基于仿生学原理构建的 AI Agent 记忆管理系统【艾宾浩斯遗忘曲线】",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-17T13:46:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2794,
+      "title": ".",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-12-11T08:32:46Z",
+      "closed_at": "2025-12-11T08:32:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2793,
+      "title": "fix tests",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-11-29T18:19:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2791,
+      "title": "YApi--SSRF（Server-Side Request Forgery）",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-06T07:24:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2790,
+      "title": "Privilege Escalation Vulnerability in API Allows Unauthorized Addition to Projects with Highest Permissions",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-06T06:01:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2789,
+      "title": "二开-想要替换yapi名称和图标涉及到哪些文件",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-22T08:54:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2788,
+      "title": "插件启用后，xxljob执行任务的按钮点击无反应 ，其他网站也可能存在类似问题，遇到过好几次，需要关闭插件并且刷新页面才能解决",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-13T10:18:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2787,
+      "title": "feat: 添加OpenAPI3支持和Node.js 22兼容性修复",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-09-02T02:10:37Z",
+      "closed_at": "2025-12-26T06:49:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2786,
+      "title": "yapi项目已停止更新超4年了！！大家有什么推荐的替代品？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-08-26T04:01:13Z",
+      "closed_at": "2025-10-02T02:52:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2785,
+      "title": "yapi无法安装 chrom cross-request插件导致 无法使用",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-07-16T07:53:31Z",
+      "closed_at": "2025-07-31T01:49:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2784,
+      "title": "期望 openapi 能够开放根据路径查询接口的接口",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-02T02:11:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2783,
+      "title": "能不能支持只导出/导入某个文件夹的接口，而不是所有的",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-13T03:30:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2782,
+      "title": "如何在Ubuntu 24.04上成功部署YAPI？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-13T01:40:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2781,
+      "title": "新漏洞",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-03T03:07:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2780,
+      "title": "yapi导出的swagge2.0.json 缺失 definitions字段",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-05-29T01:40:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2779,
+      "title": "yapi官网是不是用不了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-05-22T06:33:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2778,
+      "title": "cross-request插件现在chrome浏览器要不支持，没有这个插件无法使用yapi，这怎么解决呢？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-01T00:32:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2777,
+      "title": "体验地址http://yapi.smart-xwork.cn/访问不了？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-18T09:53:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2776,
+      "title": "README.md 文档中安装 yapi-cli 工具的镜像源证书过期了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-14T06:00:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2775,
+      "title": "关于部署问题二三事（成功部署）",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-12T05:48:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2774,
+      "title": "启动时如何配置访问的上下文",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-24T10:30:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2773,
+      "title": "可视化部署报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-02-11T06:09:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2772,
+      "title": "fix: taobao镜像不可用问题",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-01-03T14:02:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2771,
+      "title": "YApi中的Y是什么意思",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-02T07:10:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2770,
+      "title": "更新API tag, 服务器报错，调用 autoAddTag ，params.project_id 为 undefined,",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-24T09:04:55Z",
+      "closed_at": "2024-11-24T09:16:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2769,
+      "title": "设置枚举值，number和integer类型，不能设置为负数",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-24T07:34:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2768,
+      "title": "设置枚举值，number和integer类型，不能设置为负数",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-24T07:28:22Z",
+      "closed_at": "2024-11-24T07:28:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2767,
+      "title": "第一个导入的swagger接口后在接口列表编辑后，又重新导入了swagger，选择的是智能合并，但是yapi里面编辑的必输，备注等都被覆盖掉了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-14T07:51:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2766,
+      "title": "淘宝npm地址更换",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-10-17T13:06:13Z",
+      "closed_at": "2024-10-17T13:07:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2765,
+      "title": "Update user.js",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-09-21T01:57:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2764,
+      "title": "Update user.js",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-09-21T01:54:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2763,
+      "title": "二开一直无法运行起来",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-18T08:02:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2762,
+      "title": "eclipse 插件没有吗？难道不能开发个吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-12T01:48:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2761,
+      "title": "Update npm-publish.js",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-08-12T09:29:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2760,
+      "title": "能否新增加个知识库功能",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-09T10:02:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2759,
+      "title": "新来的朋友看看这个开源替代吧",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-18T09:45:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2757,
+      "title": "因Chrome最新版安全策略限制，不再支持文件上传",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-07-01T02:39:42Z",
+      "closed_at": "2024-07-02T01:39:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2756,
+      "title": "有支持 SSE（Server-Sent Events） 响应的计划吗?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-18T03:12:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2755,
+      "title": "接口文档无法忽略字段",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-17T07:12:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2754,
+      "title": "带有multipart文件请求参数的openapi.json导入进yapi后，请求参数显示不正常",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-04T10:20:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2753,
+      "title": "安装git指导不能搭建起环境的兄弟们可以参考https://blog.csdn.net/xiangxi1204/article/details/138591169",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-22T08:14:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2752,
+      "title": "公司安全扫描出来一些安全问题，不允许使用vm2这个包",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-21T09:24:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2751,
+      "title": "docs: change npm mirror source",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-05-20T06:58:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2750,
+      "title": "在readme中增加yapi-to-code",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-05-20T05:38:10Z",
+      "closed_at": "2025-03-29T05:12:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2749,
+      "title": "请问密码忘记了去哪里修改呢，这个产品设计就有问题啊，难道得登录了才能修改密码?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-14T03:05:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2748,
+      "title": "请问如何重写父类的注释？",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-05-13T03:37:17Z",
+      "closed_at": "2024-05-13T12:09:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2747,
+      "title": "关于 yapi 扩展插件 cross-request 的替代方案",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-13T02:44:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2746,
+      "title": "开发了一个yapi生成代码的工具，想加入你们的工具列表中",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-12T09:38:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2745,
+      "title": "yapi 1.10.2 (2021-10-13) has a stored XSS vulnerability",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-26T02:23:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2744,
+      "title": "导出的 swagger 文档，对于 get 请求丢失了数据类型",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-25T01:55:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2743,
+      "title": "注册报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-24T10:46:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2742,
+      "title": "yapi完全覆盖问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-23T09:59:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2741,
+      "title": "希望导出的时候不展示部分字段",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-18T08:25:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2740,
+      "title": "yapi ldap登录报错用户不存在 ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-12T08:57:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2738,
+      "title": " 无法添加websocket 请求",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-27T01:34:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2737,
+      "title": "集成firebase报错，请问有人集成过吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-11T07:28:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2736,
+      "title": "有问题可提issues到这个项目",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-03-09T09:42:25Z",
+      "closed_at": "2024-09-24T05:08:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2735,
+      "title": "可以创建多个分组，没有删除分组的操作按钮",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-07T12:27:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2734,
+      "title": "aypi api中可以保留类型定义吗",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-29T10:43:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2733,
+      "title": "WebSocket.js:358       else throw new Error('not opened');",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-27T07:11:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2732,
+      "title": "Yapi 后面还有有版本更新吗？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-21T08:26:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2731,
+      "title": "淘宝镜像过期部署失败",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-29T07:08:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2730,
+      "title": "npm run build-client以后页面的高级mock没有了",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-21T07:42:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2729,
+      "title": "你好，想问一下有没有提供helm 或者 Operator 的部署方式",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-27T12:44:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2728,
+      "title": "部署问题",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-27T04:09:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2727,
+      "title": "关于二次开发编译部署的一些心得",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-20T06:43:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2726,
+      "title": "自定义 Mock 脚本也不能使用",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-13T08:04:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2725,
+      "title": "不能支持富文本数据么？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-13T06:07:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2724,
+      "title": "Mongoose版本过低导致的安全漏洞",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-23T11:06:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2723,
+      "title": "1.92版本 ReactDOM.Render报错",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-14T02:44:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2720,
+      "title": "Mongoose Code execution vulnerability caused by prototype chain pollution（CVE-2023-3696）",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-08T09:22:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2719,
+      "title": "如何通过YAPI导出的api接口.html文件再导入到YAPI系统中去?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-07T14:04:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2718,
+      "title": "http://yapi.smart-xwork.cn/麻烦重新打开一下，需要将接口导出来",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-03T01:16:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2717,
+      "title": "我将Content-Type设置为application/json,保存后不生效，始终为application/x-www-form-urlencoded",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-10T02:47:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2716,
+      "title": "Feature Request: ADT(Algebraic Data Type) View",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-21T07:16:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2715,
+      "title": "web页面版本号显示不对？pm2是1.12.0    升级成功了没",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-18T02:49:39Z",
+      "closed_at": "2023-09-18T03:27:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2714,
+      "title": "部分英文字母之间因为大小写的关系，区分困难",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-11T09:14:14Z",
+      "closed_at": "2023-09-11T09:15:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 2713,
+      "title": "fix:修复版本号大于当前版本才提示升级",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-09-01T08:57:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2712,
+      "title": "MongoError: server instance pool was destroyed",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-01T05:44:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2711,
+      "title": "http://yapi.smart-xwork.cn/访问不了，原来百度登录的，账号如何找回",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-28T13:14:55Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2710,
+      "title": "修复#2543",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-08-22T03:04:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2709,
+      "title": "yapi平台的MongoDB服务如何重启？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-21T10:28:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2708,
+      "title": "注册失败",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-15T08:26:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 2707,
+      "title": "接口数据编辑保存失败",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-14T08:59:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "hellosean1025",
+      "contributions": 1793
+    },
+    {
+      "login": "dwb1994",
+      "contributions": 871
+    },
+    {
+      "login": "amnsss",
+      "contributions": 725
+    },
+    {
+      "login": "gaoxiaomumu",
+      "contributions": 583
+    },
+    {
+      "login": "gandao",
+      "contributions": 27
+    },
+    {
+      "login": "lwg529",
+      "contributions": 22
+    },
+    {
+      "login": "ariesly15",
+      "contributions": 17
+    },
+    {
+      "login": "tangcent",
+      "contributions": 13
+    },
+    {
+      "login": "fjc0k",
+      "contributions": 5
+    },
+    {
+      "login": "shouldnotappearcalm",
+      "contributions": 5
+    },
+    {
+      "login": "chenlizhi55",
+      "contributions": 4
+    },
+    {
+      "login": "hello-lizhihua",
+      "contributions": 4
+    },
+    {
+      "login": "kangofchen",
+      "contributions": 4
+    },
+    {
+      "login": "dependabot[bot]",
+      "contributions": 3
+    },
+    {
+      "login": "yuu2lee4",
+      "contributions": 3
+    },
+    {
+      "login": "BillLucky",
+      "contributions": 3
+    },
+    {
+      "login": "jayZOU",
+      "contributions": 3
+    },
+    {
+      "login": "spiritree",
+      "contributions": 2
+    },
+    {
+      "login": "2234839",
+      "contributions": 2
+    },
+    {
+      "login": "congqiu",
+      "contributions": 2
+    },
+    {
+      "login": "onvno",
+      "contributions": 2
+    },
+    {
+      "login": "wxxcarl",
+      "contributions": 2
+    },
+    {
+      "login": "jason-joo",
+      "contributions": 2
+    },
+    {
+      "login": "duicym",
+      "contributions": 2
+    },
+    {
+      "login": "aimuz",
+      "contributions": 2
+    },
+    {
+      "login": "amiezhang",
+      "contributions": 2
+    },
+    {
+      "login": "Ryan-Miao",
+      "contributions": 2
+    },
+    {
+      "login": "redhatxl",
+      "contributions": 2
+    },
+    {
+      "login": "FurionCS",
+      "contributions": 2
+    },
+    {
+      "login": "chenguangwu",
+      "contributions": 2
+    },
+    {
+      "login": "snadn",
+      "contributions": 1
+    },
+    {
+      "login": "sinchang",
+      "contributions": 1
+    },
+    {
+      "login": "sazima",
+      "contributions": 1
+    },
+    {
+      "login": "monkeyWie",
+      "contributions": 1
+    },
+    {
+      "login": "lsqlebai",
+      "contributions": 1
+    },
+    {
+      "login": "leeonfield",
+      "contributions": 1
+    },
+    {
+      "login": "lagudomeze",
+      "contributions": 1
+    },
+    {
+      "login": "kayie77",
+      "contributions": 1
+    },
+    {
+      "login": "johnfwtest",
+      "contributions": 1
+    },
+    {
+      "login": "inceptiongt",
+      "contributions": 1
+    },
+    {
+      "login": "hua1995116",
+      "contributions": 1
+    },
+    {
+      "login": "angelzou",
+      "contributions": 1
+    },
+    {
+      "login": "sp0cket",
+      "contributions": 1
+    },
+    {
+      "login": "vvkkhjt",
+      "contributions": 1
+    },
+    {
+      "login": "laowon",
+      "contributions": 1
+    },
+    {
+      "login": "xianyunyh",
+      "contributions": 1
+    },
+    {
+      "login": "zgs225",
+      "contributions": 1
+    },
+    {
+      "login": "NoBugBoy",
+      "contributions": 1
+    },
+    {
+      "login": "new9xgh",
+      "contributions": 1
+    },
+    {
+      "login": "jixiaolong",
+      "contributions": 1
+    },
+    {
+      "login": "lixuanqun",
+      "contributions": 1
+    },
+    {
+      "login": "qiyulan",
+      "contributions": 1
+    },
+    {
+      "login": "chenxizhong-web",
+      "contributions": 1
+    },
+    {
+      "login": "killpanda",
+      "contributions": 1
+    },
+    {
+      "login": "Corey-Wang",
+      "contributions": 1
+    },
+    {
+      "login": "jiangzm",
+      "contributions": 1
+    },
+    {
+      "login": "Estelle00",
+      "contributions": 1
+    },
+    {
+      "login": "MrGlaucus",
+      "contributions": 1
+    },
+    {
+      "login": "netcore-jroger",
+      "contributions": 1
+    },
+    {
+      "login": "JarLob",
+      "contributions": 1
+    },
+    {
+      "login": "ZsgsDesign",
+      "contributions": 1
+    },
+    {
+      "login": "jruif",
+      "contributions": 1
+    },
+    {
+      "login": "lfx027",
+      "contributions": 1
+    },
+    {
+      "login": "mazusheng",
+      "contributions": 1
+    },
+    {
+      "login": "lkqm",
+      "contributions": 1
+    },
+    {
+      "login": "CodeOcenS",
+      "contributions": 1
+    },
+    {
+      "login": "ityoung",
+      "contributions": 1
+    },
+    {
+      "login": "Snger",
+      "contributions": 1
+    },
+    {
+      "login": "WebPuY",
+      "contributions": 1
+    },
+    {
+      "login": "williamlsh",
+      "contributions": 1
+    },
+    {
+      "login": "xiaohp",
+      "contributions": 1
+    },
+    {
+      "login": "bingyiyu1",
+      "contributions": 1
+    },
+    {
+      "login": "bomee",
+      "contributions": 1
+    },
+    {
+      "login": "follow-my-heart",
+      "contributions": 1
+    },
+    {
+      "login": "gongchao",
+      "contributions": 1
+    },
+    {
+      "login": "MyHerux",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v1.9.3",
+      "published_at": "2021-07-09T09:37:47Z"
+    }
+  ],
+  "collected_at": "2026-10-26T12:03:19.618954Z"
+}

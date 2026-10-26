@@ -1,0 +1,123 @@
+{
+  "full_name": "michalsnik/aos",
+  "cause": "maintainer_abandonment",
+  "confidence": 0.9,
+  "death_score": 0.9,
+  "supporting_evidence": [
+    {
+      "analyzer": "commits",
+      "code": "last_commit_age",
+      "summary": "Last commit was 2944 days ago",
+      "severity": "high",
+      "value": 2944,
+      "unit": "days"
+    },
+    {
+      "analyzer": "issues",
+      "code": "no_responses",
+      "summary": "Issues exist but none received any response",
+      "severity": "high",
+      "value": null,
+      "unit": null
+    },
+    {
+      "analyzer": "releases",
+      "code": "no_releases",
+      "summary": "Project has never published a dated release",
+      "severity": "low",
+      "value": null,
+      "unit": null
+    },
+    {
+      "analyzer": "commits",
+      "code": "commit_frequency",
+      "summary": "Averaged 3.8 commits/month over history",
+      "severity": "info",
+      "value": 3.83,
+      "unit": "commits/month"
+    }
+  ],
+  "analyses": [
+    {
+      "analyzer": "commits",
+      "evidence": [
+        {
+          "analyzer": "commits",
+          "code": "last_commit_age",
+          "summary": "Last commit was 2944 days ago",
+          "severity": "high",
+          "value": 2944,
+          "unit": "days"
+        },
+        {
+          "analyzer": "commits",
+          "code": "commit_frequency",
+          "summary": "Averaged 3.8 commits/month over history",
+          "severity": "info",
+          "value": 3.83,
+          "unit": "commits/month"
+        }
+      ],
+      "metrics": {
+        "analyzer": "commits",
+        "metrics": {
+          "commit_count_window": 100.0,
+          "days_since_last_commit": 2944.5,
+          "commits_per_month": 3.83
+        }
+      }
+    },
+    {
+      "analyzer": "contributors",
+      "evidence": [],
+      "metrics": {
+        "analyzer": "contributors",
+        "metrics": {
+          "contributor_count": 15.0,
+          "total_contributions": 111.0,
+          "top_contributor_share": 0.721
+        }
+      }
+    },
+    {
+      "analyzer": "issues",
+      "evidence": [
+        {
+          "analyzer": "issues",
+          "code": "no_responses",
+          "summary": "Issues exist but none received any response",
+          "severity": "high",
+          "value": null,
+          "unit": null
+        }
+      ],
+      "metrics": {
+        "analyzer": "issues",
+        "metrics": {
+          "issue_count": 84.0,
+          "open_issue_count": 76.0
+        }
+      }
+    },
+    {
+      "analyzer": "releases",
+      "evidence": [
+        {
+          "analyzer": "releases",
+          "code": "no_releases",
+          "summary": "Project has never published a dated release",
+          "severity": "low",
+          "value": null,
+          "unit": null
+        }
+      ],
+      "metrics": {
+        "analyzer": "releases",
+        "metrics": {
+          "release_count": 0.0
+        }
+      }
+    }
+  ],
+  "narrative": null
+}
