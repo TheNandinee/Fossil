@@ -1,0 +1,1614 @@
+{
+  "full_name": "kkroening/ffmpeg-python",
+  "owner": "kkroening",
+  "name": "ffmpeg-python",
+  "url": "https://github.com/kkroening/ffmpeg-python",
+  "description": "Python bindings for FFmpeg - with complex filtering support",
+  "primary_language": "Python",
+  "topics": [],
+  "license_spdx": "Apache-2.0",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 11010,
+  "forks": 948,
+  "open_issues": 524,
+  "created_at": "2017-05-14T05:25:44Z",
+  "pushed_at": "2024-08-04T00:07:08Z",
+  "updated_at": "2026-11-02T04:38:26Z",
+  "commits": [
+    {
+      "sha": "df129c7ba30aaa9ffffb81a48f53aa7253b0b4e6",
+      "author_login": "cclauss",
+      "authored_at": "2022-07-11T21:03:07Z",
+      "message": "Let's implicitly fix a typo (#681)"
+    },
+    {
+      "sha": "35886c970c7b3a757115f5a7b6fd1753e64832ce",
+      "author_login": "cclauss",
+      "authored_at": "2022-07-11T21:02:31Z",
+      "message": " Upgrade GitHub Actions again (#679)"
+    },
+    {
+      "sha": "ef00863269588f79031a56a17509198ded8b8da2",
+      "author_login": "kkroening",
+      "authored_at": "2022-07-11T20:51:06Z",
+      "message": "Fix Black in GHA for Python 2.7 (#680)"
+    },
+    {
+      "sha": "ed70f2e619f67e7cd7351958ff162f1ba5b7964e",
+      "author_login": "cclauss",
+      "authored_at": "2022-07-11T20:39:36Z",
+      "message": "Upgrade GitHub Actions (#643)"
+    },
+    {
+      "sha": "fc41f4aa84084bfae6e2db6a5a1fe7949bb28bae",
+      "author_login": "ljhcage",
+      "authored_at": "2022-03-07T09:55:30Z",
+      "message": "Fix `heigth` -> `height` typo (#596)"
+    },
+    {
+      "sha": "6189cd6861a90f6f52e6a8ba2db0fada54134194",
+      "author_login": "tirkarthi",
+      "authored_at": "2022-03-07T09:46:52Z",
+      "message": "Import ABC from collections.abc for Python 3.9+ compatibility (#330)"
+    },
+    {
+      "sha": "cb9d400467014dd371ff5bb24d86be3fa6df8a2b",
+      "author_login": "kkroening",
+      "authored_at": "2022-03-07T09:19:09Z",
+      "message": "Add FFmpeg installation instructions (#642)"
+    },
+    {
+      "sha": "29b6f0929805b09a20184a1d4500bf31e4dbc138",
+      "author_login": "kkroening",
+      "authored_at": "2022-03-07T08:05:43Z",
+      "message": "Use GitHub Actions for CI. (#641)"
+    },
+    {
+      "sha": "fd1da13f110ad4d20ab768bfafaeef36dce2862f",
+      "author_login": "kkroening",
+      "authored_at": "2022-03-06T21:24:40Z",
+      "message": "Re-apply Black formatting, and wrap docstrings at ~88 columns. (#639)"
+    },
+    {
+      "sha": "f3079726fae7b7b71e4175f79c5eeaddc1d205fb",
+      "author_login": "depau",
+      "authored_at": "2021-02-16T22:27:34Z",
+      "message": "Merge pull request #494 from kkroening/revert-493-revert-430-master"
+    },
+    {
+      "sha": "807aaccb14ac495608b51425b03e7e46227180e3",
+      "author_login": "depau",
+      "authored_at": "2021-02-16T22:26:53Z",
+      "message": "Revert \"Revert \"Implemented cwd parameter\"\""
+    },
+    {
+      "sha": "cc1f664fb479f4980edeb7913107c0e54317f27c",
+      "author_login": "depau",
+      "authored_at": "2021-02-16T21:55:10Z",
+      "message": "Merge pull request #493 from kkroening/revert-430-master"
+    },
+    {
+      "sha": "c764166f442a4b726c05a4d340f3e53cb11a497a",
+      "author_login": "depau",
+      "authored_at": "2021-02-16T21:54:27Z",
+      "message": "Revert \"Implemented cwd parameter\""
+    },
+    {
+      "sha": "4974364d177ebdeefd4cd1f3198ae2c03c8c0402",
+      "author_login": "depau",
+      "authored_at": "2021-02-15T17:45:52Z",
+      "message": "Merge pull request #430 from Jacotsu/master"
+    },
+    {
+      "sha": "80e99cbb38484e0e72e462b24599c756551e9a05",
+      "author_login": "depau",
+      "authored_at": "2020-12-13T04:24:28Z",
+      "message": "Merge pull request #433 from 372046933/patch-1"
+    },
+    {
+      "sha": "861b453b43675620c7a4ab30723a3c67ec6c8830",
+      "author_login": "372046933",
+      "authored_at": "2020-10-15T09:18:00Z",
+      "message": "Fix typo in _run.py docstring"
+    },
+    {
+      "sha": "0612a44f91316640cd67ec39359fa6b3c085357a",
+      "author_login": "depau",
+      "authored_at": "2020-12-06T22:54:08Z",
+      "message": "Merge pull request #417 from 0x3333/master"
+    },
+    {
+      "sha": "e044890010bc18a07842c17dfe7f43d092660756",
+      "author_login": "depau",
+      "authored_at": "2020-12-03T16:01:40Z",
+      "message": "Merge pull request #440 from raulpy271/master"
+    },
+    {
+      "sha": "5b6b58308fc81e8671e433f340f8648b081a2b5b",
+      "author_login": "raulpy271",
+      "authored_at": "2020-12-02T17:19:53Z",
+      "message": "Replacing `server_url` content, `\"http://localhost:8080\"` to `\"http://127.0.0.1:8080\"`."
+    },
+    {
+      "sha": "29315809084a04a32b3983ba4d4e3811fe5163bb",
+      "author_login": "depau",
+      "authored_at": "2020-12-02T14:57:14Z",
+      "message": "Merge pull request #442 from revolter/patch-1"
+    },
+    {
+      "sha": "08e50ac02c3e2188135ddcb27f98749cb2772a09",
+      "author_login": "revolter",
+      "authored_at": "2020-11-08T10:51:35Z",
+      "message": "Add command line arguments FAQ"
+    },
+    {
+      "sha": "15ffcc0c7275443e2c4f13e3e4a9ebd6dd5503dc",
+      "author_login": "raulpy271",
+      "authored_at": "2020-10-30T21:41:59Z",
+      "message": "adding http server example"
+    },
+    {
+      "sha": "0ec6e69d885f9f75a3220f94b79273f288005049",
+      "author_login": "0x3333",
+      "authored_at": "2020-10-30T20:29:44Z",
+      "message": "Redirect stderr to stdout and stdout to DEVNULL when quiet is requested."
+    },
+    {
+      "sha": "17995f5ff3ab77f3b6736783c4b180283ec0fc15",
+      "author_login": "Jacotsu",
+      "authored_at": "2020-10-09T14:53:17Z",
+      "message": "Updated test to check the new cwd parameter"
+    },
+    {
+      "sha": "b64f40a8b56d8ccd822f18be2be6adaf1dcf4db8",
+      "author_login": "Jacotsu",
+      "authored_at": "2020-10-07T16:56:05Z",
+      "message": "Fixed typo in cwd parameter usage"
+    },
+    {
+      "sha": "96fb3ff0506821f006ce9d110aa0d92356d41909",
+      "author_login": "Jacotsu",
+      "authored_at": "2020-10-07T16:52:15Z",
+      "message": "Added parameter to set ffmpeg's working directory"
+    },
+    {
+      "sha": "c12e8890ad9314dd29162c2bb51e876972d60e65",
+      "author_login": "0x3333",
+      "authored_at": "2020-09-16T01:08:51Z",
+      "message": "Fix issue #195. Redirect stdout/stderr to DEVNULL when quiet is requested."
+    },
+    {
+      "sha": "4cb7d26f55208b01b123f07b13108bf4143794e2",
+      "author_login": "kkroening",
+      "authored_at": "2019-12-30T08:23:02Z",
+      "message": "Merge pull request #283 from magnusvmt/master"
+    },
+    {
+      "sha": "8809a54cffed054e28ebfef328cbab9246f5801d",
+      "author_login": "kkroening",
+      "authored_at": "2019-12-30T08:20:24Z",
+      "message": "Merge pull request #245 from cclauss/patch-1"
+    },
+    {
+      "sha": "b14785b61bdebf6b8747f5be06a76da4f113ba55",
+      "author_login": "kkroening",
+      "authored_at": "2019-12-30T08:19:42Z",
+      "message": "Merge pull request #247 from kylemcdonald/patch-1"
+    },
+    {
+      "sha": "2d3a078f24309f8d189ea196b54011632e3afb20",
+      "author_login": "magnusvmt",
+      "authored_at": "2019-11-02T15:17:17Z",
+      "message": "Add test for probe timeout and fix for Python2"
+    },
+    {
+      "sha": "3cef4310457a106ce301a1061d5299d15b041785",
+      "author_login": "kkroening",
+      "authored_at": "2019-11-02T07:05:25Z",
+      "message": "Merge pull request #248 from kylemcdonald/master"
+    },
+    {
+      "sha": "d1f1b64aa9e8f660d0645a980c7745617318ced8",
+      "author_login": "kkroening",
+      "authored_at": "2019-11-02T06:46:50Z",
+      "message": "Merge pull request #287 from hp310780/issue239_typographicalerror"
+    },
+    {
+      "sha": "24633404df949152c6d1e13a1663095c943db02f",
+      "author_login": "kkroening",
+      "authored_at": "2019-11-02T06:46:20Z",
+      "message": "Merge pull request #286 from cmehay/duplicate_parameters"
+    },
+    {
+      "sha": "a8e0954f411a8467d2108ca36cab56d1bc3e0a1e",
+      "author_login": null,
+      "authored_at": "2019-10-31T20:07:38Z",
+      "message": "Fixed typographical error"
+    },
+    {
+      "sha": "2a7a2d78c97125d5d55faf35a319ccdf080646a0",
+      "author_login": null,
+      "authored_at": "2019-10-31T11:02:09Z",
+      "message": "Duplicate parameters can be set in kwargs with an iterator"
+    },
+    {
+      "sha": "82a00e48492f2d787c980c434d58e249c210818e",
+      "author_login": "magnusvmt",
+      "authored_at": "2019-10-28T15:28:51Z",
+      "message": "Add optional timeout argument to probe"
+    },
+    {
+      "sha": "c99e97b6871105a886026027b18e8e3906aaaee4",
+      "author_login": "kylemcdonald",
+      "authored_at": "2019-08-04T22:18:55Z",
+      "message": "added mono to stereo example"
+    },
+    {
+      "sha": "bbd56a35a3fc1c23e0e7c181c5a3d6f9f0db3397",
+      "author_login": "kylemcdonald",
+      "authored_at": "2019-08-04T22:09:40Z",
+      "message": "tensorflow streaming typo"
+    },
+    {
+      "sha": "ed9b7f8804fb07f5bf4e7f6d7373f0107d404c13",
+      "author_login": "cclauss",
+      "authored_at": "2019-07-31T04:32:29Z",
+      "message": "tox.ini: Add py37 to the testing"
+    },
+    {
+      "sha": "c6c2dfdc2882bcf166ed35e8517aad25a6c2bfe8",
+      "author_login": "cclauss",
+      "authored_at": "2019-07-31T04:30:22Z",
+      "message": "Travis CI: Add Python 3.7 to the tests"
+    },
+    {
+      "sha": "78fb6cf2f11cb93c6071c978a92a640f5743a9fb",
+      "author_login": "kkroening",
+      "authored_at": "2019-07-06T00:17:30Z",
+      "message": "Release 0.2.0"
+    },
+    {
+      "sha": "1c9695d2a0b079e5d1e9d6fb3ecbeaf248b365a9",
+      "author_login": "kkroening",
+      "authored_at": "2019-07-06T00:16:43Z",
+      "message": "Run Black code formatter"
+    },
+    {
+      "sha": "c14efc9a194b4525f092382ce90d96117d9f35d0",
+      "author_login": "kkroening",
+      "authored_at": "2019-07-06T00:15:23Z",
+      "message": "Merge pull request #230 from komar007/fix_multiple_output_order"
+    },
+    {
+      "sha": "732bf213974a7e433f97fac6aacf48e70c302452",
+      "author_login": "komar007",
+      "authored_at": "2019-07-01T13:55:10Z",
+      "message": "Label-based order of outputs from multiple-output filters"
+    },
+    {
+      "sha": "faca0ee87b01742d08b30469451ccef4bfaad065",
+      "author_login": "komar007",
+      "authored_at": "2019-07-01T13:39:55Z",
+      "message": "Test against wrong order of outputs from multiple-output filters"
+    },
+    {
+      "sha": "63973d0b29cd5b1db6be79f41b05763d60f24c33",
+      "author_login": "kkroening",
+      "authored_at": "2019-06-29T03:14:44Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ab42ab4dfc33f09d575d3f2a345686137880c8d0",
+      "author_login": "kkroening",
+      "authored_at": "2019-06-10T22:52:48Z",
+      "message": "Merge pull request #213 from kkroening/black"
+    },
+    {
+      "sha": "fff79e6b9358e6903db3c0f830d0c9a04a612dd0",
+      "author_login": "kkroening",
+      "authored_at": "2019-06-10T22:42:39Z",
+      "message": "Merge remote-tracking branch 'origin/master' into black"
+    },
+    {
+      "sha": "1b2634291d9694ed5b8acb4f6567e43123a2f637",
+      "author_login": "kkroening",
+      "authored_at": "2019-06-03T09:06:26Z",
+      "message": "Release 0.1.18"
+    },
+    {
+      "sha": "46eeb417053f4caf2845b2e0838a9d00409e7fbf",
+      "author_login": "kkroening",
+      "authored_at": "2019-06-03T09:05:24Z",
+      "message": "Use Black formatter"
+    },
+    {
+      "sha": "8ea0f4ca4b3531f90d141b1eea9db73d98ff62b9",
+      "author_login": "kkroening",
+      "authored_at": "2019-06-03T09:03:37Z",
+      "message": "Use Black formatter"
+    },
+    {
+      "sha": "a1e1f30a9933212f29f0333a6a6e6ba107e99707",
+      "author_login": "kkroening",
+      "authored_at": "2019-06-03T08:52:07Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "2db3c4a3ce18151bb6c86db4f0b45ad30387dd60",
+      "author_login": "kkroening",
+      "authored_at": "2019-06-03T08:30:04Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "bde72f4124af50a82d8c6d1609d54beb722748ff",
+      "author_login": "kkroening",
+      "authored_at": "2019-06-03T08:09:27Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "411b0a14ffdd7999e1984bfa53de966e3a2ac81a",
+      "author_login": "kkroening",
+      "authored_at": "2019-06-03T07:43:04Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "49c877eec6169d7074791851912891f95a6046c7",
+      "author_login": "kkroening",
+      "authored_at": "2019-06-03T07:42:29Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "995cf67d7d0ab2efdc7817c2c7351a3cd3c60800",
+      "author_login": "kkroening",
+      "authored_at": "2019-06-03T06:54:35Z",
+      "message": "Update docs"
+    },
+    {
+      "sha": "a3bac57d0a9486b7dbcff8d14f99f3548f3778ab",
+      "author_login": "kkroening",
+      "authored_at": "2019-06-03T06:52:58Z",
+      "message": "Merge pull request #212 from kkroening/av-ops"
+    },
+    {
+      "sha": "5c4a5c720fe84a9770403beb2959cd35a4232d31",
+      "author_login": "kkroening",
+      "authored_at": "2019-06-03T06:32:44Z",
+      "message": "Include `Stream` class in API docs"
+    },
+    {
+      "sha": "881ae4efff9e3c0d987217f9437a254730315b87",
+      "author_login": "kkroening",
+      "authored_at": "2019-06-03T06:11:48Z",
+      "message": "Add `.audio` + `.video` operators"
+    },
+    {
+      "sha": "41daf9a953082f8544d360e1364bc731ab20e436",
+      "author_login": "kkroening",
+      "authored_at": "2019-05-19T09:26:12Z",
+      "message": "Merge pull request #209 from JDLH/typo_filters_doc"
+    },
+    {
+      "sha": "35695d93d4d3b1bf3b189d417b6a8962035d4909",
+      "author_login": "JDLH",
+      "authored_at": "2019-05-18T07:13:04Z",
+      "message": "Fix typo \"fmpeg-python\" to read \"ffmpeg-python\""
+    },
+    {
+      "sha": "ac111dc3a976ddbb872bc7d6d4fe24a267c1a956",
+      "author_login": "kkroening",
+      "authored_at": "2019-04-18T07:06:13Z",
+      "message": "Merge pull request #189 from apatsekin/patch-1"
+    },
+    {
+      "sha": "1f3ce1e2aad8a07785b3f3f67bacbcc2d090ae99",
+      "author_login": "kkroening",
+      "authored_at": "2019-04-18T07:05:08Z",
+      "message": "Merge pull request #188 from akolpakov/ffprobe_extra_args"
+    },
+    {
+      "sha": "e61653144bd28d29f1f08e65c3618e20337322ee",
+      "author_login": "kkroening",
+      "authored_at": "2019-04-18T06:58:49Z",
+      "message": "Merge pull request #194 from kkroening/fix-ci"
+    },
+    {
+      "sha": "f641413ed88dd0068201b224eac7a291cbefd0c5",
+      "author_login": "kkroening",
+      "authored_at": "2019-04-18T06:56:29Z",
+      "message": "Fix CI issue with ffmpeg download link"
+    },
+    {
+      "sha": "754d2b7227619d8cd512b025a16f72d0b56c05eb",
+      "author_login": "apatsekin",
+      "authored_at": "2019-04-15T17:52:29Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3ddc5f04bfc9f0f5e7da05e48546b5d91cac62c9",
+      "author_login": "akolpakov",
+      "authored_at": "2019-04-11T08:52:26Z",
+      "message": "Ability to accept extra arguments for ffmpeg.probe command (Issue #187)"
+    },
+    {
+      "sha": "eef4da1b270eae56f2367ef0af7356d684604a64",
+      "author_login": "kkroening",
+      "authored_at": "2018-11-26T03:59:33Z",
+      "message": "Slight reordering in readme"
+    },
+    {
+      "sha": "efae32583459ce7181fd5bce7d2f512d1d5e9d5b",
+      "author_login": "kkroening",
+      "authored_at": "2018-11-26T03:57:32Z",
+      "message": "Add another example link in the main readme"
+    },
+    {
+      "sha": "8de06a2d7a104a37977f6dfb13a1b2d94fa0d37a",
+      "author_login": "kkroening",
+      "authored_at": "2018-11-26T03:51:48Z",
+      "message": "Release 0.1.17"
+    },
+    {
+      "sha": "c53907acaf0003cfa3ad9bf091bc6e4eef85cba0",
+      "author_login": "kkroening",
+      "authored_at": "2018-11-26T03:51:19Z",
+      "message": "Update docs"
+    },
+    {
+      "sha": "629202806ee6c54a5a26eb75222fc83eb6e45f2b",
+      "author_login": "kkroening",
+      "authored_at": "2018-11-26T03:50:50Z",
+      "message": "Merge pull request #144 from kkroening/run-async"
+    },
+    {
+      "sha": "7ed9adf483fa1713301c7f7c0106fda6abbb4158",
+      "author_login": "kkroening",
+      "authored_at": "2018-11-26T03:50:01Z",
+      "message": "Fix example readme typo"
+    },
+    {
+      "sha": "413b71a4e8f52b59c873e86528a3e6fca258578c",
+      "author_login": "kkroening",
+      "authored_at": "2018-11-26T03:43:41Z",
+      "message": "Fix RTSP/TCP socket example to use consistent indentation"
+    },
+    {
+      "sha": "e5e293fca4711d15c6559ac2a4c70567d853d509",
+      "author_login": "kkroening",
+      "authored_at": "2018-11-26T03:42:43Z",
+      "message": "Fix `mock` import for python3"
+    },
+    {
+      "sha": "462e34bab3b519dd99005c155386faf783f43f26",
+      "author_login": "kkroening",
+      "authored_at": "2018-11-26T03:32:04Z",
+      "message": "Add run_async operator"
+    },
+    {
+      "sha": "4276899ceab0848c9a67d0b2142d525da037928e",
+      "author_login": "kkroening",
+      "authored_at": "2018-11-26T03:26:34Z",
+      "message": "Merge remote-tracking branch 'nitaym/return-immediately'"
+    },
+    {
+      "sha": "8d7ec9278061c1a7dfaa63e2b195b906980dd9af",
+      "author_login": "kkroening",
+      "authored_at": "2018-11-25T10:39:04Z",
+      "message": "Merge pull request #143 from kkroening/tensorflow-stream-example"
+    },
+    {
+      "sha": "c533687d81d246758cd73349c85de33877119fc1",
+      "author_login": "kkroening",
+      "authored_at": "2018-11-25T10:38:55Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "b1d167ccb839eb9d1a216d220c73c252668f1c8e",
+      "author_login": "kkroening",
+      "authored_at": "2018-11-25T10:36:55Z",
+      "message": "Add facetime example"
+    },
+    {
+      "sha": "848f87da4ea7e1039468e50626e2d090f3517510",
+      "author_login": "kkroening",
+      "authored_at": "2018-11-25T09:47:49Z",
+      "message": "Add numpy_stream example"
+    },
+    {
+      "sha": "e0eb332e181c799729bcd7f1755fbbf5b9dca261",
+      "author_login": "kkroening",
+      "authored_at": "2018-09-17T10:40:22Z",
+      "message": "Merge pull request #126 from RPing/master"
+    },
+    {
+      "sha": "6b5a1f261294933bf7ad6b9c192f4743a3425a48",
+      "author_login": "RPing",
+      "authored_at": "2018-09-15T17:16:11Z",
+      "message": "small fix for document"
+    },
+    {
+      "sha": "d47890aebd51add447b410f7e9e7dd6baac1e346",
+      "author_login": "kkroening",
+      "authored_at": "2018-09-11T00:18:30Z",
+      "message": "Merge pull request #123 from laurentalacoque/master"
+    },
+    {
+      "sha": "5acc6da7abb428c486a838ac38ed1398c7d524ec",
+      "author_login": "laurentalacoque",
+      "authored_at": "2018-09-07T08:53:50Z",
+      "message": "Added ffmpeg.probe 'cmd' argument"
+    },
+    {
+      "sha": "ce3346125951cb40028552442022e645ad65a270",
+      "author_login": "Nitaym",
+      "authored_at": "2018-07-27T01:31:32Z",
+      "message": "Added an option to return immediately from run() so you could process the output of ffmpeg while it's processing"
+    },
+    {
+      "sha": "b6f150c4c3d9754b9f83bbf50aeabc585c71d8e4",
+      "author_login": "kkroening",
+      "authored_at": "2018-07-15T23:30:18Z",
+      "message": "Release 0.1.16"
+    },
+    {
+      "sha": "0625e3802bc0f44a03b144223c494b2b0cd496d1",
+      "author_login": "kkroening",
+      "authored_at": "2018-07-15T23:28:36Z",
+      "message": "Update docs"
+    },
+    {
+      "sha": "6523c46fa4482c2007d3747353385c9c40f17afb",
+      "author_login": "kkroening",
+      "authored_at": "2018-07-15T23:27:39Z",
+      "message": "Merge pull request #104 from kkroening/filter"
+    },
+    {
+      "sha": "9fc654733ace8fd5dc57b96c5dcab2786221255f",
+      "author_login": "kkroening",
+      "authored_at": "2018-07-15T23:10:25Z",
+      "message": "Merge remote-tracking branch 'origin/master' into filter"
+    },
+    {
+      "sha": "71fb7435fa9b73dd87dfee553c59528273279887",
+      "author_login": "kkroening",
+      "authored_at": "2018-07-15T23:10:02Z",
+      "message": "Merge pull request #103 from kkroening/passthrough"
+    },
+    {
+      "sha": "3cf993e9100a0a1f923c625f789dc8385a5ba886",
+      "author_login": "kkroening",
+      "authored_at": "2018-07-13T02:43:56Z",
+      "message": "Add `filter` operator"
+    },
+    {
+      "sha": "217bd2bde6fdfd9e29f9294aa2968980c7a1c29b",
+      "author_login": "kkroening",
+      "authored_at": "2018-07-13T02:28:21Z",
+      "message": "Fix `-map` to not use brackets for passthroughs; fixes #102, #23"
+    },
+    {
+      "sha": "5916891bbf68acf81e0ded306b1f1fc5a5d34cb9",
+      "author_login": "kkroening",
+      "authored_at": "2018-07-13T02:06:26Z",
+      "message": "Merge remote-tracking branch 'origin/master'"
+    },
+    {
+      "sha": "c65c03b8691b7b94a5c87e69dc5923979b079f47",
+      "author_login": "kkroening",
+      "authored_at": "2018-07-13T02:06:15Z",
+      "message": "Update docs"
+    },
+    {
+      "sha": "ca85cbbbd3a5b6b258279cfa16e9157c896d2773",
+      "author_login": "kkroening",
+      "authored_at": "2018-07-13T01:58:30Z",
+      "message": "Add examples"
+    },
+    {
+      "sha": "06d4a6fa093491db5dd43e84afef4ecf7cc616f9",
+      "author_login": "kkroening",
+      "authored_at": "2018-07-13T01:52:30Z",
+      "message": "Merge remote-tracking branch 'origin/master'"
+    },
+    {
+      "sha": "7d1ac282960c06be7578b2df8bf0f16af4348534",
+      "author_login": "kkroening",
+      "authored_at": "2018-07-13T01:50:01Z",
+      "message": "Add glob example graphs"
+    }
+  ],
+  "issues": [
+    {
+      "number": 889,
+      "title": "Preserve string video_size options on inputs",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-09-22T21:15:08Z",
+      "closed_at": "2026-09-23T05:51:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 887,
+      "title": "Performance of trimming/resizing a video is much slower than the command line counterpart",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-08-23T11:38:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 886,
+      "title": "Fix potentially vulnerable cloned function",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-17T23:32:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 885,
+      "title": "Stream seems to re-open every read",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-01-26T14:09:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 884,
+      "title": "Discussion: How to use ffprobe to retrieve duration?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-12-06T05:56:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 883,
+      "title": "Request: Please Update the Syntax on README.md",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-31T10:38:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 882,
+      "title": "ΣΑ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-05T16:12:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 881,
+      "title": "Where to specify vn option?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-10-02T06:49:40Z",
+      "closed_at": "2025-10-05T05:12:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 880,
+      "title": "Support multiple identical inputs",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-09-26T20:01:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 879,
+      "title": "Remove dependency on `future`",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-09-26T12:45:46Z",
+      "closed_at": "2025-09-26T12:46:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 878,
+      "title": "Capture stderor output?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-09-03T19:09:49Z",
+      "closed_at": "2025-09-04T15:18:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 877,
+      "title": "Drop python 2 support & dependency on \"future\" due to CVE-2025-50817",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-08-27T20:49:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 876,
+      "title": "zoompan filter issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-07-04T01:34:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 875,
+      "title": "Incompatible with ffmpeg 7",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-06-17T16:28:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 874,
+      "title": "Unexpected error: [Errno 2] No such file or directory: 'ffprobe' in Digital Ocean",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-05-07T21:47:54Z",
+      "closed_at": "2025-05-07T21:48:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 873,
+      "title": "drawtext causes a muted video output",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-05-03T19:01:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 872,
+      "title": "How to support rtmp streaming with multi-channel pipe:?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-04-22T03:04:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 871,
+      "title": "make overwrite_output=None default & False pass '-n' arg",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-03-22T21:25:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 870,
+      "title": "How to set cq or crf when vcodec is  hevc_nvenc",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-22T15:38:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 869,
+      "title": "How to concat multiple streamed audio inputs",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-03-07T00:42:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 868,
+      "title": "How to add arguments BEFORE the input argument",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-01-11T21:54:37Z",
+      "closed_at": "2025-01-11T22:51:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 866,
+      "title": "How to determine if the live broadcast has stopped or the network is interrupted when recording a live stream？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-12-07T09:40:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 865,
+      "title": "Can ffmpeg-Python make a mosaic with direct output",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-07T20:55:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 864,
+      "title": "Correct -re argument in example readme",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-11-07T13:46:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 863,
+      "title": "Update split_silence.py",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-11-07T06:56:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 862,
+      "title": "Can you use ffmpeg-python to save rtmp streams to a file",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-11-05T08:48:54Z",
+      "closed_at": "2024-11-13T07:43:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 861,
+      "title": "Update split_silence.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-10-30T14:41:41Z",
+      "closed_at": "2024-10-30T14:58:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 860,
+      "title": "Can we stream multiple inputs and use complex filter?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-26T20:26:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 859,
+      "title": "Error opening input: No such file or directory",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-10-24T02:40:20Z",
+      "closed_at": "2024-10-26T02:24:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 858,
+      "title": "Fixed formatting of filter_multi_output() docstring.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-10-22T08:55:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 857,
+      "title": "How to use \"copy\" for some audio, and transcode some others?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-16T18:42:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 856,
+      "title": "Is there a way to add ffmpeg into a pyinstaller program",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-10-13T17:20:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 855,
+      "title": "How to use FFMPEG-PYTHON in continuous stream of audio chunks?  ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-25T11:39:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 854,
+      "title": "How to concatenate many audio crossfades",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-11T01:47:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 853,
+      "title": "How to make the effect in the picture",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-09-02T08:48:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 852,
+      "title": "how do I convert to python",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-27T20:55:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 851,
+      "title": "Videotoolbox failing: The hardware encoder may be busy, or not supported. ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-26T18:24:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 850,
+      "title": "Unable to generate non-English subtitles",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-17T15:10:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 849,
+      "title": "Pyinstaller Hidden import 'ffmpeg-python' not found",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-08-08T18:37:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 848,
+      "title": "Fix `test__probe` on FFmpeg 7",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-08-04T00:07:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 847,
+      "title": "json.decoder.JSONDecodeError: Expecting ',' delimiter: line 139 column 6 (char 4763)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-24T03:29:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 846,
+      "title": "Support for custom decoder",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-07-08T21:24:50Z",
+      "closed_at": "2024-07-10T13:53:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 845,
+      "title": "FileNotFoundError: [WinError 2] The system cannot find the file specified",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-01T18:14:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 844,
+      "title": "Fix empty strings returned in arguments ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-06-26T14:26:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 843,
+      "title": "Fix double qoutation if the command started and ended with brackets",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-06-22T12:02:35Z",
+      "closed_at": "2024-06-26T14:25:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 842,
+      "title": "How to convert mp4 to multi-segment and multi-quality hls?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-06-19T14:56:19Z",
+      "closed_at": "2024-07-03T11:03:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 841,
+      "title": "Fix typo in `run_async` documentation",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-06-11T23:06:09Z",
+      "closed_at": "2024-07-08T00:56:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 840,
+      "title": "Help : Stream Concat issue.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-10T17:40:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 839,
+      "title": "Getting Trouble with XStack Filter to create mosaic view",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-03T11:42:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 838,
+      "title": "Help please with infinity stream",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-06-02T19:34:52Z",
+      "closed_at": "2024-06-02T22:21:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 837,
+      "title": "HWACCEL + tensorflow without leaving GpuRam",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-17T12:36:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 836,
+      "title": "Videos concat not work",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-16T12:26:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 835,
+      "title": "Ask for help with video watermarking",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-16T09:09:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 834,
+      "title": "How do I prevent files from being saved to that path?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-15T07:56:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 833,
+      "title": "Support for `filter_script:v`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-12T23:23:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 832,
+      "title": "Split video input into video and audio, work on both video and audio frame by frame, save updated frames into separate output files",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-08T04:03:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 831,
+      "title": "TypeError: expected str, bytes or os.PathLike object, not OutputStream while merging two mp4 files",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-04-04T19:00:22Z",
+      "closed_at": "2024-07-08T21:31:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 830,
+      "title": "TypeError: expected str, bytes or os.PathLike object, not OutputStream",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-04-04T18:49:29Z",
+      "closed_at": "2024-04-04T19:02:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 829,
+      "title": "Fixed potential issues in examples/show_progress.py",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-03-29T16:18:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 828,
+      "title": "run_async not work to create *.mpd and *.m3u8 file",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-03-26T03:21:12Z",
+      "closed_at": "2024-04-02T04:33:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 827,
+      "title": "Can FFMPEG be packaged into a standalone application?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-20T20:56:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 826,
+      "title": "path interpretation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-14T18:29:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 825,
+      "title": "Add motion blur to xfade transition",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-28T17:38:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 824,
+      "title": "Help to output RTP with native speed",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-02-26T04:44:53Z",
+      "closed_at": "2024-02-26T09:46:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 823,
+      "title": "HAP encoding incompatiblity",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-21T21:38:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 822,
+      "title": "How to set the logging level",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-02-15T10:41:34Z",
+      "closed_at": "2024-02-16T08:01:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 821,
+      "title": "help: many audio + video loop + text audio filename",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-15T06:21:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 820,
+      "title": "Cannot use multiple inputs",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-02-11T15:25:02Z",
+      "closed_at": "2024-02-15T10:40:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 819,
+      "title": "JSONDecodeError with ffprobe",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-28T19:58:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 818,
+      "title": "Pipe encoded bytes as input in pipeline",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-24T14:48:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 817,
+      "title": "Help with trimming, scaling and concatenating from one input file (memory leak)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-02T21:47:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 816,
+      "title": "Missing audio",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-12-25T21:00:09Z",
+      "closed_at": "2023-12-26T15:52:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 815,
+      "title": "Help with FFMPEG Python and RTMP stream",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-20T03:40:48Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 814,
+      "title": "[kkroening/ffmpeg-python/issues/463] add basic metadata file support",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-12-13T16:38:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 813,
+      "title": "How to make split_silence.py use gpu acceleration?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-10T06:57:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 812,
+      "title": "How to use dump_attachment with ffmpeg-python?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-07T21:54:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 811,
+      "title": "I try to extract .wav from .mp4, but FileNotFoundError: [Errno 2] No such file or directory: 'ffmpeg'",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-12-07T01:33:30Z",
+      "closed_at": "2023-12-07T02:29:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 810,
+      "title": "Video file in FTP to audio file in memory",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-05T11:58:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 809,
+      "title": "How to push the output of a wav2lip model to an RTMP server?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-12-01T15:29:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 808,
+      "title": "Getting videos info (width, height) gives error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-29T14:07:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 807,
+      "title": "Is this package being maintained?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-27T17:39:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 806,
+      "title": "Get the duration of an audio/ video using flask",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-22T14:58:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 805,
+      "title": "Request: Add option to suppress terminal creation for use with .pyw",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-21T22:33:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 804,
+      "title": "Can someone help me convert this code to ffmpeg_python please ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-19T20:31:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 803,
+      "title": "Read from an audio file while it is being written to.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-13T09:07:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 802,
+      "title": "rtsp -> memory -> file",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-06T06:42:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 801,
+      "title": "Server returned 404 Not Found",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-29T09:28:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 800,
+      "title": "Selecting every Nth frame",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-18T01:49:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 799,
+      "title": "Soft Subtitles",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-17T12:04:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 798,
+      "title": "Reading multi-stream audio as Numpy",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-06T18:03:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 797,
+      "title": "How do I use multiple inputs and outputs?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-29T16:38:33Z",
+      "closed_at": "2023-09-29T18:19:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 796,
+      "title": "Is there a way to convert a command line to API commands?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-27T02:39:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 795,
+      "title": "Remove dependency on `future`",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-09-20T12:39:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 794,
+      "title": "How to pass the argument to skip existing bad frame?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-09-17T09:30:15Z",
+      "closed_at": "2023-09-21T13:20:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 793,
+      "title": "How to retrieve FFMPEG (called from OpenCV) Python decoding error?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-13T09:22:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 792,
+      "title": "Install error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-13T07:41:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 791,
+      "title": "Use mkstemp instead of unsafe mktemp",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-09-02T00:26:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 790,
+      "title": "disabled window creation on windows",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-08-25T15:07:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 789,
+      "title": "Added 'kwargs' option to 'overwrite_output'",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-25T07:56:02Z",
+      "closed_at": "2024-05-15T07:20:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 788,
+      "title": "I've installed the ffmpeg-python module, but I still get an error \"module 'ffmpeg' has no attribute 'probe'“",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-08-21T10:53:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "kkroening",
+      "contributions": 377
+    },
+    {
+      "login": "depau",
+      "contributions": 39
+    },
+    {
+      "login": "cclauss",
+      "contributions": 5
+    },
+    {
+      "login": "noahstier",
+      "contributions": 5
+    },
+    {
+      "login": "Jacotsu",
+      "contributions": 3
+    },
+    {
+      "login": "kylemcdonald",
+      "contributions": 2
+    },
+    {
+      "login": "komar007",
+      "contributions": 2
+    },
+    {
+      "login": "0x3333",
+      "contributions": 2
+    },
+    {
+      "login": "magnusvmt",
+      "contributions": 2
+    },
+    {
+      "login": "raulpy271",
+      "contributions": 2
+    },
+    {
+      "login": "ljhcage",
+      "contributions": 1
+    },
+    {
+      "login": "laurentalacoque",
+      "contributions": 1
+    },
+    {
+      "login": "apatsekin",
+      "contributions": 1
+    },
+    {
+      "login": "RPing",
+      "contributions": 1
+    },
+    {
+      "login": "Nitaym",
+      "contributions": 1
+    },
+    {
+      "login": "tirkarthi",
+      "contributions": 1
+    },
+    {
+      "login": "JDLH",
+      "contributions": 1
+    },
+    {
+      "login": "revolter",
+      "contributions": 1
+    },
+    {
+      "login": "xDimGG",
+      "contributions": 1
+    },
+    {
+      "login": "153957",
+      "contributions": 1
+    },
+    {
+      "login": "akolpakov",
+      "contributions": 1
+    },
+    {
+      "login": "372046933",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-11-02T14:27:45.868319Z"
+}

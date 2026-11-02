@@ -1,0 +1,1622 @@
+{
+  "full_name": "jhu-ep-coursera/fullstack-course4",
+  "owner": "jhu-ep-coursera",
+  "name": "fullstack-course4",
+  "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+  "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+  "primary_language": "JavaScript",
+  "topics": [],
+  "license_spdx": null,
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 10940,
+  "forks": 11635,
+  "open_issues": 3,
+  "created_at": "2016-02-15T05:20:42Z",
+  "pushed_at": "2024-08-05T17:19:50Z",
+  "updated_at": "2026-11-02T01:57:49Z",
+  "commits": [
+    {
+      "sha": "dbbf4beaa720ae378e3cd4957645bd72ff7c2d37",
+      "author_login": "ychaikin",
+      "authored_at": "2023-02-09T18:23:52Z",
+      "message": "Merge pull request #356 from jeffersonjpr/master"
+    },
+    {
+      "sha": "bea86ddf76bd434355ad6fb112174f59f1384f6f",
+      "author_login": "jeffersonjpr",
+      "authored_at": "2023-02-09T17:15:15Z",
+      "message": "Fixing down old link to ants image."
+    },
+    {
+      "sha": "e39964bd27cffbf0757f76ebcd16921f0fecfc80",
+      "author_login": "ychaikin",
+      "authored_at": "2022-11-30T22:31:32Z",
+      "message": "Fix URL"
+    },
+    {
+      "sha": "c29ca18df9bc72f9ff59f2e21182b12917730ba7",
+      "author_login": "ychaikin",
+      "authored_at": "2022-11-30T22:30:39Z",
+      "message": "Update URLs in starter code"
+    },
+    {
+      "sha": "05f661d96e9b26c6b008bdf0b3320d62e5543233",
+      "author_login": "ychaikin",
+      "authored_at": "2022-11-27T22:29:27Z",
+      "message": "Update FAQ.md"
+    },
+    {
+      "sha": "4939fa1d7069d0c31277350f170b42e2889156a7",
+      "author_login": "ychaikin",
+      "authored_at": "2022-11-27T22:15:48Z",
+      "message": "Merge pull request #349 from jhu-ep-coursera/firebase"
+    },
+    {
+      "sha": "02e35110c405a820b58d071229b22e492af7e34c",
+      "author_login": "ychaikin",
+      "authored_at": "2022-11-20T23:56:44Z",
+      "message": "Adjust server-side URL to firebase realtime database"
+    },
+    {
+      "sha": "57febf069a7570ec3382ce7a2915805e5a58838a",
+      "author_login": "ychaikin",
+      "authored_at": "2022-07-29T23:36:24Z",
+      "message": "Update custom.md"
+    },
+    {
+      "sha": "5702a1c29744379564c5721fde6be96efe77880b",
+      "author_login": "ychaikin",
+      "authored_at": "2022-01-10T19:26:18Z",
+      "message": "Update custom.md"
+    },
+    {
+      "sha": "5f6cc1bdb2dfe6f22474ffae601526227773600e",
+      "author_login": "ychaikin",
+      "authored_at": "2021-12-30T22:06:20Z",
+      "message": "Update custom.md"
+    },
+    {
+      "sha": "b467b3b0a62140d06f09a2250c519ab0c0ec7d8c",
+      "author_login": "ychaikin",
+      "authored_at": "2021-12-23T21:24:03Z",
+      "message": "Merge pull request #312 from AbdulSalphan/patch-1"
+    },
+    {
+      "sha": "c4091956b6d7b18c8fd105e9d22f4b2114b65053",
+      "author_login": "AbdulSalphan",
+      "authored_at": "2021-12-23T13:29:28Z",
+      "message": "Update script.js"
+    },
+    {
+      "sha": "858d7189112c86bd35b921b2048b4014a0b14fab",
+      "author_login": "ychaikin",
+      "authored_at": "2021-12-09T00:51:16Z",
+      "message": "Update FAQ.md"
+    },
+    {
+      "sha": "8f3b1d6ba807f08a022b762bb32b90f2f117a699",
+      "author_login": "ychaikin",
+      "authored_at": "2021-12-09T00:49:06Z",
+      "message": "Update FAQ.md"
+    },
+    {
+      "sha": "889aca4ad04168479d8dcae6eb423d4f80a04997",
+      "author_login": "kalmanh",
+      "authored_at": "2021-10-20T18:10:52Z",
+      "message": "Merge pull request #297 from sittingpretty/master"
+    },
+    {
+      "sha": "0eb5492d628ea9625f03fa42ece55eae441c23af",
+      "author_login": "sittingpretty",
+      "authored_at": "2021-10-20T17:43:55Z",
+      "message": "Spelling correction than instead of then"
+    },
+    {
+      "sha": "517da5ab2afe31169b1daf0ed873b4d253b90395",
+      "author_login": "ychaikin",
+      "authored_at": "2021-02-17T20:55:14Z",
+      "message": "Merge pull request #259 from dalilakatialeo/master"
+    },
+    {
+      "sha": "bc03771bab2f2db2aea4d9c0500450eafde6ef58",
+      "author_login": "dalilakatialeo",
+      "authored_at": "2021-02-17T04:10:23Z",
+      "message": "Merge pull request #1 from dalilakatialeo/dalilakatialeo-patch-1"
+    },
+    {
+      "sha": "4524d92f673b1978ed4dd1a231b16f6c0cb53657",
+      "author_login": "dalilakatialeo",
+      "authored_at": "2021-02-17T04:05:06Z",
+      "message": "Update descendant-selector-before.html"
+    },
+    {
+      "sha": "571725d9040e89a11c4cc22ee8cfaca141785e3b",
+      "author_login": "ychaikin",
+      "authored_at": "2021-01-12T17:46:18Z",
+      "message": "Updated language in step"
+    },
+    {
+      "sha": "9d3921ef04321fcf3ffc49869278b33162b4e761",
+      "author_login": "ychaikin",
+      "authored_at": "2021-01-12T17:45:16Z",
+      "message": "Updated language of the step"
+    },
+    {
+      "sha": "512081a38a32ee9ee70cc9f0ed55bc1040f3b343",
+      "author_login": "kalmanh",
+      "authored_at": "2020-10-05T05:47:42Z",
+      "message": "Merge pull request #233 from HenricF/fix-spelling-lecture-25"
+    },
+    {
+      "sha": "102e70a8cce5318a822a4a224a6a57d83db5ec4b",
+      "author_login": "HenricF",
+      "authored_at": "2020-10-03T12:48:09Z",
+      "message": "Fix spelling"
+    },
+    {
+      "sha": "805688d7f70adb0aae29533081f5141fb5a68345",
+      "author_login": "ychaikin",
+      "authored_at": "2020-05-26T21:51:29Z",
+      "message": "Update issue templates"
+    },
+    {
+      "sha": "b7d09c01bd83d7cc003df489bb28dd0067d03a31",
+      "author_login": "ychaikin",
+      "authored_at": "2020-05-26T21:41:32Z",
+      "message": "Merge pull request #162 from jhu-ep-coursera/ychaikin-patch-1"
+    },
+    {
+      "sha": "7c156ba77f0b102c8b41ab80cd614a3b4c994b11",
+      "author_login": "ychaikin",
+      "authored_at": "2020-05-26T21:41:12Z",
+      "message": "Update pull_request_template.md"
+    },
+    {
+      "sha": "3c715b459b8f93b7bf04821c3fd8d06e664630de",
+      "author_login": "ychaikin",
+      "authored_at": "2020-05-26T21:35:39Z",
+      "message": "Create pull_request_template.md"
+    },
+    {
+      "sha": "79c405809b6f5ce87d6f34f7531287c4e748f29a",
+      "author_login": "ychaikin",
+      "authored_at": "2020-01-13T15:53:07Z",
+      "message": "Merge pull request #130 from rev3ks/Assignment-5-spelling-correction"
+    },
+    {
+      "sha": "ed0e8b552fcad4d3f987065089f4cf14c9a0da47",
+      "author_login": "duelinggalois",
+      "authored_at": "2020-01-12T21:24:15Z",
+      "message": "Spelling Correction"
+    },
+    {
+      "sha": "b22983cfcf5e7978830ad13b8b0a64c74582c3b7",
+      "author_login": "ychaikin",
+      "authored_at": "2019-08-12T18:29:25Z",
+      "message": "Merge pull request #124 from ispandey81/master"
+    },
+    {
+      "sha": "71ed95ef939d6004086b74fc457a5f9a7c9b7627",
+      "author_login": "ispandey81",
+      "authored_at": "2019-07-19T06:20:59Z",
+      "message": "Fixed bootstrap navbar and type-alignment links"
+    },
+    {
+      "sha": "3573c4a640823ca5581bdc1b2d2974814771bb2f",
+      "author_login": "ychaikin",
+      "authored_at": "2019-07-11T05:31:45Z",
+      "message": "Merge pull request #122 from agrounds/input-sources"
+    },
+    {
+      "sha": "d27d0a7389f3472dbe84c96ac43f252167e13615",
+      "author_login": "agrounds",
+      "authored_at": "2019-07-06T16:37:27Z",
+      "message": "Add info: Fixing sublime, multiple input sources"
+    },
+    {
+      "sha": "379ec677c184956e30761ab49aad6d7ca0c36d5a",
+      "author_login": "ychaikin",
+      "authored_at": "2019-05-08T02:06:00Z",
+      "message": "Merge pull request #101 from keshav1245/patch-1"
+    },
+    {
+      "sha": "58f0f0213e58324599630fd56cbd71b1d36414ec",
+      "author_login": "keshav1245",
+      "authored_at": "2019-05-08T01:43:19Z",
+      "message": "Update html-entities-before.html"
+    },
+    {
+      "sha": "22b69156229dfb48674b8927c55ca750b6069643",
+      "author_login": "ychaikin",
+      "authored_at": "2017-09-19T17:55:43Z",
+      "message": "Merge pull request #80 from thuyihan1206/master"
+    },
+    {
+      "sha": "7b7f779cbafc83db14d43801ffe6ee5d83c5e8df",
+      "author_login": "thuyihan1206",
+      "authored_at": "2017-09-19T16:22:01Z",
+      "message": "Merge branch 'master' of https://github.com/jhu-ep-coursera/fullstack-course4"
+    },
+    {
+      "sha": "9507b08408ac1cb16f2e9c598e540e29890087ae",
+      "author_login": "thuyihan1206",
+      "authored_at": "2017-09-19T16:06:57Z",
+      "message": "updated FAQ.md"
+    },
+    {
+      "sha": "57f943b4e3405f277c2fcb147bbfaa6c48f445d1",
+      "author_login": "ychaikin",
+      "authored_at": "2017-09-12T14:53:01Z",
+      "message": "Merge pull request #79 from ZKjellberg/#78-Bootstrap-URLs"
+    },
+    {
+      "sha": "3501eb30a9bf4433f8cca21716013bfd92574d75",
+      "author_login": "ZKjellberg",
+      "authored_at": "2017-09-12T13:45:58Z",
+      "message": "PR for Issue #78 to upgrade Bootstrap URLs"
+    },
+    {
+      "sha": "3b13f87034bb9ad783aa0f12bcb70a01b211a259",
+      "author_login": "ychaikin",
+      "authored_at": "2017-02-26T01:45:21Z",
+      "message": "Merge pull request #71 from thuyihan1206/master"
+    },
+    {
+      "sha": "4eb32ea5c6ff4c11266c3cc5710bf489072fdb1c",
+      "author_login": "thuyihan1206",
+      "authored_at": "2017-02-24T19:28:05Z",
+      "message": "clarified the instructions for assignment 3"
+    },
+    {
+      "sha": "642da51a80638294a01bc64724d17f57ffb5cc5c",
+      "author_login": "ychaikin",
+      "authored_at": "2017-01-20T00:47:22Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1f6a185615321a5cee94a36e1f4e4a251cd4e226",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-26T17:44:19Z",
+      "message": "Merge pull request #63 from jhu-ep-coursera/fixes"
+    },
+    {
+      "sha": "0e7baf3cdef1e436c9b827004252c3b11dd86f3f",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-26T17:43:29Z",
+      "message": "Added link to deployed restaurant site"
+    },
+    {
+      "sha": "2a696274edc437bff2be8399bf76ffcd21acdd1a",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-18T01:13:48Z",
+      "message": "Merge pull request #60 from thuyihan1206/master"
+    },
+    {
+      "sha": "0b4c72965ccde7ef4a208f3cccd30dde658ee149",
+      "author_login": "thuyihan1206",
+      "authored_at": "2016-12-16T23:45:10Z",
+      "message": "Added setting up GitHub Pages instructions to FAQ"
+    },
+    {
+      "sha": "64603be78845b9b72d05c926eaa7fd8d581a686a",
+      "author_login": "thuyihan1206",
+      "authored_at": "2016-12-16T23:38:01Z",
+      "message": "Added setting up GitHub Pages instructions to FAQ"
+    },
+    {
+      "sha": "7d0a2db7571425fe1e61646839de0e5c25758460",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-11T17:01:40Z",
+      "message": "Merge pull request #59 from freeranger/master"
+    },
+    {
+      "sha": "2f544a7f4ba3c2167b064a95088b192b829b7c2d",
+      "author_login": "freeranger",
+      "authored_at": "2016-12-11T15:33:54Z",
+      "message": "Closes #58"
+    },
+    {
+      "sha": "e1317908eca4396326a6ac89733a777715137496",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-06T18:46:24Z",
+      "message": "Fixed up some styles."
+    },
+    {
+      "sha": "c59e42342f5cc3e41222b4f0ff55daea3cf644f9",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-04T19:04:50Z",
+      "message": "text update"
+    },
+    {
+      "sha": "1e4928e8426356ab627f87bc71cbca97de12d960",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-04T17:34:46Z",
+      "message": "Inserted title of the page"
+    },
+    {
+      "sha": "c874fb8f3aac20d487b10ea3c892f104656f3e05",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-04T17:25:58Z",
+      "message": "oops.. fixed styling."
+    },
+    {
+      "sha": "f6811f7b5f493e4147a0b0991274a0f064674bed",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-04T17:25:17Z",
+      "message": "Fixed styling."
+    },
+    {
+      "sha": "295f2627f6e8e69b37033441ed4b5ef11f5c287a",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-04T17:15:23Z",
+      "message": "Fixed formatting."
+    },
+    {
+      "sha": "bfcc17cc3366db1227eb4b773d9d43bfc55aafaa",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-04T16:57:19Z",
+      "message": "Fixed link"
+    },
+    {
+      "sha": "f8e8cc764bb1ca958f3d610279f4e2fd91f2ae77",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-04T16:55:11Z",
+      "message": "Fixed broken link."
+    },
+    {
+      "sha": "79a962dca23f0e2271992270fdf08ee0ed920092",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-04T16:53:44Z",
+      "message": "Corrected styling."
+    },
+    {
+      "sha": "18585ff26bcaae6c0acff81f7d333ee2c12d0d42",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-04T16:50:37Z",
+      "message": "FAQ with 'how to ask' question included."
+    },
+    {
+      "sha": "3364e62c0c297cf3d6413c23f00fa7a0d2a72e9a",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-01T10:48:14Z",
+      "message": "Fixed assignment typo as per issue #56."
+    },
+    {
+      "sha": "0125be9f8186941831e97376f69e991db727091b",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-01T10:43:47Z",
+      "message": "Fixed typo as per issue #40."
+    },
+    {
+      "sha": "01925e744c02be74a297afef0599485b57897ed5",
+      "author_login": "ychaikin",
+      "authored_at": "2016-12-01T10:41:05Z",
+      "message": "Updated typo as per issue #38."
+    },
+    {
+      "sha": "8bcf3aef6f5b958ae3c990ff1f1bf086c2bded1c",
+      "author_login": "ychaikin",
+      "authored_at": "2016-10-09T04:17:14Z",
+      "message": "Fixed link (hopefully)"
+    },
+    {
+      "sha": "acb70d8e18bdb4385e60ace5672a86d3be50c1e0",
+      "author_login": "ychaikin",
+      "authored_at": "2016-10-09T04:15:15Z",
+      "message": "Updated front page README of the repo."
+    },
+    {
+      "sha": "a1fe647858b5deb47af3139e67f24d86f5ffc8c6",
+      "author_login": "ychaikin",
+      "authored_at": "2016-10-09T04:09:19Z",
+      "message": "Updated styling of assignments and organization. Ready to reference in assignments on Coursera."
+    },
+    {
+      "sha": "eee30abf149330e358876fc3ad39277413aa283c",
+      "author_login": "ychaikin",
+      "authored_at": "2016-10-09T03:15:12Z",
+      "message": "Merge pull request #50 from freeranger/Issue-29"
+    },
+    {
+      "sha": "4c8590c87c91d7d2cf4ca43de326368e13ae186f",
+      "author_login": "ychaikin",
+      "authored_at": "2016-10-09T03:14:50Z",
+      "message": "Merge pull request #51 from freeranger/Assignment-Instructions"
+    },
+    {
+      "sha": "1cd4c4faf129b1da1a250ac759f25f03d16af31c",
+      "author_login": "ychaikin",
+      "authored_at": "2016-10-09T03:10:49Z",
+      "message": "Merge pull request #52 from jhu-ep-coursera/evan-edit"
+    },
+    {
+      "sha": "f4032966f5b4170c0a2f52a2ef3f6a81c4c3cf1e",
+      "author_login": "thuyihan1206",
+      "authored_at": "2016-10-08T18:19:14Z",
+      "message": "Referecne the data directory relatively"
+    },
+    {
+      "sha": "c0cd88d2b6765cab0bbcce90455c0e167aed764d",
+      "author_login": "freeranger",
+      "authored_at": "2016-10-08T10:31:50Z",
+      "message": "Assignment 5 instructions added"
+    },
+    {
+      "sha": "313e7f45562a7e49797f5ecbd12560cfa569524c",
+      "author_login": "freeranger",
+      "authored_at": "2016-10-08T10:19:23Z",
+      "message": "Assignment 4 instructions added"
+    },
+    {
+      "sha": "6e0e09764956885f2301a296ef382260157043f7",
+      "author_login": "freeranger",
+      "authored_at": "2016-10-08T10:15:26Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "44dcff6230bc7cdc9750e43e6a010d17a09d5283",
+      "author_login": "freeranger",
+      "authored_at": "2016-10-08T10:01:06Z",
+      "message": "Merge branch 'Assignment-Instructions' of github.com:freeranger/fullstack-course4 into Assignment-Instructions"
+    },
+    {
+      "sha": "be6ed6b421eb3caa6b4905a5dedd35830f4794cd",
+      "author_login": "freeranger",
+      "authored_at": "2016-10-08T09:59:36Z",
+      "message": "Assignment 3 instructions added"
+    },
+    {
+      "sha": "611fdce626ee4c674e004a57a434ae43594fc7a6",
+      "author_login": "freeranger",
+      "authored_at": "2016-10-08T09:33:16Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "0b40ae9dc70a9a76e5c3971a24a88e1a131900f7",
+      "author_login": "freeranger",
+      "authored_at": "2016-10-08T09:32:52Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1706a91842ac7606d2dff203566e76b889b9d2c0",
+      "author_login": "freeranger",
+      "authored_at": "2016-06-27T07:25:53Z",
+      "message": "Add git status -uno to the list of git commands"
+    },
+    {
+      "sha": "3fbf8e297829780d0dacad2234816648f2f080fd",
+      "author_login": "freeranger",
+      "authored_at": "2016-10-08T09:33:16Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d07ca9f6d72e59b3b7df0c494f0a67962567d5da",
+      "author_login": "freeranger",
+      "authored_at": "2016-10-08T09:32:52Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1b30eb5d7c9cd4b0a96242782819f3c8f7a09d86",
+      "author_login": "freeranger",
+      "authored_at": "2016-10-08T09:27:26Z",
+      "message": "Merge branch 'master' of github.com:freeranger/fullstack-course4 into Assignment-Instructions"
+    },
+    {
+      "sha": "6681480c96ed22544b22165cd0a81aa301c4ff03",
+      "author_login": "freeranger",
+      "authored_at": "2016-10-08T09:26:19Z",
+      "message": "Merge branch 'master' of github.com:freeranger/fullstack-course4"
+    },
+    {
+      "sha": "0999d5067bc2134bb83c45f68f61c8aa9ca7be11",
+      "author_login": "freeranger",
+      "authored_at": "2016-10-08T09:23:42Z",
+      "message": "Module 2 assignment instructions added"
+    },
+    {
+      "sha": "2c7417238f47c6588d46d405bff1cca393e532f2",
+      "author_login": "freeranger",
+      "authored_at": "2016-10-08T08:29:53Z",
+      "message": "Issue 30 - window replaced with global"
+    },
+    {
+      "sha": "5e1db70ea794252ad3a3e2ff46351446b46bd923",
+      "author_login": "freeranger",
+      "authored_at": "2016-10-08T07:49:58Z",
+      "message": "Renamed Dk3.jpg -> DK3.jpg"
+    },
+    {
+      "sha": "01562ed85f65f50d9e903aa3ac7d606e2d2aa69e",
+      "author_login": "ychaikin",
+      "authored_at": "2016-10-06T00:59:59Z",
+      "message": "Merge pull request #48 from liangxibing/master"
+    },
+    {
+      "sha": "c771a673c44f18df0adc0f84bc0dd9de36c66906",
+      "author_login": "liangxibing",
+      "authored_at": "2016-10-05T21:59:01Z",
+      "message": "fix the error img src of images.html in lecture 10's examples"
+    },
+    {
+      "sha": "3e0744cd90bd130ec43800f3bf6644234be827b1",
+      "author_login": "ychaikin",
+      "authored_at": "2016-09-30T02:38:29Z",
+      "message": "Merge pull request #44 from keshashah/master"
+    },
+    {
+      "sha": "c45800a8803bd791b8406f8ddbac4a5c6a9c6df7",
+      "author_login": "keshashah",
+      "authored_at": "2016-09-28T17:11:31Z",
+      "message": "Removed new line"
+    },
+    {
+      "sha": "46f71667842a2a65828def8d198f80caf0b3fdea",
+      "author_login": "keshashah",
+      "authored_at": "2016-09-28T05:14:32Z",
+      "message": "Removed html tags from before"
+    },
+    {
+      "sha": "858f5bae057c8b802e9d8151c0204c93cdf854f1",
+      "author_login": "keshashah",
+      "authored_at": "2016-09-28T05:11:29Z",
+      "message": "Added ordered-list-after.html"
+    },
+    {
+      "sha": "ffea81655eaab7a4a1ae3cdc7ff6eb85faf790ba",
+      "author_login": "ychaikin",
+      "authored_at": "2016-09-23T15:06:47Z",
+      "message": "Merge pull request #42 from serkanlaxy/patch-1"
+    },
+    {
+      "sha": "9bd86bacee0ae8299f10e989f2771523145afef1",
+      "author_login": "devserkan",
+      "authored_at": "2016-09-19T22:02:09Z",
+      "message": "Update two-column-before.html"
+    },
+    {
+      "sha": "831c03e1658d36c4b86cc2b06d21ed08a93ea3a4",
+      "author_login": "ychaikin",
+      "authored_at": "2016-08-12T16:48:36Z",
+      "message": "Merge pull request #39 from Akkowicz/patch-1"
+    },
+    {
+      "sha": "d34cb0c9db7b1cdfbba06b01edcb7283b5818061",
+      "author_login": "Akkowicz",
+      "authored_at": "2016-08-12T16:40:04Z",
+      "message": "Removed styling from \"before\" file."
+    },
+    {
+      "sha": "2fc00a3bbcebcf6227cd4459cece124a2e9ef1ed",
+      "author_login": "ychaikin",
+      "authored_at": "2016-08-01T19:44:44Z",
+      "message": "Switched == equality with === equality."
+    },
+    {
+      "sha": "528768f801da116474224e9e2a436f888fff1ad4",
+      "author_login": "ychaikin",
+      "authored_at": "2016-08-01T19:22:22Z",
+      "message": "Merge pull request #37 from PantelD/corrections-mod5solstrtr/script.js"
+    },
+    {
+      "sha": "faaea2a0f2b6f9014de8ea57da399444308ce9ad",
+      "author_login": "pandelig",
+      "authored_at": "2016-08-01T18:38:01Z",
+      "message": "undoing trimming of trailing spaces"
+    },
+    {
+      "sha": "1d6d73d6a1a95a51dc7d0d811d0bc81336b695df",
+      "author_login": "pandelig",
+      "authored_at": "2016-08-01T16:10:34Z",
+      "message": "3 minor corrections to Assignments\\version2\\module5-solution-starter\\js\\script.js"
+    },
+    {
+      "sha": "c86407aef4106fa679e3fe6327598768b8ec9212",
+      "author_login": "ychaikin",
+      "authored_at": "2016-06-30T01:34:09Z",
+      "message": "Resolved issue"
+    }
+  ],
+  "issues": [
+    {
+      "number": 450,
+      "title": "Fix potentially vulnerable cloned function",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-05-24T20:16:59Z",
+      "closed_at": "2026-05-24T20:24:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 449,
+      "title": "Update script.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-13T12:40:45Z",
+      "closed_at": "2026-04-14T19:05:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 448,
+      "title": "Update SpeakGoodBye.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-10T18:48:34Z",
+      "closed_at": "2026-04-14T19:05:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 447,
+      "title": "Update SpeakGoodBye.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-04-10T18:36:25Z",
+      "closed_at": "2026-04-10T18:44:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 445,
+      "title": "Adicionar css/styles.css para Module 2 Solution",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-09-14T05:08:16Z",
+      "closed_at": "2025-09-15T21:33:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 444,
+      "title": "Create index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-09-14T04:53:59Z",
+      "closed_at": "2025-09-15T21:34:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 443,
+      "title": "SpeakGoodBye.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-09-09T16:50:01Z",
+      "closed_at": "2025-09-09T18:02:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 442,
+      "title": "Update script.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-09-08T15:43:26Z",
+      "closed_at": "2025-09-08T16:43:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 441,
+      "title": "Update script.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-26T00:57:52Z",
+      "closed_at": "2025-07-27T23:16:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 440,
+      "title": "Update Assignment-2.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-15T08:18:17Z",
+      "closed_at": "2025-07-16T17:43:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 439,
+      "title": "Update Assignment-2.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-07-09T06:44:17Z",
+      "closed_at": "2025-07-09T11:40:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 438,
+      "title": "Update Assignment-2.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-06-14T05:52:48Z",
+      "closed_at": "2025-06-14T05:57:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 437,
+      "title": "Not able to create repository",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-06-08T11:25:36Z",
+      "closed_at": "2025-06-08T11:52:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 436,
+      "title": "Create module5-solution",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-05-01T23:22:27Z",
+      "closed_at": "2025-05-02T16:32:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 435,
+      "title": "Create Shuhrat692",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-05-01T10:53:10Z",
+      "closed_at": "2025-05-01T13:47:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 434,
+      "title": "Update Assignment-2.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-03-27T20:46:10Z",
+      "closed_at": "2025-03-27T21:34:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 433,
+      "title": "Create restaurant md3 solution",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-03-10T02:46:52Z",
+      "closed_at": "2025-03-10T02:47:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 432,
+      "title": "Menu",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-02-19T19:44:37Z",
+      "closed_at": "2025-02-19T19:44:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 431,
+      "title": "Ryan ally patch 1",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-02-19T19:37:09Z",
+      "closed_at": "2025-02-19T19:37:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 430,
+      "title": "food llc.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-02-19T19:23:16Z",
+      "closed_at": "2025-02-19T19:26:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 428,
+      "title": "Menu",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-02-08T19:06:49Z",
+      "closed_at": "2025-02-08T19:07:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 425,
+      "title": "Update Assignment-4.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-10-17T10:21:06Z",
+      "closed_at": "2024-10-17T10:21:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 421,
+      "title": "Create e",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-08-05T17:19:49Z",
+      "closed_at": "2024-08-05T18:40:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 420,
+      "title": "Create car shop",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-19T07:25:24Z",
+      "closed_at": "2024-07-19T20:57:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 419,
+      "title": "Create index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-19T07:22:26Z",
+      "closed_at": "2024-07-19T20:56:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 418,
+      "title": "Create ahmed",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-12T00:15:45Z",
+      "closed_at": "2024-07-19T20:57:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 417,
+      "title": "Create ahmed abdalgader",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-11T23:32:45Z",
+      "closed_at": "2024-07-19T21:00:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 416,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-05T19:21:28Z",
+      "closed_at": "2024-07-05T19:33:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 415,
+      "title": "Create coursera-test",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-03T10:38:29Z",
+      "closed_at": "2024-07-05T04:25:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 414,
+      "title": "Try secend timescript.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-01T15:17:19Z",
+      "closed_at": "2024-07-01T15:32:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 413,
+      "title": "Update script.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-07-01T14:55:05Z",
+      "closed_at": "2024-07-01T15:08:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 412,
+      "title": "Create assignment2.css",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-05-20T07:37:10Z",
+      "closed_at": "2024-05-20T15:20:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 411,
+      "title": "Create coursera.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-05-20T07:34:20Z",
+      "closed_at": "2024-05-20T15:14:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 410,
+      "title": "Update script.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-05-07T14:15:22Z",
+      "closed_at": "2024-05-07T16:17:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 409,
+      "title": "Testing push new branch",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-04-15T01:42:47Z",
+      "closed_at": "2024-04-15T01:44:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 408,
+      "title": "Update Assignment-2.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-04-13T08:52:38Z",
+      "closed_at": "2024-04-14T06:11:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 407,
+      "title": "Create mod2_answers",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-04-05T04:35:25Z",
+      "closed_at": "2024-04-08T18:57:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 406,
+      "title": "Update Assignment-2.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-27T21:11:30Z",
+      "closed_at": "2024-02-27T21:55:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 405,
+      "title": "Create module2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-16T19:23:00Z",
+      "closed_at": "2024-02-16T19:43:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 404,
+      "title": "Create module4",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-16T19:17:48Z",
+      "closed_at": "2024-02-16T19:42:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 403,
+      "title": "index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-15T14:54:36Z",
+      "closed_at": "2024-02-16T04:39:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 401,
+      "title": "page",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-12-27T04:16:12Z",
+      "closed_at": "2023-12-27T16:14:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 400,
+      "title": "Lectures 48-56 no longer contained in repo",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-12-08T21:38:22Z",
+      "closed_at": "2023-12-11T02:37:20Z",
+      "first_response_at": null
+    },
+    {
+      "number": 399,
+      "title": "Create Assignment 2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-11-23T08:45:17Z",
+      "closed_at": "2023-11-23T19:29:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 398,
+      "title": "Create s.css",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-11-16T09:51:03Z",
+      "closed_at": "2023-11-16T17:36:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 397,
+      "title": "Create module--2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-11-09T02:04:30Z",
+      "closed_at": "2023-11-09T22:56:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 395,
+      "title": "Mybranch",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-11-03T03:46:42Z",
+      "closed_at": "2023-11-03T03:59:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 394,
+      "title": "Create module 3 css",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-10-27T13:22:54Z",
+      "closed_at": "2023-10-27T17:24:54Z",
+      "first_response_at": null
+    },
+    {
+      "number": 390,
+      "title": "Add Improve",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-12T16:44:00Z",
+      "closed_at": "2023-09-12T16:44:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 389,
+      "title": "Create sanahaneef84@",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-05T05:32:56Z",
+      "closed_at": "2023-09-05T16:20:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 387,
+      "title": "sanahaneef",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-09-04T05:15:11Z",
+      "closed_at": "2023-09-04T18:02:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 386,
+      "title": "Update Assignment-2.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-08-03T04:26:16Z",
+      "closed_at": "2023-08-03T04:27:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 385,
+      "title": "Aashish",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-07-21T06:04:51Z",
+      "closed_at": "2023-07-24T16:11:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 384,
+      "title": "Github pages auto generator not showing",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-07-04T10:29:45Z",
+      "closed_at": "2023-07-05T14:48:04Z",
+      "first_response_at": null
+    },
+    {
+      "number": 383,
+      "title": "Create HTML",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-07-02T17:05:01Z",
+      "closed_at": "2023-07-05T14:48:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 382,
+      "title": "Update Assignment-2.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-06-29T14:56:03Z",
+      "closed_at": "2023-06-29T16:44:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 381,
+      "title": "Update Assignment-2.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-06-28T06:21:42Z",
+      "closed_at": "2023-06-28T17:40:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 380,
+      "title": "Zhihaoabel patch 2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-06-20T16:25:12Z",
+      "closed_at": "2023-06-20T16:27:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 379,
+      "title": "updated",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-06-12T16:14:51Z",
+      "closed_at": "2023-06-13T03:50:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 378,
+      "title": "Create index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-06-12T14:45:14Z",
+      "closed_at": "2023-06-13T03:50:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 377,
+      "title": "Add Files",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-06-01T05:07:06Z",
+      "closed_at": "2023-06-01T05:07:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 374,
+      "title": "init",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-05-14T22:44:07Z",
+      "closed_at": "2023-05-14T23:00:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 371,
+      "title": "Create Agsement7",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-04-11T04:36:50Z",
+      "closed_at": "2023-04-11T05:02:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 369,
+      "title": "Create Module 2 Coding Assignment",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-04-02T06:15:12Z",
+      "closed_at": "2023-04-02T06:18:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 368,
+      "title": "Create html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-03-23T23:46:48Z",
+      "closed_at": "2023-03-24T03:12:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 367,
+      "title": "Create coursera",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-03-22T18:05:13Z",
+      "closed_at": "2023-03-22T21:53:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 366,
+      "title": "Add comment before each style selector to explain each pseudo-class. ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-03-18T22:02:28Z",
+      "closed_at": "2023-03-20T20:01:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 365,
+      "title": "Create style.css",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-03-10T12:41:06Z",
+      "closed_at": "2023-03-10T17:27:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 364,
+      "title": "Create HTML,CSS,JS (coursera)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-03-08T21:42:24Z",
+      "closed_at": "2023-03-09T00:02:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 363,
+      "title": "Create HTML,CSS,JS (coursera)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-03-08T21:40:40Z",
+      "closed_at": "2023-03-08T21:40:52Z",
+      "first_response_at": null
+    },
+    {
+      "number": 362,
+      "title": "Create solution module 2",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-03-06T23:16:07Z",
+      "closed_at": "2023-03-06T23:18:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 361,
+      "title": "exercice",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-03-06T23:09:31Z",
+      "closed_at": "2023-03-06T23:18:32Z",
+      "first_response_at": null
+    },
+    {
+      "number": 360,
+      "title": "Create Js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-03-04T07:17:29Z",
+      "closed_at": "2023-03-04T07:17:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 359,
+      "title": "Create bye.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-03-04T07:17:10Z",
+      "closed_at": "2023-03-06T17:06:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 358,
+      "title": "Create style.css",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-03-04T07:16:31Z",
+      "closed_at": "2023-03-06T17:06:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 357,
+      "title": "Create style.css",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-03-04T07:11:11Z",
+      "closed_at": "2023-03-06T17:05:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 356,
+      "title": "Fixing down old link to ants image.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-02-09T17:25:22Z",
+      "closed_at": "2023-02-09T18:23:53Z",
+      "first_response_at": null
+    },
+    {
+      "number": 355,
+      "title": "This is my late week2 code assessment",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-01-27T09:26:48Z",
+      "closed_at": "2023-01-27T15:52:48Z",
+      "first_response_at": null
+    },
+    {
+      "number": 354,
+      "title": "High",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-01-10T04:33:32Z",
+      "closed_at": "2023-01-10T05:14:10Z",
+      "first_response_at": null
+    },
+    {
+      "number": 353,
+      "title": "Update Assignment-3.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2023-01-03T14:45:45Z",
+      "closed_at": "2023-01-03T20:54:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 351,
+      "title": "Create easier.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-12-20T13:12:02Z",
+      "closed_at": "2022-12-20T21:32:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 350,
+      "title": "Submit",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-12-18T13:33:59Z",
+      "closed_at": "2022-12-21T00:44:26Z",
+      "first_response_at": null
+    },
+    {
+      "number": 349,
+      "title": "Adjust server-side URL to firebase realtime database",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-11-27T22:15:28Z",
+      "closed_at": "2022-11-27T22:15:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 348,
+      "title": "index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-11-25T17:52:30Z",
+      "closed_at": "2022-11-25T18:02:50Z",
+      "first_response_at": null
+    },
+    {
+      "number": 347,
+      "title": "Create index.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-11-25T15:06:11Z",
+      "closed_at": "2022-11-25T18:03:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 346,
+      "title": "Update FAQ.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-10-24T15:27:37Z",
+      "closed_at": "2022-10-31T23:26:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 345,
+      "title": "courseraR",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-10-18T21:36:22Z",
+      "closed_at": "2022-10-19T02:53:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 344,
+      "title": "Bootstrap and CORS help needed",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-10-15T15:18:22Z",
+      "closed_at": "2022-10-16T17:44:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 343,
+      "title": "Update pseudo-selectors-after.html",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-10-09T03:45:04Z",
+      "closed_at": "2022-10-16T17:40:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 342,
+      "title": "Create practice3",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-09-28T13:34:48Z",
+      "closed_at": "2022-09-28T15:24:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 341,
+      "title": "Create new file",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-09-12T15:29:46Z",
+      "closed_at": "2022-09-12T15:42:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 340,
+      "title": "Create BS3.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-08-29T07:56:15Z",
+      "closed_at": "2022-08-30T19:28:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 338,
+      "title": "Trouble with link",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-07-08T09:09:30Z",
+      "closed_at": "2022-07-08T15:08:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 337,
+      "title": "Peer Review",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-06-27T15:09:28Z",
+      "closed_at": "2022-06-27T19:02:41Z",
+      "first_response_at": null
+    },
+    {
+      "number": 336,
+      "title": "Update script.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-18T16:11:48Z",
+      "closed_at": "2022-06-18T16:12:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 335,
+      "title": "Update script.js",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-18T16:09:58Z",
+      "closed_at": "2022-06-18T16:10:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 334,
+      "title": ".",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-06-04T08:56:29Z",
+      "closed_at": "2022-06-08T04:06:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 333,
+      "title": "Create module2-solution ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-05-20T13:33:59Z",
+      "closed_at": "2022-05-20T13:34:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 332,
+      "title": "Html",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-05-04T19:43:09Z",
+      "closed_at": "2022-05-04T19:45:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 331,
+      "title": "Bootstrap version is out of date for 2022",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-04-20T16:29:06Z",
+      "closed_at": "2022-04-20T18:09:31Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "ychaikin",
+      "contributions": 94
+    },
+    {
+      "login": "JSONRice",
+      "contributions": 29
+    },
+    {
+      "login": "freeranger",
+      "contributions": 17
+    },
+    {
+      "login": "thuyihan1206",
+      "contributions": 8
+    },
+    {
+      "login": "Fayadh56",
+      "contributions": 4
+    },
+    {
+      "login": "keshashah",
+      "contributions": 3
+    },
+    {
+      "login": "aberdean",
+      "contributions": 2
+    },
+    {
+      "login": "dalilakatialeo",
+      "contributions": 2
+    },
+    {
+      "login": "kalmanh",
+      "contributions": 2
+    },
+    {
+      "login": "pandelig",
+      "contributions": 2
+    },
+    {
+      "login": "AbdulSalphan",
+      "contributions": 1
+    },
+    {
+      "login": "agrounds",
+      "contributions": 1
+    },
+    {
+      "login": "afreer",
+      "contributions": 1
+    },
+    {
+      "login": "HenricF",
+      "contributions": 1
+    },
+    {
+      "login": "ispandey81",
+      "contributions": 1
+    },
+    {
+      "login": "keshav1245",
+      "contributions": 1
+    },
+    {
+      "login": "Akkowicz",
+      "contributions": 1
+    },
+    {
+      "login": "Rajmono",
+      "contributions": 1
+    },
+    {
+      "login": "duelinggalois",
+      "contributions": 1
+    },
+    {
+      "login": "ZKjellberg",
+      "contributions": 1
+    },
+    {
+      "login": "jeffersonjpr",
+      "contributions": 1
+    },
+    {
+      "login": "liangxibing",
+      "contributions": 1
+    },
+    {
+      "login": "devserkan",
+      "contributions": 1
+    },
+    {
+      "login": "sittingpretty",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-11-02T14:27:50.850127Z"
+}

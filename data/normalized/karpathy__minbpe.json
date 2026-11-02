@@ -1,0 +1,1284 @@
+{
+  "full_name": "karpathy/minbpe",
+  "owner": "karpathy",
+  "name": "minbpe",
+  "url": "https://github.com/karpathy/minbpe",
+  "description": "Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.",
+  "primary_language": "Python",
+  "topics": [],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 10993,
+  "forks": 1148,
+  "open_issues": 59,
+  "created_at": "2024-02-16T16:18:15Z",
+  "pushed_at": "2024-07-01T14:20:22Z",
+  "updated_at": "2026-11-02T14:18:03Z",
+  "commits": [
+    {
+      "sha": "1acefe89412b20245db5a22d2a02001e547dc602",
+      "author_login": "karpathy",
+      "authored_at": "2024-04-22T22:11:37Z",
+      "message": "Merge pull request #67 from shubham0204/master"
+    },
+    {
+      "sha": "45a0c2f8b29d31c5234a7e2ea9568564fc020f9d",
+      "author_login": "shubham0204",
+      "authored_at": "2024-04-22T01:34:59Z",
+      "message": "add gnp/minbpe-rs as community extensions in README.md"
+    },
+    {
+      "sha": "2963f82739b1f420093941aaf89944bf4d9947f1",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-26T23:56:33Z",
+      "message": "Merge pull request #43 from AneeshBose/aneesh/lecture-md"
+    },
+    {
+      "sha": "1fbc91cbcb9ebbb270f67b4c6ead122d216581df",
+      "author_login": "AneeshBose",
+      "authored_at": "2024-02-23T07:00:40Z",
+      "message": "fix token count"
+    },
+    {
+      "sha": "173b67f3d6cb0e7ab89fae0359c8b444ce3e10ad",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-23T00:08:03Z",
+      "message": "ugh fix image link"
+    },
+    {
+      "sha": "d201df864173e9d947432673ba428428bed5d311",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-23T00:05:15Z",
+      "message": "more work on lecture hehe. this is hard work! not sure an LLM can do this tbh"
+    },
+    {
+      "sha": "9324a08729f2d21635e88ea201faae659fb0f4d3",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-22T23:18:47Z",
+      "message": "text version of the lecture"
+    },
+    {
+      "sha": "966f46b20844494ea2ec48b8c65650e1c1b4f31a",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-21T15:38:59Z",
+      "message": "Merge pull request #33 from richzw/master"
+    },
+    {
+      "sha": "4520f7d9c3be3259d2d234404f736c4284f9603e",
+      "author_login": "richzw",
+      "authored_at": "2024-02-21T11:42:45Z",
+      "message": "update readme.md with video"
+    },
+    {
+      "sha": "f50ad93aa65072ac23e0a7e0bbc64c9c4e26cc4a",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-20T18:58:17Z",
+      "message": "Merge pull request #24 from nobleaustine/pytest_modify"
+    },
+    {
+      "sha": "24aa67b40798ffbb66e84e2f1cf25bef44b968f1",
+      "author_login": "nobleaustine",
+      "authored_at": "2024-02-20T18:44:10Z",
+      "message": "updated .gitignore"
+    },
+    {
+      "sha": "a98e0a57d83b37d7a7e124ac55e4ad55934df535",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-19T20:43:06Z",
+      "message": "create exercise to rewrite minbpe for learners"
+    },
+    {
+      "sha": "1cc9d069bbc99a7f91e9c778ad777d2dc134b0b2",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-19T18:07:01Z",
+      "message": "add small amount of code to write out the gpt4 vocab in the same format as the base class, taking into account the byte shuffle"
+    },
+    {
+      "sha": "872c086335b2766487b8f9922ff6965a19de5f29",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-19T17:47:21Z",
+      "message": "Merge pull request #18 from ahmedivy/master"
+    },
+    {
+      "sha": "f7122fe1695c8fb92f004b029029cd98827f12b8",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-19T17:43:39Z",
+      "message": "add link to another relevant issue here"
+    },
+    {
+      "sha": "fa474de142c8f27f3a6ea349cd737869934c25af",
+      "author_login": "ahmedivy",
+      "authored_at": "2024-02-19T17:43:47Z",
+      "message": "create requirements.txt"
+    },
+    {
+      "sha": "29bee94abd4dcb2bc1f12c3426c5fea04f893baf",
+      "author_login": "ahmedivy",
+      "authored_at": "2024-02-19T16:53:02Z",
+      "message": "fix linter error"
+    },
+    {
+      "sha": "aac75c8e35be097ee79455098948ceef97aa8ac1",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-19T16:15:00Z",
+      "message": "Merge pull request #17 from eltociear/patch-1"
+    },
+    {
+      "sha": "ade909f8af2e9534ea3d2f37f68e96e9703ebcac",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-19T16:13:44Z",
+      "message": "change the handling of special tokens inside encode of RegexTokenizer, make the default behavior consistent with tiktoken, i.e. the person has to explicitly declare intent to use or not use special to"
+    },
+    {
+      "sha": "4ccf644f552943a1868d816766bb0fdd8900bc73",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-19T15:52:37Z",
+      "message": "refactor the readme file and adjust the API on how special tokens are handled"
+    },
+    {
+      "sha": "a5ecf46e568fc77c39aae53ca47dcb7ba5fb4c53",
+      "author_login": "eltociear",
+      "authored_at": "2024-02-19T15:25:44Z",
+      "message": "Update regex.py"
+    },
+    {
+      "sha": "37b63c28f77f9d01a2e86a55b8ac99826265a889",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-19T14:54:49Z",
+      "message": "fix pytest -v, it was printing all of taylor swift text"
+    },
+    {
+      "sha": "e82c123ca452a3c8698a26f8e0b37e5c898799e7",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-19T14:45:36Z",
+      "message": "meaty change: adding special tokens handling, so now we have full parity with the GPT-4 Tokenizer"
+    },
+    {
+      "sha": "e0ed1bc84ec495e493482aea23eff382a0262c33",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-18T16:11:21Z",
+      "message": "add small warnings about gpt4 tokenizer just being a pretrained tokenizer"
+    },
+    {
+      "sha": "9ab2500a6733ce5336b493f2c00055c85de25138",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-18T15:50:54Z",
+      "message": "maintain todos"
+    },
+    {
+      "sha": "7843c9627b34eb15c67799b335cd6017c13e8aeb",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-18T15:24:17Z",
+      "message": "optimization: allow get_stats to update an existing counts dict. train.py runtime goes from 32s to 22s doing this. ty @gklab for original suggestion in a PR"
+    },
+    {
+      "sha": "ff20c9205ba4621a2a1b725130b557ace9c400de",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-18T15:15:35Z",
+      "message": "Merge pull request #13 from gklab/spelling_error"
+    },
+    {
+      "sha": "b52bf9b3943ad0f1511e40aacaa9838ae5446a12",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-18T15:13:20Z",
+      "message": "decompose long line here"
+    },
+    {
+      "sha": "bbf845d6cf42178586ebe405abb33e92adfcf21b",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-18T15:13:02Z",
+      "message": "let's add a version line. i learned this from llama2c, where not doing this caused a ton of chaos and suffering"
+    },
+    {
+      "sha": "cf120a4eab2cd194d014320dd8d92ceb42487af9",
+      "author_login": "gklab",
+      "authored_at": "2024-02-18T05:26:27Z",
+      "message": "Adjust comments & block commit of the models folder"
+    },
+    {
+      "sha": "a0a05f80f7e2e5cf5f5ecb6abb653acd9c821f64",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-18T02:17:27Z",
+      "message": "gitignore add"
+    },
+    {
+      "sha": "f9e19ea00d51f7d449d0cf90a5529ade6081ac04",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-18T02:16:10Z",
+      "message": "add caution around save/load of gpt4 tokenizer"
+    },
+    {
+      "sha": "a04b85accaf34190fdc5d2f966923fde3edd2fa0",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-18T01:14:42Z",
+      "message": "let's not clutter the main directory"
+    },
+    {
+      "sha": "ac3ca85205bbf882ce5d7fc59935f5f9ed51103e",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-18T01:02:17Z",
+      "message": "major refactor to make this a sensible package with nice tests etc. we almost look legitimate now"
+    },
+    {
+      "sha": "d278867d2ae0a408a28df4d2b717f47d26017661",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-18T00:37:43Z",
+      "message": "Merge branch 'ViswanathaReddyGajjala-master'"
+    },
+    {
+      "sha": "45cb371b5d502d2988f123de2a75138557528dcb",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-18T00:36:53Z",
+      "message": "simplify pytest a lot"
+    },
+    {
+      "sha": "743b3a8ad400047049ea997080db95ee2ca33aa7",
+      "author_login": "ViswanathaReddyGajjala",
+      "authored_at": "2024-02-17T23:05:01Z",
+      "message": "Refactor testing code: Consolidated tests into a single file"
+    },
+    {
+      "sha": "c86aece52d9133b6bdea4b668927e47555efa151",
+      "author_login": "ViswanathaReddyGajjala",
+      "authored_at": "2024-02-17T22:30:14Z",
+      "message": "Update README.md with pytest installation instructions"
+    },
+    {
+      "sha": "665b7823088ca3c2b153742d1ae6f42ad923d2eb",
+      "author_login": "ViswanathaReddyGajjala",
+      "authored_at": "2024-02-17T22:25:22Z",
+      "message": "added unit tests for all the tokenizers"
+    },
+    {
+      "sha": "3e684139cbcc46df590791ae3dd91d611f4051ac",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-17T17:20:02Z",
+      "message": "remove educational as constraint. i think we might be able to make this repo have teeth and have some more optimized versions. but we'd keep the simple reference code"
+    },
+    {
+      "sha": "2c521cba8b598a7af22931da9f632c3fa0773ed1",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-17T17:18:33Z",
+      "message": "major changes and refactoring, creating base class, joining the utility functions, and adding the save/load functionality in the base class"
+    },
+    {
+      "sha": "02e9e20b2500ac9e8910902b79b3830aa0556e23",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-17T01:20:41Z",
+      "message": "Merge pull request #1 from cyrilzakka/master"
+    },
+    {
+      "sha": "1abcd544718e3726cad7b9fe840c98765cba5806",
+      "author_login": "cyrilzakka",
+      "authored_at": "2024-02-17T01:10:25Z",
+      "message": "Fixes imports in train.py"
+    },
+    {
+      "sha": "cc7fb340d82031eef1ae2a1706256f570830e1e6",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-17T00:01:21Z",
+      "message": "mild improve docs"
+    },
+    {
+      "sha": "43ffc2f4410a53a34b950e47fa7b42cec6101108",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-16T23:47:02Z",
+      "message": "bunch of changes that just make sense"
+    },
+    {
+      "sha": "1c0520f111d6bf7ffbb86d53531e729a5846f707",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-16T22:57:49Z",
+      "message": "add note of caution on parity"
+    },
+    {
+      "sha": "aa2bfb95b7664fce2922ba8e73bff7e35ff135fb",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-16T22:55:12Z",
+      "message": "add a bigger test too"
+    },
+    {
+      "sha": "dd160866f06390b17c441216344b2e4922bcfb72",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-16T22:53:18Z",
+      "message": "add gpt4 compatibility test, that was pretty hairy..."
+    },
+    {
+      "sha": "f603fcdd0e2f5c3e8a0b270511ac5efe30fba3d2",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-16T17:50:36Z",
+      "message": "rename var so it looks nice"
+    },
+    {
+      "sha": "fce24150a410c43aa4e5e91ff2793b3ca96cbfcb",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-16T17:49:50Z",
+      "message": "generalize the pattern handling a bit"
+    },
+    {
+      "sha": "c09ecad140114afd5d209b92b48f2783a62e666d",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-16T17:09:45Z",
+      "message": "add call for action"
+    },
+    {
+      "sha": "579340a0f160b0a60d6d89c635739399099dd7c0",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-16T16:49:50Z",
+      "message": "initial code"
+    },
+    {
+      "sha": "1faa94c7527a04a1375d8b004a47c3a8b138d6a4",
+      "author_login": "karpathy",
+      "authored_at": "2024-02-16T16:18:16Z",
+      "message": "Initial commit"
+    }
+  ],
+  "issues": [
+    {
+      "number": 118,
+      "title": "Multilingual Corpus collection utility tool",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-09-03T19:35:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 116,
+      "title": "fix: raise ValueError instead of AssertionError for none_raise",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-08-05T04:38:00Z",
+      "closed_at": "2026-08-30T18:57:31Z",
+      "first_response_at": null
+    },
+    {
+      "number": 115,
+      "title": "encode(..., allowed_special=\"none_raise\") raises AssertionError instead of ValueError",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-08-02T07:02:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 114,
+      "title": "train() raises ValueError: max() arg is an empty sequence on empty or whitespace-only input",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-08-02T06:59:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 113,
+      "title": "docs: add community health files and README updates",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-07-09T12:05:42Z",
+      "closed_at": "2026-08-18T14:48:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 111,
+      "title": "fix: correct BPE merge annotations in test_wikipedia_example",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-03-15T13:24:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 110,
+      "title": "Fix incorrect merge sequence annotation in test_wikipedia_example",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-10T16:48:33Z",
+      "closed_at": "2026-03-21T16:11:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 109,
+      "title": "Fix incorrect function name in bpe() comment",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-03-10T16:31:16Z",
+      "closed_at": "2026-03-21T16:11:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 108,
+      "title": "Add C port (minbpe-c) to community implementations",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2026-02-18T15:53:01Z",
+      "closed_at": "2026-04-20T17:08:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 107,
+      "title": "Fix typos in exercise instructions",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-01-19T15:56:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 105,
+      "title": "get_gpt4_merges()",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-11-23T20:37:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 104,
+      "title": "Ywu/regex",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-11-13T13:02:19Z",
+      "closed_at": "2025-11-13T13:03:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 103,
+      "title": "Ywu/basic",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-11-13T07:14:23Z",
+      "closed_at": "2025-11-13T07:16:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 102,
+      "title": "Add tools and configs",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-11-10T11:42:49Z",
+      "closed_at": "2025-11-13T13:07:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 101,
+      "title": "Add RTL helpers and test_RTL.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2025-10-30T03:20:16Z",
+      "closed_at": "2025-10-30T03:21:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 100,
+      "title": "Simpler and faster encoding",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2025-10-01T17:21:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 99,
+      "title": "add parallel tokenizer",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-09-20T16:02:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 97,
+      "title": "Extract best-pair selection from _encode_chunk into find_best_pair() for clarity",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-08-07T18:39:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 96,
+      "title": "Question about the decode methods",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-06-02T08:08:34Z",
+      "closed_at": "2025-06-02T09:24:36Z",
+      "first_response_at": null
+    },
+    {
+      "number": 95,
+      "title": "Improved Training for Regex",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-03-07T10:25:26Z",
+      "closed_at": "2026-03-12T15:21:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 94,
+      "title": "A simple optimisation for regex.py",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2025-02-08T06:10:08Z",
+      "closed_at": "2025-02-08T18:46:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 93,
+      "title": "One problem in the annotations of `test_wikipedia_example` in the `tests/test_tokenizer` file",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-18T03:04:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 92,
+      "title": "LLM is worse at non-English languages",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-11-10T10:05:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 91,
+      "title": "Add pytest to requirements.txt",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-10-29T17:12:23Z",
+      "closed_at": "2025-04-30T02:34:19Z",
+      "first_response_at": null
+    },
+    {
+      "number": 90,
+      "title": "add lexicographic ordering for breaking ties to make the tokenizer deterministic",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-09-21T15:35:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 89,
+      "title": "Add pyproject toml",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-09-17T19:31:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 88,
+      "title": "updating stats across merge to reduce computation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-09-01T07:49:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 87,
+      "title": "Question about Encoder Logic",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-07-20T20:28:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 86,
+      "title": "Update README.md",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-07-01T14:20:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "Python API with C extensions for faster training and encoding",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-27T20:14:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "Optimal algorithm for _encode_chunk(): 20% faster encoding, with 0.5% better COMPRESSION",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-06-17T09:19:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "add running results",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-06-10T02:55:28Z",
+      "closed_at": "2024-06-10T02:55:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 82,
+      "title": "Deduplication of text chunks with frequency count, training and encoding 5x speedup ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-06-08T13:36:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 81,
+      "title": "LLM as calc",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-06-06T21:27:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "OSS-Fuzz Integration",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-30T00:49:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "BPE in Haskell",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-05-24T12:22:51Z",
+      "closed_at": "2026-05-25T12:28:01Z",
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "Add Optimized BatchTokenizer, Leave Others Unchanged",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-05-23T14:51:00Z",
+      "closed_at": "2024-07-22T16:53:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "What to support GPT-4O tokenizer？",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-15T01:45:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "calling len(ids) in merge() function only once to increase performance",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-05-14T05:59:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "Link to Mojo port added",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-05-14T02:23:51Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "Notebook Issue In Google Colab",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-13T15:41:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "The regular expressions break all scripts with combining marks in the middle of the syllable",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-05-12T06:50:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "Count only nonoverlapping occurences of a pair",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-05-06T09:48:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "Update regex.py to correctly parse scripts with combining marks",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-05-05T23:27:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "Amplifying your courses with my digital notes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-30T20:10:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "Instead of finding the one pair with the highest frequency and merging it at each step, do the highest N pairs",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-23T09:56:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "Using graph contraction for tokenization",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-04-22T06:20:40Z",
+      "closed_at": "2024-04-22T06:21:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "add `gnp/minbpe-rs` as community extensions in `README.md`",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-04-22T01:37:07Z",
+      "closed_at": "2024-04-22T22:11:38Z",
+      "first_response_at": null
+    },
+    {
+      "number": 66,
+      "title": "`minbpe-rs`: A pure Rust implementation of `minbpe`",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-21T15:53:16Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 65,
+      "title": "Much faster Regex tokenization using c++ and ctypes",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-04-16T22:20:43Z",
+      "closed_at": "2024-11-26T15:52:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "decode() method in GPT4Tokenizer does not handle special tokens",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-07T21:57:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": "Updated decode() method in GPT4Tokenizer so that it handles special t…",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-04-07T21:51:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "[Test workflow] Add test workflow",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-04-04T08:53:04Z",
+      "closed_at": "2024-08-13T11:59:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "Would using prompts that contain concatenated words to reduce token count negatively affect results",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-28T16:26:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "Implementation of LlamaTokenizer (without sentencepiece)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-26T10:39:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "\"regex.py\" file name conflict",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-26T01:02:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "Huggingface already has an efficient implementation of this?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-19T23:01:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "_",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-03-19T19:19:50Z",
+      "closed_at": "2024-03-19T19:21:29Z",
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "Using minBPE token encoded sentence vectors need to be padded",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-03-19T06:55:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "Improved optimization strategy for 'Merge''",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-03-08T08:27:33Z",
+      "closed_at": "2024-03-12T23:34:23Z",
+      "first_response_at": null
+    },
+    {
+      "number": 54,
+      "title": "Handle error when running out of pairs to merge",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-03-06T15:40:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "updated self.vocab initialization and reuse self._build_vocab() ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-03-02T04:42:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 52,
+      "title": "add error handling for load method",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-29T22:24:06Z",
+      "closed_at": "2024-04-04T18:44:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 51,
+      "title": "counting pairs is inaccurate for repeating tokens?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-28T12:43:56Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 50,
+      "title": "Alternative to bpe",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-28T10:48:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 49,
+      "title": "Video2Post Generation Workflow",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-26T15:56:10Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 48,
+      "title": "Optimizing minbpe to also support video tokenization (extract low-dimensional latent patches from video frames)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-02-26T12:08:30Z",
+      "closed_at": "2024-03-29T02:05:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 47,
+      "title": "Need train_multi.py example to show use with multiple input files",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-02-26T04:11:18Z",
+      "closed_at": "2024-04-10T01:43:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 46,
+      "title": "Minor improvement in the `base.py`",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-24T17:57:20Z",
+      "closed_at": "2024-02-26T23:54:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 45,
+      "title": "A thanks from self-learners community",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-24T12:28:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 44,
+      "title": "how to deal with special tokens for multiple files",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-24T12:01:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 43,
+      "title": "fix minor issue in token count ",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-23T07:02:46Z",
+      "closed_at": "2024-02-26T23:56:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 42,
+      "title": "Update lecture.md based on video tutorial content from 08:15 through 28:23 ",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-23T05:43:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 41,
+      "title": "Automating testing using github actions",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-22T17:40:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 40,
+      "title": "Use `pyproject.toml`, `pdm` and `ruff` for improved reproducibility and cleaner code",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-22T14:01:39Z",
+      "closed_at": "2026-04-03T22:44:06Z",
+      "first_response_at": null
+    },
+    {
+      "number": 39,
+      "title": "Create setup.py",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-22T09:42:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 38,
+      "title": "Train BasicTokenizer on GPU with PyTorch, 100x speedup",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-22T01:33:24Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 37,
+      "title": "Byte2Byte Tokenizer",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-21T23:10:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 36,
+      "title": "Interface to remove Unseen or rare encoding paths from downloaded models given new dataset",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-02-21T21:23:36Z",
+      "closed_at": "2024-10-07T14:43:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 35,
+      "title": "Optimise merge (~2x speedup)",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-21T18:28:49Z",
+      "closed_at": "2024-02-23T20:32:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 34,
+      "title": "Fix small typos",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-21T17:18:25Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 33,
+      "title": "update readme.md with video link",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-21T11:43:58Z",
+      "closed_at": "2024-02-21T15:38:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 32,
+      "title": "Simplify encode function",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-21T08:13:07Z",
+      "closed_at": "2024-02-21T10:00:11Z",
+      "first_response_at": null
+    },
+    {
+      "number": 31,
+      "title": "`regex.py` is feature-engineering and will probably degrade performance when scaling to many languages",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-02-21T06:10:53Z",
+      "closed_at": "2024-02-21T15:46:58Z",
+      "first_response_at": null
+    },
+    {
+      "number": 30,
+      "title": "Alternative to „Vector Representation Pre-training“ possible?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-21T05:41:50Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 29,
+      "title": "Vectorized BasicTokenizer.train?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-02-21T05:19:29Z",
+      "closed_at": "2024-02-22T03:02:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 28,
+      "title": "A small readability improvement.",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-21T02:06:54Z",
+      "closed_at": "2024-02-21T15:39:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 27,
+      "title": "suggestion: use counter",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-21T01:14:09Z",
+      "closed_at": "2024-02-21T15:41:13Z",
+      "first_response_at": null
+    },
+    {
+      "number": 26,
+      "title": "Simplify generation of printable representation",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-21T00:53:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 25,
+      "title": "A probably faster way for training the tokenizer (pure Python)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-20T21:28:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 24,
+      "title": "updated .gitignore",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-20T18:57:16Z",
+      "closed_at": "2024-02-20T18:58:17Z",
+      "first_response_at": null
+    },
+    {
+      "number": 23,
+      "title": "changed test_strings into a function decorated with @pytest.fixtures",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-20T15:13:30Z",
+      "closed_at": "2024-02-20T18:41:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 22,
+      "title": "Batch encoding decoding",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-02-20T13:21:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 21,
+      "title": "Update README.md",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-20T11:55:07Z",
+      "closed_at": "2024-02-20T15:33:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 19,
+      "title": "Minbpe as a potential course ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2024-02-19T23:56:00Z",
+      "closed_at": "2024-03-01T01:16:05Z",
+      "first_response_at": null
+    },
+    {
+      "number": 18,
+      "title": "Add requirements.txt",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-19T17:46:25Z",
+      "closed_at": "2024-02-19T17:47:21Z",
+      "first_response_at": null
+    },
+    {
+      "number": 17,
+      "title": "Update regex.py",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-19T15:25:55Z",
+      "closed_at": "2024-02-19T16:15:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 16,
+      "title": "this is test",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-19T15:18:29Z",
+      "closed_at": "2024-02-19T16:14:27Z",
+      "first_response_at": null
+    },
+    {
+      "number": 15,
+      "title": "What is the difference about the bbpe vocab decode method in minbpe against huggingface transformers?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-19T12:08:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 14,
+      "title": "add requirements.txt",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2024-02-18T15:53:53Z",
+      "closed_at": "2024-02-18T15:58:03Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "karpathy",
+      "contributions": 41
+    },
+    {
+      "login": "ViswanathaReddyGajjala",
+      "contributions": 3
+    },
+    {
+      "login": "ahmedivy",
+      "contributions": 2
+    },
+    {
+      "login": "AneeshBose",
+      "contributions": 1
+    },
+    {
+      "login": "cyrilzakka",
+      "contributions": 1
+    },
+    {
+      "login": "eltociear",
+      "contributions": 1
+    },
+    {
+      "login": "shubham0204",
+      "contributions": 1
+    },
+    {
+      "login": "richzw",
+      "contributions": 1
+    },
+    {
+      "login": "gklab",
+      "contributions": 1
+    },
+    {
+      "login": "nobleaustine",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-11-02T14:27:48.564564Z"
+}
