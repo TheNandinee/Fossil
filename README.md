@@ -4,8 +4,8 @@
 
 No opinions. No AI guessing. Every conclusion traces back to a number.
 
-![autopsies](https://img.shields.io/badge/autopsies-91-blue)
-![updated](https://img.shields.io/badge/updated-2026_11_02-green)
+![autopsies](https://img.shields.io/badge/autopsies-94-blue)
+![updated](https://img.shields.io/badge/updated-2026_11_09-green)
 [![Weekly Excavation](https://github.com/TheNandinee/Fossil/actions/workflows/weekly.yml/badge.svg)](https://github.com/TheNandinee/Fossil/actions/workflows/weekly.yml)
 
 ## 🔬 How it works
@@ -63,99 +63,102 @@ Bug fixes, new excavation strategies, provider integrations, performance improve
 | 4 | [unknwon/go-fundamental-programming](reports/repositories/unknwon__go-fundamental-programming.md) | `bus_factor_collapse` | 1.00 |
 | 5 | [MorvanZhou/tutorials](reports/repositories/MorvanZhou__tutorials.md) | `bus_factor_collapse` | 1.00 |
 | 6 | [xuchengsheng/spring-reading](reports/repositories/xuchengsheng__spring-reading.md) | `bus_factor_collapse` | 1.00 |
-| 7 | [donnemartin/gitsome](reports/repositories/donnemartin__gitsome.md) | `bus_factor_collapse` | 0.99 |
-| 8 | [haltu/muuri](reports/repositories/haltu__muuri.md) | `bus_factor_collapse` | 0.99 |
-| 9 | [coder2gwy/coder2gwy](reports/repositories/coder2gwy__coder2gwy.md) | `bus_factor_collapse` | 0.99 |
-| 10 | [forkingdog/UITableView-FDTemplateLayoutCell](reports/repositories/forkingdog__UITableView-FDTemplateLayoutCell.md) | `bus_factor_collapse` | 0.97 |
-| 11 | [fastai/numerical-linear-algebra](reports/repositories/fastai__numerical-linear-algebra.md) | `bus_factor_collapse` | 0.97 |
-| 12 | [wong2/chatgpt-google-extension](reports/repositories/wong2__chatgpt-google-extension.md) | `bus_factor_collapse` | 0.97 |
-| 13 | [vahidk/EffectiveTensorflow](reports/repositories/vahidk__EffectiveTensorflow.md) | `bus_factor_collapse` | 0.96 |
-| 14 | [jwagner/smartcrop.js](reports/repositories/jwagner__smartcrop.js.md) | `maintainer_abandonment` | 0.96 |
-| 15 | [pxb1988/dex2jar](reports/repositories/pxb1988__dex2jar.md) | `bus_factor_collapse` | 0.96 |
-| 16 | [zalmoxisus/redux-devtools-extension](reports/repositories/zalmoxisus__redux-devtools-extension.md) | `maintainer_abandonment` | 0.96 |
-| 17 | [ttroy50/cmake-examples](reports/repositories/ttroy50__cmake-examples.md) | `maintainer_abandonment` | 0.95 |
-| 18 | [answershuto/learnVue](reports/repositories/answershuto__learnVue.md) | `maintainer_abandonment` | 0.95 |
-| 19 | [httpie/http-prompt](reports/repositories/httpie__http-prompt.md) | `maintainer_abandonment` | 0.94 |
-| 20 | [jorgef/engineeringladders](reports/repositories/jorgef__engineeringladders.md) | `maintainer_abandonment` | 0.94 |
-| 21 | [fighting41love/funNLP](reports/repositories/fighting41love__funNLP.md) | `maintainer_abandonment` | 0.94 |
-| 22 | [kkroening/ffmpeg-python](reports/repositories/kkroening__ffmpeg-python.md) | `maintainer_abandonment` | 0.94 |
-| 23 | [xingshaocheng/architect-awesome](reports/repositories/xingshaocheng__architect-awesome.md) | `maintainer_abandonment` | 0.94 |
-| 24 | [oblador/react-native-animatable](reports/repositories/oblador__react-native-animatable.md) | `maintainer_abandonment` | 0.94 |
-| 25 | [datastacktv/data-engineer-roadmap](reports/repositories/datastacktv__data-engineer-roadmap.md) | `maintainer_abandonment` | 0.94 |
-| 26 | [gao-sun/eul](reports/repositories/gao-sun__eul.md) | `maintainer_abandonment` | 0.93 |
-| 27 | [gnab/remark](reports/repositories/gnab__remark.md) | `maintainer_abandonment` | 0.93 |
-| 28 | [gridsome/gridsome](reports/repositories/gridsome__gridsome.md) | `maintainer_abandonment` | 0.93 |
-| 29 | [yandex/gixy](reports/repositories/yandex__gixy.md) | `maintainer_abandonment` | 0.93 |
-| 30 | [zalandoresearch/fashion-mnist](reports/repositories/zalandoresearch__fashion-mnist.md) | `maintainer_abandonment` | 0.93 |
-| 31 | [dangrossman/daterangepicker](reports/repositories/dangrossman__daterangepicker.md) | `maintainer_abandonment` | 0.93 |
-| 32 | [babun/babun](reports/repositories/babun__babun.md) | `maintainer_abandonment` | 0.92 |
-| 33 | [TeamStuQ/skill-map](reports/repositories/TeamStuQ__skill-map.md) | `maintainer_abandonment` | 0.92 |
-| 34 | [MorvanZhou/PyTorch-Tutorial](reports/repositories/MorvanZhou__PyTorch-Tutorial.md) | `maintainer_abandonment` | 0.92 |
-| 35 | [karpathy/minbpe](reports/repositories/karpathy__minbpe.md) | `maintainer_abandonment` | 0.92 |
-| 36 | [skeeto/endlessh](reports/repositories/skeeto__endlessh.md) | `maintainer_abandonment` | 0.92 |
-| 37 | [aalhour/awesome-compilers](reports/repositories/aalhour__awesome-compilers.md) | `maintainer_abandonment` | 0.91 |
-| 38 | [GrowingGit/GitHub-Chinese-Top-Charts](reports/repositories/GrowingGit__GitHub-Chinese-Top-Charts.md) | `bus_factor_collapse` | 0.91 |
-| 39 | [francistao/LearningNotes](reports/repositories/francistao__LearningNotes.md) | `maintainer_abandonment` | 0.91 |
-| 40 | [paascloud/paascloud-master](reports/repositories/paascloud__paascloud-master.md) | `maintainer_abandonment` | 0.91 |
-| 41 | [dennybritz/reinforcement-learning](reports/repositories/dennybritz__reinforcement-learning.md) | `maintainer_abandonment` | 0.90 |
-| 42 | [justjavac/free-programming-books-zh_CN](reports/repositories/justjavac__free-programming-books-zh_CN.md) | `maintainer_abandonment` | 0.90 |
-| 43 | [Bigkoo/Android-PickerView](reports/repositories/Bigkoo__Android-PickerView.md) | `maintainer_abandonment` | 0.90 |
-| 44 | [michalsnik/aos](reports/repositories/michalsnik__aos.md) | `maintainer_abandonment` | 0.90 |
-| 45 | [zai-org/ChatGLM2-6B](reports/repositories/zai-org__ChatGLM2-6B.md) | `maintainer_abandonment` | 0.90 |
-| 46 | [chenglou/react-motion](reports/repositories/chenglou__react-motion.md) | `maintainer_abandonment` | 0.89 |
-| 47 | [chiraggude/awesome-laravel](reports/repositories/chiraggude__awesome-laravel.md) | `maintainer_abandonment` | 0.89 |
-| 48 | [nvbn/thefuck](reports/repositories/nvbn__thefuck.md) | `maintainer_abandonment` | 0.89 |
-| 49 | [jfeinstein10/SlidingMenu](reports/repositories/jfeinstein10__SlidingMenu.md) | `maintainer_abandonment` | 0.87 |
-| 50 | [microsoft/Bringing-Old-Photos-Back-to-Life](reports/repositories/microsoft__Bringing-Old-Photos-Back-to-Life.md) | `maintainer_abandonment` | 0.87 |
-| 51 | [eligrey/FileSaver.js](reports/repositories/eligrey__FileSaver.js.md) | `maintainer_abandonment` | 0.87 |
-| 52 | [PanJiaChen/vue-element-admin](reports/repositories/PanJiaChen__vue-element-admin.md) | `maintainer_abandonment` | 0.87 |
-| 53 | [CoderMJLee/MJExtension](reports/repositories/CoderMJLee__MJExtension.md) | `maintainer_abandonment` | 0.86 |
-| 54 | [acdlite/react-fiber-architecture](reports/repositories/acdlite__react-fiber-architecture.md) | `maintainer_abandonment` | 0.86 |
-| 55 | [bendc/frontend-guidelines](reports/repositories/bendc__frontend-guidelines.md) | `maintainer_abandonment` | 0.86 |
-| 56 | [necolas/normalize.css](reports/repositories/necolas__normalize.css.md) | `maintainer_abandonment` | 0.85 |
-| 57 | [CodeByZach/pace](reports/repositories/CodeByZach__pace.md) | `maintainer_abandonment` | 0.85 |
-| 58 | [prakhar1989/awesome-courses](reports/repositories/prakhar1989__awesome-courses.md) | `maintainer_abandonment` | 0.85 |
-| 59 | [pytube/pytube](reports/repositories/pytube__pytube.md) | `maintainer_abandonment` | 0.85 |
-| 60 | [StartBootstrap/startbootstrap-sb-admin-2](reports/repositories/StartBootstrap__startbootstrap-sb-admin-2.md) | `maintainer_abandonment` | 0.84 |
-| 61 | [ryanmcdermott/clean-code-javascript](reports/repositories/ryanmcdermott__clean-code-javascript.md) | `maintainer_abandonment` | 0.84 |
-| 62 | [lengstrom/fast-style-transfer](reports/repositories/lengstrom__fast-style-transfer.md) | `maintainer_abandonment` | 0.84 |
-| 63 | [YMFE/yapi](reports/repositories/YMFE__yapi.md) | `maintainer_abandonment` | 0.83 |
-| 64 | [jhu-ep-coursera/fullstack-course4](reports/repositories/jhu-ep-coursera__fullstack-course4.md) | `maintainer_abandonment` | 0.83 |
-| 65 | [nostalgic-css/NES.css](reports/repositories/nostalgic-css__NES.css.md) | `maintainer_abandonment` | 0.83 |
-| 66 | [tiimgreen/github-cheat-sheet](reports/repositories/tiimgreen__github-cheat-sheet.md) | `maintainer_abandonment` | 0.82 |
-| 67 | [evilstreak/markdown-js](reports/repositories/evilstreak__markdown-js.md) | `maintainer_abandonment` | 0.82 |
-| 68 | [tmux-plugins/tmux-resurrect](reports/repositories/tmux-plugins__tmux-resurrect.md) | `maintainer_abandonment` | 0.82 |
-| 69 | [TypeStrong/ts-node](reports/repositories/TypeStrong__ts-node.md) | `maintainer_abandonment` | 0.82 |
-| 70 | [seemoo-lab/openhaystack](reports/repositories/seemoo-lab__openhaystack.md) | `maintainer_abandonment` | 0.81 |
-| 71 | [jlevy/the-art-of-command-line](reports/repositories/jlevy__the-art-of-command-line.md) | `maintainer_abandonment` | 0.81 |
-| 72 | [animate-css/animate.css](reports/repositories/animate-css__animate.css.md) | `maintainer_abandonment` | 0.80 |
-| 73 | [scutan90/DeepLearning-500-questions](reports/repositories/scutan90__DeepLearning-500-questions.md) | `maintainer_abandonment` | 0.80 |
-| 74 | [Tencent/secguide](reports/repositories/Tencent__secguide.md) | `maintainer_abandonment` | 0.79 |
-| 75 | [getumbrel/llama-gpt](reports/repositories/getumbrel__llama-gpt.md) | `maintainer_abandonment` | 0.78 |
-| 76 | [visionmedia/page.js](reports/repositories/visionmedia__page.js.md) | `maintainer_abandonment` | 0.77 |
-| 77 | [pingcap/talent-plan](reports/repositories/pingcap__talent-plan.md) | `maintainer_abandonment` | 0.77 |
-| 78 | [alexanderepstein/Bash-Snippets](reports/repositories/alexanderepstein__Bash-Snippets.md) | `maintainer_abandonment` | 0.77 |
-| 79 | [futurice/ios-good-practices](reports/repositories/futurice__ios-good-practices.md) | `maintainer_abandonment` | 0.76 |
-| 80 | [CompVis/stable-diffusion](reports/repositories/CompVis__stable-diffusion.md) | `maintainer_abandonment` | 0.76 |
-| 81 | [rt2zz/redux-persist](reports/repositories/rt2zz__redux-persist.md) | `maintainer_abandonment` | 0.76 |
-| 82 | [open-mmlab/mmsegmentation](reports/repositories/open-mmlab__mmsegmentation.md) | `maintainer_abandonment` | 0.75 |
-| 83 | [travis-ci/travis-ci](reports/repositories/travis-ci__travis-ci.md) | `maintainer_abandonment` | 0.74 |
-| 84 | [bnb/awesome-hyper](reports/repositories/bnb__awesome-hyper.md) | `maintainer_abandonment` | 0.74 |
-| 85 | [resume/resume.github.com](reports/repositories/resume__resume.github.com.md) | `maintainer_abandonment` | 0.72 |
-| 86 | [jamiebuilds/itsy-bitsy-data-structures](reports/repositories/jamiebuilds__itsy-bitsy-data-structures.md) | `maintainer_abandonment` | 0.72 |
-| 87 | [react/create-react-app](reports/repositories/react__create-react-app.md) | `maintainer_abandonment` | 0.64 |
-| 88 | [Rudrabha/Wav2Lip](reports/repositories/Rudrabha__Wav2Lip.md) | `dormant` | 0.52 |
-| 89 | [ByteByteGoHq/system-design-101](reports/repositories/ByteByteGoHq__system-design-101.md) | `dormant` | 0.51 |
-| 90 | [deepseek-ai/DeepSeek-R1](reports/repositories/deepseek-ai__DeepSeek-R1.md) | `dormant` | 0.45 |
-| 91 | [anthropics/courses](reports/repositories/anthropics__courses.md) | `dormant` | 0.36 |
+| 7 | [alyssaxuu/flowy](reports/repositories/alyssaxuu__flowy.md) | `bus_factor_collapse` | 0.99 |
+| 8 | [donnemartin/gitsome](reports/repositories/donnemartin__gitsome.md) | `bus_factor_collapse` | 0.99 |
+| 9 | [haltu/muuri](reports/repositories/haltu__muuri.md) | `bus_factor_collapse` | 0.99 |
+| 10 | [coder2gwy/coder2gwy](reports/repositories/coder2gwy__coder2gwy.md) | `bus_factor_collapse` | 0.99 |
+| 11 | [forkingdog/UITableView-FDTemplateLayoutCell](reports/repositories/forkingdog__UITableView-FDTemplateLayoutCell.md) | `bus_factor_collapse` | 0.97 |
+| 12 | [fastai/numerical-linear-algebra](reports/repositories/fastai__numerical-linear-algebra.md) | `bus_factor_collapse` | 0.97 |
+| 13 | [wong2/chatgpt-google-extension](reports/repositories/wong2__chatgpt-google-extension.md) | `bus_factor_collapse` | 0.97 |
+| 14 | [vahidk/EffectiveTensorflow](reports/repositories/vahidk__EffectiveTensorflow.md) | `bus_factor_collapse` | 0.96 |
+| 15 | [jwagner/smartcrop.js](reports/repositories/jwagner__smartcrop.js.md) | `maintainer_abandonment` | 0.96 |
+| 16 | [pxb1988/dex2jar](reports/repositories/pxb1988__dex2jar.md) | `bus_factor_collapse` | 0.96 |
+| 17 | [zalmoxisus/redux-devtools-extension](reports/repositories/zalmoxisus__redux-devtools-extension.md) | `maintainer_abandonment` | 0.96 |
+| 18 | [ttroy50/cmake-examples](reports/repositories/ttroy50__cmake-examples.md) | `maintainer_abandonment` | 0.95 |
+| 19 | [answershuto/learnVue](reports/repositories/answershuto__learnVue.md) | `maintainer_abandonment` | 0.95 |
+| 20 | [httpie/http-prompt](reports/repositories/httpie__http-prompt.md) | `maintainer_abandonment` | 0.94 |
+| 21 | [jorgef/engineeringladders](reports/repositories/jorgef__engineeringladders.md) | `maintainer_abandonment` | 0.94 |
+| 22 | [fighting41love/funNLP](reports/repositories/fighting41love__funNLP.md) | `maintainer_abandonment` | 0.94 |
+| 23 | [kkroening/ffmpeg-python](reports/repositories/kkroening__ffmpeg-python.md) | `maintainer_abandonment` | 0.94 |
+| 24 | [xingshaocheng/architect-awesome](reports/repositories/xingshaocheng__architect-awesome.md) | `maintainer_abandonment` | 0.94 |
+| 25 | [oblador/react-native-animatable](reports/repositories/oblador__react-native-animatable.md) | `maintainer_abandonment` | 0.94 |
+| 26 | [datastacktv/data-engineer-roadmap](reports/repositories/datastacktv__data-engineer-roadmap.md) | `maintainer_abandonment` | 0.94 |
+| 27 | [gao-sun/eul](reports/repositories/gao-sun__eul.md) | `maintainer_abandonment` | 0.93 |
+| 28 | [gnab/remark](reports/repositories/gnab__remark.md) | `maintainer_abandonment` | 0.93 |
+| 29 | [gridsome/gridsome](reports/repositories/gridsome__gridsome.md) | `maintainer_abandonment` | 0.93 |
+| 30 | [yandex/gixy](reports/repositories/yandex__gixy.md) | `maintainer_abandonment` | 0.93 |
+| 31 | [zalandoresearch/fashion-mnist](reports/repositories/zalandoresearch__fashion-mnist.md) | `maintainer_abandonment` | 0.93 |
+| 32 | [dangrossman/daterangepicker](reports/repositories/dangrossman__daterangepicker.md) | `maintainer_abandonment` | 0.93 |
+| 33 | [babun/babun](reports/repositories/babun__babun.md) | `maintainer_abandonment` | 0.92 |
+| 34 | [TeamStuQ/skill-map](reports/repositories/TeamStuQ__skill-map.md) | `maintainer_abandonment` | 0.92 |
+| 35 | [MorvanZhou/PyTorch-Tutorial](reports/repositories/MorvanZhou__PyTorch-Tutorial.md) | `maintainer_abandonment` | 0.92 |
+| 36 | [karpathy/minbpe](reports/repositories/karpathy__minbpe.md) | `maintainer_abandonment` | 0.92 |
+| 37 | [skeeto/endlessh](reports/repositories/skeeto__endlessh.md) | `maintainer_abandonment` | 0.92 |
+| 38 | [aalhour/awesome-compilers](reports/repositories/aalhour__awesome-compilers.md) | `maintainer_abandonment` | 0.91 |
+| 39 | [GrowingGit/GitHub-Chinese-Top-Charts](reports/repositories/GrowingGit__GitHub-Chinese-Top-Charts.md) | `bus_factor_collapse` | 0.91 |
+| 40 | [francistao/LearningNotes](reports/repositories/francistao__LearningNotes.md) | `maintainer_abandonment` | 0.91 |
+| 41 | [paascloud/paascloud-master](reports/repositories/paascloud__paascloud-master.md) | `maintainer_abandonment` | 0.91 |
+| 42 | [dennybritz/reinforcement-learning](reports/repositories/dennybritz__reinforcement-learning.md) | `maintainer_abandonment` | 0.90 |
+| 43 | [justjavac/free-programming-books-zh_CN](reports/repositories/justjavac__free-programming-books-zh_CN.md) | `maintainer_abandonment` | 0.90 |
+| 44 | [Bigkoo/Android-PickerView](reports/repositories/Bigkoo__Android-PickerView.md) | `maintainer_abandonment` | 0.90 |
+| 45 | [michalsnik/aos](reports/repositories/michalsnik__aos.md) | `maintainer_abandonment` | 0.90 |
+| 46 | [zai-org/ChatGLM2-6B](reports/repositories/zai-org__ChatGLM2-6B.md) | `maintainer_abandonment` | 0.90 |
+| 47 | [chenglou/react-motion](reports/repositories/chenglou__react-motion.md) | `maintainer_abandonment` | 0.89 |
+| 48 | [chiraggude/awesome-laravel](reports/repositories/chiraggude__awesome-laravel.md) | `maintainer_abandonment` | 0.89 |
+| 49 | [nvbn/thefuck](reports/repositories/nvbn__thefuck.md) | `maintainer_abandonment` | 0.89 |
+| 50 | [jfeinstein10/SlidingMenu](reports/repositories/jfeinstein10__SlidingMenu.md) | `maintainer_abandonment` | 0.87 |
+| 51 | [microsoft/Bringing-Old-Photos-Back-to-Life](reports/repositories/microsoft__Bringing-Old-Photos-Back-to-Life.md) | `maintainer_abandonment` | 0.87 |
+| 52 | [eligrey/FileSaver.js](reports/repositories/eligrey__FileSaver.js.md) | `maintainer_abandonment` | 0.87 |
+| 53 | [PanJiaChen/vue-element-admin](reports/repositories/PanJiaChen__vue-element-admin.md) | `maintainer_abandonment` | 0.87 |
+| 54 | [CoderMJLee/MJExtension](reports/repositories/CoderMJLee__MJExtension.md) | `maintainer_abandonment` | 0.86 |
+| 55 | [acdlite/react-fiber-architecture](reports/repositories/acdlite__react-fiber-architecture.md) | `maintainer_abandonment` | 0.86 |
+| 56 | [karpathy/char-rnn](reports/repositories/karpathy__char-rnn.md) | `maintainer_abandonment` | 0.86 |
+| 57 | [bendc/frontend-guidelines](reports/repositories/bendc__frontend-guidelines.md) | `maintainer_abandonment` | 0.86 |
+| 58 | [necolas/normalize.css](reports/repositories/necolas__normalize.css.md) | `maintainer_abandonment` | 0.85 |
+| 59 | [CodeByZach/pace](reports/repositories/CodeByZach__pace.md) | `maintainer_abandonment` | 0.85 |
+| 60 | [prakhar1989/awesome-courses](reports/repositories/prakhar1989__awesome-courses.md) | `maintainer_abandonment` | 0.85 |
+| 61 | [pytube/pytube](reports/repositories/pytube__pytube.md) | `maintainer_abandonment` | 0.85 |
+| 62 | [StartBootstrap/startbootstrap-sb-admin-2](reports/repositories/StartBootstrap__startbootstrap-sb-admin-2.md) | `maintainer_abandonment` | 0.84 |
+| 63 | [ryanmcdermott/clean-code-javascript](reports/repositories/ryanmcdermott__clean-code-javascript.md) | `maintainer_abandonment` | 0.84 |
+| 64 | [lengstrom/fast-style-transfer](reports/repositories/lengstrom__fast-style-transfer.md) | `maintainer_abandonment` | 0.84 |
+| 65 | [YMFE/yapi](reports/repositories/YMFE__yapi.md) | `maintainer_abandonment` | 0.83 |
+| 66 | [jhu-ep-coursera/fullstack-course4](reports/repositories/jhu-ep-coursera__fullstack-course4.md) | `maintainer_abandonment` | 0.83 |
+| 67 | [nostalgic-css/NES.css](reports/repositories/nostalgic-css__NES.css.md) | `maintainer_abandonment` | 0.83 |
+| 68 | [tiimgreen/github-cheat-sheet](reports/repositories/tiimgreen__github-cheat-sheet.md) | `maintainer_abandonment` | 0.82 |
+| 69 | [evilstreak/markdown-js](reports/repositories/evilstreak__markdown-js.md) | `maintainer_abandonment` | 0.82 |
+| 70 | [tmux-plugins/tmux-resurrect](reports/repositories/tmux-plugins__tmux-resurrect.md) | `maintainer_abandonment` | 0.82 |
+| 71 | [TypeStrong/ts-node](reports/repositories/TypeStrong__ts-node.md) | `maintainer_abandonment` | 0.82 |
+| 72 | [gaearon/react-hot-loader](reports/repositories/gaearon__react-hot-loader.md) | `maintainer_abandonment` | 0.82 |
+| 73 | [seemoo-lab/openhaystack](reports/repositories/seemoo-lab__openhaystack.md) | `maintainer_abandonment` | 0.81 |
+| 74 | [jlevy/the-art-of-command-line](reports/repositories/jlevy__the-art-of-command-line.md) | `maintainer_abandonment` | 0.81 |
+| 75 | [animate-css/animate.css](reports/repositories/animate-css__animate.css.md) | `maintainer_abandonment` | 0.80 |
+| 76 | [scutan90/DeepLearning-500-questions](reports/repositories/scutan90__DeepLearning-500-questions.md) | `maintainer_abandonment` | 0.80 |
+| 77 | [Tencent/secguide](reports/repositories/Tencent__secguide.md) | `maintainer_abandonment` | 0.79 |
+| 78 | [getumbrel/llama-gpt](reports/repositories/getumbrel__llama-gpt.md) | `maintainer_abandonment` | 0.78 |
+| 79 | [visionmedia/page.js](reports/repositories/visionmedia__page.js.md) | `maintainer_abandonment` | 0.77 |
+| 80 | [pingcap/talent-plan](reports/repositories/pingcap__talent-plan.md) | `maintainer_abandonment` | 0.77 |
+| 81 | [alexanderepstein/Bash-Snippets](reports/repositories/alexanderepstein__Bash-Snippets.md) | `maintainer_abandonment` | 0.77 |
+| 82 | [futurice/ios-good-practices](reports/repositories/futurice__ios-good-practices.md) | `maintainer_abandonment` | 0.76 |
+| 83 | [CompVis/stable-diffusion](reports/repositories/CompVis__stable-diffusion.md) | `maintainer_abandonment` | 0.76 |
+| 84 | [rt2zz/redux-persist](reports/repositories/rt2zz__redux-persist.md) | `maintainer_abandonment` | 0.76 |
+| 85 | [open-mmlab/mmsegmentation](reports/repositories/open-mmlab__mmsegmentation.md) | `maintainer_abandonment` | 0.75 |
+| 86 | [travis-ci/travis-ci](reports/repositories/travis-ci__travis-ci.md) | `maintainer_abandonment` | 0.74 |
+| 87 | [bnb/awesome-hyper](reports/repositories/bnb__awesome-hyper.md) | `maintainer_abandonment` | 0.74 |
+| 88 | [resume/resume.github.com](reports/repositories/resume__resume.github.com.md) | `maintainer_abandonment` | 0.72 |
+| 89 | [jamiebuilds/itsy-bitsy-data-structures](reports/repositories/jamiebuilds__itsy-bitsy-data-structures.md) | `maintainer_abandonment` | 0.72 |
+| 90 | [react/create-react-app](reports/repositories/react__create-react-app.md) | `maintainer_abandonment` | 0.64 |
+| 91 | [Rudrabha/Wav2Lip](reports/repositories/Rudrabha__Wav2Lip.md) | `dormant` | 0.52 |
+| 92 | [ByteByteGoHq/system-design-101](reports/repositories/ByteByteGoHq__system-design-101.md) | `dormant` | 0.51 |
+| 93 | [deepseek-ai/DeepSeek-R1](reports/repositories/deepseek-ai__DeepSeek-R1.md) | `dormant` | 0.45 |
+| 94 | [anthropics/courses](reports/repositories/anthropics__courses.md) | `dormant` | 0.36 |
 
 ## ⚰️ Most common causes of death
 
-- `maintainer_abandonment`: 72
-- `bus_factor_collapse`: 15
+- `maintainer_abandonment`: 74
+- `bus_factor_collapse`: 16
 - `dormant`: 4
 
-**Total projects excavated: 91**
+**Total projects excavated: 94**
 
 
 ## 🤖 Automation

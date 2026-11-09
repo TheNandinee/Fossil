@@ -1,0 +1,2127 @@
+{
+  "full_name": "gaearon/react-hot-loader",
+  "owner": "gaearon",
+  "name": "react-hot-loader",
+  "url": "https://github.com/gaearon/react-hot-loader",
+  "description": "Tweak React components in real time. (Deprecated: use Fast Refresh instead.)",
+  "primary_language": "JavaScript",
+  "topics": [],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 12148,
+  "forks": 771,
+  "open_issues": 463,
+  "created_at": "2014-07-12T23:49:43Z",
+  "pushed_at": "2023-02-10T02:42:07Z",
+  "updated_at": "2026-11-04T16:41:22Z",
+  "commits": [
+    {
+      "sha": "07d1f4e080f18dd83273be5bd02863ce1caf892e",
+      "author_login": "theKashey",
+      "authored_at": "2022-11-13T04:20:12Z",
+      "message": "4.13.1"
+    },
+    {
+      "sha": "bddd17971a91d805cc42cc8eb64cf7a5fb7e3fed",
+      "author_login": "psierks",
+      "authored_at": "2022-10-30T08:05:37Z",
+      "message": "update loader-utils version (#1849)"
+    },
+    {
+      "sha": "f58a9319266cac630119727e8d681f3a5111348b",
+      "author_login": "tennox",
+      "authored_at": "2022-10-24T03:02:36Z",
+      "message": "Remove space after peerDependency version definition (#1843)"
+    },
+    {
+      "sha": "642b7059184d9101ce8a1a6ba83594e5a435644b",
+      "author_login": "Undermaken",
+      "authored_at": "2022-05-29T02:30:33Z",
+      "message": "`README.md`fix typo (#1811)"
+    },
+    {
+      "sha": "ed8b31080e766ae07c0dd2dc27b639df45cbc0c9",
+      "author_login": "loren138",
+      "authored_at": "2021-06-01T20:59:10Z",
+      "message": "Note create-react-app support for fast refresh in readme (#1708)"
+    },
+    {
+      "sha": "6032f4255e0268bb794c1e9b8ae5b436400ffbb5",
+      "author_login": "theKashey",
+      "authored_at": "2020-09-22T12:46:33Z",
+      "message": "chore(release): 4.13.0"
+    },
+    {
+      "sha": "c05396b8d08c5e3c0528bebfaea371ed5aa3eddf",
+      "author_login": "theKashey",
+      "authored_at": "2020-09-22T12:46:12Z",
+      "message": "feat: support React 17 (#1557)"
+    },
+    {
+      "sha": "e44103aeb812f386b119f6564b55294210c1b47a",
+      "author_login": "theKashey",
+      "authored_at": "2020-08-31T09:26:18Z",
+      "message": "fix: tailUpdate might be blocked by a PureComponent (#1448)"
+    },
+    {
+      "sha": "74d3d9b4c7f94df17fedd53f3174bc218c1c3cc6",
+      "author_login": "gaearon",
+      "authored_at": "2020-08-04T12:59:37Z",
+      "message": "Merge pull request #1513 from gaearon/gaearon-patch-1"
+    },
+    {
+      "sha": "d73d50529bfe37113109ae8f3ae27d7f4da05471",
+      "author_login": "gaearon",
+      "authored_at": "2020-08-04T12:58:56Z",
+      "message": "README: Link to Fast Refresh Webpack plugin"
+    },
+    {
+      "sha": "e6035ec88cf24c61ea3a69c1a36b56ad54256212",
+      "author_login": "solimant",
+      "authored_at": "2020-06-26T23:26:54Z",
+      "message": "Make Limitations clearer to understand (#1472)"
+    },
+    {
+      "sha": "5301dc8401b10d9e2c8204ac0dd837b6442e6f15",
+      "author_login": "floriangosse",
+      "authored_at": "2020-06-25T00:26:42Z",
+      "message": "docs: fix typo (#1471)"
+    },
+    {
+      "sha": "92961be0b44260d3d3f1b8864aa699766572a67c",
+      "author_login": "wojtekmaj",
+      "authored_at": "2020-05-12T06:38:24Z",
+      "message": "Discourage using webpack loader for all the files (#1452)"
+    },
+    {
+      "sha": "ec3447f163719f0cbe4a0bd0ceccb1059e0beec9",
+      "author_login": "jzendo",
+      "authored_at": "2020-05-10T22:20:20Z",
+      "message": "fix: when module.hot is not truthy (#1451)"
+    },
+    {
+      "sha": "1afb27a0cb1d618656c79520360914797b661f87",
+      "author_login": "theKashey",
+      "authored_at": "2020-04-30T07:45:56Z",
+      "message": "update changelog"
+    },
+    {
+      "sha": "e1cb244521e92474e5b6f661c838ffee8555fb8a",
+      "author_login": "theKashey",
+      "authored_at": "2020-04-30T07:45:29Z",
+      "message": "chore(release): 4.12.21"
+    },
+    {
+      "sha": "8c3945115c366cc62828256b53b57a9154768826",
+      "author_login": "bertho-zero",
+      "authored_at": "2020-03-23T08:58:43Z",
+      "message": "add peerDependenciesMeta in package.json (#1433)"
+    },
+    {
+      "sha": "54e796e22193b3375223f08fb690cad2f092049e",
+      "author_login": "Hoishin",
+      "authored_at": "2020-03-19T01:29:00Z",
+      "message": "Update README.md (#1432)"
+    },
+    {
+      "sha": "d2f63f280ed53fad6017ea37f643ef5b42fc5c45",
+      "author_login": "theKashey",
+      "authored_at": "2020-03-14T01:07:50Z",
+      "message": "chore(release): 4.12.20"
+    },
+    {
+      "sha": "5475fe79279af009723659e3a6c68fa48c20bdf4",
+      "author_login": "theKashey",
+      "authored_at": "2020-03-09T07:19:50Z",
+      "message": "fix: patch support for react-dom 16.13 (#1428)"
+    },
+    {
+      "sha": "08d8b15f46291217c527ef4a347d7f60846c55bf",
+      "author_login": "maxgabut",
+      "authored_at": "2020-02-11T03:40:57Z",
+      "message": "Fix link to issue 1001 in readme (#1415)"
+    },
+    {
+      "sha": "7e9129481e99217304f734a8d1d5d60ff8758a20",
+      "author_login": "mattfwood",
+      "authored_at": "2020-02-11T03:38:43Z",
+      "message": "Fix small readme typo (#1416)"
+    },
+    {
+      "sha": "5d3eb8236243b48ef0928bb53340548383a0e6e3",
+      "author_login": "theKashey",
+      "authored_at": "2020-01-22T09:24:57Z",
+      "message": "add inner hook to the SC example"
+    },
+    {
+      "sha": "1cd74e3ef3e932b4d77aefbf87458c7aa011b6af",
+      "author_login": "theKashey",
+      "authored_at": "2020-01-22T09:19:13Z",
+      "message": "chore(release): 4.12.19"
+    },
+    {
+      "sha": "c1598444377b4fbe13228641895e1b96a26104dc",
+      "author_login": "theKashey",
+      "authored_at": "2020-01-22T09:11:29Z",
+      "message": "fix: don't record signatures of local hooks, fixes #1412 (#1413)"
+    },
+    {
+      "sha": "9ab257159f33edfe948273ab71643174edc08e73",
+      "author_login": "kelebaby",
+      "authored_at": "2019-12-25T03:27:40Z",
+      "message": "Update redux example and remove some file (#1404)"
+    },
+    {
+      "sha": "6cbff8bd1594733f10d87ac15c083f0e95c5b3b1",
+      "author_login": "liuliangsir",
+      "authored_at": "2019-12-13T09:33:18Z",
+      "message": "docs: broken link fix (#1402)"
+    },
+    {
+      "sha": "1a0be8c72ac087694d7270054369a8c922a0bb90",
+      "author_login": "keevan",
+      "authored_at": "2019-11-25T20:32:09Z",
+      "message": "Update README.md (#1398)"
+    },
+    {
+      "sha": "3c96646bb2682b11ec3ef791e870bdfb14ed76ce",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-25T20:29:34Z",
+      "message": "Merge pull request #1397 from silvenon/docs/production"
+    },
+    {
+      "sha": "7f498c6f65363c99164fb3c2245ec75efda56ab3",
+      "author_login": "silvenon",
+      "authored_at": "2019-11-25T11:00:16Z",
+      "message": "Fix grammar in docs"
+    },
+    {
+      "sha": "8852fa689c8d30345a423019cbaa84a611a06581",
+      "author_login": "silvenon",
+      "authored_at": "2019-11-24T22:14:05Z",
+      "message": "Document usage in production"
+    },
+    {
+      "sha": "47e7270d6a0e6c47866f5db9e3246194c23e97be",
+      "author_login": "silvenon",
+      "authored_at": "2019-11-24T22:13:46Z",
+      "message": "Run Prettier on README.md"
+    },
+    {
+      "sha": "0bbf33ad211578d8a023a392de022e17ecd315d9",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-20T20:43:50Z",
+      "message": "React Native uses fast refresh"
+    },
+    {
+      "sha": "fe2e3a3b983c38ebfed8102b09bed3e9c0008014",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-20T20:40:41Z",
+      "message": "added deprecation note"
+    },
+    {
+      "sha": "298a7fccefa9d9e61be83006426eeeaed3afe712",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-16T08:50:32Z",
+      "message": "chore(release): 4.12.18"
+    },
+    {
+      "sha": "35d329c3606a63dd32e59518490df27eedaa86f5",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-16T08:48:41Z",
+      "message": "Merge pull request #1394 from gaearon/hot-hook-fix"
+    },
+    {
+      "sha": "29ef0a0f270c8521b8debd84f37c7bfd8bae2fff",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-16T08:25:33Z",
+      "message": "more rich test scenario fro hooks reload"
+    },
+    {
+      "sha": "300a819f8b65d61ea82e4cf904b7df711b86689a",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-16T03:02:26Z",
+      "message": "add tests for hook reload"
+    },
+    {
+      "sha": "b94adb31e556bf1e379030591beb0999e30c33e3",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-15T04:10:40Z",
+      "message": "fix: production babel plugin might perform eager replacement, fixes #1388"
+    },
+    {
+      "sha": "6707b4b4473b46b194ef731ce7ae38ab51ebbbbb",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-14T12:35:31Z",
+      "message": "fix: (regression) hook order change is causing React error, fixes #1393"
+    },
+    {
+      "sha": "cf716abb52342cda3ab30a59dce8fe86d5d2f273",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-12T07:52:59Z",
+      "message": "Merge branch 'master' of github.com:gaearon/react-hot-loader"
+    },
+    {
+      "sha": "ac583b560e9bd5cbe5faf662e53c74a6179a8b8c",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-12T07:51:49Z",
+      "message": "chore(release): 4.12.17"
+    },
+    {
+      "sha": "5ab2cab52858c4acf7c6dc296ef335af01944333",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-12T07:51:38Z",
+      "message": "fix: move @types/react from to peer dependencies, fixes #1391"
+    },
+    {
+      "sha": "125b213aa03cfa0baea22420987efc412e0caf07",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-07T21:09:02Z",
+      "message": "Merge pull request #1390 from bertho-zero/patch-1"
+    },
+    {
+      "sha": "69e5f9244f496c7738edf300970e3674679636a8",
+      "author_login": "bertho-zero",
+      "authored_at": "2019-11-07T18:10:07Z",
+      "message": "fix #1202"
+    },
+    {
+      "sha": "4167d4c01d4240e648475ece08f6c75660588564",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-06T21:52:17Z",
+      "message": "chore(release): 4.12.16"
+    },
+    {
+      "sha": "bcf753743f71f9e85a7c70b040e714b8a586318e",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-06T21:52:10Z",
+      "message": "examples: bump styled-components to react 16.11"
+    },
+    {
+      "sha": "5e226f40aea2f995adbb446199a9cb93656ef465",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-06T21:37:55Z",
+      "message": "Merge pull request #1389 from gaearon/4.12.15"
+    },
+    {
+      "sha": "9561d662d70357afd75e472c29f98c618a644680",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-02T07:21:32Z",
+      "message": "fix: explain why RHL could not be activated, fixes #1362"
+    },
+    {
+      "sha": "af42c1a7a83683705af7293a14ac71410f53a601",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-02T07:11:52Z",
+      "message": "fix: more @types/react to dependencies, fixes #1359"
+    },
+    {
+      "sha": "1072303e20ddf2f2830f5d60c116b35f60640e37",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-02T07:09:41Z",
+      "message": "fix: dont write to elementType if it is not defined, fixes #1357"
+    },
+    {
+      "sha": "fbc890a466d4f0d9c8fe74cee490cdde388c1e59",
+      "author_login": "theKashey",
+      "authored_at": "2019-11-02T07:07:54Z",
+      "message": "fix: use logger.warn instead of console to report tail update, fixes #1386"
+    },
+    {
+      "sha": "3fadc05783f2aa534372dbe6846b1a379ed76ebd",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-30T03:37:32Z",
+      "message": "Merge pull request #1385 from TotooriaHyperion/patch-1"
+    },
+    {
+      "sha": "f1a8436c6016c19e1a6f7fabb2e8d2cdbd03cacf",
+      "author_login": "TotooriaHyperion",
+      "authored_at": "2019-10-30T03:20:37Z",
+      "message": "Create README.md"
+    },
+    {
+      "sha": "2e604e045042fee80a94d79f9498e875d3cc626c",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-29T22:43:46Z",
+      "message": "Merge pull request #1372 from gaearon/dependabot/npm_and_yarn/examples/mobx/webpack-dev-server-3.1.11"
+    },
+    {
+      "sha": "49e4f5700c0028120167c63ba3d8d9c53d835aaf",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-29T22:43:41Z",
+      "message": "Merge pull request #1374 from gaearon/dependabot/npm_and_yarn/examples/hotCold/webpack-dev-server-3.1.11"
+    },
+    {
+      "sha": "cdf18ad7b38b62dfa9835d556a894faaa6b3b32f",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-29T22:43:34Z",
+      "message": "Merge pull request #1375 from gaearon/dependabot/npm_and_yarn/examples/react-bootstrap/webpack-dev-server-3.1.11"
+    },
+    {
+      "sha": "b1a16a3f7f4fb167c8adb91eba2f0629cce16572",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-29T22:43:25Z",
+      "message": "Merge pull request #1376 from gaearon/dependabot/npm_and_yarn/examples/react-refetch/webpack-dev-server-3.1.11"
+    },
+    {
+      "sha": "f6c4f9f5c5d1952a7df5679e25fdcef83988260e",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-29T22:43:10Z",
+      "message": "Merge pull request #1377 from gaearon/dependabot/npm_and_yarn/examples/preact/webpack-dev-server-3.1.11"
+    },
+    {
+      "sha": "b21bdabd620526ca4ee51fe185402a5533c681ad",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-29T22:43:01Z",
+      "message": "Merge pull request #1378 from gaearon/dependabot/npm_and_yarn/examples/async-components/webpack-dev-server-3.1.11"
+    },
+    {
+      "sha": "e0b683deabe0df9b5f8bfacebdf19375cca2515c",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-29T22:39:21Z",
+      "message": "Merge pull request #1369 from tstirrat15/1368-code-splitting-documentation"
+    },
+    {
+      "sha": "ef986b06d9094ce8a95bb99a42f9899fda7258b4",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2019-10-29T22:39:19Z",
+      "message": "chore(deps-dev): bump webpack-dev-server in /examples/async-components"
+    },
+    {
+      "sha": "dd1a94613e6a5dccf95c675b22d6989055e2fae7",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2019-10-29T22:39:16Z",
+      "message": "chore(deps-dev): bump webpack-dev-server in /examples/hotCold"
+    },
+    {
+      "sha": "f537f7afcfa35f142e645f1415d1bbf66def3ee7",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2019-10-29T22:39:16Z",
+      "message": "chore(deps-dev): bump webpack-dev-server in /examples/preact"
+    },
+    {
+      "sha": "7e6bf39f1be1964588152e8597a6b7798431627a",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2019-10-29T22:39:15Z",
+      "message": "chore(deps-dev): bump webpack-dev-server in /examples/react-bootstrap"
+    },
+    {
+      "sha": "03ee25077c1159dd9147865f00fabd9e8b2bf829",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2019-10-29T22:39:13Z",
+      "message": "chore(deps-dev): bump webpack-dev-server in /examples/react-refetch"
+    },
+    {
+      "sha": "2bda39f13e4b4cc27f4d4e850e1e9317cf37ade7",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2019-10-29T22:39:11Z",
+      "message": "chore(deps-dev): bump webpack-dev-server in /examples/mobx"
+    },
+    {
+      "sha": "b5d9073cb5119bc34d9c80c13f581e66741245a8",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-29T22:38:49Z",
+      "message": "Merge pull request #1373 from gaearon/dependabot/npm_and_yarn/examples/indeterminateComponent/webpack-dev-server-3.1.11"
+    },
+    {
+      "sha": "98f7fb5dd23b8bccddb9e780b97ca48be0d352f4",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-29T22:38:28Z",
+      "message": "Merge pull request #1379 from gaearon/dependabot/npm_and_yarn/examples/webpack/webpack-dev-server-3.1.11"
+    },
+    {
+      "sha": "16d53cbec03a38ee1c60e5918f185741663c39dc",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-29T22:37:54Z",
+      "message": "Merge pull request #1380 from gaearon/dependabot/npm_and_yarn/examples/multiple-hocs/webpack-dev-server-3.1.11"
+    },
+    {
+      "sha": "1560e94afae9f9cfd62fc01f3f8322dcca49cbb5",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2019-10-29T20:50:36Z",
+      "message": "chore(deps-dev): bump webpack-dev-server in /examples/multiple-hocs"
+    },
+    {
+      "sha": "949701294d7c334b1720e268dfa205ad215e4027",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2019-10-29T20:50:35Z",
+      "message": "chore(deps-dev): bump webpack-dev-server in /examples/webpack"
+    },
+    {
+      "sha": "b982f513da8529a9afacb3a99f3ff52f084c3faa",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2019-10-29T20:50:31Z",
+      "message": "chore(deps-dev): bump webpack-dev-server"
+    },
+    {
+      "sha": "200b14bfc86c1f52ecbb6bd429f4d22274fc0d3c",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-29T20:49:21Z",
+      "message": "Merge pull request #1371 from gaearon/dependabot/npm_and_yarn/examples/parcel/safer-eval-1.3.5"
+    },
+    {
+      "sha": "041a1054cbe30fc01095e9c6cb68e7469ef473ef",
+      "author_login": "dependabot[bot]",
+      "authored_at": "2019-10-29T13:42:10Z",
+      "message": "chore(deps): bump safer-eval from 1.2.3 to 1.3.5 in /examples/parcel"
+    },
+    {
+      "sha": "6e8af196d62d13a9bae0835d7aa84bb014646048",
+      "author_login": "tstirrat15",
+      "authored_at": "2019-10-28T23:00:48Z",
+      "message": "Remove comment"
+    },
+    {
+      "sha": "754657b0196bb2ed3ee8e1acbcafc156a5db50be",
+      "author_login": "tstirrat15",
+      "authored_at": "2019-10-28T23:00:42Z",
+      "message": "Swap loadable-component for react-lazy"
+    },
+    {
+      "sha": "9f19254a3aee9807b412003c410ae6dd64897d01",
+      "author_login": "tstirrat15",
+      "authored_at": "2019-10-28T22:59:42Z",
+      "message": "Verbiage tweak'"
+    },
+    {
+      "sha": "c9cb5901b901eb957945de633dd212ae2e36e6cf",
+      "author_login": "tstirrat15",
+      "authored_at": "2019-10-28T22:42:47Z",
+      "message": "Rework docs around code splitting"
+    },
+    {
+      "sha": "89a8edc2de4400926a511b2d8aa7540b5979e47b",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-25T19:46:00Z",
+      "message": "Merge pull request #1367 from CommanderHamster/add-troubleshooting-documentation"
+    },
+    {
+      "sha": "5415a38afd6e0209334df354f2d17bc0f0ceedf0",
+      "author_login": "CommanderHamster",
+      "authored_at": "2019-10-25T18:42:04Z",
+      "message": "Update troubleshooting doc with new tip"
+    },
+    {
+      "sha": "18802fbd179b45caad4fc6387a77fc7ef0a26afa",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-12T03:58:22Z",
+      "message": "Merge pull request #1358 from theajr/master"
+    },
+    {
+      "sha": "511aad4c4b57c2c5297545fcfb0a6c9717696a80",
+      "author_login": "theajr",
+      "authored_at": "2019-10-12T03:51:39Z",
+      "message": "Removing package lock file"
+    },
+    {
+      "sha": "4bfd55a9d1a681f11545bf16266a8d69add56797",
+      "author_login": "theajr",
+      "authored_at": "2019-10-11T12:15:11Z",
+      "message": "Added @hot-loader/react-dom which is missing"
+    },
+    {
+      "sha": "989c6e4b3e155c393ab93fd55368ebf7a3b50320",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-08T00:46:50Z",
+      "message": "chore(release): 4.12.15"
+    },
+    {
+      "sha": "b7ed82ab17c9dee9d2faa556e9279d1affa65fd2",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-08T00:46:43Z",
+      "message": "fix: React 16.10 support"
+    },
+    {
+      "sha": "d6087607877be345312eb52ef01111eb6fd21f2e",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-08T00:46:03Z",
+      "message": "update styled-component example to 16.10.2"
+    },
+    {
+      "sha": "b3d92fa8947bd011d289e72a307364206513f055",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-07T21:04:58Z",
+      "message": "Merge pull request #1355 from Bnaya/react-16p10"
+    },
+    {
+      "sha": "c2d3f567b52f0bff5a9d723d6bef3717830e08dc",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-07T21:04:13Z",
+      "message": "Merge pull request #1356 from Bnaya/run-yarn-deduplicate"
+    },
+    {
+      "sha": "bb2421b285dfbf4d6a22695304e5d1ed5866033d",
+      "author_login": "Bnaya",
+      "authored_at": "2019-10-07T19:20:13Z",
+      "message": "Run yarn deduplicate"
+    },
+    {
+      "sha": "696031d913971af226e71cba7b60ffd36dfb0a92",
+      "author_login": "Bnaya",
+      "authored_at": "2019-10-07T19:13:11Z",
+      "message": "React 16.10 patch support"
+    },
+    {
+      "sha": "7060a9b85ad899a15bd8e9e6bd6e1dce38c754b4",
+      "author_login": "theKashey",
+      "authored_at": "2019-10-06T01:31:30Z",
+      "message": "Merge pull request #1353 from Antrikshy/dev-dependencies-update-oct-2019"
+    },
+    {
+      "sha": "e1def7bc5262988635870b81008172266d3bb607",
+      "author_login": "Antrikshy",
+      "authored_at": "2019-10-06T01:16:26Z",
+      "message": "Update lint-staged to fix dozens of vulnerabilities"
+    },
+    {
+      "sha": "28a6d4304bc71437de9268a9fa896fb807323920",
+      "author_login": "Antrikshy",
+      "authored_at": "2019-10-06T00:50:09Z",
+      "message": "Update some dev-deps to fix some critical vulnerabilities"
+    },
+    {
+      "sha": "e730a2af1b1a0f448b465532929dea5c7f952d4b",
+      "author_login": "theKashey",
+      "authored_at": "2019-09-23T09:46:16Z",
+      "message": "chore(release): 4.12.14"
+    },
+    {
+      "sha": "9e50b7c6ea60056319321b7437ab0cc3004f7b98",
+      "author_login": "theKashey",
+      "authored_at": "2019-09-23T09:46:09Z",
+      "message": "alter tail update message and configuration"
+    },
+    {
+      "sha": "d4b2fd54e0a3d1c422d96bc65c4b2a6754810191",
+      "author_login": "theKashey",
+      "authored_at": "2019-09-23T09:24:10Z",
+      "message": "add options to control tail updates"
+    },
+    {
+      "sha": "c89e306985f2e819a8b933edaa085595ed95ebc1",
+      "author_login": "theKashey",
+      "authored_at": "2019-09-23T09:12:36Z",
+      "message": "Merge pull request #1348 from gaearon/4.12.14"
+    },
+    {
+      "sha": "33c54f50c548c69a49e74bfa62f7b5b0d4f03ecc",
+      "author_login": "theKashey",
+      "authored_at": "2019-09-23T09:04:21Z",
+      "message": "fix: autodetect underupdated state and trigger an automatic update, fixes #1342"
+    },
+    {
+      "sha": "62bc67e9fc0ac65e6c6b3b208f1a4fe137ff7563",
+      "author_login": "theKashey",
+      "authored_at": "2019-09-22T11:42:41Z",
+      "message": "fix: resolve all components to their last versions, #1342"
+    }
+  ],
+  "issues": [
+    {
+      "number": 1920,
+      "title": "GIT42 flyby: dan's civilization (don't panic)",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2026-10-18T08:32:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1918,
+      "title": "React-Hot-Loader: misconfiguration detected, using production version in non-production environment.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-01-07T12:07:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1917,
+      "title": "Analysis: 98% of dependency updates in this repository can be merged.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-08-28T13:27:47Z",
+      "closed_at": "2023-08-29T09:25:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1916,
+      "title": "chore(deps): bump is-url from 1.2.2 to 1.2.4 in /examples/parcel",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-02-10T02:42:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1915,
+      "title": "chore(deps): bump ua-parser-js from 0.7.18 to 0.7.33 in /examples/all-possible-containers",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-25T23:35:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1914,
+      "title": "chore(deps): bump ua-parser-js from 0.7.17 to 0.7.33 in /examples/webpack",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-25T08:03:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1913,
+      "title": "chore(deps): bump ua-parser-js from 0.7.17 to 0.7.33 in /examples/async-portals",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-25T08:03:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1912,
+      "title": "chore(deps): bump ua-parser-js from 0.7.17 to 0.7.33 in /examples/styled-components",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-25T08:03:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1911,
+      "title": "chore(deps): bump ua-parser-js from 0.7.17 to 0.7.33 in /examples/hotCold",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-25T08:02:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1910,
+      "title": "chore(deps): bump ua-parser-js from 0.7.17 to 0.7.33 in /examples/mobx",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-25T08:02:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1909,
+      "title": "chore(deps): bump ua-parser-js from 0.7.17 to 0.7.33 in /examples/async-components",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-25T08:02:46Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1908,
+      "title": "chore(deps): bump ua-parser-js from 0.7.17 to 0.7.33",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-25T08:02:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1907,
+      "title": "chore(deps): bump ua-parser-js from 0.7.17 to 0.7.33 in /examples/preact",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-25T08:02:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1906,
+      "title": "chore(deps): bump ua-parser-js from 0.7.17 to 0.7.33 in /examples/decorators",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-25T08:02:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1905,
+      "title": "chore(deps): bump ua-parser-js from 0.7.17 to 0.7.33 in /examples/multiple-hocs",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-25T08:02:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1904,
+      "title": "chore(deps): bump ua-parser-js from 0.7.17 to 0.7.33 in /examples/react-bootstrap",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-25T08:02:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1903,
+      "title": "chore(deps): bump ua-parser-js from 0.7.17 to 0.7.33 in /examples/react-refetch",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-25T08:02:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1902,
+      "title": "chore(deps): bump ua-parser-js from 0.7.17 to 0.7.33 in /examples/SSR",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-25T08:02:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1901,
+      "title": "chore(deps): bump ua-parser-js from 0.7.17 to 0.7.33 in /examples/indeterminateComponent",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-25T08:02:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1900,
+      "title": "hmr no work in React.PureComponent",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-01-11T03:12:23Z",
+      "closed_at": "2023-01-11T09:15:39Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1899,
+      "title": "chore(deps): bump json5 from 1.0.1 to 1.0.2 in /examples/electron-typescript",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-04T16:18:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1898,
+      "title": "chore(deps): bump json5 from 1.0.1 to 1.0.2 in /examples/parcel",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-04T01:16:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1897,
+      "title": "chore(deps): bump express from 4.17.1 to 4.18.2 in /examples/electron-typescript",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-13T10:44:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1896,
+      "title": "chore(deps): bump qs from 6.5.2 to 6.5.3 in /examples/electron-typescript",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-11T16:04:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1895,
+      "title": "chore(deps): bump qs from 6.5.2 to 6.5.3 in /examples/parcel",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-09T08:01:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1894,
+      "title": "chore(deps): bump express from 4.17.1 to 4.18.2 in /examples/typescript",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-08T18:17:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1893,
+      "title": "chore(deps): bump express from 4.16.2 to 4.18.2 in /examples/react-bootstrap",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T17:42:09Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1892,
+      "title": "chore(deps): bump express from 4.16.2 to 4.18.2 in /examples/async-portals",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T17:40:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1891,
+      "title": "chore(deps): bump express from 4.16.2 to 4.18.2 in /examples/multiple-hocs",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T17:40:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1890,
+      "title": "chore(deps): bump express from 4.16.2 to 4.18.2 in /examples/indeterminateComponent",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T17:40:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1889,
+      "title": "chore(deps): bump express from 4.16.2 to 4.18.2 in /examples/webpack",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T17:40:06Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1888,
+      "title": "chore(deps): bump express from 4.16.2 to 4.18.2 in /examples/hotCold",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T17:40:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1887,
+      "title": "chore(deps): bump express from 4.16.2 to 4.18.2 in /examples/styled-components",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T17:40:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1886,
+      "title": "chore(deps): bump express from 4.17.1 to 4.18.2 in /examples/typescript-no-babel",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T17:40:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1885,
+      "title": "chore(deps): bump express from 4.16.2 to 4.18.2 in /examples/react-refetch",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T17:40:05Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1884,
+      "title": "chore(deps): bump express from 4.16.2 to 4.18.2 in /examples/mobx",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T17:40:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1883,
+      "title": "chore(deps): bump express from 4.16.2 to 4.18.2 in /examples/async-components",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T17:40:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1882,
+      "title": "chore(deps): bump express from 4.16.2 to 4.18.2 in /examples/preact",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T17:40:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1881,
+      "title": "chore(deps): bump express from 4.16.2 to 4.18.2 in /examples/decorators",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T17:40:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1880,
+      "title": "chore(deps): bump express from 4.16.2 to 4.17.3 in /examples/SSR",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T17:40:01Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1879,
+      "title": "chore(deps): bump qs from 6.4.0 to 6.4.1",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-07T09:22:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1878,
+      "title": "chore(deps): bump qs from 6.4.0 to 6.4.1 in /examples/SSR",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T20:23:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1877,
+      "title": "chore(deps): bump qs from 6.4.0 to 6.4.1 in /examples/multiple-hocs",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T20:23:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1876,
+      "title": "chore(deps): bump qs from 6.4.0 to 6.4.1 in /examples/mobx",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T20:23:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1875,
+      "title": "chore(deps): bump qs from 6.4.0 to 6.4.1 in /examples/async-components",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T20:23:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1874,
+      "title": "chore(deps): bump qs from 6.4.0 to 6.4.1 in /examples/react-bootstrap",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T20:23:22Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1873,
+      "title": "chore(deps): bump qs from 6.4.0 to 6.4.1 in /examples/preact",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T20:23:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1872,
+      "title": "chore(deps): bump qs from 6.4.0 to 6.4.1 in /examples/async-portals",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T20:23:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1871,
+      "title": "chore(deps): bump qs from 6.4.0 to 6.4.1 in /examples/indeterminateComponent",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T20:23:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1870,
+      "title": "chore(deps): bump qs from 6.4.0 to 6.4.1 in /examples/react-refetch",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T20:23:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1869,
+      "title": "chore(deps): bump qs from 6.4.0 to 6.4.1 in /examples/webpack",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T20:23:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1868,
+      "title": "chore(deps): bump qs from 6.4.0 to 6.4.1 in /examples/decorators",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T20:23:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1867,
+      "title": "chore(deps): bump qs from 6.4.0 to 6.4.1 in /examples/hotCold",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T20:23:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1866,
+      "title": "chore(deps): bump decode-uri-component from 0.2.0 to 0.2.2 in /examples/async-components",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T17:53:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1865,
+      "title": "chore(deps): bump decode-uri-component from 0.2.0 to 0.2.2 in /examples/hotCold",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T17:53:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1864,
+      "title": "chore(deps): bump decode-uri-component from 0.2.0 to 0.2.2 in /examples/electron-typescript",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T17:53:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1863,
+      "title": "chore(deps): bump decode-uri-component from 0.2.0 to 0.2.2 in /examples/mobx",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-06T17:53:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1862,
+      "title": "chore(deps): bump decode-uri-component from 0.2.0 to 0.2.2 in /examples/typescript",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-03T15:35:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1861,
+      "title": "chore(deps): bump decode-uri-component from 0.2.0 to 0.2.2 in /examples/styled-components",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-03T15:35:29Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1860,
+      "title": "chore(deps): bump decode-uri-component from 0.2.0 to 0.2.2",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-03T15:35:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1859,
+      "title": "chore(deps): bump decode-uri-component from 0.2.0 to 0.2.2 in /examples/async-portals",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-03T15:35:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1858,
+      "title": "chore(deps): bump decode-uri-component from 0.2.0 to 0.2.2 in /examples/all-possible-containers",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-03T15:35:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1857,
+      "title": "chore(deps): bump decode-uri-component from 0.2.0 to 0.2.2 in /examples/indeterminateComponent",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-03T15:35:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1856,
+      "title": "chore(deps): bump decode-uri-component from 0.2.0 to 0.2.2 in /examples/typescript-no-babel",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-03T15:35:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1855,
+      "title": "chore(deps): bump decode-uri-component from 0.2.0 to 0.2.2 in /examples/parcel",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-03T15:35:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1854,
+      "title": "chore(deps): bump decode-uri-component from 0.2.0 to 0.2.2 in /examples/SSR",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-12-03T15:35:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1853,
+      "title": "chore(deps): bump loader-utils from 2.0.3 to 2.0.4",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-17T23:52:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1852,
+      "title": "chore(deps): bump loader-utils from 1.2.3 to 1.4.2 in /examples/parcel",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-12T04:53:27Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1851,
+      "title": "chore(deps-dev): bump electron from 6.0.10 to 18.3.7 in /examples/electron-typescript",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-11-10T16:34:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1850,
+      "title": "Regular Expression Denial of Service (ReDoS)",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2022-11-08T09:32:27Z",
+      "closed_at": "2023-01-04T13:56:28Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1849,
+      "title": "update loader-utils version",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-10-26T19:12:30Z",
+      "closed_at": "2022-10-30T08:05:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1848,
+      "title": "deprecate React-Hot-Loader, fixes #1453",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-24T03:19:58Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1847,
+      "title": "chore(deps): bump eventsource from 1.0.7 to 1.1.2 in /examples/redux",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-24T03:04:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1846,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3 in /examples/redux",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-24T03:04:17Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1845,
+      "title": "chore(deps): bump terser from 4.3.1 to 4.8.1 in /examples/typescript",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-24T03:04:14Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1844,
+      "title": "chore(deps): bump terser from 4.3.1 to 4.8.1 in /examples/typescript-no-babel",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-24T03:04:11Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1843,
+      "title": "Remove space after peerDependency version definition",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-10-17T17:27:59Z",
+      "closed_at": "2022-10-24T03:02:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1842,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T15:05:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1841,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3 in /examples/multiple-hocs",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T15:05:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1840,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3 in /examples/all-possible-containers",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T15:05:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1839,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3 in /examples/async-components",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T15:05:40Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1838,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3 in /examples/styled-components",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T15:05:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1837,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3 in /examples/hotCold",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T15:05:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1836,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3 in /examples/webpack",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T15:05:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1835,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3 in /examples/react-refetch",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T15:05:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1834,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3 in /examples/decorators",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T15:05:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1833,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3 in /examples/mobx",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T15:05:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1832,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3 in /examples/indeterminateComponent",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T15:05:34Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1831,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3 in /examples/react-bootstrap",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T15:05:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1830,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3 in /examples/async-portals",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T15:05:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1829,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3 in /examples/SSR",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T15:05:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1828,
+      "title": "chore(deps): bump css-what from 2.1.0 to 2.1.3 in /examples/preact",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-10-05T15:05:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1827,
+      "title": "chore(deps): bump terser from 4.3.1 to 4.8.1 in /examples/electron-typescript",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-07-21T05:19:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1826,
+      "title": "chore(deps-dev): bump codecov from 3.0.1 to 3.8.3",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-23T21:59:30Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1825,
+      "title": "chore(deps-dev): bump electron from 6.0.10 to 15.5.5 in /examples/electron-typescript",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2022-06-17T00:38:23Z",
+      "closed_at": "2022-11-10T16:34:18Z",
+      "first_response_at": null
+    },
+    {
+      "number": 1824,
+      "title": "chore(deps): bump eventsource from 1.0.7 to 1.1.1 in /examples/electron-typescript",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-01T19:42:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1823,
+      "title": "chore(deps): bump eventsource from 1.0.7 to 1.1.1 in /examples/typescript-no-babel",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-01T03:16:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1822,
+      "title": "chore(deps): bump eventsource from 1.0.7 to 1.1.1 in /examples/preact",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-01T03:15:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1821,
+      "title": "chore(deps): bump eventsource from 1.0.7 to 1.1.1 in /examples/mobx",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-01T03:15:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 1820,
+      "title": "chore(deps): bump eventsource from 1.0.7 to 1.1.1 in /examples/styled-components",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-06-01T03:15:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "theKashey",
+      "contributions": 652
+    },
+    {
+      "login": "gaearon",
+      "contributions": 564
+    },
+    {
+      "login": "gregberge",
+      "contributions": 223
+    },
+    {
+      "login": "calesce",
+      "contributions": 53
+    },
+    {
+      "login": "wkwiatek",
+      "contributions": 17
+    },
+    {
+      "login": "dependabot[bot]",
+      "contributions": 10
+    },
+    {
+      "login": "akorchev",
+      "contributions": 9
+    },
+    {
+      "login": "gadicc",
+      "contributions": 9
+    },
+    {
+      "login": "alexanderchr",
+      "contributions": 8
+    },
+    {
+      "login": "nfcampos",
+      "contributions": 8
+    },
+    {
+      "login": "Bnaya",
+      "contributions": 7
+    },
+    {
+      "login": "montogeek",
+      "contributions": 7
+    },
+    {
+      "login": "taion",
+      "contributions": 7
+    },
+    {
+      "login": "Rokt33r",
+      "contributions": 6
+    },
+    {
+      "login": "smelukov",
+      "contributions": 6
+    },
+    {
+      "login": "silvenon",
+      "contributions": 5
+    },
+    {
+      "login": "hedgerh",
+      "contributions": 5
+    },
+    {
+      "login": "bradennapier",
+      "contributions": 4
+    },
+    {
+      "login": "eps1lon",
+      "contributions": 4
+    },
+    {
+      "login": "tstirrat15",
+      "contributions": 4
+    },
+    {
+      "login": "maratfakhreev",
+      "contributions": 3
+    },
+    {
+      "login": "werme",
+      "contributions": 3
+    },
+    {
+      "login": "simonkberg",
+      "contributions": 3
+    },
+    {
+      "login": "RickWong",
+      "contributions": 2
+    },
+    {
+      "login": "plag",
+      "contributions": 2
+    },
+    {
+      "login": "AhmedKorim",
+      "contributions": 2
+    },
+    {
+      "login": "jeetiss",
+      "contributions": 2
+    },
+    {
+      "login": "mkg0",
+      "contributions": 2
+    },
+    {
+      "login": "syranide",
+      "contributions": 2
+    },
+    {
+      "login": "zachasme",
+      "contributions": 2
+    },
+    {
+      "login": "theajr",
+      "contributions": 2
+    },
+    {
+      "login": "unimonkiez",
+      "contributions": 2
+    },
+    {
+      "login": "alexkuz",
+      "contributions": 2
+    },
+    {
+      "login": "nkbt",
+      "contributions": 2
+    },
+    {
+      "login": "meyer",
+      "contributions": 2
+    },
+    {
+      "login": "liamondrop",
+      "contributions": 2
+    },
+    {
+      "login": "bertho-zero",
+      "contributions": 2
+    },
+    {
+      "login": "kengreeff",
+      "contributions": 2
+    },
+    {
+      "login": "Akuukis",
+      "contributions": 2
+    },
+    {
+      "login": "monkeywithacupcake",
+      "contributions": 2
+    },
+    {
+      "login": "D34THWINGS",
+      "contributions": 2
+    },
+    {
+      "login": "Antrikshy",
+      "contributions": 2
+    },
+    {
+      "login": "s-h-a-d-o-w",
+      "contributions": 2
+    },
+    {
+      "login": "ctrlplusb",
+      "contributions": 1
+    },
+    {
+      "login": "nganbread",
+      "contributions": 1
+    },
+    {
+      "login": "sathishsoundharajan",
+      "contributions": 1
+    },
+    {
+      "login": "sarathms",
+      "contributions": 1
+    },
+    {
+      "login": "sciyoshi",
+      "contributions": 1
+    },
+    {
+      "login": "sachinrekhi",
+      "contributions": 1
+    },
+    {
+      "login": "rsxdalv",
+      "contributions": 1
+    },
+    {
+      "login": "ro-savage",
+      "contributions": 1
+    },
+    {
+      "login": "technopahadi",
+      "contributions": 1
+    },
+    {
+      "login": "goto-bus-stop",
+      "contributions": 1
+    },
+    {
+      "login": "rrousselGit",
+      "contributions": 1
+    },
+    {
+      "login": "sotayamashita",
+      "contributions": 1
+    },
+    {
+      "login": "earnubs",
+      "contributions": 1
+    },
+    {
+      "login": "steven-qi",
+      "contributions": 1
+    },
+    {
+      "login": "gitter-badger",
+      "contributions": 1
+    },
+    {
+      "login": "thibautRe",
+      "contributions": 1
+    },
+    {
+      "login": "tcoopman",
+      "contributions": 1
+    },
+    {
+      "login": "thomasthiebaud",
+      "contributions": 1
+    },
+    {
+      "login": "tp",
+      "contributions": 1
+    },
+    {
+      "login": "tlrobinson",
+      "contributions": 1
+    },
+    {
+      "login": "hulufei",
+      "contributions": 1
+    },
+    {
+      "login": "MatthewRamsey",
+      "contributions": 1
+    },
+    {
+      "login": "maxgabut",
+      "contributions": 1
+    },
+    {
+      "login": "michaelBenin",
+      "contributions": 1
+    },
+    {
+      "login": "tracker1",
+      "contributions": 1
+    },
+    {
+      "login": "mikechabot",
+      "contributions": 1
+    },
+    {
+      "login": "mshatikhin",
+      "contributions": 1
+    },
+    {
+      "login": "nhunzaker",
+      "contributions": 1
+    },
+    {
+      "login": "natew",
+      "contributions": 1
+    },
+    {
+      "login": "xD3CODER",
+      "contributions": 1
+    },
+    {
+      "login": "nathanmarks",
+      "contributions": 1
+    },
+    {
+      "login": "ncuillery",
+      "contributions": 1
+    },
+    {
+      "login": "omnikron",
+      "contributions": 1
+    },
+    {
+      "login": "zeachco",
+      "contributions": 1
+    },
+    {
+      "login": "oliviertassinari",
+      "contributions": 1
+    },
+    {
+      "login": "pstoica",
+      "contributions": 1
+    },
+    {
+      "login": "PavelGavlik",
+      "contributions": 1
+    },
+    {
+      "login": "peter-mouland",
+      "contributions": 1
+    },
+    {
+      "login": "philipnilsson",
+      "contributions": 1
+    },
+    {
+      "login": "piperchester",
+      "contributions": 1
+    },
+    {
+      "login": "keqingrong",
+      "contributions": 1
+    },
+    {
+      "login": "ReadmeCritic",
+      "contributions": 1
+    },
+    {
+      "login": "jameskraus",
+      "contributions": 1
+    },
+    {
+      "login": "jhoch",
+      "contributions": 1
+    },
+    {
+      "login": "jrylan",
+      "contributions": 1
+    },
+    {
+      "login": "jzendo",
+      "contributions": 1
+    },
+    {
+      "login": "kiki-le-singe",
+      "contributions": 1
+    },
+    {
+      "login": "kontrollanten",
+      "contributions": 1
+    },
+    {
+      "login": "krasevych",
+      "contributions": 1
+    },
+    {
+      "login": "lostfictions",
+      "contributions": 1
+    },
+    {
+      "login": "jamesjuuichi",
+      "contributions": 1
+    },
+    {
+      "login": "nulltoken",
+      "contributions": 1
+    },
+    {
+      "login": "oshalygin",
+      "contributions": 1
+    },
+    {
+      "login": "psierks",
+      "contributions": 1
+    },
+    {
+      "login": "dizel3d",
+      "contributions": 1
+    },
+    {
+      "login": "sd0s",
+      "contributions": 1
+    },
+    {
+      "login": "solimant",
+      "contributions": 1
+    }
+  ],
+  "releases": [
+    {
+      "tag": "v4.13.0",
+      "published_at": "2020-09-22T12:49:46Z"
+    },
+    {
+      "tag": "v4.12.19",
+      "published_at": "2020-01-22T09:25:55Z"
+    },
+    {
+      "tag": "v4.12.18",
+      "published_at": "2019-11-16T08:52:17Z"
+    },
+    {
+      "tag": "v4.12.17",
+      "published_at": "2019-11-12T07:54:13Z"
+    },
+    {
+      "tag": "v4.12.16",
+      "published_at": "2019-11-06T21:54:11Z"
+    },
+    {
+      "tag": "v4.12.15",
+      "published_at": "2019-10-08T00:48:11Z"
+    },
+    {
+      "tag": "v4.12.14",
+      "published_at": "2019-10-08T00:48:24Z"
+    },
+    {
+      "tag": "v4.12.13",
+      "published_at": "2019-09-12T10:06:30Z"
+    },
+    {
+      "tag": "v4.12.12",
+      "published_at": "2019-08-27T09:53:57Z"
+    },
+    {
+      "tag": "v4.12.11",
+      "published_at": "2019-08-12T02:24:07Z"
+    },
+    {
+      "tag": "v4.12.10",
+      "published_at": "2019-07-27T06:12:23Z"
+    },
+    {
+      "tag": "v4.12.9",
+      "published_at": "2019-07-23T08:32:55Z"
+    },
+    {
+      "tag": "v4.12.8",
+      "published_at": "2019-07-23T08:27:42Z"
+    },
+    {
+      "tag": "v4.12.7",
+      "published_at": "2019-07-16T07:54:23Z"
+    },
+    {
+      "tag": "v4.12.6",
+      "published_at": "2019-07-16T07:54:44Z"
+    },
+    {
+      "tag": "v4.12.5",
+      "published_at": "2019-07-07T14:00:15Z"
+    },
+    {
+      "tag": "v4.12.3",
+      "published_at": "2019-07-04T10:31:56Z"
+    },
+    {
+      "tag": "v4.12.1",
+      "published_at": "2019-07-03T12:15:24Z"
+    },
+    {
+      "tag": "v4.12.0",
+      "published_at": "2019-06-30T05:28:50Z"
+    },
+    {
+      "tag": "v4.11.2",
+      "published_at": "2019-06-30T05:28:27Z"
+    },
+    {
+      "tag": "v4.11.1",
+      "published_at": "2019-06-15T13:21:51Z"
+    },
+    {
+      "tag": "v4.11.0",
+      "published_at": "2019-06-10T07:50:56Z"
+    },
+    {
+      "tag": "v4.10.0",
+      "published_at": "2019-06-02T02:49:51Z"
+    },
+    {
+      "tag": "v4.9.0",
+      "published_at": "2019-06-02T02:31:15Z"
+    },
+    {
+      "tag": "v4.8.8",
+      "published_at": "2019-05-23T10:40:09Z"
+    },
+    {
+      "tag": "v4.8.6",
+      "published_at": "2019-05-18T23:17:45Z"
+    },
+    {
+      "tag": "v4.8.5",
+      "published_at": "2019-05-16T02:57:52Z"
+    },
+    {
+      "tag": "v4.8.4",
+      "published_at": "2019-04-15T01:44:06Z"
+    },
+    {
+      "tag": "v4.8.3",
+      "published_at": "2019-04-05T22:21:23Z"
+    },
+    {
+      "tag": "v4.8.2",
+      "published_at": "2019-03-30T22:34:32Z"
+    },
+    {
+      "tag": "v4.8.1",
+      "published_at": "2019-03-29T22:31:03Z"
+    },
+    {
+      "tag": "v4.8.0",
+      "published_at": "2019-03-29T22:31:25Z"
+    },
+    {
+      "tag": "v4.7.2",
+      "published_at": "2019-03-29T22:31:39Z"
+    },
+    {
+      "tag": "v4.7.1",
+      "published_at": "2019-03-29T22:31:59Z"
+    },
+    {
+      "tag": "v4.7.0",
+      "published_at": "2019-02-18T22:01:15Z"
+    },
+    {
+      "tag": "v4.6.5",
+      "published_at": "2019-01-31T10:08:23Z"
+    },
+    {
+      "tag": "v4.6.4",
+      "published_at": "2019-01-31T05:13:26Z"
+    },
+    {
+      "tag": "4.6.3",
+      "published_at": "2018-12-19T12:33:34Z"
+    },
+    {
+      "tag": "4.6.1",
+      "published_at": "2018-12-17T11:13:32Z"
+    },
+    {
+      "tag": "4.6.0",
+      "published_at": "2018-12-13T11:38:19Z"
+    },
+    {
+      "tag": "4.5.2",
+      "published_at": "2018-12-06T11:39:53Z"
+    },
+    {
+      "tag": "4.5.0",
+      "published_at": "2018-11-20T22:59:41Z"
+    },
+    {
+      "tag": "v4.4.0",
+      "published_at": "2018-11-10T11:07:50Z"
+    },
+    {
+      "tag": "v4.3.12",
+      "published_at": "2018-11-01T11:38:42Z"
+    },
+    {
+      "tag": "v4.3.11",
+      "published_at": "2018-09-20T22:38:29Z"
+    },
+    {
+      "tag": "v4.3.10",
+      "published_at": "2018-09-20T10:52:51Z"
+    },
+    {
+      "tag": "v4.3.7",
+      "published_at": "2018-09-13T11:26:33Z"
+    },
+    {
+      "tag": "v4.3.6",
+      "published_at": "2018-09-04T11:11:27Z"
+    },
+    {
+      "tag": "4.3.5",
+      "published_at": "2018-08-23T09:52:02Z"
+    },
+    {
+      "tag": "4.3.4",
+      "published_at": "2018-07-25T11:45:02Z"
+    }
+  ],
+  "collected_at": "2026-11-09T14:52:48.808252Z"
+}

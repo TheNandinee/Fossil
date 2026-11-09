@@ -1,0 +1,1557 @@
+{
+  "full_name": "alyssaxuu/flowy",
+  "owner": "alyssaxuu",
+  "name": "flowy",
+  "url": "https://github.com/alyssaxuu/flowy",
+  "description": "The minimal javascript library to create flowcharts ✨",
+  "primary_language": "JavaScript",
+  "topics": [
+    "diagrams",
+    "drag-and-drop",
+    "engine",
+    "flowchart",
+    "javascript",
+    "javascript-library",
+    "marketing",
+    "marketing-automation",
+    "minimal",
+    "zapier"
+  ],
+  "license_spdx": "MIT",
+  "is_archived": false,
+  "is_fork": false,
+  "stars": 12150,
+  "forks": 1045,
+  "open_issues": 59,
+  "created_at": "2019-11-27T14:03:51Z",
+  "pushed_at": "2024-07-13T17:01:28Z",
+  "updated_at": "2026-11-09T07:10:44Z",
+  "commits": [
+    {
+      "sha": "e977380e3a84043aabb32cfd25b813455df5ec6f",
+      "author_login": "alyssaxuu",
+      "authored_at": "2022-07-02T08:11:05Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "8efa428eaa859d724ecc8944af1bf9ab70f7d217",
+      "author_login": "alyssaxuu",
+      "authored_at": "2021-01-01T13:40:45Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "23bd976166d1424711dadfdcff5699b4f256cecc",
+      "author_login": "alyssaxuu",
+      "authored_at": "2021-01-01T13:40:31Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "f5a0b1030e59647159162e9181f44a3534546e4f",
+      "author_login": "alyssaxuu",
+      "authored_at": "2021-01-01T13:39:59Z",
+      "message": "Rearrange fix"
+    },
+    {
+      "sha": "1bda31080b11c2d751862cf10a2e341377558445",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-10-06T19:19:10Z",
+      "message": "Optimizations"
+    },
+    {
+      "sha": "0502ee005041a774bff427befa47d0b4a99dd920",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-10-06T19:18:51Z",
+      "message": "Optimizations"
+    },
+    {
+      "sha": "3072a16adec9c39ddf516fbb885ee66c4f9c02db",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-10-06T19:18:32Z",
+      "message": "Optimizations"
+    },
+    {
+      "sha": "f144938cc7a3d31cbdc5f674f0405f66a7dd658a",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-10-06T15:19:44Z",
+      "message": "Collapsible panel fix"
+    },
+    {
+      "sha": "d41781f28e4f83f689aeec4f9eb41ea87dde1321",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-10-06T15:19:26Z",
+      "message": "Collapsible panel fix"
+    },
+    {
+      "sha": "3784badb72a4a6da96cbdcb4b3d1327728a65769",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-10-06T15:18:59Z",
+      "message": "Collapsible panel fix"
+    },
+    {
+      "sha": "f237bb8d150a0a2f17f1d7976ba3fa1370effb66",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-10-06T12:36:57Z",
+      "message": "Fix import"
+    },
+    {
+      "sha": "bef8346946eafd3d38517f5f130250b6c0ceea13",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-10-06T12:36:42Z",
+      "message": "Fix import"
+    },
+    {
+      "sha": "2bc752f58c2f21891bc4cd5eaf25d6f5e14a79b9",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-10-06T12:35:58Z",
+      "message": "Fix import"
+    },
+    {
+      "sha": "2f61fb1de0796bc54d4b734c5f5f5285245abbef",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-10-06T12:17:24Z",
+      "message": "Optimizations + position relative fix"
+    },
+    {
+      "sha": "d399613a0a28abba25d2b7fb295104d443d6df71",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-10-06T12:17:00Z",
+      "message": "Optimizations + position relative fix"
+    },
+    {
+      "sha": "13447fdf920856a5a87c720bbcc54ea7b0a4a9bd",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-10-06T12:16:18Z",
+      "message": "Optimizations + position relative fix"
+    },
+    {
+      "sha": "e1ea7f31f3eef62ad742a546f6031214eee63925",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-29T17:31:41Z",
+      "message": "Dynamic block height indicator fix"
+    },
+    {
+      "sha": "d07bc8641be6926ecf6c99d7c320722c5f9b0f6d",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-29T17:31:21Z",
+      "message": "Dynamic block height indicator fix"
+    },
+    {
+      "sha": "26e16a0c290e3bcac6a8e79523739c4fcea7269a",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-29T17:30:25Z",
+      "message": "Dynamic blocks height indicator fix"
+    },
+    {
+      "sha": "12e027dab7ef5d6e6987b11f95a557eef9acfe5d",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-29T11:09:18Z",
+      "message": "New feature (I guess)"
+    },
+    {
+      "sha": "6de9b2ebb0cef0ad1be97c0c8eb0e93270a4464d",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-29T11:04:56Z",
+      "message": "Automatically scroll canvas when dragging to edges"
+    },
+    {
+      "sha": "7281e79bb9a49d9c29c43d894368fec9c1636df5",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-29T11:04:36Z",
+      "message": "Automatically scroll canvas when dragging to edges"
+    },
+    {
+      "sha": "08ad3744fbdf4a6cd93541ce5857e70a059491ca",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-29T11:03:39Z",
+      "message": "Automatically scroll canvas when dragging to edges"
+    },
+    {
+      "sha": "d6d8b975048fd9f4908e77f267a2ca4bea0fc38b",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-29T08:31:31Z",
+      "message": "Offset issue fix"
+    },
+    {
+      "sha": "4a1c45effd87140a8a513b9a5afbb28365f34abb",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-29T08:31:14Z",
+      "message": "Offset issue fix"
+    },
+    {
+      "sha": "ca96c8fa5fd4b7e1aa47e03d1bf7b15757febf5b",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-29T08:30:16Z",
+      "message": "Offset issue fix"
+    },
+    {
+      "sha": "9f2126a0431a0f77526898de53038148c0443199",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-29T07:41:38Z",
+      "message": "Responsiveness fix (tree on scroll)"
+    },
+    {
+      "sha": "808793a0267fade69c58036aa99e7f2ac73641fd",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-29T07:41:17Z",
+      "message": "Reponsiveness fix (tree on scroll)"
+    },
+    {
+      "sha": "565c0f96bd64484b5b40f4c136b85892df8da708",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-29T07:40:30Z",
+      "message": "Responsiveness fix (tree on scroll)"
+    },
+    {
+      "sha": "49aa1236fc9aade8422f14fbe156872ee12511ae",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-29T07:34:59Z",
+      "message": "Arrow \"responsiveness\" fix"
+    },
+    {
+      "sha": "8d944eb1bff93703947165dfd9ac6007483c9149",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-25T08:30:43Z",
+      "message": "Output method warning"
+    },
+    {
+      "sha": "8a35803dcd10fa900e3e6eeb799fb38e54057db4",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-04T12:58:19Z",
+      "message": "IE11 .closest workaround"
+    },
+    {
+      "sha": "580c0fd9314d730832c393d7049d057874a7e756",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-04T12:57:55Z",
+      "message": "IE11 .closest workaround"
+    },
+    {
+      "sha": "2bedfba1095e39a6e841e3bbd6a7df416f2ee7a5",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-07-04T12:57:14Z",
+      "message": "IE11 .closest workaround"
+    },
+    {
+      "sha": "68fbe01220d1995549f3d338272a79794278f67f",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-06-18T09:40:59Z",
+      "message": "Parsing block properties on import"
+    },
+    {
+      "sha": "d4ec4e45ecdb1139286f259b3dfb6d7e1f7e775d",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-06-18T09:40:35Z",
+      "message": "Parsing block properties on import"
+    },
+    {
+      "sha": "2fc1e96bb0f1898b41b882fb8012607dd1e86848",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-06-18T09:39:49Z",
+      "message": "Parsing block properties on import"
+    },
+    {
+      "sha": "c55aa4715dbc6977226284ff73aa40b1d3308a1c",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-05-15T23:41:31Z",
+      "message": "On snap method now returns parent DOM element"
+    },
+    {
+      "sha": "b1bcda0c157de9516d598bad20e6c3ee3e6a7b55",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-05-15T23:41:03Z",
+      "message": "On snap method now returns parent DOM element"
+    },
+    {
+      "sha": "a42df8ec16d94478023158e2892927ed532698bb",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-05-15T23:40:19Z",
+      "message": "On snap method now returns DOM parent element"
+    },
+    {
+      "sha": "301c4747a3e598cb69236cb1e2486429356a72d5",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-24T15:06:05Z",
+      "message": "OnSnap bug fix"
+    },
+    {
+      "sha": "24927077a391667569a489fd800e821e55b50d66",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-24T15:05:40Z",
+      "message": "OnSnap bug fix"
+    },
+    {
+      "sha": "f8081a66d35fc700c814a8325fd618a958bf8476",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-24T15:05:12Z",
+      "message": "OnSnap bug fix"
+    },
+    {
+      "sha": "b56b1c304d79a30e12b17892e4507ac601ee3aa9",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-22T14:57:09Z",
+      "message": "Fix scroll issue on rearrange"
+    },
+    {
+      "sha": "c03a70c1c0d675aafa60c1e4dcd64c3a63a4f171",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-22T14:56:44Z",
+      "message": "Fix scroll issue on rearrange"
+    },
+    {
+      "sha": "1d00d14e5d1535e25c19c70e16b58dde4076c794",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-22T14:56:16Z",
+      "message": "Fix scroll issue on rearrange"
+    },
+    {
+      "sha": "65e2928abc89f861fa6b2c339e259efb6bbb3a80",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-22T13:40:40Z",
+      "message": "Fixed error when preventing a rearrange"
+    },
+    {
+      "sha": "0b42d7b1d3aa676d33fe952d9f99244dfce9b84a",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-22T13:40:12Z",
+      "message": "Fixed error when preventing a rearrange"
+    },
+    {
+      "sha": "64e760956032f4a281aa7ec4c6cab0e011b60ab5",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-22T13:39:12Z",
+      "message": "Fixed error when preventing a rearrange"
+    },
+    {
+      "sha": "f4fbb15f3d3d18c2940397ee4759b74c8bba2a45",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-17T15:02:15Z",
+      "message": "Remove \"dragging\" class after rearranging"
+    },
+    {
+      "sha": "6d2d223ca27b6cd03f165ea24a6d79d8662b616f",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-17T15:01:52Z",
+      "message": "Remove \"dragging\" class after rearranging"
+    },
+    {
+      "sha": "da9fa6baa1cdea3eed09f7b4cef0dc6e080362ac",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-17T15:01:07Z",
+      "message": "Remove \"dragging\" class after rearranging"
+    },
+    {
+      "sha": "6bb4c93ac0ba6f2c767baa42444fee8f0d25b75d",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-16T16:04:41Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "3afee1b04836b3502a3dfc162d78607143be2b89",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-16T15:37:32Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "d6fdadf23dabdae4d45d1811c35869360e532bc1",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-16T15:35:48Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1c28ffbbbe442718081a7b84f39e2631a856d8c8",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-16T15:35:14Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "ae4c9518843176293379a1228bd7293d6f849189",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-16T15:31:26Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "5bc3bea0f5a4b9b3ee7df9b122204c3a02966bad",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-16T15:31:06Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "eec810468553b342471b682e416f4af1673cce54",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-16T15:30:41Z",
+      "message": "Update flowy.js"
+    },
+    {
+      "sha": "88eac66ecf8e3ab3ae3e5712d9ce2200d0c37831",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-16T15:25:49Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "50e0384ad512991146695fbcc8eaa2fa1f3e052b",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-16T15:25:31Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "68fdb1f61bdd7a0e410e720289011e085230bed6",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-16T15:25:01Z",
+      "message": "Update flowy.js"
+    },
+    {
+      "sha": "6104b8b400b2bc75d49e41efb2a8de2abe55aa97",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-16T14:39:19Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "817d2a177018fe56fe74cca5a85228c25033784c",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-14T14:29:32Z",
+      "message": "Fixed error when importing only 1 block"
+    },
+    {
+      "sha": "cc8cfce45456c3f932504a9f52a760b69829f6a0",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-14T14:29:12Z",
+      "message": "Fixed error when importing only 1 block"
+    },
+    {
+      "sha": "edb1f1f49b92995d75c63496b71e5f520d677327",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-14T14:28:37Z",
+      "message": "Fixed error when importing only 1 block"
+    },
+    {
+      "sha": "2155e830282691eba0267015720555e58a93c9ad",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-14T14:27:11Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "1180c3aae7f7bc1902a1fe13ef832984c3615546",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-14T14:26:55Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "22bc896baed801fa0fe11e52531547fd187de462",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-14T14:26:14Z",
+      "message": "Update flowy.js"
+    },
+    {
+      "sha": "a13621f82bc12ecac71dcb274c6921e0e123a103",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-10T15:53:33Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "f804e6e60dd4eda1c9123b682be343a66018a34c",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-10T15:39:11Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "8f23faf553db7e5fd62fe514152d40d176ec61e0",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-10T15:38:57Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "be14f1ffb58b89b5acd1dfffcae72e129848d949",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-10T15:38:11Z",
+      "message": "Update flowy.js"
+    },
+    {
+      "sha": "81ccf7d493e870617b733e2c31de404924bbeb54",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-08T01:50:00Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "662c33df181178e6070d878c43c07809a7dae084",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-08T01:49:45Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "f878e65101c0eeaea615c525645f958317781cc0",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-08T01:49:09Z",
+      "message": "Update flowy.js"
+    },
+    {
+      "sha": "ad7c08abed49a68de1b8286e11551b87ca897c07",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-08T01:21:22Z",
+      "message": "DOCTYPE fix"
+    },
+    {
+      "sha": "8d7c3899b231006379d49b15bca46af26c5d3c49",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-08T01:21:01Z",
+      "message": "DOCTYPE fix"
+    },
+    {
+      "sha": "716216ae36d74f418fd35c4f296b35e72081c9fd",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-08T01:20:39Z",
+      "message": "DOCTYPE fix"
+    },
+    {
+      "sha": "720005e4542000aa17ab3910ffbabeec8e604b56",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-08T01:19:19Z",
+      "message": "DOCTYPE fix"
+    },
+    {
+      "sha": "ffbf89f492c49db0609707c0ec7e0c86f4bc01ff",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-08T01:18:46Z",
+      "message": "DOCTYPE fix"
+    },
+    {
+      "sha": "a64893c6dccd7cac3e70213d641cfa1df3786569",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T19:27:00Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "9a09b8d18b2e71f47cccc85d48793daefee35aea",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T19:26:35Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "adb456792fe3e395d6b68c2dd24baeb5c4155333",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T19:26:18Z",
+      "message": "Update flowy.js"
+    },
+    {
+      "sha": "ec7fb59695d62fa16c725f040b6d6aa39f150fd2",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T17:46:26Z",
+      "message": "Update main.js"
+    },
+    {
+      "sha": "2a05c9b7047910f6be917bd54ee11d8f72ddbf7c",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T17:04:42Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "1a17721f9ca43a8ded002e06932fd68e965e195d",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T16:48:08Z",
+      "message": "Fixed property panel issue"
+    },
+    {
+      "sha": "d96c1fc700790b8d492f7e7d337357f2eab2f0b8",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T16:36:05Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "405f6d0cf565dae992afd940ec6ce5f9cf1ba6be",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T16:35:49Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "b2a731193516d5c32b06e0d91b3477e1a56442fe",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T16:35:21Z",
+      "message": "Update flowy.js"
+    },
+    {
+      "sha": "da85481412254359e35471a96c2822d1ccd04aae",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T16:27:15Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "6c1b370cb8703a7090322e9bb606e7ac63a3dfd2",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T16:26:58Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "a528659e5378083ec12728474f1730ccb9d0c6fa",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T16:26:41Z",
+      "message": "Update flowy.js"
+    },
+    {
+      "sha": "00b81292fd124dfa0613c91480d3caf20e60084d",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T16:23:36Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "863f7aded1064b7ff60d9b8cb6aca65cb8875938",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T16:23:07Z",
+      "message": "Update README.md"
+    },
+    {
+      "sha": "c6ae1511ba0ee9c1dbd80c85318943fe22b6c89b",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T16:06:54Z",
+      "message": "Update main.js"
+    },
+    {
+      "sha": "1d399997cf6f0ebd0c7101af0b1243a694641a0a",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-04-03T14:57:23Z",
+      "message": "Update flowy.min.js"
+    },
+    {
+      "sha": "9a1f346013daf1e500207f8fe9d7717d2e597bed",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-03-29T22:45:03Z",
+      "message": "Merge pull request #43 from aelassas/patch-1"
+    },
+    {
+      "sha": "d28f2600cd53e61662a703ed3aa9f774c4d0f3ab",
+      "author_login": "aelassas",
+      "authored_at": "2020-03-29T22:34:18Z",
+      "message": "Fixed a drag and drop issue"
+    },
+    {
+      "sha": "4906a9b5c04954fa1dc7a7e5adabcb34b79c563b",
+      "author_login": "alyssaxuu",
+      "authored_at": "2020-02-27T23:36:38Z",
+      "message": "Create FUNDING.yml"
+    }
+  ],
+  "issues": [
+    {
+      "number": 154,
+      "title": "PMM Agentic Workflow Designer: design system tokens, component states, and UX improvements",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-04T09:38:33Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 153,
+      "title": "PMM Workflow Designer: bug fixes, zoom, XSS hardening, and branching starter flow",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2026-05-03T10:16:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 152,
+      "title": "SPFx Workflow Editor using jQuery/JavaScript (no React) with sharepoint list integration",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2026-03-31T14:40:26Z",
+      "closed_at": "2026-03-31T14:43:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 151,
+      "title": "Add CONTRIBUTING.md and CODE_OF_CONDUCT.md for contributor guidance",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2025-12-01T11:42:45Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 150,
+      "title": "Multiple Right Cards",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2024-07-12T17:51:57Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 149,
+      "title": "Horizontal orientation",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-17T03:40:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 148,
+      "title": "【Feature】Support Add Node Programmatically Manually  Automatically",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-04-10T09:08:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 147,
+      "title": "Is this project abbandoned.?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2024-02-24T19:17:59Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 146,
+      "title": "How to support cyclic relations between blocks in flowy",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-11-02T11:12:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 145,
+      "title": "How to split branches manually",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-10-13T00:15:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 144,
+      "title": "Support?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2023-10-01T16:41:16Z",
+      "closed_at": "2024-01-07T14:25:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 143,
+      "title": "Create zoom canva preview",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-09-18T13:42:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 142,
+      "title": "[Feature request] Dark theme",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-05T23:39:00Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 141,
+      "title": "Live demo link broken",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2023-04-05T23:33:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 140,
+      "title": "year update",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2023-01-01T11:48:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 139,
+      "title": "Demo Site link working",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-12-22T12:58:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 138,
+      "title": "Unable to add text box in the flowchart",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-11-14T08:50:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 137,
+      "title": "Hey",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-09-25T16:46:23Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 136,
+      "title": "Drag block item when scrolled",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-08-30T15:56:38Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 134,
+      "title": "Conditional Snapping Issue",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-06-09T09:30:32Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 133,
+      "title": "Implemented deleteBlock based on block id and assign flow id",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2022-05-19T13:17:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 132,
+      "title": "Can you give me a solution to use it in React js  ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2022-03-27T04:35:03Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 131,
+      "title": "Output not getting imported",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-07T09:50:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 130,
+      "title": "How to use it in Vuejs ?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-12-02T12:32:49Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 129,
+      "title": "Updated default values handling to one liner",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-10-26T23:13:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 128,
+      "title": "Is it possible to implement for nodes to have more than 1 parent?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-08-03T18:06:13Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 127,
+      "title": "Prevent junctions",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-30T08:44:37Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 126,
+      "title": "More advanced demo?",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-16T11:27:39Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 125,
+      "title": "Block name change",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-07-14T14:39:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 124,
+      "title": "Output is Not define",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-24T10:36:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 123,
+      "title": "While update flow builder getting error",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-06-23T06:42:36Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 122,
+      "title": "Horizontal view or layout options",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-05-30T15:48:20Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 121,
+      "title": "Add async await on endDrag event",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-15T22:26:53Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 120,
+      "title": "Add async await on endDrag event",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-05-15T22:25:12Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 119,
+      "title": "Best practice to store the created diagram",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-03-29T10:28:42Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 118,
+      "title": "Error on removeSelection when no blocks exist",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-03-22T06:04:21Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 117,
+      "title": "How to add two more blocks automatically with existing block while drag the blocks?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-03-18T06:38:58Z",
+      "closed_at": "2021-09-02T09:19:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 116,
+      "title": "Empty the blocks array before importing.",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2021-03-06T22:09:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 115,
+      "title": "Bug: dragging repeatedly makes the arrows drift away from the block",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2021-01-28T21:40:39Z",
+      "closed_at": "2021-05-28T17:12:51Z",
+      "first_response_at": null
+    },
+    {
+      "number": 114,
+      "title": "more than one parent block ",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2021-01-13T21:50:35Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 113,
+      "title": "Target Block Parent In doneTouch Event ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-19T06:11:52Z",
+      "closed_at": "2020-12-30T12:40:08Z",
+      "first_response_at": null
+    },
+    {
+      "number": 112,
+      "title": "rearranging blocks on canvas disturbe style",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-16T11:11:00Z",
+      "closed_at": "2020-12-18T14:30:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 111,
+      "title": "Allow Snapping to have an empty return",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-12-13T00:44:56Z",
+      "closed_at": "2021-07-25T18:03:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 110,
+      "title": "how to add node programmatically ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-12-06T16:39:25Z",
+      "closed_at": "2021-01-13T15:16:03Z",
+      "first_response_at": null
+    },
+    {
+      "number": 109,
+      "title": "Plugin system proposal",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-12-01T13:12:04Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 108,
+      "title": "Use a versioning scheme to keep track of changes",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-20T15:57:28Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 107,
+      "title": "Conditional snap when move blocks inside canvas",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-10-13T19:35:42Z",
+      "closed_at": "2020-10-14T19:02:00Z",
+      "first_response_at": null
+    },
+    {
+      "number": 106,
+      "title": "Blocks containing <input> elements revert to default values on adding new blocks",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-13T15:30:07Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 105,
+      "title": "A cleaner version of the code",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-07T15:34:26Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 104,
+      "title": "Pure CSS3 Tree",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-10-06T13:46:08Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 103,
+      "title": "messed up look",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-09-24T06:54:16Z",
+      "closed_at": "2020-10-06T11:34:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 102,
+      "title": "Multiple parents, how to",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-25T23:19:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 101,
+      "title": "Display problem when importing a workflow saved on a screen with another resolution",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-22T08:27:35Z",
+      "closed_at": "2020-10-06T12:37:30Z",
+      "first_response_at": null
+    },
+    {
+      "number": 100,
+      "title": "import() method misbehaving",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-09T20:53:32Z",
+      "closed_at": "2020-10-06T12:38:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 99,
+      "title": "How can create custom arrows between blocks.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-08-08T04:46:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 98,
+      "title": "Collapsible side bar issue.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-06T16:43:01Z",
+      "closed_at": "2020-10-06T15:20:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 97,
+      "title": "Arrow centering issue ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-06T13:04:00Z",
+      "closed_at": "2020-10-06T15:24:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 96,
+      "title": "\"this\" property is undefined ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-06T12:16:27Z",
+      "closed_at": "2020-08-06T17:09:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 95,
+      "title": "Help With Alignment",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-08-04T16:24:01Z",
+      "closed_at": "2020-08-05T12:27:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 94,
+      "title": "Browser resolution import",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-30T18:41:33Z",
+      "closed_at": "2020-07-30T19:17:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 93,
+      "title": "Condition to check for existing snap",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-29T18:26:33Z",
+      "closed_at": "2020-07-29T18:37:45Z",
+      "first_response_at": null
+    },
+    {
+      "number": 92,
+      "title": "Question: Variable node height and arrows",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-29T17:13:10Z",
+      "closed_at": "2020-07-30T09:19:40Z",
+      "first_response_at": null
+    },
+    {
+      "number": 91,
+      "title": "Blocks misaligned after snap",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-29T14:50:33Z",
+      "closed_at": "2020-07-29T17:12:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 90,
+      "title": "Can we make canvas auto scrollable when block gets out of view while dragging",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-29T09:58:13Z",
+      "closed_at": "2020-07-29T11:05:22Z",
+      "first_response_at": null
+    },
+    {
+      "number": 89,
+      "title": "Large flowchart causes misalignment.",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-29T08:14:10Z",
+      "closed_at": "2020-07-29T08:32:56Z",
+      "first_response_at": null
+    },
+    {
+      "number": 88,
+      "title": "Conditional Snapping",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-23T11:16:24Z",
+      "closed_at": "2020-07-29T07:58:42Z",
+      "first_response_at": null
+    },
+    {
+      "number": 87,
+      "title": "Support ie",
+      "state": "open",
+      "is_pull_request": true,
+      "created_at": "2020-07-18T08:26:02Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 86,
+      "title": "Undo / Redo",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-15T19:14:08Z",
+      "closed_at": "2020-07-29T07:45:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 85,
+      "title": "Not able to drop element ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-07T06:34:37Z",
+      "closed_at": "2020-07-29T07:54:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 84,
+      "title": "Help For Import Data",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-05T11:37:51Z",
+      "closed_at": "2020-07-30T11:41:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 83,
+      "title": "Drag n drop not working in IE browser",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-04T12:39:20Z",
+      "closed_at": "2020-07-04T12:59:33Z",
+      "first_response_at": null
+    },
+    {
+      "number": 82,
+      "title": "Flowy not working in IE browser",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-07-04T09:49:03Z",
+      "closed_at": "2020-07-04T10:26:46Z",
+      "first_response_at": null
+    },
+    {
+      "number": 81,
+      "title": "Add ability to delete blocks one by one.",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-07-03T11:05:47Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 80,
+      "title": "in RTL does not work right",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-30T22:54:19Z",
+      "closed_at": "2020-07-05T11:37:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 79,
+      "title": "Dynamic vertical height and sub-element connectors",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-26T20:38:34Z",
+      "closed_at": "2020-07-04T13:06:44Z",
+      "first_response_at": null
+    },
+    {
+      "number": 78,
+      "title": "Can't attach rearrange event when move to new position ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-25T02:35:08Z",
+      "closed_at": "2020-07-29T07:59:02Z",
+      "first_response_at": null
+    },
+    {
+      "number": 77,
+      "title": "Browser resolution and object placement",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-18T14:45:56Z",
+      "closed_at": "2020-07-29T07:42:09Z",
+      "first_response_at": null
+    },
+    {
+      "number": 76,
+      "title": "Output/Import Error",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-17T23:03:58Z",
+      "closed_at": "2020-06-18T09:43:55Z",
+      "first_response_at": null
+    },
+    {
+      "number": 75,
+      "title": "Angular compatible? ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-06-08T14:14:33Z",
+      "closed_at": "2020-07-04T10:00:35Z",
+      "first_response_at": null
+    },
+    {
+      "number": 74,
+      "title": "On Snap method doesn't triggered with existing blocks",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-02T14:07:18Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 73,
+      "title": "Filter parent block",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-06-01T11:36:31Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 72,
+      "title": "Return to previous position on snap. ",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-29T10:47:37Z",
+      "closed_at": "2020-05-29T10:56:14Z",
+      "first_response_at": null
+    },
+    {
+      "number": 71,
+      "title": "Conditionals and finalising the process in one node are not allowed",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-27T11:19:36Z",
+      "closed_at": "2020-07-04T13:08:37Z",
+      "first_response_at": null
+    },
+    {
+      "number": 70,
+      "title": "onSnap triggering only when a new block is added to the canvas",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-18T11:56:28Z",
+      "closed_at": "2020-07-04T13:10:24Z",
+      "first_response_at": null
+    },
+    {
+      "number": 69,
+      "title": "Adding blocks programmatically",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-18T09:34:55Z",
+      "closed_at": "2020-05-29T10:56:49Z",
+      "first_response_at": null
+    },
+    {
+      "number": 68,
+      "title": "Formatted Version of Flowy.min",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-15T12:13:16Z",
+      "closed_at": "2020-05-15T23:25:59Z",
+      "first_response_at": null
+    },
+    {
+      "number": 67,
+      "title": "Changing block height",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-14T05:04:57Z",
+      "closed_at": "2020-06-09T14:40:47Z",
+      "first_response_at": null
+    },
+    {
+      "number": 65,
+      "title": "Delete block by Id, and disable snap on minor block move",
+      "state": "closed",
+      "is_pull_request": true,
+      "created_at": "2020-05-05T08:25:40Z",
+      "closed_at": "2024-02-20T10:34:12Z",
+      "first_response_at": null
+    },
+    {
+      "number": 64,
+      "title": "Any plans for conditional flow blocks?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-05-05T01:39:12Z",
+      "closed_at": "2020-05-15T23:20:16Z",
+      "first_response_at": null
+    },
+    {
+      "number": 63,
+      "title": "Add blocks without snap, and then join them as you want",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-30T12:21:25Z",
+      "closed_at": "2020-04-30T15:08:07Z",
+      "first_response_at": null
+    },
+    {
+      "number": 62,
+      "title": "Snap a block above the root block",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-30T12:20:18Z",
+      "closed_at": "2023-05-18T14:25:15Z",
+      "first_response_at": null
+    },
+    {
+      "number": 61,
+      "title": "Join multiple nodes to one",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-30T07:34:15Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 60,
+      "title": "Enhancement - Allow snapping of blocks by type",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-29T18:19:22Z",
+      "closed_at": "2020-05-15T23:42:43Z",
+      "first_response_at": null
+    },
+    {
+      "number": 59,
+      "title": "Prevent Drag on Click",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-29T08:48:54Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 58,
+      "title": "Insert a block between 2 existing blocks",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-24T16:42:44Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 57,
+      "title": "OnSnap trigger",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-24T15:41:41Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 56,
+      "title": "OnSnap not working properly",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-24T14:56:36Z",
+      "closed_at": "2020-04-24T15:06:34Z",
+      "first_response_at": null
+    },
+    {
+      "number": 55,
+      "title": "Console error at end of dragging action",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-22T12:48:57Z",
+      "closed_at": "2020-04-22T13:41:25Z",
+      "first_response_at": null
+    },
+    {
+      "number": 53,
+      "title": "Add a dedicated render method",
+      "state": "open",
+      "is_pull_request": false,
+      "created_at": "2020-04-20T16:12:43Z",
+      "closed_at": null,
+      "first_response_at": null
+    },
+    {
+      "number": 52,
+      "title": "how do the flowy use in the vue project?",
+      "state": "closed",
+      "is_pull_request": false,
+      "created_at": "2020-04-20T07:43:16Z",
+      "closed_at": "2020-04-20T12:06:25Z",
+      "first_response_at": null
+    }
+  ],
+  "contributors": [
+    {
+      "login": "alyssaxuu",
+      "contributions": 150
+    },
+    {
+      "login": "aelassas",
+      "contributions": 1
+    },
+    {
+      "login": "JoFont",
+      "contributions": 1
+    },
+    {
+      "login": "shikunx",
+      "contributions": 1
+    },
+    {
+      "login": "WebDevSimplified",
+      "contributions": 1
+    }
+  ],
+  "releases": [],
+  "collected_at": "2026-11-09T14:52:46.409737Z"
+}

@@ -1,0 +1,140 @@
+{
+  "full_name": "alyssaxuu/flowy",
+  "cause": "bus_factor_collapse",
+  "confidence": 0.99,
+  "death_score": 0.991,
+  "supporting_evidence": [
+    {
+      "analyzer": "commits",
+      "code": "last_commit_age",
+      "summary": "Last commit was 1591 days ago",
+      "severity": "high",
+      "value": 1591,
+      "unit": "days"
+    },
+    {
+      "analyzer": "issues",
+      "code": "no_responses",
+      "summary": "Issues exist but none received any response",
+      "severity": "high",
+      "value": null,
+      "unit": null
+    },
+    {
+      "analyzer": "contributors",
+      "code": "high_concentration",
+      "summary": "Top contributor authored 97% of work",
+      "severity": "medium",
+      "value": 0.974,
+      "unit": "share"
+    },
+    {
+      "analyzer": "releases",
+      "code": "no_releases",
+      "summary": "Project has never published a dated release",
+      "severity": "low",
+      "value": null,
+      "unit": null
+    },
+    {
+      "analyzer": "commits",
+      "code": "commit_frequency",
+      "summary": "Averaged 3.5 commits/month over history",
+      "severity": "info",
+      "value": 3.51,
+      "unit": "commits/month"
+    }
+  ],
+  "analyses": [
+    {
+      "analyzer": "commits",
+      "evidence": [
+        {
+          "analyzer": "commits",
+          "code": "last_commit_age",
+          "summary": "Last commit was 1591 days ago",
+          "severity": "high",
+          "value": 1591,
+          "unit": "days"
+        },
+        {
+          "analyzer": "commits",
+          "code": "commit_frequency",
+          "summary": "Averaged 3.5 commits/month over history",
+          "severity": "info",
+          "value": 3.51,
+          "unit": "commits/month"
+        }
+      ],
+      "metrics": {
+        "analyzer": "commits",
+        "metrics": {
+          "commit_count_window": 100.0,
+          "days_since_last_commit": 1591.3,
+          "commits_per_month": 3.51
+        }
+      }
+    },
+    {
+      "analyzer": "contributors",
+      "evidence": [
+        {
+          "analyzer": "contributors",
+          "code": "high_concentration",
+          "summary": "Top contributor authored 97% of work",
+          "severity": "medium",
+          "value": 0.974,
+          "unit": "share"
+        }
+      ],
+      "metrics": {
+        "analyzer": "contributors",
+        "metrics": {
+          "contributor_count": 5.0,
+          "total_contributions": 154.0,
+          "top_contributor_share": 0.974
+        }
+      }
+    },
+    {
+      "analyzer": "issues",
+      "evidence": [
+        {
+          "analyzer": "issues",
+          "code": "no_responses",
+          "summary": "Issues exist but none received any response",
+          "severity": "high",
+          "value": null,
+          "unit": null
+        }
+      ],
+      "metrics": {
+        "analyzer": "issues",
+        "metrics": {
+          "issue_count": 86.0,
+          "open_issue_count": 40.0
+        }
+      }
+    },
+    {
+      "analyzer": "releases",
+      "evidence": [
+        {
+          "analyzer": "releases",
+          "code": "no_releases",
+          "summary": "Project has never published a dated release",
+          "severity": "low",
+          "value": null,
+          "unit": null
+        }
+      ],
+      "metrics": {
+        "analyzer": "releases",
+        "metrics": {
+          "release_count": 0.0
+        }
+      }
+    }
+  ],
+  "narrative": null
+}
